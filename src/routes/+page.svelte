@@ -8,12 +8,12 @@
 </script>
 
 <svelte:head>
-	<title>visbot network</title>
+	<title>VISBOT NETWORK | visbot network</title>
 </svelte:head>
 
 <div class="font-mono lg:max-w-screen-lg bg-white sm:border-2 border-black dark:bg-neutral-900 dark:text-white p-4 my-0 sm:m-8 lg:mx-auto">
 	<nav class="font-semibold ">
-		<span>visbot network</span>
+		<span>VISBOT NETWORK</span>
 		<ul class="float-right">
 			<li class="inline-block">
 				<a href="https://twitter.com/visbot" class="hover:text-red-500 dark:hover:text-rose-400" title="Follow us on Twitter">
