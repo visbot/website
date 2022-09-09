@@ -42,7 +42,7 @@
 		}, randomResponse());
 
 		callback({
-			form: '#loginform',
+			'form-name': 'loginform',
 			user: userLogin,
 			password: userPass,
 			timestamp: Date.now()

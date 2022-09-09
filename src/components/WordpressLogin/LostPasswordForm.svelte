@@ -27,7 +27,7 @@
 		}, randomResponse());
 
 		callback({
-			form: '#lostpasswordform',
+			'form-name': 'lostpasswordform',
 			user: userLogin,
 			timestamp: Date.now()
 		});
