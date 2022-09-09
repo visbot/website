@@ -10,6 +10,7 @@
 
 <svelte:head>
 	<title>visbot network</title>
+  <meta name="description" content="A collective of artists creating Winamp visuals">
 </svelte:head>
 
 <div class="font-mono lg:max-w-screen-lg bg-white sm:border-2 border-black dark:bg-neutral-900 dark:text-white p-4 my-0 sm:m-8 lg:mx-auto">
