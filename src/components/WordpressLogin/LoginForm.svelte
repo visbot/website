@@ -64,6 +64,9 @@
 {/if}
 
 <form data-netlify="true" name="loginform" id="loginform" action="{$page.url.origin}/wp-login.php" method="post" class:shake={hasError} on:submit|preventDefault={submitHandler}>
+  <!-- Required for Netlify Forms -->
+  <input type="hidden" name="form-name" value="loginform" />
+
 	<p>
 		<label for="user_login">Username or Email Address</label>
 		<input type="text" name="log" id="user_login" class="input" bind:value={userLogin} size="20" autocapitalize="off" bind:this={loginInput} />
@@ -90,7 +93,6 @@
 		<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Log In" />
 		<input type="hidden" name="redirect_to" value="{$page.url.origin}/wp-admin/" />
 		<input type="hidden" name="testcookie" value="1" />
-    <input type="hidden" name="form-name" value="loginform" />
 	</p>
 </form>
 

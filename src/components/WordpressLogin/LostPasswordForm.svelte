@@ -1,3 +1,7 @@
+<script context="module">
+	export const prerender = true;
+</script>
+
 <script lang="ts">
 	import { callback } from '$lib/callback';
 	import { onMount } from 'svelte';
@@ -50,6 +54,9 @@
 {/if}
 
 <form data-netlify="true" name="lostpasswordform" id="lostpasswordform" action="{$page.url.origin}/wp-login.php?action=lostpassword" method="post" class:shake={hasError} on:submit|preventDefault={submitHandler}>
+  <!-- Required for Netlify Forms -->
+  <input type="hidden" name="form-name" value="lostpasswordform" />
+
 	<p>
 		<label for="user_login">Username or Email Address</label>
 		<input type="text" name="user_login" id="user_login" class="input" bind:value={userLogin} size="20" autocapitalize="off" bind:this={passwordInput} />
@@ -59,7 +66,6 @@
 
 	<p class="submit">
 		<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Get New Password" />
-    <input type="hidden" name="form-name" value="lostpasswordform" />
 	</p>
 </form>
 
