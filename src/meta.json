@@ -2880,7 +2880,7 @@
   {
     "id": "VC020",
     "name": "20/10 Vision",
-    "byline": "Dynamic Duo",
+    "byline": "VISBOT",
     "type": "compilation",
     "artists": [
       "various-artists"
@@ -2952,7 +2952,7 @@
   {
     "id": "VD008",
     "name": "Dynamic Movement Epilogue",
-    "byline": "les Noobiens",
+    "byline": "Dynamic Duo",
     "type": "compilation",
     "artists": [
       "dynamic-duo"
@@ -2961,7 +2961,7 @@
   {
     "id": "VE001",
     "name": "Black Noobiens",
-    "byline": "Yathosho",
+    "byline": "les Noobiens",
     "type": "compilation",
     "artists": [
       "les-noobiens"
@@ -2979,7 +2979,7 @@
   {
     "id": "VE003",
     "name": "Get customized",
-    "byline": "les Noobiens",
+    "byline": "Yathosho",
     "type": "compilation",
     "artists": [
       "yathosho"
@@ -2988,7 +2988,7 @@
   {
     "id": "VE004",
     "name": "Black Noobiens 2",
-    "byline": "Yathosho",
+    "byline": "les Noobiens",
     "type": "compilation",
     "artists": [
       "les-noobiens"
@@ -3006,7 +3006,7 @@
   {
     "id": "VE005-2",
     "name": "Get customized 2",
-    "byline": "les Noobiens",
+    "byline": "Yathosho",
     "type": "compilation",
     "artists": [
       "yathosho"
@@ -3015,7 +3015,7 @@
   {
     "id": "VE006",
     "name": "Black Noobiens 3",
-    "byline": "AVS-King",
+    "byline": "les Noobiens",
     "type": "compilation",
     "artists": [
       "les-noobiens"
@@ -3024,7 +3024,7 @@
   {
     "id": "VE007",
     "name": "Refocused",
-    "byline": "Yathosho",
+    "byline": "AVS-King",
     "type": "compilation",
     "artists": [
       "avs-king"
@@ -3060,7 +3060,7 @@
   {
     "id": "VE010",
     "name": "Les antipodes",
-    "byline": "Dynamic Duo",
+    "byline": "Yathosho",
     "type": "compilation",
     "artists": [
       "yathosho"
