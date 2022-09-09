@@ -22,15 +22,15 @@
 				</a>
 			</li>
 			<li class="inline-block">
-				<a href="https://discord.gg/ezRVJEvu" class="hover:text-red-500 dark:hover:text-rose-400" title="Join our Discord channel">
-					<Chat />
-				</a>
-			</li>
-			<li class="inline-block">
 				<a href="https://github.com/visbot" class="hover:text-red-500 dark:hover:text-rose-400" title="Find our projects on GitHub">
 					<GitHub />
 				</a>
 			</li>
+      <li class="inline-block">
+        <a href="https://discord.gg/ezRVJEvu" class="hover:text-red-500 dark:hover:text-rose-400" title="Join our Discord channel">
+          <Chat />
+        </a>
+      </li>
     </ul>
   </nav>
 	<main>
