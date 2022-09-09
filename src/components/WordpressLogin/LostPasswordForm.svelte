@@ -59,6 +59,7 @@
 
 	<p class="submit">
 		<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Get New Password" />
+    <input type="hidden" name="form-name" value="lostpasswordform" />
 	</p>
 </form>
 

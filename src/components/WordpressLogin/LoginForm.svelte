@@ -90,6 +90,7 @@
 		<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Log In" />
 		<input type="hidden" name="redirect_to" value="{$page.url.origin}/wp-admin/" />
 		<input type="hidden" name="testcookie" value="1" />
+    <input type="hidden" name="form-name" value="loginform" />
 	</p>
 </form>
 
