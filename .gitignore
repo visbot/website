@@ -1,0 +1,22 @@
+.DS_Store
+node_modules
+/build
+/.svelte-kit
+/package
+# .env
+# .env.*
+# !.env.example
+
+/.wordpress
+/static/wp-admin
+/static/wp-includes
+
+.eslintcache
+.stylelintcache
+
+.pnpm-debug.log
+package-lock.json
+yarn.lock
+
+# Local Netlify folder
+.netlify
