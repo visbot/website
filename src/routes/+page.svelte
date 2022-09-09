@@ -85,13 +85,12 @@
 
 	:global(body) {
 		background-color: #fff;
-		background-image: url('/tile@light.png');
+		background-image: url('/tile.png');
 	}
 
 	@media (prefers-color-scheme: dark) {
 		:global(body) {
-			/* background-color: #000; */
-			background-image: url('/tile@dark.png');
+			background-color: #414141;
 		}
 	}
 </style>
