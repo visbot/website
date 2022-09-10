@@ -3,6 +3,7 @@
 </script>
 
 <script lang="ts">
+  import '@lufrai/modern-css-reset';
   import { Chat, GitHub, Twitter } from '$components/Icon';
 	import { Section } from '$components/Section';
 	import metaData from '../meta.json';

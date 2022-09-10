@@ -16,6 +16,7 @@
     "start": "vite dev"
   },
   "devDependencies": {
+    "@lufrai/modern-css-reset": "^1.2.0",
     "@sveltejs/adapter-netlify": "1.0.0-next.76",
     "@sveltejs/adapter-static": "next",
     "@sveltejs/kit": "next",
