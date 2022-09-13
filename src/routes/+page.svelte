@@ -3,10 +3,10 @@
 </script>
 
 <script lang="ts">
-  import '@lufrai/modern-css-reset';
-  import { Chat, GitHub, Twitter } from '$components/Icon';
+	import '@lufrai/modern-css-reset';
+	import { Chat, GitHub, Twitter } from '$components/Icon';
 	import { Section } from '$components/Section';
-	import metaData from '../meta.json';
+	import { meta as store } from '$stores/meta';
 </script>
 
 <svelte:head>
@@ -39,7 +39,7 @@
 		<Section
 			title="Allstar Series"
 			heading="VALLSTAR"
-			data={metaData
+			data={$store
 				.filter((item) => item.id.startsWith('VA'))
 				.sort()
 				.reverse()}
@@ -47,7 +47,7 @@
 		<Section
 			title="Visbot Series"
 			heading="VBOT"
-			data={metaData
+			data={$store
 				.filter((item) => item.id.startsWith('VB'))
 				.sort()
 				.reverse()}
@@ -55,7 +55,7 @@
 		<Section
 			title="Compilation Series"
 			heading="VCOMPILATION"
-			data={metaData
+			data={$store
 				.filter((item) => item.id.startsWith('VC'))
 				.sort()
 				.reverse()}
@@ -63,7 +63,7 @@
 		<Section
 			title="Dynamic Movement Series"
 			heading="VDYNAMIC"
-			data={metaData
+			data={$store
 				.filter((item) => item.id.startsWith('VD'))
 				.sort()
 				.reverse()}
@@ -71,7 +71,7 @@
 		<Section
 			title="External Series"
 			heading="VEXTERNAL"
-			data={metaData
+			data={$store
 				.filter((item) => item.id.startsWith('VE'))
 				.sort()
 				.reverse()}
