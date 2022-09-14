@@ -2092,7 +2092,8 @@
 		"name": "Neon",
 		"byline": "Micro.D",
 		"type": "album",
-		"artists": ["micro-d"]
+		"artists": ["micro-d"],
+    "playlist": "PLD39033719BC1AF8D"
 	},
 	{
 		"id": "VB244",
