@@ -2029,7 +2029,8 @@
 		"name": "Effekthasch",
 		"byline": "Effekthasch",
 		"type": "album",
-		"artists": ["effekthasch"]
+		"artists": ["effekthasch"],
+    "playlist": "PL5962EA87E2F36A5E"
 	},
 	{
 		"id": "VB235",
