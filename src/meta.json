@@ -121,21 +121,24 @@
 		"name": "The Y Element",
 		"byline": "SKuPeRS",
 		"type": "album",
-		"artists": ["skupers"]
+		"artists": ["skupers"],
+    "playlist": "PLF3F77EC5A5D6B56C"
 	},
 	{
 		"id": "VB003-1",
 		"name": "RRX 7\"",
 		"byline": "SKuPeRS",
 		"type": "single",
-		"artists": ["skupers"]
+		"artists": ["skupers"],
+    "playlist": "PL6E085DD000144728"
 	},
 	{
 		"id": "VB003-2",
 		"name": "LP7",
 		"byline": "SKuPeRS",
 		"type": "album",
-		"artists": ["skupers"]
+		"artists": ["skupers"],
+    "playlist": "PL9889DEC6A2342E06"
 	},
 	{
 		"id": "VB004",
@@ -184,7 +187,8 @@
 		"name": "SIGHTS",
 		"byline": "NemoOrange",
 		"type": "album",
-		"artists": ["nemo-orange"]
+		"artists": ["nemo-orange"],
+    "playlist": "PL793DBE8F92AD909E"
 	},
 	{
 		"id": "VB009",
@@ -198,14 +202,16 @@
 		"name": "Broker's Insider Vol. 1",
 		"byline": "Yathosho",
 		"type": "compilation",
-		"artists": ["yathosho"]
+		"artists": ["yathosho"],
+    "playlist": "PL2B66D0894A9432CA"
 	},
 	{
 		"id": "VB011-1",
 		"name": "Version 2",
 		"byline": "Yathosho",
 		"artists": ["yathosho"],
-		"geoblock": ["jp"]
+		"geoblock": ["jp"],
+    "playlist": "PLA88256277BEBBD1D"
 	},
 	{
 		"id": "VB011-2",
@@ -219,7 +225,8 @@
 		"name": "Curvisms",
 		"byline": "SKuPeRS",
 		"type": "compilation",
-		"artists": ["skupers"]
+		"artists": ["skupers"],
+    "playlist": "PL9855B1AB865E8F36"
 	},
 	{
 		"id": "VB013",
@@ -240,28 +247,32 @@
 		"name": "Envision (Reissue)",
 		"byline": "Duo",
 		"type": "album",
-		"artists": ["duo"]
+		"artists": ["duo"],
+    "playlist": "PLC579FF95001278A0"
 	},
 	{
 		"id": "VB015-2",
 		"name": "Envision 2 (Reissue)",
 		"byline": "Duo",
 		"type": "album",
-		"artists": ["duo"]
+		"artists": ["duo"],
+    "playlist": "PL19AE009BDEE00228"
 	},
 	{
 		"id": "VB015-3",
 		"name": "Envision 3",
 		"byline": "Duo",
 		"type": "album",
-		"artists": ["duo"]
+		"artists": ["duo"],
+    "playlist": "PL041EDCD2DFA9E4F5"
 	},
 	{
 		"id": "VB016",
 		"name": "govisbotgo",
 		"byline": "NemoOrange",
 		"type": "single",
-		"artists": ["nemo-orange"]
+		"artists": ["nemo-orange"],
+    "playlist": "PL0D4A6DF8E95DC940"
 	},
 	{
 		"id": "VB017-1",
@@ -289,7 +300,8 @@
 		"name": "Oldskul",
 		"byline": "Alt III",
 		"type": "album",
-		"artists": ["alt-iii"]
+		"artists": ["alt-iii"],
+    "playlist": "PL6FA78443C6064A96"
 	},
 	{
 		"id": "VB020-1",
@@ -324,7 +336,8 @@
 		"name": "Broker's Insider Vol. 2",
 		"byline": "Yathosho",
 		"type": "compilation",
-		"artists": ["yathosho"]
+		"artists": ["yathosho"],
+    "playlist": "PLAC0D46F45D48D80E"
 	},
 	{
 		"id": "VB023",
@@ -373,7 +386,8 @@
 		"name": "Visions II",
 		"byline": "Zamuz",
 		"type": "album",
-		"artists": ["zamuz"]
+		"artists": ["zamuz"],
+    "playlist": "PL27DCD248A378C7A7"
 	},
 	{
 		"id": "VB029-1",
@@ -387,28 +401,32 @@
 		"name": "LP8: Ætherius",
 		"byline": "SKuPeRS",
 		"type": "album",
-		"artists": ["skupers"]
+		"artists": ["skupers"],
+    "playlist": "PLF1857F7583C83C68"
 	},
 	{
 		"id": "VB030",
 		"name": "Revisions",
 		"byline": "Zamuz",
 		"type": "album",
-		"artists": ["zamuz"]
+		"artists": ["zamuz"],
+    "playlist": "PL8D25676FEC29BF36"
 	},
 	{
 		"id": "VB031",
 		"name": "Co-op Session 01",
 		"byline": "SKuPeRS / Amphirion",
 		"type": "single",
-		"artists": ["skupers", "amphirion"]
+		"artists": ["skupers", "amphirion"],
+    "playlist": "PLAC06315A88ACD95E"
 	},
 	{
 		"id": "VB032",
 		"name": "Noobism",
 		"byline": "les Noobiens",
 		"type": "album",
-		"artists": ["les-noobiens"]
+		"artists": ["les-noobiens"],
+    "playlist": "PL7F72931BEBFF8904"
 	},
 	{
 		"id": "VB033-1",
@@ -422,14 +440,16 @@
 		"name": "Since T(h)en",
 		"byline": "Yathosho",
 		"type": "album",
-		"artists": ["yathosho"]
+		"artists": ["yathosho"],
+    "playlist": "PLEE305E81D573DB38"
 	},
 	{
 		"id": "VB034",
 		"name": "Co-op Session 02",
 		"byline": "Yathosho / Zamuz",
 		"type": "single",
-		"artists": ["yathosho", "zamuz"]
+		"artists": ["yathosho", "zamuz"],
+    "playlist": "PL015291BF11F3E63F"
 	},
 	{
 		"id": "VB035-1",
@@ -465,14 +485,16 @@
 		"name": "Co-op Session 03",
 		"byline": "les Noobiens / UnConeD",
 		"type": "single",
-		"artists": ["les-noobiens", "unconed"]
+		"artists": ["les-noobiens", "unconed"],
+    "playlist": "PLDDC72FFB6F8FA06A"
 	},
 	{
 		"id": "VB039",
 		"name": "Relax",
 		"byline": "NemoOrange",
 		"type": "single",
-		"artists": ["nemo-orange"]
+		"artists": ["nemo-orange"],
+    "playlist": "PL1A3AB47B0554AE68"
 	},
 	{
 		"id": "VB040-1",
@@ -486,14 +508,16 @@
 		"name": "Broker's Insider Vol. 3",
 		"byline": "Yathosho",
 		"type": "compilation",
-		"artists": ["yathosho"]
+		"artists": ["yathosho"],
+    "playlist": "PL6EFCB52BF012EDE8"
 	},
 	{
 		"id": "VB041",
 		"name": "Visions III",
 		"byline": "Zamuz",
 		"type": "album",
-		"artists": ["zamuz"]
+		"artists": ["zamuz"],
+    "playlist": "PL7743BBDFB07241C5"
 	},
 	{
 		"id": "VB042",
@@ -530,7 +554,8 @@
 		"name": "Lighthology III",
 		"byline": "NemoOrange",
 		"type": "single",
-		"artists": ["nemo-orange"]
+		"artists": ["nemo-orange"],
+    "playlist": "PL0865054E50BCFF17"
 	},
 	{
 		"id": "VB047",
@@ -544,21 +569,24 @@
 		"name": "Co-op Session 04",
 		"byline": "Dynamic Duo / Finnish Flash",
 		"type": "single",
-		"artists": ["dynamic-duo", "finnish-flash"]
+		"artists": ["dynamic-duo", "finnish-flash"],
+    "playlist": "PL511BFC1BF987FE2C"
 	},
 	{
 		"id": "VB049",
 		"name": "New People Selection Vol. 1",
 		"byline": "Various Artists",
 		"type": "compilation",
-		"artists": ["various-artists"]
+		"artists": ["various-artists"],
+    "playlist": "PL0A94045FC89E0849"
 	},
 	{
 		"id": "VB050",
 		"name": "msibooN",
 		"byline": "les Noobiens",
 		"type": "album",
-		"artists": ["les-noobiens"]
+		"artists": ["les-noobiens"],
+    "playlist": "PL92A78B13109BBE10"
 	},
 	{
 		"id": "VB051",
@@ -586,14 +614,16 @@
 		"name": "Brokenframe Revisited",
 		"byline": "Yathosho",
 		"type": "album",
-		"artists": ["yathosho"]
+		"artists": ["yathosho"],
+    "playlist": "PLBA0327BE4727FBA9"
 	},
 	{
 		"id": "VB054",
 		"name": "Broker's Insider Vol. 4",
 		"byline": "Dynamic Duo",
 		"type": "compilation",
-		"artists": ["yathosho"]
+		"artists": ["yathosho"],
+    "playlist": "PLCCEA159ACDD15525"
 	},
 	{
 		"id": "VB055",
@@ -614,14 +644,16 @@
 		"name": "The Unreleases",
 		"byline": "Yathosho",
 		"type": "compilation",
-		"artists": ["yathosho"]
+		"artists": ["yathosho"],
+    "playlist": "PLC0A75E597F2C306A"
 	},
 	{
 		"id": "VB058",
 		"name": "Co-op Session 05",
 		"byline": "Zamuz / Hboy",
 		"type": "single",
-		"artists": ["zamuz", "hboy"]
+		"artists": ["zamuz", "hboy"],
+    "playlist": "PL4A56834A97CD756B"
 	},
 	{
 		"id": "VB059",
@@ -643,7 +675,8 @@
 		"name": "New People Selection Vol. 2",
 		"byline": "Various Artists",
 		"type": "compilation",
-		"artists": ["various-artists"]
+		"artists": ["various-artists"],
+    "playlist": "PL0F34C65B16EE2F78"
 	},
 	{
 		"id": "VB062",
@@ -692,21 +725,24 @@
 		"name": "Scenery",
 		"byline": "NemoOrange",
 		"type": "album",
-		"artists": ["nemo-orange"]
+		"artists": ["nemo-orange"],
+    "playlist": "PLF03EB0AE34825157"
 	},
 	{
 		"id": "VB068-1",
 		"name": "Visions 4",
 		"byline": "Zamuz",
 		"type": "album",
-		"artists": ["zamuz"]
+		"artists": ["zamuz"],
+    "playlist": "PL9A18DB187CE0DE9A"
 	},
 	{
 		"id": "VB068-2",
 		"name": "Revisions 2",
 		"byline": "Zamuz",
 		"type": "album",
-		"artists": ["zamuz"]
+		"artists": ["zamuz"],
+    "playlist": "PL94F70C8B5945C85B"
 	},
 	{
 		"id": "VB069",
@@ -748,7 +784,8 @@
 		"name": "In Treatment",
 		"byline": "Yathosho",
 		"type": "compilation",
-		"artists": ["yathosho"]
+		"artists": ["yathosho"],
+    "playlist": "PLCE88E4919654FA98"
 	},
 	{
 		"id": "VB074-1",
@@ -769,7 +806,8 @@
 		"name": "Co-op Session 06",
 		"byline": "NemoOrange / Unripe Lemon",
 		"type": "single",
-		"artists": ["nemo-orange", "unripe-lemon"]
+		"artists": ["nemo-orange", "unripe-lemon"],
+    "playlist": "PLB0575E975ED37E29"
 	},
 	{
 		"id": "VB076-1",
@@ -783,14 +821,16 @@
 		"name": "Love your Noobiens",
 		"byline": "les Noobiens",
 		"type": "album",
-		"artists": ["les-noobiens"]
+		"artists": ["les-noobiens"],
+    "playlist": "PL1B1AD0C0F8979DA0"
 	},
 	{
 		"id": "VB077",
 		"name": "Co-op Session 07",
 		"byline": "Yathosho / Synth-C",
 		"type": "single",
-		"artists": ["yathosho", "synth-c"]
+		"artists": ["yathosho", "synth-c"],
+    "playlist": "PL64FF2C72EC037623"
 	},
 	{
 		"id": "VB078",
@@ -819,7 +859,8 @@
 		"name": "Co-op Session 08",
 		"byline": "Danaughty1 / Hboy",
 		"type": "single",
-		"artists": ["danaughty1", "hboy"]
+		"artists": ["danaughty1", "hboy"],
+    "playlist": "PLD4C2F85A1B8B2D7B"
 	},
 	{
 		"id": "VB081-1",
@@ -833,7 +874,8 @@
 		"name": "Shake your Noobiens",
 		"byline": "les Noobiens",
 		"type": "album",
-		"artists": ["les-noobiens"]
+		"artists": ["les-noobiens"],
+    "playlist": "PL3E066DFCC4855462"
 	},
 	{
 		"id": "VB082",
@@ -863,7 +905,8 @@
 		"name": "New People Selection Vol. 3",
 		"byline": "Various Artists",
 		"type": "compilation",
-		"artists": ["various-artists"]
+		"artists": ["various-artists"],
+    "playlist": "PLFE19E12F58C82849"
 	},
 	{
 		"id": "VB086",
@@ -900,14 +943,16 @@
 		"name": "DDrmx",
 		"byline": "Dynamic Duo",
 		"type": "album",
-		"artists": ["dynamic-duo"]
+		"artists": ["dynamic-duo"],
+    "playlist": "PLCA0C39FE6651B1AB"
 	},
 	{
 		"id": "VB091",
 		"name": "Kerygma",
 		"byline": "Frames of Reality",
 		"type": "album",
-		"artists": ["frames-of-reality"]
+		"artists": ["frames-of-reality"],
+    "playlist": "PLDCA5FE48765A183A"
 	},
 	{
 		"id": "VB092",
@@ -943,7 +988,8 @@
 		"name": "Co-op Session 09",
 		"byline": "Duo / Yathosho",
 		"type": "single",
-		"artists": ["duo"]
+		"artists": ["duo", "yathosho"],
+    "playlist": "PL3FD3FCAC3B757DAC"
 	},
 	{
 		"id": "VB096",
@@ -972,35 +1018,40 @@
 		"name": "U Been Naughty",
 		"byline": "Danaughty1",
 		"type": "album",
-		"artists": ["danaughty1"]
+		"artists": ["danaughty1"],
+    "playlist": "PL03D542030234FDAD"
 	},
 	{
 		"id": "VB100",
 		"name": "VISBOT 100",
 		"byline": "Various Artists",
 		"type": "compilation",
-		"artists": ["various-artists"]
+		"artists": ["various-artists"],
+    "playlist": "PLD09AE2F053071854"
 	},
 	{
 		"id": "VB101",
 		"name": "The Great Escape",
 		"byline": "Yathosho",
 		"type": "album",
-		"artists": ["yathosho"]
+		"artists": ["yathosho"],
+    "playlist": "PLF452BAF6A70A45A2"
 	},
 	{
 		"id": "VB102",
 		"name": "Incipience III",
 		"byline": "Amphirion",
 		"type": "album",
-		"artists": ["amphirion"]
+		"artists": ["amphirion"],
+    "playlist": "PL93081F8A1D370A38"
 	},
 	{
 		"id": "VB103",
 		"name": "Exegesis",
 		"byline": "Frames of Reality",
 		"type": "album",
-		"artists": ["frames-of-reality"]
+		"artists": ["frames-of-reality"],
+    "playlist": "PL9258F95F32AA6EED"
 	},
 	{
 		"id": "VB104",
@@ -1014,14 +1065,16 @@
 		"name": "Visions 5",
 		"byline": "Zamuz",
 		"type": "album",
-		"artists": ["zamuz"]
+		"artists": ["zamuz"],
+    "playlist": "PL67AFC49A9DA315C9"
 	},
 	{
 		"id": "VB106",
 		"name": "Co-op Session 10",
 		"byline": "Amphirion / Vanish",
 		"type": "single",
-		"artists": ["amphirion", "vanish"]
+		"artists": ["amphirion", "vanish"],
+    "playlist": "PL323E372CBC499F13"
 	},
 	{
 		"id": "VB107",
@@ -1049,7 +1102,8 @@
 		"name": "Entertainment for the Blind",
 		"byline": "Frames of Reality",
 		"type": "album",
-		"artists": ["frames-of-reality"]
+		"artists": ["frames-of-reality"],
+    "playlist": "PL7CF5B97D9E75DC2D"
 	},
 	{
 		"id": "VB111",
@@ -1063,7 +1117,8 @@
 		"name": "Mindscapes",
 		"byline": "Hboy",
 		"type": "album",
-		"artists": ["hboy"]
+		"artists": ["hboy"],
+    "playlist": "PL50B694740780157A"
 	},
 	{
 		"id": "VB113",
@@ -1092,7 +1147,8 @@
 		"name": "Lift-Off",
 		"byline": "Synth-C",
 		"type": "album",
-		"artists": ["yathosho"]
+		"artists": ["yathosho"],
+    "playlist": "PL458E7B43045A4D42"
 	},
 	{
 		"id": "VB117-1",
@@ -1127,7 +1183,8 @@
 		"name": "Co-op Session 11",
 		"byline": "Frames of Reality / ^..^",
 		"type": "single",
-		"artists": ["frames-of-reality"]
+		"artists": ["frames-of-reality"],
+    "playlist": "PL53FACC76F10AED15"
 	},
 	{
 		"id": "VB120-1",
@@ -1141,7 +1198,8 @@
 		"name": "In Treatment 2",
 		"byline": "Yathosho",
 		"type": "compilation",
-		"artists": ["yathosho"]
+		"artists": ["yathosho"],
+    "playlist": "PLF463D07D2A21C7B0"
 	},
 	{
 		"id": "VB121",
@@ -1155,7 +1213,8 @@
 		"name": "Remix Collection",
 		"byline": "Zamuz",
 		"type": "compilation",
-		"artists": ["zamuz"]
+		"artists": ["zamuz"],
+    "playlist": "PL9F809501720CEE4C"
 	},
 	{
 		"id": "VB123",
@@ -1170,7 +1229,8 @@
 		"name": "The D.S.E. Remixes",
 		"byline": "Vanish",
 		"type": "compilation",
-		"artists": ["vanish"]
+		"artists": ["vanish"],
+    "playlist": "PLD68A1D99C047289D"
 	},
 	{
 		"id": "VB125",
@@ -1185,8 +1245,9 @@
 		"name": "Soy Bomb",
 		"byline": "Frames of Reality",
 		"type": "album",
-		"artists": ["frames-of-reality"]
-	},
+		"artists": ["frames-of-reality"],
+    "playlist": "PL37BE6A3CD6D52143"
+ 	},
 	{
 		"id": "VB126-2",
 		"name": "Triad",
@@ -1234,21 +1295,24 @@
 		"name": "New People Selection Vol. 4",
 		"byline": "Various Artists",
 		"type": "compilation",
-		"artists": ["various-artists"]
+		"artists": ["various-artists"],
+    "playlist": "PL9FDA29BB5BAD7A49"
 	},
 	{
 		"id": "VB133",
 		"name": "Visualove",
 		"byline": "Hboy",
 		"type": "album",
-		"artists": ["hboy"]
+		"artists": ["hboy"],
+    "playlist": "PLF51D7D2A0B7438BA"
 	},
 	{
 		"id": "VB134-1",
 		"name": "Sight/Difference",
 		"byline": "Frames of Reality",
 		"type": "album",
-		"artists": ["frames-of-reality"]
+		"artists": ["frames-of-reality"],
+    "playlist": "PLA099B366347F4C01"
 	},
 	{
 		"id": "VB134-2",
@@ -1340,7 +1404,8 @@
 		"name": "New People Selection Vol. 5",
 		"byline": "Various Artists",
 		"type": "compilation",
-		"artists": ["various-artists"]
+		"artists": ["various-artists"],
+    "playlist": "PL71055D2FCBB93FE1"
 	},
 	{
 		"id": "VB147",
@@ -1354,14 +1419,16 @@
 		"name": "Dynamic Art",
 		"byline": "JaVS",
 		"type": "album",
-		"artists": ["javs"]
+		"artists": ["javs"],
+    "playlist": "PL0C8D41D8ADD8BAC4"
 	},
 	{
 		"id": "VB149",
 		"name": "Destroit MI",
 		"byline": "PAN AM",
 		"type": "album",
-		"artists": ["pan-am"]
+		"artists": ["pan-am"],
+    "playlist": "PLB70B35975BFC1A86"
 	},
 	{
 		"id": "VB150-1",
@@ -1405,7 +1472,8 @@
 		"name": "Tentaclism",
 		"byline": "Dynamic Duo",
 		"type": "compilation",
-		"artists": ["dynamic-duo"]
+		"artists": ["dynamic-duo"],
+    "playlist": "PLDDD7800D4D598519"
 	},
 	{
 		"id": "VB155",
@@ -1419,21 +1487,24 @@
 		"name": "Visions VI",
 		"byline": "Zamuz",
 		"type": "compilation",
-		"artists": ["zamuz"]
+		"artists": ["zamuz"],
+    "playlist": "PLB4EC00FDD649ABEF"
 	},
 	{
 		"id": "VB157",
 		"name": "Golden Ai(é)r",
 		"byline": "Frames of Reality",
 		"type": "album",
-		"artists": ["frames-of-reality"]
+		"artists": ["frames-of-reality"],
+    "playlist": "PL58AC6273BE597575"
 	},
 	{
 		"id": "VB158",
 		"name": "Co-op Session 12",
 		"byline": "Yathosho / Grandchild",
 		"type": "single",
-		"artists": ["yathosho", "grandchild"]
+		"artists": ["yathosho", "grandchild"],
+    "playlist": "PLEDF0F3AC1CE39BE7"
 	},
 	{
 		"id": "VB159",
@@ -1454,7 +1525,8 @@
 		"name": "Modus Operandi",
 		"byline": "Yathosho",
 		"type": "compilation",
-		"artists": ["yathosho"]
+		"artists": ["yathosho"],
+    "playlist": "PL2D30604F84B06D97"
 	},
 	{
 		"id": "VB162",
@@ -1475,7 +1547,8 @@
 		"name": "re-Optimized",
 		"byline": "JaVS",
 		"type": "album",
-		"artists": ["javs"]
+		"artists": ["javs"],
+    "playlist": "PL186B0706F8CE42C0"
 	},
 	{
 		"id": "VB165",
@@ -1526,7 +1599,8 @@
 		"name": "In Treatment 2.5",
 		"byline": "Yathosho",
 		"type": "compilation",
-		"artists": ["yathosho"]
+		"artists": ["yathosho"],
+    "playlist": "PLC48C2B160D61246A"
 	},
 	{
 		"id": "VB172",
@@ -1570,14 +1644,16 @@
 		"name": "Co-op Session 13",
 		"byline": "Dynamic Duo / Onionring",
 		"type": "single",
-		"artists": ["dynamic duo", "onionring"]
+		"artists": ["dynamic duo", "onionring"],
+    "playlist": "PL28C90C4308544A42"
 	},
 	{
 		"id": "VB178",
 		"name": "He Said, She Said",
 		"byline": "Onionring",
 		"type": "album",
-		"artists": ["onionring"]
+		"artists": ["onionring"],
+    "playlist": "PL911B20CC2B3C01B8"
 	},
 	{
 		"id": "VB179",
@@ -1606,7 +1682,8 @@
 		"name": "Modus Operandi 2",
 		"byline": "Yathosho",
 		"type": "compilation",
-		"artists": ["yathosho"]
+		"artists": ["yathosho"],
+    "playlist": "PL54774A5317C1BE6C"
 	},
 	{
 		"id": "VB182-1",
@@ -1627,21 +1704,24 @@
 		"name": "Einzelstücke",
 		"byline": "Yathosho",
 		"type": "compilation",
-		"artists": ["yathosho"]
+		"artists": ["yathosho"],
+    "playlist": "PL59D57D519813D45A"
 	},
 	{
 		"id": "VB184",
 		"name": "Sing. Less retro. Spectate",
 		"byline": "Vanish",
 		"type": "album",
-		"artists": ["vanish"]
+		"artists": ["vanish"],
+    "playlist": "PL0E30C5ED57BB7A2F"
 	},
 	{
 		"id": "VB185",
 		"name": "Anotherversion Deux",
 		"byline": "Anotherversion",
 		"type": "compilation",
-		"artists": ["anotherversion"]
+		"artists": ["anotherversion"],
+    "playlist": "PLC7A63DADE46E149C"
 	},
 	{
 		"id": "VB186",
@@ -1677,7 +1757,8 @@
 		"name": "Nubtroopiii",
 		"byline": "PAN AM & les Noobiens",
 		"type": "compilation",
-		"artists": ["pan-am", "les-noobiens"]
+		"artists": ["pan-am", "les-noobiens"],
+    "playlist": "PL31249E6CB6E8500A"
 	},
 	{
 		"id": "VB191",
@@ -1691,21 +1772,24 @@
 		"name": "Tentacliism",
 		"byline": "Dynamic Duo",
 		"type": "compilation",
-		"artists": ["dynamic-duo"]
+		"artists": ["dynamic-duo"],
+    "playlist": "PLB13504DD2BB27AF9"
 	},
 	{
 		"id": "VB193",
 		"name": "Co-op Session 14",
 		"byline": "Synth-C / Zamuz",
 		"type": "single",
-		"artists": ["synth-c", "zamuz"]
+		"artists": ["synth-c", "zamuz"],
+    "playlist": "PLE11D948656921482"
 	},
 	{
 		"id": "VB194",
 		"name": "New People Selection Vol. 6",
 		"byline": "Various Artists",
 		"type": "compilation",
-		"artists": ["various-artists"]
+		"artists": ["various-artists"],
+    "playlist": "PL4CFE0FA2ACF94256"
 	},
 	{
 		"id": "VB195",
@@ -1720,7 +1804,8 @@
 		"name": "Screw Drew",
 		"byline": "Drew",
 		"type": "compilation",
-		"artists": ["drew"]
+		"artists": ["drew"],
+    "playlist": "PL4A141453A4F5199C"
 	},
 	{
 		"id": "VB197",
@@ -1761,14 +1846,16 @@
 		"name": "Brokenframe 6ix",
 		"byline": "Yathosho",
 		"type": "album",
-		"artists": ["yathosho"]
+		"artists": ["yathosho"],
+    "playlist": "PLB9801786A425E718"
 	},
 	{
 		"id": "VB202",
 		"name": "Dynamix",
 		"byline": "Dynamic Duo",
 		"type": "album",
-		"artists": ["dynamic-duo"]
+		"artists": ["dynamic-duo"],
+    "playlist": "PLB9D93876A3F1EC7C"
 	},
 	{
 		"id": "VB203",
@@ -1782,7 +1869,8 @@
 		"name": "Fakes",
 		"byline": "Yathosho",
 		"type": "album",
-		"artists": ["yathosho"]
+		"artists": ["yathosho"],
+    "playlist": "PL4EE9E10E918B95D7"
 	},
 	{
 		"id": "VB205",
@@ -1852,14 +1940,16 @@
 		"name": "R2",
 		"byline": "Dynamic Duo",
 		"type": "compilation",
-		"artists": ["dynamic-duo"]
+		"artists": ["dynamic-duo"],
+    "playlist": "PL96E9E5718D4979E3"
 	},
 	{
 		"id": "VB213",
 		"name": "Modus Operandi 3",
 		"byline": "Yathosho",
 		"type": "compilation",
-		"artists": ["yathosho"]
+		"artists": ["yathosho"],
+    "playlist": "PLAF1275CF0D742DAE"
 	},
 	{
 		"id": "VB214",
@@ -1888,21 +1978,24 @@
 		"name": "Remixed",
 		"byline": "Yathosho",
 		"type": "album",
-		"artists": ["yathosho"]
+		"artists": ["yathosho"],
+    "playlist": "PLEC695D92EE5BEF2A"
 	},
 	{
 		"id": "VB217",
 		"name": "Co-op Session 15",
 		"byline": "Amphirion / Micro.D",
 		"type": "single",
-		"artists": ["amphirion", "micro-d"]
+		"artists": ["amphirion", "micro-d"],
+    "playlist": "PLBBE4BAECBC9D618B"
 	},
 	{
 		"id": "VB218",
 		"name": "The Eight Ronin",
 		"byline": "Various Artists",
 		"type": "single",
-		"artists": ["various-artists"]
+		"artists": ["various-artists"],
+    "playlist": "PL25A67F365B3397C5"
 	},
 	{
 		"id": "VB219-1",
@@ -1916,14 +2009,16 @@
 		"name": "Recapture",
 		"byline": "Frames of Reality",
 		"type": "album",
-		"artists": ["frames-of-reality"]
+		"artists": ["frames-of-reality"],
+    "playlist": "PL148863C80AE8AAD8"
 	},
 	{
 		"id": "VB220",
 		"name": "U.G.L.Y.",
 		"byline": "Yathosho",
 		"type": "compilation",
-		"artists": ["yathosho"]
+		"artists": ["yathosho"],
+    "playlist": "PL7073FBE9AE1828AB"
 	},
 	{
 		"id": "VB221",
@@ -1944,7 +2039,8 @@
 		"name": "Final Cut",
 		"byline": "Yathosho",
 		"type": "album",
-		"artists": ["yathosho"]
+		"artists": ["yathosho"],
+    "playlist": "PLEA56855A233740D7"
 	},
 	{
 		"id": "VB223",
@@ -1966,7 +2062,8 @@
 		"name": "Argon",
 		"byline": "Micro.D",
 		"type": "album",
-		"artists": ["micro-d"]
+		"artists": ["micro-d"],
+    "playlist":"PL4CDE00B660BA8182"
 	},
 	{
 		"id": "VB226",
