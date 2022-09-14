@@ -45,7 +45,7 @@
   },
   "lint-staged": {
     "*.svelte": "prettier --write --plugin-search-dir=. --plugin=prettier-plugin-tailwindcss ./src/**/*.svelte",
-    "*.(ts|js|json)": [
+    "*.(ts|js)": [
       "eslint --cache --fix",
       "prettier --write"
     ],
