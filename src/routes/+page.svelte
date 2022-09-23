@@ -5,7 +5,7 @@
 <script lang="ts">
 	import '@lufrai/modern-css-reset';
 	import { Chat, GitHub, Twitter } from '$components/Icon';
-	import { Section } from '$components/Section';
+	import { ReleaseSection } from '$components/ReleaseSection';
 	import { meta as store } from '$stores/meta';
 </script>
 
@@ -36,7 +36,7 @@
     </ul>
   </nav>
 	<main>
-		<Section
+		<ReleaseSection
 			title="Allstar Series"
 			heading="VALLSTAR"
 			data={$store
@@ -44,7 +44,7 @@
 				.sort()
 				.reverse()}
 		/>
-		<Section
+		<ReleaseSection
 			title="Visbot Series"
 			heading="VBOT"
 			data={$store
@@ -52,7 +52,7 @@
 				.sort()
 				.reverse()}
 		/>
-		<Section
+		<ReleaseSection
 			title="Compilation Series"
 			heading="VCOMPILATION"
 			data={$store
@@ -60,7 +60,7 @@
 				.sort()
 				.reverse()}
 		/>
-		<Section
+		<ReleaseSection
 			title="Dynamic Movement Series"
 			heading="VDYNAMIC"
 			data={$store
@@ -68,7 +68,7 @@
 				.sort()
 				.reverse()}
 		/>
-		<Section
+		<ReleaseSection
 			title="External Series"
 			heading="VEXTERNAL"
 			data={$store

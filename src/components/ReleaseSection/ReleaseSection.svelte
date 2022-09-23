@@ -1,5 +1,5 @@
 <script lang="ts">
-	import { List } from '$components/List';
+	import { ReleaseList } from '$components/ReleaseList';
 
 	export let title;
 	export let heading;
@@ -8,5 +8,5 @@
 
 <section>
 	<h1 class="font-semibold mt-8 mb-2" {title}>{heading}</h1>
-	<List {data} />
+	<ReleaseList {data} />
 </section>

@@ -2,7 +2,7 @@
 	export let data;
 </script>
 
-<ul>
+<ol>
 	{#each data as release}
 		<li class="flex space-x-4">
 			<div class="inline-block md:block">{release.id.toLowerCase()}</div>
@@ -14,7 +14,7 @@
 			</div>
 		</li>
 	{/each}
-</ul>
+</ol>
 
 <style>
 	.divider {
