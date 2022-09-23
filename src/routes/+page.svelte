@@ -4,8 +4,8 @@
 
 <script lang="ts">
 	import '@lufrai/modern-css-reset';
-	import { Nav } from '$components/Main';
-	import { Main } from '$components/Nav';
+	import { Nav } from '$components/Nav';
+	import { Main } from '$components/Main';
 </script>
 
 <svelte:head>
