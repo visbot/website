@@ -14,8 +14,8 @@
   <meta name="description" content="A collective of artists creating Winamp visuals">
 </svelte:head>
 
-<div class="font-mono lg:max-w-screen-lg bg-white sm:border-2 border-black dark:bg-neutral-900 dark:text-white p-4 my-0 sm:m-8 lg:mx-auto">
-	<nav class="font-semibold ">
+<div class="font-mono lg:max-w-screen-lg lg:mx-auto sm:p-4">
+	<nav class="font-semibold bg-white sm:border-2 border-black dark:bg-neutral-900 dark:text-white p-4 my-0 sm:mb-4">
 		<span>VISBOT NETWORK</span>
 		<ul class="float-right">
 			<li class="inline-block">
@@ -35,7 +35,8 @@
       </li>
     </ul>
   </nav>
-	<main>
+
+	<main class="bg-white sm:border-2 border-black dark:bg-neutral-900 dark:text-white p-4 my-0">
 		<ReleaseSection
 			title="Allstar Series"
 			heading="VALLSTAR"
