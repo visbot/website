@@ -6,17 +6,17 @@
   <span>VISBOT NETWORK</span>
   <ul class="float-right">
     <li class="inline-block">
-      <a href="https://twitter.com/visbot" class="hover:text-red-500 dark:hover:text-rose-400" title="Follow us on Twitter">
+      <a href="https://twitter.com/visbot" class="hover:text-red-500 dark:hover:text-rose-400" title="Follow us on Twitter" target="_blank">
         <Twitter />
       </a>
     </li>
     <li class="inline-block">
-      <a href="https://github.com/visbot" class="hover:text-red-500 dark:hover:text-rose-400" title="Find our projects on GitHub">
+      <a href="https://github.com/visbot" class="hover:text-red-500 dark:hover:text-rose-400" title="Find our projects on GitHub" target="_blank">
         <GitHub />
       </a>
     </li>
     <li class="inline-block">
-      <a href="https://discord.gg/ezRVJEvu" class="hover:text-red-500 dark:hover:text-rose-400" title="Join our Discord channel">
+      <a href="https://discord.gg/ezRVJEvu" class="hover:text-red-500 dark:hover:text-rose-400" title="Join our Discord channel" target="_blank">
         <Chat />
       </a>
     </li>
