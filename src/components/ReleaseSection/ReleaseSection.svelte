@@ -6,7 +6,9 @@
 	export let data;
 </script>
 
-<section>
-	<h1 class="font-semibold mt-8 mb-2" {title}>{heading}</h1>
-	<ReleaseList {data} />
-</section>
+{#if data?.lenght}
+  <section>
+    <h1 class="font-semibold mt-8 mb-2" {title}>{heading}</h1>
+    <ReleaseList {data} />
+  </section>
+{/if}
