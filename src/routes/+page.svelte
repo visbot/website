@@ -4,13 +4,13 @@
 
 <script lang="ts">
 	import '@lufrai/modern-css-reset';
-	import { file_id } from '@visbot/file_id.diz';
 	import { onMount } from 'svelte';
 
 	import { Nav } from '$components/Nav';
 	import { Main } from '$components/Main';
 
-  onMount(() => {
+  onMount(async () => {
+    const { file_id } = await import('@visbot/file_id.diz');
     console.log(file_id.join('\n'));
   });
 </script>
