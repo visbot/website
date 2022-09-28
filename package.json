@@ -53,5 +53,8 @@
       "stylelint --cache --fix",
       "prettier --write"
     ]
+  },
+  "dependencies": {
+    "@visbot/file_id.diz": "^1.0.0"
   }
 }
