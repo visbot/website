@@ -12,6 +12,7 @@
       .sort()
       .reverse()}
   />
+
   <ReleaseSection
     title="Visbot Series"
     heading="VBOT"
@@ -20,6 +21,7 @@
       .sort()
       .reverse()}
   />
+
   <ReleaseSection
     title="Compilation Series"
     heading="VCOMPILATION"
@@ -28,6 +30,7 @@
       .sort()
       .reverse()}
   />
+
   <ReleaseSection
     title="Dynamic Movement Series"
     heading="VDYNAMIC"
@@ -36,6 +39,7 @@
       .sort()
       .reverse()}
   />
+
   <ReleaseSection
     title="External Series"
     heading="VEXTERNAL"
