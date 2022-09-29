@@ -10,6 +10,7 @@
 	import { Main } from '$components/Main';
 
   onMount(async () => {
+    /** @type {string[]} */
     const { file_id } = await import('@visbot/file_id.diz');
     console.log(file_id.join('\n'));
   });
@@ -25,7 +26,7 @@
   <Main />
 </div>
 
-<style>
+<style lang="postcss">
 	@tailwind base;
 	@tailwind components;
 	@tailwind utilities;
