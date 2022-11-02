@@ -85,10 +85,11 @@ import { meta as store } from '$stores/meta';
   }
 </script>
 
-<div class="hidden justify-start sm:flex flex-wrap sm:gap-x-4">
-  <input class="grow bg-white sm:border-2 border-black dark:bg-neutral-900 dark:text-white p-4 my-0 sm:mb-4" type="text" on:keyup={searchHandler} bind:value={searchValue} />
+<div class="hidden sm:flex flex-wrap sm:gap-x-4">
+  <input class="grow bg-white sm:border-2 border-black dark:bg-neutral-900 dark:text-white p-4 my-0 sm:mb-4" type="text" placeholder="Type to search..." on:keyup={searchHandler} bind:value={searchValue} />
 
-  <select class="bg-white grow sm:border-2 border-black dark:bg-neutral-900 dark:text-white p-4 my-0 sm:mb-4" on:change={artistHandler} bind:value={selectedArtist}>
+  <div class="flex justify-evenly grow gap-x-4">
+  <select class="placeholder-neutral-500 bg-white grow sm:border-2 border-black dark:bg-neutral-900 dark:text-white p-4 my-0 sm:mb-4" on:change={artistHandler} bind:value={selectedArtist}>
     <option value="">-- Artist --</option>
     <option value="alt-iii">Alt III</option>
     <option value="amphirion">Amphirion</option>
@@ -130,9 +131,14 @@ import { meta as store } from '$stores/meta';
     <option value="e">E for External</option>
   </select>
 </div>
+</div>
 
 <style>
   select {
+    text-transform: lowercase;
+  }
+
+  ::placeholder {
     text-transform: lowercase;
   }
 </style>
