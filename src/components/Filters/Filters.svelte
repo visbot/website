@@ -124,11 +124,11 @@ import { meta as store } from '$stores/meta';
 
   <select class="grow bg-white sm:border-2 border-black dark:bg-neutral-900 dark:text-white p-4 my-0 sm:mb-4" on:change={seriesHandler} bind:value={selectedSeries}>
     <option value="">-- Series --</option>
-    <option value="a">A for Allstar</option>
-    <option value="b">B for Bot</option>
-    <option value="c">C for Compilation</option>
-    <option value="d">D for Dynamic</option>
-    <option value="e">E for External</option>
+    <option value="a">A Allstar</option>
+    <option value="b">B (Vis)Bot</option>
+    <option value="c">C Compilation</option>
+    <option value="d">D Dynamic</option>
+    <option value="e">E External</option>
   </select>
 </div>
 </div>
