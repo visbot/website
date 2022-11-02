@@ -4,6 +4,7 @@
 </script>
 
 <main class="bg-white sm:border-2 border-black dark:bg-neutral-900 dark:text-white p-4 my-0">
+  {#if Object.keys($store)?.length}
   <ReleaseSection
     title="Allstar Series"
     heading="VALLSTAR"
@@ -48,4 +49,7 @@
       .sort()
       .reverse()}
   />
+  {:else}
+      <span class="lowercase">Sorry, no releases found.</span>
+  {/if}
 </main>

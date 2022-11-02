@@ -7,6 +7,7 @@
 	import { onMount } from 'svelte';
 
 	import { Nav } from '$components/Nav';
+	import { Filters } from '$components/Filters';
 	import { Main } from '$components/Main';
 
   onMount(async () => {
@@ -23,6 +24,7 @@
 
 <div class="font-mono lg:max-w-screen-lg lg:mx-auto sm:p-4">
 	<Nav />
+	<Filters />
   <Main />
 </div>
 
