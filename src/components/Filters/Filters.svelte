@@ -117,11 +117,11 @@
 
 		<select class="grow bg-white sm:border-2 border-black dark:bg-neutral-900 dark:text-white p-4 my-0 sm:mb-4" on:change={seriesHandler} bind:value={selectedSeries}>
 			<option value="">-- Series --</option>
-			<option value="a">A Allstar</option>
-			<option value="b">B (Vis)Bot</option>
-			<option value="c">C Compilation</option>
-			<option value="d">D Dynamic</option>
-			<option value="e">E External</option>
+			<option value="a">A is for Allstar</option>
+			<option value="b">B is for (Vis)Bot</option>
+			<option value="c">C is for Compilation</option>
+			<option value="d">D is for Dynamic</option>
+			<option value="e">E is for External</option>
 		</select>
 	</div>
 </div>
