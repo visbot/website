@@ -54,8 +54,8 @@
 {/if}
 
 <form data-netlify="true" name="lostpasswordform" id="lostpasswordform" action="{$page.url.origin}/wp-login.php?action=lostpassword" method="post" class:shake={hasError} on:submit|preventDefault={submitHandler}>
-  <!-- Required for Netlify Forms -->
-  <input type="hidden" name="form-name" value="lostpasswordform" />
+	<!-- Required for Netlify Forms -->
+	<input type="hidden" name="form-name" value="lostpasswordform" />
 
 	<p>
 		<label for="user_login">Username or Email Address</label>

@@ -10,22 +10,22 @@
 	import { Filters } from '$components/Filters';
 	import { Main } from '$components/Main';
 
-  onMount(async () => {
-    /** @type {string[]} */
-    const { file_id } = await import('@visbot/file_id.diz');
-    console.log(file_id.join('\n'));
-  });
+	onMount(async () => {
+		/** @type {string[]} */
+		const { file_id } = await import('@visbot/file_id.diz');
+		console.log(file_id.join('\n'));
+	});
 </script>
 
 <svelte:head>
 	<title>visbot network</title>
-  <meta name="description" content="A collective of artists creating Winamp visuals">
+	<meta name="description" content="A collective of artists creating Winamp visuals" />
 </svelte:head>
 
 <div class="font-mono lg:max-w-screen-lg lg:mx-auto sm:p-4">
 	<Nav />
 	<Filters />
-  <Main />
+	<Main />
 </div>
 
 <style lang="postcss">

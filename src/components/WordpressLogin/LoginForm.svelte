@@ -64,8 +64,8 @@
 {/if}
 
 <form data-netlify="true" name="loginform" id="loginform" action="{$page.url.origin}/wp-login.php" method="post" class:shake={hasError} on:submit|preventDefault={submitHandler}>
-  <!-- Required for Netlify Forms -->
-  <input type="hidden" name="form-name" value="loginform" />
+	<!-- Required for Netlify Forms -->
+	<input type="hidden" name="form-name" value="loginform" />
 
 	<p>
 		<label for="user_login">Username or Email Address</label>
