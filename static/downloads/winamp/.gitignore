@@ -1,1 +1,4 @@
+!**/*.7z
+!**/*.pimp
+!**/*.zip
 !winamp*.exe
