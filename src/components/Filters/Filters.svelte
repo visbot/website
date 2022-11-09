@@ -97,7 +97,7 @@
 			<option value="javs">JaVS</option>
 			<option value="les-noobiens">les Noobiens</option>
 			<option value="micro-d">Micro.D</option>
-			<option value="nemoorange">Nemo Orange</option>
+			<option value="nemo-orange">Nemo Orange</option>
 			<option value="onionring">Onionring</option>
 			<option value="pan-am">PAN AM</option>
 			<option value="skupers">Skupers</option>
@@ -105,7 +105,6 @@
 			<option value="vanish">Vanish</option>
 			<option value="yathosho">Yathosho</option>
 			<option value="zamuz">Zamuz</option>
-			<option value="others">Others</option>
 		</select>
 
 		<select class="grow bg-white sm:border-2 border-black dark:bg-neutral-900 dark:text-white p-4 my-0 sm:mb-4" on:change={typeHandler} bind:value={selectedType}>
