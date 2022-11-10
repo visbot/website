@@ -1,0 +1,194 @@
+{
+    "name": "R2",
+    "id": "VB212-2",
+    "presets": [
+        {
+            "file": "Dynamic Duo/R2/R2.1 Team Play/01 pak-9 & vanish - ninjaisbleeding [dynamic duo's dark traumatization].avs",
+            "size": 4893,
+            "checksum": "sha256:0e36f2663e6cd34e3dc501d9b732ac635f194e75d8c33bad9db12eefc50b3961"
+        },
+        {
+            "file": "Dynamic Duo/R2/R2.1 Team Play/02 amphirion - wanlotus [dynamic duo rework].avs",
+            "size": 4921,
+            "checksum": "sha256:6f16a6ca8130566a393ab64ef1b647a48a384a80547477dd5a2d0fd3197c432f"
+        },
+        {
+            "file": "Dynamic Duo/R2/R2.1 Team Play/03 duo - dye in the water [dynamic duo's -to dye for- rework 2009].avs",
+            "size": 6011,
+            "checksum": "sha256:53d0df27a759e959d42c1dad663bebb89a8c8e337c4c2ecc444b0898249761d3"
+        },
+        {
+            "file": "Dynamic Duo/R2/R2.1 Team Play/04 el-vis - dreamtime [dynamic duo's harry-bo rework #3].avs",
+            "size": 13161,
+            "checksum": "sha256:7162006b71733718ffc8c114a0b0434acfe4b6a80005572169343ad0f542fb8d"
+        },
+        {
+            "file": "Dynamic Duo/R2/R2.1 Team Play/05 amphirion - in the burning [dynamic duo's firewalkwithme rework - version].avs",
+            "size": 5039,
+            "checksum": "sha256:a516f3d3600628aaeae4ce04d196d1103b139065095f20f5ded2228f2c946993"
+        },
+        {
+            "file": "Dynamic Duo/R2/R2.1 Team Play/06 shock value - activation energy [dynamic duo rework].avs",
+            "size": 5085,
+            "checksum": "sha256:d6662445336dffe87b88fc7e70c9e97768c9f044ab6eefcb9f1f8ba5ed27d387"
+        },
+        {
+            "file": "Dynamic Duo/R2/R2.1 Team Play/07 avs-king - fill my head with poison [dynamic duo rework].avs",
+            "size": 2340,
+            "checksum": "sha256:9b7747211b039b8892630cf1b1b0d8dd51dc93e7f037fd5d085a431062ae3976"
+        },
+        {
+            "file": "Dynamic Duo/R2/R2.1 Team Play/08 zamuz - bumpy carpet [dynamic duo's photon redesign re-re-edit].avs",
+            "size": 3452,
+            "checksum": "sha256:76bc341ea9b3db88e883d2c321e0c8736821d4808e298420fb1369d8622aa7c9"
+        },
+        {
+            "file": "Dynamic Duo/R2/R2.1 Team Play/09 vanish - fractalbase [dynamic duo keeps-on-rubbing mix].avs",
+            "size": 3473,
+            "checksum": "sha256:eb5af45c28cc0198607ede99a46f717c61b26e1335c163712b040e2530dd1b70"
+        },
+        {
+            "file": "Dynamic Duo/R2/R2.1 Team Play/10 dynamic duo - hentai (re-edit).avs",
+            "size": 5183,
+            "checksum": "sha256:3df2b9f9c632bd7e08d07c38ce4cb48cc5c62b61deee1c0e05f86302a34e2fe2"
+        },
+        {
+            "file": "Dynamic Duo/R2/R2.1 Team Play/11 onionring - left right up down [dynamic duo's miami nightdrive].avs",
+            "size": 9679,
+            "checksum": "sha256:d424b9ad6a5fb1a74ce5ce5f8bfd0e011d519551d458fe792a790f6fde1ed1a7"
+        },
+        {
+            "file": "Dynamic Duo/R2/R2.1 Team Play/12 zamuz - urban metallic [dynamic duo rework].avs",
+            "size": 2784,
+            "checksum": "sha256:0b88ed458b86299e9d1ca8d82d49915871eadedefa6b477654254e441003c75c"
+        },
+        {
+            "file": "Dynamic Duo/R2/R2.1 Team Play/13 javs & grandchild - leaving the class-sick [dynamic duo rework].avs",
+            "size": 5664,
+            "checksum": "sha256:9d9e216147972b7c8706d8070d612d8293caa5f3d804248199e09810b14a153a"
+        },
+        {
+            "file": "Dynamic Duo/R2/R2.1 Team Play/14 avs-king - tunnelvision [dynamic duo rework for lo-res].avs",
+            "size": 6450,
+            "checksum": "sha256:ce9759219770b4f03767acef3f90ef0a6c2b36823e10aa066d5f19b48f3ed40d"
+        },
+        {
+            "file": "Dynamic Duo/R2/R2.1 Team Play/15 amphirion - can't touch this [dynamic duo rework].avs",
+            "size": 5162,
+            "checksum": "sha256:fd8270df7e097cc591c5f6f651566da4edbd0e56029287184a83f0f6fe7f73ea"
+        },
+        {
+            "file": "Dynamic Duo/R2/R2.1 Team Play/16 zamuz - spiritual [dynamic duo treatment].avs",
+            "size": 3054,
+            "checksum": "sha256:f038de8616ca826a59f733e152dca9f8ef1632716cd60a6fa3113e8ca1b5ed31"
+        },
+        {
+            "file": "Dynamic Duo/R2/R2.2 Solo Flight/01 skupers - dual flow [yathosho's twice the flavour edit].avs",
+            "size": 2934,
+            "checksum": "sha256:56ca93b993954bc13b769087812e40e85a4d5aef96ba63b2a7c7af1673a1d7ea"
+        },
+        {
+            "file": "Dynamic Duo/R2/R2.2 Solo Flight/02 zxe - semper omnis [skupers remix].avs",
+            "size": 4016,
+            "checksum": "sha256:b53eb38d94a840666490f7997d4136e79e6c8d495cd86248b871d507432eaba1"
+        },
+        {
+            "file": "Dynamic Duo/R2/R2.2 Solo Flight/03 yathosho - isotta ii [skupers remix - edit].avs",
+            "size": 3343,
+            "checksum": "sha256:50c22245ca913ad656fa37bd0c387d85743338248d5a804a607ba7362c15f801"
+        },
+        {
+            "file": "Dynamic Duo/R2/R2.2 Solo Flight/04 el-vis - burn [skupers baby burn remix - edit].avs",
+            "size": 5131,
+            "checksum": "sha256:e469e2baed985851334b0aedd37b955aa2344203f0b2db8bb702460487846c2b"
+        },
+        {
+            "file": "Dynamic Duo/R2/R2.2 Solo Flight/05 unconed - going up-n-down [spitzen tapete, yathosho!].avs",
+            "size": 2860,
+            "checksum": "sha256:77e7ab0a05443dab800f2106533fb26abf7a146940900654478c9c81ed1f77d8"
+        },
+        {
+            "file": "Dynamic Duo/R2/R2.2 Solo Flight/06 yathosho - pillow fight [accidental mix].avs",
+            "size": 5775,
+            "checksum": "sha256:1e7a5db9fc96011c8d4d79de12de8ca8069acb11f0d9eebe8b46a4cd3bf00bb9"
+        },
+        {
+            "file": "Dynamic Duo/R2/R2.2 Solo Flight/07 skupers - graphiterx [yathosho in macau remix].avs",
+            "size": 1433,
+            "checksum": "sha256:5182a885a74c0e2edf28bdeb27524341488098343dd5f81aa0652cc9468614c6"
+        },
+        {
+            "file": "Dynamic Duo/R2/R2.2 Solo Flight/08 skupers - mädchenland [yathosho's u.g.l.y. edit].avs",
+            "size": 1856,
+            "checksum": "sha256:cabcf2cd94be7cdcc024997c885cf7b81ebb5150db4255bdac1d5c77e6cc1738"
+        },
+        {
+            "file": "Dynamic Duo/R2/R2.2 Solo Flight/09 duo - dye in the water [skupers remix - edit].avs",
+            "size": 3351,
+            "checksum": "sha256:afdccf7ffe108b18f62757ed7ab0e0ed8c5d19840ea96802d6d32f6d2f838ce2"
+        },
+        {
+            "file": "Dynamic Duo/R2/R2.2 Solo Flight/10 i cook coxy gay - gold water [skupers out fishing remix].avs",
+            "size": 2001,
+            "checksum": "sha256:aa10e0978c7f076309c505f47308c993724ca51c599b0b73194cc997ad07dd29"
+        },
+        {
+            "file": "Dynamic Duo/R2/R2.2 Solo Flight/11 yathosho - unknown [skupers remix].avs",
+            "size": 2040,
+            "checksum": "sha256:4ea59ca351dc5a65c47b5327704aa1694e7089c8dbff13c870b2e3f6d84db904"
+        },
+        {
+            "file": "Dynamic Duo/R2/R2.2 Solo Flight/12 yathosho - vogue [skupers glitch remix].avs",
+            "size": 3297,
+            "checksum": "sha256:56346378fef3325051d1cc12de2f91714ca174db893a63d4b6337f120da17052"
+        },
+        {
+            "file": "Dynamic Duo/R2/R2.2 Solo Flight/13 el-vis - golden [skupers remix].avs",
+            "size": 5453,
+            "checksum": "sha256:7ee9f480e0784463d13d10e978f058de416937bb06dcd19b2b92e331bd447ff1"
+        },
+        {
+            "file": "Dynamic Duo/R2/R2.2 Solo Flight/14 skupers - synaptic highway [yathosho's 2009 re-fragmentation].avs",
+            "size": 3906,
+            "checksum": "sha256:8abd7b25a9e81de1b378f0a388b4d3c02459dc0205162193393443d45c26b968"
+        },
+        {
+            "file": "Dynamic Duo/R2/R2.2 Solo Flight/15 amphirion - abstractica part deux [ya-tho-sho vbs.krower.c].avs",
+            "size": 5711,
+            "checksum": "sha256:c0a510ab6abc516c02fb0221b7fb0eac2511bef10427619fc3f8201c388e4dd2"
+        },
+        {
+            "file": "Dynamic Duo/R2/R2.2 Solo Flight/16 micro.d - blockfucker [yathosho refix #2].avs",
+            "size": 6929,
+            "checksum": "sha256:f8526f52784e00128bdad6696e5499ee4371b5dc9963e60d3002f7c68aa438ba"
+        }
+    ],
+    "assets": [
+        {
+            "file": "avsres_texer_square_sharp_32x32.bmp",
+            "size": 1664,
+            "checksum": "sha256:c58bd222c6e3acdf02a3ac553ea0da340f7c29c24c7a73cb2196af1085dce866"
+        },
+        {
+            "file": "avsres_texer_square_sharp_48x48.bmp",
+            "size": 3200,
+            "checksum": "sha256:bb4e9f6f084e61e1c72e04fcc947d368cc0bae71c96172d2eac64656c486d70a"
+        },
+        {
+            "file": "avsres_texer_square_sharp_60x60.bmp",
+            "size": 4688,
+            "checksum": "sha256:1f04b10b325c77f7a2520dc7da8e4b80f10184df129ccb1600a88e8a8b83c3dc"
+        },
+        {
+            "file": "skupers_lp7_02.bmp",
+            "size": 10856,
+            "checksum": "sha256:aaeb13486d7082c888a556012a3ea574dc4c651b01510ae9722a1ce184f8fd03"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter",
+        "Normalise",
+        "TransAuto",
+        "Triangle"
+    ]
+}

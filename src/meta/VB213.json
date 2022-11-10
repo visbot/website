@@ -1,0 +1,67 @@
+{
+    "name": "whyEye.org modus operandi 3",
+    "id": "VB213",
+    "presets": [
+        {
+            "file": "whyEye.org/whyEye.org modus operandi 3/01 yathosho - die maschine (version).avs",
+            "size": 3716,
+            "checksum": "sha256:dd56b3bc08fc23d431b2ae9e3b63236df8c910fdbf94ee84369dfc5f5fe02d53"
+        },
+        {
+            "file": "whyEye.org/whyEye.org modus operandi 3/02 onionring - blood on the motorway (yathosho's grrrind mix).avs",
+            "size": 11868,
+            "checksum": "sha256:4715092c531c20a8723eed6b496ca0c41145548d3398dc234ebc78d0666fbdad"
+        },
+        {
+            "file": "whyEye.org/whyEye.org modus operandi 3/03 dynamic duo - nitoichi ii.avs",
+            "size": 5577,
+            "checksum": "sha256:e031e038d9990b9898eedf026066a97050fe1e35568e5be706d10e2741d6b2ae"
+        },
+        {
+            "file": "whyEye.org/whyEye.org modus operandi 3/04 grandchild+yathosho - destroy dat!.avs",
+            "size": 10487,
+            "checksum": "sha256:3eeccfca5052f924dcb7eb18f455e543bb88a2127ea39f7cdb34a68ee2bbd70b"
+        },
+        {
+            "file": "whyEye.org/whyEye.org modus operandi 3/05 yathosho - bizarro ii.avs",
+            "size": 1862,
+            "checksum": "sha256:b0afcd3700e24c411be3ce6ca22d0dadfdaebfda52486067b40e874152ba9661"
+        },
+        {
+            "file": "whyEye.org/whyEye.org modus operandi 3/06 yathosho - die maschine.avs",
+            "size": 3137,
+            "checksum": "sha256:7bb799b556dd77616edb414070634eb7d590ef3bd8560e4b762db508dcf7e459"
+        },
+        {
+            "file": "whyEye.org/whyEye.org modus operandi 3/07 yathosho - straight no chaser ii (stressed version).avs",
+            "size": 2078,
+            "checksum": "sha256:a6c60778ef3934426c98f39d072ed7cd57542b8af067d3aa1ebb0b33850c2144"
+        },
+        {
+            "file": "whyEye.org/whyEye.org modus operandi 3/08 onionring vs panam - ziyan ii (modus operandi version).avs",
+            "size": 18180,
+            "checksum": "sha256:a765a4916dc1b503c3e3250f37f841795072461dd317b9647370dd1677c41625"
+        },
+        {
+            "file": "whyEye.org/whyEye.org modus operandi 3/09 the horses fly pan am - acidsteck (les Noobiens mash-up, 2nd time around).avs",
+            "size": 4741,
+            "checksum": "sha256:c31086fedd8475c429b658bcd5537eccc2f93b36602c97a4bbce545f39ef08f7"
+        },
+        {
+            "file": "whyEye.org/whyEye.org modus operandi 3/10 yathosho - unstable.avs",
+            "size": 2255,
+            "checksum": "sha256:032191c8052cb9e0c63b452e480096a725fa8d4c4c3f222d80ba3c42e87ec816"
+        },
+        {
+            "file": "whyEye.org/whyEye.org modus operandi 3/11 yathosho - figure d.avs",
+            "size": 4063,
+            "checksum": "sha256:1faeddfb15930c866805c2e4a9adaa87788897cf53898f9d817fc388913f5c73"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter",
+        "FramerateLimiter",
+        "TransAuto",
+        "Triangle"
+    ]
+}

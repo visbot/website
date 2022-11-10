@@ -1,0 +1,2727 @@
+{
+    "name": "VISBOT presents The New Society",
+    "id": "VA013",
+    "presets": [
+        {
+            "file": "AVSociety/AVSociety - Back2Future II Outtakes/A1 tonic vs micro.D - zoomed picture from one insect (equipped with a vhs recorder).avs",
+            "size": 3125,
+            "checksum": "sha256:63a903c3f573637946d76372177b60bdf1fc0c100d6f8e4bc6863d99632a53f3"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future II Outtakes/B1 tonic vs micro.D - zoomed picture from one insect (suddenmix).avs",
+            "size": 2867,
+            "checksum": "sha256:1ca3971458247d9203397b4defc161f3fc9766b5f0b008d88f8901ed1976f3f3"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future II Outtakes/B2 alchemist vs for - red hot chili peppers (alt mix).avs",
+            "size": 2964,
+            "checksum": "sha256:1b45149ca64f16f5f8579cda4d3ef401a4bc0f53afd8438431b15e9f6d26a8ac"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future II Outtakes/C1 el-vis vs micro.D - sliding (cleanmix).avs",
+            "size": 5101,
+            "checksum": "sha256:a317abab174154e20538f30dec3c9f62d8e24129d885657a4c0e0fcea2abd8c0"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future II Outtakes/D1 tonic vs for - me and u w8 4 2.avs",
+            "size": 4386,
+            "checksum": "sha256:340b65285ccc172fcdf6f5b5bd7550e84736ad0de9cca0ea91052b80c5f410ff"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future II Outtakes/D2 yathosho vs for - if 60s were 90s (ghost version).avs",
+            "size": 4451,
+            "checksum": "sha256:782566da68a63403a8416f8e0560a39175a0f08b7a53c4b780191bd2c3dc0bbf"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future II/01 yathosho vs for vs micro.D - if intros were outros.avs",
+            "size": 5483,
+            "checksum": "sha256:a751d05b75a1079fcd2fea70d8f82e458a0a10474ec83808fc459472ced754c8"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future II/02 l0tus vs el-vis vs micro.D - likwid emotion.avs",
+            "size": 3234,
+            "checksum": "sha256:caf7f9ad5f39926df983d64f0d8f69fe4c9c4479e37592bdc86c26ff3fd1b482"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future II/03 morse meltdown vs for - dovienya (brknfrm remix).avs",
+            "size": 2842,
+            "checksum": "sha256:b37e28b6ff73652503593397cc138680370bc57fe00d66c7a97c4d1221cf7148"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future II/04 nemo vs micro.D - broken vasarely tower.avs",
+            "size": 2566,
+            "checksum": "sha256:9fe3b589964afbd5875a5299b2d85477ec6e6eb8e200a1a243c7697ccfa8c7ce"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future II/05 s_kupers vs for - royal astronomy (for dark wind blows remix).avs",
+            "size": 4002,
+            "checksum": "sha256:4b691c5c7001c8efaf1931b5866b9209b292533a64a97ed7d84183ef38b17917"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future II/06 alchemist vs for - red hot chili peppers (minimoid remix).avs",
+            "size": 4103,
+            "checksum": "sha256:9fb0ce7443e0c958d11149f104e4893e9ae35f98a220e00fc70c762642958c02"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future II/07 nemo vs micro.D - tilex (dancfloor for hills).avs",
+            "size": 11567,
+            "checksum": "sha256:a607a3f1e1199bdabc54b186b118615e3919dfb22908ccf00f0582ef36a0dd9d"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future II/08 yathosho vs for - alfrede ruta(tm) (de szép kék remix).avs",
+            "size": 4400,
+            "checksum": "sha256:656463209ec24aef77e6c8ad8f7bc7c438b6a119c8778c721258275dc32507d3"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future II/09 tonic vs micro.D - lumping (nyálmix).avs",
+            "size": 6476,
+            "checksum": "sha256:d7e757da3d3ce5ce35f8da5c2338b6d30532282092f7e081ff41db52b197d356"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future II/10 nixa vs for - bump fun (geometric remix).avs",
+            "size": 5334,
+            "checksum": "sha256:b1be8215c14a714e6ba56fcf5a8f64525936d122773d541ca052848efaec1ab5"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future II/11 tonic vs micro.D - zoomed picture from one insect (on a 10-years-old vhs tape).avs",
+            "size": 3211,
+            "checksum": "sha256:d9946fe61d7af5b25593cf3a97b3fd4e08a373dad92549e365995ac4d76fa2aa"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future II/12 nemo vs micro.D - firewall (fake alarm).avs",
+            "size": 3313,
+            "checksum": "sha256:5c8b4b2a50dbe5bc3e8196e6d57e203aeb9dae662c79d87f353d6ebc18ff7db0"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future II/13 el-vis vs for - color coded beats (pan amish mix).avs",
+            "size": 5635,
+            "checksum": "sha256:1ee1094eeca0fb6b5d996a864687731acd4ca4ac44224b1602ff0e15ded0a4a2"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future II/14 s_kupers vs for - interpolum (dereferer mix).avs",
+            "size": 3725,
+            "checksum": "sha256:782137bba5e589c50df370e37f8f1007f52e7e661be2a1c981a346dd323db540"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future II/15 paranoya vs for - mindcontroller (mind theft v2 remix).avs",
+            "size": 4661,
+            "checksum": "sha256:4340de0d2f54b3108d9b10141a3b79997728d7d052c0b2426f96d62a19ca5de1"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future II/16 duo vs for vs micro.D - (holes) in the walls (of reality) (coop mix).avs",
+            "size": 3011,
+            "checksum": "sha256:779f872029a531f525a5b71c320e211aec661bf23017c0ed8135a9b15a2df8f0"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future II/17 el-vis vs micro.D vs for - sliding (coop mix).avs",
+            "size": 6473,
+            "checksum": "sha256:c1a783e8503b8f6cf12d6bb2f88399a4ba83816b2dbd9700c44f358cb70a8830"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future II/18 yathosho vs for - if 60s were 90s (paranormal remix).avs",
+            "size": 3569,
+            "checksum": "sha256:88a9ce96657729aa526f3a739d829ab0bb8a84b5b10e4fb6a7b46161c4b40bd5"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future II/19 nixa vs micro.D - no name (no age mix).avs",
+            "size": 5459,
+            "checksum": "sha256:fa438a786b472f29c0b341ca6bb78e4094d6bd5bf4364a4e6955107ce544660c"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future II/20 zen-x vs micro.D - tonic for the mind (teevee remix).avs",
+            "size": 3697,
+            "checksum": "sha256:94635840eb03db3380c66e29f51022a218505fccd45c97c71d51ae4fe3f7a057"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future Originals/A1 nixa - no name.avs",
+            "size": 4496,
+            "checksum": "sha256:533eeb9787d43d332f99064bb48cc05e3e53b19e47a23e22c1a220dd66029487"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future Originals/A2 zen-X - tonic for the mind.avs",
+            "size": 1513,
+            "checksum": "sha256:cea7e7b7cb9e067c44f6e76d60a4851a5da05000dd000d32eceeeb3596200444"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future Originals/B1 horsefly - shadow.avs",
+            "size": 2114,
+            "checksum": "sha256:28eda62eedfffdb7ea4ec7c215dac24cb6002fdbdda6d2526d66f5e87108acc8"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future Originals/B2 catminddo - acid2 (epiletic mix).avs",
+            "size": 1214,
+            "checksum": "sha256:94d8147488fe42b55bdabdc84be541597652b99584ab524e2211f63e0fd76d4d"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future Remixes/A1 nixa - no name (micro.D° . no age mix).avs",
+            "size": 5459,
+            "checksum": "sha256:fa438a786b472f29c0b341ca6bb78e4094d6bd5bf4364a4e6955107ce544660c"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future Remixes/A2 zen-x - tonic for the mind (micro.D° . teevee rmx).avs",
+            "size": 3697,
+            "checksum": "sha256:94635840eb03db3380c66e29f51022a218505fccd45c97c71d51ae4fe3f7a057"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future Remixes/B1 horse-fly vs catminddo - acid shadow (drew's acod shadid rmx).avs",
+            "size": 4390,
+            "checksum": "sha256:b3b84632f5acbe2455ae31c3a9552306cede5fa9ff6dfc1a050a1f2ed65c94ef"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future/01 marco - mora (les Noobiens intro edit).avs",
+            "size": 4656,
+            "checksum": "sha256:b6a46bc5b74aa4c007fab59c8e294695103dc2bac6faf8516e6563489f909274"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future/02 zen-x - tonic for the mind (yathosho's op-mode mix).avs",
+            "size": 2582,
+            "checksum": "sha256:e6fdcc3af9cbe159ef228d86b0ddb6259d03b1a6e0d79624d234d9be671329ae"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future/03 nixa - no name (yathosho 6am rework).avs",
+            "size": 3195,
+            "checksum": "sha256:44869b70bf7d02261d0006afea6ee22dbb75e15e64b5b59a7d662d5b19e68ed4"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future/04 catminddo - amanita muscaria (les Noobiens beat the beat mix).avs",
+            "size": 2789,
+            "checksum": "sha256:53602afdc792a157356f570d7e20d019f62cb3c938a979e02a77c59415e65468"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future/05 yathosho - if 60s were 90s (liams' bad touch mix).avs",
+            "size": 1331,
+            "checksum": "sha256:20f7a6c91ef9497009b602b199cda0b0bf4a0a615fa84c9f4f9d1f6d0aba5d87"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future/06 jay-fatboy - golden rush (yathosho in bed with fatboy mix).avs",
+            "size": 2132,
+            "checksum": "sha256:6ec8edaa2ec41550ec013a53604183ba73103b4d3c1d9c5da6fcfd626a240ce3"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future/07 horse-fly - state of mind (yathosho's polar mix).avs",
+            "size": 2924,
+            "checksum": "sha256:6ded94aec701eaed2eb72d344f64434b9019f00a70072cb68116069ff240f857"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future/08 i cook coxy gay - bad taste ops (yathosho's 2088 re-edit).avs",
+            "size": 3467,
+            "checksum": "sha256:69be620f8a9f3ae003b1c0d19fa2adc91c2b7d278bbec125704804bca82eb8f5"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future/09 catminddo - disco ma cubism (yathosho re-rub).avs",
+            "size": 2280,
+            "checksum": "sha256:97c7c64333aefd2b63744da08640188f500e47201c92192baed4014447ef4307"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future/10 yathosho - moving shadow (dhutty rework).avs",
+            "size": 3308,
+            "checksum": "sha256:578bb47ad2e436d3b664f4efdfc8ae4a7e3d13deffb994dd7b46d241871a4abd"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future/11 tuomas - insania (zen-x -we're all broken now budy- mix).avs",
+            "size": 2095,
+            "checksum": "sha256:78d840bc4531590921c81847b6d221ac6da97bde44272a2271e8294c23e83671"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future/12 catminddo - acid2 (yathosho giving you seizures).avs",
+            "size": 1993,
+            "checksum": "sha256:0d119e16fb91680b320d2d77425451bfc41b4da82c23cdfcd7cecde994c24069"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future/13 horse-fly - shadow (ya-tho-sho treatment).avs",
+            "size": 2662,
+            "checksum": "sha256:ddc7556e0c442186472cfd61491e6d2f72768daf22cf4413f09c41bb7ad50fa4"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future/14 canar - oozic (zen-x angels still have filthly mouths mix).avs",
+            "size": 7219,
+            "checksum": "sha256:909fe5b15177db5ddf0f9780a0dc56bb2739aa74086ba03dbc0d3cc303ea5381"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future/15 catminddo - musik in my mind (les Noobiens mosaik mind mix).avs",
+            "size": 2730,
+            "checksum": "sha256:b82d9bcc56e701f024483126cf0e8b85f76dc520a7d302b5e8ba9997c700c724"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future/16 alchemist - just like el-vis taught me (yathosho edit).avs",
+            "size": 3505,
+            "checksum": "sha256:9b766e15b871f3d333675b77b93493fdd4d96dce9368892e89e573f222e648d0"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future/17 jay-fatboy - just keep...  (zen-x lost idealism mix).avs",
+            "size": 2773,
+            "checksum": "sha256:d5b38629af2e29d5d5fd554e7b06aebda0121e561ec93ee12871154cfe129f48"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future/18 nixa - no name (yathosho 6pm rework).avs",
+            "size": 3648,
+            "checksum": "sha256:48474ca3359c55fe40aeb44a789ccb87cc1456d31ccb9232c424df2758d5feb9"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future/19 tonic - zero-g flo (les Noobiens pull up to the bumper, baby!).avs",
+            "size": 3318,
+            "checksum": "sha256:da4b21cf9713aa3feffad17ebea9f404b9d5ddeb2f956a805ade7abe0fab36fb"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future/20 el-vis - necromantic (zen-x digital brimstone mix).avs",
+            "size": 4164,
+            "checksum": "sha256:5021613cea219ac7a247c152f1e76ebd757e65dc950eecfae037076406e58b88"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future/21 horse-fly - xerarch invert (ya-tho-sho treatment).avs",
+            "size": 3057,
+            "checksum": "sha256:48296ed105d2c92685282fe9a2f5737c7b239a9ce9f489e9a153ce246b73188d"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future/22 paranoya - future mainframe (yathosho back2future mix).avs",
+            "size": 4453,
+            "checksum": "sha256:61fe50b1f4aa2e997fd3fee38c84a1ce4fb4d7261bd62654e3d24b447b21747e"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future/23 tuomas - hollow sun (ya-tho-sho treatment).avs",
+            "size": 3024,
+            "checksum": "sha256:44ec597df315f0ac2da19885103ba1cc740d663880008f921b6c05b6162b3389"
+        },
+        {
+            "file": "AVSociety/AVSociety - Back2Future/24 nemo & alchemist - zoomy (yathosho edit).avs",
+            "size": 1693,
+            "checksum": "sha256:62e012072ff9aa6e58514662db6f8cf8bbea4db78d4cdf64a1a5e5a853633096"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2000-01/01 el-vis - orbits.avs",
+            "size": 21610,
+            "checksum": "sha256:36e8fb852616534b4c0be4dbbcfe740800b914638922430b5e58093d92dcb318"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2000-01/02 alchemist - ion engine.avs",
+            "size": 1158,
+            "checksum": "sha256:361f817549b60f36f8c4a421bc93b5bf9495ec580d7db614d0addf2cf48fad6f"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2000-01/03 i cook coxy gay - bad taste ops.avs",
+            "size": 1163,
+            "checksum": "sha256:f453db6b19ed5fe9a664ee984331ea89fec6d1e6db868ab87f4584d743476557"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2000-01/04 el-vis - interaction.avs",
+            "size": 4938,
+            "checksum": "sha256:276607821899398c45ef578ba615e56cc0cf985902cc1ccd327dfbc4b570923b"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2000-01/05 nemo - tilex.avs",
+            "size": 937,
+            "checksum": "sha256:78a3904db9a2b92ea722ff07c6b6c612e1f6fef674d97581a357e082b4764643"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2000-01/06 yathosho - 1972 (looe il fitk remix by t-k).avs",
+            "size": 1149,
+            "checksum": "sha256:facd7b6c3faffe86d0932eb0e45d33e34f75f4af63b21b2fded0b9e016c0cb3c"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2000-01/07 el-vis - neoncube.avs",
+            "size": 5395,
+            "checksum": "sha256:7bff6dd5fbe4b01a4b52db4745e5393ed5703315bf0bf9503820968b330bb51c"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2000-01/08 nemo - orb (el-vis remix).avs",
+            "size": 9803,
+            "checksum": "sha256:472d14fb86f21763d254133104ce697cd763c2cbed4a7630b03c368d9e79b37a"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2000-01/09 el-vis - scenic sound.avs",
+            "size": 692,
+            "checksum": "sha256:e8f7038bb14bef26ec206e681224c6273cdc608d205fa35dc0583b1f1ab9349f"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2000-01/10 catminddo - hiper-state.avs",
+            "size": 1630,
+            "checksum": "sha256:f5d868ddf1188a78a34b8af7d9ff7f7df7cbfa81a54d0a731076d4b7b634b495"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2000-01/11 yathosho -  substanz eins (nemo remix).avs",
+            "size": 886,
+            "checksum": "sha256:948f6c28159c130492cae7a6b7d701a3662ed299e6a15b93aec8a1e5956fb03e"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2000-01/12 el-vis - do not preach.avs",
+            "size": 2258,
+            "checksum": "sha256:cf8a487dba46590abb9f7fce3e651c8e4ee0034eefd4f44ea19b6cd12f405e43"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2000-01/13 tonic - disco misco loves me.avs",
+            "size": 2407,
+            "checksum": "sha256:bc2db90f3d834d19e5a09aea5523e8089e93765b6efa185fcbc55eafc53f57d4"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2000-01/14 alchemist - just like el-vis taught me.avs",
+            "size": 2508,
+            "checksum": "sha256:716b7451d363c8469bfe9a868373f2e61eca32788257c72859381e0be64eff2b"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2000-01/15 nemo - bloodlines.avs",
+            "size": 1504,
+            "checksum": "sha256:fd9b15899f129f1e91f69eb45b7e5a3278b7958c492e7e819438da34963819c4"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2000-01/16 el-vis - devil made me do it.avs",
+            "size": 5438,
+            "checksum": "sha256:45560b4e2342bd1ab6da4bbf951656570b759b7d42b013b661c2c010d067b5cb"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2000-01/17 catminddo - science of superscope.avs",
+            "size": 1198,
+            "checksum": "sha256:ed9fe67dba4a66458238914f7cc4e4bac570b05ec7d728c46e39cb77a311f36e"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2000-01/18 nemo - firewall (better) .avs",
+            "size": 1097,
+            "checksum": "sha256:2eb145bee6522f0472dee3a50c23e7dd6d79842d2856f211c88472cac76af4a9"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2000-01/19 duo - alien intercourse ii.avs",
+            "size": 1320,
+            "checksum": "sha256:0b014406bca4f86270df3e0545e801bc0c5abed43af4c9876fedf38d32225df3"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2000-01/20 el-vis - dreamtime 2.avs",
+            "size": 11253,
+            "checksum": "sha256:225a986d921c034c2fe16802cc3859a6291a467d731a5f78ec8d189e58e46b5b"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2000-01/21 yathosho - kirscharoma (nemo remix).avs",
+            "size": 948,
+            "checksum": "sha256:aefc8798f7bc0c2e0d235468e4686b16496427597ab0800b92f8ffb0b8c1b781"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2000-01/22 yathosho - musterprozess.avs",
+            "size": 978,
+            "checksum": "sha256:0808690b182d555dcf378917ab6459b364cd95dddda35cc7606924faf5a0d594"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2000-01/23 catminddo - disco ma cubism forever.avs",
+            "size": 675,
+            "checksum": "sha256:d6d6303b46ddc1bc16f6fda18ceaed81ad8f83c46830125d2461b000c4f56e79"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2000-01/24 nemo - as soft as glass.avs",
+            "size": 1595,
+            "checksum": "sha256:80580169833ff2dee311cfe25d90fbbfa8a5f434eebada989367cc6d015c7cbd"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2000-01/25 unconed - amoebic star.avs",
+            "size": 835,
+            "checksum": "sha256:d1094340b1cd3142475c41ea22ac534a3127c9d346238bc4320dc6670a984c30"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2000-01/26 duo - alien surf ii.avs",
+            "size": 1164,
+            "checksum": "sha256:2046ec7f3acf8950f955f7b6746574a222a416a42b0016bc8901d27792f02b12"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2000-01/27 alchemist - vomitory.avs",
+            "size": 1219,
+            "checksum": "sha256:b6fd8d11dbf3be80c420d8c87093bc3ba5e6356eed0e82e8c9828d746c2b3401"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2000-01/28 el-vis - gradient spectrum.avs",
+            "size": 1127,
+            "checksum": "sha256:1c890e8d4b108efe3b852c2f01bee02d36f38aa2f8a5b869bb540bbdc6d94fc2"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2000-01/29 unconed - tc plasma.avs",
+            "size": 2578,
+            "checksum": "sha256:2a7cf348a8dbc0fca07dfed825bc120c4ab1aee47b01fb76ae728ddf84d0a9ec"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2000-01/30 yathosho - farbfernsehen (black trinitron remix el-vis).avs",
+            "size": 1370,
+            "checksum": "sha256:e09d9bb9126dc1ab28f450c741f33ec23784a482f0404c92b2334f4e08c9e38b"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2000-01/31 nemo - life in pearl city.avs",
+            "size": 1086,
+            "checksum": "sha256:4a9c29cabf25a1fc38a7a9f479e8bc2344b46840cf7b005c5f46506b5e1f2c6b"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2000-01/32 el-vis - diamond treadmill (j-pop remix by yathosho).avs",
+            "size": 842,
+            "checksum": "sha256:3d9284e7dfa98a94d6d0c17633a4b8c93b054903c54533af5752955818991298"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2000-01/33 yathosho - nivea.avs",
+            "size": 726,
+            "checksum": "sha256:fc74810bce8ccc70769ca5257bdbf7e5e97a3836c1ac6ae1e828557c8b3405da"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2000-01/34 tonic - cool 5.avs",
+            "size": 8627,
+            "checksum": "sha256:32471899c475c9ce313f5cc98e0967919e6a2a98027048c4b48a7ddd4e6db271"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2000-01/35 unconed - groovy saturn.avs",
+            "size": 9366,
+            "checksum": "sha256:cd9e9039a518c38e11ae188214d3309b4bcd6ea9ac8efa809ba2c5f32130fda3"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2000-01/36 el-vis - ritt auf dem feuerstrahl.avs",
+            "size": 1525,
+            "checksum": "sha256:09fc7973ade7ea92272f18d247da32dcb4bf3dc8dad41301d36ac906063dbe87"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2000-01/37 alchemist - my visions.avs",
+            "size": 924,
+            "checksum": "sha256:744ffbba6ecad89b77da224d4688c50ac57bb2ec5eff7b314056d7b3bf016982"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2000-01/38 nemo - radioactive.avs",
+            "size": 905,
+            "checksum": "sha256:e94e85e6842fa335b08f48fc7a7f7a77d3f3c6110b67037e17c9584704ec0c09"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2000-01/39 el-vis - disco 2001.avs",
+            "size": 12932,
+            "checksum": "sha256:60a69536a230a573304041b5876e2edca2145b5953fd28e18c989c3ab55d979c"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2000-01/40 nixa - freedom of shape.avs",
+            "size": 718,
+            "checksum": "sha256:95a58c4444e40cb4f7cb3c703ca4c508abe3fe0a218c38612c48fb777a1c9e92"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2000-01/41 el-vis - lucy in the sky with diamonds.avs",
+            "size": 3346,
+            "checksum": "sha256:92c510d985eb556a5c9dff3146066c4ab9789fdaf4945143ec18abf2f05f95d1"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2000-01/42 yathosho - if 60s were 90s.avs",
+            "size": 805,
+            "checksum": "sha256:d54bb4632482b60298cdf694697c5d3ab4d8622a20f225964afbacd6dc92346f"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2000-01/43 nemo - under a vanilla sky.avs",
+            "size": 1901,
+            "checksum": "sha256:f58b65408a28c441303214103858d962ec2680db4fc9315a988a51cfabd65fc5"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2000-01/44 yathosho - mathmos (teensex remix by el-vis).avs",
+            "size": 818,
+            "checksum": "sha256:aebeb996e3f88f47f9d8f00f09ad9eb25762f2153e044a2701b8b3a7f573bca5"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2000-01/45 tonic - help! i need more beats.avs",
+            "size": 184,
+            "checksum": "sha256:5a9256718d6f6cb1c7112a52bbca88e741a5de1dc81e740ff5c45d1884b683e7"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2000-01/46 nemo - lonely tower.avs",
+            "size": 526,
+            "checksum": "sha256:fab3f80f768aeb9f487cab6abc907bc6da6a68b2a7bab356c21d9c6a2f88ed7a"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2000-01/47 duo - crusin with aliens ii.avs",
+            "size": 1624,
+            "checksum": "sha256:45a3e909af66d48b34b25a40173312691c5189b46ef00a379920f7bd7b80f31d"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2000-01/48 el-vis - worm on acid (unconed remixed).avs",
+            "size": 1390,
+            "checksum": "sha256:0b3c88ed16969b0fdefc3c22fe85a3f2a3f5052807d9dd3d5ec96ab9ac93c539"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2000-01/49 tonic - zoomed picture from one insect.avs",
+            "size": 1287,
+            "checksum": "sha256:694fea3d5dbc13b0c5a9ca094bfe6a5b46b5ba393b54d3426b86e8a4d8f082c4"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2000-01/50 yathosho - die kleine biene maja (paranoya remix).avs",
+            "size": 1850,
+            "checksum": "sha256:eb29d3cc8eeab6e7718962a38aa063ea26a4c540b8a4e28aaf4db82c7070ac57"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/01 avs-king - electrum.avs",
+            "size": 1452,
+            "checksum": "sha256:d961913da320706aefc6f940643a730a716c2569473ad8d73c42134430943142"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/02 unconed - cartoon trip.avs",
+            "size": 3287,
+            "checksum": "sha256:66a6352985344bb0c1bf6256d6a72cd9bf51fa344e934060e6a49e26390eebbb"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/03 el-vis - afterburner (skupers remix).avs",
+            "size": 5956,
+            "checksum": "sha256:e6f94563327f7d63b31368742e3c69bf81cbdfe214988e55275b0e945c9762fd"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/04 unconed - plankton.avs",
+            "size": 3763,
+            "checksum": "sha256:cc1496ed77213d3dc84fbab4dd933330512d621399cef8209e80190f4027e84a"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/05 el-vis - virus 002.avs",
+            "size": 5240,
+            "checksum": "sha256:cd0d788ca3667b0cddb8d51693bf2887318eeae8011e23eb55aa7e8f18500a36"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/06 zamuz - milky dream (skupers catches a new zebra remix).avs",
+            "size": 2822,
+            "checksum": "sha256:5ae5ff181880096ddacb491099878f81e85169254bec8d1ac5b707f0662992c9"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/07 evilrice - electric ladybugs (remixed by tuggummi).avs",
+            "size": 2404,
+            "checksum": "sha256:f09a54efee856f5346eeb46b0ebe6986af9d16a1a867cb0e7eaee441506ac95a"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/08 tuggummi - pastel pipe.avs",
+            "size": 2412,
+            "checksum": "sha256:691d83315a493b235c50a63d4c3cdea6c4a4562d8793dc16209e85987ce1b55f"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/09 yathosho - octopus.avs",
+            "size": 796,
+            "checksum": "sha256:615b3ab916d65a8641e8a7bf3ff5bd31c4dd6e7ce857d2e8fbd64897af3ef3ee"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/10 duo - alienated.avs",
+            "size": 2649,
+            "checksum": "sha256:8837665d6b43134899f4d4ebedd13529aebb0e0c2a25d2f28f06b0aad72a85a8"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/11 degnic - plasma turret.avs",
+            "size": 1345,
+            "checksum": "sha256:71726b8d5cb157cdfe73a5df5cac9cb07c53d53b0847dab621da093242da6214"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/12 tuggummi - plasma iii.avs",
+            "size": 15007,
+            "checksum": "sha256:0b185a6c1f01cf17eb7aca5b2387c75934143617ccd1c8d41e215b052fbe743d"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/13 yathosho - musterprozess 2.avs",
+            "size": 982,
+            "checksum": "sha256:f78323c59963de691fec426541885c42d3decea8b8711e0fe06ee16e1c9271da"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/14 degnic - inside my mind.avs",
+            "size": 1567,
+            "checksum": "sha256:3032343f8973a9197ff5a3d492240c2ec3cfee0ad68423cb6b72fdca4710875b"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/15 skupers - rejunct.avs",
+            "size": 8489,
+            "checksum": "sha256:24115b3010b048c398ce602a86e3050e7fee1f21ca278ba7420044b32d705e95"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/16 nic01 - calmness.avs",
+            "size": 1370,
+            "checksum": "sha256:036171d796aae5f1dfc936f1bcbb00d61417919f21211e182029ea1b418a46a6"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/17 degnic & evilrice - optical melody v3 (evil idea remix).avs",
+            "size": 2448,
+            "checksum": "sha256:6b6da2cbe90eb20ebe15d14e8d5fc53d7725d23b596bb83fdb8bb023d51f078f"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/18 skupers - racing (danjoe remix).avs",
+            "size": 3879,
+            "checksum": "sha256:44881b8a7522f2c3c4b994a5493456ab5b327897beb80e25cdca4dc16ec3ed2a"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/19 fšk - your first victory.avs",
+            "size": 16370,
+            "checksum": "sha256:48f2c955ae47944ac9a799d28316b1d02365556b95bdeba069ee2c86becccdd0"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/20 tonic - extracted diamonds.avs",
+            "size": 1178,
+            "checksum": "sha256:f1f5f28eb52f34e5ed908f64291616a3ebc10f1fffe133d00aaeb3d1df1ec8c4"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/21 el-vis - sliding (cellular zip tube remix by evilrice).avs",
+            "size": 12297,
+            "checksum": "sha256:b71c44d2eb9cf703e7a233a2cc4637bd41d3d21340ffe511d6cf8e7257b0c626"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/22 tuggummi - let me out!.avs",
+            "size": 9772,
+            "checksum": "sha256:7a1357dee34b32373736c22df2a2184d47bbfad2d1628bc5ebec1806553e541c"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/23 avs-ike - 3d grid (extreme remix).avs",
+            "size": 1014,
+            "checksum": "sha256:d81f559a83c05d9020ae09367693f21defa8098930ae292552a92e6cfa910d78"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/24 skupers - tequila.avs",
+            "size": 782,
+            "checksum": "sha256:de7a5784557f2ec4c1a1460ae186a268ebf794298a984ac234125fb33ed283f6"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/25 fšk - retrovizor.avs",
+            "size": 2482,
+            "checksum": "sha256:5d088813c64ce407a869f773bd9fde21736ae49a5541078913f47346a16e72e2"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/26 montana - zerocreativity (degnic's sexyandsmooth remix).avs",
+            "size": 1795,
+            "checksum": "sha256:175dc7793c094dad6d4a54856eb8accb336b415f5a5861a62aabdb08f5bf8170"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/27 skupers - magstar 002.avs",
+            "size": 4130,
+            "checksum": "sha256:b9c57be6648c96278812d8cbd3c11b42e8d6a609b79a342a395a7700ec26c58c"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/28 tonic - massive white cage (yathosho's grater remix)).avs",
+            "size": 858,
+            "checksum": "sha256:f83b81829a311824dcc8743ba85b11ec1e6b19c45e8e1319944e6a245f2d8ed2"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/29 skupers - conceptual ninja (yathosho's photek remix).avs",
+            "size": 882,
+            "checksum": "sha256:da4e100a45b7ed60699b2122fc55b86083a1227a4ef5d667347e78fa165980dd"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/30 skupers - inverse kinetics 002.avs",
+            "size": 3303,
+            "checksum": "sha256:2db268a17c4f6951be42fc011b0a153243901b8ead9397e6e829c589ef5e7f22"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/31 fšk - zhe line.avs",
+            "size": 4928,
+            "checksum": "sha256:d3d638f21fa8ff141e41666f5a2c9513e76fec88b6958bbc1e0b84ff04cf8a85"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/32 nemo - visiting.avs",
+            "size": 2021,
+            "checksum": "sha256:c05b6f97648796c8d02e7664507a94f95eff9b55c025a9c936c88c7d7d1a894e"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/33 viskey - neon version.avs",
+            "size": 1231,
+            "checksum": "sha256:83585b4ebc5e581a7611cefa8d5e8255fb6d0a035c8a84e9899011484198aeed"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/34 degnic - skydiving (mysterious remix by zamuz).avs",
+            "size": 4610,
+            "checksum": "sha256:7c0bea0a2024cca04c0e4d83c03c6b539a0f4bfc0de167de941a71cd3e69f344"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/35 tuggummi - some waves.avs",
+            "size": 3530,
+            "checksum": "sha256:24319328e373bb9655875536493253ae7c6a4fe3b2e50ddebe543a448bc6941b"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/36 nemo - euphoria smokes.avs",
+            "size": 2404,
+            "checksum": "sha256:e818f67da633f04c716b207fbf8730b38b4ce2929835e4ab292daa36a6a29a51"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/37 skupers - curvism 002 (paprika mix by tuggummi).avs",
+            "size": 5015,
+            "checksum": "sha256:c47c99328346c127ee6f7e8d4d0b911c6158c78b86aef68b44cab579d8707294"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/38 skupers - rexregis (skupers remix).avs",
+            "size": 3010,
+            "checksum": "sha256:1b385430e9f0f1b4a94c04b60b3aed190978dab4371bf8a7f00df06b40544f10"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/39 degnic - spaceball (fšk remix).avs",
+            "size": 2645,
+            "checksum": "sha256:11dd0016cd24777fe01a2368b24334d77fd47c2d065590e60718cfa1f341a070"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/40 yathosho - kirscharoma (pastel cherry remix by zamuz).avs",
+            "size": 1810,
+            "checksum": "sha256:0e1ff06710d2a1757b06f83d87afa6903edeefc150d909320d04f47064d4955e"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/41 degnic - volcano.avs",
+            "size": 1613,
+            "checksum": "sha256:a8f2a8edd7dd195913f56260d1d1166b96fd6764445176165cee859cfeae56a0"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/42 tuggummi  - digital candy.avs",
+            "size": 3550,
+            "checksum": "sha256:41bb11a8d96b8455ca060c68747737b382637db939b70c1f544878d842cf26be"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/43 degnic - fractal (lemon).avs",
+            "size": 2969,
+            "checksum": "sha256:ec3e9a89a01cd1c4215719ef30f6e6b3f3ecd2e56be98843575ceff47d588908"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/44 nemo - tropicali (spring remix by zamuz).avs",
+            "size": 3118,
+            "checksum": "sha256:ac1cf4981adeba2630c9751aad76edd4590133c2b9f99ce2ebd4aebe3bf05b87"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/45 zamuz - milky dream.avs",
+            "size": 2661,
+            "checksum": "sha256:94acb1f9d32be891d7487c37b04cbf9b0005ef67cc4205656c8d9fd206bc3666"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/46 t-k - living free (degnic's red baron remix).avs",
+            "size": 3326,
+            "checksum": "sha256:585e29e9cdc4cd7987016894f0dc3b0a655143f24b9a777644695a67146b29f7"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/47 montana - evilcookie (degnic's dejavu remix).avs",
+            "size": 3071,
+            "checksum": "sha256:9ae83e01793a2417cff7a259727b87acbb572400ed897585793c7db0a89aea8b"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/48 zamuz - pastel flow.avs",
+            "size": 5430,
+            "checksum": "sha256:86703b77ba47b6d16ddd6234e43d45a8c3e40dc4d9b577d0ae7a038697eff394"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/49 el-vis - 3d sounddrive.avs",
+            "size": 2200,
+            "checksum": "sha256:f1a6a727f0b3c796ac07c89ec988e73d6f42149c501f7ac542a65f444744ea24"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/50 avs-king - fill my head with poison.avs",
+            "size": 2320,
+            "checksum": "sha256:0c30613d6777a6e42f93691bf6c3c7f42c6262b65dd2546c14ccb1591321b0b6"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/51 el-vis - molecules.avs",
+            "size": 4787,
+            "checksum": "sha256:1d22882ecdac196d1f19211e65202d10e0e8b2dd901a5ae363415d0f0d87c89f"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/52 tuggummi - multiple orgasms.avs",
+            "size": 3651,
+            "checksum": "sha256:3c567e86cc43a0440eb4f68669509823bc55879fb9b09d0ade7b1bc8171c1be2"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/53 zamuz - explosive virus (purified remix by tuggummi).avs",
+            "size": 4918,
+            "checksum": "sha256:aebdd0c6c845ca1af6cec64441084d4f73abb33d0c59711f2d1bce4de2e97577"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/54 yathosho - aquarius.avs",
+            "size": 742,
+            "checksum": "sha256:63a52762cfb9727a82a141064f24ee5def27a881e118521f6f37bf9378b1be0a"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/55 unconed - blueprint isometrica.avs",
+            "size": 25405,
+            "checksum": "sha256:aa94c7e43954c684043699b166571b68fbedc1f6a19983aae42d372ca44e5861"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/56 zamuz - blooming (yathosho's oldskool shit).avs",
+            "size": 2309,
+            "checksum": "sha256:5e2b5cda404b041727232238afb1936e75bc895009fa4289a25eaabd1eff882f"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/57 unconed - silk strings.avs",
+            "size": 26455,
+            "checksum": "sha256:7f52861038979a50a419ba6e19ecd0bd974a4b7b0c1dacdf6db10066498ec9fe"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/58 skupers - with your fear (nemo remix).avs",
+            "size": 1858,
+            "checksum": "sha256:11f1455a8f00660b19da8711c9adba5835d9f9e5a2d882ef5cec494af154d74c"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/59 el-vis - power source.avs",
+            "size": 1874,
+            "checksum": "sha256:0abcae636ebacc6c07f74ceee923e1b1ff4ec2baca9b2f54343b8682011edd48"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/60 avs-king - 16bitland v2.avs",
+            "size": 3152,
+            "checksum": "sha256:2e57efa555b90e1cf7ebe6eccf29a8edd586d9c2a322d2b2a9491691e80da4ca"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/61 alchemist aka avs-king - messagefromwithin (skupers remix).avs",
+            "size": 3197,
+            "checksum": "sha256:179ae97a58a3abd39a261fd1c557048e9f788d5727d8e4c2051c803ffe6f9919"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/62 duo - 77degreeswes (skupers remix).avs",
+            "size": 1642,
+            "checksum": "sha256:12a0fbc2e6abee52102f52507baf3b2d3a2455b4c10e69a29acfb962cc375365"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/63 jheriko - rerejectrx (skupers remix).avs",
+            "size": 2366,
+            "checksum": "sha256:3124847d52e362008f40dfd86e2d305649e3cd6e7e5ed0d6dd13c6f81a99112b"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/64 skupers - vesuvius (skupers remix).avs",
+            "size": 2200,
+            "checksum": "sha256:fc74d13ebf0cfd50bcdfe1ce082d62e791eb80948998412248aa8bee03307c6d"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/65 yathosho - abstractfunkychicken (evilrice remix).avs",
+            "size": 1739,
+            "checksum": "sha256:340d489ebb37236672fc595c66b5277fa617bce036c13d03545764113854ce9d"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/66 skupers - generation (mädchenland remix by yathosho).avs",
+            "size": 794,
+            "checksum": "sha256:f31b2b0cc1bada92f58aab41c6482c8bc305d0cbd3a68e6641a643eb4229b466"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/67 el-vis - golden.avs",
+            "size": 4545,
+            "checksum": "sha256:e86e5dd4c16aa1a56770d5df12920a689277190c87933d7c0d93be21c421c1a2"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/68 duo - born on fire.avs",
+            "size": 2556,
+            "checksum": "sha256:85b35ea0f8532608d7646857bc7a7f59f6d538f104c4c44653f7d15898b47759"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/69 nic01 - pastel.avs",
+            "size": 1967,
+            "checksum": "sha256:3c3a1b71d6ea952dbc58e523c8209ba4d208c4f39880d85c90f7a38c348f5bc7"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/70 fšk - checkers with metaballs.avs",
+            "size": 2824,
+            "checksum": "sha256:664614b8c95db8f2d02369285f1c19336305c1e3474e2d34d030decc15e4d8bc"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/71 skupers - stylized.avs",
+            "size": 3092,
+            "checksum": "sha256:38fb9e5fe9d9b849230cdfb4fa2cb4af21a6512d738fc910ab510aa3cdc5abcb"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/72 nemo - play it cool.avs",
+            "size": 2250,
+            "checksum": "sha256:67b3cf2e803270f86b21f52d24610453e13881bab1dca9eae9cf5a3577e80e46"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/73 nemo - tropicali.avs",
+            "size": 1523,
+            "checksum": "sha256:5346ea8dbbae5f4e981c4695f0486bffab7142a77fba84292719efd5a901056f"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/74 yathosho - kirscharoma (eet eens een kers remix by skupers).avs",
+            "size": 2845,
+            "checksum": "sha256:63be453f9579707ab4eb1c078ff75a144e2b9a4869141217d666b97f4b0171bf"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/75 zamuz - degnic - blood, snow and sky (restylished).avs",
+            "size": 4497,
+            "checksum": "sha256:73d34b19d2f5f7bdd69d9a884633f1ce1a7abf1b04bd74c5e8831ab60196297a"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/76 unconed - elevation (claustrophobia hybrid).avs",
+            "size": 9063,
+            "checksum": "sha256:d17535a5431923d07c0b780c4587ae219da6591a2b54e6a1fe4000a219a427c9"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/77 el-vis - french dream.avs",
+            "size": 19833,
+            "checksum": "sha256:35300ae963aa0e2f62f2c57b92952ede7f1e0249de37b7862a37471ec610ef08"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/78 duo - intelinsideofyou (skupers remix).avs",
+            "size": 1799,
+            "checksum": "sha256:974c076ce669999b18d572df1fb210dc585a68f59daf68ea9eaca17ce1a463a9"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/79 yathosho - milch (v.i.p).avs",
+            "size": 661,
+            "checksum": "sha256:e09328b89e9ad6b51979772ffec72ccb73aa571c4126af0f44b0346ebbc5e097"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2002-03/80 degnic - bacteria (degmix v2).avs",
+            "size": 7410,
+            "checksum": "sha256:81f94bbafde3e5620262be7d11b6d296091e446f003b8e9e4cfd8012344f33fb"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/01 el-vis - gradientspectrum (neon acid mix by montana).avs",
+            "size": 3629,
+            "checksum": "sha256:0c06d239cec0f9dc1f8e6a680c270568b61b37db1d6250da0125bd2e1f7a98d0"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/02 tuggummi - warp.avs",
+            "size": 5349,
+            "checksum": "sha256:550c6450d4fc690a37fbe18ee7ca1b73d88b62f4269f54901b84c29604616744"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/03 nemo - softer blue (yathosho's butterfly mix).avs",
+            "size": 1797,
+            "checksum": "sha256:729e662d250462ea5d75481f406abd297c3c7a73ac1e5ac1c9d9034933e2814c"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/04 acid - twitchy liquid shit (mixing plastics by tuggummi).avs",
+            "size": 4047,
+            "checksum": "sha256:6ec46a947a7e28bef12f546660288fc7cd8e6c12a67583bef14c7cd9878e7b23"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/05 pure-krypton - fux0red attempt at curvism.avs",
+            "size": 2838,
+            "checksum": "sha256:e212bef328bd7d08bd4f773f178ccd595138a89bf703c05965b5c3e9b73763f7"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/06 dynamic duo - it's all square.avs",
+            "size": 2022,
+            "checksum": "sha256:f64f7cfca85ef0acffbb075cf8dc8252077c012702188f8aeb7da9773e688831"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/07 stardust - redemption (ya-tho-sho treatment).avs",
+            "size": 1840,
+            "checksum": "sha256:6dbb2c2ed08e7d09131500755f1cd8015ecee2a5c1c006fd1c554d813f53e139"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/08 unconed - twisting fun.avs",
+            "size": 4446,
+            "checksum": "sha256:9eb0829e0475df908f3a82315bc280572521477d671fb7227ba73c4670bdf0b0"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/09 pure-krypton - evil green thing (yathosho expects the expected edit).avs",
+            "size": 2138,
+            "checksum": "sha256:f2d27faca53b109801805332bcc37d54e13a59b6191ed0021ea8067ea9499363"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/10 tuggummi - warp (icy remix by skupers).avs",
+            "size": 3456,
+            "checksum": "sha256:c8b2933a695e7326dd62debbbc9ce92bee0552e29852bc33710761df9ae2f76c"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/11 zamuz - milky dream (vagina wind mix by tuggummi).avs",
+            "size": 2861,
+            "checksum": "sha256:94a789f2838002b06160423b7dbfff0ef5484f3424c59387fba7e1e2513c4780"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/12 tuggummi - baby roller.avs",
+            "size": 5522,
+            "checksum": "sha256:75e69e0e143d31882c3a630db5124310432013eb4c208f56bf90357d1771b5ae"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/13 jheriko - purple haze (pulse mix by tuggummi).avs",
+            "size": 4531,
+            "checksum": "sha256:c9e4ae71ebafa7b4f13d89828c3c1fef31b487d4e6478bfd1390add94e0b850d"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/14 shock value - helix.avs",
+            "size": 29762,
+            "checksum": "sha256:f6cab031d360fd18e7c2db0315b5dbad84757ecc387a0fac3344052f35938706"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/15 amphirion - gridlock.avs",
+            "size": 3992,
+            "checksum": "sha256:938585272a0badd69af12f2c1e3b7875059e24cd1c9236ffdecde74870d8d247"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/16 shock value - forces of coherence.avs",
+            "size": 10104,
+            "checksum": "sha256:a71c6c01f64f84451957f99ac246d30e297d2deeece67655724bbc6904d3d9ff"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/17 zamuz - my way.avs",
+            "size": 4080,
+            "checksum": "sha256:b23e0cb7fedcaf3b8b4e400b017f8bac903af97d97c3b28eed8455459d54bbac"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/18 amphirion - amber crystalization (light design remix by zamuz).avs",
+            "size": 3863,
+            "checksum": "sha256:781aa5724bd80b06c8fdb13ae8c21dfe11eb38b955bff61a528205803f4b5dc8"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/19 zamuz - flor.avs",
+            "size": 4257,
+            "checksum": "sha256:e0ac6bffcde328583565dec5d33ae642d28c8cf7cc9f74ece28b65c847efd3d3"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/20 amphirion - cryptocoryne.avs",
+            "size": 10377,
+            "checksum": "sha256:d741c2588cc9105dc08e527a921f2bcaa9c85267dd66ff9eca1ad9b2be72f2ca"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/21 jheriko - stereotype (orbital lush remix by vanish).avs",
+            "size": 6506,
+            "checksum": "sha256:a3b8ca316c0b05b7dc0d00fe47b9aec491025680624ec91a15f660cfb9007e7e"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/22 pak-9 - pandora (g5 mix by tuggummi).avs",
+            "size": 10614,
+            "checksum": "sha256:3f5b973ea2a63e38de79c713dde22c13749db3a6868bd2eaf2a199c51c0d2a44"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/23 zamuz - in between.avs",
+            "size": 8117,
+            "checksum": "sha256:611d58e09fe0f99c1be9fb58d667e4a35dab2e6996ef67f362b35b482ee77e16"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/24 dynamic duo - incessant.avs",
+            "size": 4128,
+            "checksum": "sha256:d8b6c3caa4b41eb111bdf627ab0d38fa0402accfc36f5300f18389791c0336c2"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/25 yathosho - bitasweet.avs",
+            "size": 2073,
+            "checksum": "sha256:a0e7ef5316239359009b26ff61db4532bb0cd3cf7f7e7b96a571e6cb501e501d"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/26 montana - sleeping desire (unconed's speaker mix).avs",
+            "size": 2185,
+            "checksum": "sha256:78672eb5ea42395cae4bba5cf494ab4dc4cdd5ed74f086dcb0adaf7f166a73fc"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/27 raz - fireworks.avs",
+            "size": 4201,
+            "checksum": "sha256:3130037aa4f7ec505b608bca5d043e8acff531081d23ab9d0419769c6086456a"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/28 tuggummi - flash design (dedicated to skupers).avs",
+            "size": 5267,
+            "checksum": "sha256:67ee451f712e8e2ff81f05020cd56a3885fe87f904605ac6e4a525d05457d8af"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/29 nemo - blossom.avs",
+            "size": 15818,
+            "checksum": "sha256:74dd468304d1860bbe06c3070288722de367ea5bc3042f165a37f092645d3901"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/30 frames-of-reality - cucc.avs",
+            "size": 1944,
+            "checksum": "sha256:c362987c5192ac2218b5dc3fe62aef811909e49a8abc79616a86042bce5828be"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/31 yathosho - stijlomat.avs",
+            "size": 3835,
+            "checksum": "sha256:a6ec945fc06e327d6270573d5a7ac9176dce2fff5e7a352470dc0a0a3005f6cb"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/32 duo - ghosting.avs",
+            "size": 6054,
+            "checksum": "sha256:1b88b3f37ea9cdb177537db8ecfcda19ce4cd5a6761727b4499db7d342294988"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/33 unconed - r0x0r my b0x0rz (outlines).avs",
+            "size": 29760,
+            "checksum": "sha256:f1d6feec512c965a7476e055557e480821ef4e098a7d8532de1f9c1f8e73f0d7"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/34 zamuz - óleo (effulgenceaureole remix by vanish).avs",
+            "size": 6179,
+            "checksum": "sha256:b76db89bd8ae7b422317f59506aa15c2cf507019dff5e5260214a3621ea04828"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/35 hboy - construction (lucid sky remix by vanish).avs",
+            "size": 5951,
+            "checksum": "sha256:04bb9ca8dbc5a47beee33e7596345012f6f04f8cf53892f3901ab9de96a4c2b9"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/36 frames-of-reality - naxius.avs",
+            "size": 1652,
+            "checksum": "sha256:091868881777bedffbfd261d024c8dc253f17b3bfae4770693ae388019645497"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/37 tuggummi - converting your thoughts to rgb (body to bass remix by dynamic duo).avs",
+            "size": 3060,
+            "checksum": "sha256:5ee42a49af20bff315209efaa21c7dd80e80a63f4828e785ed3eb79c4b5985de"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/38 dynamic duo - dial m for drugstore (zamuz's drugs make me dizzy remix).avs",
+            "size": 3715,
+            "checksum": "sha256:19be3c8be12ea15855d2eed0de786f98069e207163806a789360c26c9e093a03"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/39 amphirion - moonshine (daylight remix by zamuz).avs",
+            "size": 4650,
+            "checksum": "sha256:e050fad7f2ce24380c4ab7b491d94d9b6a9b9b469120a18cf02e4e15666c3804"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/40 hboy - constellation.avs",
+            "size": 8958,
+            "checksum": "sha256:b2cda245850e9b72aff4fa0492e4a4862434927956553f13cde477ba76317c4d"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/41 pak-9 - shooting star.avs",
+            "size": 65500,
+            "checksum": "sha256:c2b4e77404b535327b814908deebc8ec02efaad368fde4601b564472a8d4be81"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/42 viskey - lets build a scope.avs",
+            "size": 20953,
+            "checksum": "sha256:36769dd0442a376d429d575dc3bd1ca80a857b729b5f78d645acbceedabdd3aa"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/43 nemoorange - 45 (fishbowl remix by pak-9).avs",
+            "size": 90065,
+            "checksum": "sha256:2caae64d7b87a12f8f87c169ebd98ad62197249ec2fc7de3838d877d729621b6"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/44 zamuz - rainbowish (yathosho's all lemonades mix).avs",
+            "size": 3069,
+            "checksum": "sha256:c900fcc04eb280369b5188cc755155b8443032356232eb71f2f105240cac2b61"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/45 hboy - quadrinity.avs",
+            "size": 4319,
+            "checksum": "sha256:0b76cfb88d8a8426fc39378e83df6e38c4f40c5f019d1dd53b7b0df784b3f45e"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/46 frames-of-reality - intro (yathosho's gif2give high mix).avs",
+            "size": 4244,
+            "checksum": "sha256:730b14b276d9100e27469991726993e4295f6aed939205474268b2d2852b1a56"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/47 drew - toxic-inkated (phirious remix).avs",
+            "size": 2534,
+            "checksum": "sha256:3913fd892af1327df2ef56496af469078ac11084b858c23bf9ad077034d7df1a"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/48 frames-of-reality - divisions (dirty urban remix by pak-9).avs",
+            "size": 3931,
+            "checksum": "sha256:bd618dbc16f5a93aae068bec73761cab93087e947a6eb5e6168c752f64906f09"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/49 pak-9 - droplets (eruption remix by unconed).avs",
+            "size": 19282,
+            "checksum": "sha256:2d49f04500c230f343660ebc445e9227334f3bed71ef0a4510a8c60965031dfa"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/50 yathosho - get customized too (framey's treedit).avs",
+            "size": 4014,
+            "checksum": "sha256:2002ea4a743ee06b2fca07e4c81aeee2c0de872ea6486254d198c8156ed18e87"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/51 amphirion - abstractica part deux (ya-tho-sho treatment).avs",
+            "size": 3588,
+            "checksum": "sha256:d49f9132ab3b0d0bc55d25eebb53cd61e3cb2ea213141349086c7de4d1af2517"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/52 synth-c - delerius.avs",
+            "size": 2414,
+            "checksum": "sha256:24d833e56c51cfad48f3111e5a61079682f2d4eee28a1aeae7ffe188d640280a"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/53 nemoorange - chemistry (jjcl's chemixtry).avs",
+            "size": 4381,
+            "checksum": "sha256:7f693e7160632ef78e58a4a63f87e7c0dd0903ac74ffe8030b851c3a3246d790"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/54 pure-krypton - paprika and spices (jjcl's return2romance approach).avs",
+            "size": 6162,
+            "checksum": "sha256:4c5c45d85d112c2f4c48fa1949211b2859c09f6276dc3a89e4b07dc7e8d22109"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/55 jjcl - buttoning revisited.avs",
+            "size": 3128,
+            "checksum": "sha256:55a07175a0b5c699861167933205df7d931ec422862634507789178e005cd37a"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/56 zevensoft - xmas celebration (london town remix by pak-9).avs",
+            "size": 11654,
+            "checksum": "sha256:7c30aa275e43839887a4ae62be6696f24406ff1f026eec9d050a98ef984e3895"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/57 pure-krypton - skin.avs",
+            "size": 3525,
+            "checksum": "sha256:66bde51fcb53a987f08410c785ed53b6310ccb10458a2d3ac0dd0ba38bbe04c2"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/58 degnic - addictated version two (pentexisbleeding remix by vanish).avs",
+            "size": 4401,
+            "checksum": "sha256:9478449acdd89d357b0af518f440c14c14d2b9b9144d887b4ed9796c922b0d87"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/59 vanish feat. zamuz - results may vary (spacechannel remix).avs",
+            "size": 7226,
+            "checksum": "sha256:6be4361463a9f0efd52a696cb4851909fc5768546f1e7edab2b7888860b28610"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/60 viskey - the gamma fog.avs",
+            "size": 2529,
+            "checksum": "sha256:fd7d307eefabc89b0d1f6c595185f1c7607cbf3387aee087ab75ea18f04bfe0d"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/61 pure-krypton - pure flame (light me up remix by degnic).avs",
+            "size": 2949,
+            "checksum": "sha256:dcaf6dec19e72960277087e903a4f681878961338fd8773a471bcb18a41004f3"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/62 hboy - supernatural.avs",
+            "size": 3341,
+            "checksum": "sha256:5ccc9abdecabc66089b6b83a28fa4fc31973bc71ab7070c8009b685815ba56e1"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/63 frames-of-reality - leian.avs",
+            "size": 3668,
+            "checksum": "sha256:22856a395fd68b3e7e5e325dcf2e70f34f631474030cdec2fc4477ec9e7fa7d9"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/64 amphirion - wanlotus (astrofunk remix by skupers).avs",
+            "size": 3753,
+            "checksum": "sha256:e4aace8cb3e3bfbb01b2002f99de9b00b2f15582e71ff877a526f56226b090d1"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/65 yathosho - happy end (ya-tho-sho treatment).avs",
+            "size": 3849,
+            "checksum": "sha256:37238d9c00a1c5e0894b9bcd203d7cf24526f62c5d381f510a784edaaa519c96"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/66 zamuz - urban metallic (skupers remix).avs",
+            "size": 4160,
+            "checksum": "sha256:2fe8b550b8a9d89fe80552c23c809c519279adf4fc903c9f3769486158b547aa"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/67 frames-of-reality - avellx.avs",
+            "size": 5003,
+            "checksum": "sha256:9845792ec924df1161a43f434905f2de4f6d88051e42cd2b377fd344687bc695"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/68 unconed - energy crystal (tuggummi remix).avs",
+            "size": 6187,
+            "checksum": "sha256:c8b49930b6632f532b262f2f4d976346736c42cdd993a80af96036b4e19626fa"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/69 frames-of-reality - monument.avs",
+            "size": 6835,
+            "checksum": "sha256:3868733dd8eab083d5bf6c0069b6b53c7d9b3bcae08e9e7c898250b2d6ba262e"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/70 amphirion - over my head.avs",
+            "size": 7048,
+            "checksum": "sha256:d7703b0cf011b383254f09b6dc6c8a892e0836a163b02b0663b60adfecc8d553"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/71 shock value - uncluttered elegance.avs",
+            "size": 7600,
+            "checksum": "sha256:b9a456de73623518e1a16a8b360d500421e26d5ab63c37b6594bf8f55866f291"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/72 amphirion - string theory.avs",
+            "size": 9049,
+            "checksum": "sha256:9d6568431534540a4c271b5acc3859334e50deebe42379f3fc6a0b5b017eb286"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/73 nemo - 45 (ya-tho-sho treatment).avs",
+            "size": 125159,
+            "checksum": "sha256:7e26304280a164911302855ffcbc23956af4a0139bccf544f3a53069e7b8a426"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/74 amphirion - take it and leaf.avs",
+            "size": 13145,
+            "checksum": "sha256:c550beb8905b8c383bd64254a2b76865fd865bbb61b5165ce67900ec4cdc8f4b"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/75 hboy - orifice.avs",
+            "size": 15571,
+            "checksum": "sha256:e6210b142b2ba0b45730a98aaf7896bb4e7c78f1a268e3d25303256186e074fd"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/76 amphirion - satellite nation.avs",
+            "size": 16277,
+            "checksum": "sha256:add13ddddc71c1290b09895f78708cabd8235cf82054d3966756c7ec75e92b03"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/77 shock value - ghostly eye.avs",
+            "size": 20642,
+            "checksum": "sha256:fcd5f032f71e80c90bda2276351430433f50401fa14ac805a0f1a0b755e0c0ea"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/78 hboy - nonfigurative (fire).avs",
+            "size": 24942,
+            "checksum": "sha256:4cbe4465c83ee07ac6f5a909d383c8e4b1b873b1f7722185a6e1faf5e84a0f19"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/79 nemo - symphony.avs",
+            "size": 87872,
+            "checksum": "sha256:306b3de30d50706655c9eb6a7f573d29182adceb6b8a5f1b1616ab5c83ef7a89"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2004-05/80 shock value - inferno.avs",
+            "size": 11113,
+            "checksum": "sha256:d9608bdf9158c711228171a9bc0ae20abe9f593ec1726ca103e6e7c1c6807fe0"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/01 oussy - beach vibes (inside remix by zamuz).avs",
+            "size": 4121,
+            "checksum": "sha256:daff72039e1660852304ff9cf9f0a33606637820a7110da89a2d2c3cf422a430"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/02 yathosho & tuggummi - let me out! (remastered sky remix by vanish).avs",
+            "size": 5981,
+            "checksum": "sha256:4096500c095876527f7562e0280909ec2d16180ae562ba3734b34d96bb7ad4e0"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/03 framey vs viskey - somewhere between something and something.avs",
+            "size": 7741,
+            "checksum": "sha256:84dd7031372c0783fcaf9be3cef303049505994bc7ce311a43f8cdcdad2f1581"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/04 grandchild - paper fly.avs",
+            "size": 7357,
+            "checksum": "sha256:4c88df0da1aa1b4b4053a0a736407e6f641a325962919a1c5034cca99bc77d6b"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/05 hboy - when dreams awake.avs",
+            "size": 3987,
+            "checksum": "sha256:5fa442f70112a128bd2558adc32178e1cfdf4d0ebac648135ac3faf02e2ef038"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/05 javs - the x flavour.avs",
+            "size": 3286,
+            "checksum": "sha256:4706a314b3474387d0987dd97e16b14294d3e1ef67553788e7695a3e11142d95"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/06 amphirion - entangled.avs",
+            "size": 4373,
+            "checksum": "sha256:e508cc5e2d5503b142efa3a78903a1e59037a395a0dda0cc267bb5f9c09549d0"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/07 zamuz - give me my feed back.avs",
+            "size": 2984,
+            "checksum": "sha256:ece762c958e553d9046e65a07880ce4692a303ce8bbcd1f6b26349c1e92fd160"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/08 dynamic duo - tentaclism (nemo mix).avs",
+            "size": 4963,
+            "checksum": "sha256:2784ab8276b4cf02ee0ad5db25162e151f78697240895f27a0dbd28f7a26fb43"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/09 hboy - interstellar phenomenon (yathosho's kyoto edit).avs",
+            "size": 15894,
+            "checksum": "sha256:03d64c031f449a2b0e01b631bea658d47843adcae3df99211ba4e97fc869f2dc"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/10 m-e - simple mpworkingssse (fake les noobiens rmx).avs",
+            "size": 6998,
+            "checksum": "sha256:4efdc2bb7c3176d7c4512e710381ffaaf51757248df497cb232d5ed1485b4f5e"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/11 drew - downtown detroit (degnic remix).avs",
+            "size": 5232,
+            "checksum": "sha256:d1490a5357a75ea9baf31eb270b7573a145dd81a6dec742849901177bcc4db0d"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/12 elvis & vanish - envae (novae remix by frames of reality).avs",
+            "size": 5793,
+            "checksum": "sha256:1b058fb990d1df9c8f6f98f15549e23f545ba4c1a7c99fc1d55a90108e3c6cd1"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/13 frames of reality - the haunt for dreams.avs",
+            "size": 4233,
+            "checksum": "sha256:8bfba5c0331b5980e4670cab31541284e0b8452bf05d4766f42f50bbdab02a10"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/14 hboy - stillborn universe.avs",
+            "size": 10689,
+            "checksum": "sha256:9846988f8af0e5770f6308c655b61e90e88e63eeef471a287868a58c38e2aff7"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/15 javs - the missing dots.avs",
+            "size": 5318,
+            "checksum": "sha256:4b8dea1af61058a0941f7faf5b90904326198de8a472f07d791b71277f390679"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/16 p-k - random explosions ii.avs",
+            "size": 4916,
+            "checksum": "sha256:1dbbc9e428a7b405c89b7a15f76f68c246db4351ca4ca997fb9bcfd3ea815014"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/17 yathosho - minotaur (the mini-tower of rice mix by grandchild).avs",
+            "size": 5679,
+            "checksum": "sha256:3e04e2ec1c69271342b565f21b84a0cb3f41283ac7b0b880f7f75b1b1e5a708f"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/18 zamuz - all the time.avs",
+            "size": 7494,
+            "checksum": "sha256:c5ac91240ddcb041e2806a9052a98c613d4fa1763e48445b84f9f32c2a09b809"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/19 tuggummi - fat balls (wallpaper wannabe candy theme by zamuz).avs",
+            "size": 23016,
+            "checksum": "sha256:9b17736ac208386be59653b34335f88294ae21e272abf4d4c8502dbd8805a5be"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/20 amphirion - abstrkt fundamentals.avs",
+            "size": 10255,
+            "checksum": "sha256:8872d732e1ca359f42600cf6b1adcbe4807b90220ff83895c93f51e570dae28a"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/21 onionring - halbtonbild.avs",
+            "size": 10994,
+            "checksum": "sha256:40ee166864d0304bf0649722d93f6dd45d2b8c012a1cb954ee7f8717498c65f8"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/22 javs - random generator.avs",
+            "size": 8469,
+            "checksum": "sha256:7d684e60c4d8309263607dc7cd901392876ea08695217fe7a12f1c61a1146199"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/23 denkensiefursich - sacred scars.avs",
+            "size": 6668,
+            "checksum": "sha256:d2c13ba83ac888d9fc63b71dab91aeff6613e83cb354f4c27fddc996612e85e5"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/24 frames of reality - optical tuning.avs",
+            "size": 2625,
+            "checksum": "sha256:5988a81d953e120d1ac35d5313329e84449e433cbbcd94a38be8405927bca00d"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/25 hboy - evasion (molten remix by frames of reality).avs",
+            "size": 4817,
+            "checksum": "sha256:75bb72149177cb9c6d26ace3a447763db5ecf41abf7e775c03cffb678234b182"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/26 kar-ma - dither (vortex mix by jheriko).avs",
+            "size": 4849,
+            "checksum": "sha256:e96baaf2ee233f31c85632626b71792a44347d9336760a3b44bce83145c1fec5"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/27 alchemist - just like el-vis taught me (yathosho edit).avs",
+            "size": 3505,
+            "checksum": "sha256:9b766e15b871f3d333675b77b93493fdd4d96dce9368892e89e573f222e648d0"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/28 frames of reality - blood vs milk (horusian remix).avs",
+            "size": 4675,
+            "checksum": "sha256:e7eeb50eb93dfa03e8d89e1777dfaaeb04747778807471c54f4a3343c9317092"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/29 hboy - phoenix.avs",
+            "size": 4147,
+            "checksum": "sha256:c812fa8ce53929005f6ffd31cf0991df29bf4c32b4eb2ea8fd9b9b3454858997"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/30 zamuz - as fake as it gets.avs",
+            "size": 6544,
+            "checksum": "sha256:2fb0e68c2390ae5102639ae4b4f96a380b1bed45c21b8a8ce92dee00b9f3ab26"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/31 yathosho - electronique (boxique mix by pak-9).avs",
+            "size": 7982,
+            "checksum": "sha256:fd075f60a2a554de160ab854caa1e1fa363ed633447c245bb45c182cf15bc476"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/32 degnic & skupers - amigablogs (rainbowdrops remix by frames of reality).avs",
+            "size": 4569,
+            "checksum": "sha256:183526b5bc3fe11130c2d57bc491a058c7a263c186e49bd169550bce7787e081"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/33 denkensiefursich - the convicts (revamped).avs",
+            "size": 5658,
+            "checksum": "sha256:ade166e6d6106da83768e6425dacf0c8978fe8dd7499eac3b738a78cbe589516"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/34 dynamic duo - get sick (777minus111 mix by vanish).avs",
+            "size": 2597,
+            "checksum": "sha256:0a5faecc5bcf5c71a8792907c6e839e705edcce3a20b904f04d904b472122a31"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/35 amphirion - abstractica part deux (ya-tho-sho vbs.krower.c).avs",
+            "size": 5711,
+            "checksum": "sha256:c0a510ab6abc516c02fb0221b7fb0eac2511bef10427619fc3f8201c388e4dd2"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/36 frames of reality - escarte (blackhole remix).avs",
+            "size": 5500,
+            "checksum": "sha256:eb43ffdbba352aee4f3960fd11abdb5fa81e12a56e4cf2f0eee56836971c5d6a"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/37 javs - the x flavour.avs",
+            "size": 3286,
+            "checksum": "sha256:4706a314b3474387d0987dd97e16b14294d3e1ef67553788e7695a3e11142d95"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/38 unknown - colorthingb.avs",
+            "size": 7916,
+            "checksum": "sha256:4039b0568197577b06de189fc8f35f8796e2de7b707d94b754802967ceaac55f"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/39 zamuz - tentacles.avs",
+            "size": 14331,
+            "checksum": "sha256:664ac34f588eed1e6a813ecfa5961a24ac7360da8ef2177b45a86c198916563a"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/40 hboy & vanish - lucidsky (frames of reality's ducil ski mix).avs",
+            "size": 6638,
+            "checksum": "sha256:853b0ff4ff623e1a07c5567527a32e4983d6958c368c20a7c4f43b733856670e"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/41 onionring - punkte.avs",
+            "size": 5190,
+            "checksum": "sha256:c6c0c90a7bcd06a151fb0c0657bc94ba38e939140a747555fbe4525970b7579e"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/42 amphirion - wanlotus (dynamic duo rework).avs",
+            "size": 4921,
+            "checksum": "sha256:6f16a6ca8130566a393ab64ef1b647a48a384a80547477dd5a2d0fd3197c432f"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/43 dynamic duo - contraction (sunfraction mix by grandchild).avs",
+            "size": 4468,
+            "checksum": "sha256:98503c1da04dd07f0dc2433df22b4ada4587276e4d1d356d25fd9b8f5f55c933"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/44 m-e - beautiful slop (fake frames of reality rmx).avs",
+            "size": 6428,
+            "checksum": "sha256:f157e3c9fe853250968ba241cc139dd37d19a77e696fe7a6eebea72beb294a8f"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/45 hboy - full of stars.avs",
+            "size": 10670,
+            "checksum": "sha256:3922f0539bddd4e67ec9a9d2a29eff2b7c6a321387382a9c50620673292f6526"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/46 frames of reality - into the chambers of beta.avs",
+            "size": 1994,
+            "checksum": "sha256:b69f7e277442fb4d09e04edb2c6ee25e248d8f892fab8a8d6b2e42b124f6d59b"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/47 duo - biofeedback (final destination mix by hboy).avs",
+            "size": 4885,
+            "checksum": "sha256:c8bd57d57abcf17921d9e137f9e0cae4f63110e2aa564ebf940856172afd8e69"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/48 grandchild - deeper hell.avs",
+            "size": 4383,
+            "checksum": "sha256:bae21376ace5062f9c0a2ab079e2eb3ca570915aa9de1e68be626950d86ab03f"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/49 nemo & alchemist - zoomy (yathosho edit).avs",
+            "size": 1693,
+            "checksum": "sha256:62e012072ff9aa6e58514662db6f8cf8bbea4db78d4cdf64a1a5e5a853633096"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/50 tomylobo - home of the dragons.avs",
+            "size": 16489,
+            "checksum": "sha256:7e5454322ec62d3a09a66c1237a71ffd9cb5199b524cb637a7103b6f3d841d0f"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/51 raz - clean.avs",
+            "size": 24636,
+            "checksum": "sha256:6c5b80e23b6c4b76fce1ad0f51dffcd0c14ac6bd8ca31e83f6ce2ca4f835d889"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/52 les noobiens - blockz (ugly edit).avs",
+            "size": 2500,
+            "checksum": "sha256:c057b9e41ac190bfc866686a816c2e9cfaa65d49285d58eadbb7d87907362b9b"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/53 yathosho - anja ruta (ugly edit #2).avs",
+            "size": 3062,
+            "checksum": "sha256:1669581f6c2e9970f5dc624ae3e9ab082150eb20eeb75cbc85c90c6fcdead423"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/54 elvis - dreamtime (dynamic duo's harry-bo rework #1).avs",
+            "size": 13175,
+            "checksum": "sha256:2cfbe5396136dab4bb4e60b1cc9a01e7c6df94b3deee664b920a48381cebfadf"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/55 jay-fatboy - just keep... (zen-x lost idealism mix).avs",
+            "size": 2773,
+            "checksum": "sha256:d5b38629af2e29d5d5fd554e7b06aebda0121e561ec93ee12871154cfe129f48"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/56 mr nudge - proxy (yathosho simplicit mix).avs",
+            "size": 3273,
+            "checksum": "sha256:b682f71f7f444bc4c13c2c61b712f43ea1820c9cf6349a037ed747c71efd0029"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/57 skupers - silkyworm (amphirious remix).avs",
+            "size": 5260,
+            "checksum": "sha256:3e0a1a78268f1607a3d1be2b937dcc68157261c15cde88951e7e3cb611fc5560"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/58 dynamic duo - upachi.avs",
+            "size": 3537,
+            "checksum": "sha256:a2c1b8a10a86c6e9db3ad8e9ad5c8bdf3f60022903465ec5ebcdbc4282fa3d90"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/59 pan am - silkworm.avs",
+            "size": 1762,
+            "checksum": "sha256:268503377e2fadcc00491538e840606606269f83b32847bd4287b5f3fd8448d1"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/60 shock-value - uncluttered elegance (dream away remix by zamuz).avs",
+            "size": 7967,
+            "checksum": "sha256:9cc5f5274dfc0bd1b12c5d40c82c0ae84d07e53e3250c7b5b079ad9460517c3b"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/61 nemo - scent.avs",
+            "size": 4742,
+            "checksum": "sha256:d4a476022c06c953861eb66ecc24102720559d8f1254afd266878af154db85e7"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/62 mykal - blossom (pay your respect to the vultures remix by frames of reality).avs",
+            "size": 5314,
+            "checksum": "sha256:0dbed032be4afd3d539b545d754df4364bdb0e89f7a28ed45f34f46d14f49b9f"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/63 yathosho - sokoban (2006 re-edit).avs",
+            "size": 2697,
+            "checksum": "sha256:63c464b0f03d3cf19fd6228c288e003f938753e769a143c3c595e6b14e4fb5d3"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/64 zamuz - light expel.avs",
+            "size": 34208,
+            "checksum": "sha256:e4ac364a99341b7936e272aa157a9faca46e655aa4d6d0fb15f1a073fa7f85f6"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/65 hboy - delirium.avs",
+            "size": 10539,
+            "checksum": "sha256:df9ae3130d90d65ef6cd32071c4d7672fed39cef26eb0d5a6ce5954bd5607334"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/66 pure-krypton - skin (yathosho's closer-closer mix).avs",
+            "size": 7724,
+            "checksum": "sha256:9fc5218ce1c49861291e030caaa8f81b242c5e610efd873cce3b1295a5a2ea9f"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/67 pan am - mnstck (les noobiens vs yathosho ip-op remash).avs",
+            "size": 4601,
+            "checksum": "sha256:b4a57fe3f09bd8d3d2bd275df03bf6b8fd768413cae1df1f037f9c17edc13b36"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/68 vanish - nuclear sky of summer 2007.avs",
+            "size": 4958,
+            "checksum": "sha256:6edd763a371ad834362252ce73fb31a1a32d350d8874feb6d939b8d474ab0c78"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/69 grandchild - omegawd!mysuperenergysweaterisonfire.avs",
+            "size": 3745,
+            "checksum": "sha256:7714675a8a741ee4e48a2f6ab9d44504545714b4b9f18e85f34fb9b9562d338a"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/70 hboy - organisms in a spotless mind.avs",
+            "size": 6734,
+            "checksum": "sha256:7b6050d35c4cf4569571277cdbb22603e74c2676af74be2aba88cd90e6fa2408"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/71 javs - nerve recharge (ya-tho-sho edit).avs",
+            "size": 3716,
+            "checksum": "sha256:f4b9ec4e68c50fe20792fdb235143f6d7df254c164fb83b3970939ed1a89fa7a"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/72 hoy - fiery caramel.avs",
+            "size": 2586,
+            "checksum": "sha256:07cdc0fbc20c30e9cae25242709f1b709b96c98c85723d4134c615019d1d158d"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/73 frames of reality - journey (alt).avs",
+            "size": 3335,
+            "checksum": "sha256:1b3cead8a88a1634122d742576f99dee89f60ec8e5b5c80c031ed5a524e435c9"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/74 vanish - sorry, we've been fcuked (clear version).avs",
+            "size": 3743,
+            "checksum": "sha256:284cd2f2551640cdcc8b2095f172a3b014d4f4ecd12e20fc79ebd6c696f1e3a5"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/75 kar-ma - dither (yathosho's alien breed rework).avs",
+            "size": 9015,
+            "checksum": "sha256:18a770d3e01be7b6696d4619eadae7e57eac57de082c9da2bf7e06c46c929a6f"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/76 zamuz - clothing lines.avs",
+            "size": 2300,
+            "checksum": "sha256:c35e9eb5aa9e6509ed9fcc39476c9546d0435f5528557804313cdeae2546880c"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/77 vanish feat. zamuz - resultsmayvary (spacechannel remix).avs",
+            "size": 7226,
+            "checksum": "sha256:6be4361463a9f0efd52a696cb4851909fc5768546f1e7edab2b7888860b28610"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/78 mykal - a night of roses (edit).avs",
+            "size": 5620,
+            "checksum": "sha256:e6d5178b305e6046cf080b7e53d811091b20f1b663e5c0c8e298be0d9f26f69a"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/79 viskey - loop.avs",
+            "size": 11792,
+            "checksum": "sha256:1880f0a89324563fdf920791d8f50952ab64bd454f03214269e7135b5ebec3ed"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade 2006-07/80 frames of reality - tiny dancers.avs",
+            "size": 6234,
+            "checksum": "sha256:9f27ab23827f40c9283a350d6e83bdbe1f81c5026c98f8d654521d953c08fc8f"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/01 el-vis - jacob's ladder (sunset).avs",
+            "size": 1568,
+            "checksum": "sha256:d1b53d2751db40c99477c26b6f048715bc6a2443ad9432dd6c6554814557851d"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/02 avs-king - nightcrawler ii.avs",
+            "size": 1911,
+            "checksum": "sha256:46fd49347f29c62e06d66c27c446e8a19afe4db3ccf80262458c96a212365cff"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/03 nixa - nothing is not.avs",
+            "size": 1058,
+            "checksum": "sha256:6e65e300aa7f70a5b5ebe500d4feaab1462e255f7c12dd25f1c3be931fef3880"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/04 tuggummi - supascopas.avs",
+            "size": 2114,
+            "checksum": "sha256:040ac07eca50d7803217fdc4fa1df5c6722e3ce48d9fb3b61ff9d37b9288db24"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/05 el-vis - video feedback.avs",
+            "size": 1315,
+            "checksum": "sha256:6b4f1111745273b4e48cf630a2f9d6955b3dc9a7391751b4cee6f4a1e4026f32"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/06 unconed - insane architect (rehash).avs",
+            "size": 6222,
+            "checksum": "sha256:b3edded35f644e3e11be3d1c3c66400ff88d12cd8b4a2ed955ed84934d6cbb93"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/07 nemo - bubblelands.avs",
+            "size": 1841,
+            "checksum": "sha256:758f526ed0a6843add0c1d2932bdb384f4c05be962fb2228b67d2ec04f90fc33"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/08 nic01 - solid spectrum.avs",
+            "size": 1895,
+            "checksum": "sha256:8fd718045c9beeb32d9de5679abf58f7241c6459613d72b0f8bc1e3d055210b7"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/09 tuggummi - old style iii.avs",
+            "size": 1574,
+            "checksum": "sha256:0efcf5cbdf5b7a8e09a9c629e98d2e9886b834e53af96b438dcd4aa088002145"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/10 skupers - endotherm (fire).avs",
+            "size": 6777,
+            "checksum": "sha256:23ef3b944a2840b84205c77237ba6bbb37b250658a0d146a9a0ed236803b9446"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/11 yathosho - cosmic lounge (little buddy remix).avs.avs",
+            "size": 804,
+            "checksum": "sha256:921bdfb9f17c2386ac78b010aaefc0a6f3656cdf57e921afa72f316aaa5eb956"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/12 tonic - nafta.avs",
+            "size": 1042,
+            "checksum": "sha256:bacf2bd48058791bf4cdcf498057b54b325cfa2c934ab33b6e87af415ab6ad67"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/13 daz - less rock more techno.avs",
+            "size": 7104,
+            "checksum": "sha256:5902e37bce8aa5a2fd433ff43cffa32c59bd16626d8b3c9cd9177ed7c6345773"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/14 horse-fly - euclid.avs",
+            "size": 2206,
+            "checksum": "sha256:3c5ec3262a8c172c9c8734ab844fdd1584ce9918f0fda8b77778da151077bab4"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/15 blazer aka degnic - share the fun.avs",
+            "size": 1809,
+            "checksum": "sha256:333b8312863f31cea117b62eb1648a916f361ab08dc9f43d38915c706a5fd1a9"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/16 duo - toxic garden.avs",
+            "size": 1846,
+            "checksum": "sha256:1b5e1729a15b5157429df63963bac1218fcc5664ea6751da6d375ab402376d54"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/17 avs-king - oddjobs.avs",
+            "size": 2592,
+            "checksum": "sha256:c84f56160a54d167b848e47978283bbff46b24e2fb2e7b8c093f7df84ce71c73"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/18 nixa - lake of color.avs",
+            "size": 2264,
+            "checksum": "sha256:952c70d156ebdec98fe4f2aef3998166f511d767b530859712ee409ac4ddc33f"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/19 pishiru - acid love.avs",
+            "size": 2459,
+            "checksum": "sha256:cb556b60e1f552d756a6bba1b33a75192bc8dd1d4a66e00b46bf7435a15f6244"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/20 lkw - warp 5.avs",
+            "size": 895,
+            "checksum": "sha256:6802be1ce95f44680b504211eee1057a265991f393cfa4d208e20cf631e98f37"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/21 marco alias harmonyofpain - my little beauty (shaman mix).avs",
+            "size": 852,
+            "checksum": "sha256:fdf8ad6cdab8d14a413987baded4c37c99f91960b9f4392db545d5a6712cb2d5"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/22 tonic - too worm xor.avs",
+            "size": 4927,
+            "checksum": "sha256:058ffc88f12bc6f1ce0298514b0143c94deec35132e331e92b70d00d874fbd13"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/23 tiberiumguy - interleave.avs",
+            "size": 396,
+            "checksum": "sha256:f89707f7ec2ce95224bc18e552bb8a08f0065c7e06c94e20e36dd83290dc26b0"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/24 avs-king - neoblivious.avs",
+            "size": 1730,
+            "checksum": "sha256:900c1956e3809d74c3aecac60fae79e0d607128b85f167df3b4de2345247d57d"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/25 yathosho - farbfernsehen.avs",
+            "size": 544,
+            "checksum": "sha256:68bfc6d9f5e99fcb8ca52b7aa33fbaf5671dbbbd2b7ce21f6973509b7cc3f3b6"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/26 i cook coxy gay - gold water.avs",
+            "size": 843,
+            "checksum": "sha256:2c3a0e085de249db3960f777ff76327f402e066aa13cd7aec6d9fd2e0c5a3850"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/27 nixa - bump fun.avs",
+            "size": 866,
+            "checksum": "sha256:747f7b7956bfd166d6a569c63232a1e77cc70357f4ef0ed85954772239b7033b"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/28 el-vis - going down.avs",
+            "size": 831,
+            "checksum": "sha256:7b8b7ebf8b81aeb13c5abeb448c0faceb289766189d95b523d2bc1591356cf79"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/29 pishiru - apocaliptic cosmology.avs",
+            "size": 1779,
+            "checksum": "sha256:d848306195ba93b2511ba8d71f5b46baa403d87b34c9605dc62a4848a8acd8d9"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/30 nic01 - subconscious (chaos remix).avs",
+            "size": 1949,
+            "checksum": "sha256:15101134d499e4555eb614a4eb729ec45f539d90869b2cf6d24a03df0d7055d6"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/31 atero - spiralesque (skupers remix).avs",
+            "size": 8943,
+            "checksum": "sha256:559ac63d770c65012815429748acfc0ebce9fd7fdbef719223bd21dc6604d888"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/32 tonic - 004_2.avs",
+            "size": 2097,
+            "checksum": "sha256:5790c814c91368ab57ebdeaa0696bf8812f3c28f265efd00951c1df474d98dbb"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/33 nixa - dotty fractal that isnt.avs",
+            "size": 1071,
+            "checksum": "sha256:b6c5f2974b941122b074fd56d826655f564604884531d8c60d910ee5c67f0181"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/34 unconed - musical trip.avs",
+            "size": 3998,
+            "checksum": "sha256:2aae1919b248b65b33a5e93ad6ec38c4a017eb5600711dde9c8e6503eac82247"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/35 yathosho - amen sister.avs",
+            "size": 674,
+            "checksum": "sha256:857eab215dfc837521ee2a91f67c52edb121b2657d5ad4bd56aeb1a92b4f45a7"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/36 l0tus vs el-vis - likwid emotion.avs",
+            "size": 525,
+            "checksum": "sha256:cdfc875648b4fa61ef95505f70dba43bbb2c19355a1e93ce7f6427196dd38a05"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/37 duo - under pressure.avs",
+            "size": 2312,
+            "checksum": "sha256:37b40ea970f94d30d8fe183c2c744cae0a83ff628ae3d03763c19c36ab4071aa"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/38 el-vis - dreamtime (duo's dreaded dreams remix).avs",
+            "size": 1462,
+            "checksum": "sha256:f840b530b7ff2dce0299b918cf625a9035df1f12c64d8f53093d7ffad4054ffb"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/39 fšk - ice cube.avs",
+            "size": 3431,
+            "checksum": "sha256:8de8fcf393c8028202eb911e3254167b805b9809e31db5cf9ce0ed3ae77ae386"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/40 el-vis - ego the living planet.avs",
+            "size": 2983,
+            "checksum": "sha256:2a2197a415d73f508537d47c048e8864c9cfc5bd3e158ef0c05636f34f46fa52"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/41 avs-king - orientalpainting (degnic's tattoo remix).avs",
+            "size": 2165,
+            "checksum": "sha256:4b8232e69aec06c08cddac09907af1cab9707f7f12c3586495127280b129b677"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/42 catminddo - a (les noobiens 1991 re-rub).avs",
+            "size": 3059,
+            "checksum": "sha256:c22e49060ad86c4978a024f58088acb3b97ca023676dee3121f5b879a9bd9062"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/43 ts - underground nation.avs",
+            "size": 1479,
+            "checksum": "sha256:30c25cd655b971b00933f7e706960d9e7d5b34e5e72985b3d5e74cb998093d8d"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/44 tonic - in side cage.avs",
+            "size": 2109,
+            "checksum": "sha256:354a896dfd1676dba912fac64adaf1adf754e7a0ae3b15c38a659560209426ee"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/45 tiberiumguy - fluidity (edit).avs",
+            "size": 1759,
+            "checksum": "sha256:7760e93a5883dcc263013e290610c81d64b16a3ba221671a175527cd07a6e5c5"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/46 degnic - data flow.avs",
+            "size": 4346,
+            "checksum": "sha256:68de234ad5c1d2b9f85dd72c1cc62852edb7b7c0fa8f052ad310b9e65049ab89"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/47 amphirion - conclusion.avs",
+            "size": 4035,
+            "checksum": "sha256:8cbfd42c036b242f4f886d6a54e5762cd9290b084720658cedf85d0668095b76"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/48 t-k - this dancefloor is alive!.avs",
+            "size": 1767,
+            "checksum": "sha256:41db3c0796fba680554d8b2643b218557e2c5e24f0f9709846ee4e987a22edb7"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/49 yathosho - candyland decoded (tonic vs yathosho remix).avs",
+            "size": 1240,
+            "checksum": "sha256:b9fffb75c7643efdf29b9c7ae0d4af59d08e790ef3a8f5f7fa2f6416321df8b8"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/50 zamuz - glasslands.avs",
+            "size": 1554,
+            "checksum": "sha256:92a3fa23c4c45ffe97057df07dff9c3c8bb66276128017139b5863db6fde8c89"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/51 blazer aka degnic - hidden mirrors.avs",
+            "size": 1420,
+            "checksum": "sha256:bef6c95f713e788d40231b90d1f3da4797d87c9dea315f39514ef95a545dbd82"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/52 avs-king - x box (yathosho edit).avs",
+            "size": 1631,
+            "checksum": "sha256:916d5ebf7973198fc23cc9716836d4ba439bfd82dfbbd4dcffb70b2aa9be8c59"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/53 i cook coxy gay - to one that really love me (simple).avs",
+            "size": 690,
+            "checksum": "sha256:155ce5b993cf11214db00adac7d0bc87185f99df01a6d8b1a0198ee9fbd8474a"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/54 nixa - strange mix.avs",
+            "size": 1825,
+            "checksum": "sha256:3a23f19462f8a03acba77d6adbc3eba4c7719affd1d4c65fc299d172057c7303"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/55 pishiru - pokemon domain.avs",
+            "size": 2458,
+            "checksum": "sha256:f77f7d3b039783f35c2125c18f37ba2d8102c2010636ad1dfa9c3fe7292dfc14"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/56 guesshimself - snow drift.avs",
+            "size": 1644,
+            "checksum": "sha256:9a912fa472891e8515e7f2fc46c6d2a7a5a8358e068396fe8cca125f0293df29"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/57 pure-krypton - milky jail break.avs",
+            "size": 5886,
+            "checksum": "sha256:651cf078a4144266b6a913aadd98a16f9887d7d894c1427b98b3000f47e49243"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/58 shock value - jeweled chessboard.avs",
+            "size": 7693,
+            "checksum": "sha256:f82bddccfbe464eb10e324d4361f2c8abe42810f95801ad3bddc07916ab3f015"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/59 meaningless-existance - plaicid.avs",
+            "size": 8131,
+            "checksum": "sha256:ca91833256ba5352266f9ff6771aa0028334098ec05ddafdfb0fc8ebf779032c"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/60 indian ropeman - two in one 3.avs",
+            "size": 2842,
+            "checksum": "sha256:9c954678646a4e64699520d020cbf4b79ad0b99bded6dd145d37c21296d86fdb"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/61 tonic - framed area.avs",
+            "size": 2698,
+            "checksum": "sha256:d39bfec41d0b9652d499c39717363e0058f52a71bbbf6e98a424f1ca778fe51b"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/62 nixa - shock treatment.avs",
+            "size": 676,
+            "checksum": "sha256:9b988d3052dc5b72be23f5316c9d3a4f4605911e6039e4c819e97e85692cfbf2"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/63 zamuz - brain wash (degnic's party hazard remix).avs",
+            "size": 3293,
+            "checksum": "sha256:e3b5fc7d7ad88308b51763e1cdce635c371fa500e56c43dcfaa0f908adb1c6f2"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/64 tonic - smut (degnic's hypno remix).avs",
+            "size": 3148,
+            "checksum": "sha256:91bea11dd682f8914a4e16e7f6b8378a40d73d0ed56a51df04e19156cbbdaa98"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/65 unconed - drunk pleasure.avs",
+            "size": 2971,
+            "checksum": "sha256:10d1e4f0330e24690b35570436edd37af428a56e985e587285a3c18487cb2f97"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/66 skupers - bacteria 002 (tuggummi remixed).avs",
+            "size": 5604,
+            "checksum": "sha256:d1981fa97b802f4a3021de1c4dda4705dc9f537e8275aa10c0e9eb6b56868833"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/67 unconed - neon shrooms.avs",
+            "size": 4637,
+            "checksum": "sha256:a92cf9222ee730ee6afdbba3b3dfb28ff26579f62a1524b16f2145efa0e18255"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/68 tuggummi - starscope (party remix).avs",
+            "size": 5496,
+            "checksum": "sha256:571d90868c4d2d0b7010432d69c8c90bb89d2c6f7778373f7658c3137836f7e4"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/69 fšk - sunburster thingy.avs",
+            "size": 1068,
+            "checksum": "sha256:8ff1a38aaf4f88151efdd458429778757cdae1c36e4c0c86e503382973ab9c4f"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/70 skupers - a tribute to duo.avs",
+            "size": 3837,
+            "checksum": "sha256:ce1d24f285115980adce2934af2e3de1403a1f224ad468d2150190fbc4847013"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/71 horse-fly - return to the dance floor.avs",
+            "size": 4143,
+            "checksum": "sha256:9c5edf0b4aeb170c31581905ee6bf17ca38babb24ce7d4cd60bd5a48e1aa68e6"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/72 ts - beauty and the beast.avs",
+            "size": 414,
+            "checksum": "sha256:5287ed90656274e19536383091b0ae9480a9d019836b07bef1567db73b3b27f7"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/73 zen-x - katatonic (yathosho remix).avs",
+            "size": 5197,
+            "checksum": "sha256:e7ade93a9dae9bf24de7969ed8f23b53ad7fac5b744b46dfe4fe726985d53f8b"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/74 el-vis - alarm.avs",
+            "size": 9614,
+            "checksum": "sha256:7ea26d6d40084072a34deefabca057fb38e60e88c1ef91d10d2594b4bec24ec4"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/75 l0tus - ifrit.avs",
+            "size": 1067,
+            "checksum": "sha256:d22cecb40e51582883585a98996f134e2e8461cad20e2deb37a0804fa9270844"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/76 viskey - slimey.avs",
+            "size": 2467,
+            "checksum": "sha256:c883a43ef6e48174446fc0106217dcceabca6f9f0556fdaaebbdd0c87c6dc198"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/77 da7id - lavalamp (neon remix).avs",
+            "size": 969,
+            "checksum": "sha256:97e06cb8da3909258c990afaf01e54aeeffb5ae2ccb47b410f87d7713048415a"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/78 nemo - chemistry.avs",
+            "size": 2163,
+            "checksum": "sha256:0e2f205c0b1dc778c27f9a756fdea0778fba380b5a1d35c3502628898dabbe1f"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/79 tonic - cvetovete na bulgarskia flag.avs",
+            "size": 1735,
+            "checksum": "sha256:d419f8e980bb524d5d2cb872e72cc8ddee560147633d9bbc3ca6edb12d19724f"
+        },
+        {
+            "file": "AVSociety/AVSociety - Our Decade B-Sides/80 tiberiumguy - protons.avs",
+            "size": 1146,
+            "checksum": "sha256:d316f61e432eb9a3d4cbd67ff6f19f59557ac38c0ed03d6cd4fc24dc4097c39c"
+        },
+        {
+            "file": "AVSociety/AVSociety - Renaissance/Denkensiefursich - The Convicts (Revamped).avs",
+            "size": 5658,
+            "checksum": "sha256:ade166e6d6106da83768e6425dacf0c8978fe8dd7499eac3b738a78cbe589516"
+        },
+        {
+            "file": "AVSociety/AVSociety - Renaissance/Denkensiefursich - Zenith (Revamped).avs",
+            "size": 9126,
+            "checksum": "sha256:08ed23f9321647344cc60754c780a7b1b69d66c443ff3c9320b22fb28af90e36"
+        },
+        {
+            "file": "AVSociety/AVSociety - Renaissance/Drew - Collect and Win.avs",
+            "size": 3620,
+            "checksum": "sha256:c6a9391b68e84da79d7eeb679fd6c8087b203ed542f79283ca96cb986b2c016d"
+        },
+        {
+            "file": "AVSociety/AVSociety - Renaissance/Drew - Lans of Kansis (Skalator Mix).avs",
+            "size": 3149,
+            "checksum": "sha256:050f90d110a35dac9b6cb7e776f641c6c5ad8df1eb2e42d33ee2b3e9079aadaa"
+        },
+        {
+            "file": "AVSociety/AVSociety - Renaissance/Frames of Reality - Optical Tuning.avs",
+            "size": 2625,
+            "checksum": "sha256:5988a81d953e120d1ac35d5313329e84449e433cbbcd94a38be8405927bca00d"
+        },
+        {
+            "file": "AVSociety/AVSociety - Renaissance/Frames of Reality - Under the Lavender Skies.avs",
+            "size": 4361,
+            "checksum": "sha256:034db54b71d2a0b05a3bc39a66f60d80e9c7ad33c3d7e93994f4b0e8a78906d6"
+        },
+        {
+            "file": "AVSociety/AVSociety - Renaissance/Grandchild - Echolot.avs",
+            "size": 6951,
+            "checksum": "sha256:2e7c73026a5aa510ecb944dfb55eba572c5de9d4e5cc73808a1dc9f9bcf18931"
+        },
+        {
+            "file": "AVSociety/AVSociety - Renaissance/Hboy - Ghost.avs",
+            "size": 2638,
+            "checksum": "sha256:574d65f2bac0434bb4f356d5e16cd60d464439645cd6e65767dd29c53cf26cac"
+        },
+        {
+            "file": "AVSociety/AVSociety - Renaissance/Hboy - Orifice.avs",
+            "size": 15571,
+            "checksum": "sha256:e6210b142b2ba0b45730a98aaf7896bb4e7c78f1a268e3d25303256186e074fd"
+        },
+        {
+            "file": "AVSociety/AVSociety - Renaissance/JjcL237 - Let Me Paint My Way Out.avs",
+            "size": 3379,
+            "checksum": "sha256:9f8ce673f113f3b3fa6d7dc7390810e1cb7a7845e8028d05d9ed80f0f49fa61c"
+        },
+        {
+            "file": "AVSociety/AVSociety - Renaissance/JjcL237 - MetroPop.avs",
+            "size": 3264,
+            "checksum": "sha256:2670dfab3ae370b0e3fe4a62947bc62e88b5e0796fb0f5c10dd7b382ae06c820"
+        },
+        {
+            "file": "AVSociety/AVSociety - Renaissance/Nemo - 80s3.avs",
+            "size": 4363,
+            "checksum": "sha256:244946799495e7618dd54f5d561dfef7b6409317ab642eee5a66cc9806d31ee3"
+        },
+        {
+            "file": "AVSociety/AVSociety - Renaissance/Raz - Clean.avs",
+            "size": 24636,
+            "checksum": "sha256:6c5b80e23b6c4b76fce1ad0f51dffcd0c14ac6bd8ca31e83f6ce2ca4f835d889"
+        },
+        {
+            "file": "AVSociety/AVSociety - Renaissance/Raz - Labyrinth Zone.avs",
+            "size": 165390,
+            "checksum": "sha256:67bbc6e5fec14a1165da3bd961db558b17eae8d95725e0359e2d44c41cda697d"
+        },
+        {
+            "file": "AVSociety/AVSociety - Renaissance/Tooblai - Color on Water.avs",
+            "size": 6712,
+            "checksum": "sha256:2d39db0f236cb20b1a90bf67a70e39a8aadb269e5072b6c4d0686b29f5e46b94"
+        },
+        {
+            "file": "AVSociety/AVSociety - Renaissance/Tooblai - Point of View.avs",
+            "size": 8749,
+            "checksum": "sha256:5656af246c820b79970a30e81b7999c02b23ff8cf5803a21990848d3ebfeb32a"
+        },
+        {
+            "file": "AVSociety/AVSociety - Renaissance/VisKey - Loop.avs",
+            "size": 11792,
+            "checksum": "sha256:1880f0a89324563fdf920791d8f50952ab64bd454f03214269e7135b5ebec3ed"
+        },
+        {
+            "file": "AVSociety/AVSociety - Renaissance/VisKey - Satur-n-day Night.avs",
+            "size": 24929,
+            "checksum": "sha256:e38a2ce4f5a4872112db1eebed18ce826e8d268c89629340abd14fc9ee890f3c"
+        },
+        {
+            "file": "AVSociety/AVSociety - Renaissance/WotL - Ozone Layer 2142.avs",
+            "size": 5066,
+            "checksum": "sha256:867ec54cd56c0d98ac9317d7e7acab6071239a74e41dcbfd2bdb374a7125a78d"
+        },
+        {
+            "file": "AVSociety/AVSociety - Renaissance/WotL - Simplicity.avs",
+            "size": 1773,
+            "checksum": "sha256:5e3706e9bcd278fc623c0e24a2a9b6d17dd1958bf8875fe5f07979fc167aaf63"
+        },
+        {
+            "file": "AVSociety/AVSociety - Renaissance/Yathosho - Sokoban (les Noobiens Extension).avs",
+            "size": 2756,
+            "checksum": "sha256:2b39bc3fe3eb31b027e6c763862e4bd5cb1a84af95f04e54170e662183455ffc"
+        },
+        {
+            "file": "AVSociety/AVSociety - Renaissance/Yathosho - Son of Ptaah (Dub #1).avs",
+            "size": 5504,
+            "checksum": "sha256:d8e275a25b3c68ee04c9643f958eee8d8b848bcbf472954cf23e2fe7474a8703"
+        },
+        {
+            "file": "AVSociety/AVSociety - Renaissance/Zamuz - Blood, Snow and Sky.avs",
+            "size": 2408,
+            "checksum": "sha256:0474ac1373542df8aa5bb0790c669978ad887b0fa2ef0666bfe2b92abcf9faa7"
+        },
+        {
+            "file": "AVSociety/AVSociety - Renaissance/Zamuz - Flower Abstraction.avs",
+            "size": 5620,
+            "checksum": "sha256:842fa11212ef327bdbec57a95f6795fb875a3ed0400ea0aa80c765646b3efbca"
+        },
+        {
+            "file": "AVSociety/AVSociety - THE EIGHT RONIN (A Samurai Showcase)/00 (intro).avs",
+            "size": 5208,
+            "checksum": "sha256:2237508ebe455bdba21febaa1617a483afab3f62d98c5b098b9c8fd5e2b66bbb"
+        },
+        {
+            "file": "AVSociety/AVSociety - THE EIGHT RONIN (A Samurai Showcase)/01 duo - lost in a thought.avs",
+            "size": 2043,
+            "checksum": "sha256:9a6f7511004ae853210497a092986cd50b92a015d2263396102a827060b5249b"
+        },
+        {
+            "file": "AVSociety/AVSociety - THE EIGHT RONIN (A Samurai Showcase)/02 nixa - cirolito.avs",
+            "size": 921,
+            "checksum": "sha256:d81e09fa63b2af6548d9de5ef2d252c0e1b68ce75b7967820c3097dab22be03a"
+        },
+        {
+            "file": "AVSociety/AVSociety - THE EIGHT RONIN (A Samurai Showcase)/03 s_kupers - conceptual ninja.avs",
+            "size": 2676,
+            "checksum": "sha256:00743d6a53c6c8b2aa31bb63a4c3b1d90d3c5e73b7ab43a96207bd584dfb36cd"
+        },
+        {
+            "file": "AVSociety/AVSociety - THE EIGHT RONIN (A Samurai Showcase)/04 el-vis - powersource (sanjusangen-do reflection by yathosho).avs",
+            "size": 1267,
+            "checksum": "sha256:09d4e1424aa6a15d4f364627cce7f7dddaf5141ca63d62e7ce6eb13219512aa5"
+        },
+        {
+            "file": "AVSociety/AVSociety - THE EIGHT RONIN (A Samurai Showcase)/05 alchemist - spirit within.avs",
+            "size": 1567,
+            "checksum": "sha256:f519b7830c5aea7fd5041db5e4646f4a9d6622eb173bfb64e7b525132a3d5bc0"
+        },
+        {
+            "file": "AVSociety/AVSociety - THE EIGHT RONIN (A Samurai Showcase)/06 jayfb - ai ki (2versions).avs",
+            "size": 5879,
+            "checksum": "sha256:12a7cd71d660622f4766156e84e3c0fc3c64c424afaa8c0378c77090c372b716"
+        },
+        {
+            "file": "AVSociety/AVSociety - THE EIGHT RONIN (A Samurai Showcase)/07 yathosho - ik+.avs",
+            "size": 738,
+            "checksum": "sha256:766324a7366e147c48d15d605114275547eddb05e7049005b69759dffca3c68d"
+        },
+        {
+            "file": "AVSociety/AVSociety - THE EIGHT RONIN (A Samurai Showcase)/08 nemoorange - to paint with blood.avs",
+            "size": 1718,
+            "checksum": "sha256:56c0223d307d393a504a8ed70ffcfa8c263ee3fc5dcb06c8a7a56679eb5d874c"
+        }
+    ],
+    "assets": [
+        {
+            "file": "amp_leaf five.bmp",
+            "size": 1856,
+            "checksum": "sha256:a08a6e8757686bb5bd9a4099a8695d24a69d34561cf81df7020432bd666b98e8"
+        },
+        {
+            "file": "amp_leaf four.bmp",
+            "size": 1856,
+            "checksum": "sha256:833c33cd49aa9a41d2f1264b77eb8817a79727c93e036e61abe3892e6ffe8491"
+        },
+        {
+            "file": "amp_leaf one.bmp",
+            "size": 1024,
+            "checksum": "sha256:38f519a10edd454b99e28015d12d1278b3025cf58d7719b1b93aff0f430b0f22"
+        },
+        {
+            "file": "amp_leaf three.bmp",
+            "size": 1024,
+            "checksum": "sha256:2d9a532761db9e7857ca94222af9e5e32e1c5969aa67fec8f0e681299841e856"
+        },
+        {
+            "file": "amp_leaf two.bmp",
+            "size": 1024,
+            "checksum": "sha256:a1c8b093421ec4a9ab283b5951ab101fd96df2e7a5f0699eafbfc4fddf612369"
+        },
+        {
+            "file": "avsres_texer_circle_edgeonly_25x25.bmp",
+            "size": 1954,
+            "checksum": "sha256:d4cdad41bf5da63e0d560babcc22cd07665f6e7d2d23d5ac5b4ce66d0542bbfa"
+        },
+        {
+            "file": "avsres_texer_circle_edgeonly_29x29.bmp",
+            "size": 2606,
+            "checksum": "sha256:534c1eb965d3a1df52fa0bc8bdb4977fbf18ac19869417ac8e8d1409f6b203e6"
+        },
+        {
+            "file": "avsres_texer_circle_fade_11x11.bmp",
+            "size": 450,
+            "checksum": "sha256:f23cffc3b62ea97fd3bc32cb7107705a5ccdfe90c1c69ad950744f148b75d13f"
+        },
+        {
+            "file": "avsres_texer_circle_fade_15x15.bmp",
+            "size": 774,
+            "checksum": "sha256:e993d9035e0c88999abda7037e81440f63ee87e37709679de1f4416511be4551"
+        },
+        {
+            "file": "avsres_texer_circle_fade_19x19.bmp",
+            "size": 1194,
+            "checksum": "sha256:cc04c68f70e6e055052c17d9acab017f4f8e0124db05422cffeea153073f24d6"
+        },
+        {
+            "file": "avsres_texer_circle_fade_29x29.bmp",
+            "size": 2606,
+            "checksum": "sha256:10bcb870745a117d8cd57e44f60718e278a0e3ae25e3eaa9250e7936c1dc6fba"
+        },
+        {
+            "file": "avsres_texer_circle_heavyblur_11x11.bmp",
+            "size": 450,
+            "checksum": "sha256:0874f6c0ceae338fed5586458149d51bba71701e376dbccb90f7c7cdb37ef8cd"
+        },
+        {
+            "file": "avsres_texer_circle_heavyblur_19x19.bmp",
+            "size": 1194,
+            "checksum": "sha256:e6a52ec2f27513918744c31b5d10dac12767d426bf7d1709eed5197a86fb33e7"
+        },
+        {
+            "file": "avsres_texer_circle_heavyblur_21x21.bmp",
+            "size": 1398,
+            "checksum": "sha256:f8f868bfc48b2131e08f79a3ccdcdd5487537c1ac1decebee1a5ff5a2edf331b"
+        },
+        {
+            "file": "avsres_texer_circle_heavyblur_27x27.bmp",
+            "size": 2322,
+            "checksum": "sha256:140bb9f221774489a82ea64a1afa447426450dccd56995d3f54bf71c08e91a69"
+        },
+        {
+            "file": "avsres_texer_circle_heavyblur_29x29.bmp",
+            "size": 2606,
+            "checksum": "sha256:f774cf10d56275d629f321163dbc610fee02b0e892c9065b0931564240bf078d"
+        },
+        {
+            "file": "avsres_texer_circle_sharp_11x11.bmp",
+            "size": 574,
+            "checksum": "sha256:834aadff3c131183f1d1fb76010c64317c7f638008d06a769ba29a68a9aed73a"
+        },
+        {
+            "file": "avsres_texer_circle_sharp_17x17.bmp",
+            "size": 1194,
+            "checksum": "sha256:31d52f73c76abfe7928248f3531a8eb77fdcbc48e398797d16ec183d0389c5db"
+        },
+        {
+            "file": "avsres_texer_circle_sharp_19x19.bmp",
+            "size": 1398,
+            "checksum": "sha256:31b87b361b89e60a8052e1c27af6a158a6e0ba4ba136076f2b98afe9958da848"
+        },
+        {
+            "file": "avsres_texer_circle_sharp_25x25.bmp",
+            "size": 2322,
+            "checksum": "sha256:e8d6d4c06b831887f398c7b8a59bec494f4806aec5f568dff3fb3f771e3d3ea7"
+        },
+        {
+            "file": "avsres_texer_circle_sharp_29x29.bmp",
+            "size": 3030,
+            "checksum": "sha256:2d057959257346e2b9a8922504ad51ff7d2608d6bd591659a7fa08d07406366a"
+        },
+        {
+            "file": "avsres_texer_circle_slightblur_17x17.bmp",
+            "size": 938,
+            "checksum": "sha256:eef1c4468c60f28f5c4baa64f2aaf38f71e00e33d7bdaeede58996b530370205"
+        },
+        {
+            "file": "avsres_texer_square_edgeonly_14x14.bmp",
+            "size": 670,
+            "checksum": "sha256:6d0c3c6121da514e2c95f4db0b596d0c5134011487db5dd42dda5e9aca1d7b45"
+        },
+        {
+            "file": "avsres_texer_square_edgeonly_30x30.bmp",
+            "size": 2814,
+            "checksum": "sha256:de1666bdc88de12db1398b001bb8c5402daabd611cb6efabf4ff12e7516ee4ce"
+        },
+        {
+            "file": "avsres_texer_square_fade_18x18.bmp",
+            "size": 1062,
+            "checksum": "sha256:f7008e11db2b83fd8956d51e815a8dbb1c9537119cca04c75587dab711412fc2"
+        },
+        {
+            "file": "avsres_texer_square_fade_24x24.bmp",
+            "size": 1782,
+            "checksum": "sha256:d0cf77b7f03389584400d6c5a6f2ce14dbc1aa3b3b36299171e3349eae83f54b"
+        },
+        {
+            "file": "avsres_texer_square_fade_30x30.bmp",
+            "size": 2814,
+            "checksum": "sha256:12bdc0b6a44fc540c0c84f7e704a6c9bb6885676ba39652b1ef0b1121701e089"
+        },
+        {
+            "file": "avsres_texer_square_sharp_10x10.bmp",
+            "size": 670,
+            "checksum": "sha256:6505fc3af053d605d4e3200eb09ddf8053d1ee422bc6ea95d55279912e763721"
+        },
+        {
+            "file": "avsres_texer_square_sharp_12x12.bmp",
+            "size": 822,
+            "checksum": "sha256:8ea7c501ed2e5126c4969987a30609014c5c0f239d948f231f700cfd142b17c8"
+        },
+        {
+            "file": "avsres_texer_square_sharp_28x28.bmp",
+            "size": 3126,
+            "checksum": "sha256:11ec412bcb0bb94f3c925a53aeb2385eac18ad573484b0fc0f86754320a1d0ac"
+        },
+        {
+            "file": "avsres_texer_square_sharp_30x30.bmp",
+            "size": 3590,
+            "checksum": "sha256:e41754b033960b3a5e77252cf1edee71e97c311c2cedafc9b4139a3df51240e6"
+        },
+        {
+            "file": "d_5pt.bmp",
+            "size": 1956,
+            "checksum": "sha256:ec2a81b1075307cd561894fe26f3427e98928815f1c7c7ce8d26d653df10403a"
+        },
+        {
+            "file": "Hboy_texer_1.bmp",
+            "size": 17154,
+            "checksum": "sha256:2c13faf386e071d3fe17bc5f2e8f72a4244e085a5a985b249d169fa6c414d27c"
+        },
+        {
+            "file": "hboy_texer_monument1.bmp",
+            "size": 188056,
+            "checksum": "sha256:339d675e4baabef6d2a6a7a0b0b8c3360edccd7b345928b24036a0dbc9f830e9"
+        },
+        {
+            "file": "hf - texer - 11.bmp",
+            "size": 120054,
+            "checksum": "sha256:00112f32939b3430803d79e995c7f008a9f5c0ffe68ab6ec16e03fba5a9f84e8"
+        },
+        {
+            "file": "j10_1.bmp",
+            "size": 3126,
+            "checksum": "sha256:4ca404e10ef822126351177cb1440b54cdb583dd1085758b95cc4f362a59acf0"
+        },
+        {
+            "file": "london_skyline_points.bmp",
+            "size": 132538,
+            "checksum": "sha256:89b54fad4841fcde8872c84c58a183d2122878d1ce04e67c873d17152f0946b9"
+        },
+        {
+            "file": "london_skyline_watermask.bmp",
+            "size": 132538,
+            "checksum": "sha256:f31c6c51a6aca987f50de2ccdb3967b1b344e2c80ead7a9d9ba55b13c47a1e4e"
+        },
+        {
+            "file": "london_skyline.bmp",
+            "size": 132538,
+            "checksum": "sha256:09114c3b2eec3b988c9fa6f9d538366d24d2a658f49a42cbd5d9bf038f9cab56"
+        },
+        {
+            "file": "manybox.obj.gvm",
+            "size": 629136,
+            "checksum": "sha256:727e03663426050529225332efe1f7eb815a13769cf0fc20c33e735d4777a454"
+        },
+        {
+            "file": "mcursorneg.bmp",
+            "size": 146,
+            "checksum": "sha256:ae20db577f4224ab62d91ace44f326525c3dbeabdd80e9c5caaaee3d12373f59"
+        },
+        {
+            "file": "mcursorpos.bmp",
+            "size": 146,
+            "checksum": "sha256:44c73389ec40c07e7ab6fa19beb8ff50e6c12287567a22f7d15b5dd1f13d1519"
+        },
+        {
+            "file": "mykaL_03.bmp",
+            "size": 51014,
+            "checksum": "sha256:dcc7a5e311ece39675e6f37f057228f31c3a17f3ad85b8cb24c361169e8b115f"
+        },
+        {
+            "file": "Raz_sonic_01.bmp",
+            "size": 1590,
+            "checksum": "sha256:0e5ab9e03f775c34d504d4fc1282c9882060dd7e1579f92c6e03800f6d4d670e"
+        },
+        {
+            "file": "Raz_sonic_02.bmp",
+            "size": 1590,
+            "checksum": "sha256:72809adec732896102cc2cab3f050f7299a0b876bfb339b18f579589b62c9b10"
+        },
+        {
+            "file": "Raz_sonic_03.bmp",
+            "size": 1590,
+            "checksum": "sha256:29800984763a6fa4ef9d63acd73d5f434381a9f685d61edeac6ae3cf7365c096"
+        },
+        {
+            "file": "Raz_sonic_04.bmp",
+            "size": 1590,
+            "checksum": "sha256:d9933b670678fa29614b1a37df17d9ee11d426ba1e41a9a1f0c7f115aa15fab6"
+        },
+        {
+            "file": "Raz_sonic_05.bmp",
+            "size": 3126,
+            "checksum": "sha256:7918569c1cbfcd3e1df96b90588bc9aaab53a656a8243f207e25a40e06192cd7"
+        },
+        {
+            "file": "Raz_sonic_06.bmp",
+            "size": 3126,
+            "checksum": "sha256:2eea20d96383ae3f436757464ccb01bb02a14f3d600935da512cfdd04622994c"
+        },
+        {
+            "file": "Raz_sonic_07.bmp",
+            "size": 3126,
+            "checksum": "sha256:ddda382a20fcbd212c9dbdec188e6c3f4c2eb9eb6ea12d239e23489af0a78292"
+        },
+        {
+            "file": "Raz_sonic_08.bmp",
+            "size": 3126,
+            "checksum": "sha256:4e02e58d9f4674ec05754c93cfb7d1884407b9486cc45777525e5df14ea6b42d"
+        },
+        {
+            "file": "Raz_sonic_09.bmp",
+            "size": 3126,
+            "checksum": "sha256:c0eb8f67476bc84523ec91115e2429b204c275c00c13da1d33d2a0b5d36f784d"
+        },
+        {
+            "file": "Raz_sonic_10.bmp",
+            "size": 238518,
+            "checksum": "sha256:e73b32477fa8518720c3b1ac57a0e4e6abeefae0d67dec69498b6ad29d50bae5"
+        },
+        {
+            "file": "Raz_sonic_11.bmp",
+            "size": 10638,
+            "checksum": "sha256:f13b7dee1ad86bfb253aa0a30d1cba225373252d227eebc9b2dd9213449558e9"
+        },
+        {
+            "file": "Raz_sonic_12.bmp",
+            "size": 9462,
+            "checksum": "sha256:0bc15265dca85283169fb86b277d696738bdffc3d8bf50d03efa2e9271e33618"
+        },
+        {
+            "file": "Raz_sonic_13.bmp",
+            "size": 1622,
+            "checksum": "sha256:52779cafa837a29f7e263592adc70877833977942a20cdf3be3f5445bc8841d8"
+        },
+        {
+            "file": "Raz_sonic_14.bmp",
+            "size": 1374,
+            "checksum": "sha256:4af71ed78746e16b491a5592d9b8315afe74d6533abbf71037571ce2aab5a8a3"
+        },
+        {
+            "file": "Raz_sonic_15.bmp",
+            "size": 1782,
+            "checksum": "sha256:587858f4918c48c1552ad19d2425c5cc6336326ed794da83e14151ad7d9a65e1"
+        },
+        {
+            "file": "Raz_Two_004.bmp",
+            "size": 3730,
+            "checksum": "sha256:8977d5910f90ed39c671df22da590ddb56319cf62f5b564f4fbdff0bafba2f1e"
+        },
+        {
+            "file": "RedFluidPlastic.bmp",
+            "size": 196664,
+            "checksum": "sha256:cb3819dcbf34434bb399f581af8b3ce2ccf707384d06c65061fd4f8378f4c88b"
+        },
+        {
+            "file": "reGeneSys2.bmp",
+            "size": 66244,
+            "checksum": "sha256:fcd93670f08e3e8d3a23d8175257a8ea00fa8129a4171dfc0197d06eb74ef16d"
+        },
+        {
+            "file": "Shreyas-IV-01 resized.bmp",
+            "size": 17156,
+            "checksum": "sha256:3382c771e3d3a376253a849684de6a299dbfe67ae96c84e236bbb8269db416f7"
+        },
+        {
+            "file": "Shreyas-IV-01.bmp",
+            "size": 36342,
+            "checksum": "sha256:10bf973044414dbea4dfaf77de57d7de4d3a871f0fc057bda1a3f699e202a411"
+        },
+        {
+            "file": "skupers_lp6_01.bmp",
+            "size": 776,
+            "checksum": "sha256:27bdda462dfec5cea6f702611fdc5df24255ae076c64fd214544b75561771339"
+        },
+        {
+            "file": "tug_3dpack_texer4.bmp",
+            "size": 20970,
+            "checksum": "sha256:975dde5246126359a99d1ae13859c07f0aaf6b91d1dd1d2602284d2c11a47503"
+        },
+        {
+            "file": "tug_babyroll.bmp",
+            "size": 54438,
+            "checksum": "sha256:0086f30a513b13c3957a1836c5092a42ed38e55abf006dec5b0d92ae6a7e1595"
+        },
+        {
+            "file": "tug_ti_texer2.bmp",
+            "size": 2814,
+            "checksum": "sha256:b26c0b295d55ad7215f7e734dcd0da8e321337de9805eb7f615bf9b09c79d8f2"
+        },
+        {
+            "file": "v4_texer2.bmp",
+            "size": 4854,
+            "checksum": "sha256:3cbd52611f0afd7250440eda48dacc720994892e7b15ba34da031181aec7b97c"
+        },
+        {
+            "file": "v4_texer3.bmp",
+            "size": 4854,
+            "checksum": "sha256:77c620edd0df29e8c3fd320cf301022d0fc169b68786781a09e89ce47fdac1d9"
+        },
+        {
+            "file": "v4_texer7.bmp",
+            "size": 1954,
+            "checksum": "sha256:49b6458d62c8f9687fefe109e1891166da70448e4eba3006067f948662a46a76"
+        },
+        {
+            "file": "v5_circle.bmp",
+            "size": 4854,
+            "checksum": "sha256:cebc9a03181dd184fecbba1d09290f11c70f1aaea28b8e5520d0e276267fec40"
+        },
+        {
+            "file": "v5_circle2.bmp",
+            "size": 4854,
+            "checksum": "sha256:65a9b00fed4552aaac62952a11fdebfcc3f2d98fa1fd61cbf2ce7f0a501f80af"
+        },
+        {
+            "file": "v6_circle.bmp",
+            "size": 2038,
+            "checksum": "sha256:a9e79d38dc140b11d79daa86c1060a6439fe2dc2d99e6e437f77b5b175b6379c"
+        },
+        {
+            "file": "visions_squares.bmp",
+            "size": 145062,
+            "checksum": "sha256:64dc760e72fdda46879439d56a0f547cccca3dd5414a771e6b090daf981e62f2"
+        },
+        {
+            "file": "viskey_texer(combinded_grad2).bmp",
+            "size": 3590,
+            "checksum": "sha256:d5de71373d96c0361c711997f2ffe160d2670f98bfef6945aa0a50b40d4ac116"
+        },
+        {
+            "file": "viskey_texer(combinded_grad5).bmp",
+            "size": 2606,
+            "checksum": "sha256:c6d2cfc893605f35ff8153c9919a5125cffe2a40372678aa981952bd184d0dfa"
+        },
+        {
+            "file": "Zmzv3_texer.bmp",
+            "size": 9358,
+            "checksum": "sha256:5ad9c1c53613ebab4374722917a99ddcf61bb05b435e95531e4048ed5281eaec"
+        },
+        {
+            "file": "GeosansLight-Oblique.ttf",
+            "size": 62196,
+            "checksum": "sha256:ceaf629bac08fbc520a61d657047b8afc7e651d8837d01895fe973cdcc4338b3"
+        },
+        {
+            "file": "GeosansLight.ttf",
+            "size": 60072,
+            "checksum": "sha256:ea0832b1a549c82ab2a0945ff456c41d134478a8337e1cf0201806bf84a96f40"
+        }
+    ],
+    "plugins": [
+        "AddBorder",
+        "BufferBlend",
+        "ChannelShift",
+        "ColorMap",
+        "ColorReduction",
+        "ConvolutionFilter",
+        "FramerateLimiter",
+        "GlobalVarMan",
+        "Multiplier",
+        "MultiFilter",
+        "Normalise",
+        "Picture2",
+        "Texer",
+        "Texer2",
+        "TransAuto",
+        "Triangle",
+        "VideoDelay"
+    ]
+}

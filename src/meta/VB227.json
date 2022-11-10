@@ -1,0 +1,32 @@
+{
+    "name": "Tentacliiism EP",
+    "id": "VB227",
+    "presets": [
+        {
+            "file": "Dynamic Duo/Tentacliiism EP/ddA1__tentaclism [fake viskey rmx].avs",
+            "size": 6856,
+            "checksum": "sha256:3d91613ee247ac6902d75901b6c8a42b5fda1ef7c2877da5701c6f8c22f9fc1c"
+        },
+        {
+            "file": "Dynamic Duo/Tentacliiism EP/ddA2__tentaclism [disco panic remix by javs].avs",
+            "size": 2446,
+            "checksum": "sha256:8109749b1c5b602fc38baa596190ed13cb1aee6822ee4cc8ce6f012f40a0a1f7"
+        },
+        {
+            "file": "Dynamic Duo/Tentacliiism EP/ddB1__tentaclism [fake skupers rmx].avs",
+            "size": 3611,
+            "checksum": "sha256:dc62783441746304f523b474969017e9ee8c19c420e70dd332538badd6446935"
+        }
+    ],
+    "assets": [
+        {
+            "file": "avsres_texer_circle_fade_29x29.bmp",
+            "size": 2606,
+            "checksum": "sha256:10bcb870745a117d8cd57e44f60718e278a0e3ae25e3eaa9250e7936c1dc6fba"
+        }
+    ],
+    "plugins": [
+        "ColorMap",
+        "ConvolutionFilter"
+    ]
+}

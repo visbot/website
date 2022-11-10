@@ -1,0 +1,29 @@
+{
+    "name": "CO-OP Session 04",
+    "id": "VB048",
+    "presets": [
+        {
+            "file": "CO-OP Sessions/CO-OP Session 04/a1 dynamic duo - just blind.avs",
+            "size": 2881,
+            "checksum": "sha256:a902ae258694273d7f05e0719bdc05e3a1da94806b6f633ca4dc0ef1cdc09548"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 04/a2 degnic - just healed.avs",
+            "size": 2800,
+            "checksum": "sha256:437b91d0263afbec002d5b227cd9bfbd0fa0962d338866e10d15eda3464c9c31"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 04/b1 tuggummi - thoughts to text converter in-depth discussions.avs",
+            "size": 4556,
+            "checksum": "sha256:8c1ff2dba6304d53e506178d54992674c364a7c2216d3c023c861abf6e21abe4"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 04/b2 dynamic duo - converting your thoughts to rgb.avs",
+            "size": 2478,
+            "checksum": "sha256:0e0b613cda5f9f3d43565f75bc2213ca629c499472492dbbab39bef418cb32e7"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

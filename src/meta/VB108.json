@@ -1,0 +1,29 @@
+{
+    "name": "les Noobiens the shapes of math",
+    "id": "VB108",
+    "presets": [
+        {
+            "file": "les Noobiens/les Noobiens the shapes of math/lNa1 les Noobiens - noppa.avs",
+            "size": 2561,
+            "checksum": "sha256:f88ff28c706aaaeb81fa5be71d00b4d5c2146715a1f1a66341b167053d60959a"
+        },
+        {
+            "file": "les Noobiens/les Noobiens the shapes of math/lNa2 les Noobiens - metropolitan.avs",
+            "size": 2432,
+            "checksum": "sha256:0eab5d1e64803509841243430fe73f25b8a55c97be60ee0bd5055ab9bb57154f"
+        },
+        {
+            "file": "les Noobiens/les Noobiens the shapes of math/lNb1 les Noobiens - beat connection.avs",
+            "size": 1683,
+            "checksum": "sha256:31d86877651c04819b2855b6eab7ecd3a215207cacffe29952a362d2a5a32bb9"
+        },
+        {
+            "file": "les Noobiens/les Noobiens the shapes of math/lNb2 les Noobiens - blockz (edit).avs",
+            "size": 1322,
+            "checksum": "sha256:9fee50b368fbd3d421a35313852062f284f6c6033edbef4f955fdd2c33c2595a"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

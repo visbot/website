@@ -1,0 +1,41 @@
+{
+    "name": "whyEye.org grime 4",
+    "id": "VB174",
+    "presets": [
+        {
+            "file": "whyEye.org/whyEye.org grime 4/yiA1 duo - dye in the water (dynamic duo's -to dye for- rework).avs",
+            "size": 6051,
+            "checksum": "sha256:9aaa74e9de92e6d07f6369e834865293e057faf19b8a60610207bc607cb02a55"
+        },
+        {
+            "file": "whyEye.org/whyEye.org grime 4/yiA2 amphirion - abstractica part deux (ya-tho-sho vbs.krower.c).avs",
+            "size": 5915,
+            "checksum": "sha256:e23f3bc4cda4aa23a30ea615c1030582a83d0f1bae28ef8bc98d87740330038f"
+        },
+        {
+            "file": "whyEye.org/whyEye.org grime 4/yiA3 hboy - fragile (yathosho shocks edit).avs",
+            "size": 6308,
+            "checksum": "sha256:c6ac4dc7164b67d5dd02262c74c2342bdf4142fbe64bd4bd24332a584bcb855b"
+        },
+        {
+            "file": "whyEye.org/whyEye.org grime 4/yiB1 hboy - constellation (yathosho's -where the toad sits- edit).avs",
+            "size": 9630,
+            "checksum": "sha256:92e240b1ce0cfa178e2e57c6f609ab02d73a8d2f180745658ab4c4e45eae0450"
+        },
+        {
+            "file": "whyEye.org/whyEye.org grime 4/yiB2 javs - the x flavour (yathosho's high emission rework).avs",
+            "size": 5197,
+            "checksum": "sha256:cdc7a576a74875dac851c58b678ace2413a7a542db9a7c1a1e9d5caec45da78e"
+        },
+        {
+            "file": "whyEye.org/whyEye.org grime 4/yiB3 duo - integrationist (yathosho's virtual origami).avs",
+            "size": 4548,
+            "checksum": "sha256:1f89dd2b8dade4c7660c4db35ce9dfd475801dcf7ab37c62570747a2f69bee99"
+        }
+    ],
+    "plugins": [
+        "BufferBlend",
+        "ConvolutionFilter",
+        "Triangle"
+    ]
+}

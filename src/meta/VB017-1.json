@@ -1,0 +1,30 @@
+{
+    "name": "whyeye.org kirschbl�ten pt. 1",
+    "id": "VB017-1",
+    "presets": [
+        {
+            "file": "whyEye.org/whyeye.org kirschblüten/yiA1-jheriko__kirschblüte_3d.avs",
+            "size": 2483,
+            "checksum": "sha256:c7a0a35e6d52613b5217776842c269d772dbb32a6297eabcb5bc0fe5ed2ddf22"
+        },
+        {
+            "file": "whyEye.org/whyeye.org kirschblüten/yiA2-yathosho__kbi.avs",
+            "size": 1957,
+            "checksum": "sha256:31931f5d01fdedf2d52f60c8790c921972651afb16ad098be9edcb6b0820a472"
+        },
+        {
+            "file": "whyEye.org/whyeye.org kirschblüten/yiB1-el-vis__kirscharoma_(hardcore_aroma_rmx).avs",
+            "size": 1116,
+            "checksum": "sha256:a661f7cb24b335b8610010397e774d7f7d49232aeb02c298051ce4988262913b"
+        },
+        {
+            "file": "whyEye.org/whyeye.org kirschblüten/yiB2-runar__kirschblüte (mystery box rmx].avs",
+            "size": 1517,
+            "checksum": "sha256:8e214ccf233a67567a7a11309bd60999e83aa7ff5619eedb9b9adba538cb7589"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter",
+        "MultiFilter"
+    ]
+}

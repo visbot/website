@@ -1,0 +1,69 @@
+{
+    "name": "les Noobiens present Let the MUSICK play",
+    "id": "VB089",
+    "presets": [
+        {
+            "file": "les Noobiens present Let the MUSICK play/MUSICK Press Play and Record on Tape/(A1) MUSICK Bomb the Bass.avs",
+            "size": 404,
+            "checksum": "sha256:9b2a6a6237c0966ad8b6ad3657624510e408bcea2e08a06f8ff12e723a6a5148"
+        },
+        {
+            "file": "les Noobiens present Let the MUSICK play/MUSICK Press Play and Record on Tape/(A2) MUSICK Die Uhr.avs",
+            "size": 420,
+            "checksum": "sha256:d8c439550e05d289b4cf1f1717ae8678e06bdedeb6ee6a5d1f2704de0582c32d"
+        },
+        {
+            "file": "les Noobiens present Let the MUSICK play/MUSICK Press Play and Record on Tape/(B1) MUSICK Flughafeninformationssystem.avs",
+            "size": 29300,
+            "checksum": "sha256:15f2732ea88f91aee67b71a8008e66eb5d25b95558b124098e95d63a015ec621"
+        },
+        {
+            "file": "les Noobiens present Let the MUSICK play/MUSICK Press Play and Record on Tape/(B2) MUSICK Syntax Error.avs",
+            "size": 367,
+            "checksum": "sha256:733247243be5c249cdda45beeafcaac1b3b7cb5422c203731f4b992f6ef6ba93"
+        },
+        {
+            "file": "les Noobiens present Let the MUSICK play/MUSICK Sell the Nineties/(A1) MUSICK Don't try to impress ME sucker.avs",
+            "size": 1437,
+            "checksum": "sha256:f851a704a1e6286848ea5e53f2d48f83b686b5fa939e18b9b2c1ae9d395bf11f"
+        },
+        {
+            "file": "les Noobiens present Let the MUSICK play/MUSICK Sell the Nineties/(A2) MUSICK Why don't YOU just shut up.avs",
+            "size": 1411,
+            "checksum": "sha256:fc8ac1803510b46bbbf1b259e94715eb1c8acf2a8d866ab81fb31a57e7471ee9"
+        },
+        {
+            "file": "les Noobiens present Let the MUSICK play/MUSICK Sell the Nineties/(B1) MUSICK Are you sick of THIS yet.avs",
+            "size": 1406,
+            "checksum": "sha256:7e2fc4ed820e9213688c84920622b0e4cf4569e0f7230110385cf9c9cc7dfe40"
+        },
+        {
+            "file": "les Noobiens present Let the MUSICK play/MUSICK Sell the Nineties/(B2) MUSICK This SHIT hits.avs",
+            "size": 1392,
+            "checksum": "sha256:14fe0ba3d664680709cc1e292483664fac2f2f39695e0f5f5bcf1d4f95eddd71"
+        },
+        {
+            "file": "les Noobiens present Let the MUSICK play/MUSICK The Output Device/(A1) MUSICK Schwärmer.avs",
+            "size": 1180,
+            "checksum": "sha256:bbc1adea25fead02b7797f80b658fc6735345424147dc7a9cb8c4524871a21a6"
+        },
+        {
+            "file": "les Noobiens present Let the MUSICK play/MUSICK The Output Device/(A2) MUSICK Weltzeit.avs",
+            "size": 2206,
+            "checksum": "sha256:fdf8c608055e98c54acd3f5c04ff231c4b62bdd1524ace6221c45782f3d89f26"
+        },
+        {
+            "file": "les Noobiens present Let the MUSICK play/MUSICK The Output Device/(B1) MUSICK Ready (Remix for Yathosho).avs",
+            "size": 651,
+            "checksum": "sha256:f633702110f0804b250f407ebd19d9110f2a14ec68bb183d35979751b950d6c0"
+        },
+        {
+            "file": "les Noobiens present Let the MUSICK play/MUSICK The Output Device/(B2) MUSICK Where in the world is Carmen Sandiego.avs",
+            "size": 1397,
+            "checksum": "sha256:d6783d48e2363b3d01c23d7e9278fe56d64b936e09118f820509426830e497d6"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

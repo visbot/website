@@ -1,0 +1,41 @@
+{
+    "name": "sEP . hegy",
+    "id": "VB236",
+    "presets": [
+        {
+            "file": "frames.of.reality/sEP . hegy/001 . effekthasch . bumper bump matrix printer remix.avs",
+            "size": 6224,
+            "checksum": "sha256:6251601116997b79b8b30f1566bd4d68ba66a3bb3ebfe491c668cc8a61021955"
+        },
+        {
+            "file": "frames.of.reality/sEP . hegy/002 . jheriko . glowy fake pan am remix.avs",
+            "size": 3524,
+            "checksum": "sha256:7f98a0661e0f72182b71293a66cfb5efddd4ba150c60fac7ea82a021e3e45365"
+        },
+        {
+            "file": "frames.of.reality/sEP . hegy/003 . fake retro.avs",
+            "size": 4794,
+            "checksum": "sha256:c8ec5473b2e5a25c189b32c15b22a5293cc404afa860a2fd91ff5009f34d5187"
+        },
+        {
+            "file": "frames.of.reality/sEP . hegy/004 . yathosho . random anja.avs",
+            "size": 5024,
+            "checksum": "sha256:4272d8a72fa2f5b1eefcf1ce3f8312ccdf09a712a391cfc004bbeaa63cc4cade"
+        }
+    ],
+    "assets": [
+        {
+            "file": "avsres_texer_hexagon-h_blur_123x123.bmp",
+            "size": 7990,
+            "checksum": "sha256:3837dee6e0d667703d694736ceda0bafbb012d72c37deefa3748941aa4cf23aa"
+        }
+    ],
+    "plugins": [
+        "AddBorder",
+        "BufferBlend",
+        "ColorMap",
+        "ConvolutionFilter",
+        "Texer2",
+        "TransAuto"
+    ]
+}

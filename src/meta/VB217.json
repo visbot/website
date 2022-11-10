@@ -1,0 +1,38 @@
+{
+    "name": "CO-OP Session 15",
+    "id": "VB217",
+    "presets": [
+        {
+            "file": "CO-OP Sessions/CO-OP Session 15/a1 amphirion - pulse.avs",
+            "size": 2887,
+            "checksum": "sha256:fab5849576070c629f424e09cbc31f4c2f443ed358ba9a0e162c4b7ad45e82b6"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 15/a2 micro.d° - pulsar.avs",
+            "size": 3076,
+            "checksum": "sha256:aab811165a9f0ddd3310705b2c97941a3327e0137f7a39843dca7c1d099b3e0c"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 15/b1 micro.d° - metropolis at night.avs",
+            "size": 4320,
+            "checksum": "sha256:17417870726359572c21d2d547ee84050bcb8c5754ca6fcfcbeae4372c76c98c"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 15/b2 amphirion - metro style night lights.avs",
+            "size": 5709,
+            "checksum": "sha256:f0bf3af57a550b979147a7fefc3f9b507df6b0d96d934f1e35214992003d71e6"
+        }
+    ],
+    "assets": [
+        {
+            "file": "szomszedok1.bmp",
+            "size": 45414,
+            "checksum": "sha256:b3cbd50b5552ee0bc574e8274ec38b551dffe440ac2128b39bb8ee85b6dae14f"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter",
+        "Normalise",
+        "TransAuto"
+    ]
+}

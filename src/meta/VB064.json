@@ -1,0 +1,37 @@
+{
+    "name": "les Noobiens NOOBCORE",
+    "id": "VB064",
+    "presets": [
+        {
+            "file": "les Noobiens/les Noobiens NOOBCORE/lNa1 les Noobiens - enter the noobcore.avs",
+            "size": 2251,
+            "checksum": "sha256:10b1c755a3093a3aca9e6dfd2e053c6117c3dc261904d4e7fdc24a8dee5909ec"
+        },
+        {
+            "file": "les Noobiens/les Noobiens NOOBCORE/lNa2 les Noobiens - metronom.avs",
+            "size": 1265,
+            "checksum": "sha256:588dea94e1753d918dc0bf917472082b5f8dc49450b993596215cf38a18f66a6"
+        },
+        {
+            "file": "les Noobiens/les Noobiens NOOBCORE/lNa3 les Noobiens - jitterbug.avs",
+            "size": 1262,
+            "checksum": "sha256:71ca9cb6d4a206f2cd06db7dbe0d191e82b93f5ab566b4fbb576d0ec06b84b29"
+        },
+        {
+            "file": "les Noobiens/les Noobiens NOOBCORE/lNb1 les Noobiens - t-error (uncut).avs",
+            "size": 1009,
+            "checksum": "sha256:a4dbdad99d641b8bfb655788ead25d0dce4ebb5e5930a0bff2afc6407b391373"
+        },
+        {
+            "file": "les Noobiens/les Noobiens NOOBCORE/lNb2 les Noobiens - noobcore.avs",
+            "size": 1931,
+            "checksum": "sha256:eacfdd254b40875a47ef6a7c9a580457ab4bdc59d65f6026bf9b089aeeb12304"
+        },
+        {
+            "file": "les Noobiens/les Noobiens NOOBCORE/lNb3 les Noobiens - save the screens!.avs",
+            "size": 139,
+            "checksum": "sha256:d49fbf0562f4f5bc5b700995019a978a107406a06b37af27e385a447e00adb58"
+        }
+    ],
+    "plugins": []
+}

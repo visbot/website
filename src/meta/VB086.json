@@ -1,0 +1,25 @@
+{
+    "name": "danaughty1 - naughty nutz",
+    "id": "VB086",
+    "presets": [
+        {
+            "file": "danaughty1/danaughty1 - naughty nutz/a1 danaughty1 - the cosmonaught.avs",
+            "size": 2139,
+            "checksum": "sha256:1a2261a80b7df5694d69428de0e817cd30b659ce11257bb29ca26004e1b7b824"
+        },
+        {
+            "file": "danaughty1/danaughty1 - naughty nutz/b1 danaughty1 - the taikonaught.avs",
+            "size": 2205,
+            "checksum": "sha256:dbb0a31022335e8f0eb768e93c307170569fb62ffe0dc390b54a4b706131c078"
+        },
+        {
+            "file": "danaughty1/danaughty1 - naughty nutz/b2 danaughty1 - bitz+pieces.avs",
+            "size": 2460,
+            "checksum": "sha256:d77b1fbc7204422248b04a6ec294c5119968e29950818ac1c8085ca252165686"
+        }
+    ],
+    "plugins": [
+        "ColorMap",
+        "ConvolutionFilter"
+    ]
+}

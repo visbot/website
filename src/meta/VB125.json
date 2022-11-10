@@ -1,0 +1,117 @@
+{
+    "name": "DD2oo5",
+    "id": "VB125",
+    "presets": [
+        {
+            "file": "Dynamic Duo/DD2oo5/01 dynamic duo - in movement.avs",
+            "size": 3066,
+            "checksum": "sha256:93910d9b18d27ff308f74fa96c0da315513cc0813f5e2890bb78d7c3bb355ed7"
+        },
+        {
+            "file": "Dynamic Duo/DD2oo5/02 dynamic duo - kinematics (ya-tho-sho alternate treatment).avs",
+            "size": 3757,
+            "checksum": "sha256:02a52807983051b86e37e5db98f805584baeb48c638777d4da7f35f83d18e479"
+        },
+        {
+            "file": "Dynamic Duo/DD2oo5/03 dynamic duo - jet down to it.avs",
+            "size": 4943,
+            "checksum": "sha256:e2b7213b01ee8440c5cf0e47b30651fc2b207382a185e6a08a9251da239bc032"
+        },
+        {
+            "file": "Dynamic Duo/DD2oo5/04 dynamic duo - envian.avs",
+            "size": 3515,
+            "checksum": "sha256:95bae1692c10a3b0bde3dd91a176a2672a792bf5eb9843f174ff6241608ad465"
+        },
+        {
+            "file": "Dynamic Duo/DD2oo5/05 dynamic duo - ny.avs",
+            "size": 3068,
+            "checksum": "sha256:3509696cf7a7933042c39ce6c0a81abd58bb89c69e8a629f8f61c3039f0cd0d3"
+        },
+        {
+            "file": "Dynamic Duo/DD2oo5/06 zamuz - fluffy candy time (dynamic duo 2nd attempt).avs",
+            "size": 3011,
+            "checksum": "sha256:bbffd1e341c96e83ffb224d023d1bfd87f10da482e3aaf7b067aee9394b51953"
+        },
+        {
+            "file": "Dynamic Duo/DD2oo5/07 dynamic duo - gentle (revisited).avs",
+            "size": 1891,
+            "checksum": "sha256:8039c20ee4bcb73e9ea5d592899f83f49db9e3cc003080520b5ce6e711779bca"
+        },
+        {
+            "file": "Dynamic Duo/DD2oo5/08 shock value - activation energy (dynamic duo rework).avs",
+            "size": 5111,
+            "checksum": "sha256:6a5a654218d98d08618eae9deda3d1dd470d2c7fd7bef88146f531bbeb92f3e3"
+        },
+        {
+            "file": "Dynamic Duo/DD2oo5/09 dynamic duo - upachi.avs",
+            "size": 3537,
+            "checksum": "sha256:a2c1b8a10a86c6e9db3ad8e9ad5c8bdf3f60022903465ec5ebcdbc4282fa3d90"
+        },
+        {
+            "file": "Dynamic Duo/DD2oo5/10 zamuz - fluffy candy time (dynamic duo 1st attempt).avs",
+            "size": 3161,
+            "checksum": "sha256:b8543a28234b44eb47bed260f7b058b0c5e9142d52789bb54cabe389b2cb37f0"
+        },
+        {
+            "file": "Dynamic Duo/DD2oo5/11 dynamic duo - honeybunch.avs",
+            "size": 3111,
+            "checksum": "sha256:f0ea21e7c7a068b21c4d20a787100918b1a4dbae5509973419fe0d3851653b8f"
+        },
+        {
+            "file": "Dynamic Duo/DD2oo5/12 frames of reality - asfgs (dynamic duo's moskau remix).avs",
+            "size": 5680,
+            "checksum": "sha256:8ab86d1088543c83e43e39f014726028f1e897a80eb4f1cafeb0ba12dd7cc738"
+        },
+        {
+            "file": "Dynamic Duo/DD2oo5/13 pak-9 & vanish - ninjaisbleeding (dynamic duo's re-traumatization).avs",
+            "size": 5514,
+            "checksum": "sha256:b87562e19af81bce5e7e9354eef10c872c37b4d9e153eb528f039038c00bd612"
+        },
+        {
+            "file": "Dynamic Duo/DD2oo5/14 zamuz - urban metallic (dynamic duo rework).avs",
+            "size": 2810,
+            "checksum": "sha256:882fc8e9610b3b338cac447d317add5c3ed00ac9b021396b38ac13ac1bd63552"
+        },
+        {
+            "file": "Dynamic Duo/DD2oo5/15 dynamic duo - get sick (revisited).avs",
+            "size": 915,
+            "checksum": "sha256:fc8b9b6f88985cdecbdc38f1aab114aa26e2158ccfb4503b1b678ff3100e686c"
+        },
+        {
+            "file": "Dynamic Duo/DD2oo5/16 dynamic duo - ny again.avs",
+            "size": 2803,
+            "checksum": "sha256:566024259a58e7f28d37b1c5d9cace5bcd775f3858182116e68061d9a66dfa1b"
+        },
+        {
+            "file": "Dynamic Duo/DD2oo5/17 avs-king - fill my head with poison (dynamic duo re-edit).avs",
+            "size": 2364,
+            "checksum": "sha256:0b6d8c502bc1d5fc6b3cf82457d3f09675000364a223335f55d703e93ac7b976"
+        },
+        {
+            "file": "Dynamic Duo/DD2oo5/18 zamuz - fluffy candy time (dynamic duo 3rd attempt).avs",
+            "size": 2962,
+            "checksum": "sha256:7debfd651cc46abb231e02540bc55aca9a7a75f7417f4289a50e585afdb4e7d9"
+        }
+    ],
+    "assets": [
+        {
+            "file": "avsres_texer_square_sharp_04x04.bmp",
+            "size": 246,
+            "checksum": "sha256:2e3156b4b05df497d7450b7869f6b547799d8799e9a23c7ba736fd4ff3bc8717"
+        },
+        {
+            "file": "vb.bmp",
+            "size": 145254,
+            "checksum": "sha256:92479458ed7967973cccc27666c5192a2cf8a9f5b526dacba4c3fc907a3bdad4"
+        }
+    ],
+    "plugins": [
+        "AddBorder",
+        "ChannelShift",
+        "ColorMap",
+        "ColorReduction",
+        "ConvolutionFilter",
+        "Multiplier",
+        "Texer2"
+    ]
+}

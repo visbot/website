@@ -1,0 +1,153 @@
+{
+    "name": "VISBOT Meat to please you",
+    "id": "VC007",
+    "presets": [
+        {
+            "file": "VISBOT/VC007 Meat to please you/01 nemo - inner workings (zamuz's a pair of dimensions remix).avs",
+            "size": 28708,
+            "checksum": "sha256:dc3969210f0c3ffb85247e96bca9a19acd2b3fd8c5f102f35a058d3cf3002fdb"
+        },
+        {
+            "file": "VISBOT/VC007 Meat to please you/02 amphirion - vector my art.avs",
+            "size": 11658,
+            "checksum": "sha256:9a173dd517ae489762559881c688ca895d3d16427265274432c69824608ae88a"
+        },
+        {
+            "file": "VISBOT/VC007 Meat to please you/03 pure-krypton - i broke my frame (da naughty's re-rub).avs",
+            "size": 3520,
+            "checksum": "sha256:d5f66a1f02a7f3c243e3365b6f5299f4fbc92284f665b403d1f7bb0f554dc463"
+        },
+        {
+            "file": "VISBOT/VC007 Meat to please you/04 framesofreality - irracional (skupers' koh-i stream).avs",
+            "size": 2445,
+            "checksum": "sha256:cb973928ddfca4876a294056fe266a1c75c34d0bf7c0736555747bfe77481652"
+        },
+        {
+            "file": "VISBOT/VC007 Meat to please you/05 yathosho - vogue.avs",
+            "size": 3219,
+            "checksum": "sha256:bce2d90a5579938adef9eefc73b4f732d90f51808bc3f88c6153ace28f97f530"
+        },
+        {
+            "file": "VISBOT/VC007 Meat to please you/06 skupers - breaking the door.avs",
+            "size": 5438,
+            "checksum": "sha256:5459ce3621112218f562bd2f90c7c826849a56359683371c4a06e69e1246d566"
+        },
+        {
+            "file": "VISBOT/VC007 Meat to please you/07 amphirion - abstractica.avs",
+            "size": 5410,
+            "checksum": "sha256:fc4341bbcccc640aa13a8c419cb867d17936040274c5efa744f6391a4557e2e9"
+        },
+        {
+            "file": "VISBOT/VC007 Meat to please you/08 zamuz - bones.avs",
+            "size": 5679,
+            "checksum": "sha256:9c0a141bb7f23eef2df192a8f48fa5efebaaa70f78bd1bfc9fb1b49e2d6243f9"
+        },
+        {
+            "file": "VISBOT/VC007 Meat to please you/09 les Noobiens - min syster lider av psykisk ohälsa.avs",
+            "size": 2974,
+            "checksum": "sha256:2d2dfcb0daf401f00e4d34f054e07c9cf20147bb1c354f6631ed196b0437aa2b"
+        },
+        {
+            "file": "VISBOT/VC007 Meat to please you/10 skupers - electronique.avs",
+            "size": 5361,
+            "checksum": "sha256:2681140767454aea8361f877539a50ba057e68d2797bd4d3a1194ee4dc0b52ef"
+        },
+        {
+            "file": "VISBOT/VC007 Meat to please you/11 nemo - over the hills.avs",
+            "size": 3484,
+            "checksum": "sha256:dc7908bcc8ce5de28ae4db2125988dc9e19f23a16753b0c9a6f632add26e1bac"
+        },
+        {
+            "file": "VISBOT/VC007 Meat to please you/12 yathosho - interieur (ya-tho-sho rework).avs",
+            "size": 3124,
+            "checksum": "sha256:fdb1f003ab67e948c9e32cb7b6e9ce9466b5ddebfe1541b83d97b882b1eefade"
+        },
+        {
+            "file": "VISBOT/VC007 Meat to please you/13 zamuz - a strike full of luck.avs",
+            "size": 5896,
+            "checksum": "sha256:48f20af1e394d06731fffc33d60d23e72768557345cc8d835cd81466e36a9e54"
+        },
+        {
+            "file": "VISBOT/VC007 Meat to please you/14 nemo - surfacing 8 (yathosho's facing mod rework).avs",
+            "size": 1836,
+            "checksum": "sha256:989a5875ad795e9289518a307ed78561a43c2c703f399bfdcaa1970985f8f17a"
+        },
+        {
+            "file": "VISBOT/VC007 Meat to please you/15 skupers - dubbing single mothers (amphirion's second take).avs",
+            "size": 3803,
+            "checksum": "sha256:d5db6c2c38266cb5b8149410440270033ffa9f51aaf227660492eb18675544c9"
+        },
+        {
+            "file": "VISBOT/VC007 Meat to please you/16 amphirion - heaven scent.avs",
+            "size": 5039,
+            "checksum": "sha256:6545b8df49890374a1923ad39e0d6aed47930926ff0b85adecd08573c6140629"
+        },
+        {
+            "file": "VISBOT/VC007 Meat to please you/17 nemo - habitat.avs",
+            "size": 11855,
+            "checksum": "sha256:1f00991c430716255559dcfce21809d3a79108378fd1567a57fdb46f7095357f"
+        }
+    ],
+    "assets": [
+        {
+            "file": "ampvisbot.bmp",
+            "size": 6824,
+            "checksum": "sha256:c19cf72990284c2d5993c6494d842b72094bac86cea2893834a85fa0bc8eeea5"
+        },
+        {
+            "file": "avsres_texer_circle_edgeonly_15x15.bmp",
+            "size": 774,
+            "checksum": "sha256:4e797d0af19753125dc6712aca5598eff13f7b963e582f28fbfe1c41881cb7fb"
+        },
+        {
+            "file": "avsres_texer_circle_edgeonly_29x29.bmp",
+            "size": 2606,
+            "checksum": "sha256:534c1eb965d3a1df52fa0bc8bdb4977fbf18ac19869417ac8e8d1409f6b203e6"
+        },
+        {
+            "file": "avsres_texer_circle_sharp_13x13.bmp",
+            "size": 774,
+            "checksum": "sha256:7dfb911b3bcceb29b6c6b2386e40f8c7b1af1785e25d5e0310f5537a36cf937a"
+        },
+        {
+            "file": "avsres_texer_circle_sharp_15x15.bmp",
+            "size": 938,
+            "checksum": "sha256:32c61631054ead9b42d17e9b3ea4f3b9d3329d1aff4659bc99d6285c0c771de4"
+        },
+        {
+            "file": "avsres_texer_circle_sharp_25x25.bmp",
+            "size": 2322,
+            "checksum": "sha256:e8d6d4c06b831887f398c7b8a59bec494f4806aec5f568dff3fb3f771e3d3ea7"
+        },
+        {
+            "file": "avsres_texer_circle_sharp_27x27.bmp",
+            "size": 2606,
+            "checksum": "sha256:53f96e5f860b7ece905c92aa6253a3445a571f55c9a6ac4a9ee3df6bea56e65a"
+        },
+        {
+            "file": "avsres_texer_circle_sharp_29x29.bmp",
+            "size": 3030,
+            "checksum": "sha256:2d057959257346e2b9a8922504ad51ff7d2608d6bd591659a7fa08d07406366a"
+        },
+        {
+            "file": "avsres_texer_square_sharp_30x30.bmp",
+            "size": 3590,
+            "checksum": "sha256:e41754b033960b3a5e77252cf1edee71e97c311c2cedafc9b4139a3df51240e6"
+        },
+        {
+            "file": "Plane.bmp",
+            "size": 230454,
+            "checksum": "sha256:f0ebce64db11bba6dcf7fb5806a395de9177bfb0ca64d50788a127763ccbd1f7"
+        },
+        {
+            "file": "v4_texer7.bmp",
+            "size": 1954,
+            "checksum": "sha256:49b6458d62c8f9687fefe109e1891166da70448e4eba3006067f948662a46a76"
+        }
+    ],
+    "plugins": [
+        "AddBorder",
+        "ConvolutionFilter",
+        "Triangle"
+    ]
+}

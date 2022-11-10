@@ -1,0 +1,135 @@
+{
+    "name": "sk-curvisms",
+    "id": "VB012",
+    "presets": [
+        {
+            "file": "S_KuPeRS/sk-curvisms/duo - curvism 002 (sensualistic remix).avs",
+            "size": 1316,
+            "checksum": "sha256:fda89a6cdc7e6b6eb006e749a2b742f2a16bd7c33ea11e7296edeeae34a0e60c"
+        },
+        {
+            "file": "S_KuPeRS/sk-curvisms/dynamic duo - curvaceous.avs",
+            "size": 1977,
+            "checksum": "sha256:8643990ed02e5366909678b55d29b243d341d0ebd3d66dcc46c0d9a95e3d38b9"
+        },
+        {
+            "file": "S_KuPeRS/sk-curvisms/dynamic duo - curvism (who doesnt love wood).avs",
+            "size": 2264,
+            "checksum": "sha256:b2b55af1332958d18beac8dbe39c43a783fc2a7e08e59a130509d38e6aa4ec99"
+        },
+        {
+            "file": "S_KuPeRS/sk-curvisms/horse-fly - curvism (hf evolution).avs",
+            "size": 2610,
+            "checksum": "sha256:b615b7e2a1548df2a77094a14d823f9d947667dbceaf5f5c02137eb5fd188ec6"
+        },
+        {
+            "file": "S_KuPeRS/sk-curvisms/horse-fly - curvism (hf inferno).avs",
+            "size": 2602,
+            "checksum": "sha256:6f105d93a1bae4e5fb6c820ed9ad313d5534bf20b7a780e379a3c10cd1273a87"
+        },
+        {
+            "file": "S_KuPeRS/sk-curvisms/nixa - curvism rmx.avs",
+            "size": 6645,
+            "checksum": "sha256:d98eacd916718dcfca774cbf7ee59766d3cfb6bc9612ac37644d71aa99221b2d"
+        },
+        {
+            "file": "S_KuPeRS/sk-curvisms/pan am - detroit ix.avs",
+            "size": 2995,
+            "checksum": "sha256:51f88ec6a32a8c9c255f7798c30cc925aa79a665f648ed48b10e7210c892cfcf"
+        },
+        {
+            "file": "S_KuPeRS/sk-curvisms/runar - coal & gold curvism.avs",
+            "size": 1919,
+            "checksum": "sha256:26347472f0fee287a4955910f3018dc57f628929fbc26ba69a01d0c89b0c0ae8"
+        },
+        {
+            "file": "S_KuPeRS/sk-curvisms/runar - jelly curvism.avs",
+            "size": 2096,
+            "checksum": "sha256:5390ff178595ff5e9343727d06790559653283e3abf930e1557e13d25be81bc6"
+        },
+        {
+            "file": "S_KuPeRS/sk-curvisms/runar - red, white and blue curvism.avs",
+            "size": 1955,
+            "checksum": "sha256:fab96a9de074f711edb716f7629ed6194bfb550ee5ae0081708b93bc025b3643"
+        },
+        {
+            "file": "S_KuPeRS/sk-curvisms/skupers - curvism 002.avs",
+            "size": 3503,
+            "checksum": "sha256:947ca2f2dce02a3cca33f92a572496867e17db64c05c2223add9698f38f83d16"
+        },
+        {
+            "file": "S_KuPeRS/sk-curvisms/skupers - curvism.avs",
+            "size": 2280,
+            "checksum": "sha256:714ac1747471ac6f5d380e90510286ae713bf1297a9918952276c466d53ffb65"
+        },
+        {
+            "file": "S_KuPeRS/sk-curvisms/skupers - curvsmus.avs",
+            "size": 2425,
+            "checksum": "sha256:39b8a21c875dce7bc02ccde0ce1e81c0ff835bcf51243bc308c5b0b9746354fa"
+        },
+        {
+            "file": "S_KuPeRS/sk-curvisms/skupers - ghostly triple c.avs",
+            "size": 2755,
+            "checksum": "sha256:bc02dadc25ee9ba9509c9f16694b2ea5289a39ff08b60ffb9cbbc69aad899998"
+        },
+        {
+            "file": "S_KuPeRS/sk-curvisms/skupers - mashnote.avs",
+            "size": 4301,
+            "checksum": "sha256:ea0e0415822f7c67bbb34cfaa32173d8c30a54b5a568d7a2b62217b6041a7baa"
+        },
+        {
+            "file": "S_KuPeRS/sk-curvisms/skupers - rainbow curvism.avs",
+            "size": 2291,
+            "checksum": "sha256:c806eb87821639c115ef3a719d25c4d30956b1b7b7793bcf7fa6240dcc7406a8"
+        },
+        {
+            "file": "S_KuPeRS/sk-curvisms/skupers - rainbowcurve.avs",
+            "size": 3116,
+            "checksum": "sha256:b78706affeebe76b75b40e88378922154ce565e42c8570f097deea20ed1dd04b"
+        },
+        {
+            "file": "S_KuPeRS/sk-curvisms/skupers - x-ray curvism.avs",
+            "size": 2929,
+            "checksum": "sha256:4a3ae79f402f1a148f0eca161128409d77e2bde791e82e4fdfa4db87c32caf5c"
+        },
+        {
+            "file": "S_KuPeRS/sk-curvisms/tuggummi - curvism 002 (paprika mix).avs",
+            "size": 5015,
+            "checksum": "sha256:c47c99328346c127ee6f7e8d4d0b911c6158c78b86aef68b44cab579d8707294"
+        },
+        {
+            "file": "S_KuPeRS/sk-curvisms/yathosho - curvism (yathosho's camouflaged curves).avs",
+            "size": 2072,
+            "checksum": "sha256:1074a80cc18df4eac9a3818f0355dd0722f4aa76b3d0c5e71d9ad3b6674b1936"
+        },
+        {
+            "file": "S_KuPeRS/sk-curvisms/yathosho - mantenna.avs",
+            "size": 2502,
+            "checksum": "sha256:e838f272fe45987ee21384e1b162cb1f3aaf76520dd14faf68b0d90b053196b8"
+        },
+        {
+            "file": "S_KuPeRS/sk-curvisms/yathosho - olijfolie.avs",
+            "size": 2123,
+            "checksum": "sha256:a8f5e41be148e9c7240c6299303ac9eee9dcab7cf2bf0658a556cdab15b738ed"
+        },
+        {
+            "file": "S_KuPeRS/sk-curvisms/yathosho - those colors in my mind.avs",
+            "size": 2294,
+            "checksum": "sha256:c204e99a3ab315ac6d85c74389a3eac4ed813e6eba7ea5fe6d5b4145c50d246b"
+        },
+        {
+            "file": "S_KuPeRS/sk-curvisms/zamuz - cold curvism.avs",
+            "size": 2971,
+            "checksum": "sha256:da6773adfe50b64d512d8ea771d1ebc5dd83107bd896d3af84bcb432b58d31ba"
+        },
+        {
+            "file": "S_KuPeRS/sk-curvisms/zamuz - curvist depths.avs",
+            "size": 3134,
+            "checksum": "sha256:e917ebd35ea91034aff86f4d8e1e5fae173fe6fac84a527b6e1c6abfe678de40"
+        }
+    ],
+    "plugins": [
+        "BufferBlend",
+        "ConvolutionFilter"
+    ]
+}

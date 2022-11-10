@@ -1,0 +1,76 @@
+{
+    "name": "whyEye.org in treatment 2",
+    "id": "VB120-2",
+    "presets": [
+        {
+            "file": "whyEye.org/whyEye.org in treatment 2/01 amphirion - abstractica part deux (ya-tho-sho treatment).avs",
+            "size": 3588,
+            "checksum": "sha256:d49f9132ab3b0d0bc55d25eebb53cd61e3cb2ea213141349086c7de4d1af2517"
+        },
+        {
+            "file": "whyEye.org/whyEye.org in treatment 2/02 frames.of.reality - biomass (ya-tho-sho treatment #2).avs",
+            "size": 5473,
+            "checksum": "sha256:b056c589ba738bd52aa51b4dd1dc445e8571c43a9a50d8a2724a7c7183647b12"
+        },
+        {
+            "file": "whyEye.org/whyEye.org in treatment 2/03 unconed - going up-down (ya-tho-sho treatment).avs",
+            "size": 3306,
+            "checksum": "sha256:8dd84b1bc8c62f3e5c9b2e78ba74a1d1a75fc3e96b558fc811469254d11fabd6"
+        },
+        {
+            "file": "whyEye.org/whyEye.org in treatment 2/04 yathosho - touristica (ya-tho-sho treatment).avs",
+            "size": 2175,
+            "checksum": "sha256:10fa672bff006ec6a918e3e106b1057e0ab394fd21f2a47a2a283442846bdf5b"
+        },
+        {
+            "file": "whyEye.org/whyEye.org in treatment 2/05 hboy - infiniti (ya-tho-sho treatment).avs",
+            "size": 5196,
+            "checksum": "sha256:b4265d337b625a3c3f69d5047c4411962e70c14dd2f5462b918b9abf44656200"
+        },
+        {
+            "file": "whyEye.org/whyEye.org in treatment 2/06 zamuz - blood twisters (ya-tho-sho treatment).avs",
+            "size": 3210,
+            "checksum": "sha256:85b0c0e07761d113d0af3a848d0032c1b8a64e41a0695efec0ed362b5df96de9"
+        },
+        {
+            "file": "whyEye.org/whyEye.org in treatment 2/07 duo - warm freeform (ya-tho-sho treatment).avs",
+            "size": 2749,
+            "checksum": "sha256:65059608772a783d8e77379a31e53619ecc8afc7b51ef18a369d441d1fb99806"
+        },
+        {
+            "file": "whyEye.org/whyEye.org in treatment 2/08 synth-c - clusterfuck (ya-tho-sho treatment).avs",
+            "size": 13142,
+            "checksum": "sha256:8cedc858599e2cbd5ea1390bde836e186d563549b40fda19b6a625e92e474809"
+        },
+        {
+            "file": "whyEye.org/whyEye.org in treatment 2/09 dynamic duo - kinematics (ya-tho-sho treatment).avs",
+            "size": 4066,
+            "checksum": "sha256:7c1c74ac264cee0ef22b9a1483af7f519c0ba09fc414bfa245ec6fbb01b6f60a"
+        },
+        {
+            "file": "whyEye.org/whyEye.org in treatment 2/10 yathosho - happy end (ya-tho-sho treatment).avs",
+            "size": 3849,
+            "checksum": "sha256:37238d9c00a1c5e0894b9bcd203d7cf24526f62c5d381f510a784edaaa519c96"
+        },
+        {
+            "file": "whyEye.org/whyEye.org in treatment 2/11 frames.of.reality - into the chambers of maedvigan (ya-tho-sho treatment).avs",
+            "size": 2808,
+            "checksum": "sha256:b63ae0ae78be5eb968333c5fb004f4b3e0139d3b3e0a6e4d7222a2d4397d1281"
+        },
+        {
+            "file": "whyEye.org/whyEye.org in treatment 2/12 zamuz - metallic shades (ya-tho-sho treatment).avs",
+            "size": 3308,
+            "checksum": "sha256:8f8b9e2739ce8bcfe0fc1c849d7a13f60eb2f104043f426af1ebe9e8bc65988e"
+        }
+    ],
+    "plugins": [
+        "ChannelShift",
+        "ColorMap",
+        "ColorReduction",
+        "ConvolutionFilter",
+        "GlobalVarMan",
+        "Multiplier",
+        "Texer2",
+        "TransAuto"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "name": "VISBOT Refocused Part 1",
+    "id": "VB117-1",
+    "presets": [
+        {
+            "file": "VISBOT/VISBOT Refocused/a1 avs-king - bit by bit (amphirion's blues mix).avs",
+            "size": 3264,
+            "checksum": "sha256:38ddf64d2ff200029595f5acd5bcc26d52abe12d01665a58c15dc25edb9a5652"
+        },
+        {
+            "file": "VISBOT/VISBOT Refocused/a2 avs-king - fill my head with poison (yathosho's skuperesque edit).avs",
+            "size": 3167,
+            "checksum": "sha256:297b251345f686a8021e0de9ea56e571a8e7be4a04726b44db5bcb970e56f239"
+        },
+        {
+            "file": "VISBOT/VISBOT Refocused/b1 avs-king - fill my head with poison (dynamic duo rework).avs",
+            "size": 2453,
+            "checksum": "sha256:5d5f516619e4ab633c36d0a9b1da55bcfbce80343f2a0120788a0a2b5aca5edd"
+        },
+        {
+            "file": "VISBOT/VISBOT Refocused/b2 avs-king - t-k (amphirion's phirion mix).avs",
+            "size": 2029,
+            "checksum": "sha256:1f00c2275de9167b713f7a4babdca98317eb3f7b389bb64a9755202ad5ee7d34"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

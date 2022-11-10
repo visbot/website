@@ -1,0 +1,39 @@
+{
+    "name": "whyEye.org grime",
+    "id": "VB121",
+    "presets": [
+        {
+            "file": "whyEye.org/whyEye.org grime/yiA1 zamuz - crimson (the asphyx rework by yathosho).avs",
+            "size": 3905,
+            "checksum": "sha256:8f458a3bebd5252a58d20c34479c7e7534b4736fb8f7ecc3ef17cd62556822ba"
+        },
+        {
+            "file": "whyEye.org/whyEye.org grime/yiA2 frames.of.reality - asfgs (yathosho's untitled raster mix).avs",
+            "size": 3248,
+            "checksum": "sha256:20210c67ffb16e64a33504c5472923c73c880c4aee8f5df66021d180a7dbfeba"
+        },
+        {
+            "file": "whyEye.org/whyEye.org grime/yiA3 elvis - powersource (yathosho's sanjusangen-do revisited mix).avs",
+            "size": 2886,
+            "checksum": "sha256:249486b1edff506ec06450d539072c4c73bc82ca82facb6d279d6f9695b1a1b8"
+        },
+        {
+            "file": "whyEye.org/whyEye.org grime/yiB1 degnic - retrowall (yathosho's microcosm revisited mix).avs",
+            "size": 3086,
+            "checksum": "sha256:4188999914c9181cfb63683ff07068d6e164db7b3e3e94977c096185215bb76b"
+        },
+        {
+            "file": "whyEye.org/whyEye.org grime/yiB2 mr nudge - polarized (yathosho's dhutty rinse-up).avs",
+            "size": 3152,
+            "checksum": "sha256:d760f794d64255be31ffb45c9b854c7cd9268c17f05a2cf7420e116f137723db"
+        },
+        {
+            "file": "whyEye.org/whyEye.org grime/yiB3 zamuz - urban metallic (yathosho schadet ihrer gesundheit rework).avs",
+            "size": 4478,
+            "checksum": "sha256:d2c9b195927bff8cc2d330b108f89522a32ee5bb1d11188879a6a7853078e343"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

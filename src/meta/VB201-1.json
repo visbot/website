@@ -1,0 +1,29 @@
+{
+    "name": "whyEye.org 6ix e.p.",
+    "id": "VB201-1",
+    "presets": [
+        {
+            "file": "whyEye.org/whyEye.org 6ix ep/yA1__the second season.avs",
+            "size": 1713,
+            "checksum": "sha256:2f640d2e0e1f8f73e07769dc6424a6e08260d990e975c8b10ee9afe946cb10e5"
+        },
+        {
+            "file": "whyEye.org/whyEye.org 6ix ep/yiA2__the second season (2009 re-edit).avs",
+            "size": 2486,
+            "checksum": "sha256:8909fc2a03f3c77d38f28e0b50a9ac0fdd5bd12610875772069c161d310c98e4"
+        },
+        {
+            "file": "whyEye.org/whyEye.org 6ix ep/yiB1__the fourth season (2009 re-edit).avs",
+            "size": 2746,
+            "checksum": "sha256:0fde8bd058d13f484783c98f74f60330fbcc921726264f0fe9b27d82950702a3"
+        },
+        {
+            "file": "whyEye.org/whyEye.org 6ix ep/yiB2__sector movements (v.i.p.).avs",
+            "size": 2422,
+            "checksum": "sha256:ece346cc88e57b17f90688a3051056b08cca49d6676e3c0182d1bb134947dfc0"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

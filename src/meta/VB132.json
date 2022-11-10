@@ -1,0 +1,140 @@
+{
+    "name": "VISBOT New People Selection Vol 4",
+    "id": "VB132",
+    "presets": [
+        {
+            "file": "VISBOT/VISBOT New People Selection Vol 4/01 mr nudge - wireframe iii.avs",
+            "size": 9877,
+            "checksum": "sha256:48a08cda4c29ce4a7932a514b39478348b67db26b21e74fb1bf18a1c51f03abe"
+        },
+        {
+            "file": "VISBOT/VISBOT New People Selection Vol 4/02 p-k - random explosions ii.avs",
+            "size": 4916,
+            "checksum": "sha256:1dbbc9e428a7b405c89b7a15f76f68c246db4351ca4ca997fb9bcfd3ea815014"
+        },
+        {
+            "file": "VISBOT/VISBOT New People Selection Vol 4/03 tomylobo - home of the dragons.avs",
+            "size": 16489,
+            "checksum": "sha256:7e5454322ec62d3a09a66c1237a71ffd9cb5199b524cb637a7103b6f3d841d0f"
+        },
+        {
+            "file": "VISBOT/VISBOT New People Selection Vol 4/04 robotisgod - polyflow color.avs",
+            "size": 2925,
+            "checksum": "sha256:90503f6c18d815e31bf2427f7aa24590a88fc4749108166c76608f640faee82e"
+        },
+        {
+            "file": "VISBOT/VISBOT New People Selection Vol 4/05 asd5a - shangri la (edit).avs",
+            "size": 2441,
+            "checksum": "sha256:358d03634a83057d76ef94db1dcfd64972b5ec7531f3fd383be8f83761818d41"
+        },
+        {
+            "file": "VISBOT/VISBOT New People Selection Vol 4/06 victor flores - remake.avs",
+            "size": 3763,
+            "checksum": "sha256:9b9667d5ca9e96c904d04913c6bc5d37d8351647f5da2b1fc806a674b76ba267"
+        },
+        {
+            "file": "VISBOT/VISBOT New People Selection Vol 4/07 kar-ma - black candy (edit).avs",
+            "size": 3314,
+            "checksum": "sha256:7766150c819b38aad049540da86d1abcc8216773a9554e203f0567707a54c5dc"
+        },
+        {
+            "file": "VISBOT/VISBOT New People Selection Vol 4/08 zamuz - tiled waterdrops (les Noobiens rework).avs",
+            "size": 4138,
+            "checksum": "sha256:c4fcffb2090f8f4e6491de93d9bd6ddb7a029e031f71310670e5255abf3697d4"
+        },
+        {
+            "file": "VISBOT/VISBOT New People Selection Vol 4/09 grandchild - omegawd!mysuperenergysweaterisonfire.avs",
+            "size": 3745,
+            "checksum": "sha256:7714675a8a741ee4e48a2f6ab9d44504545714b4b9f18e85f34fb9b9562d338a"
+        },
+        {
+            "file": "VISBOT/VISBOT New People Selection Vol 4/10 javs - cook da fluid.avs",
+            "size": 2487,
+            "checksum": "sha256:295469ec8ef94f6bde8b0385921dd06fae5cb34186cba71dbd31714b396bd2d1"
+        },
+        {
+            "file": "VISBOT/VISBOT New People Selection Vol 4/11 dasn00b - paint your walls (les Noobiens lo-res rework).avs",
+            "size": 2930,
+            "checksum": "sha256:8b7d16404374ab1b8a2e5fb356f6a40451788b5021a33707f85cd3c00b6a3e0b"
+        },
+        {
+            "file": "VISBOT/VISBOT New People Selection Vol 4/12 el-vis - molecules (rynth's life pulse mix).avs",
+            "size": 5388,
+            "checksum": "sha256:9986cf2c83e77a4f570bcd49e14cc73ad1adc988d65b4b652949e31c2b2854f0"
+        },
+        {
+            "file": "VISBOT/VISBOT New People Selection Vol 4/13 meaningless existance - smooth burn.avs",
+            "size": 3774,
+            "checksum": "sha256:21ce337f2bd3574a5cefd1a8be6437abfb79e2defc0f1d72ab2e4e885225f201"
+        },
+        {
+            "file": "VISBOT/VISBOT New People Selection Vol 4/14 mr nudge - pearlescent.avs",
+            "size": 4142,
+            "checksum": "sha256:908a2d98867c03ef9ecd1de7f9e66a1dea21e5a60aba2c29bca802039710c9c3"
+        },
+        {
+            "file": "VISBOT/VISBOT New People Selection Vol 4/15 kar-ma - dither (vortex mix by jheriko).avs",
+            "size": 4849,
+            "checksum": "sha256:e96baaf2ee233f31c85632626b71792a44347d9336760a3b44bce83145c1fec5"
+        },
+        {
+            "file": "VISBOT/VISBOT New People Selection Vol 4/16 mykal - a night of roses (edit).avs",
+            "size": 5620,
+            "checksum": "sha256:e6d5178b305e6046cf080b7e53d811091b20f1b663e5c0c8e298be0d9f26f69a"
+        },
+        {
+            "file": "VISBOT/VISBOT New People Selection Vol 4/17 onionring - color trends (les noobiens summer vibes mix).avs",
+            "size": 2507,
+            "checksum": "sha256:be3cf50ba9fc4243c024c1b445b2412f0d82782e73a9dda712737b65a45efb9f"
+        },
+        {
+            "file": "VISBOT/VISBOT New People Selection Vol 4/18 p-k - magick does weird things (frames.of.reality pizza mix).avs",
+            "size": 4972,
+            "checksum": "sha256:a1d265408dc9f6e470cdeda61f80eb843072578e2ec44d4b2a2bbb1e0bbced49"
+        },
+        {
+            "file": "VISBOT/VISBOT New People Selection Vol 4/19 drew - hatevibe.avs",
+            "size": 4232,
+            "checksum": "sha256:b12cd5f5061fb2111bb9b53d1e62fb3a21dd711c06577eab840cfd96f8422ce8"
+        },
+        {
+            "file": "VISBOT/VISBOT New People Selection Vol 4/20 pottsy - polarity (les Noobiens edit).avs",
+            "size": 3261,
+            "checksum": "sha256:63f73afdadcf1aac4f77c3111ba8d3076e736cc4b90c60e18c53c0f83ebcbaa3"
+        }
+    ],
+    "assets": [
+        {
+            "file": "avsres_texer_circle_heavyblur_29x29.bmp",
+            "size": 2606,
+            "checksum": "sha256:f774cf10d56275d629f321163dbc610fee02b0e892c9065b0931564240bf078d"
+        },
+        {
+            "file": "KarmAVSquare.bmp",
+            "size": 630,
+            "checksum": "sha256:5881aa29e9a97b3f3cda01c7d15cec200d6436811fb97ed0df9f30e57f68ae20"
+        },
+        {
+            "file": "MEbig.bmp",
+            "size": 10856,
+            "checksum": "sha256:799ada5be0498c9c36a13e7a1716f11b5d84bb63c1cdf4bba7dc639344f5edda"
+        },
+        {
+            "file": "Mr Nudge7.bmp",
+            "size": 2368,
+            "checksum": "sha256:10b86e7d7e2e42607a243d0c9a2bf6c3de0cb3fa365b7b05dff77a90951bde73"
+        },
+        {
+            "file": "mykaL_03.bmp",
+            "size": 51014,
+            "checksum": "sha256:dcc7a5e311ece39675e6f37f057228f31c3a17f3ad85b8cb24c361169e8b115f"
+        }
+    ],
+    "plugins": [
+        "AddBorder",
+        "ConvolutionFilter",
+        "GlobalVarMan",
+        "MultiFilter",
+        "Picture2"
+    ]
+}

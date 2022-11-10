@@ -1,0 +1,30 @@
+{
+    "name": "CO-OP Session 09",
+    "id": "VB095",
+    "presets": [
+        {
+            "file": "CO-OP Sessions/CO-OP Session 09/a1 duo - surreal killer.avs",
+            "size": 3312,
+            "checksum": "sha256:ebc47d8b25fba7f8c608a4b54a4c30b614995e44802847720d9f8198b08a33c9"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 09/a2 yathosho - cereal thriller.avs",
+            "size": 3520,
+            "checksum": "sha256:7e6e2333dfe8459f241b23799f7cbdc5368b8f1f1ad39d8022c4970fce052472"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 09/b1 yathosho - meet the faunaticz.avs",
+            "size": 3596,
+            "checksum": "sha256:416a31734b45d5ac7ac949cae3cc8e97dc140896ce52d0e1bcbe03f97ddc2309"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 09/b2 duo - the faunaticz gave me peyote.avs",
+            "size": 6292,
+            "checksum": "sha256:862634b866d141039f5ff71426965cd81c293fb483840281bdb1bbcf5981a267"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter",
+        "MultiFilter"
+    ]
+}

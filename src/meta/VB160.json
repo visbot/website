@@ -1,0 +1,36 @@
+{
+    "name": "sEP . fridgeless",
+    "id": "VB160",
+    "presets": [
+        {
+            "file": "frames.of.reality/sEP . fridgeless/001 . trash fit.avs",
+            "size": 2892,
+            "checksum": "sha256:bd504accb57f4a2009b361b0aca2c374ae0f504be89849894ff742efb7e5acfe"
+        },
+        {
+            "file": "frames.of.reality/sEP . fridgeless/002 . tangenom21.avs",
+            "size": 2044,
+            "checksum": "sha256:eae9b93f8d502fdd7b92e1df804c849f6cdce630843725ae25c1726a748055ee"
+        },
+        {
+            "file": "frames.of.reality/sEP . fridgeless/003 . pfinkir rmx2.avs",
+            "size": 1385,
+            "checksum": "sha256:17cbcc4cd26292e143d2695c2240e8c12e7dad05af2e7464b4592884fc9356e6"
+        },
+        {
+            "file": "frames.of.reality/sEP . fridgeless/004 . variation c.avs",
+            "size": 2106,
+            "checksum": "sha256:add91c2943093e69e3d17cc345c3f256329ff37e6f15c41883eae39b30517535"
+        },
+        {
+            "file": "frames.of.reality/sEP . fridgeless/005 . softness (yathosho's nostromo rework).avs",
+            "size": 3918,
+            "checksum": "sha256:447d23c65292cd6e289b14a4e7e6a0da14068f0fd611ac95bf6ad11ed4c21e1a"
+        }
+    ],
+    "plugins": [
+        "BufferBlend",
+        "ColorMap",
+        "ConvolutionFilter"
+    ]
+}

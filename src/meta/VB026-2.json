@@ -1,0 +1,24 @@
+{
+    "name": "les Noobiens OO'd part two",
+    "id": "VB026-2",
+    "presets": [
+        {
+            "file": "les Noobiens/les Noobiens OO'd part two/A1 les Noobies - marble madness (pan am's freightliner remix).avs",
+            "size": 1928,
+            "checksum": "sha256:f6627e107aa5d253bfdb2f8418de81470e31c3a05f34c32388b19fbf4c0c6f88"
+        },
+        {
+            "file": "les Noobiens/les Noobiens OO'd part two/A2 Pan Am - Detroit I (les Noobiens rework).avs",
+            "size": 1305,
+            "checksum": "sha256:dae40088d6a666684c08d774d687d9cff469115e051494fe0f581dc03c04ace4"
+        },
+        {
+            "file": "les Noobiens/les Noobiens OO'd part two/B1 les Noobies - marble madness (pan am's paperscraper remix).avs",
+            "size": 1869,
+            "checksum": "sha256:b1d2f2609fa583ac4a019f4b0331e7de834b3bab4da94b5781c4ef4a86d1c6cc"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

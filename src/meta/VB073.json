@@ -1,0 +1,70 @@
+{
+    "name": "whyEye.org in treatment",
+    "id": "VB073",
+    "presets": [
+        {
+            "file": "whyEye.org/whyEye.org in treatment/01 shock value - uncluttered elegance.avs",
+            "size": 5942,
+            "checksum": "sha256:42a9218e356d5bdaaf27af8bf7c5782e006fa944559d4150bfef9e14af06f819"
+        },
+        {
+            "file": "whyEye.org/whyEye.org in treatment/02 pure-krypton - not renderless.avs",
+            "size": 3112,
+            "checksum": "sha256:8b31a33c1796e64f2e8d640078b82ebc9ca5adc7e3e35a5e089aac42368f3a04"
+        },
+        {
+            "file": "whyEye.org/whyEye.org in treatment/03 zamuz - spiritual.avs",
+            "size": 2423,
+            "checksum": "sha256:cb03300bb7a2930de4d47409945a39e702b9075936624eb5fc81de255ab5c185"
+        },
+        {
+            "file": "whyEye.org/whyEye.org in treatment/04 nemo orange - 45.avs",
+            "size": 125159,
+            "checksum": "sha256:7e26304280a164911302855ffcbc23956af4a0139bccf544f3a53069e7b8a426"
+        },
+        {
+            "file": "whyEye.org/whyEye.org in treatment/05 yathosho - sail away.avs",
+            "size": 2146,
+            "checksum": "sha256:53211f8182ca10f1b38bef331b842ad92973d4ea591eb95dee84501c7b9359df"
+        },
+        {
+            "file": "whyEye.org/whyEye.org in treatment/06 jjcl237 - the surreal.avs",
+            "size": 2531,
+            "checksum": "sha256:01079735b4f4755d268a25f37fda6b4aa4595bc3e42175056774cfdb0d72e1ef"
+        },
+        {
+            "file": "whyEye.org/whyEye.org in treatment/07 fragmer - the citrus land.avs",
+            "size": 2679,
+            "checksum": "sha256:578c6a8e4235f3a39c4ba19c62bf6c24a591d6ebeae959965d42941231283020"
+        },
+        {
+            "file": "whyEye.org/whyEye.org in treatment/08 nemo orange - frying quetzl eggs.avs",
+            "size": 1359,
+            "checksum": "sha256:75fd65d5f7956f877538b816bd4ff383aec40c10b691270c2006203e780e5cf0"
+        },
+        {
+            "file": "whyEye.org/whyEye.org in treatment/09 dynamic duo - kinderschokolade.avs",
+            "size": 1362,
+            "checksum": "sha256:075f0b0e5d9529a9c5a176bde26e6c460291fe98dad3ffdf86be40eea41d7e56"
+        },
+        {
+            "file": "whyEye.org/whyEye.org in treatment/10 pure-krypton - is green is cool.avs",
+            "size": 2947,
+            "checksum": "sha256:623fc6653498ef1058bf7e45e27069745bf62492b4a3ee74468483426aede49e"
+        },
+        {
+            "file": "whyEye.org/whyEye.org in treatment/11 yathosho - 78.avs",
+            "size": 2026,
+            "checksum": "sha256:79c80a36ae931ccb18a6c21d6e54d0916f7567de8e22fcf162522f1a0e44486a"
+        },
+        {
+            "file": "whyEye.org/whyEye.org in treatment/12 nemo orange - golden.avs",
+            "size": 1754,
+            "checksum": "sha256:1816efca57276886645aaebcb0cfae2c12b81722f4a6e486a133954f4d79ae47"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter",
+        "MultiFilter"
+    ]
+}

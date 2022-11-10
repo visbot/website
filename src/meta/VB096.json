@@ -1,0 +1,33 @@
+{
+    "name": "whyEye.org unfinished sympathies",
+    "id": "VB096",
+    "presets": [
+        {
+            "file": "whyEye.org/whyEye.org unfinished sympathies/yiA1 duo - hyperthreading (ya-tho-sho treatment).avs",
+            "size": 6692,
+            "checksum": "sha256:d36af00f87d2b5686da5b1a4d6287a0dc0a482b8b52f2ab469a88c364ce5bf4f"
+        },
+        {
+            "file": "whyEye.org/whyEye.org unfinished sympathies/yiA2 danaughty1 - da-naughty-loose (yathosho rework).avs",
+            "size": 2498,
+            "checksum": "sha256:2fdc32c46483fbf3645242f3ce49d43659c4baaee33e1fd4a01496f0dde17a8a"
+        },
+        {
+            "file": "whyEye.org/whyEye.org unfinished sympathies/yiB1 dynamic duo - the crossing (ya-tho-sho treatment).avs",
+            "size": 1922,
+            "checksum": "sha256:6d3239790e6f6332efcf3850af5525650252db046435acbfafcd63c4145e77b6"
+        },
+        {
+            "file": "whyEye.org/whyEye.org unfinished sympathies/yiB2 synth-c - triangle (ya-tho-sho treatment).avs",
+            "size": 8347,
+            "checksum": "sha256:f4b01fb367ba945629aa690ca072968972d228dea60e5276ae0d7ed8a4f819e3"
+        }
+    ],
+    "plugins": [
+        "ChannelShift",
+        "ColorMap",
+        "ConvolutionFilter",
+        "Texer",
+        "Triangle"
+    ]
+}

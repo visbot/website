@@ -1,0 +1,32 @@
+{
+    "name": "whyEye.org moiiep",
+    "id": "VB179",
+    "presets": [
+        {
+            "file": "whyEye.org/whyEye.org moiiep/yiA1 yathosho - generation atari (2007 re-edit).avs",
+            "size": 3992,
+            "checksum": "sha256:6eab4e1631125d2ee56d1ac7e5046f2dbadbe15892e4ec9954acb1f3ad690789"
+        },
+        {
+            "file": "whyEye.org/whyEye.org moiiep/yiA2 yathosho - bends your mind.avs",
+            "size": 1766,
+            "checksum": "sha256:73e92fca38a1f50bea9e0ced05d3fcbc16118119bd3fd45271df37c3321c31fe"
+        },
+        {
+            "file": "whyEye.org/whyEye.org moiiep/yiB1 grandchild+yathosho - chkmate (edit).avs",
+            "size": 6116,
+            "checksum": "sha256:b31a68297bd51068bbe02e1fff599273a3abba794d27ff9427345100a427ba04"
+        }
+    ],
+    "assets": [
+        {
+            "file": "B&W.bmp",
+            "size": 22554,
+            "checksum": "sha256:efe4e6d5d3e825d5b3240c2ab63bd3c022c98f64c6a56e3dbccc75b86106f0cd"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter",
+        "FramerateLimiter"
+    ]
+}

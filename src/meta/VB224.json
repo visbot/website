@@ -1,0 +1,29 @@
+{
+    "name": "whyEye.org nite versions e.p.",
+    "id": "VB224",
+    "presets": [
+        {
+            "file": "whyEye.org/whyEye.org nite versions ep/yiA1__sail away 2.0 (nite version).avs",
+            "size": 2611,
+            "checksum": "sha256:401d2a4e5b3913d2be3913a5b68f1ea6c9ea815318c93dc6e00b071f7504b79d"
+        },
+        {
+            "file": "whyEye.org/whyEye.org nite versions ep/yiA2__sail away 2.0 (fake tuggummi nite version).avs",
+            "size": 2364,
+            "checksum": "sha256:3a1d319de1fe7c1267c348af8b2a1b97c66e88e5364cd702c668baa51103c2f9"
+        },
+        {
+            "file": "whyEye.org/whyEye.org nite versions ep/yiB1__bebop (nite version).avs",
+            "size": 2157,
+            "checksum": "sha256:8eab9766115f3fc9f6bc6cbe50f43c23e25198160a045b6baf2f888bb04822cf"
+        },
+        {
+            "file": "whyEye.org/whyEye.org nite versions ep/yiB2__nite constructions (reconstruction).avs",
+            "size": 2864,
+            "checksum": "sha256:d5f4a7bbc06140e07dace0d4926cf93c68877aec6a3716d649ab118a515d9722"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

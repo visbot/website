@@ -1,0 +1,41 @@
+{
+    "name": "visbot presents the d.s.e. remixes",
+    "id": "VB124",
+    "presets": [
+        {
+            "file": "VISBOT/visbot presents the d.s.e. remixes/01 yathosho & tuggummi - let me out! (vanish's remastered sky remix).avs",
+            "size": 5981,
+            "checksum": "sha256:4096500c095876527f7562e0280909ec2d16180ae562ba3734b34d96bb7ad4e0"
+        },
+        {
+            "file": "VISBOT/visbot presents the d.s.e. remixes/02 elvis & vanish - envae (novae remix by frames.of.reality).avs",
+            "size": 5793,
+            "checksum": "sha256:1b058fb990d1df9c8f6f98f15549e23f545ba4c1a7c99fc1d55a90108e3c6cd1"
+        },
+        {
+            "file": "VISBOT/visbot presents the d.s.e. remixes/03 pak-9 & vanish - ninjaisbleeding (dynamic duo's re-traumatization).avs",
+            "size": 5654,
+            "checksum": "sha256:5aeba84521385e357589cb928c2d48845ed00cdcba1835fe5856159abad02aca"
+        },
+        {
+            "file": "VISBOT/visbot presents the d.s.e. remixes/04 hboy & vanish - lucidsky (frames.of.reality's ducil ski mix).avs",
+            "size": 6638,
+            "checksum": "sha256:853b0ff4ff623e1a07c5567527a32e4983d6958c368c20a7c4f43b733856670e"
+        },
+        {
+            "file": "VISBOT/visbot presents the d.s.e. remixes/05 zamuz & vanish - effulgence aureole (yathosho's what's your flavour mix).avs",
+            "size": 3790,
+            "checksum": "sha256:826d1225bad6ccbd174d8278575f658265225fc37c53bd8cc2d6d3f342f397ba"
+        },
+        {
+            "file": "VISBOT/visbot presents the d.s.e. remixes/06 duo & vanish - wickedjunglesmassive (yathosho's cartographic re-rub).avs",
+            "size": 4302,
+            "checksum": "sha256:e7085723a8a54a386525232a9971fbfbf1ba8050e514150798322ec8a6082d85"
+        }
+    ],
+    "plugins": [
+        "BufferBlend",
+        "ConvolutionFilter",
+        "MultiFilter"
+    ]
+}

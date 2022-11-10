@@ -1,0 +1,24 @@
+{
+    "name": "les Noobiens OO'd part one",
+    "id": "VB026-1",
+    "presets": [
+        {
+            "file": "les Noobiens/les Noobiens OO'd part one/A1 les Noobiens - weebly.avs",
+            "size": 1955,
+            "checksum": "sha256:36722e2d1e45b49070c38549b7ca73d7f6269fe5c5cbc75c33472c396a851326"
+        },
+        {
+            "file": "les Noobiens/les Noobiens OO'd part one/A2 les Noobiens - zer00'd.avs",
+            "size": 901,
+            "checksum": "sha256:68a7793f95b75f455b5eee69389d6bcab350b40d1c6806fd6602ef8e7c7fa7cd"
+        },
+        {
+            "file": "les Noobiens/les Noobiens OO'd part one/B1 les Noobiens - marble madness.avs",
+            "size": 1793,
+            "checksum": "sha256:fde51edb81a849601fa33a3f152a9a913df41b5d9e4891c1601d4af2362e5966"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

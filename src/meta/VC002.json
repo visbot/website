@@ -1,0 +1,191 @@
+{
+    "name": "VISBOT Watch out for this Logo",
+    "id": "VC002",
+    "presets": [
+        {
+            "file": "VISBOT/VC002 Watch out for this Logo/01 nemo - intro.avs",
+            "size": 2298,
+            "checksum": "sha256:186010d93283e5b0d9d7a8cfa87c1518af321474547e8eb850001ccae7eab68f"
+        },
+        {
+            "file": "VISBOT/VC002 Watch out for this Logo/02 alt - coup d etat.avs",
+            "size": 1356,
+            "checksum": "sha256:d9fed6dccc8e9232edf94a27379899de7bf00a8c3b3621e93960601eea964b7b"
+        },
+        {
+            "file": "VISBOT/VC002 Watch out for this Logo/03 dynamic duo - we have explosive.avs",
+            "size": 2227,
+            "checksum": "sha256:210a3a6176dc9df1180a548f308332f27d06f246ae91acbd5f1a915c742e2aa6"
+        },
+        {
+            "file": "VISBOT/VC002 Watch out for this Logo/04 skupers - creamy choco (duo remixed).avs",
+            "size": 2216,
+            "checksum": "sha256:e72355b77cfcf768f720e93c26c88655b012d660d6736b6448c1aa3e79ff8fc7"
+        },
+        {
+            "file": "VISBOT/VC002 Watch out for this Logo/05 nemo - frying quetzl eggs (ya-tho-sho treatment).avs",
+            "size": 1183,
+            "checksum": "sha256:768c12ec6bb8f25b988261cedff8f4860823a103130b55a7c726bf0a5015d20b"
+        },
+        {
+            "file": "VISBOT/VC002 Watch out for this Logo/06 dynamicduo - iiriel (yathosho remixed).avs",
+            "size": 3566,
+            "checksum": "sha256:9a95714de254d3c448b936d144880df6037ee0cea6c59f1e42ff47a9b911a0fc"
+        },
+        {
+            "file": "VISBOT/VC002 Watch out for this Logo/07 alt - burnlounge.avs",
+            "size": 2457,
+            "checksum": "sha256:e834984d862852115b1a3759e670e8005e8e2d207797eba789747b364470f905"
+        },
+        {
+            "file": "VISBOT/VC002 Watch out for this Logo/08 duo - tarantism.avs",
+            "size": 1003,
+            "checksum": "sha256:39eb9f0a3140add50d1028a875ce3080007053e76d7ad86b97e56b86b628eff1"
+        },
+        {
+            "file": "VISBOT/VC002 Watch out for this Logo/08 skupers - screanic resolution.avs",
+            "size": 2543,
+            "checksum": "sha256:2f2d861e090d51ab960f18f163a68a8ae3b67bb48982279dd1bde621e7e80651"
+        },
+        {
+            "file": "VISBOT/VC002 Watch out for this Logo/09 alt - shadowyplanet.avs",
+            "size": 980,
+            "checksum": "sha256:9eb61fd67e7589fe8563ed059fc73551e732d048b6d90f32907f600a57d7a715"
+        },
+        {
+            "file": "VISBOT/VC002 Watch out for this Logo/10 duo - enigmatic (yathosho's scuba dive).avs",
+            "size": 2818,
+            "checksum": "sha256:fb56ec53c280795b05098e964a772133202b4bcd7084dd81355641e11a1e74b3"
+        },
+        {
+            "file": "VISBOT/VC002 Watch out for this Logo/11 nemo - downtown.avs",
+            "size": 7192,
+            "checksum": "sha256:a1c5b513278af531f9d7150f74f1416d36ea2f5407584901eacc5084a590630c"
+        },
+        {
+            "file": "VISBOT/VC002 Watch out for this Logo/12 skupers - autobahn zwei (les noobiens remixed).avs",
+            "size": 2891,
+            "checksum": "sha256:2eb4f58d385ede93a9eaab618186d22224617187323bc0c569ac972fcc07e162"
+        },
+        {
+            "file": "VISBOT/VC002 Watch out for this Logo/13 nemo - stepping stones.avs",
+            "size": 2472,
+            "checksum": "sha256:7f799df3abbb2efe9f308350e9c82688d74c6c6f7790493c92ac09a00ca9b295"
+        },
+        {
+            "file": "VISBOT/VC002 Watch out for this Logo/13 yathosho - go.avs",
+            "size": 1939,
+            "checksum": "sha256:c97b1ecf0f2ec8e545a6df247fb83f32ae2f1246fc74bef3d045563a18a12ffc"
+        },
+        {
+            "file": "VISBOT/VC002 Watch out for this Logo/14 nemo - rongu (alt-iii remixed).avs",
+            "size": 1847,
+            "checksum": "sha256:758a30da85f59f7770d78901ff2de02b08cc95ff2d128b04c8d71e6920681dad"
+        },
+        {
+            "file": "VISBOT/VC002 Watch out for this Logo/15 les noobiens - autobahnnetz.avs",
+            "size": 655,
+            "checksum": "sha256:2315b84122020a5130edf92cefa4d7c71a790fc4121a8d01c8e528cba2167ed8"
+        },
+        {
+            "file": "VISBOT/VC002 Watch out for this Logo/16 skupers - some kind of kink.avs",
+            "size": 3828,
+            "checksum": "sha256:136e79fc8fd7b95e6b11ccc5c6b7f1e7006662669e7aeb556e6a82a2e757fd0b"
+        },
+        {
+            "file": "VISBOT/VC002 Watch out for this Logo/17 dynamicduo - magmentia.avs",
+            "size": 1966,
+            "checksum": "sha256:15592bcff173dfc804cdb00c599a8f64dd23da3273aac95df45b00691e53e006"
+        },
+        {
+            "file": "VISBOT/VC002 Watch out for this Logo/18 duo - your brain on drugs.avs",
+            "size": 1647,
+            "checksum": "sha256:184d113c226f0d86667a6b8a51d2f37788282a05231cdf165c9d09d444be1c08"
+        },
+        {
+            "file": "VISBOT/VC002 Watch out for this Logo/19 alt - tetrisownz.avs",
+            "size": 1911,
+            "checksum": "sha256:6f6e4c8a6f4ca873c69244d42147f59d19fb3f8eff0101f808fc25ab252c9a6e"
+        },
+        {
+            "file": "VISBOT/VC002 Watch out for this Logo/20 nemo - the oasis (yathosho remixed).avs",
+            "size": 1553,
+            "checksum": "sha256:33417a9ab5a099c830ca10f18ed8ea43dfbb07151f699a0350fc70de40d25b22"
+        },
+        {
+            "file": "VISBOT/VC002 Watch out for this Logo/21 yathosho - glibnitz (deleted reconstructed).avs",
+            "size": 1947,
+            "checksum": "sha256:9b62ea8338e68d97b586b8bd720e5caa12d46a878942c4f78402814aa00f81e0"
+        },
+        {
+            "file": "VISBOT/VC002 Watch out for this Logo/22 skupers - female demands.avs",
+            "size": 1877,
+            "checksum": "sha256:581c923442318e644e276d658cb40bc1ddde828b5b2d73d96b95a88ca113ec72"
+        },
+        {
+            "file": "VISBOT/VC002 Watch out for this Logo/23 duo - chameleonic.avs",
+            "size": 1652,
+            "checksum": "sha256:8222daa8bcd28b91e6ee27d1a65de22415dfb98632d148240b51cee7066ee681"
+        },
+        {
+            "file": "VISBOT/VC002 Watch out for this Logo/24 alt - azteca.avs",
+            "size": 848,
+            "checksum": "sha256:cabee67d8d2087ee859972b52f6773977e68431ebbc3e6d2a951da7d55e5b655"
+        },
+        {
+            "file": "VISBOT/VC002 Watch out for this Logo/25 yathosho - cosmic vagina (les noobiens remix).avs",
+            "size": 1966,
+            "checksum": "sha256:196fed398247a5e1f012c5e2c588eb0164504cf06471bfbfee5a5590dd41622c"
+        },
+        {
+            "file": "VISBOT/VC002 Watch out for this Logo/26 nemo - building blocks.avs",
+            "size": 2468,
+            "checksum": "sha256:ff088eed56eb64762cf3e8e59b75bd0742aa1cdf5c7b81b99e2322a654a9559f"
+        },
+        {
+            "file": "VISBOT/VC002 Watch out for this Logo/27 skupers - o2.nn (nemoorange remixed).avs",
+            "size": 2183,
+            "checksum": "sha256:4d4f1e0a85dfa8b2ee3428b9e1a4caa46cf33c20d53bf0b9c16a180688e151e2"
+        },
+        {
+            "file": "VISBOT/VC002 Watch out for this Logo/28 yathosho - transmeta.avs",
+            "size": 2073,
+            "checksum": "sha256:9cff00eef1e90fc400adebeaa7ca4174be624bd64637939df3f1de88cd997f30"
+        },
+        {
+            "file": "VISBOT/VC002 Watch out for this Logo/29 duo - dye in water (yathosho's soda zitron flavor).avs",
+            "size": 2676,
+            "checksum": "sha256:14c4a18c5ae54cddcf4009b11b8c52d3db0590dc32da15a2e6c787c463e62e91"
+        },
+        {
+            "file": "VISBOT/VC002 Watch out for this Logo/30 skupers - curlicuelicious.avs",
+            "size": 3515,
+            "checksum": "sha256:f3f2f66b56da609c0f429ea98ce5972903ef858eb96609322befe34839a75890"
+        },
+        {
+            "file": "VISBOT/VC002 Watch out for this Logo/31 yathosho - dopsballfieber.avs",
+            "size": 1721,
+            "checksum": "sha256:4341d68dd47ae91516a68ac5205c152b27738b695c6037a5d98367b1cbe738d2"
+        },
+        {
+            "file": "VISBOT/VC002 Watch out for this Logo/32 nemo - thinking of july.avs",
+            "size": 1904,
+            "checksum": "sha256:273e735053fe72c0cde62d24b559f418595b69aa8ec924e8ee287dfea0f644e1"
+        }
+    ],
+    "assets": [
+        {
+            "file": "skupers_lp6_02.bmp",
+            "size": 10856,
+            "checksum": "sha256:aaeb13486d7082c888a556012a3ea574dc4c651b01510ae9722a1ce184f8fd03"
+        },
+        {
+            "file": "skupers_lp7_05.bmp",
+            "size": 776,
+            "checksum": "sha256:9ffee96d577cdbce33395669601281395112690c7f61e90d63c4273cae7ebc75"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "name": "Dx 1x3",
+    "id": "VB198",
+    "presets": [
+        {
+            "file": "Dynamic Duo/Dx 1x3/ddA1__liquid.avs",
+            "size": 9963,
+            "checksum": "sha256:dace8ba4376651d421153f413d4e360d41c14b19366b8e9f387124a160d61da8"
+        },
+        {
+            "file": "Dynamic Duo/Dx 1x3/ddA2__mecha design.avs",
+            "size": 6346,
+            "checksum": "sha256:275b337014fb514863683c17bdc23cfdf2aceabf8f6fc0ed981c9f99b56ad05d"
+        },
+        {
+            "file": "Dynamic Duo/Dx 1x3/ddB1__victoria's secret.avs",
+            "size": 3941,
+            "checksum": "sha256:0691f09e0568b8532ba4e3d1f5b8de4e6d889cf0a8ac17e60465984181ac6760"
+        },
+        {
+            "file": "Dynamic Duo/Dx 1x3/ddB2__skreamizm ii.avs",
+            "size": 4807,
+            "checksum": "sha256:37a88623007e5bd3db55b3003e99f5f316e5b7114435ba05b47fe91d70d77658"
+        }
+    ],
+    "assets": [
+        {
+            "file": "avsres_texer_square_sharp_16x16.bmp",
+            "size": 1254,
+            "checksum": "sha256:dcdc7dc7cf95c0a05b0d09c9a629d63f4079ea69b66b1e9546b2b4da830c538f"
+        },
+        {
+            "file": "avsres_texer_square_sharp_24x24.bmp",
+            "size": 2406,
+            "checksum": "sha256:21b38fa90fdbe2b1884505f9bbe3a022914d6e15e2c1365f5c17a4219d1ef247"
+        },
+        {
+            "file": "avsres_texer_square_sharp_30x30.bmp",
+            "size": 3590,
+            "checksum": "sha256:e41754b033960b3a5e77252cf1edee71e97c311c2cedafc9b4139a3df51240e6"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter",
+        "VideoDelay"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "name": "DDxo7",
+    "id": "VB189",
+    "presets": [
+        {
+            "file": "Dynamic Duo/DDxo7/ddA1__skreamizm ii (drew remix).avs",
+            "size": 4192,
+            "checksum": "sha256:5b81a56937d36a0a8aa0d3a74044f8cdb76086c8c4c8e465ba7d9396e1a32edb"
+        },
+        {
+            "file": "Dynamic Duo/DDxo7/ddA2__tentaclism (micro.D° cökimix).avs",
+            "size": 4984,
+            "checksum": "sha256:8b553d087e06b53bac3667784a7ee92a2c852f7df3d6ad2466c091eb372554b5"
+        },
+        {
+            "file": "Dynamic Duo/DDxo7/ddB1__tentaclism (kans of kansis mix by drew).avs",
+            "size": 3136,
+            "checksum": "sha256:48b0b335bbcef0284e462c3d8671cb0e79ad0202d9ebb49131f93a2e5c521ce1"
+        },
+        {
+            "file": "Dynamic Duo/DDxo7/ddB2__skreamizm (09fuff10 remix by grandchild).avs",
+            "size": 4658,
+            "checksum": "sha256:dc9cc790ac9aa01d9f6c66d329295e1857836bc4e1504b0ca4072ffbfa9ec272"
+        }
+    ],
+    "assets": [
+        {
+            "file": "reGeneSys2.bmp",
+            "size": 66244,
+            "checksum": "sha256:fcd93670f08e3e8d3a23d8175257a8ea00fa8129a4171dfc0197d06eb74ef16d"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

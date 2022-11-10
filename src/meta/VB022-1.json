@@ -1,0 +1,29 @@
+{
+    "name": "whyEye.org the outside broker",
+    "id": "VB022-1",
+    "presets": [
+        {
+            "file": "whyEye.org/whyEye.org the outside broker/yiA1__the_sun_repairs_my_soul_(differently).avs",
+            "size": 1545,
+            "checksum": "sha256:a4e7cdef67a822365d29aa524f62e2935c52a7848fa9eb0ee8f913c3d7d2a72d"
+        },
+        {
+            "file": "whyEye.org/whyEye.org the outside broker/yiA2__zuviel_davon.avs",
+            "size": 1022,
+            "checksum": "sha256:523e276b518ffcd1fdc6d7ae5d14047cf47553f29ed45cdbbf48c5badb1ca698"
+        },
+        {
+            "file": "whyEye.org/whyEye.org the outside broker/yiB1__only_in_your_mind.avs",
+            "size": 1333,
+            "checksum": "sha256:aea5c226790d8640dbbbf1a951258c439cae2af7f1fbf85cad51c0cafbfe6eae"
+        },
+        {
+            "file": "whyEye.org/whyEye.org the outside broker/yiB2__sonar_circle.avs",
+            "size": 1990,
+            "checksum": "sha256:a54b7b5ed535f5e40a46884162d3138ad5f297d588f82e4fd5827224d7cb9db1"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

@@ -1,0 +1,19 @@
+{
+    "name": "whyEye.org fantasy island iii",
+    "id": "V7003",
+    "presets": [
+        {
+            "file": "whyEye.org/whyEye.org fantasy island iii/yiA__fantasy island iii.avs",
+            "size": 3883,
+            "checksum": "sha256:bcbdd8b68a29835378846b3626ba4ee4bdb63eb1ce10ff5f692f6a0d4e69c30d"
+        },
+        {
+            "file": "whyEye.org/whyEye.org fantasy island iii/yiB__final fantasy (nite version).avs",
+            "size": 3893,
+            "checksum": "sha256:344e1f7626fc0a856713df601363b807e02469e0ce50960d3ae864df6cb497ac"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

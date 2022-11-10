@@ -1,0 +1,70 @@
+{
+    "name": "Lighthology vol III",
+    "id": "VB046",
+    "presets": [
+        {
+            "file": "NemoOrange/Lighthology vol III/cold scope.avs",
+            "size": 2179,
+            "checksum": "sha256:01af53afb3b44701a3b4aae7156812ca7024880f3b108d5a39cd69dd1ce1115f"
+        },
+        {
+            "file": "NemoOrange/Lighthology vol III/dual treasure.avs",
+            "size": 1953,
+            "checksum": "sha256:4baa574dd23fed6aed928f3c5bda40e1e820f6ddeebf3f900d168eb1e3614d8d"
+        },
+        {
+            "file": "NemoOrange/Lighthology vol III/moon globe.avs",
+            "size": 1303,
+            "checksum": "sha256:7bffad43505df58e0c383ba2defbbfdb8280e4bf13dcc59059d27c3122b8c07a"
+        },
+        {
+            "file": "NemoOrange/Lighthology vol III/pretty as.avs",
+            "size": 5271,
+            "checksum": "sha256:ac39eec739581a541df8437c63c0f5b4b9a82d7695848d1254de842bc298db34"
+        },
+        {
+            "file": "NemoOrange/Lighthology vol III/ring draw.avs",
+            "size": 6674,
+            "checksum": "sha256:cb76e67732b66628feb26180a3547840f913deda381d0fc7f637bd416db41e2a"
+        },
+        {
+            "file": "NemoOrange/Lighthology vol III/star ring crayon.avs",
+            "size": 2705,
+            "checksum": "sha256:a0f046938c3258f3cc2d185331e265aa927bf18dddce2ee16671a0db0cc70ed0"
+        },
+        {
+            "file": "NemoOrange/Lighthology vol III/surfacing 7.avs",
+            "size": 1459,
+            "checksum": "sha256:2aacf2d6243e0d699d9d6f170bf0e3241ea5060368917687ac07ce3189fd370d"
+        },
+        {
+            "file": "NemoOrange/Lighthology vol III/surfacing 8.avs",
+            "size": 736,
+            "checksum": "sha256:e69be424e71c17a06f7fb2ace9af03725cecf404afd16bdc16b05dd6e09b7704"
+        },
+        {
+            "file": "NemoOrange/Lighthology vol III/surfacing 9.avs",
+            "size": 991,
+            "checksum": "sha256:89f6af7100baf8628c2bfa2599c343813aa363f9ad603ccf0dff8f964c4fc0fd"
+        },
+        {
+            "file": "NemoOrange/Lighthology vol III/train station.avs",
+            "size": 1707,
+            "checksum": "sha256:6ed27294c0aa22c7c70bab7490e84bce5ef72cd1bb3e50bec9f3ff9d71d3929d"
+        },
+        {
+            "file": "NemoOrange/Lighthology vol III/yatty honey.avs",
+            "size": 2307,
+            "checksum": "sha256:d3e7b2e33a0c674482cb4993be367ff643a722e9baaca5c83495280aae32d0c6"
+        },
+        {
+            "file": "NemoOrange/Lighthology vol III/yatty.avs",
+            "size": 1818,
+            "checksum": "sha256:348bf946f0947f4b6e77065ebb98b94cdb1a66aafbb37387a6c33909b7b28ee6"
+        }
+    ],
+    "plugins": [
+        "BufferBlend",
+        "ConvolutionFilter"
+    ]
+}

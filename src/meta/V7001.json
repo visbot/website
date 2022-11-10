@@ -1,0 +1,19 @@
+{
+    "name": "whyEye.org die maschine",
+    "id": "V7001",
+    "presets": [
+        {
+            "file": "whyEye.org/whyEye.org die maschine/yiA__die maschine.avs",
+            "size": 3137,
+            "checksum": "sha256:7bb799b556dd77616edb414070634eb7d590ef3bd8560e4b762db508dcf7e459"
+        },
+        {
+            "file": "whyEye.org/whyEye.org die maschine/yiB__die machine, die.avs",
+            "size": 3881,
+            "checksum": "sha256:9f82e818993233a4e1c1ae47cdad425c6dcd9fe7fcf43f90b70e4a04a18fcfdd"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

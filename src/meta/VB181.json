@@ -1,0 +1,105 @@
+{
+    "name": "whyEye.org modus operandi 2",
+    "id": "VB181",
+    "presets": [
+        {
+            "file": "whyEye.org/whyEye.org modus operandi 2/01 mr nudge - bounce (ya-tho-sho cut #3).avs",
+            "size": 4965,
+            "checksum": "sha256:8be1dd4854dd11b7bcd092f983770d9f5554bcc4b7b0b6aa768ac4dd534d5fb3"
+        },
+        {
+            "file": "whyEye.org/whyEye.org modus operandi 2/02 grandchild - onebitspasm (ya-tho-sho refreak #2).avs",
+            "size": 16958,
+            "checksum": "sha256:ad0764efa63c95720cbdf94fa08c05f9f94cf5884fec20a2e62c20379d4939ce"
+        },
+        {
+            "file": "whyEye.org/whyEye.org modus operandi 2/03 yathosho+skupers - u.f.o..avs",
+            "size": 8153,
+            "checksum": "sha256:8662e388fd13539ea757d11bd0c0d01ceb86d2bf40042755114d3e88a46b4bf9"
+        },
+        {
+            "file": "whyEye.org/whyEye.org modus operandi 2/04 onionring - this is a song about being free (fake pan am rmx).avs",
+            "size": 4977,
+            "checksum": "sha256:f1f86c7e04f425e68e63310aac11297997f48d5d31c4116e17173060191d6c75"
+        },
+        {
+            "file": "whyEye.org/whyEye.org modus operandi 2/05 dynamic duo - flickermood (edit).avs",
+            "size": 7755,
+            "checksum": "sha256:7ce385f4ef8f76cee05aaa83dc653e424be374d14343121a365b3e9d07914bad"
+        },
+        {
+            "file": "whyEye.org/whyEye.org modus operandi 2/06 grandchild+yathosho - chkmate.avs",
+            "size": 6550,
+            "checksum": "sha256:d8b2c2275f8eb41bf25418c68edf836f8a90368b16aea8e0768a585c8a64a9fe"
+        },
+        {
+            "file": "whyEye.org/whyEye.org modus operandi 2/07 dynamic duo - hojojutsu (re-edit).avs",
+            "size": 4523,
+            "checksum": "sha256:0646e891b2162fb6905063f67dc24d59a348392624a0540510036cc3f678573b"
+        },
+        {
+            "file": "whyEye.org/whyEye.org modus operandi 2/08 yathosho - dpi 05.avs",
+            "size": 1786,
+            "checksum": "sha256:cd80de9ba22472ec3b7e35d5c0064d1b0228c21d332c2e39df9db37c597db731"
+        },
+        {
+            "file": "whyEye.org/whyEye.org modus operandi 2/09 yathosho - vogue 2.avs",
+            "size": 10359,
+            "checksum": "sha256:ebbfc960d125311e242c12e4e116d83993e286d0e9e0dedacda46579c240e147"
+        },
+        {
+            "file": "whyEye.org/whyEye.org modus operandi 2/10 onionring - left right up down (yathosho+skupers rework).avs",
+            "size": 8712,
+            "checksum": "sha256:74e050b8d08b76ccfa7944865dd2b5464b2c3ac33a898df15896f1926a6853ec"
+        },
+        {
+            "file": "whyEye.org/whyEye.org modus operandi 2/11 amphirion - abstrkt fundamentals (modus operandi re-edit).avs",
+            "size": 11596,
+            "checksum": "sha256:de5a6518f6ab3b5b60ea52c17aefeedd517bccd25609a0ec1c0160697a66a231"
+        },
+        {
+            "file": "whyEye.org/whyEye.org modus operandi 2/12 yathosho - straight no chaser.avs",
+            "size": 3394,
+            "checksum": "sha256:222b16c46aa298f7cc7369eb070b2d9c71ed5c76fa37c45cb6cd49888fef9f4c"
+        }
+    ],
+    "assets": [
+        {
+            "file": "avsres_texer_square_sharp_16x16.bmp",
+            "size": 1254,
+            "checksum": "sha256:dcdc7dc7cf95c0a05b0d09c9a629d63f4079ea69b66b1e9546b2b4da830c538f"
+        },
+        {
+            "file": "avsres_texer_square_sharp_20x20.bmp",
+            "size": 1782,
+            "checksum": "sha256:bcf774b1520e3314da459eb50c9b597531d783c20b48abd5f1ba91641f3169c6"
+        },
+        {
+            "file": "avsres_texer_square_sharp_28x28.bmp",
+            "size": 3126,
+            "checksum": "sha256:11ec412bcb0bb94f3c925a53aeb2385eac18ad573484b0fc0f86754320a1d0ac"
+        },
+        {
+            "file": "avsres_texer_square_sharp_30x30.bmp",
+            "size": 3590,
+            "checksum": "sha256:e41754b033960b3a5e77252cf1edee71e97c311c2cedafc9b4139a3df51240e6"
+        },
+        {
+            "file": "B&W.bmp",
+            "size": 22554,
+            "checksum": "sha256:efe4e6d5d3e825d5b3240c2ab63bd3c022c98f64c6a56e3dbccc75b86106f0cd"
+        },
+        {
+            "file": "onion-squareslanty.bmp",
+            "size": 9296,
+            "checksum": "sha256:7679514ff04019a604afd103e415afa27ee110047646b7bcefa0862e95b2b7f0"
+        }
+    ],
+    "plugins": [
+        "BufferBlend",
+        "ConvolutionFilter",
+        "GlobalVarMan",
+        "TransAuto",
+        "Triangle"
+    ]
+}

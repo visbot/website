@@ -1,0 +1,172 @@
+{
+    "name": "les premi�res annees (1976-2006)",
+    "id": "VA006",
+    "presets": [
+        {
+            "file": "les Noobiens/les Noobiens les premières années (1976-2006)/01 les Noobiens - olymp-unique.avs",
+            "size": 795,
+            "checksum": "sha256:6c35b6fb35d887abea9087adcf62fbe25bc611f2aca1eeb9e1f423e781566aef"
+        },
+        {
+            "file": "les Noobiens/les Noobiens les premières années (1976-2006)/02 les Noobiens - le beat (edit).avs",
+            "size": 886,
+            "checksum": "sha256:20fd171d76d414d5fe5e5b5ac90ca472016d6038f7d3b93cb607447c7d777197"
+        },
+        {
+            "file": "les Noobiens/les Noobiens les premières années (1976-2006)/03 les Noobiens - cmycle.avs",
+            "size": 1874,
+            "checksum": "sha256:56936048da5074ec7f14a6f2781891f126f1be12943b07307d4f21f9bbf1c0d7"
+        },
+        {
+            "file": "les Noobiens/les Noobiens les premières années (1976-2006)/04 les Noobiens - the allnighter (nemo's megaman shake).avs",
+            "size": 2836,
+            "checksum": "sha256:fb4fbd3810c145480020e094e3e9ebc50d75b60160a2e98a891df5bf909c4507"
+        },
+        {
+            "file": "les Noobiens/les Noobiens les premières années (1976-2006)/05 les Noobiens - back to cursor (yathosho's back to outline mix).avs",
+            "size": 2155,
+            "checksum": "sha256:fc21a17d2824d96942f5e7f35ca0dfecc9064aef2bb265707ebf644846efb0ac"
+        },
+        {
+            "file": "les Noobiens/les Noobiens les premières années (1976-2006)/06 les Noobiens - das kaffeeservice (v.i.p.).avs",
+            "size": 2034,
+            "checksum": "sha256:e54f640ae7d2a84f5c13e504da9624f599952a3c2627c1c21b7b9583cb3cf061"
+        },
+        {
+            "file": "les Noobiens/les Noobiens les premières années (1976-2006)/07 yathosho - minidisko (nu Lesbians teeniedisko mix).avs",
+            "size": 1609,
+            "checksum": "sha256:38f483c00505c6afc263ccfe0c2327ecdf1ef2ec5db09942741a7114092be8b5"
+        },
+        {
+            "file": "les Noobiens/les Noobiens les premières années (1976-2006)/08 zamuz - tiled waterdrops (les Noobiens paperclip edit-edit).avs",
+            "size": 3787,
+            "checksum": "sha256:7a8140cd5e093930251f2bcf2398047c0c4c5b5c1ebf0011fd01ff0d86df4ed6"
+        },
+        {
+            "file": "les Noobiens/les Noobiens les premières années (1976-2006)/09 amphirion - be square (les Noobiens formula edit).avs",
+            "size": 3145,
+            "checksum": "sha256:363c3cf47c8310b763dc197001254b53c96dc99212c1dd40b0a024adbbacf61e"
+        },
+        {
+            "file": "les Noobiens/les Noobiens les premières années (1976-2006)/10 les Noobiens - 2-gummi.avs",
+            "size": 3520,
+            "checksum": "sha256:785b25ed9a87d7a0bf0e629353ca63e146ce02311c855901a31048d88f7b29e1"
+        },
+        {
+            "file": "les Noobiens/les Noobiens les premières années (1976-2006)/11 les Noobiens - autobahnnetz.avs",
+            "size": 685,
+            "checksum": "sha256:4fb0b169a5ef513a941ed585416f1ebd715630d2190734c246e4f2c3c3bd6819"
+        },
+        {
+            "file": "les Noobiens/les Noobiens les premières années (1976-2006)/12 les Noobiens - t-error.avs",
+            "size": 1031,
+            "checksum": "sha256:c505efb33d7f30c7732ffdfdcc0a148be46b04d10ff8c08868529f34c875b26f"
+        },
+        {
+            "file": "les Noobiens/les Noobiens les premières années (1976-2006)/13 les Noobiens - beat connection (les Noobiens ip-op mix).avs",
+            "size": 2118,
+            "checksum": "sha256:a6e8caf895a14cc0cd393b0cf9843d0db208a552c816406db217e512ace291be"
+        },
+        {
+            "file": "les Noobiens/les Noobiens les premières années (1976-2006)/14 les Noobiens - blockz (edit).avs",
+            "size": 1348,
+            "checksum": "sha256:33003388ff3edcb06c86d53496e32cc2c880b0c94afcce809ad822dfced57a1a"
+        },
+        {
+            "file": "les Noobiens/les Noobiens les premières années (1976-2006)/15 les Noobiens - r u dijital (rework).avs",
+            "size": 3660,
+            "checksum": "sha256:d73408e2874d300adf894e2830b8b290c6fdc1e7de4c5218dbcfb0537630d0c7"
+        },
+        {
+            "file": "les Noobiens/les Noobiens les premières années (1976-2006)/16 les Noobiens - pünktchen und anton (remix).avs",
+            "size": 1956,
+            "checksum": "sha256:ce7f3503c68f3c2a322c3f5abefea9ecec0f9506dd9ef4750fdc1195b38622f9"
+        },
+        {
+            "file": "les Noobiens/les Noobiens les premières années (1976-2006)/17 les Noobiens - sci-fi 1920s (pan am rework).avs",
+            "size": 757,
+            "checksum": "sha256:4b97ab8fb5dec4e3f215eea203be3af2c9f64c98af45b77d01c88d24aeac64cd"
+        },
+        {
+            "file": "les Noobiens/les Noobiens les premières années (1976-2006)/18 les Noobiens - pixfu (nu Lesbians edit).avs",
+            "size": 1273,
+            "checksum": "sha256:c863c857c8a9e9402cd1a5c1367e820e4f100d1ddcf38a897441fbec592a3855"
+        },
+        {
+            "file": "les Noobiens/les Noobiens les premières années (1976-2006)/19 les Noobiens & el-vis - give 'em enough scope.avs",
+            "size": 29535,
+            "checksum": "sha256:92ca4fbb7df39dcbd3c76b774a2086cbfd5bc506af5416b1eecf8d4f9844c423"
+        },
+        {
+            "file": "les Noobiens/les Noobiens les premières années (1976-2006)/20 yathosho - mobilee (les Noobiens rework).avs",
+            "size": 2615,
+            "checksum": "sha256:62681470692fc44a969c0fcdd9249c12e190f6d56f333a693770b0d9e07553f1"
+        },
+        {
+            "file": "les Noobiens/les Noobiens les premières années (1976-2006)/21 unripe lemon - noobworld (les Noobiens edit).avs",
+            "size": 2208,
+            "checksum": "sha256:f697ac8159e52b6b9ee3b930867c8a442545bcb35ae8cee0eb660ef52bb593a1"
+        },
+        {
+            "file": "les Noobiens/les Noobiens les premières années (1976-2006)/22 les Noobiens - 2-gummi (yathosho shakes it too!).avs",
+            "size": 3579,
+            "checksum": "sha256:3ef23c4ede3277721376da1da6a902ae8b2a40e2c59c4a5e317c1c9fa58d57e5"
+        },
+        {
+            "file": "les Noobiens/les Noobiens les premières années (1976-2006)/23 les Noobiens - love-is-faye-dun-a-way.avs",
+            "size": 1522,
+            "checksum": "sha256:90b35f304b1c2a8bd650fd7da41d76c50724603d77031c4860d6fd3384d9156a"
+        },
+        {
+            "file": "les Noobiens/les Noobiens les premières années (1976-2006)/24 les Noobiens - the modspot rip-off.avs",
+            "size": 3069,
+            "checksum": "sha256:c05402019e9177c72deea4f35e600c8004da9de2651fd2e77ee9a9771e2d2a22"
+        },
+        {
+            "file": "les Noobiens/les Noobiens les premières années (1976-2006)/25 dasnoob - 76 squares (les Noobiens rework).avs",
+            "size": 5964,
+            "checksum": "sha256:565271dc61667e5085754819ee74beeb5d83e45ca9629441804d544e68700bf7"
+        },
+        {
+            "file": "les Noobiens/les Noobiens les premières années (1976-2006)/26 zamuz - bumpy carpet (les Noobiens still-not-it remix).avs",
+            "size": 2099,
+            "checksum": "sha256:280172b397011bed5cbcaaf574429906dbb8c02712a3fe1a03a361d7dcf33dd6"
+        },
+        {
+            "file": "les Noobiens/les Noobiens les premières années (1976-2006)/27 les Noobiens - noppa.avs",
+            "size": 2587,
+            "checksum": "sha256:7898bd53c81b3f7f48122622aef2fc4d7b13727f6ae3c240d5b9536e902e8199"
+        },
+        {
+            "file": "les Noobiens/les Noobiens les premières années (1976-2006)/28 les Noobiens - weebly (v.i.p.).avs",
+            "size": 2167,
+            "checksum": "sha256:ff9df304c05b013615014c9c06140f73daabdce89a62ac4c7665068c800218f2"
+        },
+        {
+            "file": "les Noobiens/les Noobiens les premières années (1976-2006)/29 les Noobiens - die neue elastik.avs",
+            "size": 2292,
+            "checksum": "sha256:6e6fad23f93f6869232408e6ef743591bc9dd42d010ccac5b33ea17310e3a379"
+        },
+        {
+            "file": "les Noobiens/les Noobiens les premières années (1976-2006)/30 les Noobiens - back to cursor (zamuz's in-depth remix).avs",
+            "size": 4443,
+            "checksum": "sha256:6924d04680aee7a20146f63b22219c94583581d24c3471bef3927076fb2a0d16"
+        }
+    ],
+    "assets": [
+        {
+            "file": "mega_1.bmp",
+            "size": 1726,
+            "checksum": "sha256:099218d535479c5242f01aae917ffb727108444dc992b2e40f02a33c6a2f49a1"
+        },
+        {
+            "file": "Commodore64-v51.ttf",
+            "size": 52856,
+            "checksum": "sha256:387f55f9c714d16ef080d57f8c01ae9432012c031d2361ff326b88d311bd6fb5"
+        }
+    ],
+    "plugins": [
+        "AddBorder",
+        "ConvolutionFilter"
+    ]
+}

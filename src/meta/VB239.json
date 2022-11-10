@@ -1,0 +1,32 @@
+{
+    "name": "Form & Function EP",
+    "id": "VB239",
+    "presets": [
+        {
+            "file": "Dynamic Duo/Form & Function EP/ddA1__form & function (part 1).avs",
+            "size": 11023,
+            "checksum": "sha256:c521ec786dfb4306c20bca09dd55b68c07504bc22b4092f2b5e9f6e38054493b"
+        },
+        {
+            "file": "Dynamic Duo/Form & Function EP/ddB1__form & function (part 2).avs",
+            "size": 11023,
+            "checksum": "sha256:9e672c8db8898175457f11e7addd55492292db707c7d094af88a9960c2975775"
+        },
+        {
+            "file": "Dynamic Duo/Form & Function EP/ddB2__form & function (edit).avs",
+            "size": 9718,
+            "checksum": "sha256:f94c694804f8fe285f19dc45221e09b184a4a21a19ef2a615e03df74ceb7832e"
+        }
+    ],
+    "assets": [
+        {
+            "file": "avsres_texer_square_sharp_250x250.bmp",
+            "size": 9640,
+            "checksum": "sha256:bf75dee2c98f484a199422fa820fb8834ad58920216b69f17a2709fc321b8e2b"
+        }
+    ],
+    "plugins": [
+        "ColorMap",
+        "Texer2"
+    ]
+}

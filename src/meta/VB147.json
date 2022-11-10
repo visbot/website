@@ -1,0 +1,29 @@
+{
+    "name": "whyEye.org got the bug e.p.",
+    "id": "VB147",
+    "presets": [
+        {
+            "file": "whyEye.org/whyEye.org got the bug ep/yiA1 yathosho - got the bug.avs",
+            "size": 2867,
+            "checksum": "sha256:010c2a0df52a998c0e19cbf3bc5cb49f974b9238d9e88e595545a62e0c5455d7"
+        },
+        {
+            "file": "whyEye.org/whyEye.org got the bug ep/yiA2 yathosho - got the bug (edit).avs",
+            "size": 2873,
+            "checksum": "sha256:e66d5152648d941f8ed0bb06b3f298238c1ab74f3a16dd0cbc04f562070c92d8"
+        },
+        {
+            "file": "whyEye.org/whyEye.org got the bug ep/yiB1 yathosho - got the bug (les Noobiens ip-op mix).avs",
+            "size": 3138,
+            "checksum": "sha256:ec6a0d2bf4ebd7f989135bc764e82a2384b86116c85264506e8b882a6e80f979"
+        },
+        {
+            "file": "whyEye.org/whyEye.org got the bug ep/yiB2 yathosho - got the bug (version).avs",
+            "size": 2889,
+            "checksum": "sha256:5635a2185afc38547fa3a883de64b37ed8dcaedaffa7c3103f18dbbcda3118d5"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

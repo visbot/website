@@ -1,0 +1,30 @@
+{
+    "name": "313R EP",
+    "id": "VB145",
+    "presets": [
+        {
+            "file": "PAN AM/313R EP/01 PAN_AM mnstck (drew rmx).avs",
+            "size": 3792,
+            "checksum": "sha256:8fef925d77b053686c01796c952538f7a07e9c720cabe5494086233fba3fc3e9"
+        },
+        {
+            "file": "PAN AM/313R EP/02 PAN_AM mnstck (meaningless-existance fyre rmx).avs",
+            "size": 1909,
+            "checksum": "sha256:c8e674aca564961a654f855d6291341b41b7719c5454b76255f7b4d42f12cd67"
+        },
+        {
+            "file": "PAN AM/313R EP/03 PAN_AM slkwrm (meaningless-existance mosaic rmx).avs",
+            "size": 4711,
+            "checksum": "sha256:2f5a92c568fc38010b01d3979e94cf20fe79cf7a5832f87d0616320300547672"
+        },
+        {
+            "file": "PAN AM/313R EP/04 PAN_AM slkwrm (pan am rmx).avs",
+            "size": 2895,
+            "checksum": "sha256:580840c657a3db5f06ee48c0f7e1d34dcb757b553120348fb50f7313d6bafa01"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter",
+        "TransAuto"
+    ]
+}

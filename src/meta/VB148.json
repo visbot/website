@@ -1,0 +1,89 @@
+{
+    "name": "D y N a M i c   A r T",
+    "id": "VB148",
+    "presets": [
+        {
+            "file": "JaVS/D y N a M i c   A r T/01 JaVS - Intro.avs",
+            "size": 4570,
+            "checksum": "sha256:092043e84b42ad1c4f2e69d7df44d7f9f81680bc87100e57dde7809b44e49380"
+        },
+        {
+            "file": "JaVS/D y N a M i c   A r T/02 JaVS - The Missing Dots.avs",
+            "size": 5318,
+            "checksum": "sha256:4b8dea1af61058a0941f7faf5b90904326198de8a472f07d791b71277f390679"
+        },
+        {
+            "file": "JaVS/D y N a M i c   A r T/03 JaVS - Nerve Recharge.avs",
+            "size": 2988,
+            "checksum": "sha256:970bc38b4e54a18b0fd0da0d60f489d2e5215eb44a9d772b18c00490e11595ac"
+        },
+        {
+            "file": "JaVS/D y N a M i c   A r T/04 JaVS - The 'X' Flavour.avs",
+            "size": 3476,
+            "checksum": "sha256:6fc95b2ebb3aafb0c8db17f3a4056d1bdc5567fa049375dde5b98442032d1b2c"
+        },
+        {
+            "file": "JaVS/D y N a M i c   A r T/05 JaVS - Leaving The Classic.avs",
+            "size": 5302,
+            "checksum": "sha256:6525e5e7224e44add2c6e8db27bbbf759db710a349d60985437af545db520312"
+        },
+        {
+            "file": "JaVS/D y N a M i c   A r T/06 JaVS - One Way Blood.avs",
+            "size": 3644,
+            "checksum": "sha256:ff3f7549b3fe0b599fee7086e1aace0e83deb39969874b51701deaed71907a2b"
+        },
+        {
+            "file": "JaVS/D y N a M i c   A r T/07 JaVS - Smooth Creaminal.avs",
+            "size": 3039,
+            "checksum": "sha256:03948d15a428f60a38199f78a73249117b4abdb74bf6dfbd55f91bfdf9762c97"
+        },
+        {
+            "file": "JaVS/D y N a M i c   A r T/08 JaVS - Golden Meltdown.avs",
+            "size": 4277,
+            "checksum": "sha256:c58812a44366b5a6cfc5a8bd6f9fd44a563a0f9f10c5a3f97a639c7d06ca3c1f"
+        },
+        {
+            "file": "JaVS/D y N a M i c   A r T/09 JaVS - Translucent Ink.avs",
+            "size": 3123,
+            "checksum": "sha256:bbdf08957dfaeb9e72434885004976f9943183b7273f0f6040522742a1c9bc72"
+        },
+        {
+            "file": "JaVS/D y N a M i c   A r T/10 JaVS - Nerve Recharge (MrNudge's Some Kind of Zebra Mix).avs",
+            "size": 1875,
+            "checksum": "sha256:62bdd61d6c1a2d0b58ca960abaa55ee62cedc48fe4c1a954f11efd28e7c5f074"
+        },
+        {
+            "file": "JaVS/D y N a M i c   A r T/11 JaVS - Leaving The Classic (Montana's World In Motion Mix).avs",
+            "size": 5947,
+            "checksum": "sha256:5eb4d5df7f12ebd7b4bb2ac5355eb2f3a1c534f355f8c7a9a2a96fac06813ff4"
+        },
+        {
+            "file": "JaVS/D y N a M i c   A r T/12 JaVS - Nerve Recharge (Ya-tho-sho Edit).avs",
+            "size": 3716,
+            "checksum": "sha256:f4b9ec4e68c50fe20792fdb235143f6d7df254c164fb83b3970939ed1a89fa7a"
+        },
+        {
+            "file": "JaVS/D y N a M i c   A r T/13 JaVS - Nerve Recharge (Toxic VisKey Mix).avs",
+            "size": 5367,
+            "checksum": "sha256:3b928ac41e807f39c17636415a779bd1fd3435da78dca689b8887611352e5310"
+        },
+        {
+            "file": "JaVS/D y N a M i c   A r T/14 JaVS - Leaving The Classic (Nanakiwurkz Remix).avs",
+            "size": 6243,
+            "checksum": "sha256:fac21d9f011ec504fe7295c1579464fb42423ee2eb5d60ee129609ffc4d98c86"
+        }
+    ],
+    "assets": [
+        {
+            "file": "avsres_texer_circle_fade_23x23.bmp",
+            "size": 1710,
+            "checksum": "sha256:95df24e24fcdcc1e78aa613a2465cd0a11670fbebbf2fe6424d7678b7b88c789"
+        }
+    ],
+    "plugins": [
+        "BufferBlend",
+        "ConvolutionFilter",
+        "GlobalVarMan",
+        "MultiFilter"
+    ]
+}

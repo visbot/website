@@ -1,0 +1,213 @@
+{
+    "name": "RX . exegesis",
+    "id": "VB103",
+    "presets": [
+        {
+            "file": "frames.of.reality/RX . exegesis/000 . intro.avs",
+            "size": 6491,
+            "checksum": "sha256:21e23cde5472a70ac3a43861d11a0217d37567dcf8a87cbd23ce9f9c06d5c70a"
+        },
+        {
+            "file": "frames.of.reality/RX . exegesis/A01 . vold (les Noobiens rework).avs",
+            "size": 2781,
+            "checksum": "sha256:bc8271b93b01e82244d36e0bc7559f834620e561b1d01ea67a76d91c10039465"
+        },
+        {
+            "file": "frames.of.reality/RX . exegesis/A02 . white label promo track 1 (yathosho live from venice beach).avs",
+            "size": 2398,
+            "checksum": "sha256:70d3a91bde6acabe550cc428b91768589ab9eedebfc0f322fd7f53a19e7efc0a"
+        },
+        {
+            "file": "frames.of.reality/RX . exegesis/A03 . behind the curtains of tomorrow (sand shifter remix by mysterious-w).avs",
+            "size": 1671,
+            "checksum": "sha256:52118d070c299a3fbea21a1aba68a29e071a099df4dd538567b8687d61876ff8"
+        },
+        {
+            "file": "frames.of.reality/RX . exegesis/A04 - over my exoniemetry - (amphirion's hybrid r-mix).avs",
+            "size": 5041,
+            "checksum": "sha256:410af03d909a329b491c8a4f6d2b1d2b51bbf95bd7c166a5f4b0a579f268071f"
+        },
+        {
+            "file": "frames.of.reality/RX . exegesis/A05 . omega (dipolar).avs",
+            "size": 3315,
+            "checksum": "sha256:c18c341c92c7aaf974d3664de0bec835d242fc8c9702a60a61516751bdde2f5b"
+        },
+        {
+            "file": "frames.of.reality/RX . exegesis/A06 . altar of madness.avs",
+            "size": 4719,
+            "checksum": "sha256:f32bd84d64338a984cb0fc7317c9862386b81a5cd9cf160e5d8073439a61dcd9"
+        },
+        {
+            "file": "frames.of.reality/RX . exegesis/A07 - bloodplot (yathosho's day of the spectacle rework).avs",
+            "size": 3141,
+            "checksum": "sha256:f8c2f388ba18dadeac4a14710a77824afa9116b9d73288fc9a7ff7ff78046220"
+        },
+        {
+            "file": "frames.of.reality/RX . exegesis/A08 - escarte (blackhole remix by zamuz).avs",
+            "size": 4783,
+            "checksum": "sha256:73b29b91317b03966ae743650141bf0674afdf379431073b7ce075c8c089beb9"
+        },
+        {
+            "file": "frames.of.reality/RX . exegesis/A09 - relaxer deconstructed.avs",
+            "size": 2710,
+            "checksum": "sha256:f1c90ec1df28632bbcdfdcb2fa1c7dc8727d7504886b53654f6fa17b70ad829b"
+        },
+        {
+            "file": "frames.of.reality/RX . exegesis/A10 . qvis.avs",
+            "size": 4426,
+            "checksum": "sha256:5cc6dac4f75d4af96e09e367a188328a264ca9162c6ebd0dc065e4fb9a66ab06"
+        },
+        {
+            "file": "frames.of.reality/RX . exegesis/A11 . minimal (version).avs",
+            "size": 2690,
+            "checksum": "sha256:853cdd50087bed1bf9c29daf2ed15216f20e1f918cb0cb97aefb7073d77b90a4"
+        },
+        {
+            "file": "frames.of.reality/RX . exegesis/A12 . vianatelinitia.avs",
+            "size": 2537,
+            "checksum": "sha256:35faf54b14c2801c5d333cf7c7b5f608d5fa94f73dfd52391d2db31536eb53b6"
+        },
+        {
+            "file": "frames.of.reality/RX . exegesis/A13 . life is cruel (amphirion remix).avs",
+            "size": 4013,
+            "checksum": "sha256:51f05cdb232f4c2e9f04d7537e18755046baf2058649121b6c2507e3f0cb8cc2"
+        },
+        {
+            "file": "frames.of.reality/RX . exegesis/A14 . spolt.avs",
+            "size": 3608,
+            "checksum": "sha256:3f0f3d9322e7512400eedcd0bf9853911af2b4afb0d4cbe11f859db8a72743ef"
+        },
+        {
+            "file": "frames.of.reality/RX . exegesis/A15 . exoniemetry beta version one.avs",
+            "size": 3089,
+            "checksum": "sha256:9f53f6a32a668e709e0ab817360f9457b8af6a58bb824331152b52c5a524d619"
+        },
+        {
+            "file": "frames.of.reality/RX . exegesis/A16 . evvax (happiness is just a slower form of death remix by v-clot).avs",
+            "size": 4056,
+            "checksum": "sha256:5f642f762d048f678ac0127661dcf5899ff44f2919ffdbf30d1e5bc7b4ea4500"
+        },
+        {
+            "file": "frames.of.reality/RX . exegesis/A17 . irracional  (catsquared rmx).avs",
+            "size": 3397,
+            "checksum": "sha256:abfc3252313bc4bc30fe45d68bb1f84ec12055e3dbf2d50601b4a31c5e768d82"
+        },
+        {
+            "file": "frames.of.reality/RX . exegesis/A18 . exoniemetry beta version two.avs",
+            "size": 2183,
+            "checksum": "sha256:3d9e0419a1cbeae882e8477486a5dc6896fe0d27cc324325b8ea967282d2289d"
+        },
+        {
+            "file": "frames.of.reality/RX . exegesis/A19 . love feels like cherry (v.i.p.).avs",
+            "size": 4737,
+            "checksum": "sha256:cb01a76d833607a6109666318ec6a30fb32204b2961aa83abf91d4564a48e8c7"
+        },
+        {
+            "file": "frames.of.reality/RX . exegesis/B01 . jheriko vs. pak-9 . sulphur subspace.avs",
+            "size": 5045,
+            "checksum": "sha256:26d736bfb08dc8947bd950cad28d0ac398a3ed951220d24074c241bac379bcd8"
+        },
+        {
+            "file": "frames.of.reality/RX . exegesis/B02 . nemoorange . sailing the seas of cheese.avs",
+            "size": 3732,
+            "checksum": "sha256:82524c7033db84d02ce992c4969b970a8a22e0b8020198207fec553b15818404"
+        },
+        {
+            "file": "frames.of.reality/RX . exegesis/B03 . phunk . radiation curves.avs",
+            "size": 8398,
+            "checksum": "sha256:fb6542688db16b057804faa98e077d1e774778642034a87c24a248385027f927"
+        },
+        {
+            "file": "frames.of.reality/RX . exegesis/B04 . tuggummi . café usual (rusted remix).avs",
+            "size": 3203,
+            "checksum": "sha256:7e48fd4f584fce4552cb643f9177855f8441ceb1cfd3c0ae159a3badf1349e6c"
+        },
+        {
+            "file": "frames.of.reality/RX . exegesis/B05 . onionring of doom . give 'em enough sepia.avs",
+            "size": 2677,
+            "checksum": "sha256:7864415c4a1d11b06f509eb7b138f80a2ab1c4b53dfd533dbcfcde1c2fd0a370"
+        },
+        {
+            "file": "frames.of.reality/RX . exegesis/B06 . a3 . underwater.avs",
+            "size": 2767,
+            "checksum": "sha256:94e086db325dcef7fd222f0d316678c01b4c9f88883e5b94ecf0b978d439c71d"
+        },
+        {
+            "file": "frames.of.reality/RX . exegesis/B07 . yathosho . etil-alcohol.avs",
+            "size": 2763,
+            "checksum": "sha256:31daf1176a077ff65ff701f2e433209cbad4edf9f307a91f4ddbe2b31abc52b7"
+        },
+        {
+            "file": "frames.of.reality/RX . exegesis/B08 . zamuz vs. unripelemon - stuff under my blanket (y-op version).avs",
+            "size": 2078,
+            "checksum": "sha256:ff87de61cf012cda14e4a6335db7626c01a6234283a2d9f18c28df1030569835"
+        },
+        {
+            "file": "frames.of.reality/RX . exegesis/B09 . les noobiens . elastomania.avs",
+            "size": 4736,
+            "checksum": "sha256:908607283d8001b2a81e32eebdd94ea08bc0ab47a2c2637c0c7fefe7e74f2e9e"
+        },
+        {
+            "file": "frames.of.reality/RX . exegesis/B10 . tiberium guy . õklemojnen vederbunnke szobakerékpár.avs",
+            "size": 3945,
+            "checksum": "sha256:6f919a91241994e788d7fff01343928b964a9213a3d50bf6a7460387c8e9d394"
+        },
+        {
+            "file": "frames.of.reality/RX . exegesis/B11 . el-vis . the alpha zone.avs",
+            "size": 11756,
+            "checksum": "sha256:352feb5cbe6b53567cda1358f6653cda5b2d3d5c9d92d8d112107a8bebda3ad8"
+        },
+        {
+            "file": "frames.of.reality/RX . exegesis/B12 . catsquared . clockworx (fake skupers rework).avs",
+            "size": 7984,
+            "checksum": "sha256:f13f0bd6f258a950daa4d4b16d97da815ba340b919d97c91c0bb25407dbc1a9f"
+        },
+        {
+            "file": "frames.of.reality/RX . exegesis/B13 . zamuz . triwater.avs",
+            "size": 3399,
+            "checksum": "sha256:897f6111b123d379eac0d59890da7d66d5bc010c448b964e6746cabbaac1eac9"
+        },
+        {
+            "file": "frames.of.reality/RX . exegesis/B14 . avs-king . rock destrukt.avs",
+            "size": 1824,
+            "checksum": "sha256:668aa8a670d9346ce90d2ab361c9a9339ceab2fda18f551b4dcb4cb92a1c1a08"
+        },
+        {
+            "file": "frames.of.reality/RX . exegesis/B15 . yathosho . multiple dpi.avs",
+            "size": 2768,
+            "checksum": "sha256:2069dca4daad339c9da534e59aa7c5a77fe4a50b281adc60c8595e505cdca4d8"
+        },
+        {
+            "file": "frames.of.reality/RX . exegesis/B16 . dynamic duo . surreal attack.avs",
+            "size": 3135,
+            "checksum": "sha256:9071bb431081054f1f6bc3beebaac35816a1a51be36fabd7cda509fc89325aae"
+        },
+        {
+            "file": "frames.of.reality/RX . exegesis/B17 . jaak - violateur.avs",
+            "size": 6109,
+            "checksum": "sha256:a22bc624b30115a5907e66f0140ce9a7cf2bc53f2136f08492e2997c3e00a2c6"
+        },
+        {
+            "file": "frames.of.reality/RX . exegesis/B18 . frames vs. zamuz . accintuition.avs",
+            "size": 4329,
+            "checksum": "sha256:03cab953082e0f72768fb78281bd9e72b8a4c5b732b6550fa36e364666d320fe"
+        },
+        {
+            "file": "frames.of.reality/RX . exegesis/B19 . hboy . zyklon.avs",
+            "size": 3276,
+            "checksum": "sha256:c1226d1dc3d1f05e25ed0d43be1007822875811cd3165bac8fa1d2c5d5062c91"
+        },
+        {
+            "file": "frames.of.reality/RX . exegesis/B20 . zen-x . something evil comes this way.avs",
+            "size": 4876,
+            "checksum": "sha256:bc3b64738f0bb085f479140f072fb0f7367483de2fb4f77978b52ff9040c4715"
+        }
+    ],
+    "plugins": [
+        "AddBorder",
+        "BufferBlend",
+        "ConvolutionFilter",
+        "GlobalVarMan",
+        "MultiFilter"
+    ]
+}

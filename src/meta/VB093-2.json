@@ -1,0 +1,40 @@
+{
+    "name": "sEP . sol",
+    "id": "VB093-2",
+    "presets": [
+        {
+            "file": "frames.of.reality/sEP . sol/001 . frames vs. yathosho - live from the island where sand is sugar.avs",
+            "size": 2301,
+            "checksum": "sha256:90d3d3725f73234e058977261e38fc40b7e447824f76e8d63c6f03de7a350eb1"
+        },
+        {
+            "file": "frames.of.reality/sEP . sol/002 . frames vs. yathosho vs. vanish - color maps are cliché re-edit.avs",
+            "size": 2613,
+            "checksum": "sha256:e54ba05b20ce824096381c5b37f40001f26bd8f7c90beade1a5878029ab6bf5a"
+        },
+        {
+            "file": "frames.of.reality/sEP . sol/003 . vialate.avs",
+            "size": 3314,
+            "checksum": "sha256:84b1083310b3d57f5365486640fa56ee9e6e1bcfa6c236dc754d4a793b4f050b"
+        },
+        {
+            "file": "frames.of.reality/sEP . sol/004 . love feels like cherry.avs",
+            "size": 4861,
+            "checksum": "sha256:6bd160cc7138c69eafa6ab584c576f574bf51050f7cf0daf4dc68bc43118f6c7"
+        },
+        {
+            "file": "frames.of.reality/sEP . sol/005 . frames vs. el-vis - if you want blood (reign in love).avs",
+            "size": 6144,
+            "checksum": "sha256:3ae04b2b7a5caa2429fea653e0e31faead0812831ba66595815bc0736ececec7"
+        },
+        {
+            "file": "frames.of.reality/sEP . sol/006 . frames vs. zamuz - solar blackhole.avs",
+            "size": 5602,
+            "checksum": "sha256:952f159aee447b34cb4778044a64bbde8c3d339963b01b72eb41464b5c5f8150"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter",
+        "MultiFilter"
+    ]
+}

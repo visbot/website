@@ -1,0 +1,29 @@
+{
+    "name": "whyEye.org Heimcomputer II PREVIEW",
+    "id": "VB020-1",
+    "presets": [
+        {
+            "file": "whyEye.org/whyEye.org Heimcomputer II PREVIEW/yiA1__disclaimer.avs",
+            "size": 1856,
+            "checksum": "sha256:24388b889fd9556db107e77b7f9c0206bdae2cb4d25a07682be15968ea26a0fb"
+        },
+        {
+            "file": "whyEye.org/whyEye.org Heimcomputer II PREVIEW/yiA2__heimcomputer_ii_preview.avs",
+            "size": 825,
+            "checksum": "sha256:d667581102c183450157e31e6c4f706a73d5484a5575c3cf567930024b431c0d"
+        },
+        {
+            "file": "whyEye.org/whyEye.org Heimcomputer II PREVIEW/yiB1__preview_64.avs",
+            "size": 9134,
+            "checksum": "sha256:42fce00e707d9360ba84f2865f40e8c5bb1d8d0379fab978ed17230f55e182aa"
+        },
+        {
+            "file": "whyEye.org/whyEye.org Heimcomputer II PREVIEW/yiB2__triad_(a_tribute_by_dXft_cXnt).avs",
+            "size": 1975,
+            "checksum": "sha256:396cf84544d5f7643f09fae66c064191a081f1c978d57d6ed750a84c1bc4c620"
+        }
+    ],
+    "plugins": [
+        "AddBorder"
+    ]
+}

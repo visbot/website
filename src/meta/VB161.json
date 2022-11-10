@@ -1,0 +1,85 @@
+{
+    "name": "whyEye.org modus operandi",
+    "id": "VB161",
+    "presets": [
+        {
+            "file": "whyEye.org/whyEye.org modus operandi/01 yathosho - modus operandi.avs",
+            "size": 4317,
+            "checksum": "sha256:7ed0ff7ed3a095335092a85b4fe732542f023a54b77352e1ca9f45d65eb4155f"
+        },
+        {
+            "file": "whyEye.org/whyEye.org modus operandi/02 frames.of.reality - divisions (yathosho's dhutty mf).avs",
+            "size": 3762,
+            "checksum": "sha256:be207891d25432af7d30e58272517c7301ef06baeee93c7a3a06ef516e4d14ff"
+        },
+        {
+            "file": "whyEye.org/whyEye.org modus operandi/03 grandchild - onebitspasm (ya-tho-sho refreak #1).avs",
+            "size": 16231,
+            "checksum": "sha256:bbc3e7530eb9d1d4b2b5e85505c16367cb62d4489b0376c45ce3c2b572ea70e9"
+        },
+        {
+            "file": "whyEye.org/whyEye.org modus operandi/04 yathosho - randomize ii.avs",
+            "size": 2017,
+            "checksum": "sha256:5cdbd400f77a52c60a889fcb8fa90b72ace853e8d7f0b06d1935a9d82d27e7f6"
+        },
+        {
+            "file": "whyEye.org/whyEye.org modus operandi/05 pan am - motorcity (ya-tho-sho edit).avs",
+            "size": 10425,
+            "checksum": "sha256:ef7ec3624d27dc15addc1f249015da29f2e68590421ab09fd54edab5394f673c"
+        },
+        {
+            "file": "whyEye.org/whyEye.org modus operandi/06 grandchild - onebitspasm (ya-tho-sho refreak edit).avs",
+            "size": 16087,
+            "checksum": "sha256:f74a49e73f34ae03a16b77db26a56e3470dec58e6846ed6d88db52841ab3578c"
+        },
+        {
+            "file": "whyEye.org/whyEye.org modus operandi/07 horse-fly vs catminddo - acid shadow (yathosho mash-up).avs",
+            "size": 4341,
+            "checksum": "sha256:fd87da30641ef7ccc171cdac1aa1b34c8fcf0ac50452459d6b52aad0dd567946"
+        },
+        {
+            "file": "whyEye.org/whyEye.org modus operandi/08 pan am - ministeck (ya-tho-sho edit).avs",
+            "size": 4220,
+            "checksum": "sha256:2ed7f409d51d8009afdcba3cbb0b256d6d98eac0a516dceaf01cc2c3b97afa53"
+        },
+        {
+            "file": "whyEye.org/whyEye.org modus operandi/09 yathosho - rise of the minotaur.avs",
+            "size": 5704,
+            "checksum": "sha256:dfa57e2146a5671204ca4b36ef1ce4a9412f79eabeb3c07d42e1c110e8d08406"
+        },
+        {
+            "file": "whyEye.org/whyEye.org modus operandi/10 grandchild - paper fly (yathosho's scissors mix).avs",
+            "size": 8318,
+            "checksum": "sha256:7e683a2cb853c2e23f2d64522744106b8a10791e18a48a09de1e6a1d19955f33"
+        },
+        {
+            "file": "whyEye.org/whyEye.org modus operandi/11 yathosho - modus operandi ii.avs",
+            "size": 4303,
+            "checksum": "sha256:4f2e2413857e571cedf7d74ce183cf25a831b93fe958097cd7f8087899be86c2"
+        },
+        {
+            "file": "whyEye.org/whyEye.org modus operandi/12 yathosho - randomize.avs",
+            "size": 2802,
+            "checksum": "sha256:4aeadc471a77f7fd6c8525f80b78a684783576f0ad96782aba4cab962efb4778"
+        },
+        {
+            "file": "whyEye.org/whyEye.org modus operandi/13 yathosho - dpi 04.avs",
+            "size": 1767,
+            "checksum": "sha256:b21be4cfc83c7a2b3f88f78d83d2e46336d5031864d5cc2f9dc7b07ef2e99dca"
+        }
+    ],
+    "assets": [
+        {
+            "file": "avsres_texer_square_sharp_20x20.bmp",
+            "size": 1782,
+            "checksum": "sha256:bcf774b1520e3314da459eb50c9b597531d783c20b48abd5f1ba91641f3169c6"
+        }
+    ],
+    "plugins": [
+        "BufferBlend",
+        "ConvolutionFilter",
+        "FramerateLimiter",
+        "GlobalVarMan",
+        "Triangle"
+    ]
+}

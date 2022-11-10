@@ -1,0 +1,29 @@
+{
+    "name": "whyEye.org XR6",
+    "id": "VB013",
+    "presets": [
+        {
+            "file": "whyEye.org/whyEye.org XR6/yiA1__go.avs",
+            "size": 1811,
+            "checksum": "sha256:d973c71b0dac95e58e80cfdb61f7e598b85e39327fb256de6763ecda4755201a"
+        },
+        {
+            "file": "whyEye.org/whyEye.org XR6/yiA2__dopsballfieber_(lo-res_edit).avs",
+            "size": 1783,
+            "checksum": "sha256:e10ac55907e0b9ec3b2350d3769d4876745e72d66904d6305de593d301a1f4bc"
+        },
+        {
+            "file": "whyEye.org/whyEye.org XR6/yiB1__slashdevslashart_(early_version_reconstructed).avs",
+            "size": 869,
+            "checksum": "sha256:0419ca4067590955b00ac9c2f7150457b66cf142272ae086b9d66b37f542ee10"
+        },
+        {
+            "file": "whyEye.org/whyEye.org XR6/yiB2__neulich_in_der_wäscherei.avs",
+            "size": 555,
+            "checksum": "sha256:262878a39178dd8965f9db68f7e5e4f38e1fd52852fb7c63b9e9a2b6176a058d"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

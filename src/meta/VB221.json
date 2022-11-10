@@ -1,0 +1,58 @@
+{
+    "name": "whyEye.org untilted e.p.",
+    "id": "VB221",
+    "presets": [
+        {
+            "file": "whyEye.org/whyEye.org untilted ep/yiA1 yathosho - figure d edit.avs",
+            "size": 3872,
+            "checksum": "sha256:95e1a272e49b3fdbd9b33b75c49509c3d17774c5f040c0552d79bbdead422837"
+        },
+        {
+            "file": "whyEye.org/whyEye.org untilted ep/yiA2 yathosho - dpi 03.avs",
+            "size": 1758,
+            "checksum": "sha256:c4460acf23c84230ccbf07eb203965a8e4b07e772c835536cf409d0dbc6d8ded"
+        },
+        {
+            "file": "whyEye.org/whyEye.org untilted ep/yiA3 yathosho - pullin out these old tricks (edit).avs",
+            "size": 1484,
+            "checksum": "sha256:4f4eb54ec59ec2875099da38a8d31bb3e68d7c1f3d5d4ba6e04cbbe5ab8008f7"
+        },
+        {
+            "file": "whyEye.org/whyEye.org untilted ep/yiA4 yathosho - die machine, die.avs",
+            "size": 3881,
+            "checksum": "sha256:9f82e818993233a4e1c1ae47cdad425c6dcd9fe7fcf43f90b70e4a04a18fcfdd"
+        },
+        {
+            "file": "whyEye.org/whyEye.org untilted ep/yiB1 drew - toxic-inkated (moebius operandi).avs",
+            "size": 10163,
+            "checksum": "sha256:38439fe73a608a55b62b384d1f3b9da17dd24506ec87f923c45271fd715ba89c"
+        },
+        {
+            "file": "whyEye.org/whyEye.org untilted ep/yiB2 amphirion - abstrkt fundamentals (early version of the re-edit).avs",
+            "size": 11633,
+            "checksum": "sha256:af1e283e94d975dbf4c96153767a35e65d5d1c29b38357b47955845a5cb2eb0d"
+        },
+        {
+            "file": "whyEye.org/whyEye.org untilted ep/yiB3 grandchild - 3 zebras (yathosho's stereovision mix).avs",
+            "size": 8929,
+            "checksum": "sha256:7f272621613ad52b2352f31ea382ffae9cb232f01edab13c24749a6f6de60b70"
+        },
+        {
+            "file": "whyEye.org/whyEye.org untilted ep/yiB4 pan am - mnstck (ya-tho-sho uncut edit).avs",
+            "size": 4172,
+            "checksum": "sha256:f6c1561f41ff3b47cc4365c51aec7bd68aa6bceb721d9499c35890e7c0c7e11c"
+        }
+    ],
+    "assets": [
+        {
+            "file": "avsres_texer_square_sharp_30x30.bmp",
+            "size": 3590,
+            "checksum": "sha256:e41754b033960b3a5e77252cf1edee71e97c311c2cedafc9b4139a3df51240e6"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter",
+        "TransAuto",
+        "Triangle"
+    ]
+}

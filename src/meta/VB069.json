@@ -1,0 +1,39 @@
+{
+    "name": "whyEye.org broker's insider volume 5",
+    "id": "VB069",
+    "presets": [
+        {
+            "file": "whyEye.org/whyEye.org broker's insider volume 5/yiA1 yathosho vs pure-krypton__expect the expected (gradient edit).avs",
+            "size": 2138,
+            "checksum": "sha256:f2d27faca53b109801805332bcc37d54e13a59b6191ed0021ea8067ea9499363"
+        },
+        {
+            "file": "whyEye.org/whyEye.org broker's insider volume 5/yiA2 unconed__going up-n-down (spitzen garnitur, yathosho!).avs",
+            "size": 2535,
+            "checksum": "sha256:f5709ba89efa66698c8d7a65dd66d92222673cd54e3a6053fd1b531858f3e6a6"
+        },
+        {
+            "file": "whyEye.org/whyEye.org broker's insider volume 5/yiA3 les Noobiens vs unripe lemon__noobworld (edit).avs",
+            "size": 2426,
+            "checksum": "sha256:d4d95ccef9537c948334499cd0638c93b49b665f40e03bca93cf8879ac5bc03c"
+        },
+        {
+            "file": "whyEye.org/whyEye.org broker's insider volume 5/yiB1 pure-krypton__is green is cool (ya-tho-sho treatment).avs",
+            "size": 2715,
+            "checksum": "sha256:af241f07bc02403b36faaf3eda0537d4419f735ffdf6f3a4fbd4694451ab410c"
+        },
+        {
+            "file": "whyEye.org/whyEye.org broker's insider volume 5/yiB2 amphirion__be square (les Noobiens rework).avs",
+            "size": 2960,
+            "checksum": "sha256:79af4f46c34eff122969b32ddda6a7b6c68ed51e165f79245ff039a1a9262e42"
+        },
+        {
+            "file": "whyEye.org/whyEye.org broker's insider volume 5/yiB3 yathosho__carrera.avs",
+            "size": 1670,
+            "checksum": "sha256:e99af6e742f1eafd11fbbdd29ee7a629b975a74eb22f90bf052ea94cef76d277"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

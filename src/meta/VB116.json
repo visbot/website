@@ -1,0 +1,134 @@
+{
+    "name": "01 - Lift-Off",
+    "id": "VB116",
+    "presets": [
+        {
+            "file": "Synth-C/01 - Lift-Off/01 - The Construct.avs",
+            "size": 10109,
+            "checksum": "sha256:08a44ea4a5294d289ee7c6e49df3cd36cba73f80e84acc8a0806554b7c241f97"
+        },
+        {
+            "file": "Synth-C/01 - Lift-Off/02 - Cold Fusion.avs",
+            "size": 17947,
+            "checksum": "sha256:440c1b7a986732548a07f8c87ab7cd2ff4c20c379a7796bcbc85ef5358d682ba"
+        },
+        {
+            "file": "Synth-C/01 - Lift-Off/03 - Kompakt.avs",
+            "size": 5648,
+            "checksum": "sha256:ed8741467570a8df7de1586c40c88f4584d668001d20c82ecdf7bc0e588d474a"
+        },
+        {
+            "file": "Synth-C/01 - Lift-Off/04 - Inverse Eruption.avs",
+            "size": 12966,
+            "checksum": "sha256:f1ed21e4dfa03ec3018dfb57987e4ec15e3bbd26948e5e86c57ce1bfb4d7ec35"
+        },
+        {
+            "file": "Synth-C/01 - Lift-Off/05 - Ameta.avs",
+            "size": 4012,
+            "checksum": "sha256:9d9bc6748b6972c7205e151e7fbcd1c56e34420268a1508920c8cccb7ba58878"
+        },
+        {
+            "file": "Synth-C/01 - Lift-Off/06 - Pearl Beats.avs",
+            "size": 10848,
+            "checksum": "sha256:a52e32091a91b34de4150f12f44cf7c62f6d41c6330e8c3911a32a20a63ffe2f"
+        },
+        {
+            "file": "Synth-C/01 - Lift-Off/07 - Iced.avs",
+            "size": 3071,
+            "checksum": "sha256:57cd2bcb62d6f0a7ec968d721bfc3c2a5dc660190a086d3e45f95778abb0d2c6"
+        },
+        {
+            "file": "Synth-C/01 - Lift-Off/08 - Ion-core.avs",
+            "size": 17361,
+            "checksum": "sha256:f1bc0188defd88565c906dca1f068934511e7512b720e38f0987f4097276ed62"
+        },
+        {
+            "file": "Synth-C/01 - Lift-Off/09 - Delerius.avs",
+            "size": 2414,
+            "checksum": "sha256:24d833e56c51cfad48f3111e5a61079682f2d4eee28a1aeae7ffe188d640280a"
+        },
+        {
+            "file": "Synth-C/01 - Lift-Off/10 - Compressor.avs",
+            "size": 3159,
+            "checksum": "sha256:0b01273994d0203192895e59ef4bf32e7582c0ccc349a27dacb184d46cded716"
+        },
+        {
+            "file": "Synth-C/01 - Lift-Off/11 - Forcefield.avs",
+            "size": 14561,
+            "checksum": "sha256:120bf6010e4c4ed8a59aa8222a9473378afdfdfd348fcd80127a1d561732ad19"
+        },
+        {
+            "file": "Synth-C/01 - Lift-Off/12 - Hextic.avs",
+            "size": 3870,
+            "checksum": "sha256:493f25f13bce77fe48b19c589938106fea63a389eda9afd5d9b64c4c49b65559"
+        },
+        {
+            "file": "Synth-C/01 - Lift-Off/13 - Glass Peeks.avs",
+            "size": 10062,
+            "checksum": "sha256:6838c140e4d4f1a61f38d46139ecf37f9584dc60767c9bee0742eee9bf088092"
+        },
+        {
+            "file": "Synth-C/01 - Lift-Off/14 - Clusterfuck.avs",
+            "size": 11411,
+            "checksum": "sha256:346ba94a685d1970229410baefeb257c89ac6d97b38cd4fe7ea469d31a21b040"
+        },
+        {
+            "file": "Synth-C/01 - Lift-Off/15 - Feedbackcube.avs",
+            "size": 10860,
+            "checksum": "sha256:cc0e5acdba73e629c4402bbc47245cccdf27311325852e221c7a1a84aa8d840d"
+        },
+        {
+            "file": "Synth-C/01 - Lift-Off/16 - Spaget.avs",
+            "size": 8683,
+            "checksum": "sha256:1c4eda489dfbb33e86da03721eb4c642606dab225d8434130ce33786c4fc26de"
+        },
+        {
+            "file": "Synth-C/01 - Lift-Off/17 - Mesmerize.avs",
+            "size": 9447,
+            "checksum": "sha256:ecf69e26c7adae5e293ca86726603ab94a3c77d33b5c7740d6952c2e6308660d"
+        }
+    ],
+    "assets": [
+        {
+            "file": "avsres_texer_circle_edgeonly_17x17.bmp",
+            "size": 938,
+            "checksum": "sha256:647422d3f0fc68a04e69422a6948b04e1ad6b4232fc29035ea074ba3c2b974e8"
+        },
+        {
+            "file": "avsres_texer_circle_fade_13x13.bmp",
+            "size": 574,
+            "checksum": "sha256:b63bce5ba15b7dbaeedc588fa991c218963d0ed312c865a0d0f36d771b496a37"
+        },
+        {
+            "file": "avsres_texer_circle_sharp_09x09.bmp",
+            "size": 450,
+            "checksum": "sha256:6ff6f86f427968efbd9a21ddce8cf0cd681681f0d7fc772659a86700a9c7d0ac"
+        },
+        {
+            "file": "avsres_texer_circle_sharp_17x17.bmp",
+            "size": 1194,
+            "checksum": "sha256:31d52f73c76abfe7928248f3531a8eb77fdcbc48e398797d16ec183d0389c5db"
+        },
+        {
+            "file": "holehex.gvm",
+            "size": 5963,
+            "checksum": "sha256:2f5c75a0021815e9782730fe6a6d29d9041864d83c63b6935379a87c9a5a7f59"
+        },
+        {
+            "file": "synth_005.bmp",
+            "size": 1478,
+            "checksum": "sha256:2fe496d77986678df7d33c6020c7c431805cf29837050b2fde01dd0cd6462b39"
+        },
+        {
+            "file": "synth_control.bmp",
+            "size": 5358,
+            "checksum": "sha256:73605559f57c4bb9274026286f36da79d47c814dcf369b458975983b50974109"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter",
+        "GlobalVarMan",
+        "TransAuto",
+        "Triangle"
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "name": "Nubtroopiii",
+    "id": "VB190",
+    "presets": [
+        {
+            "file": "PAN AM & les Noobiens - Nubtroopiii/01 dynamic duo - skreamizm (drew summer shades and ice cream mix).avs",
+            "size": 3386,
+            "checksum": "sha256:1b63b215d01c7515ecc79409e62c667bb6e346cd533391ad5e1f0278dad20ef9"
+        },
+        {
+            "file": "PAN AM & les Noobiens - Nubtroopiii/02 les Noobiens - beat connection (les Noobiens ip-op mix).avs",
+            "size": 2226,
+            "checksum": "sha256:92c86abff207c155630312f4923611cd59bf45c562ac1858e45a21cd9c3e3d9a"
+        },
+        {
+            "file": "PAN AM & les Noobiens - Nubtroopiii/03 pan am - slkwrm (meaningless-existance mosaic rmx).avs",
+            "size": 4711,
+            "checksum": "sha256:2f5a92c568fc38010b01d3979e94cf20fe79cf7a5832f87d0616320300547672"
+        },
+        {
+            "file": "PAN AM & les Noobiens - Nubtroopiii/04 onionring vs panam - ziyan ii (fake m-e edit).avs",
+            "size": 16280,
+            "checksum": "sha256:4f347c7ec9649b045d1776639b36124e5207dff3c893fab6b42991e6fd8c69d6"
+        },
+        {
+            "file": "PAN AM & les Noobiens - Nubtroopiii/05 drew - summer shorts (pam anne rmx).avs",
+            "size": 2866,
+            "checksum": "sha256:7591d73d057b2173732271ffc01c062d8d8914ab308c80bb2ca91f21edbd7cb6"
+        },
+        {
+            "file": "PAN AM & les Noobiens - Nubtroopiii/06 les Noobiens - enter the noobcore (pan am remix).avs",
+            "size": 4142,
+            "checksum": "sha256:45ff2c3a87af75bf409609e9647314c8075a0476fc4e221eb72a7ab003680469"
+        },
+        {
+            "file": "PAN AM & les Noobiens - Nubtroopiii/07 m-e - bathroom.avs",
+            "size": 4123,
+            "checksum": "sha256:25ef55f3e4eb8d9a742c1da6693dad1a01b6c2db3d7131b5548da9a4c28364a5"
+        },
+        {
+            "file": "PAN AM & les Noobiens - Nubtroopiii/08 m-e & drew - whoagasm.avs",
+            "size": 6013,
+            "checksum": "sha256:03a868f1a134f4a25168363f25a38582caf9e342b4d9f700451939a684bb486b"
+        },
+        {
+            "file": "PAN AM & les Noobiens - Nubtroopiii/09 dynamic duo - best foot forward (pan am rmx).avs",
+            "size": 10375,
+            "checksum": "sha256:d569daf3b9b23103462600dca7ebcc55cd7e736ca01b362381e9719d1593375f"
+        },
+        {
+            "file": "PAN AM & les Noobiens - Nubtroopiii/10 pan am - mnstck (les Noobiens vs yathosho ip-op remash).avs",
+            "size": 4601,
+            "checksum": "sha256:b4a57fe3f09bd8d3d2bd275df03bf6b8fd768413cae1df1f037f9c17edc13b36"
+        },
+        {
+            "file": "PAN AM & les Noobiens - Nubtroopiii/11 m-e - sexual refrence.avs",
+            "size": 5755,
+            "checksum": "sha256:ed20db51e0004c5be8bd46600e6fde71ddf4e4bccd8a3d5b7c75fdc767ce0b08"
+        },
+        {
+            "file": "PAN AM & les Noobiens - Nubtroopiii/12 dynamic duo - liquid (pan am rephix).avs",
+            "size": 11183,
+            "checksum": "sha256:a510aff847a37511d6f161458370d1c945d91587c6ce4965da9e50b62d32aa17"
+        },
+        {
+            "file": "PAN AM & les Noobiens - Nubtroopiii/13 drew vs dynamic duo - melt banana.avs",
+            "size": 1918,
+            "checksum": "sha256:91f99f54553f2fb5b7e85c788bb76486764b09a616887f6d05768a3229f4ba89"
+        }
+    ],
+    "assets": [
+        {
+            "file": "avsres_texer_square_sharp_30x30.bmp",
+            "size": 3590,
+            "checksum": "sha256:e41754b033960b3a5e77252cf1edee71e97c311c2cedafc9b4139a3df51240e6"
+        },
+        {
+            "file": "skupers_lp6_02.bmp",
+            "size": 10856,
+            "checksum": "sha256:aaeb13486d7082c888a556012a3ea574dc4c651b01510ae9722a1ce184f8fd03"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter",
+        "FramerateLimiter",
+        "TransAuto",
+        "Triangle"
+    ]
+}

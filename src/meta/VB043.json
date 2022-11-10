@@ -1,0 +1,145 @@
+{
+    "name": "DD2oo3",
+    "id": "VB043",
+    "presets": [
+        {
+            "file": "Dynamic Duo/DD2oo3/01 dynamic duo - europeans (intro).avs",
+            "size": 1297,
+            "checksum": "sha256:57ac64e5f14c342ca25785895886b5e0413fee9c9387cfa1fe1b6b247fd6756e"
+        },
+        {
+            "file": "Dynamic Duo/DD2oo3/02 dynamic duo - kinematics.avs",
+            "size": 4193,
+            "checksum": "sha256:16e2a1c564c6adbd11d80e9737ebc408098caab9ec62a329ea83ffd7a3dccbbc"
+        },
+        {
+            "file": "Dynamic Duo/DD2oo3/03 dynamic duo - who doesnt love wood.avs",
+            "size": 2264,
+            "checksum": "sha256:b2b55af1332958d18beac8dbe39c43a783fc2a7e08e59a130509d38e6aa4ec99"
+        },
+        {
+            "file": "Dynamic Duo/DD2oo3/04 dynamic duo - gentle.avs",
+            "size": 789,
+            "checksum": "sha256:ac3253729934aff05f81d7f4ea5710404292399bd37484c048210069165f9f6b"
+        },
+        {
+            "file": "Dynamic Duo/DD2oo3/05 dynamic duo - random anja.avs",
+            "size": 4479,
+            "checksum": "sha256:d68381c364be1b1d7dcb2188f28f7b1d4701b360bb8f26f1afa4f13aa964c4db"
+        },
+        {
+            "file": "Dynamic Duo/DD2oo3/06 dynamic duo - europeans (skupers innercircle mix).avs",
+            "size": 1788,
+            "checksum": "sha256:71ce998e474e460f6ac29631b51dce2d9d4c783e3d0779a8b34d0d5557f4e7d1"
+        },
+        {
+            "file": "Dynamic Duo/DD2oo3/07 dynamic duo - en autriche.avs",
+            "size": 2528,
+            "checksum": "sha256:23d56a3c708fabbedc00d4de1fafd3bb275caf952867db3c1d8fe4d913478139"
+        },
+        {
+            "file": "Dynamic Duo/DD2oo3/08 dynamic duo - curvaceous part 1.avs",
+            "size": 1977,
+            "checksum": "sha256:8643990ed02e5366909678b55d29b243d341d0ebd3d66dcc46c0d9a95e3d38b9"
+        },
+        {
+            "file": "Dynamic Duo/DD2oo3/09 dynamic duo - exotherm drei.avs",
+            "size": 2501,
+            "checksum": "sha256:359d77b1e0da8f727a16637b8900266f97d63a5bfa03011c7c9461498846f249"
+        },
+        {
+            "file": "Dynamic Duo/DD2oo3/10 dynamic duo - uneven.avs",
+            "size": 1736,
+            "checksum": "sha256:5078891f5e886de2cf3a42cf797ca7636d8ccd52a877e85737e8a0e1f4bbb9df"
+        },
+        {
+            "file": "Dynamic Duo/DD2oo3/11 dynamic duo - benandjerrys.avs",
+            "size": 2616,
+            "checksum": "sha256:57f95ed37767ab7633535015143d0e41ea7066efe0acb2c6148883e2442e5de9"
+        },
+        {
+            "file": "Dynamic Duo/DD2oo3/12 dynamic duo - kirschblüte zwei.avs",
+            "size": 1227,
+            "checksum": "sha256:79dd483b2a9a50a7151214741894d52f4ced408f6b151788dcad2afdf244410b"
+        },
+        {
+            "file": "Dynamic Duo/DD2oo3/13 dynamic duo - magmentia.avs",
+            "size": 1966,
+            "checksum": "sha256:15592bcff173dfc804cdb00c599a8f64dd23da3273aac95df45b00691e53e006"
+        },
+        {
+            "file": "Dynamic Duo/DD2oo3/14 dynamic duo - alphonso from madrid.avs",
+            "size": 3461,
+            "checksum": "sha256:a3a5e638f73f1d98c968f45bc362ea10fc6a4c65451e474f9a16c34d39ef7c5b"
+        },
+        {
+            "file": "Dynamic Duo/DD2oo3/15 dynamic duo - iiriel.avs",
+            "size": 3566,
+            "checksum": "sha256:9a95714de254d3c448b936d144880df6037ee0cea6c59f1e42ff47a9b911a0fc"
+        },
+        {
+            "file": "Dynamic Duo/DD2oo3/16 dynamic duo - untitled031 (unconed's original tweak).avs",
+            "size": 2293,
+            "checksum": "sha256:357eb9ea78ed06ac25dafb17f23b0d1c829edecae7bf53fe2a07a8b7a3a49e32"
+        },
+        {
+            "file": "Dynamic Duo/DD2oo3/17 dynamic duo - european future.avs",
+            "size": 1831,
+            "checksum": "sha256:f51e011d06572361b735c2aac3cfff0a503a6aac7ad40e421d102c921ea34711"
+        },
+        {
+            "file": "Dynamic Duo/DD2oo3/18 dynamic duo - kinderschokolade.avs",
+            "size": 632,
+            "checksum": "sha256:b346b1fbaca4b2aaf2d0c4780fd00baf05ceedb4481386ca945856f47319226f"
+        },
+        {
+            "file": "Dynamic Duo/DD2oo3/19 dynamic duo - tequilax.avs",
+            "size": 810,
+            "checksum": "sha256:dfc6bd17acf0c0a294d1626204245806096cc66b92d3dbc61495c5f1d772b07c"
+        },
+        {
+            "file": "Dynamic Duo/DD2oo3/20 dynamic duo - curvaceous part 2.avs",
+            "size": 2208,
+            "checksum": "sha256:b41e0bd7c2a6449793a101238e2bd7113598eee12648210636d2c3562a7e59cd"
+        },
+        {
+            "file": "Dynamic Duo/DD2oo3/21 dynamic duo - knitting.avs",
+            "size": 1294,
+            "checksum": "sha256:adf82249e9a5ee51321022cfd816ca88cf3a53055203131a7bb70e591cf0f7ee"
+        },
+        {
+            "file": "Dynamic Duo/DD2oo3/22 dynamic duo - we have explosive.avs",
+            "size": 2227,
+            "checksum": "sha256:210a3a6176dc9df1180a548f308332f27d06f246ae91acbd5f1a915c742e2aa6"
+        },
+        {
+            "file": "Dynamic Duo/DD2oo3/23 dynamic duo - texturized.avs",
+            "size": 3071,
+            "checksum": "sha256:69f6777247f8ac340edf627870887c13634b6053dad8f8105b61fb88f5c1630f"
+        },
+        {
+            "file": "Dynamic Duo/DD2oo3/24 dynamic duo - curvaceous (yathosho's vaginal stream).avs",
+            "size": 1973,
+            "checksum": "sha256:a2cf7ee10ad52797761594f24a69a8c9acb871ea13ef7d22edcd1a93f56cd65d"
+        },
+        {
+            "file": "Dynamic Duo/DD2oo3/25 dynamic duo - get sick.avs",
+            "size": 888,
+            "checksum": "sha256:fa66373febf738acbe79656856076ce17e9988852c18ca69e91ef82779e0c771"
+        }
+    ],
+    "assets": [
+        {
+            "file": "dynduo-star.bmp",
+            "size": 856,
+            "checksum": "sha256:a5a1ae4a2cad1eff6d5f323b09d7184977ea74621fe8c7be8d7e779d737cc013"
+        }
+    ],
+    "plugins": [
+        "ChannelShift",
+        "ColorMap",
+        "ConvolutionFilter",
+        "Multiplier",
+        "Texer"
+    ]
+}

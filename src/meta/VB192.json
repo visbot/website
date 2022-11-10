@@ -1,0 +1,62 @@
+{
+    "name": "Tentacliism",
+    "id": "VB192",
+    "presets": [
+        {
+            "file": "Dynamic Duo/Tentacliism/01 dynamic duo - tentaclism (fake hboy rmx).avs",
+            "size": 3518,
+            "checksum": "sha256:433770da3f295d6813553a458eb3bdcd37f7429bdc886693ee44c8da97d4d0a3"
+        },
+        {
+            "file": "Dynamic Duo/Tentacliism/02 dynamic duo - tentaclism (sky of contempt mix by drew).avs",
+            "size": 3942,
+            "checksum": "sha256:2ad8ceda3c7c9a3c4700e9910f975ef064168c2a965625f1030634677bd37384"
+        },
+        {
+            "file": "Dynamic Duo/Tentacliism/03 dynamic duo - tentaclism (microdee's grandpa was a tentaclist).avs",
+            "size": 8932,
+            "checksum": "sha256:2ecb9512e05c308a1861516871d5233bb8d9a42e55915f8ec8b251292e55e2a1"
+        },
+        {
+            "file": "Dynamic Duo/Tentacliism/04 dynamic duo - tentaclism (cathode ray mix by onionring of doom).avs",
+            "size": 4609,
+            "checksum": "sha256:bae9bf3398c23589dfaa394e7fb64b9442115012f517c91bf56e9bf5275b10f1"
+        },
+        {
+            "file": "Dynamic Duo/Tentacliism/05 dynamic duo - chromatics (glowy mix by meaningless-existance).avs",
+            "size": 5301,
+            "checksum": "sha256:f70bceb1a522229182079e755250f3d5c56d2013b259ea76bd85d9c09ad52d33"
+        },
+        {
+            "file": "Dynamic Duo/Tentacliism/06 dynamic duo - tentaclism (midas remix).avs",
+            "size": 2820,
+            "checksum": "sha256:dc8f5d6c8ea0186f8398fbc4fa326d164a2f0e4f0577d6c34c3c282112def5a6"
+        },
+        {
+            "file": "Dynamic Duo/Tentacliism/07 dynamic duo - tentaclism (raz remix - ugly edit).avs",
+            "size": 2946,
+            "checksum": "sha256:1c20349c70719e5ace5a110f874c4f7e4d6e567e972fc47d0aa4af30da1942da"
+        },
+        {
+            "file": "Dynamic Duo/Tentacliism/08 dynamic duo - tentaclism (the y.m.o. rework #1).avs",
+            "size": 2303,
+            "checksum": "sha256:3a20c53a4015fac1b76764baf3c080b32cfc4c8d0244fd3b01e3fd92edc45f8c"
+        },
+        {
+            "file": "Dynamic Duo/Tentacliism/09 dynamic duo - tentaclism (kans of kansis mix by drew - edit).avs",
+            "size": 3474,
+            "checksum": "sha256:3099251d2ff3baf170160e91001f209256bd9f2d3a7862e6bbb6669f9ea328a4"
+        },
+        {
+            "file": "Dynamic Duo/Tentacliism/10 dynamic duo - tentaclism (yathoshos -himmel über metropolis- arrangement).avs",
+            "size": 5170,
+            "checksum": "sha256:e1c88feccb1c3f25dc11a35c868c38f4a146cb9e036fd61bc0d05e61d84f9a40"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter",
+        "FramerateLimiter",
+        "Normalise",
+        "Triangle"
+    ]
+}

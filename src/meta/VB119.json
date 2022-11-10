@@ -1,0 +1,30 @@
+{
+    "name": "CO-OP Session 11",
+    "id": "VB119",
+    "presets": [
+        {
+            "file": "CO-OP Sessions/CO-OP Session 11/a1 frames.of.reality - duvoil.avs",
+            "size": 3023,
+            "checksum": "sha256:7f88ca993dfcb69a6b1957d3a92a9713d3765876000e0b99d995c785727377f6"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 11/a2 ^..^ - dive in burning oil.avs",
+            "size": 4568,
+            "checksum": "sha256:5221bbe5c26378ba49c030ff788eb8e3325ebdceddf890ecbf67d40e125bcd87"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 11/b1 ^..^ - digitizing a postcard.avs",
+            "size": 4678,
+            "checksum": "sha256:8a012dc86964aa7b0e43312c32328b4e25387561791f4d291690ba919b13e777"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 11/b2 frames.of.reality - writing a letter about the unspeakable horrors of the digital fortress.avs",
+            "size": 6287,
+            "checksum": "sha256:96e541612b4fe38bc0a6439d3d5e571ddca79bd4566eae6c6b1b8b07f4c2b6ec"
+        }
+    ],
+    "plugins": [
+        "AddBorder",
+        "ConvolutionFilter"
+    ]
+}

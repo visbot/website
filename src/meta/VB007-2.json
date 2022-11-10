@@ -1,0 +1,37 @@
+{
+    "name": "LP7Rb",
+    "id": "VB007-2",
+    "presets": [
+        {
+            "file": "S_KuPeRS/S_KuPeRS - LP7Rb - VViVV/a01 - nemoorange - with your fear (remix).avs",
+            "size": 3462,
+            "checksum": "sha256:6c6d168eeab01efce966c85e046ebcbe066f84fc3f8fa28d752257b85ef5fb06"
+        },
+        {
+            "file": "S_KuPeRS/S_KuPeRS - LP7Rb - VViVV/a02 - duo - why i love you (pulsedriver remix).avs",
+            "size": 948,
+            "checksum": "sha256:91f46f7f40146477623a088c1ceb630e9a113f841e3c8c716e5c7931307a723a"
+        },
+        {
+            "file": "S_KuPeRS/S_KuPeRS - LP7Rb - VViVV/b01 - yathosho - broken pleasing (light).avs",
+            "size": 1533,
+            "checksum": "sha256:a7c5ba4e87dfd98109ab54a4b449fc05cf955b69020569087c33b02634cc3ce4"
+        },
+        {
+            "file": "S_KuPeRS/S_KuPeRS - LP7Rb - VViVV/b02 - degnic - spirit realm (plasmoid rmx).avs",
+            "size": 4478,
+            "checksum": "sha256:ca1506ca7a0d9194062b07fcd9f6eb71ea931e8deb8cdd04279879a27e612346"
+        }
+    ],
+    "assets": [
+        {
+            "file": "whacko6-07.bmp",
+            "size": 3422,
+            "checksum": "sha256:45c2072b0dcffc04ac87199392097c5debefaaac6000997da9f568094278155d"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter",
+        "MultiFilter"
+    ]
+}

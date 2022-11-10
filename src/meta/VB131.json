@@ -1,0 +1,46 @@
+{
+    "name": "whyEye.org grime 2",
+    "id": "VB131",
+    "presets": [
+        {
+            "file": "whyEye.org/whyEye.org grime 2/yiA1 wotl - got bones (yathosho's caries rework).avs",
+            "size": 2558,
+            "checksum": "sha256:9b78de7f27e00ad911a62af306555e9dd7cd0e79dcfc0ff68c19555d1361a16f"
+        },
+        {
+            "file": "whyEye.org/whyEye.org grime 2/yiA2 hboy - infiniti (yathosho's abstraction edit).avs",
+            "size": 5552,
+            "checksum": "sha256:a1598c3477c97b3d21651633a97128c1b1b24aa356e9357f2709a456c7617603"
+        },
+        {
+            "file": "whyEye.org/whyEye.org grime 2/yiA3 unconed - cartoon trip (yathosho's ddx-05 mix).avs",
+            "size": 4590,
+            "checksum": "sha256:bbdbc7ea2994f28edf3c38ad506e2c27f1cb3da9a33451f7764d2ecee1f84a6f"
+        },
+        {
+            "file": "whyEye.org/whyEye.org grime 2/yiB1 elvis - dreamtime (yathosho's dark water rework).avs",
+            "size": 12942,
+            "checksum": "sha256:1645ce18c6ca116cf8772e090f0455df2e38752f6f617c38bf85e0885e289a9d"
+        },
+        {
+            "file": "whyEye.org/whyEye.org grime 2/yiB2 frames.of.reality - divisions (yathosho's rusty springfields edit).avs",
+            "size": 4276,
+            "checksum": "sha256:111937b336d6fddfc3f5e19de50668a6ebe0bc4605a543c0262957983aab107f"
+        },
+        {
+            "file": "whyEye.org/whyEye.org grime 2/yiB3 kar-ma - dither (yathosho's alien breed rework).avs",
+            "size": 9015,
+            "checksum": "sha256:18a770d3e01be7b6696d4619eadae7e57eac57de082c9da2bf7e06c46c929a6f"
+        }
+    ],
+    "assets": [
+        {
+            "file": "hboy_texer_2.bmp",
+            "size": 30054,
+            "checksum": "sha256:15608b6525bcb0f5f79e73de4dd051e02f9a8bb183f6abcad0ddddd1de79393e"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

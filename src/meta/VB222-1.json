@@ -1,0 +1,29 @@
+{
+    "name": "whyEye.org final cut (edits)",
+    "id": "VB222-1",
+    "presets": [
+        {
+            "file": "whyEye.org/whyEye.org final cut (edits)/yiA1__birds (edit).avs",
+            "size": 2197,
+            "checksum": "sha256:7a3f03352d2310ada96458c3b4a5f6972c633f74263ab6f89178fe94911b772b"
+        },
+        {
+            "file": "whyEye.org/whyEye.org final cut (edits)/yiA2__vertigo (edit).avs",
+            "size": 2850,
+            "checksum": "sha256:8fbb1930582ec38d7020bd0efe15846cfdc566ea31931fd0b7f53b8451e75be0"
+        },
+        {
+            "file": "whyEye.org/whyEye.org final cut (edits)/yiB1__sokoban (edit).avs",
+            "size": 2103,
+            "checksum": "sha256:2a7e5e08d56a7a9908236a89d257a552bf9167ce54a71508f5c51c2f42b70fe8"
+        },
+        {
+            "file": "whyEye.org/whyEye.org final cut (edits)/yiB2__off keys (edit).avs",
+            "size": 2265,
+            "checksum": "sha256:394022d384c144cce8147edf3ce2ff08a8a685c5d242725f35c00eb6d82a38e8"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

@@ -1,0 +1,44 @@
+{
+    "name": "warping droplets in a cube EP",
+    "id": "VB237",
+    "presets": [
+        {
+            "file": "micro.D°/warping droplets in a cube/___hboy_paranormalcubus_mdrmx.avs",
+            "size": 17627,
+            "checksum": "sha256:acfe5fe35ac6a74d9ad873e79dc8feb48c31eaf1c4ca888d486d5dadd7db6474"
+        },
+        {
+            "file": "micro.D°/warping droplets in a cube/__pak-9_droplets_unconed_eruptionrmx_mdrmx.avs",
+            "size": 13774,
+            "checksum": "sha256:eae11796be796d457755f21b74c77af37c76910f69cb487a2c40d724659fd9a7"
+        },
+        {
+            "file": "micro.D°/warping droplets in a cube/_tuggummi_warp_mdrmx.avs",
+            "size": 8485,
+            "checksum": "sha256:db4ed49332a183ccd82bbfab5c68b6f886dedc55abab50027588503329d5cb4b"
+        }
+    ],
+    "assets": [
+        {
+            "file": "avsres_texer_circle_sharp_29x29.bmp",
+            "size": 3030,
+            "checksum": "sha256:2d057959257346e2b9a8922504ad51ff7d2608d6bd591659a7fa08d07406366a"
+        },
+        {
+            "file": "avsres_texer_circle_slightblur_23x23.bmp",
+            "size": 1710,
+            "checksum": "sha256:f422d35cde6b401866dbf5f43184a1effb3cedc599e912af1b8e9b17ca1af37e"
+        },
+        {
+            "file": "reGeneSys2.bmp",
+            "size": 66244,
+            "checksum": "sha256:fcd93670f08e3e8d3a23d8175257a8ea00fa8129a4171dfc0197d06eb74ef16d"
+        }
+    ],
+    "plugins": [
+        "ColorMap",
+        "ConvolutionFilter",
+        "Texer2",
+        "TransAuto"
+    ]
+}

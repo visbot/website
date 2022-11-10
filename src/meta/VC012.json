@@ -1,0 +1,166 @@
+{
+    "name": "VISBOT The Fourth Season",
+    "id": "VC012",
+    "presets": [
+        {
+            "file": "VISBOT/VC012 The Fourth Season/01 synth-c - fallbot.avs",
+            "size": 21468,
+            "checksum": "sha256:6c5a08571895890ab1ecbe801289da9768cf5f758d5c288e9d8fd4f9a0f67406"
+        },
+        {
+            "file": "VISBOT/VC012 The Fourth Season/02 amphirion - goodness.avs",
+            "size": 11948,
+            "checksum": "sha256:7797a4c8f8cd3c312ae76360ee7eec981a65e72c465a5b0e05dcf32a3b31481b"
+        },
+        {
+            "file": "VISBOT/VC012 The Fourth Season/03 nemo - scent.avs",
+            "size": 4742,
+            "checksum": "sha256:d4a476022c06c953861eb66ecc24102720559d8f1254afd266878af154db85e7"
+        },
+        {
+            "file": "VISBOT/VC012 The Fourth Season/04 frames.of.reality - transmission.avs",
+            "size": 3608,
+            "checksum": "sha256:8bda2dcd3fde029814cf12b65bee4a50b140ec6cbde9532fcef128a30f37bf68"
+        },
+        {
+            "file": "VISBOT/VC012 The Fourth Season/05 dynamic duo - kirschblüte zwei (seasons collapse remix by vanish).avs",
+            "size": 2181,
+            "checksum": "sha256:77a6f56e8c83d83fdff1a7c16099926908e4b98cf194a0a0c966a7321b8e500d"
+        },
+        {
+            "file": "VISBOT/VC012 The Fourth Season/06 les Noobiens - die neue elastik (nemo's lightiv remix).avs",
+            "size": 4658,
+            "checksum": "sha256:c183351ba7f6ffb3b5da7c52f8472a310ac5068b86e14e4f465c3865d0fd367d"
+        },
+        {
+            "file": "VISBOT/VC012 The Fourth Season/07 vanish - optical.avs",
+            "size": 2458,
+            "checksum": "sha256:b331fd7960743174e0804183a4d1c66965548cd19b9c24b4f3c083b9ce081c42"
+        },
+        {
+            "file": "VISBOT/VC012 The Fourth Season/08 nemo - the blueprint speaks (the sculptors edit by hboy).avs",
+            "size": 5018,
+            "checksum": "sha256:240d0c12955f391738532148a480ab6a69e3d2b8c43941b971f60e18a042da5c"
+        },
+        {
+            "file": "VISBOT/VC012 The Fourth Season/09 yathosho - got the bug (edit).avs",
+            "size": 2873,
+            "checksum": "sha256:e66d5152648d941f8ed0bb06b3f298238c1ab74f3a16dd0cbc04f562070c92d8"
+        },
+        {
+            "file": "VISBOT/VC012 The Fourth Season/10 hboy - when dreams awake (snayp remix by frames.of.reality).avs",
+            "size": 3809,
+            "checksum": "sha256:9f6549f1ecdbe8822f19b49bae41e6e9db201e0065bf6631693e22f4ad03cfdf"
+        },
+        {
+            "file": "VISBOT/VC012 The Fourth Season/11 frames.of.reality - venmix.avs",
+            "size": 3694,
+            "checksum": "sha256:cd63e8faac91b8649b5b086b8a86d98febe08b6f8bd6d7cad9314a2055fcc092"
+        },
+        {
+            "file": "VISBOT/VC012 The Fourth Season/12 zamuz - as fake as it gets.avs",
+            "size": 6544,
+            "checksum": "sha256:2fb0e68c2390ae5102639ae4b4f96a380b1bed45c21b8a8ce92dee00b9f3ab26"
+        },
+        {
+            "file": "VISBOT/VC012 The Fourth Season/13 amphirion - simplicity at its finest.avs",
+            "size": 3456,
+            "checksum": "sha256:fd62cf388f45587bca51544854884988f6607f0c9aa4e96bd72cc4864b9fc93e"
+        },
+        {
+            "file": "VISBOT/VC012 The Fourth Season/14 hboy - paranormality.avs",
+            "size": 17105,
+            "checksum": "sha256:e5dc3ce7728cf4c89796d0f33914b7c32454a8bc9df630cd249face410d00a0f"
+        },
+        {
+            "file": "VISBOT/VC012 The Fourth Season/15 synth-c - my steel dream.avs",
+            "size": 13650,
+            "checksum": "sha256:10666274c7f298a5dad0d3ee4fac5d3381f9c7dedbf365f2d6243b6b81e23e18"
+        },
+        {
+            "file": "VISBOT/VC012 The Fourth Season/16 nemo - focus.avs",
+            "size": 4545,
+            "checksum": "sha256:ef7a60aeb595b9937ead7281ec5ab389db8a80a1b59274489567fac8424a31cc"
+        },
+        {
+            "file": "VISBOT/VC012 The Fourth Season/17 frames.of.reality - blutlamp (the spanish remix).avs",
+            "size": 4043,
+            "checksum": "sha256:2340913fa442c2853991cf5a8ea109175aa16fe97e54a0219e013139ae1a000d"
+        },
+        {
+            "file": "VISBOT/VC012 The Fourth Season/18 amphirion - entangled (zamuz's neon slash remix).avs",
+            "size": 5304,
+            "checksum": "sha256:ace3d16fa790c0559bbd34a1bf9cd871f9ab43b9e65f15a3096f3c36323397a0"
+        },
+        {
+            "file": "VISBOT/VC012 The Fourth Season/19 dynamic duo - contraction.avs",
+            "size": 3204,
+            "checksum": "sha256:85de21b3d8e8f8da578d1fed2053c309517801b7514eafa2acbb797702cb731f"
+        },
+        {
+            "file": "VISBOT/VC012 The Fourth Season/20 vanish - shadow of 719.avs",
+            "size": 3721,
+            "checksum": "sha256:21a3954db4055395b38a5a0b3b896f204ce837eea9c85789dcb9b0c9da179817"
+        },
+        {
+            "file": "VISBOT/VC012 The Fourth Season/21 yathosho - off keys.avs",
+            "size": 2445,
+            "checksum": "sha256:643332b586c480063d77eeb2b6356c78a05c01298b3563a131e45ccf296e4d8d"
+        },
+        {
+            "file": "VISBOT/VC012 The Fourth Season/22 skupers - spin foam ii.avs",
+            "size": 5079,
+            "checksum": "sha256:1d03ff7be241cc9856649d03f38847378748d4e6f0282d87c3d7fdec7cc5c8ce"
+        },
+        {
+            "file": "VISBOT/VC012 The Fourth Season/23 hboy - gargoyles in the dark.avs",
+            "size": 1601,
+            "checksum": "sha256:0d697236ad4334c4c48425df7cb494d95b3470cffaad36fcc0573aae801e59ee"
+        }
+    ],
+    "assets": [
+        {
+            "file": "avsres_texer_circle_fade_15x15.bmp",
+            "size": 774,
+            "checksum": "sha256:e993d9035e0c88999abda7037e81440f63ee87e37709679de1f4416511be4551"
+        },
+        {
+            "file": "avsres_texer_circle_sharp_19x19.bmp",
+            "size": 1398,
+            "checksum": "sha256:31b87b361b89e60a8052e1c27af6a158a6e0ba4ba136076f2b98afe9958da848"
+        },
+        {
+            "file": "avsres_texer_circle_sharp_25x25.bmp",
+            "size": 2322,
+            "checksum": "sha256:e8d6d4c06b831887f398c7b8a59bec494f4806aec5f568dff3fb3f771e3d3ea7"
+        },
+        {
+            "file": "hexcyl.gvm",
+            "size": 13469,
+            "checksum": "sha256:534e93eb99fa058afbfd0d8e115e6be3b716bbf6e4543971f6ccbeb7c6c96567"
+        },
+        {
+            "file": "skupers_lp7_02.bmp",
+            "size": 10856,
+            "checksum": "sha256:aaeb13486d7082c888a556012a3ea574dc4c651b01510ae9722a1ce184f8fd03"
+        },
+        {
+            "file": "v6_circle.bmp",
+            "size": 2038,
+            "checksum": "sha256:a9e79d38dc140b11d79daa86c1060a6439fe2dc2d99e6e437f77b5b175b6379c"
+        },
+        {
+            "file": "visbot.gvm",
+            "size": 151319,
+            "checksum": "sha256:5477d9015f6faa3ad7ed72b6f5f7d1f28b850cda5c3ad3e0f7872e4e0a4e5533"
+        }
+    ],
+    "plugins": [
+        "AddBorder",
+        "ConvolutionFilter",
+        "GlobalVarMan",
+        "Normalise",
+        "TransAuto",
+        "Triangle"
+    ]
+}

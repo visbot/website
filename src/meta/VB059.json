@@ -1,0 +1,24 @@
+{
+    "name": "whyEye.org tintin on the moon",
+    "id": "VB059",
+    "presets": [
+        {
+            "file": "whyEye.org/whyEye.org tintin on the moon/yiA1__kombi revisited.avs",
+            "size": 1422,
+            "checksum": "sha256:56d66934b3c232b79b1f7dad26ff7decca2e88e4333fbdfd16bfdb17e0b2ad1f"
+        },
+        {
+            "file": "whyEye.org/whyEye.org tintin on the moon/yiA2__going up-n-down (spitze lakritze, yathosho!).avs",
+            "size": 2517,
+            "checksum": "sha256:f9d893bde8e5a31c21d77b3c9ef39dae14332d30501a5a7f01cd1d09adf0d7eb"
+        },
+        {
+            "file": "whyEye.org/whyEye.org tintin on the moon/yiB1__be square (les Noobiens early formula rework).avs",
+            "size": 2858,
+            "checksum": "sha256:df2d6a3baddbb1b2d82b3fe6a6a2044bf07bb9a3a274b2b48a33b89a4fa786a6"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

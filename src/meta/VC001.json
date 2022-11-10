@@ -1,0 +1,66 @@
+{
+    "name": "VISBOT The First Season",
+    "id": "VC001",
+    "presets": [
+        {
+            "file": "VISBOT/VC001 The First Season/duo__incantation_(skupers_remixed).avs",
+            "size": 3130,
+            "checksum": "sha256:d11d880ad75f4c6ecbda9c40650e8bda1b12b8fd12b4a33f40a013d9a4a56440"
+        },
+        {
+            "file": "VISBOT/VC001 The First Season/duo__semicubist.avs",
+            "size": 10141,
+            "checksum": "sha256:ad2cb6a4e15b975781dd96b8f94d14e1d10784ccd55e0ceb4f22c231e083ab74"
+        },
+        {
+            "file": "VISBOT/VC001 The First Season/dynamic_duo__curvaceous.avs",
+            "size": 1977,
+            "checksum": "sha256:8643990ed02e5366909678b55d29b243d341d0ebd3d66dcc46c0d9a95e3d38b9"
+        },
+        {
+            "file": "VISBOT/VC001 The First Season/dynamic_duo__random_anja_(yathosho_remixed).avs",
+            "size": 4479,
+            "checksum": "sha256:d68381c364be1b1d7dcb2188f28f7b1d4701b360bb8f26f1afa4f13aa964c4db"
+        },
+        {
+            "file": "VISBOT/VC001 The First Season/nemoorange__en_la_primavera.avs",
+            "size": 2368,
+            "checksum": "sha256:c0f0ded369533ae468c47b1bd18c23ebf13f8645021066de41083723b9870e27"
+        },
+        {
+            "file": "VISBOT/VC001 The First Season/nemoorange__miraculous_flow_(duo_remixed).avs",
+            "size": 2351,
+            "checksum": "sha256:bbe265d4a6f95d4a5562e725e35f7fdf8cb0da8c2c8a67ad9d87ae2b6e903606"
+        },
+        {
+            "file": "VISBOT/VC001 The First Season/skupers__the nights.avs",
+            "size": 2859,
+            "checksum": "sha256:f77b06c0e65583aca9c1c40c1f0f54cefe3e175829b2f6be8c92dc0fa8716caf"
+        },
+        {
+            "file": "VISBOT/VC001 The First Season/skupers__thinking_of_vietnam_(nemoorange_remixed).avs",
+            "size": 1879,
+            "checksum": "sha256:188b84c014c73bc88b02057a586aa46ca23a2d0a352918e5f6d21e2ab1337f6b"
+        },
+        {
+            "file": "VISBOT/VC001 The First Season/yathosho__hotel_garni.avs",
+            "size": 1468,
+            "checksum": "sha256:0bcbdfc2ac5db1446cb04b840adae695c46d41737caa747657edaad33e3c7c32"
+        },
+        {
+            "file": "VISBOT/VC001 The First Season/yathosho__knäck_en_dajm_njut.avs",
+            "size": 849,
+            "checksum": "sha256:fb64e6d60c99aa0e1e82ce8deeac710def952b95b1ed6b2ad987314c4adccda5"
+        }
+    ],
+    "assets": [
+        {
+            "file": "skupers_lp6_01.bmp",
+            "size": 776,
+            "checksum": "sha256:27bdda462dfec5cea6f702611fdc5df24255ae076c64fd214544b75561771339"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "name": "danaughty1 - who is da naughty one?",
+    "id": "VB097",
+    "presets": [
+        {
+            "file": "da-naughty-one/danaughty1 - who is da naughty one/a1 danaughty1 - it's da naughtilus (amphirion's sync remix).avs",
+            "size": 3519,
+            "checksum": "sha256:e9ead538ea043e8e9fa0247a473aa904e16bf899faf4cf5e9e7d948e7c052970"
+        },
+        {
+            "file": "da-naughty-one/danaughty1 - who is da naughty one/a2 danaughty1 - it's da naughtilus (yathosho's very british).avs",
+            "size": 2186,
+            "checksum": "sha256:66c8a44ee25834e334fcf3ac84ef1495c64665c88248634765ff73d34f9fe3fa"
+        },
+        {
+            "file": "da-naughty-one/danaughty1 - who is da naughty one/b1 danaughty1 - the taikonaught (amphirion's bruin remix).avs",
+            "size": 2545,
+            "checksum": "sha256:1727af22bd232f16916c2667b941711ddcf5005bebb2c23ddb1be805664eb723"
+        },
+        {
+            "file": "da-naughty-one/danaughty1 - who is da naughty one/b2 danaughty1 - super circuit (skupers' glamour remix).avs",
+            "size": 2936,
+            "checksum": "sha256:dedac556a21f2fc4df92c88e9a9225355cd135ee50c45a82b6f11c3628b2fc68"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

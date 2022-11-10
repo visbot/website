@@ -1,0 +1,36 @@
+{
+    "name": "amphirion - incipience (dynamic duo remixes)",
+    "id": "VB176",
+    "presets": [
+        {
+            "file": "amphirion - incipience (dynamic duo remixes)/A1 amphirion - wanlotus (dynamic duo rework).avs",
+            "size": 4941,
+            "checksum": "sha256:c91a471091ff8a2a5295c21eede8af1936f06d6fa25253e4bd61354ee61a0fb9"
+        },
+        {
+            "file": "amphirion - incipience (dynamic duo remixes)/A2 amphirion - gridlock (skupers highlighter remix - yathosho edit).avs",
+            "size": 2747,
+            "checksum": "sha256:950b4df7bfeb010f9c5b7b05daaf18c887818ad7dbd91d7c3f0e8ff39128070b"
+        },
+        {
+            "file": "amphirion - incipience (dynamic duo remixes)/B1 amphirion - string theory (yathosho dub).avs",
+            "size": 10709,
+            "checksum": "sha256:07cc9de572430c9dbc3f337d0ac23aa0d2c3357f7dcf3e92e08e95593202d68d"
+        },
+        {
+            "file": "amphirion - incipience (dynamic duo remixes)/B2 amphirion - can't touch this (dynamic duo rework).avs",
+            "size": 5182,
+            "checksum": "sha256:1afcce6b6b9ddff1db87eb43ac1077f30fa00370f459663943cae3996a887732"
+        }
+    ],
+    "assets": [
+        {
+            "file": "avsres_texer_circle_fade_11x11.bmp",
+            "size": 450,
+            "checksum": "sha256:f23cffc3b62ea97fd3bc32cb7107705a5ccdfe90c1c69ad950744f148b75d13f"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

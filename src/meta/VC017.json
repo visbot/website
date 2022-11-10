@@ -1,0 +1,131 @@
+{
+    "name": "VISBOT The least random number",
+    "id": "VC017",
+    "presets": [
+        {
+            "file": "VISBOT/VC017 The least random number/01 skupers - same old intro.avs",
+            "size": 5342,
+            "checksum": "sha256:d99cd00b08e7eb6e6db23f5339fe1bd878d367cb9d7ddce3bd06167ac694b692"
+        },
+        {
+            "file": "VISBOT/VC017 The least random number/02 zamuz - keep tryin'.avs",
+            "size": 19106,
+            "checksum": "sha256:0bf7a9a4faa7338c421c24156b085ec33f5ae5e2ae14d25bbe2118c9aaa734ba"
+        },
+        {
+            "file": "VISBOT/VC017 The least random number/03 hboy - ghost (framey's summer remix).avs",
+            "size": 3196,
+            "checksum": "sha256:10447b7342d7527b442a3ae2e07d1305aede55a47f5259865ee25790b66c0e60"
+        },
+        {
+            "file": "VISBOT/VC017 The least random number/04 synth-c - vorticity (brain activity remix by zamuz).avs",
+            "size": 17184,
+            "checksum": "sha256:6d86ac6b04cca52056e7b01f15fced84bb994ce3da489485a8a74b0d147556fc"
+        },
+        {
+            "file": "VISBOT/VC017 The least random number/05 skupers - dance of the seraphim (yathosho's city lights mix).avs",
+            "size": 6385,
+            "checksum": "sha256:37b9baa7230e0ac7ff17fb7e866c56a906392ba98d3136f4d3a69d17340a1bf3"
+        },
+        {
+            "file": "VISBOT/VC017 The least random number/06 framey - strike.avs",
+            "size": 5223,
+            "checksum": "sha256:ab721c5c37f7de13b520413aa7d02d5827552bd27a3a63fbb28a28d3e6381461"
+        },
+        {
+            "file": "VISBOT/VC017 The least random number/07 grandchild - elite-einheit (future).avs",
+            "size": 8460,
+            "checksum": "sha256:22fdef589dac5a068e8d638832bd0ee7a959525ff0cd002280fd814a9d5de420"
+        },
+        {
+            "file": "VISBOT/VC017 The least random number/08 synth-c - quantization.avs",
+            "size": 14803,
+            "checksum": "sha256:ce506f877fdc3e578a30f7b9f5e9d1b5ec4c4f360f7adeea1b230ec4aefc5bf1"
+        },
+        {
+            "file": "VISBOT/VC017 The least random number/09 yathosho - figure c edit.avs",
+            "size": 2948,
+            "checksum": "sha256:2663201989af842ff7817b8d398bd926d904ee10b3994e3753ce5728e24e0bc8"
+        },
+        {
+            "file": "VISBOT/VC017 The least random number/10 zamuz - wonder 'bout.avs",
+            "size": 34251,
+            "checksum": "sha256:555248fbe651c6ce8936b0c3a49a1c3e04121cb195aab097e5e501295c797c68"
+        },
+        {
+            "file": "VISBOT/VC017 The least random number/11 onionring - rabbit in your headlights.avs",
+            "size": 5926,
+            "checksum": "sha256:8547e4589466d4e769e19d558f784b9859a3a63879f5b44a783e320129151b8d"
+        },
+        {
+            "file": "VISBOT/VC017 The least random number/12 synth-c - gap the mind (circuit remix by grandchild).avs",
+            "size": 12510,
+            "checksum": "sha256:79fbf69822f68eb67380e1841479005e0dd4afdbfc5163701976917fbdaae575"
+        },
+        {
+            "file": "VISBOT/VC017 The least random number/13 synth-c - gap the mind.avs",
+            "size": 12583,
+            "checksum": "sha256:ff91312e1f5b2bf15adf9d91584d2cb773487fe93925270d8f445863044ef3d6"
+        },
+        {
+            "file": "VISBOT/VC017 The least random number/14 amphirion - in the burning (dynamic duo remix for 17).avs",
+            "size": 5020,
+            "checksum": "sha256:86796114779b722200a409e43447e990dda65dc229d02c5c07cf1263a1ea7f00"
+        },
+        {
+            "file": "VISBOT/VC017 The least random number/15 yathosho - fish-ly.avs",
+            "size": 7490,
+            "checksum": "sha256:7255e5b5579626d70c824bba0ec9a040e193cb3b0a7ce285bdc25ccce5d06e0e"
+        }
+    ],
+    "assets": [
+        {
+            "file": "_synth_dotfog16.bmp",
+            "size": 1334,
+            "checksum": "sha256:11c952987367dc8cb10d580873d90d34180b141d289664177088636e35c92d95"
+        },
+        {
+            "file": "v4_texer7.bmp",
+            "size": 1954,
+            "checksum": "sha256:49b6458d62c8f9687fefe109e1891166da70448e4eba3006067f948662a46a76"
+        },
+        {
+            "file": "v5_square.bmp",
+            "size": 1254,
+            "checksum": "sha256:2e3dc3d7cec32c7a2091c638f46cf70b9b01974ebcf0558ba3edc8e67b29b065"
+        },
+        {
+            "file": "vb.bmp",
+            "size": 145254,
+            "checksum": "sha256:92479458ed7967973cccc27666c5192a2cf8a9f5b526dacba4c3fc907a3bdad4"
+        },
+        {
+            "file": "yi-fish_left.bmp",
+            "size": 3896,
+            "checksum": "sha256:34ca08936c1d263325ac1d1fbe428b4c16cb426842c298666713f844889985c3"
+        },
+        {
+            "file": "yi-fish_right.bmp",
+            "size": 1836,
+            "checksum": "sha256:69d382ceb7706e93069c8b28b6f1af4e7a58f9875a78129f7fa3f791286b3c97"
+        },
+        {
+            "file": "yi-fishy_left.bmp",
+            "size": 764,
+            "checksum": "sha256:f80fcc272a46705c4a888cadbdf0d5d339f63ed49fdfb43a8d68c1bf1990b6ae"
+        },
+        {
+            "file": "yi-fishy_right.bmp",
+            "size": 1236,
+            "checksum": "sha256:57d2eeb5b29db40f69e8ffa1eb49245f7c9af8becf918f567e61c1f5fa4f6996"
+        }
+    ],
+    "plugins": [
+        "BufferBlend",
+        "ConvolutionFilter",
+        "FramerateLimiter",
+        "GlobalVarMan",
+        "TransAuto",
+        "Triangle"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "name": "whyEye.org since when pt. 1",
+    "id": "VB065-1",
+    "presets": [
+        {
+            "file": "whyEye.org/whyEye.org since when/yiA1 yathosho__dynamix 2 (early version).avs",
+            "size": 2044,
+            "checksum": "sha256:6719aa3b4843e5240bebaaf6c40ddd4c190a5cc552d8d69659a49c388852b511"
+        },
+        {
+            "file": "whyEye.org/whyEye.org since when/yiA2 yathosho__bitasweet (light).avs",
+            "size": 1805,
+            "checksum": "sha256:0c16a184e9e2f3a6a36cc46e24c644dc18a37d901c2d694eb1e4afbb9997a61c"
+        },
+        {
+            "file": "whyEye.org/whyEye.org since when/yiB1 frames of reality__venmia (yathosho's waikiki v.i.p. design).avs",
+            "size": 2058,
+            "checksum": "sha256:d827526bde4a34adfb973e4ca28826d17c181bcf765dbf765a1fb6fc9d7530a2"
+        },
+        {
+            "file": "whyEye.org/whyEye.org since when/yiB2 yathosho__pullin' out these new bricks (les Noobiens rework).avs",
+            "size": 1797,
+            "checksum": "sha256:8c6faa63637c903774115cdd115fa3cc0d99294cce5ac7ba4b312c249a768716"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

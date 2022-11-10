@@ -1,0 +1,124 @@
+{
+    "name": "duo envision 3",
+    "id": "VB015-3",
+    "presets": [
+        {
+            "file": "duo/duo envision 3/e300 - duo - e n v i s i o n 3.avs",
+            "size": 3456,
+            "checksum": "sha256:baf6757cfd9405dc988e1b215439b989af29c00dac53b1e682cf78e72aa18cc2"
+        },
+        {
+            "file": "duo/duo envision 3/e301 - duo - hyperthreading.avs",
+            "size": 5785,
+            "checksum": "sha256:9eec37ae2376313efc1f825cdf8391662da2d52b648f1cb5aeefdfd346400e27"
+        },
+        {
+            "file": "duo/duo envision 3/e302 - duo - milky wave.avs",
+            "size": 1463,
+            "checksum": "sha256:c2de0dae8a861355e267ae8850d7403c6062388b91f8a631fe0f1802b5ceeb4a"
+        },
+        {
+            "file": "duo/duo envision 3/e303 - duo - up the block.avs",
+            "size": 2093,
+            "checksum": "sha256:aefa5a162fbcd5f2c9bc882d35b6c78791614a6622c9ba22254cd37fe6c68a76"
+        },
+        {
+            "file": "duo/duo envision 3/e304 - duo - neurogenesis.avs",
+            "size": 1633,
+            "checksum": "sha256:ff1221ea653cfd6f09682d60fba26a6347a4635f4e95ac2a69ba873af42d29a2"
+        },
+        {
+            "file": "duo/duo envision 3/e305 - duo - warm freeform.avs",
+            "size": 1054,
+            "checksum": "sha256:e1010684bf90c6cdcf833adf49a04b9383b05469fe7c913873a286b25964f4fd"
+        },
+        {
+            "file": "duo/duo envision 3/e306 - duo - fall from grace.avs",
+            "size": 1459,
+            "checksum": "sha256:a62479529289408b8fe0eaff6e258fa86f0c857cb50321d703867e38c7fc2da0"
+        },
+        {
+            "file": "duo/duo envision 3/e307 - duo - destination unknown 2.avs",
+            "size": 2021,
+            "checksum": "sha256:6b90b6c796e7d652ec0ae5dcb6bd16f08ad1965271dedfeb3ebf0acbd1338cb0"
+        },
+        {
+            "file": "duo/duo envision 3/e308 - duo - semicubist.avs",
+            "size": 10122,
+            "checksum": "sha256:827134ec4e1b1865919845b92117d8c9c3190192c93472f71b02d61beb3a3376"
+        },
+        {
+            "file": "duo/duo envision 3/e309 - duo - cardiac compression.avs",
+            "size": 1950,
+            "checksum": "sha256:b35a8c2fbcd56294780d888348ae935a2a9b340f5f0cc84b3bff414b66e43167"
+        },
+        {
+            "file": "duo/duo envision 3/e310 - duo - sun gazing.avs",
+            "size": 1841,
+            "checksum": "sha256:37a4ae08859268a9df3d94bc81716cc36880094890eb08d3acd22d086c3ec549"
+        },
+        {
+            "file": "duo/duo envision 3/e311 - duo - phonic formation.avs",
+            "size": 6454,
+            "checksum": "sha256:41a9e0609f5329b1fc7c233008e5e1ef4da11a4f26ac52985e592f503a98df98"
+        },
+        {
+            "file": "duo/duo envision 3/e312 - duo - relaxant.avs",
+            "size": 1520,
+            "checksum": "sha256:bc74fccffc2c328aefeec088190109191efb6cb0bd8d139eacb1d59d3e46246e"
+        },
+        {
+            "file": "duo/duo envision 3/e313 - duo - bend the rainbow.avs",
+            "size": 1227,
+            "checksum": "sha256:299b80d291f7dccc54816a8cd16d42b1feb554a6c84da9533ac022a444f91515"
+        },
+        {
+            "file": "duo/duo envision 3/e314 - duo - life as a cube.avs",
+            "size": 7473,
+            "checksum": "sha256:c351ef51dc7665d7c1bec685b83665e0ca02713727fe14d51033991e1cd01605"
+        },
+        {
+            "file": "duo/duo envision 3/e315 - duo - breeding ground.avs",
+            "size": 1263,
+            "checksum": "sha256:98d26bf78a576e432bf5c9d69140297d9e88d8b2b9645bd2d9f884685ce4899c"
+        },
+        {
+            "file": "duo/duo envision 3/e316 - duo - swamp fever.avs",
+            "size": 1096,
+            "checksum": "sha256:1f0604ac99a39293e3fd57a5caec67da49e98d3c4f249b0d7d4f2c911cc94fa3"
+        },
+        {
+            "file": "duo/duo envision 3/e317 - duo - oxygenate.avs",
+            "size": 1210,
+            "checksum": "sha256:041e64c7ae610f7c09f3c821a4d4795c36eef8b9ddfdd90dd711517b937e4d7a"
+        },
+        {
+            "file": "duo/duo envision 3/e318 - duo - paradox.avs",
+            "size": 1620,
+            "checksum": "sha256:97624a8a04cd38f34f55c2e9bef0c1fe076fafe7906065bddd37bc753cf80562"
+        },
+        {
+            "file": "duo/duo envision 3/e319 - duo - alien intercourse 4.avs",
+            "size": 1502,
+            "checksum": "sha256:b1b116a8e4f6e67171c007b035bc9a9a5011413bbfc7cf40665338725aa416e2"
+        },
+        {
+            "file": "duo/duo envision 3/e320 - duo - malevolent creation.avs",
+            "size": 2315,
+            "checksum": "sha256:e26cd305ebbf82caf2d4c6dd28f563ac7e39dc6bd0f0f268117aabdc0e9ff316"
+        },
+        {
+            "file": "duo/duo envision 3/e321 - duo - conjuring.avs",
+            "size": 2255,
+            "checksum": "sha256:fe3c1f7db2ef3bd02177d1a7b30864c4e21ef838cc9e2a1ee82ebb8b85bb1d08"
+        }
+    ],
+    "assets": [
+        {
+            "file": "e3_01.bmp",
+            "size": 4856,
+            "checksum": "sha256:d98404686955dbae9adc3e726dbeba9666b871f3b359da6406efbfbe9ad0a84f"
+        }
+    ],
+    "plugins": []
+}

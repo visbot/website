@@ -1,0 +1,100 @@
+{
+    "name": "VISBOT Smells, Bells and Presets",
+    "id": "VC014",
+    "presets": [
+        {
+            "file": "VISBOT/VC014 Smells, Bells and Presets/01 vanish - tiled layers.avs",
+            "size": 2035,
+            "checksum": "sha256:737204a866ad0bbeb5c126516fabfb52122fc9925381c276a3c4298aec9c7c62"
+        },
+        {
+            "file": "VISBOT/VC014 Smells, Bells and Presets/02 zamuz - clothing lines.avs",
+            "size": 2300,
+            "checksum": "sha256:c35e9eb5aa9e6509ed9fcc39476c9546d0435f5528557804313cdeae2546880c"
+        },
+        {
+            "file": "VISBOT/VC014 Smells, Bells and Presets/03 frames-of-reality - the haunt for dreams.avs",
+            "size": 4233,
+            "checksum": "sha256:8bfba5c0331b5980e4670cab31541284e0b8452bf05d4766f42f50bbdab02a10"
+        },
+        {
+            "file": "VISBOT/VC014 Smells, Bells and Presets/04 synth-c - followflow.avs",
+            "size": 15070,
+            "checksum": "sha256:093547a802bef0aae9dc4eac817ae14b514e608ce67b191be51b07dd51c246dd"
+        },
+        {
+            "file": "VISBOT/VC014 Smells, Bells and Presets/05 nemo - lyric.avs",
+            "size": 3527,
+            "checksum": "sha256:c6c53b645d50fbfa31e35fe0c0a782f6fff85568bec9d3adc2aaf021b026e096"
+        },
+        {
+            "file": "VISBOT/VC014 Smells, Bells and Presets/06 skupers - curlicuelicious (zamuz connects the dots).avs",
+            "size": 5864,
+            "checksum": "sha256:6d8214fc1383dba1e353cd29aefa2edf9d2dbb6e89dcb8c73e220338f390dc2d"
+        },
+        {
+            "file": "VISBOT/VC014 Smells, Bells and Presets/07 vanish - i am your oracle.avs",
+            "size": 3849,
+            "checksum": "sha256:3dae002e7f026b8fa22bcefdf3b642ebe7e9dea6fba6b776dba82ef7dbf147be"
+        },
+        {
+            "file": "VISBOT/VC014 Smells, Bells and Presets/08 yathosho - beyond beyond (grandchild edit).avs",
+            "size": 3909,
+            "checksum": "sha256:48098810328779e742d04d6f66a1dcbc43c0d30bd3fa6975e20d32d18c6ca2bf"
+        },
+        {
+            "file": "VISBOT/VC014 Smells, Bells and Presets/09 frames-of-reality - lip invertion.avs",
+            "size": 3699,
+            "checksum": "sha256:6cd29a37722f3402227a360ec6742f8551491c249641c298168bea280967c386"
+        },
+        {
+            "file": "VISBOT/VC014 Smells, Bells and Presets/10 skupers - curvism (kurvusmus mix by frames-of-reality).avs",
+            "size": 4547,
+            "checksum": "sha256:96dfeac9f82592ffb0ed0eb66ea00d2e51a261ef671869a38045c9272898f0d7"
+        },
+        {
+            "file": "VISBOT/VC014 Smells, Bells and Presets/11 vanish - sorry, we've been fcuked (clear version).avs",
+            "size": 3743,
+            "checksum": "sha256:284cd2f2551640cdcc8b2095f172a3b014d4f4ecd12e20fc79ebd6c696f1e3a5"
+        },
+        {
+            "file": "VISBOT/VC014 Smells, Bells and Presets/12 synth-c - cymatics.avs",
+            "size": 11331,
+            "checksum": "sha256:cbabd485c0204d2c3cdb1c669505d05ea20658773a32297e9210d8ec0c6dec58"
+        },
+        {
+            "file": "VISBOT/VC014 Smells, Bells and Presets/13 zamuz - all the time.avs",
+            "size": 7494,
+            "checksum": "sha256:c5ac91240ddcb041e2806a9052a98c613d4fa1763e48445b84f9f32c2a09b809"
+        }
+    ],
+    "assets": [
+        {
+            "file": "aaa32.bmp",
+            "size": 2102,
+            "checksum": "sha256:083608be1d5fdc219497774b7f68df9fc8c3b779dcb8b0876ecdb9254f0674a8"
+        },
+        {
+            "file": "v4_texer7.bmp",
+            "size": 1954,
+            "checksum": "sha256:49b6458d62c8f9687fefe109e1891166da70448e4eba3006067f948662a46a76"
+        },
+        {
+            "file": "v6_circle.bmp",
+            "size": 2038,
+            "checksum": "sha256:a9e79d38dc140b11d79daa86c1060a6439fe2dc2d99e6e437f77b5b175b6379c"
+        },
+        {
+            "file": "whacko6-07.bmp",
+            "size": 3422,
+            "checksum": "sha256:45c2072b0dcffc04ac87199392097c5debefaaac6000997da9f568094278155d"
+        }
+    ],
+    "plugins": [
+        "AddBorder",
+        "ConvolutionFilter",
+        "GlobalVarMan",
+        "TransAuto",
+        "Triangle"
+    ]
+}

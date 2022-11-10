@@ -1,0 +1,187 @@
+{
+    "name": "Dynamic Movement 5",
+    "id": "VD005",
+    "presets": [
+        {
+            "file": "Dynamic Duo/Dynamic Movement 5/01 dynamic duo - in movement (edit).avs",
+            "size": 3840,
+            "checksum": "sha256:b66e5c5ea2aff4410194718069ac85c0e9139f25326f1dacb88ee175b0299d28"
+        },
+        {
+            "file": "Dynamic Duo/Dynamic Movement 5/02 hboy & vanish - constructions (yathosho's steam chamber mix).avs",
+            "size": 3398,
+            "checksum": "sha256:61db0bb4d09470a7e6e3570b29a3dd667d995393612e91cb2347095a1435c93d"
+        },
+        {
+            "file": "Dynamic Duo/Dynamic Movement 5/03 frames.of.reality - somewhere between the legs of a hooker.avs",
+            "size": 6697,
+            "checksum": "sha256:b0b1d34d6f968ba36e5babb61a17ba7272d4606c9d36b8d706b571772a62b4df"
+        },
+        {
+            "file": "Dynamic Duo/Dynamic Movement 5/04 avs-king - fill my head with poison (dynamic duo re-edit).avs",
+            "size": 2364,
+            "checksum": "sha256:0b6d8c502bc1d5fc6b3cf82457d3f09675000364a223335f55d703e93ac7b976"
+        },
+        {
+            "file": "Dynamic Duo/Dynamic Movement 5/05 hboy - the inner galaxy (edit).avs",
+            "size": 7386,
+            "checksum": "sha256:4fbbc234292ecccce4dc2d501447bbafc747ebe6aa7d3607efc3335ab776d20f"
+        },
+        {
+            "file": "Dynamic Duo/Dynamic Movement 5/06 pure-krypton - midnight (zamuz's girls in the streets remix).avs",
+            "size": 7655,
+            "checksum": "sha256:e0eaf1dc95d382567b1059eba476c3d3e1e2cede01a27ec2e1d4b4cf041f1cdc"
+        },
+        {
+            "file": "Dynamic Duo/Dynamic Movement 5/07 jjcl237 - ramdonly (yathosho's wet paint rework).avs",
+            "size": 4859,
+            "checksum": "sha256:6f7a8b8f5d15c4688bebc00f74fb266173102407cd615ac25434216f440fa39c"
+        },
+        {
+            "file": "Dynamic Duo/Dynamic Movement 5/08 dynamic duo - ny.avs",
+            "size": 1997,
+            "checksum": "sha256:2028d632f575eef99d25a28f5030df5bf9c0d26a428ac7a65991f27b8213acb7"
+        },
+        {
+            "file": "Dynamic Duo/Dynamic Movement 5/09 frames.of.reality - asfgs (yathosho's untitled raster mix).avs",
+            "size": 3248,
+            "checksum": "sha256:20210c67ffb16e64a33504c5472923c73c880c4aee8f5df66021d180a7dbfeba"
+        },
+        {
+            "file": "Dynamic Duo/Dynamic Movement 5/10 vanish - through the eyes of hypocrisy (dynamic duo re-rub).avs",
+            "size": 3030,
+            "checksum": "sha256:30317eb7adf3c085ce349b2b2af0a5762b9ac7ba4eb4cb66de1deb63285e83c9"
+        },
+        {
+            "file": "Dynamic Duo/Dynamic Movement 5/11 zamuz - bumpy carpet (dynamic duo's photon redesign re-re-edit).avs",
+            "size": 3391,
+            "checksum": "sha256:cc666ca45d6ff14ff0349e9bc76c4c8c561e11c68bd8234221856ba95f960e85"
+        },
+        {
+            "file": "Dynamic Duo/Dynamic Movement 5/12 el-vis - dreamtime (frames-of-reality alpha zone remix).avs",
+            "size": 11756,
+            "checksum": "sha256:352feb5cbe6b53567cda1358f6653cda5b2d3d5c9d92d8d112107a8bebda3ad8"
+        },
+        {
+            "file": "Dynamic Duo/Dynamic Movement 5/13 avs-king - rhcp (yathosho GIFs it up!).avs",
+            "size": 1797,
+            "checksum": "sha256:6127ccf4a731fcb87a42ea424525ceb737571ad41e15cafde408612720e1fda8"
+        },
+        {
+            "file": "Dynamic Duo/Dynamic Movement 5/14 viskey - wash the screen (ya-tho-sho rework).avs",
+            "size": 4366,
+            "checksum": "sha256:4208741ee710a524a23d25a04735bdf640c7565750c58c5d59a008319826a2a0"
+        },
+        {
+            "file": "Dynamic Duo/Dynamic Movement 5/15 dynamic duo - honeybunch.avs",
+            "size": 3111,
+            "checksum": "sha256:f0ea21e7c7a068b21c4d20a787100918b1a4dbae5509973419fe0d3851653b8f"
+        },
+        {
+            "file": "Dynamic Duo/Dynamic Movement 5/16 yathosho - interieur (ya-tho-sho rework).avs",
+            "size": 3124,
+            "checksum": "sha256:0cb5fdd518e4f1fc8512f410d8876f325bdb6ac2cc65b277c52b644a29875b2e"
+        },
+        {
+            "file": "Dynamic Duo/Dynamic Movement 5/17 hboy - seekers (yathosho rework #1).avs",
+            "size": 4313,
+            "checksum": "sha256:dd4a8f27c7571cabbc2ba85f33535ee272f44e55a1ca681084d14b8c9f846bd2"
+        },
+        {
+            "file": "Dynamic Duo/Dynamic Movement 5/18 zamuz - flame concept.avs",
+            "size": 4636,
+            "checksum": "sha256:23dbb82e8106f5f4e12b0e7c31672b6068921a31f8f8585fbb2876348117d64b"
+        },
+        {
+            "file": "Dynamic Duo/Dynamic Movement 5/19 zamuz - urban metallic (dynamic duo rework).avs",
+            "size": 2810,
+            "checksum": "sha256:882fc8e9610b3b338cac447d317add5c3ed00ac9b021396b38ac13ac1bd63552"
+        },
+        {
+            "file": "Dynamic Duo/Dynamic Movement 5/20 frames.of.reality - escarte (blackhole remix by zamuz).avs",
+            "size": 4783,
+            "checksum": "sha256:73b29b91317b03966ae743650141bf0674afdf379431073b7ce075c8c089beb9"
+        },
+        {
+            "file": "Dynamic Duo/Dynamic Movement 5/21 shock value - activation energy (dynamic duo rework).avs",
+            "size": 5111,
+            "checksum": "sha256:6a5a654218d98d08618eae9deda3d1dd470d2c7fd7bef88146f531bbeb92f3e3"
+        },
+        {
+            "file": "Dynamic Duo/Dynamic Movement 5/22 yathosho - mobilee (da naughty's re-rub).avs",
+            "size": 2881,
+            "checksum": "sha256:267a05d8f42c68c346d8adc662bda35eea4f11a570ca6bec71cc664b438e80fb"
+        },
+        {
+            "file": "Dynamic Duo/Dynamic Movement 5/23 shylent - restless ribbon (yathosho's re-fusion).avs",
+            "size": 3667,
+            "checksum": "sha256:cf5f9fbf63c090a18e11aa638ac9ba3a2611f5c7580547efe7063314d45de899"
+        },
+        {
+            "file": "Dynamic Duo/Dynamic Movement 5/24 dynamic duo - kinematics (ya-tho-sho alternate treatment).avs",
+            "size": 3757,
+            "checksum": "sha256:02a52807983051b86e37e5db98f805584baeb48c638777d4da7f35f83d18e479"
+        }
+    ],
+    "assets": [
+        {
+            "file": "avsres_texer_circle_heavyblur_25x25.bmp",
+            "size": 1954,
+            "checksum": "sha256:628fcd6f3794a85c8ddb61ef90ad3b9a3054eaa568470e582897e72ba92dcb10"
+        },
+        {
+            "file": "avsres_texer_circle_heavyblur_29x29.bmp",
+            "size": 2606,
+            "checksum": "sha256:f774cf10d56275d629f321163dbc610fee02b0e892c9065b0931564240bf078d"
+        },
+        {
+            "file": "avsres_texer_square_fade_20x20.bmp",
+            "size": 1254,
+            "checksum": "sha256:41e8ce9d114036123e4ce350e6a51b9df335efb751eabd94a3b6af39c646779d"
+        },
+        {
+            "file": "avsres_texer_square_sharp_04x04.bmp",
+            "size": 246,
+            "checksum": "sha256:2e3156b4b05df497d7450b7869f6b547799d8799e9a23c7ba736fd4ff3bc8717"
+        },
+        {
+            "file": "Shreyas-IV-01 resized.bmp",
+            "size": 17156,
+            "checksum": "sha256:3382c771e3d3a376253a849684de6a299dbfe67ae96c84e236bbb8269db416f7"
+        },
+        {
+            "file": "vb.bmp",
+            "size": 145254,
+            "checksum": "sha256:92479458ed7967973cccc27666c5192a2cf8a9f5b526dacba4c3fc907a3bdad4"
+        },
+        {
+            "file": "viskey_texer(combinded_grad2).bmp",
+            "size": 3590,
+            "checksum": "sha256:d5de71373d96c0361c711997f2ffe160d2670f98bfef6945aa0a50b40d4ac116"
+        },
+        {
+            "file": "Silkscreen_Bold.ttf",
+            "size": 16172,
+            "checksum": "sha256:cecab42faa04cfc5d5f647ead30d3dbd099468b412300c8a94e5612a76052034"
+        },
+        {
+            "file": "Silkscreen_Expanded_Bold.ttf",
+            "size": 16276,
+            "checksum": "sha256:698eac3062b43638b361660bdb096707b09df13bbf084c4dc95b177a8aa83a7b"
+        },
+        {
+            "file": "Silkscreen_Expanded.ttf",
+            "size": 18444,
+            "checksum": "sha256:1204e736ae72865f861e49396d5313f448357983e9c61d8c0110cd2cdefca9d4"
+        },
+        {
+            "file": "Silkscreen.ttf",
+            "size": 18336,
+            "checksum": "sha256:201df110e8dd8f19da40e5ad953b25bcac34dcb1bd14c7b8e02c9ce0b5ac0ca3"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter",
+        "GlobalVarMan"
+    ]
+}

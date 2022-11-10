@@ -1,0 +1,539 @@
+{
+    "name": "VISBOT 100",
+    "id": "VB100",
+    "presets": [
+        {
+            "file": "VISBOT/VISBOT 100/001 duo - phonic formation.avs",
+            "size": 6454,
+            "checksum": "sha256:41a9e0609f5329b1fc7c233008e5e1ef4da11a4f26ac52985e592f503a98df98"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/002 framesofreality - phbx.avs",
+            "size": 3600,
+            "checksum": "sha256:aff8f01d26df1a86187c6e4b341a6e3d8fd94bda6ff49b8aeb38427ad8a60014"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/003 a3 - betatester.avs",
+            "size": 2322,
+            "checksum": "sha256:bc05ac34805a4396a0c8189804d332f0fc505a0b0e12a4ec153ee607217984ee"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/004 les Noobiens - spectrum holobyte (2004 rework).avs",
+            "size": 1751,
+            "checksum": "sha256:13abf702d2b377410d2bd43104e998d419166d5722c4d5aa966f061d366e23cb"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/005 nemo - balloons.avs",
+            "size": 39102,
+            "checksum": "sha256:94317895dbd9a6bde401024ab919493abba858ea780ed86a59011ed2190f3ce3"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/006 zamuz - bumpy carpet (les Noobiens still-not-it remix).avs",
+            "size": 2100,
+            "checksum": "sha256:c162570ea02ddcb5d32beab8689b8b1a64bc0c0b1216853a76b45bdf46193a3f"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/007 shock value - einstein on drugs.avs",
+            "size": 3733,
+            "checksum": "sha256:502131be976c3d5cdcee859ee60f6796d373ba8cd89c9ebc5246db7828c3afcd"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/008 skupers - art retro.avs",
+            "size": 4246,
+            "checksum": "sha256:e0b37564fa37b224cc46f8186e2c8c2f5a03f844914cd725eef60e0bb5022c81"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/009 amphirion - nebulous.avs",
+            "size": 1504,
+            "checksum": "sha256:8281fc4a7f0fcfec57e1f81ee9d2fcd8c6366b78d6a2f94a4c9b51c81452bfaa"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/010 p-k - i-candy wurx.avs",
+            "size": 2830,
+            "checksum": "sha256:402841f7e9b3c641ce56235a4d481f56a3f1c35ece1fceb4d85d5c0b1d8d94ea"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/011 yathosho - bitasweet (framesofreality bit for bit mix).avs",
+            "size": 2987,
+            "checksum": "sha256:6282b655f9f9e697b15c6eb4a7ab0f04d2d93059fff498251d1ee6c59caea719"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/012 zamuz - metallic shades (skupers buys new sunglasses rmx).avs",
+            "size": 4736,
+            "checksum": "sha256:b04dbe899184d819155c439f835afdd6cfab665c258c87060b3352767bd2fa5c"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/013 dynamic duo - curvaceous part 2.avs",
+            "size": 2208,
+            "checksum": "sha256:b41e0bd7c2a6449793a101238e2bd7113598eee12648210636d2c3562a7e59cd"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/014 nemo - bloodlines.avs",
+            "size": 1504,
+            "checksum": "sha256:fd9b15899f129f1e91f69eb45b7e5a3278b7958c492e7e819438da34963819c4"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/015 synth-c - iced.avs",
+            "size": 2635,
+            "checksum": "sha256:a492781c0e0b40dfa58ecae4b8162ceba44d4b4b329487a68acddd6946326556"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/016 a3 - underwater (frames of reality edit).avs",
+            "size": 2811,
+            "checksum": "sha256:c36d1300cccd2a80713a1c7216060a0e274bff1d3584d4c8cbe10e04c43216b5"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/017 duo - up the block.avs",
+            "size": 2093,
+            "checksum": "sha256:aefa5a162fbcd5f2c9bc882d35b6c78791614a6622c9ba22254cd37fe6c68a76"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/018 skupers - numeric djs mixing your sound.avs",
+            "size": 4413,
+            "checksum": "sha256:e2d81d61c99537f1de37c6633dd0bf85d0e0ee70ad9aee9acf64f99b3eedaa42"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/019 shock value - ghostly eye.avs",
+            "size": 20642,
+            "checksum": "sha256:fcd5f032f71e80c90bda2276351430433f50401fa14ac805a0f1a0b755e0c0ea"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/020 danaughty1 - it's da naughtilus (zamuz's dr. greenthumb mix).avs",
+            "size": 2493,
+            "checksum": "sha256:7180177d1a4ab518a2897ec40c4996417244226a0c04cb6bcbcfe7ca2679b035"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/021 amphirion - string theory.avs",
+            "size": 9071,
+            "checksum": "sha256:79b9747a6a9eeedb80415c511cb52385c5fecc89dd2bef24555b760c944b1273"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/022 framesofreality - vialentia.avs",
+            "size": 2534,
+            "checksum": "sha256:91a6b858ca56b9feb08fae92b1bd91adff2e6efbf20e29cff1458242c3bfb07e"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/023 zamuz - big bang.avs",
+            "size": 1622,
+            "checksum": "sha256:5afefec63fd0c62f56c04561cae803eb32ca6b0de60db0fd13a7f1c9ea35e561"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/024 duo - dye in water.avs",
+            "size": 2209,
+            "checksum": "sha256:8dc5cd744749a423bcf327a4b9dc92f5fef300118ea39ac8757380428c865104"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/025 nemo - visiting.avs",
+            "size": 1880,
+            "checksum": "sha256:329d08f458e3fe2797483d0f72436dce1bfd70510c881a6dfe5b8f8b38382843"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/026 les Noobiens - sci-fi 1920s (pan am rework).avs",
+            "size": 719,
+            "checksum": "sha256:ead6ccb8a0dd6f648805241565aa622409465d11ac7faf9b2bb4230c175cf48a"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/027 skupers - mono (yathosho returnz).avs",
+            "size": 1379,
+            "checksum": "sha256:1907e31c6868bf619bfcbc4d614dcaa4ed1fc22fc243d878c339e94dc270ee4e"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/028 duo - miraculous flow.avs",
+            "size": 1197,
+            "checksum": "sha256:f22e9e239ef9c05035f515597b3e10ccba135009e4ad4f476f95f53165754fab"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/029 dynamic duo - pit.avs",
+            "size": 2646,
+            "checksum": "sha256:1a8ff4cf71d6a1c4b8451a567a25423dafbe923587bdddf062f4b0b31ff12b56"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/030 danaughty1 - cascade.avs",
+            "size": 2344,
+            "checksum": "sha256:e11afc6fd1d126c87289ea4d9a8e53dfe95b2908b8be307994b164ad0bf632a5"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/031 yathosho - 2phuture (part two).avs",
+            "size": 1734,
+            "checksum": "sha256:d3bc6bc0d58287493e46786f8aaefd1d58ebb350d3abb65379d2b094305ed6a4"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/032 amphirion - cryptocoryne.avs",
+            "size": 10377,
+            "checksum": "sha256:d741c2588cc9105dc08e527a921f2bcaa9c85267dd66ff9eca1ad9b2be72f2ca"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/033 synth-c - cold fusion.avs",
+            "size": 12312,
+            "checksum": "sha256:0d6e4233cae1fde924b8f0a42f06947fcf2ba8e09781fe978d9f45d030b8472f"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/034 pan am - take-off (p-k's nottin but teh G!0w mix).avs",
+            "size": 2426,
+            "checksum": "sha256:f3f95333b68ce66b25435e591880606c16bb002025c42a9ee64a0502a9910942"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/035 zamuz - flowy.avs",
+            "size": 1970,
+            "checksum": "sha256:556af5c8d39c1a08a8de5e93dd2cdbacefa9680ed0f59e45e38f7626bbc72d02"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/036 a3 - smoke lounge.avs",
+            "size": 1930,
+            "checksum": "sha256:2e80fcc8cfbbef5b7710e1e873438bac8902e90980580158d9939e6be41c54e9"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/037 nemo - to paint with blood.avs",
+            "size": 1718,
+            "checksum": "sha256:56c0223d307d393a504a8ed70ffcfa8c263ee3fc5dcb06c8a7a56679eb5d874c"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/038 p-k - simplicity.avs",
+            "size": 1905,
+            "checksum": "sha256:6ef3216b32b9e3da4c552cd594e295c7192af7f06eceb16635792373836b89c7"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/039 les Noobiens - back to cursor (zamuz's in-depth remix).avs",
+            "size": 4511,
+            "checksum": "sha256:702204ee956f362f331eb5b0f7e3bdf8ee02e4940bbfbe596554e29c1b1d4973"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/040 skupers - ix i xi.avs",
+            "size": 2062,
+            "checksum": "sha256:5133cfef420cd481074aadb9fc7b03b63bd03c6f30b1d56e5891ffbc23140658"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/041 dynamic duo - kinematics.avs",
+            "size": 4193,
+            "checksum": "sha256:16e2a1c564c6adbd11d80e9737ebc408098caab9ec62a329ea83ffd7a3dccbbc"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/042 duo - alienated.avs",
+            "size": 2649,
+            "checksum": "sha256:8837665d6b43134899f4d4ebedd13529aebb0e0c2a25d2f28f06b0aad72a85a8"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/043 les Noobiens - 2-gummi (yathosho shakes it too!).avs",
+            "size": 3755,
+            "checksum": "sha256:c03540ea8ecdc7eae2d9c492ed5443b602c584797179b5e7bd0e36371fb50d85"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/044 nemo - life in pearl city.avs",
+            "size": 1086,
+            "checksum": "sha256:4a9c29cabf25a1fc38a7a9f479e8bc2344b46840cf7b005c5f46506b5e1f2c6b"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/045 framesofreality - venmia.avs",
+            "size": 3861,
+            "checksum": "sha256:2dee0c3a9b60c7c5ec5e1b951f6317e62e1399d97fbc80e71ec93cf39c186bcb"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/046 yathosho - the audience (version).avs",
+            "size": 2179,
+            "checksum": "sha256:aea31bcc34188cb2dc71ab883e43dabbeb11a36936a2883444d5b8f8ec747a7d"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/047 amphirion - extremadura (synth-c remix).avs",
+            "size": 3823,
+            "checksum": "sha256:ac0daa28e2710300b4954b0704810994c3c3346152afaad7684a794b91a38cca"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/048 p-k - smooth flowin'.avs",
+            "size": 2004,
+            "checksum": "sha256:e91f2059dd49e5f6203309955f34c9568b5d762ff22a86eb0d66b10ff1603e93"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/049 dynamic duo - dial m for drugstore (zamuz's drugs make me dizzy remix).avs",
+            "size": 3715,
+            "checksum": "sha256:19be3c8be12ea15855d2eed0de786f98069e207163806a789360c26c9e093a03"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/050 skupers - channelling.avs",
+            "size": 4544,
+            "checksum": "sha256:a73de68747658bfcfd39894cb11f191c62081519f45eca91696ef47d70fe5df9"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/051 nemo - nemo sweety (framesofreality remix).avs",
+            "size": 2818,
+            "checksum": "sha256:f10f06a5563093fe122c7ec9a569c0b63dd85ad694c776cde0b7ea1cab6c9279"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/052 duo - after the pills.avs",
+            "size": 1336,
+            "checksum": "sha256:004a0e2babf9391f7ee8a80f598893d2b1aea44a384bd0d0c7be830efc7f85f2"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/053 zamuz - crimson.avs",
+            "size": 3873,
+            "checksum": "sha256:c0b92b79d76e1af8e0a1490de4fc0805db7a9d287a6b8832f75e6f534f0a72a0"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/054 amphirion - soah seampol.avs",
+            "size": 1947,
+            "checksum": "sha256:531741f3c5969c4530191b458c1097c26e802adb0720803e7b2c81dd7f1f8094"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/055 shock value - microscopic warzone.avs",
+            "size": 3750,
+            "checksum": "sha256:b9aaa9ae47c456ffc71c69fb9b720e5dfa27e2fb024d9ead93b06faed8521961"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/056 p-k - fux0red attempt at curvism.avs",
+            "size": 2838,
+            "checksum": "sha256:e212bef328bd7d08bd4f773f178ccd595138a89bf703c05965b5c3e9b73763f7"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/057 yathosho - ps pussla.avs",
+            "size": 1337,
+            "checksum": "sha256:cd4627380758e2256f0ec5651b50c2db4e0bc86ba581a8421c9c006371e18059"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/058 framesofreality - cold silk.avs",
+            "size": 3109,
+            "checksum": "sha256:51595ae973f891ef3a4853c3d12481c3dd3d7b90de0dc4a0024389999a376820"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/059 a3 - altjulia.avs",
+            "size": 1296,
+            "checksum": "sha256:19b3036367a465005fd7faebcb863688f87c820f3b0780ebbe6dd4e9c404652d"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/060 pan am - take off (framesofreality is spilling the dark seeds).avs",
+            "size": 3422,
+            "checksum": "sha256:283a2b037a2feee02a380f3bdc58aef5e9f430ffc8210e02bb67ecc729971f66"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/061 skupers - with your fear (nemoorange remix).avs",
+            "size": 1858,
+            "checksum": "sha256:11f1455a8f00660b19da8711c9adba5835d9f9e5a2d882ef5cec494af154d74c"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/062 amphirion - amber crystalization.avs",
+            "size": 2007,
+            "checksum": "sha256:bb44d2b3a5eddab3cec22eae3e7c2d526ae5f77b6fe783114ae77ff306c78b5b"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/063 duo - surreal killer (yathosho's alternative co-op edit).avs",
+            "size": 3513,
+            "checksum": "sha256:42949a2de3067a3acee8d45f4a420a4dca5982fa2a75f2536bc0fa7e3ec5dd45"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/064 nemo - euphoria smokes.avs",
+            "size": 2404,
+            "checksum": "sha256:e818f67da633f04c716b207fbf8730b38b4ce2929835e4ab292daa36a6a29a51"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/065 skupers - curvism iii.avs",
+            "size": 4614,
+            "checksum": "sha256:c08157726bac2a97ea440d8b6274cc1fb7ef50583d3168f72a0f6489b7dcc973"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/066 zamuz - milky dream (yathosho's re-experience).avs",
+            "size": 3167,
+            "checksum": "sha256:559330143061be3830c67a183b5541a1ca0bb2191fa89badc08a8950b3ce7473"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/067 framesofreality - under the lavender skies.avs",
+            "size": 4361,
+            "checksum": "sha256:034db54b71d2a0b05a3bc39a66f60d80e9c7ad33c3d7e93994f4b0e8a78906d6"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/068 les Noobiens - die neue elastik (framesofreality bjutiful remix).avs",
+            "size": 4049,
+            "checksum": "sha256:0e444f94874d4bf2c72db029bacc0040e8db6443b1237adf6cbefdb5a656d000"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/069 yathosho - milch 2 (framey-o treatment).avs",
+            "size": 2443,
+            "checksum": "sha256:3d666b847bd29c24329217e60eac80ea84c213885cada9936176445a28ce75b1"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/070 dynamic duo - dial m for drugstore (v.i.p.).avs",
+            "size": 2125,
+            "checksum": "sha256:106a752dadd2f1bc86115ee2ae0148e9abf3f58b9e97c8496c50db6ab31a654d"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/071 nemo - population visbot.avs",
+            "size": 2484,
+            "checksum": "sha256:eba5eb7f9d9fb6986a6d7b753ca06ce869480dd1cb9342cc338fbcdc7effe4de"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/072 p-k - sfwv and sfwpk.avs",
+            "size": 2604,
+            "checksum": "sha256:72c1c1106ceea8991baf128b6d81cd6635dc435392ffd94ed29be0d0c4b8ac12"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/073 danaughty1 - the taikonaught (edit).avs",
+            "size": 2037,
+            "checksum": "sha256:02d90e18d74e9d26b5493a8b890468f9ba14c47cac44b4886e6655fbf0f128b5"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/074 yathosho - betreten verboten.avs",
+            "size": 2097,
+            "checksum": "sha256:b84e258693b7a5a3f87b7593ccd4097c3812e659e4b1be7e70a48a52c5194372"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/075 synth-c - the construct.avs",
+            "size": 4544,
+            "checksum": "sha256:cc221b15ad5d117c7e807cc4604418fe1623a2ceab39f4f3bfd214a45a51861a"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/076 nemo - blossom.avs",
+            "size": 15719,
+            "checksum": "sha256:3b87a9daf34960fd90c3109f6d5d12d5168aa51bdc1dc4b851e9b37d89ea31fe"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/077 duo - born on fire.avs",
+            "size": 2556,
+            "checksum": "sha256:85b35ea0f8532608d7646857bc7a7f59f6d538f104c4c44653f7d15898b47759"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/078 zamuz - digital decoration.avs",
+            "size": 3955,
+            "checksum": "sha256:936dd13ba3628b705c187981375deacdf42fb6ba93f5b750206f0c67cd69e4c2"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/079 les Noobiens - 2-gummi (early version).avs",
+            "size": 3125,
+            "checksum": "sha256:fa609e447734537cbf8c060a3148ce4a85e78bf8b77ace3db21d0937b2104be1"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/080 yathosho - minidisko (nu Lesbians teeniedisko mix).avs",
+            "size": 1540,
+            "checksum": "sha256:c216a045fa132f47d0eb76406ad1fd98e3d22c8f888d4233ddc8de56aab35214"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/081 skupers - untitled ii.avs",
+            "size": 3315,
+            "checksum": "sha256:8940320401d7384704865bc700d68a682132606b0678deebe0bff91df6144439"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/082 danaughty1 - it's da naughtilus (yathosho's very british).avs",
+            "size": 2186,
+            "checksum": "sha256:66c8a44ee25834e334fcf3ac84ef1495c64665c88248634765ff73d34f9fe3fa"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/083 duo - abstract existence.avs",
+            "size": 2579,
+            "checksum": "sha256:00ead9c3d93dfd5588f46275a3b074b47e92deedd32cd4876f44e40b4e4a88f4"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/084 nemo - ivy.avs",
+            "size": 12521,
+            "checksum": "sha256:6bd4ace0dd9fa35e2b9fe8f8982b29a2b56d962e8aa960a92b7b9e092163da13"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/085 yathosho - lenor (les Noobiens birthday arrangement).avs",
+            "size": 1069,
+            "checksum": "sha256:ee755a5e832d322aa05804c4e9174cd58f527c384c719723425598bf69ebc16e"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/086 dynamic duo - who doesnt love wood.avs",
+            "size": 2327,
+            "checksum": "sha256:1eaa4cbdcdfd37472763e82d05d633fca9f86af93bc47e9bec718ff68ed5aa6e"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/087 a3 - zebra lounge.avs",
+            "size": 1170,
+            "checksum": "sha256:77731bbaaef0d5fd37a1d2d9841783d2a59ed4a7c3cc16440a589b7aacf8cfd5"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/088 les Noobiens - olymp-unique.avs",
+            "size": 773,
+            "checksum": "sha256:f0bda693905ed254ecb634e6956783c3fa40716bbb8e2b2ce325b78eb805e5c5"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/089 shock value - forces of coherence.avs",
+            "size": 10104,
+            "checksum": "sha256:a71c6c01f64f84451957f99ac246d30e297d2deeece67655724bbc6904d3d9ff"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/090 framesofreality - love feels like cherry.avs",
+            "size": 4861,
+            "checksum": "sha256:6bd160cc7138c69eafa6ab584c576f574bf51050f7cf0daf4dc68bc43118f6c7"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/091 zamuz - spiritual (ya-tho-sho extra-treatment).avs",
+            "size": 3112,
+            "checksum": "sha256:284d96a2cb3bcae3737270445eaff75e577e049b62302099815b6b34e6698efe"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/092 amphirion - necromancer's pot.avs",
+            "size": 3926,
+            "checksum": "sha256:da8a73f1a6025e9b2b5cdb1f4d08d21ca6a6d9ff750a8ee2b82c92bf11706984"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/093 p-k - pure flame.avs",
+            "size": 2830,
+            "checksum": "sha256:b39a823dcfb7c784fb81e8fffe95ecba32f62724d404c51cb0aaad2f57c45a52"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/094 skupers - curvism (yathosho's olijfolie mix).avs",
+            "size": 2123,
+            "checksum": "sha256:a8f5e41be148e9c7240c6299303ac9eee9dcab7cf2bf0658a556cdab15b738ed"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/095 duo - enigmatic.avs",
+            "size": 1462,
+            "checksum": "sha256:a22ca1925e247bb9075df8163f3ab346c167a377e6afc2e8b115494cb5a2d34d"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/096 zamuz - bumpy carpet (dynamic duo's photon redesign).avs",
+            "size": 3391,
+            "checksum": "sha256:cc666ca45d6ff14ff0349e9bc76c4c8c561e11c68bd8234221856ba95f960e85"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/097 a3 - fuk dms (les Noobiens rework).avs",
+            "size": 1963,
+            "checksum": "sha256:49b7bebd346b58b8e5840cebf38c2251cbb1d43fd83e20351d9da2113263007d"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/098 yathosho - wobbler.avs",
+            "size": 682,
+            "checksum": "sha256:bff7a8d7378ee582888f71ebe26b11b2780d8409267600e1c76e28eaea748240"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/099 nemo - oceanscene.avs",
+            "size": 1915,
+            "checksum": "sha256:2a5054a50ebe15da968edab5f822ac65d580e23f8b889fe3909dd9ae34db6c22"
+        },
+        {
+            "file": "VISBOT/VISBOT 100/100 amphirion - rivierra.avs",
+            "size": 14810,
+            "checksum": "sha256:1d9f2be5693717d9157780fb770fd3878da10752cdfc531f08b848e298d7a101"
+        }
+    ],
+    "assets": [
+        {
+            "file": "amphi v 2.0.bmp",
+            "size": 7656,
+            "checksum": "sha256:bccd8118c58b7ee479082080a1bed41864047dd68a1106a53b1a965fc645e206"
+        },
+        {
+            "file": "avsres_texer_circle_fade_11x11.bmp",
+            "size": 450,
+            "checksum": "sha256:f23cffc3b62ea97fd3bc32cb7107705a5ccdfe90c1c69ad950744f148b75d13f"
+        },
+        {
+            "file": "avsres_texer_circle_fade_17x17.bmp",
+            "size": 938,
+            "checksum": "sha256:e76a9c0ac6ef5dfa2308908a92f6b54f481c5dafcad8c47dd887b3fab39abd92"
+        },
+        {
+            "file": "avsres_texer_circle_sharp_09x09.bmp",
+            "size": 450,
+            "checksum": "sha256:6ff6f86f427968efbd9a21ddce8cf0cd681681f0d7fc772659a86700a9c7d0ac"
+        },
+        {
+            "file": "skupers_lp7_02.bmp",
+            "size": 10856,
+            "checksum": "sha256:aaeb13486d7082c888a556012a3ea574dc4c651b01510ae9722a1ce184f8fd03"
+        }
+    ],
+    "plugins": [
+        "AddBorder",
+        "BufferBlend",
+        "ConvolutionFilter",
+        "MultiFilter"
+    ]
+}

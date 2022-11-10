@@ -1,0 +1,227 @@
+{
+    "name": "whyEye.org x2",
+    "id": "VB079-2",
+    "presets": [
+        {
+            "file": "whyEye.org/whyEye.org x2/volume 1/01 unconed - cartoon trip (yathosho takes a smoke).avs",
+            "size": 2801,
+            "checksum": "sha256:364a8d2d5d7b53177bc289b3db09439578c36d88edb9ed6307889bd91a71d18a"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x2/volume 1/02 tonic - square amazing (yathosho's statica mix).avs",
+            "size": 2226,
+            "checksum": "sha256:3cfd3b2f15ff132fb912de2b37206cb13b5315ca08c2f61e49afda2b22818bcb"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x2/volume 1/03 degnic - worms (yathosho's interwormix).avs",
+            "size": 2958,
+            "checksum": "sha256:299a8af4c25e89247345fac6f39ee0c1910c4b38a6ed659b2a90baa01e4fc18c"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x2/volume 1/04 jdm - rea-mi-ga (edit).avs",
+            "size": 3007,
+            "checksum": "sha256:85e275aba885319c4e3a95b8dbe0e33337d8f1ae4ebcb9d9f125ed6ccdf1b8f7"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x2/volume 1/05 unconed - going up-n-down (spitze lakritze, yathosho!).avs",
+            "size": 2517,
+            "checksum": "sha256:f9d893bde8e5a31c21d77b3c9ef39dae14332d30501a5a7f01cd1d09adf0d7eb"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x2/volume 1/06 amphirion - in the burning (yathosho's marvelous rework).avs",
+            "size": 3416,
+            "checksum": "sha256:a57593a24cac8484129dc15040899c59fe2063ac7f4637ad24139481c82c4a37"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x2/volume 1/07 nemo - nemo honey.avs",
+            "size": 1998,
+            "checksum": "sha256:d248d665df97a6192de9e71addf9a7a55361fdbc2863a61f3148c215e01207af"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x2/volume 1/08 onionring - kaleidoscopic distortion (yathosho's silent mix).avs",
+            "size": 2206,
+            "checksum": "sha256:d6b5f9fe74de70331dc4d1d2fc0e497ef6eb6928d09d0def1e8c293f3c27c9d7"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x2/volume 1/09 pan am - take-off (yathosho's glühwürmchenmix).avs",
+            "size": 1855,
+            "checksum": "sha256:21c111d2a1bb6e7ae73ac647d197ce98105a32c1832ca8e1bb3f4dc02931d4e4"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x2/volume 1/10 p-k - new hope (yathosho's cape mix).avs",
+            "size": 2408,
+            "checksum": "sha256:1d560ca6d594b7faf185805b65245465d62dffadf7bbf51d9bf173ce989ef878"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x2/volume 1/11 tuggummi - let me out! (yathosho's sky divine re-remix).avs",
+            "size": 3837,
+            "checksum": "sha256:df7119ad29c585ddbd00d17b39a9607a35e848893f39ddad2a97b8962e41262f"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x2/volume 1/12 zamuz - milky dream (yathosho's re-experience).avs",
+            "size": 3167,
+            "checksum": "sha256:559330143061be3830c67a183b5541a1ca0bb2191fa89badc08a8950b3ce7473"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x2/volume 1/13 nemo - golden (yathosho remix).avs",
+            "size": 1591,
+            "checksum": "sha256:2d3735825cfd3f19ac53a3aa791005eb73a27ed3369417a7828a53e4b209e78f"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x2/volume 1/14 onionring - hexigram (yathosho's intergram rework).avs",
+            "size": 2769,
+            "checksum": "sha256:ca324b36a39ed7e495ead65b54bbee89d4d2b70fc9858f0800b457a849c48238"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x2/volume 1/15 zamuz - nuskool shit (v.i.p.).avs",
+            "size": 2330,
+            "checksum": "sha256:bf9fde6d16ebb5116643a4e4759cf5c892e801a0fbe7665c389137d04a416cb0"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x2/volume 1/16 frames of reality - venmia (yathosho's waikiki v.i.p. design).avs",
+            "size": 2058,
+            "checksum": "sha256:d827526bde4a34adfb973e4ca28826d17c181bcf765dbf765a1fb6fc9d7530a2"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x2/volume 1/17 hboy - bubble fun (yathosho's modspot mix).avs",
+            "size": 3400,
+            "checksum": "sha256:22a06cb0b05c0fba7aec4d4a39449c2d7342af167500316958fcb7ddf249400b"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x2/volume 1/18 skupers - dual flow (yathosho's cheap trick mix).avs",
+            "size": 3320,
+            "checksum": "sha256:ec5c7f97f3e57a12cd1b7f7a618db710f3c583b86e11c4d4a9b183a557f3c232"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x2/volume 1/19 unconed - going up-n-down (spitzen garnitur, yathosho!).avs",
+            "size": 2535,
+            "checksum": "sha256:734a034b0e6d8cbb8c56048a2358a727ea505f3d562ec515b96f60d1154f40b9"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x2/volume 1/20 shock value - jellygrass jive (unreleased).avs",
+            "size": 3344,
+            "checksum": "sha256:7e853c2abddd8b1c692d75dabba8a1127002ed3b44c3945509da2b771183789a"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x2/volume 1/21 frames of reality - focus (yathosho's untitled mix).avs",
+            "size": 2184,
+            "checksum": "sha256:b5a9614c56eb42ed0089d633f5bc1a428ca1bb7b4ec041fd2d22cad56d010d28"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x2/volume 2/01 unconed - cartoon trip (yathosho's tlx-71 mix).avs",
+            "size": 3280,
+            "checksum": "sha256:bb0fbb1d94f41515402d377ec9f967b3a6fcdb8a2edc607e1522a3d4167dac62"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x2/volume 2/02 frames of reality - bloodplot (yathosho's day of the spectacle rework).avs",
+            "size": 3140,
+            "checksum": "sha256:0dcde8c2402a337d99dfba79a26374d9da16e598fc96069c8b0707fd048f89a8"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x2/volume 2/03 jdm - rea-mi-ga.avs",
+            "size": 3009,
+            "checksum": "sha256:3936237307aaf9a1c2a391e3e25edd7a8cb86432220b9c90d6022d9471aa1a23"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x2/volume 2/04 amphirion - necromancer's pot (ya-tho-sho treatment).avs",
+            "size": 3699,
+            "checksum": "sha256:9f9b1c5432cca49e610ea8056028d80b4529225f49a48818e8d770a4159f781a"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x2/volume 2/05 viskey - analysing flow (yathosho's lazerfield re-remix).avs",
+            "size": 2891,
+            "checksum": "sha256:d2dcdbc09e06432a607d49b5a08d58cb55b49b2f6b3819cdf216c77b5b9f221c"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x2/volume 2/06 nemo - surfacing 8 (yathosho's facing mod rework).avs",
+            "size": 1836,
+            "checksum": "sha256:989a5875ad795e9289518a307ed78561a43c2c703f399bfdcaa1970985f8f17a"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x2/volume 2/07 hboy - bubble fun (yathosho's neonpops rework).avs",
+            "size": 3431,
+            "checksum": "sha256:6159d60789cabc258a830e16a34c22f053b17cf24677413918ed7fdc5e00e32b"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x2/volume 2/08 el-vis - 2phuture 4you.avs",
+            "size": 2328,
+            "checksum": "sha256:296fc76195c5fb13e42f1ad86bc7b9fef4950075dd2f3aa3dde7900f4ca140c1"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x2/volume 2/09 unconed - going up-n-down (spitzen tapete, yathosho!).avs",
+            "size": 2588,
+            "checksum": "sha256:db55a07510821e254196a5dc7657c1888974f56d9b963e647d42dbbfe03595ab"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x2/volume 2/10 onionring - living watercolor (yathosho's fragmentation #2).avs",
+            "size": 1819,
+            "checksum": "sha256:e197acfbb681362645fe848575140f7ccb07d7bf0c098e526523297b7093e0de"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x2/volume 2/11 p-k - new hope (yathosho's cape mix - version 3).avs",
+            "size": 2489,
+            "checksum": "sha256:775bb6e1b39a0cbe38ac8336c7396c8d71b8dd5552b024da976c09f408cc2872"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x2/volume 2/12 shock value - radiohack.avs",
+            "size": 3503,
+            "checksum": "sha256:3e2df18f715d3aec9d743713cf851e800a1c55c1207752f5029d3e9248bd496f"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x2/volume 2/13 zamuz - smoophment.avs",
+            "size": 1404,
+            "checksum": "sha256:5a8b91cdde5e8eef40fc694f1a37cd7f98946e376160be782f93d4d687ee5a36"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x2/volume 2/14 nemo - honeytek.avs",
+            "size": 1743,
+            "checksum": "sha256:626ede96af87369dada2570481deafc72d186b01979bed8706b315ed4cd24cfd"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x2/volume 2/15 frames of reality - venmia (yathosho's waikiki airbrush redesign).avs",
+            "size": 2326,
+            "checksum": "sha256:122fd746ea6721992ae087fe29b1ecbbaa8a60135cded699c24913174f8cf6c0"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x2/volume 2/16 tuggummi - let me out! (yathosho's never say remix).avs",
+            "size": 2290,
+            "checksum": "sha256:24f88b1baa7851db02f0ac59dc9a8f38d97d107dcf73b9a933ebb2fa8e518564"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x2/volume 2/17 unconed - cartoon trip (yathosho takes b smoke).avs",
+            "size": 2764,
+            "checksum": "sha256:7a352a54ed173a4d9bda4ac483903b3227ee0cc0f455d0e8791898e20ca4fb25"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x2/volume 2/18 amphirion - in the burning (yathosho's abstraction).avs",
+            "size": 3262,
+            "checksum": "sha256:3b3b940cd94ef4df9816873728667537a925aad0a1f89ed77716716b611fe264"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x2/volume 2/19 p-k - expects the expected (gradient edit).avs",
+            "size": 2138,
+            "checksum": "sha256:f2d27faca53b109801805332bcc37d54e13a59b6191ed0021ea8067ea9499363"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x2/volume 2/20 shock value - uncluttered elegance (ya-tho-sho treatment).avs",
+            "size": 5942,
+            "checksum": "sha256:42a9218e356d5bdaaf27af8bf7c5782e006fa944559d4150bfef9e14af06f819"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x2/volume 2/21 onionring - abstract japan (ya-tho-sho rework).avs",
+            "size": 4268,
+            "checksum": "sha256:75cbd6755981e02d258cee71d4a4df5a1f234f5c9223f889895855b645f73be1"
+        }
+    ],
+    "plugins": [
+        "AddBorder",
+        "ChannelShift",
+        "ColorMap",
+        "ColorReduction",
+        "ConvolutionFilter",
+        "Multiplier",
+        "MultiFilter",
+        "Texer",
+        "Texer2"
+    ]
+}

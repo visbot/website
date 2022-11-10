@@ -1,0 +1,29 @@
+{
+    "name": "whyEye.org since then 9",
+    "id": "VB033-1",
+    "presets": [
+        {
+            "file": "whyEye.org/whyEye.org since then 9/yiA1__mutation_01.avs",
+            "size": 2176,
+            "checksum": "sha256:ac4d0cdeefce8e36abdf91e590de6fbcaffafa10a8d2da559e438181f83f53a9"
+        },
+        {
+            "file": "whyEye.org/whyEye.org since then 9/yiA2__tos_(re-edit).avs",
+            "size": 931,
+            "checksum": "sha256:f56666e02d5c01d7811ae3ff598a559d26a2cbb1cf477383845a03a5a8740ce8"
+        },
+        {
+            "file": "whyEye.org/whyEye.org since then 9/yiB1__beta.avs",
+            "size": 242,
+            "checksum": "sha256:dca88a546a7db22547680a1dfa492e436e99fcc4b797c3e5643fbab6efb12941"
+        },
+        {
+            "file": "whyEye.org/whyEye.org since then 9/yiB2__multiple_tiles.avs",
+            "size": 1893,
+            "checksum": "sha256:fa358ca7ec013dbb63bf829e6153d7196a7545efb80622da63fa2ce410b2ac2c"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

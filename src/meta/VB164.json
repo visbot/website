@@ -1,0 +1,81 @@
+{
+    "name": "r e - O p t i m i z e d",
+    "id": "VB164",
+    "presets": [
+        {
+            "file": "JaVS/r e - O p t i m i z e d/01 JaVS - Intro.avs",
+            "size": 5054,
+            "checksum": "sha256:a8cb7b69c791f0a145543de555683b128b1c8f6e0e7ba35a46b059de0ff7dec6"
+        },
+        {
+            "file": "JaVS/r e - O p t i m i z e d/02 JaVS - Cook Da Fluid.avs",
+            "size": 3234,
+            "checksum": "sha256:7157b33fee58369598b28a4c328186e9e8b4b81dda64d898d2f4d685730c375a"
+        },
+        {
+            "file": "JaVS/r e - O p t i m i z e d/03 JaVS - Juicy Sunshine.avs",
+            "size": 5708,
+            "checksum": "sha256:63bb82d2fccdb72edca80a3fcbd35d9e5b71b00f977c10c05e03134de15175e9"
+        },
+        {
+            "file": "JaVS/r e - O p t i m i z e d/04 JaVS - Melted Candy.avs",
+            "size": 4412,
+            "checksum": "sha256:bacf6e322d88c70fbe086a9cdcb61f6092cffc7759e31a36c79789324406eeff"
+        },
+        {
+            "file": "JaVS/r e - O p t i m i z e d/05 JaVS - Random Generator.avs",
+            "size": 8469,
+            "checksum": "sha256:7d684e60c4d8309263607dc7cd901392876ea08695217fe7a12f1c61a1146199"
+        },
+        {
+            "file": "JaVS/r e - O p t i m i z e d/06 JaVS - Cloudy Old Century.avs",
+            "size": 6184,
+            "checksum": "sha256:9a6d62bba8ea4ed66981117e822705509d5ccea64f60ed16c6e4c272ed382ae1"
+        },
+        {
+            "file": "JaVS/r e - O p t i m i z e d/07 JaVS - Neonic River.avs",
+            "size": 3326,
+            "checksum": "sha256:988c8ac521f344845d82acf2bf188a9e1b8f4b23d5d052e5c5c2ba09991ea23e"
+        },
+        {
+            "file": "JaVS/r e - O p t i m i z e d/08 JaVS - Organic Chemicals.avs",
+            "size": 3615,
+            "checksum": "sha256:6d51a75ed4839634193c64aea8e9b6203a62a866204dd2009d7766a8f85801ce"
+        },
+        {
+            "file": "JaVS/r e - O p t i m i z e d/09 JaVS - Microgerms.avs",
+            "size": 7645,
+            "checksum": "sha256:d87661286370d93f03726c07e8535816405e77576b0c5aa6259d818621ed1ec9"
+        },
+        {
+            "file": "JaVS/r e - O p t i m i z e d/10 JaVS - Dying Evil Force.avs",
+            "size": 8262,
+            "checksum": "sha256:13be8daa6028e690c09e0a2c5d4ec998be5ae3c8a677c7a1a10b32992f0cf15d"
+        },
+        {
+            "file": "JaVS/r e - O p t i m i z e d/11 JaVS - Less or more, Golden¿.avs",
+            "size": 4776,
+            "checksum": "sha256:d8d36e21479819d80cf3d5bb2834301ca7fa1f9404a79644b0248406cd50a9f4"
+        },
+        {
+            "file": "JaVS/r e - O p t i m i z e d/12 JaVS - Cloudy Old Century (Dries's rmx).avs",
+            "size": 3029,
+            "checksum": "sha256:431c6956debc52f93fe3d5a57a6d0288efecd824ba640780e5205c2120d984b2"
+        },
+        {
+            "file": "JaVS/r e - O p t i m i z e d/13 JaVS - Microgerms (les Noobiens Tutti-frutti cocktail).avs",
+            "size": 5428,
+            "checksum": "sha256:2c5f99f816c20e1a00776e057d0cdc4eab3b40feb10b408bb828428f3ea075b2"
+        },
+        {
+            "file": "JaVS/r e - O p t i m i z e d/14 JaVS - Dying Evil Force (WildJack77 Supreme Spell of the Magi mix).avs",
+            "size": 6878,
+            "checksum": "sha256:d5ef4c192d7f690c2852d94cbc684441bcdbb01ed79fddbb395cb98d49290fd4"
+        }
+    ],
+    "plugins": [
+        "BufferBlend",
+        "ConvolutionFilter",
+        "GlobalVarMan"
+    ]
+}

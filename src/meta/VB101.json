@@ -1,0 +1,102 @@
+{
+    "name": "whyEye.org the great escape",
+    "id": "VB101",
+    "presets": [
+        {
+            "file": "whyEye.org/whyEye.org the great escape/yathosho__2phuture.avs",
+            "size": 1746,
+            "checksum": "sha256:da8dafce5a47c9d6a147a2d8e483c2107bce0db7613ecd2265616fc677c69b26"
+        },
+        {
+            "file": "whyEye.org/whyEye.org the great escape/yathosho__all night long.avs",
+            "size": 2637,
+            "checksum": "sha256:bfa9670770540cbbb973da36f5d5304ee51c2920ff724e42bb5baf118d07f903"
+        },
+        {
+            "file": "whyEye.org/whyEye.org the great escape/yathosho__bitasweet.avs",
+            "size": 2073,
+            "checksum": "sha256:a0e7ef5316239359009b26ff61db4532bb0cd3cf7f7e7b96a571e6cb501e501d"
+        },
+        {
+            "file": "whyEye.org/whyEye.org the great escape/yathosho__bored of canada.avs",
+            "size": 2188,
+            "checksum": "sha256:099a4a528e14d1f9e3d7cfc0f330bedc6bdbae0ea3c1fb1ae0a4772c0a78e903"
+        },
+        {
+            "file": "whyEye.org/whyEye.org the great escape/yathosho__collini.avs",
+            "size": 2243,
+            "checksum": "sha256:1eb0a8cb70299cfa73cf2009aa5c9cbcf72340e546b39e4faa1870938056d99b"
+        },
+        {
+            "file": "whyEye.org/whyEye.org the great escape/yathosho__happy end.avs",
+            "size": 2192,
+            "checksum": "sha256:b8700028b6f3c284949a2a6776d0a3794562f5b6bd3d3ef892f588e607201dac"
+        },
+        {
+            "file": "whyEye.org/whyEye.org the great escape/yathosho__interieur.avs",
+            "size": 3072,
+            "checksum": "sha256:e48afb840a8a7a010d79cefa05f8e38258e7d349230810d1dc79b126ddcaa0eb"
+        },
+        {
+            "file": "whyEye.org/whyEye.org the great escape/yathosho__lifecycles.avs",
+            "size": 2670,
+            "checksum": "sha256:72df3e411a72bb614a65527ef21305f88d847c44696936aa28a708b57dceae1f"
+        },
+        {
+            "file": "whyEye.org/whyEye.org the great escape/yathosho__mobilee.avs",
+            "size": 2842,
+            "checksum": "sha256:4023acde1bd4b7aa606797ae13f90aae18ed988abd157479b0040fce058c9e26"
+        },
+        {
+            "file": "whyEye.org/whyEye.org the great escape/yathosho__nizza is nice too.avs",
+            "size": 1707,
+            "checksum": "sha256:7225929baf4b5e6ae37a654d718a8de60f1cb5f97a8f01891c01833ba2aee1f2"
+        },
+        {
+            "file": "whyEye.org/whyEye.org the great escape/yathosho__nyc revisited (day 2).avs",
+            "size": 1673,
+            "checksum": "sha256:6d856449201574557d4ae7f94e7c1f31427901b19b2fac9adf095495a59796e3"
+        },
+        {
+            "file": "whyEye.org/whyEye.org the great escape/yathosho__panton.avs",
+            "size": 3710,
+            "checksum": "sha256:f4e3d39e0e8d9bafa9c533138e080b083eb7d150774ef34dd75e6d65cf09c044"
+        },
+        {
+            "file": "whyEye.org/whyEye.org the great escape/yathosho__pullin out these old tricks.avs",
+            "size": 1451,
+            "checksum": "sha256:995134c0d7a59aaad04ea280cf1a554271ac0d0d0633e699461de15bf47ed88e"
+        },
+        {
+            "file": "whyEye.org/whyEye.org the great escape/yathosho__son of ptaah.avs",
+            "size": 2923,
+            "checksum": "sha256:8d747568a3aae63db4cb8d9f9ae01b8e716cfc45457b5b4edc7ed4db73e66d21"
+        },
+        {
+            "file": "whyEye.org/whyEye.org the great escape/yathosho__turbo grafx.avs",
+            "size": 3542,
+            "checksum": "sha256:95d9e16fb442e6c7ae91c4253a11d12205aba728ad9e86abee11e1f1f171e562"
+        },
+        {
+            "file": "whyEye.org/whyEye.org the great escape/yathosho__zuviel davon (the eighties).avs",
+            "size": 2298,
+            "checksum": "sha256:489268f686094200c7085f2fd24d375a4d35055f470a5932e3af66f092e51959"
+        }
+    ],
+    "assets": [
+        {
+            "file": "yi-panton.bmp",
+            "size": 948,
+            "checksum": "sha256:1d4e158a5299389496afee41aece65f023f9483db8782b05252def9705d609f5"
+        }
+    ],
+    "plugins": [
+        "ChannelShift",
+        "ColorMap",
+        "ColorReduction",
+        "ConvolutionFilter",
+        "MultiFilter",
+        "Texer",
+        "Texer2"
+    ]
+}

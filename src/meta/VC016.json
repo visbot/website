@@ -1,0 +1,151 @@
+{
+    "name": "VISBOT Exit Claus",
+    "id": "VC016",
+    "presets": [
+        {
+            "file": "VISBOT/VC016 Exit Claus/01 grandchild - intro (stand united).avs",
+            "size": 90247,
+            "checksum": "sha256:05501e242397863990ba7cb8ec618daaffc08ad3699c6687b017b49f244393d1"
+        },
+        {
+            "file": "VISBOT/VC016 Exit Claus/02 hboy - thrillseeker.avs",
+            "size": 7103,
+            "checksum": "sha256:673f95043e207ba83cb505440e62e6635f0f65d21a4e78c29c8fa1d8b67ce8ea"
+        },
+        {
+            "file": "VISBOT/VC016 Exit Claus/03 dynamic duo - hypersonic ii.avs",
+            "size": 3993,
+            "checksum": "sha256:86eab7957de8d1b0371814c2e914031bbbdfa75bc6bf98709e67b840c416dd27"
+        },
+        {
+            "file": "VISBOT/VC016 Exit Claus/04 zamuz - sex (take four).avs",
+            "size": 18719,
+            "checksum": "sha256:d76c1ec3bb8b49075ea4c1914013f7e1d10159d00906124cc0aef5a214e98309"
+        },
+        {
+            "file": "VISBOT/VC016 Exit Claus/05 onionring - ziyan ii (glitterati).avs",
+            "size": 11653,
+            "checksum": "sha256:f4d10785669df30d3b8ff000918442845794e1006fcee9d96029943918e30b9b"
+        },
+        {
+            "file": "VISBOT/VC016 Exit Claus/06 nemo - balloons (layers rework by yathosho).avs",
+            "size": 42479,
+            "checksum": "sha256:cf188b83e8e0ffd583d1dc27d9ca0e5868a3889101880ec49e529b9d29807424"
+        },
+        {
+            "file": "VISBOT/VC016 Exit Claus/07 grandchild - sci-fi battles.avs",
+            "size": 4816,
+            "checksum": "sha256:9e1492da07f8d3bb2cff12d5a4699b412073d5e0d6addffaec61d243c6c08739"
+        },
+        {
+            "file": "VISBOT/VC016 Exit Claus/08 synth-c - vorticity.avs",
+            "size": 11084,
+            "checksum": "sha256:ce29c3c85196c0a5d2334288e68842a83c5bbf4070ef14c70190afd00db060ea"
+        },
+        {
+            "file": "VISBOT/VC016 Exit Claus/09 hboy - oil.avs",
+            "size": 5007,
+            "checksum": "sha256:515605ab2f3e3f317cb95c51196394002a093382d87f833c45e775e219a02c17"
+        },
+        {
+            "file": "VISBOT/VC016 Exit Claus/10 yathosho - pillow fight (momentum mix #2).avs",
+            "size": 5780,
+            "checksum": "sha256:94f3f030a1b94822960fbf223d12563eea632f638bf55b47031c2ade3f873f4a"
+        },
+        {
+            "file": "VISBOT/VC016 Exit Claus/11 grandchild - city of tiny heights (gotham remix by zamuz).avs",
+            "size": 13325,
+            "checksum": "sha256:99c1bf325e8764f9431f1d5b25d4505dbf5eb6f701d40a181df0a2a4e3a6c823"
+        },
+        {
+            "file": "VISBOT/VC016 Exit Claus/12 synth-c - spinnin' sound.avs",
+            "size": 19060,
+            "checksum": "sha256:2b1771050800c31be0a8037fe752544d205aa936a4e5e75dc2e14b2a097de131"
+        },
+        {
+            "file": "VISBOT/VC016 Exit Claus/13 zamuz - sangre (angry version).avs",
+            "size": 7636,
+            "checksum": "sha256:2199854b855d883684259c0df1d18d02c516d27a704796d4a20bb2ebe704c732"
+        },
+        {
+            "file": "VISBOT/VC016 Exit Claus/14 nemo - jaxx (in the boxx mixx by hboy).avs",
+            "size": 6614,
+            "checksum": "sha256:21fc58da021592dd09a0dbca51c1a3d684f88003a62982e66498d2675847d864"
+        },
+        {
+            "file": "VISBOT/VC016 Exit Claus/15 dynamic duo - tenticalism (cathode ray mix by onionring).avs",
+            "size": 4609,
+            "checksum": "sha256:bae9bf3398c23589dfaa394e7fb64b9442115012f517c91bf56e9bf5275b10f1"
+        }
+    ],
+    "assets": [
+        {
+            "file": "_synth_dotfog16.bmp",
+            "size": 1334,
+            "checksum": "sha256:11c952987367dc8cb10d580873d90d34180b141d289664177088636e35c92d95"
+        },
+        {
+            "file": "avsres_texer_circle_fade_15x15.bmp",
+            "size": 774,
+            "checksum": "sha256:e993d9035e0c88999abda7037e81440f63ee87e37709679de1f4416511be4551"
+        },
+        {
+            "file": "avsres_texer_circle_sharp_19x19.bmp",
+            "size": 1398,
+            "checksum": "sha256:31b87b361b89e60a8052e1c27af6a158a6e0ba4ba136076f2b98afe9958da848"
+        },
+        {
+            "file": "avsres_texer_square_sharp_16x16.bmp",
+            "size": 1254,
+            "checksum": "sha256:dcdc7dc7cf95c0a05b0d09c9a629d63f4079ea69b66b1e9546b2b4da830c538f"
+        },
+        {
+            "file": "avsres_texer_square_sharp_24x24.bmp",
+            "size": 2406,
+            "checksum": "sha256:21b38fa90fdbe2b1884505f9bbe3a022914d6e15e2c1365f5c17a4219d1ef247"
+        },
+        {
+            "file": "avsres_texer_square_sharp_30x30.bmp",
+            "size": 3590,
+            "checksum": "sha256:e41754b033960b3a5e77252cf1edee71e97c311c2cedafc9b4139a3df51240e6"
+        },
+        {
+            "file": "hboy_texer_monument1.bmp",
+            "size": 188056,
+            "checksum": "sha256:339d675e4baabef6d2a6a7a0b0b8c3360edccd7b345928b24036a0dbc9f830e9"
+        },
+        {
+            "file": "orod_paper.bmp",
+            "size": 745556,
+            "checksum": "sha256:050be9b7c916c5c40ba00e7583a840d310a1046f4ac6436945d425fe342ff9ec"
+        },
+        {
+            "file": "v4_texer.bmp",
+            "size": 4854,
+            "checksum": "sha256:251d34a25555a90b7c49c7fb36899289fae30a95d9daa9feae1f0c5934354570"
+        },
+        {
+            "file": "v4_texer3.bmp",
+            "size": 4854,
+            "checksum": "sha256:77c620edd0df29e8c3fd320cf301022d0fc169b68786781a09e89ce47fdac1d9"
+        },
+        {
+            "file": "v4_texer5.bmp",
+            "size": 4854,
+            "checksum": "sha256:478c1a87ee46108ebda2b866e0db6f715b2a4d6e95b65ef8f7642de94f498a7b"
+        },
+        {
+            "file": "Zmzv3_texer.bmp",
+            "size": 9358,
+            "checksum": "sha256:5ad9c1c53613ebab4374722917a99ddcf61bb05b435e95531e4048ed5281eaec"
+        }
+    ],
+    "plugins": [
+        "AddBorder",
+        "ConvolutionFilter",
+        "GlobalVarMan",
+        "Picture2",
+        "TransAuto",
+        "Triangle"
+    ]
+}

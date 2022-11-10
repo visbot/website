@@ -1,0 +1,29 @@
+{
+    "name": "DDxo1",
+    "id": "VB135",
+    "presets": [
+        {
+            "file": "Dynamic Duo/DDxo1/ddA1__upachi (sitting bull mix by drew).avs",
+            "size": 2678,
+            "checksum": "sha256:ac8d379b66c6dea94e1401fdf659a8256da53cdd48182f060c0a0a7c92b0d714"
+        },
+        {
+            "file": "Dynamic Duo/DDxo1/ddA2__contraction (sunfraction mix by grandchild).avs",
+            "size": 4468,
+            "checksum": "sha256:98503c1da04dd07f0dc2433df22b4ada4587276e4d1d356d25fd9b8f5f55c933"
+        },
+        {
+            "file": "Dynamic Duo/DDxo1/ddB1__tentaclism (transatentaclism mix by frames-of-reality).avs",
+            "size": 4714,
+            "checksum": "sha256:ae9c357c85adf15d7d9117f47ab25363cd1914cb37a3b89c49fb323118fe1a43"
+        },
+        {
+            "file": "Dynamic Duo/DDxo1/ddB2__upachi (steel sky mix by zen-x).avs",
+            "size": 3532,
+            "checksum": "sha256:0de406af471d80745fb81a061fddfe3ff3e90b09098842f68bc25671eaf8a9af"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

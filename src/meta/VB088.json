@@ -1,0 +1,33 @@
+{
+    "name": "whyEye.org the crossbreeds 2",
+    "id": "VB088",
+    "presets": [
+        {
+            "file": "whyEye.org/whyEye.org the crossbreeds 2/yiA1__all night long (v.i.p.).avs",
+            "size": 3627,
+            "checksum": "sha256:f55e68833412d669361fd0bcf4584c4cd36ccd28f6dc1293369e20eb1921411e"
+        },
+        {
+            "file": "whyEye.org/whyEye.org the crossbreeds 2/yiA2__the crossing (rework).avs",
+            "size": 1365,
+            "checksum": "sha256:6ecd99759f01d79a8e04383174f3adc15a87fd8c4e675e41d62d035ae5f89a98"
+        },
+        {
+            "file": "whyEye.org/whyEye.org the crossbreeds 2/yiB1__pullin out these old tricks (complementary edit).avs",
+            "size": 1886,
+            "checksum": "sha256:fdbfb0156722f584b5c0ff4f8947dc5c0b5a294748cdc9073fef4e255bfcb55c"
+        },
+        {
+            "file": "whyEye.org/whyEye.org the crossbreeds 2/yiB2__meet the faunaticz (part 1).avs",
+            "size": 2542,
+            "checksum": "sha256:3c94d01049582d4718287e40996fa1e1f97af53d4e995d2a3082a1abd43b6948"
+        }
+    ],
+    "plugins": [
+        "AddBorder",
+        "ChannelShift",
+        "ColorMap",
+        "ConvolutionFilter",
+        "MultiFilter"
+    ]
+}
