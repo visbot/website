@@ -1,23 +1,23 @@
 <script lang="ts">
-	import { Chat, GitHub, Twitter } from '$components/Icon';
+	import { Chat, GitHub, Mastodon } from '$components/Icon';
 </script>
 
 <nav class="font-semibold bg-white sm:border-2 border-black dark:bg-neutral-900 dark:text-white p-4 my-0 sm:mb-4">
 	<span>VISBOT NETWORK</span>
 	<ul class="float-right">
 		<li class="inline-block">
-			<a href="https://twitter.com/visbot" class="hover:text-red-500 dark:hover:text-rose-400" title="Follow us on Twitter" target="_blank" rel="me noreferrer">
-				<Twitter />
-			</a>
-		</li>
-		<li class="inline-block">
-			<a href="https://github.com/visbot" class="hover:text-red-500 dark:hover:text-rose-400" title="Find our projects on GitHub" target="_blank" rel="me noreferrer">
-				<GitHub />
+			<a href="https://mastodon.social/@visbot" class="hover:text-red-500 dark:hover:text-rose-400" title="Follow us on Mastodon" target="_blank" rel="me noreferrer">
+				<Mastodon />
 			</a>
 		</li>
 		<li class="inline-block">
 			<a href="https://discord.gg/ezRVJEvu" class="hover:text-red-500 dark:hover:text-rose-400" title="Join our Discord channel" target="_blank" rel="noreferrer">
 				<Chat />
+			</a>
+		</li>
+		<li class="inline-block">
+			<a href="https://github.com/visbot" class="hover:text-red-500 dark:hover:text-rose-400" title="Find our projects on GitHub" target="_blank" rel="me noreferrer">
+				<GitHub />
 			</a>
 		</li>
 	</ul>
