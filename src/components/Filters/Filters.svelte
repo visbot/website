@@ -133,4 +133,9 @@
 	::placeholder {
 		text-transform: lowercase;
 	}
+
+	select {
+		-webkit-appearance: none;
+		border-radius: 0;
+	}
 </style>
