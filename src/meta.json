@@ -141,6 +141,15 @@
     ]
   },
   {
+    "id": "VA015",
+    "tba": true,
+    "byline": "Amphirion",
+    "type": "compilation",
+    "artists": [
+      "amphirion"
+    ]
+  },
+  {
     "id": "VB001-1",
     "name": "Brokenframe Teasa",
     "byline": "Yathosho",
