@@ -1,5 +1,4 @@
 <script lang="ts">
-	import LoginForm from '$components/WordpressLogin/LoginForm.svelte';
 	import { meta as store } from '$stores/meta';
 	import metaData from '../../meta.json';
 
