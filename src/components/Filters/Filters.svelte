@@ -30,7 +30,9 @@
 						return item;
 					}
 
-					return item.name.toLowerCase().includes(value);
+					if (item?.name?.length) {
+						return item.name.toLowerCase().includes(value);
+					}
 				})
 			);
 		} else {
