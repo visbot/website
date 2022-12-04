@@ -132,6 +132,15 @@
     ]
   },
   {
+    "id": "VA014",
+    "tba": true,
+    "byline": "Zamuz",
+    "type": "compilation",
+    "artists": [
+      "zamuz"
+    ]
+  },
+  {
     "id": "VB001-1",
     "name": "Brokenframe Teasa",
     "byline": "Yathosho",
