@@ -8,11 +8,6 @@
 			<div class="inline-block md:block">{release.id.toLowerCase()}</div>
 			<div class="divider border-t-2 border-neutral-400 border-dotted mt-4 dark:border-neutral-400 hidden sm:block" />
 
-			{#if release.is_new}
-				<div class="align-self-center">
-					<img src="new.gif" alt="New release." />
-				</div>
-			{/if}
 			<div class="inline-block md:block">
 				{#if release.tba}
 					<span title="To be announced">t.b.a.</span>
@@ -24,6 +19,10 @@
 				by
 				<span class="text-red-600 dark:text-rose-400">{release.byline.toLowerCase()}</span>
 			</div>
+
+			{#if release.is_new}
+				<img class="self-center" src="new.gif" alt="New release." />
+			{/if}
 		</li>
 	{/each}
 </ol>
@@ -36,9 +35,5 @@
 	img {
 		width: 25px;
 		height: 9px;
-	}
-
-	.align-self-center {
-		align-self: center;
 	}
 </style>
