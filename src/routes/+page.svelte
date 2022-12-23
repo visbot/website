@@ -46,5 +46,9 @@
 		:global(body) {
 			background-color: #414141;
 		}
+
+		:global(.box-shadow) {
+			box-shadow: 0.33rem 0.33rem 0 0 #e5e5e5;
+		}
 	}
 </style>
