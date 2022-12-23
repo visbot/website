@@ -22,7 +22,7 @@
 	<meta name="description" content="A collective of artists creating Winamp visuals" />
 </svelte:head>
 
-<div class="font-mono lg:max-w-screen-lg lg:mx-auto sm:p-4">
+<div class="font-mono lg:max-w-screen-lg lg:mx-auto sm:pt-4">
 	<Nav />
 	<Filters />
 	<Main />

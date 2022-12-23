@@ -1,9 +1,11 @@
 <script lang="ts">
 	import { Chat, GitHub, Mastodon } from '$components/Icon';
+	import { meta as store } from '$stores/meta';
+	import metaData from '../../meta.json';
 </script>
 
 <nav class="font-semibold bg-white sm:border-2 border-black dark:bg-neutral-900 dark:text-white p-4 my-0 sm:mb-4 box-shadow">
-	VISBOT NETWORK
+	<button on:click={() => store.set(metaData)}>VISBOT NETWORK</button>
 	<ul class="float-right">
 		<li class="inline-block">
 			<a href="https://mastodon.social/@visbot" class="hover:text-red-500 dark:hover:text-rose-400" title="Follow us on Mastodon" target="_blank" rel="me noreferrer">
