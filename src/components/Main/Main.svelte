@@ -3,7 +3,7 @@
 	import { meta as store } from '$stores/meta';
 </script>
 
-<main class="bg-white sm:border-2 border-black dark:bg-neutral-900 dark:text-white p-4 my-0">
+<main class="bg-white sm:border-2 border-black dark:bg-neutral-900 dark:text-white p-4 my-0 box-shadow">
 	{#if Object.keys($store)?.length}
 		<ReleaseSection
 			title="Allstar Series"

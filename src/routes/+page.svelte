@@ -38,6 +38,10 @@
 		background-image: url('/tile.png');
 	}
 
+	:global(.box-shadow) {
+		box-shadow: 0.33rem 0.33rem 0 0 #000;
+	}
+
 	@media (prefers-color-scheme: dark) {
 		:global(body) {
 			background-color: #414141;

@@ -80,10 +80,10 @@
 </script>
 
 <div class="hidden sm:flex flex-wrap sm:gap-x-4">
-	<input class="grow bg-white sm:border-2 border-black dark:bg-neutral-900 dark:text-white p-4 my-0 sm:mb-4" type="text" placeholder="search..." on:keyup={searchHandler} bind:value={searchValue} />
+	<input class="grow bg-white sm:border-2 border-black dark:bg-neutral-900 dark:text-white p-4 my-0 sm:mb-4 box-shadow" type="text" placeholder="search..." on:keyup={searchHandler} bind:value={searchValue} />
 
 	<div class="flex justify-evenly grow gap-x-4">
-		<select class="placeholder-neutral-500 bg-white grow sm:border-2 border-black dark:bg-neutral-900 dark:text-white p-4 my-0 sm:mb-4" on:change={artistHandler} bind:value={selectedArtist}>
+		<select class="placeholder-neutral-500 bg-white grow sm:border-2 border-black dark:bg-neutral-900 dark:text-white p-4 my-0 sm:mb-4 box-shadow" on:change={artistHandler} bind:value={selectedArtist}>
 			<option value="">-- Artist --</option>
 			<option value="alt-iii">Alt III</option>
 			<option value="amphirion">Amphirion</option>
@@ -108,14 +108,14 @@
 			<option value="zamuz">Zamuz</option>
 		</select>
 
-		<select class="grow bg-white sm:border-2 border-black dark:bg-neutral-900 dark:text-white p-4 my-0 sm:mb-4" on:change={typeHandler} bind:value={selectedType}>
+		<select class="grow bg-white sm:border-2 border-black dark:bg-neutral-900 dark:text-white p-4 my-0 sm:mb-4 box-shadow" on:change={typeHandler} bind:value={selectedType}>
 			<option value="">-- Type --</option>
 			<option value="album">Album</option>
 			<option value="compilation">Compilation</option>
 			<option value="single">Single</option>
 		</select>
 
-		<select class="grow bg-white sm:border-2 border-black dark:bg-neutral-900 dark:text-white p-4 my-0 sm:mb-4" on:change={seriesHandler} bind:value={selectedSeries}>
+		<select class="grow bg-white sm:border-2 border-black dark:bg-neutral-900 dark:text-white p-4 my-0 sm:mb-4 box-shadow" on:change={seriesHandler} bind:value={selectedSeries}>
 			<option value="">-- Series --</option>
 			<option value="a">A is for Allstar</option>
 			<option value="b">B is for (Vis)Bot</option>
