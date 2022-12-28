@@ -4,7 +4,7 @@
 
 <ol>
 	{#each data as release}
-		<li class="flex space-x-4">
+		<li class="flex space-x-2">
 			<div class="inline-block md:block">{release.id.toLowerCase()}</div>
 			<div class="divider border-t-2 border-neutral-400 border-dotted mt-4 dark:border-neutral-400 hidden sm:block" />
 
