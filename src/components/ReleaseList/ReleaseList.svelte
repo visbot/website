@@ -10,7 +10,7 @@
 
 			<div class="inline-block md:block">
 				{#if release.tba}
-					<span title="To be announced">t.b.a.</span>
+					<span title="To be announced">{release.name?.toLowerCase() || 't.b.a.'}</span>
 				{:else}
 					<a href="/downloads/packs/{release.id}.exe.zip" class="text-red-600 hover:bg-red-600 dark:text-rose-400 dark:hover:bg-rose-400 hover:text-white">{release.name.toLowerCase()}</a>{#if release.geoblock?.length}<span class="cursor-help" title="Formerly a Japan exclusive pack">*</span>{/if}
 				{/if}
