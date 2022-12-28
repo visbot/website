@@ -132,12 +132,22 @@
     ]
   },
   {
-    "id": "VA014",
-    "tba": true,
+    "id": "VA014-1",
+    "name": "Innervision",
     "byline": "Zamuz",
     "type": "compilation",
     "artists": [
       "zamuz"
+    ]
+  },
+  {
+    "id": "VA014-2",
+    "name": "visions.ii.sx",
+    "byline": "Zamuz / Skupers",
+    "type": "compilation",
+    "artists": [
+      "zamuz",
+      "skupers"
     ]
   },
   {
@@ -2886,16 +2896,6 @@
     "type": "single",
     "artists": [
       "dynamic-duo"
-    ]
-  },
-  {
-    "id": "VB245",
-    "tba": true,
-    "byline": "Zamuz / Skupers",
-    "type": "compilation",
-    "artists": [
-      "zamuz",
-      "skupers"
     ]
   },
   {
