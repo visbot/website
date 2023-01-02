@@ -25,7 +25,8 @@
 		"checkJs": true,
 		"paths": {
 			"$components/*": ["./src/components/*"],
-			"$lib/*": ["./src/lib/*"],
+      "$lib":["src/lib"],
+      "$lib/*":["src/lib/*"],
 			"$meta/*": ["./src/meta/*"],
 			"$stores/*": ["./src/stores/*"]
 		}
