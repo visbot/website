@@ -1,6 +1,6 @@
 /* TEAM */
-	Founder: Yathosho
-	From: Germany
+  Founder: Yathosho
+  From: Germany
 
   Founding Member: Alt III
   From: United States

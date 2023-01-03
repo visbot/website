@@ -12,3 +12,6 @@ block_comment_end = */
 
 [*.md]
 trim_trailing_whitespace = false
+
+[humans.txt]
+indent_style = tab
