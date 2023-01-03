@@ -1,0 +1,59 @@
+/* TEAM */
+	Founder: Yathosho
+	From: Germany
+
+  Founding Member: Alt III
+  From: United States
+
+  AVS King: Alt III
+  From: United States
+
+  Founding Member: Duo
+  From: United States
+
+  Founding Member: NemoOrange
+  From: United States
+
+  Founding Member: Skupers
+  From: Netherlands
+
+  Member: Amphirion
+  From: United States
+
+  Member: Effekthasch
+  From: Germany
+
+  Member: Frames of Reality
+  From: Hungary
+
+  Member: Grandchild
+  From: Germany
+
+  Member: Hboy
+  From: Hungary
+
+  Member: JaVS
+  From: Malaysia
+
+  Member: Micro D
+  From: Hungary
+
+  Member: Onionring
+  From: United States
+
+  Member: PAN AM
+  From: Finland
+
+  Member: Synth-C
+  From: Netherlands
+
+  Member: Vanish
+  From: Russian Federation
+
+  Member: Zamuz
+  From: Chile
+
+
+/* SOCIAL MEDIA */
+  Mastodon: @visbot@mastodon.social
+  Twitter: @visbot
