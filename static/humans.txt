@@ -1,8 +1,4 @@
 /* TEAM */
-  Founder: Yathosho
-  Location: Germany
-  Website: https://www.deviantart.com/yathosho
-
   Founding Member: Alt III
   Location: United States
   Website: https://www.deviantart.com/alt-iii
@@ -22,6 +18,10 @@
   Founding Member: Skupers
   Location: Netherlands
   Website: https://www.deviantart.com/skupers
+
+  Founding Member: Yathosho
+  Location: Germany
+  Website: https://www.deviantart.com/yathosho
 
   Member: Amphirion
   Location: United States
