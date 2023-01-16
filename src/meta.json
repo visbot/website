@@ -156,12 +156,14 @@
   },
   {
     "id": "VA015",
-    "tba": true,
+    "name": "collected works 2002-2009",
     "byline": "Amphirion",
     "type": "compilation",
     "artists": [
       "amphirion"
-    ]
+    ],
+    "is_new": true,
+    "date": "2023-01-17"
   },
   {
     "id": "VB001-1",
