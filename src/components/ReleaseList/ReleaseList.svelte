@@ -1,4 +1,5 @@
 <script lang="ts">
+	import { New } from '$components/New';
 	export let data;
 </script>
 
@@ -19,7 +20,7 @@
 			</div>
 
 			{#if release.is_new}
-				<img class="self-center" src="new.gif" alt="New release." />
+				<New />
 			{/if}
 		</li>
 	{/each}
