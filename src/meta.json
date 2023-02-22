@@ -2905,6 +2905,16 @@
     ]
   },
   {
+    "id": "VB245",
+    "name": "u.g.l.y. edits 00",
+    "byline": "Yathosho",
+    "type": "single",
+    "artists": [
+      "yathosho"
+    ],
+    "is_new": true
+  },
+  {
     "id": "VC001",
     "name": "The First Season",
     "byline": "VISBOT",
