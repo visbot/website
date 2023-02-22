@@ -2,7 +2,7 @@
 
 <style lang="postcss">
 	div {
-		background-image: url(/new.png);
+		background-image: url(/new.svg), url(/new.png), url(/new.gif);
 		display: flex;
 		width: 25px;
 		height: 9px;
