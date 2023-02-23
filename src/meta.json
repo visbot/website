@@ -2923,7 +2923,8 @@
     "artists": [
       "various-artists"
     ],
-    "playlist": "PLC8FC4703CEBD30EC"
+    "playlist": "PLC8FC4703CEBD30EC",
+    "date": "2003-03-21"
   },
   {
     "id": "VC002",
@@ -2933,7 +2934,8 @@
     "artists": [
       "various-artists"
     ],
-    "playlist": "PLF938CBA490D3A1CC"
+    "playlist": "PLF938CBA490D3A1CC",
+    "date": "2003-06-21"
   },
   {
     "id": "VC003",
@@ -2943,7 +2945,8 @@
     "artists": [
       "various-artists"
     ],
-    "playlist": "PLB0DFD9CD2C749DCD"
+    "playlist": "PLB0DFD9CD2C749DCD",
+    "date": "2003-12-21"
   },
   {
     "id": "VC004",
@@ -2953,7 +2956,8 @@
     "artists": [
       "various-artists"
     ],
-    "playlist": "PL882236B815654798"
+    "playlist": "PL882236B815654798",
+    "date": "2004-03-21"
   },
   {
     "id": "VC005",
@@ -2963,7 +2967,8 @@
     "artists": [
       "various-artists"
     ],
-    "playlist": "PL3E32B46E39B34287"
+    "playlist": "PL3E32B46E39B34287",
+    "date": "2004-06-21"
   },
   {
     "id": "VC006",
@@ -2973,7 +2978,8 @@
     "artists": [
       "various-artists"
     ],
-    "playlist": "PL5BA33A9FB25376CF"
+    "playlist": "PL5BA33A9FB25376CF",
+    "date": "2004-12-21"
   },
   {
     "id": "VC007",
@@ -2983,7 +2989,8 @@
     "artists": [
       "various-artists"
     ],
-    "playlist": "PLEB6468F8EC199207"
+    "playlist": "PLEB6468F8EC199207",
+    "date": "2005-03-21"
   },
   {
     "id": "VC008",
@@ -2993,7 +3000,8 @@
     "artists": [
       "various-artists"
     ],
-    "playlist": "PL2600E60B59C6765C"
+    "playlist": "PL2600E60B59C6765C",
+    "date": "2005-06-23"
   },
   {
     "id": "VC009",
@@ -3003,7 +3011,8 @@
     "artists": [
       "various-artists"
     ],
-    "playlist": "PLACAF686A0AC0C30E"
+    "playlist": "PLACAF686A0AC0C30E",
+    "date": "2005-09-21"
   },
   {
     "id": "VC010",
@@ -3013,7 +3022,8 @@
     "artists": [
       "various-artists"
     ],
-    "playlist": "PLE783D5F6548538CE"
+    "playlist": "PLE783D5F6548538CE",
+    "date": "2005-12-21"
   },
   {
     "id": "VC011",
@@ -3023,7 +3033,8 @@
     "artists": [
       "various-artists"
     ],
-    "playlist": "PL92AC381C67AA7CA6"
+    "playlist": "PL92AC381C67AA7CA6",
+    "date": "2006-10-03"
   },
   {
     "id": "VC012",
@@ -3033,7 +3044,8 @@
     "artists": [
       "various-artists"
     ],
-    "playlist": "PL642065ACB7E2110E"
+    "playlist": "PL642065ACB7E2110E",
+    "date": "2006-12-21"
   },
   {
     "id": "VC013",
@@ -3043,7 +3055,8 @@
     "artists": [
       "various-artists"
     ],
-    "playlist": "PL4C3F4E285C0A5F18"
+    "playlist": "PL4C3F4E285C0A5F18",
+    "date": "2007-06-21"
   },
   {
     "id": "VC014",
@@ -3053,7 +3066,8 @@
     "artists": [
       "various-artists"
     ],
-    "playlist": "PL3BA8D5F35A73A50B"
+    "playlist": "PL3BA8D5F35A73A50B",
+    "date": "2007-12-21"
   },
   {
     "id": "VC015",
@@ -3063,7 +3077,8 @@
     "artists": [
       "various-artists"
     ],
-    "playlist": "PL184798A15F12BBD8"
+    "playlist": "PL184798A15F12BBD8",
+    "date": "2007-06-24"
   },
   {
     "id": "VC016",
@@ -3073,7 +3088,8 @@
     "artists": [
       "various-artists"
     ],
-    "playlist": "PL4826E8A539DDF07D"
+    "playlist": "PL4826E8A539DDF07D",
+    "date": "2007-12-21"
   },
   {
     "id": "VC017",
@@ -3083,7 +3099,8 @@
     "artists": [
       "various-artists"
     ],
-    "playlist": "PLAB2FB8426CC49B05"
+    "playlist": "PLAB2FB8426CC49B05",
+    "date": "2008-09-21"
   },
   {
     "id": "VC018",
@@ -3093,7 +3110,8 @@
     "artists": [
       "various-artists"
     ],
-    "playlist": "PL6F6FDC9175C11145"
+    "playlist": "PL6F6FDC9175C11145",
+    "date": "2010-03-21"
   },
   {
     "id": "VC019",
@@ -3103,7 +3121,8 @@
     "artists": [
       "various-artists"
     ],
-    "playlist": "PL67836DCA9E5FAAB2"
+    "playlist": "PL67836DCA9E5FAAB2",
+    "date": "2010-12-10"
   },
   {
     "id": "VC020",
@@ -3113,7 +3132,8 @@
     "artists": [
       "various-artists"
     ],
-    "playlist": "PL5060450D9F89D561"
+    "playlist": "PL5060450D9F89D561",
+    "date": "2010-12-21"
   },
   {
     "id": "VD001",
