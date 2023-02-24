@@ -68,7 +68,8 @@
     "artists": [
       "les-noobiens"
     ],
-    "playlist": "PLFF4C2661D73330B3"
+    "playlist": "PLFF4C2661D73330B3",
+    "date": "2007-11-06"
   },
   {
     "id": "VA007",
@@ -78,7 +79,8 @@
     "artists": [
       "dynamic-duo"
     ],
-    "playlist": "PL2FE4F37E43CC0233"
+    "playlist": "PL2FE4F37E43CC0233",
+    "date": "2007-11-07"
   },
   {
     "id": "VA008",
@@ -207,7 +209,8 @@
     "artists": [
       "skupers"
     ],
-    "playlist": "PL6E085DD000144728"
+    "playlist": "PL6E085DD000144728",
+    "date": "2003-05-04"
   },
   {
     "id": "VB003-2",
@@ -217,7 +220,8 @@
     "artists": [
       "skupers"
     ],
-    "playlist": "PL9889DEC6A2342E06"
+    "playlist": "PL9889DEC6A2342E06",
+    "date": "2003-05-18"
   },
   {
     "id": "VB004",
@@ -266,7 +270,8 @@
     "type": "single",
     "artists": [
       "skupers"
-    ]
+    ],
+    "date": "2003-06-12"
   },
   {
     "id": "VB007-2",
@@ -276,6 +281,7 @@
     "artists": [
       "skupers"
     ]
+    "date": "2003-06-17"
   },
   {
     "id": "VB008",
@@ -339,7 +345,8 @@
     "artists": [
       "skupers"
     ],
-    "playlist": "PL9855B1AB865E8F36"
+    "playlist": "PL9855B1AB865E8F36",
+    "date": "2003-07-05"
   },
   {
     "id": "VB013",
@@ -368,7 +375,8 @@
     "artists": [
       "duo"
     ],
-    "playlist": "PLC579FF95001278A0"
+    "playlist": "PLC579FF95001278A0",
+    "date": "2003-06-15"
   },
   {
     "id": "VB015-2",
@@ -378,7 +386,8 @@
     "artists": [
       "duo"
     ],
-    "playlist": "PL19AE009BDEE00228"
+    "playlist": "PL19AE009BDEE00228",
+    "date": "2003-06-15"
   },
   {
     "id": "VB015-3",
@@ -388,7 +397,8 @@
     "artists": [
       "duo"
     ],
-    "playlist": "PL041EDCD2DFA9E4F5"
+    "playlist": "PL041EDCD2DFA9E4F5",
+    "date": "2003-06-15"
   },
   {
     "id": "VB016",
@@ -497,7 +507,8 @@
     "type": "single",
     "artists": [
       "dynamic-duo"
-    ]
+    ],
+    "date": "2003-08-20"
   },
   {
     "id": "VB024",
@@ -564,7 +575,8 @@
     "type": "single",
     "artists": [
       "skupers"
-    ]
+    ],
+    "date": "2003-10-28"
   },
   {
     "id": "VB029-2",
@@ -574,7 +586,8 @@
     "artists": [
       "skupers"
     ],
-    "playlist": "PLF1857F7583C83C68"
+    "playlist": "PLF1857F7583C83C68",
+    "date": "2003-12-29"
   },
   {
     "id": "VB030",
@@ -595,7 +608,8 @@
       "skupers",
       "amphirion"
     ],
-    "playlist": "PLAC06315A88ACD95E"
+    "playlist": "PLAC06315A88ACD95E",
+    "date": "2003-09-16"
   },
   {
     "id": "VB032",
@@ -763,7 +777,8 @@
     "type": "single",
     "artists": [
       "dynamic-duo"
-    ]
+    ],
+    "date": "2004-01-13"
   },
   {
     "id": "VB045",
@@ -791,7 +806,8 @@
     "type": "compilation",
     "artists": [
       "skupers"
-    ]
+    ],
+    "date": "2003-12-23"
   },
   {
     "id": "VB048",
@@ -802,7 +818,8 @@
       "dynamic-duo",
       "finnish-flash"
     ],
-    "playlist": "PL511BFC1BF987FE2C"
+    "playlist": "PL511BFC1BF987FE2C",
+    "date": "2004-01-29"
   },
   {
     "id": "VB049",
@@ -883,7 +900,8 @@
     "type": "single",
     "artists": [
       "dynamic-duo"
-    ]
+    ],
+    "date": "2004-04-05"
   },
   {
     "id": "VB056",
@@ -914,7 +932,8 @@
       "zamuz",
       "hboy"
     ],
-    "playlist": "PL4A56834A97CD756B"
+    "playlist": "PL4A56834A97CD756B",
+    "date": "2004-03-20"
   },
   {
     "id": "VB059",
@@ -976,7 +995,8 @@
     "type": "single",
     "artists": [
       "les-noobiens"
-    ]
+    ],
+    "date": "2004-09-05"
   },
   {
     "id": "VB065-1",
@@ -1005,7 +1025,8 @@
     "type": "single",
     "artists": [
       "dynamic-duo"
-    ]
+    ],
+    "date": "2004-08-01"
   },
   {
     "id": "VB067",
@@ -1054,7 +1075,8 @@
     "type": "single",
     "artists": [
       "les-noobiens"
-    ]
+    ],
+    "date": "2004-08-07"
   },
   {
     "id": "VB071-1",
@@ -1083,7 +1105,8 @@
     "type": "compilation",
     "artists": [
       "les-noobiens"
-    ]
+    ],
+    "date": "2004-09-23"
   },
   {
     "id": "VB073",
@@ -1123,7 +1146,8 @@
       "nemo-orange",
       "unripe-lemon"
     ],
-    "playlist": "PLB0575E975ED37E29"
+    "playlist": "PLB0575E975ED37E29",
+    "date": "2004-10-29"
   },
   {
     "id": "VB076-1",
@@ -1142,7 +1166,8 @@
     "artists": [
       "les-noobiens"
     ],
-    "playlist": "PL1B1AD0C0F8979DA0"
+    "playlist": "PL1B1AD0C0F8979DA0",
+    "date": "2004-11-03"
   },
   {
     "id": "VB077",
@@ -1197,7 +1222,8 @@
       "danaughty1",
       "hboy"
     ],
-    "playlist": "PLD4C2F85A1B8B2D7B"
+    "playlist": "PLD4C2F85A1B8B2D7B",
+    "date": "2005-01-01"
   },
   {
     "id": "VB081-1",
@@ -1216,7 +1242,8 @@
     "artists": [
       "les-noobiens"
     ],
-    "playlist": "PL3E066DFCC4855462"
+    "playlist": "PL3E066DFCC4855462",
+    "date": "2004-12-18"
   },
   {
     "id": "VB082",
@@ -1249,7 +1276,8 @@
     "type": "compilation",
     "artists": [
       "les-noobiens"
-    ]
+    ],
+    "date": "2004-12-07"
   },
   {
     "id": "VB085",
@@ -1281,7 +1309,8 @@
     "type": "single",
     "artists": [
       "danaughty1"
-    ]
+    ],
+    "date": "2004-12-14"
   },
   {
     "id": "VB088",
@@ -1313,7 +1342,8 @@
     "artists": [
       "dynamic-duo"
     ],
-    "playlist": "PLCA0C39FE6651B1AB"
+    "playlist": "PLCA0C39FE6651B1AB",
+    "date": "2005-03-12"
   },
   {
     "id": "VB091",
@@ -1323,7 +1353,8 @@
     "artists": [
       "frames-of-reality"
     ],
-    "playlist": "PLDCA5FE48765A183A"
+    "playlist": "PLDCA5FE48765A183A",
+    "date": "2004-12-15"
   },
   {
     "id": "VB092",
@@ -1341,7 +1372,8 @@
     "type": "single",
     "artists": [
       "frames-of-reality"
-    ]
+    ],
+    "date": "2005-01-26"
   },
   {
     "id": "VB093-2",
@@ -1350,7 +1382,8 @@
     "type": "single",
     "artists": [
       "frames-of-reality"
-    ]
+    ],
+    "date": "2005-01-26"
   },
   {
     "id": "VB094",
@@ -1396,7 +1429,8 @@
     "type": "single",
     "artists": [
       "danaughty1"
-    ]
+    ],
+    "date": "2005-01-29"
   },
   {
     "id": "VB098",
@@ -1456,7 +1490,8 @@
     "artists": [
       "frames-of-reality"
     ],
-    "playlist": "PL9258F95F32AA6EED"
+    "playlist": "PL9258F95F32AA6EED",
+    "date": "2005-03-07"
   },
   {
     "id": "VB104",
@@ -1486,7 +1521,8 @@
       "amphirion",
       "vanish"
     ],
-    "playlist": "PL323E372CBC499F13"
+    "playlist": "PL323E372CBC499F13",
+    "date": "2005-05-05"
   },
   {
     "id": "VB107",
@@ -1545,7 +1581,8 @@
     "artists": [
       "hboy"
     ],
-    "playlist": "PL50B694740780157A"
+    "playlist": "PL50B694740780157A",
+    "date": "2005-08-11"
   },
   {
     "id": "VB113",
@@ -1567,7 +1604,8 @@
     "type": "single",
     "artists": [
       "les-noobiens"
-    ]
+    ],
+    "date": "2006-03-21"
   },
   {
     "id": "VB115",
@@ -1576,7 +1614,8 @@
     "type": "single",
     "artists": [
       "dynamic-duo"
-    ]
+    ],
+    "date": "2005-09-06"
   },
   {
     "id": "VB116",
@@ -1584,9 +1623,10 @@
     "byline": "Synth-C",
     "type": "album",
     "artists": [
-      "yathosho"
+      "synth-c"
     ],
-    "playlist": "PL458E7B43045A4D42"
+    "playlist": "PL458E7B43045A4D42",
+    "date": "2005-11-04"
   },
   {
     "id": "VB117-1",
@@ -1632,7 +1672,8 @@
     "artists": [
       "frames-of-reality"
     ],
-    "playlist": "PL53FACC76F10AED15"
+    "playlist": "PL53FACC76F10AED15",
+    "date": "2005-12-12"
   },
   {
     "id": "VB120-1",
@@ -1718,7 +1759,8 @@
     "artists": [
       "frames-of-reality"
     ],
-    "playlist": "PL37BE6A3CD6D52143"
+    "playlist": "PL37BE6A3CD6D52143",
+    "date": "2006-02-27"
   },
   {
     "id": "VB126-2",
@@ -1795,7 +1837,8 @@
     "artists": [
       "hboy"
     ],
-    "playlist": "PLF51D7D2A0B7438BA"
+    "playlist": "PLF51D7D2A0B7438BA",
+    "date": "2006-06-11"
   },
   {
     "id": "VB134-1",
@@ -1823,7 +1866,8 @@
     "type": "single",
     "artists": [
       "dynamic-duo"
-    ]
+    ],
+    "date": "2006-09-14"
   },
   {
     "id": "VB136",
@@ -1851,7 +1895,8 @@
     "type": "single",
     "artists": [
       "dynamic-duo"
-    ]
+    ],
+    "date": "2006-10-02"
   },
   {
     "id": "VB139",
@@ -1900,7 +1945,8 @@
     "type": "single",
     "artists": [
       "dynamic-duo"
-    ]
+    ],
+    "date": "2006-10-21"
   },
   {
     "id": "VB144",
@@ -1909,7 +1955,8 @@
     "type": "single",
     "artists": [
       "dynamic-duo"
-    ]
+    ],
+    "date": "2006-11-06"
   },
   {
     "id": "VB145",
@@ -1959,7 +2006,8 @@
     "artists": [
       "pan-am"
     ],
-    "playlist": "PLB70B35975BFC1A86"
+    "playlist": "PLB70B35975BFC1A86",
+    "date": "2007-01-06"
   },
   {
     "id": "VB150-1",
@@ -2022,7 +2070,8 @@
     "artists": [
       "dynamic-duo"
     ],
-    "playlist": "PLDDD7800D4D598519"
+    "playlist": "PLDDD7800D4D598519",
+    "date": "2007-02-11"
   },
   {
     "id": "VB155",
@@ -2062,7 +2111,8 @@
       "yathosho",
       "grandchild"
     ],
-    "playlist": "PLEDF0F3AC1CE39BE7"
+    "playlist": "PLEDF0F3AC1CE39BE7",
+    "date": "2007-03-31"
   },
   {
     "id": "VB159",
@@ -2071,7 +2121,8 @@
     "type": "single",
     "artists": [
       "dynamic-duo"
-    ]
+    ],
+    "date": "2007-03-25"
   },
   {
     "id": "VB160",
@@ -2100,7 +2151,8 @@
     "type": "single",
     "artists": [
       "les-noobiens"
-    ]
+    ],
+    "date": "2007-04-15"
   },
   {
     "id": "VB163",
@@ -2109,7 +2161,8 @@
     "type": "single",
     "artists": [
       "dynamic-duo"
-    ]
+    ],
+    "date": "2007-07-04"
   },
   {
     "id": "VB164",
@@ -2140,7 +2193,8 @@
     "type": "single",
     "artists": [
       "dynamic-duo"
-    ]
+    ],
+    "date": "2007-07-12"
   },
   {
     "id": "VB167",
@@ -2193,7 +2247,8 @@
     "artists": [
       "yathosho"
     ],
-    "playlist": "PLC48C2B160D61246A"
+    "playlist": "PLC48C2B160D61246A",
+    "date": "2007-08-18"
   },
   {
     "id": "VB172",
@@ -2247,7 +2302,8 @@
     "type": "single",
     "artists": [
       "amphirion"
-    ]
+    ],
+    "date": "2007-09-10"
   },
   {
     "id": "VB177",
@@ -2258,7 +2314,8 @@
       "dynamic-duo",
       "onionring"
     ],
-    "playlist": "PL28C90C4308544A42"
+    "playlist": "PL28C90C4308544A42",
+    "date": "2007-09-30"
   },
   {
     "id": "VB178",
@@ -2353,7 +2410,8 @@
     "artists": [
       "vanish"
     ],
-    "playlist": "PL0E30C5ED57BB7A2F"
+    "playlist": "PL0E30C5ED57BB7A2F",
+    "date": "2008-03-23"
   },
   {
     "id": "VB185",
@@ -2402,7 +2460,8 @@
     "type": "single",
     "artists": [
       "dynamic-duo"
-    ]
+    ],
+    "date": "2009-03-14"
   },
   {
     "id": "VB190",
@@ -2422,7 +2481,8 @@
     "type": "single",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2009-03-06"
   },
   {
     "id": "VB192",
@@ -2432,7 +2492,8 @@
     "artists": [
       "dynamic-duo"
     ],
-    "playlist": "PLB13504DD2BB27AF9"
+    "playlist": "PLB13504DD2BB27AF9",
+    "date": "2009-03-08"
   },
   {
     "id": "VB193",
@@ -2443,7 +2504,8 @@
       "synth-c",
       "zamuz"
     ],
-    "playlist": "PLE11D948656921482"
+    "playlist": "PLE11D948656921482",
+    "date": "2009-03-08"
   },
   {
     "id": "VB194",
@@ -2485,7 +2547,8 @@
     "artists": [
       "yathosho",
       "grandchild"
-    ]
+    ],
+    "date": "2009-04-03"
   },
   {
     "id": "VB198",
@@ -2494,7 +2557,8 @@
     "type": "single",
     "artists": [
       "dynamic-duo"
-    ]
+    ],
+    "date": "2009-04-12"
   },
   {
     "id": "VB199",
@@ -2521,7 +2585,8 @@
     "type": "single",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2009-04-09"
   },
   {
     "id": "VB201-2",
@@ -2531,7 +2596,8 @@
     "artists": [
       "yathosho"
     ],
-    "playlist": "PLB9801786A425E718"
+    "playlist": "PLB9801786A425E718",
+    "date": "2009-04-29"
   },
   {
     "id": "VB202",
@@ -2541,7 +2607,8 @@
     "artists": [
       "dynamic-duo"
     ],
-    "playlist": "PLB9D93876A3F1EC7C"
+    "playlist": "PLB9D93876A3F1EC7C",
+    "date": "2009-05-09"
   },
   {
     "id": "VB203",
@@ -2560,7 +2627,8 @@
     "artists": [
       "yathosho"
     ],
-    "playlist": "PL4EE9E10E918B95D7"
+    "playlist": "PL4EE9E10E918B95D7",
+    "date": "2009-09-25"
   },
   {
     "id": "VB205",
@@ -2569,7 +2637,8 @@
     "type": "single",
     "artists": [
       "dynamic-duo"
-    ]
+    ],
+    "date": "2009-07-09"
   },
   {
     "id": "VB206",
@@ -2615,7 +2684,8 @@
     "type": "single",
     "artists": [
       "dynamic-duo"
-    ]
+    ],
+    "date": "2009-09-09"
   },
   {
     "id": "VB210",
@@ -2624,7 +2694,8 @@
     "type": "single",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2009-11-09"
   },
   {
     "id": "VB211",
@@ -2642,7 +2713,8 @@
     "type": "single",
     "artists": [
       "dynamic-duo"
-    ]
+    ],
+    "date": "2009-10-09"
   },
   {
     "id": "VB212-2",
@@ -2652,7 +2724,8 @@
     "artists": [
       "dynamic-duo"
     ],
-    "playlist": "PL96E9E5718D4979E3"
+    "playlist": "PL96E9E5718D4979E3",
+    "date": "2009-12-09"
   },
   {
     "id": "VB213",
@@ -2662,7 +2735,8 @@
     "artists": [
       "yathosho"
     ],
-    "playlist": "PLAF1275CF0D742DAE"
+    "playlist": "PLAF1275CF0D742DAE",
+    "date": "2009-12-27"
   },
   {
     "id": "VB214",
@@ -2680,7 +2754,8 @@
     "type": "single",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2010-01-01"
   },
   {
     "id": "VB215-2",
@@ -2692,7 +2767,8 @@
     ],
     "geoblock": [
       "jp"
-    ]
+    ],
+    "date": "2010-01-01"
   },
   {
     "id": "VB216",
@@ -2702,7 +2778,8 @@
     "artists": [
       "yathosho"
     ],
-    "playlist": "PLEC695D92EE5BEF2A"
+    "playlist": "PLEC695D92EE5BEF2A",
+    "date": "2010-02-02"
   },
   {
     "id": "VB217",
@@ -2713,7 +2790,8 @@
       "amphirion",
       "micro-d"
     ],
-    "playlist": "PLBBE4BAECBC9D618B"
+    "playlist": "PLBBE4BAECBC9D618B",
+    "date": "2010-03-14"
   },
   {
     "id": "VB218",
@@ -2732,7 +2810,8 @@
     "type": "single",
     "artists": [
       "frames-of-reality"
-    ]
+    ],
+    "date": "2010-04-18"
   },
   {
     "id": "VB219-2",
@@ -2742,7 +2821,8 @@
     "artists": [
       "frames-of-reality"
     ],
-    "playlist": "PL148863C80AE8AAD8"
+    "playlist": "PL148863C80AE8AAD8",
+    "date": "2010-05-23"
   },
   {
     "id": "VB220",
@@ -2780,7 +2860,8 @@
     "artists": [
       "yathosho"
     ],
-    "playlist": "PLEA56855A233740D7"
+    "playlist": "PLEA56855A233740D7",
+    "date": "2010-04-19"
   },
   {
     "id": "VB223",
@@ -2801,7 +2882,8 @@
     "type": "single",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2010-05-19"
   },
   {
     "id": "VB225",
@@ -2820,7 +2902,8 @@
     "type": "album",
     "artists": [
       "frames-of-reality"
-    ]
+    ],
+    "date": "2010-10-31"
   },
   {
     "id": "VB227",
@@ -2839,7 +2922,8 @@
     "artists": [
       "frames-of-reality",
       "amphirion"
-    ]
+    ],
+    "date": "2010-11-07"
   },
   {
     "id": "VB229",
@@ -2848,7 +2932,8 @@
     "type": "single",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2010-12-29"
   },
   {
     "id": "VB230",
@@ -2884,7 +2969,8 @@
     "type": "single",
     "artists": [
       "frames-of-reality"
-    ]
+    ],
+    "date": "2011-02-13"
   },
   {
     "id": "VB234",
@@ -2894,7 +2980,8 @@
     "artists": [
       "effekthasch"
     ],
-    "playlist": "PL5962EA87E2F36A5E"
+    "playlist": "PL5962EA87E2F36A5E",
+    "date": "2011-04-10"
   },
   {
     "id": "VB235",
@@ -2903,7 +2990,8 @@
     "type": "single",
     "artists": [
       "frames-of-reality"
-    ]
+    ],
+    "date": "2011-05-08"
   },
   {
     "id": "VB236",
@@ -2912,7 +3000,8 @@
     "type": "single",
     "artists": [
       "frames-of-reality"
-    ]
+    ],
+    "date": "2011-05-26"
   },
   {
     "id": "VB237",
@@ -2930,7 +3019,8 @@
     "type": "single",
     "artists": [
       "frames-of-reality"
-    ]
+    ],
+    "date": "2011-07-02"
   },
   {
     "id": "VB239",
@@ -2948,7 +3038,8 @@
     "type": "single",
     "artists": [
       "dynamic-duo"
-    ]
+    ],
+    "date": "2011-12-07"
   },
   {
     "id": "VB241",
