@@ -6,7 +6,8 @@
     "type": "compilation",
     "artists": [
       "tonic"
-    ]
+    ],
+    "date": "2004-02-06"
   },
   {
     "id": "VA002",
@@ -25,7 +26,8 @@
     "type": "compilation",
     "artists": [
       "various-artists"
-    ]
+    ],
+    "date": "2002-10-16"
   },
   {
     "id": "VA003-2",
@@ -34,7 +36,8 @@
     "type": "compilation",
     "artists": [
       "various-artists"
-    ]
+    ],
+    "date": "2004-02-06"
   },
   {
     "id": "VA004",
@@ -44,7 +47,8 @@
     "artists": [
       "yathosho"
     ],
-    "playlist": "PL14A1F9B5746E82F7"
+    "playlist": "PL14A1F9B5746E82F7",
+    "date": "2004-11-12"
   },
   {
     "id": "VA005",
@@ -172,7 +176,8 @@
     "type": "single",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2003-04-09"
   },
   {
     "id": "VB001-2",
@@ -181,7 +186,8 @@
     "type": "album",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2003-04-29"
   },
   {
     "id": "VB002",
@@ -220,7 +226,8 @@
     "type": "single",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2003-05-10"
   },
   {
     "id": "VB005-1",
@@ -229,7 +236,8 @@
     "type": "single",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2003-05-11"
   },
   {
     "id": "VB005-2",
@@ -238,7 +246,8 @@
     "type": "single",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2003-05-11"
   },
   {
     "id": "VB006",
@@ -247,7 +256,8 @@
     "type": "single",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2003-05-12"
   },
   {
     "id": "VB007-1",
@@ -294,7 +304,8 @@
     "artists": [
       "yathosho"
     ],
-    "playlist": "PL2B66D0894A9432CA"
+    "playlist": "PL2B66D0894A9432CA",
+    "date": "2003-06-07"
   },
   {
     "id": "VB011-1",
@@ -307,7 +318,8 @@
     "geoblock": [
       "jp"
     ],
-    "playlist": "PLA88256277BEBBD1D"
+    "playlist": "PLA88256277BEBBD1D",
+    "date": "2003"
   },
   {
     "id": "VB011-2",
@@ -316,7 +328,8 @@
     "type": "single",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2003-05-26"
   },
   {
     "id": "VB012",
@@ -335,7 +348,8 @@
     "type": "single",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2003-05-30"
   },
   {
     "id": "VB014",
@@ -393,7 +407,8 @@
     "type": "single",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2003"
   },
   {
     "id": "VB017-2",
@@ -402,7 +417,8 @@
     "type": "single",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2003"
   },
   {
     "id": "VB018",
@@ -430,7 +446,8 @@
     "type": "single",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2003-07-27"
   },
   {
     "id": "VB020-2",
@@ -439,7 +456,8 @@
     "type": "album",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2003"
   },
   {
     "id": "VB021",
@@ -448,7 +466,8 @@
     "type": "single",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2003-07-13"
   },
   {
     "id": "VB022-1",
@@ -457,7 +476,8 @@
     "type": "single",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2003"
   },
   {
     "id": "VB022-2",
@@ -467,7 +487,8 @@
     "artists": [
       "yathosho"
     ],
-    "playlist": "PLAC0D46F45D48D80E"
+    "playlist": "PLAC0D46F45D48D80E",
+    "date": "2003-08-08"
   },
   {
     "id": "VB023",
@@ -485,7 +506,8 @@
     "type": "single",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2003-08-05"
   },
   {
     "id": "VB025",
@@ -494,7 +516,8 @@
     "type": "single",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2003"
   },
   {
     "id": "VB026-1",
@@ -521,7 +544,8 @@
     "type": "single",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2003"
   },
   {
     "id": "VB028",
@@ -590,7 +614,8 @@
     "type": "single",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2003-09-29"
   },
   {
     "id": "VB033-2",
@@ -600,7 +625,8 @@
     "artists": [
       "yathosho"
     ],
-    "playlist": "PLEE305E81D573DB38"
+    "playlist": "PLEE305E81D573DB38",
+    "date": "2003-09-08"
   },
   {
     "id": "VB034",
@@ -611,7 +637,8 @@
       "yathosho",
       "zamuz"
     ],
-    "playlist": "PL015291BF11F3E63F"
+    "playlist": "PL015291BF11F3E63F",
+    "date": "2003-09-16"
   },
   {
     "id": "VB035-1",
@@ -680,7 +707,8 @@
     "type": "single",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2003"
   },
   {
     "id": "VB040-2",
@@ -690,7 +718,8 @@
     "artists": [
       "yathosho"
     ],
-    "playlist": "PL6EFCB52BF012EDE8"
+    "playlist": "PL6EFCB52BF012EDE8",
+    "date": "2003-11-13"
   },
   {
     "id": "VB041",
@@ -712,7 +741,8 @@
     ],
     "geoblock": [
       "jp"
-    ]
+    ],
+    "date": "2004-01-01"
   },
   {
     "id": "VB043",
@@ -782,7 +812,8 @@
     "artists": [
       "various-artists"
     ],
-    "playlist": "PL0A94045FC89E0849"
+    "playlist": "PL0A94045FC89E0849",
+    "date": "2004-01-13"
   },
   {
     "id": "VB050",
@@ -810,7 +841,8 @@
     "type": "single",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2004-02-10"
   },
   {
     "id": "VB052-2",
@@ -819,7 +851,8 @@
     "type": "single",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2004-02-10"
   },
   {
     "id": "VB053",
@@ -829,7 +862,8 @@
     "artists": [
       "yathosho"
     ],
-    "playlist": "PLBA0327BE4727FBA9"
+    "playlist": "PLBA0327BE4727FBA9",
+    "date": "2004-03-01"
   },
   {
     "id": "VB054",
@@ -837,9 +871,10 @@
     "byline": "Dynamic Duo",
     "type": "compilation",
     "artists": [
-      "yathosho"
+      "dynamic-duo"
     ],
-    "playlist": "PLCCEA159ACDD15525"
+    "playlist": "PLCCEA159ACDD15525",
+    "date": "2004-03-12"
   },
   {
     "id": "VB055",
@@ -867,7 +902,8 @@
     "artists": [
       "yathosho"
     ],
-    "playlist": "PLC0A75E597F2C306A"
+    "playlist": "PLC0A75E597F2C306A",
+    "date": "2004"
   },
   {
     "id": "VB058",
@@ -887,7 +923,8 @@
     "type": "single",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2004"
   },
   {
     "id": "VB060",
@@ -899,7 +936,8 @@
     ],
     "geoblock": [
       "jp"
-    ]
+    ],
+    "date": "2004"
   },
   {
     "id": "VB061",
@@ -909,7 +947,8 @@
     "artists": [
       "various-artists"
     ],
-    "playlist": "PL0F34C65B16EE2F78"
+    "playlist": "PL0F34C65B16EE2F78",
+    "date": "2004-04-04"
   },
   {
     "id": "VB062",
@@ -918,7 +957,8 @@
     "type": "single",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2004-06-07"
   },
   {
     "id": "VB063",
@@ -945,7 +985,8 @@
     "type": "single",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2004-07-05"
   },
   {
     "id": "VB065-2",
@@ -954,7 +995,8 @@
     "type": "single",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2004-07-13"
   },
   {
     "id": "VB066",
@@ -1002,7 +1044,8 @@
     "type": "compilation",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2004-07-19"
   },
   {
     "id": "VB070",
@@ -1020,7 +1063,8 @@
     "type": "single",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2004-08-09"
   },
   {
     "id": "VB071-2",
@@ -1029,7 +1073,8 @@
     "type": "single",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2004-08-23"
   },
   {
     "id": "VB072",
@@ -1048,7 +1093,8 @@
     "artists": [
       "yathosho"
     ],
-    "playlist": "PLCE88E4919654FA98"
+    "playlist": "PLCE88E4919654FA98",
+    "date": "2004-09-23"
   },
   {
     "id": "VB074-1",
@@ -1107,7 +1153,8 @@
       "yathosho",
       "synth-c"
     ],
-    "playlist": "PL64FF2C72EC037623"
+    "playlist": "PL64FF2C72EC037623",
+    "date": "2004-11-02"
   },
   {
     "id": "VB078",
@@ -1125,7 +1172,8 @@
     "type": "single",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2004-11-25"
   },
   {
     "id": "VB079-2",
@@ -1137,7 +1185,8 @@
     ],
     "geoblock": [
       "jp"
-    ]
+    ],
+    "date": "2005-01-01"
   },
   {
     "id": "VB080",
@@ -1210,7 +1259,8 @@
     "artists": [
       "various-artists"
     ],
-    "playlist": "PLFE19E12F58C82849"
+    "playlist": "PLFE19E12F58C82849",
+    "date": "2004-12-05"
   },
   {
     "id": "VB086",
@@ -1243,7 +1293,8 @@
     ],
     "geoblock": [
       "jp"
-    ]
+    ],
+    "date": "2004-12-04"
   },
   {
     "id": "VB089",
@@ -1322,7 +1373,8 @@
       "duo",
       "yathosho"
     ],
-    "playlist": "PL3FD3FCAC3B757DAC"
+    "playlist": "PL3FD3FCAC3B757DAC",
+    "date": "2005-01-17"
   },
   {
     "id": "VB096",
@@ -1334,7 +1386,8 @@
     ],
     "geoblock": [
       "jp"
-    ]
+    ],
+    "date": "2005-01-26"
   },
   {
     "id": "VB097",
@@ -1382,7 +1435,8 @@
     "artists": [
       "yathosho"
     ],
-    "playlist": "PLF452BAF6A70A45A2"
+    "playlist": "PLF452BAF6A70A45A2",
+    "date": "2004-02-02"
   },
   {
     "id": "VB102",
@@ -1442,7 +1496,8 @@
     "artists": [
       "yathosho",
       "frames-of-reality"
-    ]
+    ],
+    "date": "2005-07-13"
   },
   {
     "id": "VB108",
@@ -1479,7 +1534,8 @@
     "type": "single",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2005-08-11"
   },
   {
     "id": "VB112",
@@ -1501,7 +1557,8 @@
     ],
     "geoblock": [
       "jp"
-    ]
+    ],
+    "date": "2005-08-13"
   },
   {
     "id": "VB114",
@@ -1584,7 +1641,8 @@
     "type": "single",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2005-11-04"
   },
   {
     "id": "VB120-2",
@@ -1594,7 +1652,8 @@
     "artists": [
       "yathosho"
     ],
-    "playlist": "PLF463D07D2A21C7B0"
+    "playlist": "PLF463D07D2A21C7B0",
+    "date": "2005-12-24"
   },
   {
     "id": "VB121",
@@ -1603,7 +1662,8 @@
     "type": "single",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2005-12-25"
   },
   {
     "id": "VB122",
@@ -1625,7 +1685,8 @@
     ],
     "geoblock": [
       "jp"
-    ]
+    ],
+    "date": "2006-01-06"
   },
   {
     "id": "VB124",
@@ -1684,7 +1745,8 @@
     "type": "single",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2006-05-28"
   },
   {
     "id": "VB129",
@@ -1711,7 +1773,8 @@
     "type": "single",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2006-06-24"
   },
   {
     "id": "VB132",
@@ -1721,7 +1784,8 @@
     "artists": [
       "various-artists"
     ],
-    "playlist": "PL9FDA29BB5BAD7A49"
+    "playlist": "PL9FDA29BB5BAD7A49",
+    "date": "2006-06-07"
   },
   {
     "id": "VB133",
@@ -1777,7 +1841,8 @@
     "type": "single",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2006-09-23"
   },
   {
     "id": "VB138",
@@ -1816,7 +1881,8 @@
     "type": "single",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2006-10-21"
   },
   {
     "id": "VB142",
@@ -1862,7 +1928,8 @@
     "artists": [
       "various-artists"
     ],
-    "playlist": "PL71055D2FCBB93FE1"
+    "playlist": "PL71055D2FCBB93FE1",
+    "date": "2006-12-02"
   },
   {
     "id": "VB147",
@@ -1871,7 +1938,8 @@
     "type": "single",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2006-12-23"
   },
   {
     "id": "VB148",
@@ -1900,7 +1968,8 @@
     "type": "single",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2007-01-05"
   },
   {
     "id": "VB150-2",
@@ -1912,7 +1981,8 @@
     ],
     "geoblock": [
       "jp"
-    ]
+    ],
+    "date": "2007-04-04"
   },
   {
     "id": "VB151",
@@ -2020,7 +2090,8 @@
     "artists": [
       "yathosho"
     ],
-    "playlist": "PL2D30604F84B06D97"
+    "playlist": "PL2D30604F84B06D97",
+    "date": "2007-04-07"
   },
   {
     "id": "VB162",
@@ -2078,7 +2149,8 @@
     "type": "single",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2007-07-24"
   },
   {
     "id": "VB168",
@@ -2087,7 +2159,8 @@
     "type": "single",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2007-07-22"
   },
   {
     "id": "VB169",
@@ -2097,7 +2170,8 @@
     "artists": [
       "skupers",
       "yathosho"
-    ]
+    ],
+    "date": "2007-07-28"
   },
   {
     "id": "VB170",
@@ -2129,7 +2203,8 @@
     "artists": [
       "yathosho",
       "skupers"
-    ]
+    ],
+    "date": "2007-08-18"
   },
   {
     "id": "VB173",
@@ -2150,7 +2225,8 @@
     "type": "single",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2007-08-31"
   },
   {
     "id": "VB175",
@@ -2201,7 +2277,8 @@
     "type": "single",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2007-12-16"
   },
   {
     "id": "VB180-1",
@@ -2210,7 +2287,8 @@
     "type": "single",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2007-12-25"
   },
   {
     "id": "VB180-2",
@@ -2222,7 +2300,8 @@
     ],
     "geoblock": [
       "jp"
-    ]
+    ],
+    "date": "2008-01-06"
   },
   {
     "id": "VB181",
@@ -2232,7 +2311,8 @@
     "artists": [
       "yathosho"
     ],
-    "playlist": "PL54774A5317C1BE6C"
+    "playlist": "PL54774A5317C1BE6C",
+    "date": "2007-12-25"
   },
   {
     "id": "VB182-1",
@@ -2241,7 +2321,8 @@
     "type": "single",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2008-01-20"
   },
   {
     "id": "VB182-2",
@@ -2250,7 +2331,8 @@
     "type": "single",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2008-01-24"
   },
   {
     "id": "VB183",
@@ -2260,7 +2342,8 @@
     "artists": [
       "yathosho"
     ],
-    "playlist": "PL59D57D519813D45A"
+    "playlist": "PL59D57D519813D45A",
+    "date": "2008-02-20"
   },
   {
     "id": "VB184",
@@ -3143,7 +3226,8 @@
     "artists": [
       "dynamic-duo"
     ],
-    "playlist": "PL625D823907F98E2F"
+    "playlist": "PL625D823907F98E2F",
+    "date": "2003-02-20"
   },
   {
     "id": "VD002",
@@ -3153,7 +3237,8 @@
     "artists": [
       "dynamic-duo"
     ],
-    "playlist": "PL43458CBDD93D6888"
+    "playlist": "PL43458CBDD93D6888",
+    "date": "2003-07-07"
   },
   {
     "id": "VD003",
@@ -3163,7 +3248,8 @@
     "artists": [
       "dynamic-duo"
     ],
-    "playlist": "PLEC5835FCDD2FC615"
+    "playlist": "PLEC5835FCDD2FC615",
+    "date": "2003-12-27"
   },
   {
     "id": "VD004",
@@ -3173,7 +3259,8 @@
     "artists": [
       "dynamic-duo"
     ],
-    "playlist": "PLFA78843268BDF94A"
+    "playlist": "PLFA78843268BDF94A",
+    "date": "2004-04-11"
   },
   {
     "id": "VD005",
@@ -3183,7 +3270,8 @@
     "artists": [
       "dynamic-duo"
     ],
-    "playlist": "PL35016698194E1981"
+    "playlist": "PL35016698194E1981",
+    "date": "2005-11-27"
   },
   {
     "id": "VD006",
@@ -3193,7 +3281,8 @@
     "artists": [
       "dynamic-duo"
     ],
-    "playlist": "PL89E6822BDFB95176"
+    "playlist": "PL89E6822BDFB95176",
+    "date": "2006-09-16"
   },
   {
     "id": "VD007",
@@ -3203,7 +3292,8 @@
     "artists": [
       "dynamic-duo"
     ],
-    "playlist": "PL187F3B71835806BC"
+    "playlist": "PL187F3B71835806BC",
+    "date": "2007-12-27"
   },
   {
     "id": "VD008",
@@ -3213,7 +3303,8 @@
     "artists": [
       "dynamic-duo"
     ],
-    "playlist": "PLCC40DC034133B14E"
+    "playlist": "PLCC40DC034133B14E",
+    "date": "2012-07-21"
   },
   {
     "id": "VE001",
@@ -3231,7 +3322,8 @@
     "type": "compilation",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2004-09-25"
   },
   {
     "id": "VE003",
@@ -3240,7 +3332,8 @@
     "type": "compilation",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2004-11-28"
   },
   {
     "id": "VE004",
@@ -3258,7 +3351,8 @@
     "type": "single",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2005-09-06"
   },
   {
     "id": "VE005-2",
@@ -3267,7 +3361,8 @@
     "type": "compilation",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2005-10-21"
   },
   {
     "id": "VE006",
@@ -3276,7 +3371,8 @@
     "type": "compilation",
     "artists": [
       "les-noobiens"
-    ]
+    ],
+    "date": "2006-02-09"
   },
   {
     "id": "VE007",
@@ -3294,7 +3390,8 @@
     "type": "single",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2006-10-15"
   },
   {
     "id": "VE008-2",
@@ -3303,7 +3400,8 @@
     "type": "compilation",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2006-12-24"
   },
   {
     "id": "VE009",
@@ -3321,7 +3419,8 @@
     "type": "compilation",
     "artists": [
       "yathosho"
-    ]
+    ],
+    "date": "2010-08-31"
   },
   {
     "id": "VE011-1",
@@ -3330,7 +3429,8 @@
     "type": "compilation",
     "artists": [
       "dynamic-duo"
-    ]
+    ],
+    "date": "2011-02-18"
   },
   {
     "id": "VE011-2",
@@ -3339,6 +3439,7 @@
     "type": "compilation",
     "artists": [
       "dynamic-duo"
-    ]
+    ],
+    "date": "2011-04-04"
   }
 ]
