@@ -32,9 +32,4 @@
 	.divider {
 		flex: 1 1 0;
 	}
-
-	img {
-		width: 25px;
-		height: 9px;
-	}
 </style>
