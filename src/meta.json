@@ -178,12 +178,14 @@
   },
   {
     "id": "VA016",
+    "name": "digital stereotype experience",
     "byline": "Vanish",
     "type": "album",
     "artists": [
       "vanish"
     ],
-    "tba": true
+    "is_new": true,
+    "date": "2023-01-03"
   },
   {
     "id": "VA017",
