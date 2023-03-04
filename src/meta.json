@@ -3215,7 +3215,7 @@
   },
   {
     "id": "VB245",
-    "name": "u.g.l.y. edits 00",
+    "name": "U.G.L.Y. Edits 00",
     "byline": "Yathosho",
     "type": "single",
     "artists": [
@@ -3223,6 +3223,16 @@
     ],
     "is_new": true,
     "date": "2023-02-22"
+  },
+  {
+    "id": "VB246",
+    "name": "Moreizms EP",
+    "byline": "Dynamic Duo",
+    "type": "single",
+    "artists": [
+      "dynamic-duo"
+    ],
+    "tba": true
   },
   {
     "id": "VC001",
