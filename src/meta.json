@@ -3232,7 +3232,8 @@
     "artists": [
       "dynamic-duo"
     ],
-    "tba": true
+    "is_new": true,
+    "date": "2023-03-05"
   },
   {
     "id": "VC001",
