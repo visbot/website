@@ -1,4 +1,4 @@
-import { v4 as uuid } from '@lukeed/uuid';
+import { v4 as uuid } from '@lukeed/uuid/secure';
 import type { APIGatewayEvent } from 'aws-lambda';
 
 exports.handler = async function (event: APIGatewayEvent) {
@@ -38,8 +38,7 @@ async function trackDownload(event) {
 						type
 					}
 				}
-			],
-			geoid: event.headers['x-country']
+			]
 		})
 	});
 }
