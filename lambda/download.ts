@@ -1,5 +1,4 @@
 import { v4 as uuid } from '@lukeed/uuid';
-import fetch from 'cross-fetch';
 
 exports.handler = async function (event, context) {
 	const measurement_id = process.env.GA_MEASUREMENT_ID;
