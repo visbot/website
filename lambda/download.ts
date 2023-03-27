@@ -2,22 +2,12 @@ import { v4 as uuid } from '@lukeed/uuid';
 import type { APIGatewayEvent } from 'aws-lambda';
 
 exports.handler = async function (event: APIGatewayEvent) {
-	// if (process.env.GA_MEASUREMENT_ID && process.env.GA_API_SECRET) {
-	// 	await trackDownload(event);
-	// }
+	if (process.env.GA_MEASUREMENT_ID && process.env.GA_API_SECRET) {
+		await trackDownload(event);
+	}
 
 	const { catalogue, type } = getParams(event.rawUrl);
 	const extension = type === 'executable' ? 'exe.zip' : 'zip';
-
-	// return {
-	// 	statusCode: 200,
-	// 	body: JSON.stringify({
-	// 		catalogue,
-	// 		type,
-	// 		extension,
-	// 		rawUrl: event.rawUrl
-	// 	})
-	// };
 
 	return {
 		statusCode: 302,
