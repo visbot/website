@@ -1,34 +1,57 @@
 import { v4 as uuid } from '@lukeed/uuid';
-import fs from 'fs';
-import https from 'https';
-import path from 'path';
+import type { APIGatewayEvent } from 'aws-lambda';
 
-exports.handler = async function (event, context) {
-	// const measurement_id = process.env.GA_MEASUREMENT_ID;
-	// const api_secret = process.env.GA_API_SECRET;
+exports.handler = async function (event: APIGatewayEvent) {
+	if (process.env.GA_MEASUREMENT_ID && process.env.GA_API_SECRET) {
+		await trackDownload(event);
+	}
 
-	// const response = await fetch(`https://www.google-analytics.com/mp/collect?measurement_id=${measurement_id}&api_secret=${api_secret}`, {
-	// 	method: 'POST',
-	// 	body: JSON.stringify({
-	// 		client_id: uuid(),
-	// 		events: [
-	// 			{
-	// 				name: 'netlify_hello_world',
-	// 				params: {}
-	// 			}
-	// 		]
-	// 	})
-	// });
+	const { catalogue, type } = getParams();
+	const extension = type === 'executable' ? 'exe.zip' : 'zip';
 
 	return {
-		statusCode: 200,
-		body: JSON.stringify({ event, context })
+		statusCode: 302,
+		headers: {
+			Location: `https://visbot.net/downloads/packs/${catalogue}.${extension}`
+		}
 	};
 
-	// return {
-	// 	statusCode: 302,
-	// 	headers: {
-	// 		Location: 'https://visbot.net/downloads/packs/VB246.exe.zip'
-	// 	}
-	// };
+	async function trackDownload(event) {
+		const GA_MEASUREMENT_ID = process.env.GA_MEASUREMENT_ID;
+		const GA_API_SECRET = process.env.GA_API_SECRET;
+
+		const { catalogue, type } = getParams();
+
+		if (!catalogue?.length || !type?.length) {
+			return;
+		}
+
+		await fetch(`https://www.google-analytics.com/mp/collect?measurement_id=${GA_MEASUREMENT_ID}&api_secret=${GA_API_SECRET}`, {
+			method: 'POST',
+			body: JSON.stringify({
+				client_id: uuid(),
+				events: [
+					{
+						name: 'download',
+						params: {
+							catalogue,
+							type
+						}
+					}
+				],
+				geoid: event.headers['x-country']
+			})
+		});
+	}
+
+	function getParams() {
+		const searchParams = new URLSearchParams(event.rawUrl);
+		const catalogue = searchParams.get('catalogue');
+		const type = searchParams.get('type');
+
+		return {
+			catalogue,
+			type
+		};
+	}
 };
