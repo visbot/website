@@ -1,3 +1,6 @@
+import { v4 as uuid } from '@lukeed/uuid';
+import fetch from 'cross-fetch';
+
 exports.handler = async function (event, context) {
 	const measurement_id = process.env.GA_MEASUREMENT_ID;
 	const api_secret = process.env.GA_API_SECRET;
@@ -5,7 +8,7 @@ exports.handler = async function (event, context) {
 	await fetch(`https://www.google-analytics.com/mp/collect?measurement_id=${measurement_id}&api_secret=${api_secret}`, {
 		method: 'POST',
 		body: JSON.stringify({
-			client_id: 'XXXXXXXXXX.YYYYYYYYYY',
+			client_id: uuid(),
 			events: [
 				{
 					name: 'netlify_hello_world',
