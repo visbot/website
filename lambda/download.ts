@@ -23,10 +23,17 @@ exports.handler = async function (event, context) {
 	downloadFile('https://visbot.net/downloads/packs/VB246.exe.zip');
 
 	return {
-		statusCode: 200,
-		body: JSON.stringify({
-			message: 'Hello World'
-		})
+		// statusCode: 200,
+		// body: JSON.stringify({
+		// 	message: 'Hello World'
+		// }),
+		// headers: {
+		//   'Content-Type': 'application/octet-stream'
+		// },
+		statusCode: 302,
+		headers: {
+			Location: 'https://visbot.net/downloads/packs/VB246.exe.zip'
+		}
 	};
 };
 
