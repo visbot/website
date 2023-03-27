@@ -12,7 +12,7 @@ exports.handler = async function (event: APIGatewayEvent) {
 	return {
 		statusCode: 302,
 		headers: {
-			Location: `https://visbot.net/downloads/packs/${catalogue}.${extension}?`
+			Location: `https://visbot.net/files/packs/${catalogue}.${extension}?`
 		}
 	};
 };
