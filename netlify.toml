@@ -3,4 +3,5 @@ command = "npm run bootstrap && npm run build"
 publish = "build"
 
 [functions]
+directory = "lambda"
 node_bundler = "esbuild"
