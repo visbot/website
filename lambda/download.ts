@@ -9,15 +9,15 @@ exports.handler = async function (event: APIGatewayEvent) {
 	const { catalogue, type } = getParams(event.rawUrl);
 	const extension = type === 'executable' ? 'exe.zip' : 'zip';
 
-	return {
-		statusCode: 200,
-		body: JSON.stringify({
-			catalogue,
-			type,
-			extension,
-			rawUrl: event.rawUrl
-		})
-	};
+	// return {
+	// 	statusCode: 200,
+	// 	body: JSON.stringify({
+	// 		catalogue,
+	// 		type,
+	// 		extension,
+	// 		rawUrl: event.rawUrl
+	// 	})
+	// };
 
 	return {
 		statusCode: 302,
