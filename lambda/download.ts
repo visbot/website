@@ -20,33 +20,15 @@ exports.handler = async function (event, context) {
 	// 	})
 	// });
 
-	downloadFile('https://visbot.net/downloads/packs/VB246.exe.zip');
-
 	return {
-		// statusCode: 200,
-		// body: JSON.stringify({
-		// 	message: 'Hello World'
-		// }),
-		// headers: {
-		//   'Content-Type': 'application/octet-stream'
-		// },
-		statusCode: 302,
-		headers: {
-			Location: 'https://visbot.net/downloads/packs/VB246.exe.zip'
-		}
+		statusCode: 200,
+		body: JSON.stringify({ event, context })
 	};
+
+	// return {
+	// 	statusCode: 302,
+	// 	headers: {
+	// 		Location: 'https://visbot.net/downloads/packs/VB246.exe.zip'
+	// 	}
+	// };
 };
-
-function downloadFile(url) {
-	const filename = path.basename(url);
-
-	https.get(url, (res) => {
-		const fileStream = fs.createWriteStream(filename);
-		res.pipe(fileStream);
-
-		fileStream.on('finish', () => {
-			fileStream.close();
-			console.log('Download finished');
-		});
-	});
-}
