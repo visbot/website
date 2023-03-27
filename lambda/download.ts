@@ -14,14 +14,15 @@ exports.handler = async function (event: APIGatewayEvent) {
 		body: JSON.stringify({
 			catalogue,
 			type,
-			extension
+			extension,
+			rawUrl: event.rawUrl
 		})
 	};
 
 	return {
 		statusCode: 302,
 		headers: {
-			Location: `https://visbot.net/downloads/packs/${catalogue}.${extension}`
+			Location: `https://visbot.net/downloads/packs/${catalogue}.${extension}?`
 		}
 	};
 };
