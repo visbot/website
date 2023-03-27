@@ -15,7 +15,7 @@
 				{:else if release.deleted}
 					<del title="This item has been deleted from the catalogue" class="decoration-black text-red-600">{release.name?.toLowerCase() || 't.b.a.'}</del>
 				{:else}
-					<a href="/downloads/packs/{release.id}.exe.zip" class="text-red-600 hover:bg-red-600 dark:text-rose-400 dark:hover:bg-rose-400 hover:text-white">{release.name.toLowerCase()}</a>{#if release.geoblock?.length}<span class="cursor-help" title="Formerly a Japan exclusive pack">*</span>{/if}
+					<a href="/.netlify/functions/download?catalogue={release.id}&type=executable" class="text-red-600 hover:bg-red-600 dark:text-rose-400 dark:hover:bg-rose-400 hover:text-white">{release.name.toLowerCase()}</a>{#if release.geoblock?.length}<span class="cursor-help" title="Formerly a Japan exclusive pack">*</span>{/if}
 				{/if}
 				by
 				<span class="text-red-600 dark:text-rose-400">{release.byline.toLowerCase()}</span>
