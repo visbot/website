@@ -25,7 +25,8 @@ exports.handler = async function (event, context) {
 			ok: response.ok,
 			status: response.status,
 			event,
-			context
+			context,
+			env: process.env
 		})
 	};
 };
