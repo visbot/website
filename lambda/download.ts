@@ -10,6 +10,15 @@ exports.handler = async function (event: APIGatewayEvent) {
 	const extension = type === 'executable' ? 'exe.zip' : 'zip';
 
 	return {
+		statusCode: 200,
+		body: JSON.stringify({
+			catalogue,
+			type,
+			extension
+		})
+	};
+
+	return {
 		statusCode: 302,
 		headers: {
 			Location: `https://visbot.net/downloads/packs/${catalogue}.${extension}`
