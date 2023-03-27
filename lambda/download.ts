@@ -23,10 +23,7 @@ exports.handler = async function (event, context) {
 		body: JSON.stringify({
 			message: 'Hello World',
 			ok: response.ok,
-			status: response.status,
-			event,
-			context,
-			env: process.env
+			status: response.status
 		})
 	};
 };
