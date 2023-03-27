@@ -2,6 +2,7 @@ lockfileVersion: 5.4
 
 specifiers:
   '@lufrai/modern-css-reset': ^1.2.0
+  '@lukeed/uuid': ^2.0.0
   '@sveltejs/adapter-netlify': 2.0.5
   '@sveltejs/adapter-static': ^2.0.1
   '@sveltejs/kit': ^1.10.0
@@ -33,6 +34,7 @@ specifiers:
   vite: ^4.1.4
 
 dependencies:
+  '@lukeed/uuid': 2.0.0
   '@visbot/file_id.diz': 1.0.0
   cross-fetch: 3.1.5
 
@@ -521,10 +523,22 @@ packages:
     resolution: {integrity: sha512-A/X9CTRdCK91FuFNE5Ud17jzIFv/Jtp7A8lqW2QIPsdI7ALfWjdDNsQxgBqiHPbjEzSdb239emEJ2JAbMQyS9g==}
     dev: true
 
+  /@lukeed/csprng/1.0.1:
+    resolution: {integrity: sha512-uSvJdwQU5nK+Vdf6zxcWAY2A8r7uqe+gePwLWzJ+fsQehq18pc0I2hJKwypZ2aLM90+Er9u1xn4iLJPZ+xlL4g==}
+    engines: {node: '>=8'}
+    dev: false
+
   /@lukeed/ms/2.0.1:
     resolution: {integrity: sha512-Xs/4RZltsAL7pkvaNStUQt7netTkyxrS0K+RILcVr3TRMS/ToOg4I6uNfhB9SlGsnWBym4U+EaXq0f0cEMNkHA==}
     engines: {node: '>=8'}
     dev: true
+
+  /@lukeed/uuid/2.0.0:
+    resolution: {integrity: sha512-dUz8OmYvlY5A9wXaroHIMSPASpSYRLCqbPvxGSyHguhtTQIy24lC+EGxQlwv71AhRCO55WOtgwhzQLpw27JaJQ==}
+    engines: {node: '>=8'}
+    dependencies:
+      '@lukeed/csprng': 1.0.1
+    dev: false
 
   /@mapbox/node-pre-gyp/1.0.10:
     resolution: {integrity: sha512-4ySo4CjzStuprMwk35H5pPbkymjv1SF3jGLj6rAHp/xT/RF7TL7bd9CTm1xDY49K2qF7jmR/g7k+SkLETP6opA==}

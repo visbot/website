@@ -17,6 +17,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@lukeed/uuid": "^2.0.0",
     "@visbot/file_id.diz": "^1.0.0",
     "cross-fetch": "^3.1.5"
   },
