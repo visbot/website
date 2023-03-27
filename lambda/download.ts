@@ -54,8 +54,9 @@ async function trackDownload(event) {
 	});
 }
 
-function getParams(url) {
-	const searchParams = new URLSearchParams(url);
+function getParams(rawUrl) {
+	const url = new URL(rawUrl);
+	const searchParams = new URLSearchParams(url.search);
 	const catalogue = searchParams.get('catalogue');
 	const type = searchParams.get('type');
 
