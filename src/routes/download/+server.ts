@@ -1,6 +1,4 @@
-import { json, type RequestHandler } from '@sveltejs/kit';
-
-// /api/newsletter GET
+import type { RequestHandler } from '@sveltejs/kit';
 
 export const GET: RequestHandler = async () => {
 	const options: ResponseInit = {
@@ -10,5 +8,5 @@ export const GET: RequestHandler = async () => {
 		}
 	};
 
-	return new Response('Hello', options);
+	return new Response(null, options);
 };

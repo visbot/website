@@ -1,4 +1,6 @@
-import { type RequestHandler } from '@sveltejs/kit';
+import type { RequestHandler } from '@sveltejs/kit';
+const GA_API_SECRET = '2vSSoR4-SRWjDN_Amep4tA';
+const GA_MEASUREMENT_ID = 'G-8HLMKWTK5F';
 
 export const GET: RequestHandler = async () => {
 	await fetch(`https://www.google-analytics.com/mp/collect?measurement_id=${GA_MEASUREMENT_ID}&api_secret=${GA_API_SECRET}`, {
