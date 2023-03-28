@@ -7,8 +7,7 @@
 	import { Main } from '$components/Main';
 
 	onMount(async () => {
-		/** @type {string[]} */
-		const { file_id } = await import('@visbot/file_id.diz');
+		const { file_id }: { file_id: string[] } = await import('@visbot/file_id.diz');
 		console.log(file_id.join('\n'));
 	});
 </script>
