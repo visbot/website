@@ -6,13 +6,12 @@ exports.handler = async function (event: APIGatewayEvent) {
 		await trackDownload(event);
 	}
 
-	const { catalogue, type } = getParams(event.rawUrl);
-	const extension = type === 'executable' ? 'exe.zip' : 'zip';
+	const file = getFile(event.rawUrl);
 
 	return {
 		statusCode: 302,
 		headers: {
-			Location: `https://visbot.net/files/packs/${catalogue}.${extension}?`
+			Location: `https://visbot.net/files/packs/${file}?`
 		}
 	};
 };
@@ -20,7 +19,13 @@ exports.handler = async function (event: APIGatewayEvent) {
 async function trackDownload(event) {
 	const GA_MEASUREMENT_ID = process.env.GA_MEASUREMENT_ID;
 	const GA_API_SECRET = process.env.GA_API_SECRET;
-	const { catalogue, type } = getParams(event.rawUrl);
+	const file = getFile(event.rawUrl);
+
+	if (!file?.length) {
+		return;
+	}
+
+	const { catalogue, type } = getParams(file);
 
 	if (!catalogue?.length || !type?.length) {
 		return;
@@ -34,6 +39,7 @@ async function trackDownload(event) {
 				{
 					name: 'download',
 					params: {
+						file,
 						catalogue,
 						type
 					}
@@ -43,14 +49,31 @@ async function trackDownload(event) {
 	});
 }
 
-function getParams(rawUrl) {
+function getFile(rawUrl: string): string {
 	const url = new URL(rawUrl);
 	const searchParams = new URLSearchParams(url.search);
-	const catalogue = searchParams.get('catalogue');
-	const type = searchParams.get('type');
+	const file = searchParams.get('file') || '';
 
-	return {
-		catalogue,
-		type
-	};
+	return file;
+}
+
+function getParams(file: string): { catalogue: string; type: string } {
+	const catalogue = file.split('.')[0];
+
+	switch (true) {
+		case file.endsWith('.exe.zip'):
+			return {
+				catalogue,
+				type: 'executable'
+			};
+
+		case file.endsWith('.zip'):
+			return {
+				catalogue,
+				type: 'archive'
+			};
+
+		default:
+			throw new Error('Could not determine file properties');
+	}
 }
