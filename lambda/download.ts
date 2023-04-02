@@ -1,7 +1,7 @@
 import { v4 as uuid } from '@lukeed/uuid/secure';
 import type { APIGatewayEvent } from 'aws-lambda';
 
-exports.handler = async function (event: APIGatewayEvent) {
+export async function handler(event: APIGatewayEvent) {
 	if (process.env.GA_MEASUREMENT_ID && process.env.GA_API_SECRET) {
 		await trackDownload(event);
 	}
@@ -14,7 +14,7 @@ exports.handler = async function (event: APIGatewayEvent) {
 			Location: `https://visbot.net/files/packs/${file}?`
 		}
 	};
-};
+}
 
 async function trackDownload(event) {
 	const GA_MEASUREMENT_ID = process.env.GA_MEASUREMENT_ID;
