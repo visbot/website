@@ -13,7 +13,7 @@
 				{#if release.tba}
 					<span title="To be announced">{release.name?.toLowerCase() || 't.b.a.'}</span>
 				{:else if release.deleted}
-					<del title="This item has been deleted from the catalogue" class="decoration-black text-red-600">{release.name?.toLowerCase() || 't.b.a.'}</del>
+					<del title="This item has been deleted from the catalogue" class="decoration-black text-red-600">{release.name?.toLowerCase()}</del>
 				{:else}
 					<a href="/download/?file={release.id}.exe.zip" class="text-red-600 hover:bg-red-600 dark:text-rose-400 dark:hover:bg-rose-400 hover:text-white">{release.name.toLowerCase()}</a>{#if release.geoblock?.length}<span class="cursor-help" title="Formerly a Japan exclusive pack">*</span>{/if}
 				{/if}
