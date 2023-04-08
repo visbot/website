@@ -1,4 +1,4 @@
-import { v4 as uuid } from '@lukeed/uuid/secure';
+import { v4 as uuidv4, v5 as uuidv5 } from 'uuid';
 import type { APIGatewayEvent } from 'aws-lambda';
 
 export async function handler(event: APIGatewayEvent) {
@@ -31,10 +31,13 @@ async function trackDownload(event) {
 		return;
 	}
 
+	const namespace = uuidv5('https://visbot.net', uuidv5.URL);
+	const clientId = event.requestContext?.http?.sourceIp ? uuidv5(event.requestContext.http.sourceIp, namespace) : uuidv4();
+
 	await fetch(`https://www.google-analytics.com/mp/collect?measurement_id=${GA_MEASUREMENT_ID}&api_secret=${GA_API_SECRET}`, {
 		method: 'POST',
 		body: JSON.stringify({
-			client_id: uuid(),
+			client_id: clientId,
 			events: [
 				{
 					name: 'download',

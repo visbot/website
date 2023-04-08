@@ -17,8 +17,8 @@
     "preview": "vite preview"
   },
   "dependencies": {
-    "@lukeed/uuid": "^2.0.0",
-    "@visbot/file_id.diz": "^1.0.0"
+    "@visbot/file_id.diz": "^1.0.0",
+    "uuid": "^9.0.0"
   },
   "devDependencies": {
     "@lufrai/modern-css-reset": "^1.2.0",
