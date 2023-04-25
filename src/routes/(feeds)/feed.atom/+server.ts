@@ -21,7 +21,7 @@ const feed = new Feed({
 	copyright: 'Public Domain',
 	updated: new Date(sortedMeta[0].date),
 	feedLinks: {
-		atom: 'https://visbot.net/feed'
+		atom: 'https://visbot.net/feed.atom'
 	},
 	author: {
 		name: 'visbot network',
