@@ -4,9 +4,9 @@ import { createFeed } from '$lib/feed';
 const feed = createFeed(metaData);
 
 export const GET = () => {
-	return new Response(feed.atom1(), {
+	return new Response(feed.json1(), {
 		headers: {
-			'Content-Type': 'application/xml'
+			'Content-Type': 'application/json'
 		}
 	});
 };

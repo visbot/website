@@ -15,6 +15,9 @@
 <svelte:head>
 	<title>visbot network</title>
 	<meta name="description" content="A collective of artists creating Winamp visuals" />
+	<link rel="icon" href="%sveltekit.assets%/favicon.svg" />
+	<link rel="alternate" type="application/atom+xml" title="Atom Feed" href="https://visbot.net/feed.atom" />
+	<link rel="alternate" type="application/json" title="JSON Feed" href="https://visbot.net/feed.json" />
 </svelte:head>
 
 <div class="font-mono lg:max-w-screen-lg lg:mx-auto sm:pt-4">
