@@ -18,6 +18,7 @@
   },
   "dependencies": {
     "@visbot/file_id.diz": "^1.0.0",
+    "feed": "^4.2.2",
     "uuid": "^9.0.0"
   },
   "devDependencies": {
