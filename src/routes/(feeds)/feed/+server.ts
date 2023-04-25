@@ -1,5 +1,5 @@
 import { Feed } from 'feed';
-import metaData from '../../meta.json';
+import metaData from '../../../meta.json';
 
 const sortedMeta = metaData
 	.filter((item) => item.date)
