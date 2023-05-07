@@ -1,6 +1,7 @@
 <script lang="ts">
 	import { meta as store } from '$stores/meta';
 	import { page } from '$app/stores';
+	import { goto } from '$app/navigation';
 	import { onMount } from 'svelte';
 	import metaData from '../../meta.json';
 
@@ -42,10 +43,20 @@
 		}
 
 		if (newSearchParams.toString().length) {
-			window.history.replaceState(null, null, `?${newSearchParams.toString()}`);
+			goto(`?${newSearchParams.toString()}`);
 		}
 
 		store.set(currentFilter);
+	};
+
+	const resetHandler = () => {
+		searchValue = '';
+		selectedArtist = '';
+		selectedType = '';
+		selectedSeries = '';
+
+		store.set(metaData);
+		goto('/');
 	};
 </script>
 
@@ -93,6 +104,8 @@
 			<option value="d">D is for Dynamic</option>
 			<option value="e">E is for External</option>
 		</select>
+
+		<button class="text-xl grow bg-white sm:border-2 border-black dark:border-neutral-200 dark:bg-neutral-900 dark:text-white p-4 my-0 sm:mb-4 box-shadow" type="button" title="Reset all filters" on:click={resetHandler}>&times;</button>
 	</div>
 </div>
 
