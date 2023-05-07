@@ -41,7 +41,10 @@
 			currentFilter = currentFilter.filter((item) => item.id.toLowerCase().startsWith(`v${series}`));
 		}
 
-		window.history.replaceState(null, null, `?${newSearchParams.toString()}`);
+		if (newSearchParams.toString().length) {
+			window.history.replaceState(null, null, `?${newSearchParams.toString()}`);
+		}
+
 		store.set(currentFilter);
 	};
 </script>
