@@ -1,89 +1,56 @@
 <script lang="ts">
 	import { meta as store } from '$stores/meta';
+	import { page } from '$app/stores';
+	import { onMount } from 'svelte';
 	import metaData from '../../meta.json';
 
-	let searchValue = '';
-	let selectedArtist = '';
-	let selectedType = '';
-	let selectedSeries = '';
+	const searchParams = new URLSearchParams($page.url.search);
+	let searchValue = searchParams.get('search') || '';
+	let selectedArtist = searchParams.get('artist') || '';
+	let selectedType = searchParams.get('type') || '';
+	let selectedSeries = searchParams.get('series') || '';
 
-	const searchHandler = () => {
-		selectedArtist = '';
-		selectedType = '';
-		selectedSeries = '';
+	onMount(() => filterHandler());
 
-		const value = searchValue.toLowerCase();
+	const filterHandler = () => {
+		const search = searchValue.toLowerCase();
+		const artist = selectedArtist.toLowerCase();
+		const type = selectedType.toLowerCase();
+		const series = selectedSeries.toLowerCase();
 
-		if (value?.length && value !== '@') {
-			store.set(
-				metaData.filter((item) => {
-					if (value.startsWith('@') && value.length > 1) {
-						return item.artists.find((item) => item.toLowerCase().startsWith(selectedArtist || value.replace('@', '')));
-					} else if (value.startsWith('@')) {
-						return item;
-					}
+		const newSearchParams = new URLSearchParams();
+		let currentFilter = metaData;
 
-					if (value.startsWith('#') && value.length > 1) {
-						return item.type.toLowerCase().startsWith(value.replace('#', ''));
-					} else if (value.startsWith('#')) {
-						return item;
-					}
-
-					if (item?.name?.length) {
-						return item.name.toLowerCase().includes(value);
-					}
-				})
-			);
-		} else {
-			store.set(metaData);
+		if (search?.length) {
+			newSearchParams.set('search', search);
+			currentFilter = currentFilter.filter((item) => item.name.toLowerCase().includes(search));
 		}
+
+		if (artist?.length) {
+			newSearchParams.set('artist', artist);
+			currentFilter = currentFilter.filter((item) => item.artists.find((item) => item.toLowerCase().startsWith(artist)));
+		}
+
+		if (type?.length) {
+			newSearchParams.set('type', type);
+			currentFilter = currentFilter.filter((item) => item.type === type);
+		}
+
+		if (series?.length) {
+			newSearchParams.set('series', series);
+			currentFilter = currentFilter.filter((item) => item.id.toLowerCase().startsWith(`v${series}`));
+		}
+
+		window.history.replaceState(null, null, `?${newSearchParams.toString()}`);
+		store.set(currentFilter);
 	};
-
-	function artistHandler(e = null) {
-		searchValue = '';
-		searchHandler();
-
-		const value = (e?.target?.value || selectedArtist)?.toLowerCase();
-
-		if (value?.length) {
-			store.set($store.filter((item) => item.artists.find((item) => item.toLowerCase().startsWith(value))));
-		} else {
-			store.set(metaData);
-		}
-	}
-
-	function typeHandler(e = null) {
-		searchValue = '';
-		searchHandler();
-
-		const value = (e?.target?.value || selectedType)?.toLowerCase();
-
-		if (value?.length) {
-			store.set($store.filter((item) => item.type === value));
-		} else {
-			store.set(metaData);
-		}
-	}
-
-	function seriesHandler(e = null) {
-		searchValue = '';
-		searchHandler();
-
-		const value = (e?.target?.value || selectedSeries)?.toLowerCase();
-
-		if (value?.length) {
-			store.set($store.filter((item) => item.id.toLowerCase().startsWith(`v${value}`)));
-		} else {
-			store.set(metaData);
-		}
-	}
 </script>
 
 <div class="hidden sm:flex flex-wrap sm:gap-x-4">
-	<input class="grow bg-white sm:border-2 border-black dark:border-neutral-200 dark:bg-neutral-900 dark:text-white p-4 my-0 sm:mb-4 box-shadow" type="text" placeholder="search..." on:keyup={searchHandler} bind:value={searchValue} />
+	<input class="grow bg-white sm:border-2 border-black dark:border-neutral-200 dark:bg-neutral-900 dark:text-white p-4 my-0 sm:mb-4 box-shadow" type="text" placeholder="search..." bind:value={searchValue} on:keyup={filterHandler} />
 
 	<div class="flex justify-evenly grow gap-x-4">
-		<select class="placeholder-neutral-500 bg-white grow sm:border-2 border-black dark:border-neutral-200 dark:bg-neutral-900 dark:text-white p-4 my-0 sm:mb-4 box-shadow" on:change={artistHandler} bind:value={selectedArtist}>
+		<select class="placeholder-neutral-500 bg-white grow sm:border-2 border-black dark:border-neutral-200 dark:bg-neutral-900 dark:text-white p-4 my-0 sm:mb-4 box-shadow" bind:value={selectedArtist} on:change={filterHandler}>
 			<option value="">-- Artist --</option>
 			<option value="alt-iii">Alt III</option>
 			<option value="amphirion">Amphirion</option>
@@ -108,14 +75,14 @@
 			<option value="zamuz">Zamuz</option>
 		</select>
 
-		<select class="grow bg-white sm:border-2 border-black dark:bg-neutral-900 dark:border-neutral-200 dark:text-white p-4 my-0 sm:mb-4 box-shadow" on:change={typeHandler} bind:value={selectedType}>
+		<select class="grow bg-white sm:border-2 border-black dark:bg-neutral-900 dark:border-neutral-200 dark:text-white p-4 my-0 sm:mb-4 box-shadow" bind:value={selectedType} on:change={filterHandler}>
 			<option value="">-- Type --</option>
 			<option value="album">Album</option>
 			<option value="compilation">Compilation</option>
 			<option value="single">Single</option>
 		</select>
 
-		<select class="grow bg-white sm:border-2 border-black dark:border-neutral-200 dark:bg-neutral-900 dark:text-white p-4 my-0 sm:mb-4 box-shadow" on:change={seriesHandler} bind:value={selectedSeries}>
+		<select class="grow bg-white sm:border-2 border-black dark:border-neutral-200 dark:bg-neutral-900 dark:text-white p-4 my-0 sm:mb-4 box-shadow" bind:value={selectedSeries} on:change={filterHandler}>
 			<option value="">-- Series --</option>
 			<option value="a">A is for Allstar</option>
 			<option value="b">B is for (Vis)Bot</option>
