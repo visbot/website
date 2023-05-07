@@ -12,11 +12,11 @@
 				<Mastodon />
 			</a>
 		</li>
-		<li class="inline-block">
+		<!-- <li class="inline-block">
 			<a href="https://discord.gg/ezRVJEvu" class="hover:text-red-500 dark:hover:text-rose-400" title="Join our Discord channel" target="_blank" rel="noreferrer">
 				<Chat />
 			</a>
-		</li>
+		</li> -->
 		<li class="inline-block">
 			<a href="https://github.com/visbot" class="hover:text-red-500 dark:hover:text-rose-400" title="Find our projects on GitHub" target="_blank" rel="me noreferrer">
 				<GitHub />
