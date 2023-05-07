@@ -105,7 +105,7 @@
 			<option value="e">E is for External</option>
 		</select>
 
-		<button class="text-xl grow bg-white sm:border-2 border-black dark:border-neutral-200 dark:bg-neutral-900 dark:text-white p-4 my-0 sm:mb-4 box-shadow" type="button" title="Reset all filters" on:click={resetHandler}>&times;</button>
+		<button class="text-xl grow bg-white sm:border-2 border-black dark:border-neutral-200 dark:bg-neutral-900 dark:text-white p-4 my-0 sm:mb-4 box-shadow hover:bg-red-600 hover:text-white dark:hover:bg-rose-400 dark:hover:text-black" type="button" title="Reset all filters" on:click={resetHandler}>&times;</button>
 	</div>
 </div>
 
