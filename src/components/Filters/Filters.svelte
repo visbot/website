@@ -61,7 +61,7 @@
 </script>
 
 <div class="hidden sm:flex flex-wrap sm:gap-x-4">
-	<input class="grow bg-white sm:border-2 border-black dark:border-neutral-200 dark:bg-neutral-900 dark:text-white p-4 my-0 sm:mb-4 box-shadow" type="text" placeholder="search..." bind:value={searchValue} on:keyup={filterHandler} />
+	<input class="grow bg-white sm:border-2 border-black dark:border-neutral-200 dark:bg-neutral-900 dark:text-white p-4 my-0 sm:mb-4 box-shadow" type="text" placeholder="search..." bind:value={searchValue} on:change={filterHandler} />
 
 	<div class="flex justify-evenly grow gap-x-4">
 		<select class="placeholder-neutral-500 bg-white grow sm:border-2 border-black dark:border-neutral-200 dark:bg-neutral-900 dark:text-white p-4 my-0 sm:mb-4 box-shadow" bind:value={selectedArtist} on:change={filterHandler}>
