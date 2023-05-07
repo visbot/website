@@ -13,7 +13,7 @@
 	onMount(() => filterHandler());
 
 	const filterHandler = () => {
-		const search = searchValue.toLowerCase();
+		const search = decodeURIComponent(searchValue).toLowerCase();
 		const artist = selectedArtist.toLowerCase();
 		const type = selectedType.toLowerCase();
 		const series = selectedSeries.toLowerCase();
