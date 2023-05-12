@@ -14,7 +14,7 @@
 	onMount(() => filterHandler());
 
 	const filterHandler = () => {
-		const search = decodeURIComponent(searchValue).toLowerCase();
+		const search = decodeURIComponent(searchValue).toLowerCase() || '';
 		const artist = selectedArtist.toLowerCase();
 		const type = selectedType.toLowerCase();
 		const series = selectedSeries.toLowerCase();
@@ -44,6 +44,8 @@
 
 		if (newSearchParams.toString().length) {
 			goto(`?${newSearchParams.toString()}`);
+		} else {
+			goto('/');
 		}
 
 		store.set(currentFilter);
