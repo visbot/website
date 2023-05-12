@@ -1,3 +1,1 @@
-<script>
-	export const prerender = true;
-</script>
+<!-- These aren't the droids you're looking for -->
