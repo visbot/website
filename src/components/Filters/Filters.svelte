@@ -62,11 +62,11 @@
 	};
 </script>
 
-<div class="hidden sm:flex flex-wrap sm:gap-x-4">
-	<input class="grow bg-white sm:border-2 border-black dark:border-neutral-200 dark:bg-neutral-900 dark:text-white p-4 my-0 sm:mb-4 box-shadow" type="text" placeholder="search..." aria-label="Search for a release" bind:value={searchValue} on:change={filterHandler} />
+<form class="hidden sm:flex flex-wrap sm:gap-x-4">
+	<input name="search" class="grow bg-white sm:border-2 border-black dark:border-neutral-200 dark:bg-neutral-900 dark:text-white p-4 my-0 sm:mb-4 box-shadow" type="text" placeholder="search..." aria-label="Search for a release" bind:value={searchValue} on:change={filterHandler} />
 
 	<div class="flex justify-evenly grow gap-x-4">
-		<select class="placeholder-neutral-500 bg-white grow sm:border-2 border-black dark:border-neutral-200 dark:bg-neutral-900 dark:text-white p-4 my-0 sm:mb-4 box-shadow" aria-label="Select an artist" bind:value={selectedArtist} on:change={filterHandler}>
+		<select name="artist" class="placeholder-neutral-500 bg-white grow sm:border-2 border-black dark:border-neutral-200 dark:bg-neutral-900 dark:text-white p-4 my-0 sm:mb-4 box-shadow" aria-label="Select an artist" bind:value={selectedArtist} on:change={filterHandler}>
 			<option value="">-- Artist --</option>
 			<option value="alt-iii">Alt III</option>
 			<option value="amphirion">Amphirion</option>
@@ -91,14 +91,14 @@
 			<option value="zamuz">Zamuz</option>
 		</select>
 
-		<select class="grow bg-white sm:border-2 border-black dark:bg-neutral-900 dark:border-neutral-200 dark:text-white p-4 my-0 sm:mb-4 box-shadow" aria-label="Select a release type" bind:value={selectedType} on:change={filterHandler}>
+		<select name="type" class="grow bg-white sm:border-2 border-black dark:bg-neutral-900 dark:border-neutral-200 dark:text-white p-4 my-0 sm:mb-4 box-shadow" aria-label="Select a release type" bind:value={selectedType} on:change={filterHandler}>
 			<option value="">-- Type --</option>
 			<option value="album">Album</option>
 			<option value="compilation">Compilation</option>
 			<option value="single">Single</option>
 		</select>
 
-		<select class="grow bg-white sm:border-2 border-black dark:border-neutral-200 dark:bg-neutral-900 dark:text-white p-4 my-0 sm:mb-4 box-shadow" aria-label="Select a release series" bind:value={selectedSeries} on:change={filterHandler}>
+		<select name="series" class="grow bg-white sm:border-2 border-black dark:border-neutral-200 dark:bg-neutral-900 dark:text-white p-4 my-0 sm:mb-4 box-shadow" aria-label="Select a release series" bind:value={selectedSeries} on:change={filterHandler}>
 			<option value="">-- Series --</option>
 			<option value="a">A is for Allstar</option>
 			<option value="b">B is for (Vis)Bot</option>
@@ -109,7 +109,7 @@
 
 		<button class="text-xl grow bg-white sm:border-2 border-black dark:border-neutral-200 dark:bg-neutral-900 dark:text-white p-4 my-0 sm:mb-4 box-shadow hover:bg-red-600 hover:text-white dark:hover:bg-rose-400 dark:hover:text-black disabled:bg-white disabled:text-black disabled:dark:bg-black disabled:dark:text-white disabled:cursor-not-allowed" type="button" aria-label="Reset all filters" on:click={resetHandler}>&times;</button>
 	</div>
-</div>
+</form>
 
 <style>
 	select {
