@@ -5,7 +5,9 @@
 </script>
 
 <nav class="font-semibold bg-white sm:border-2 border-black dark:border-neutral-200 dark:bg-neutral-900 dark:text-white p-4 my-0 sm:mb-4 box-shadow">
-	<h1>VISBOT NETWORK</h1>
+	<h1>
+		<a href="/">VISBOT NETWORK</a>
+	</h1>
 	<ul class="float-right">
 		<li class="inline-block">
 			<a href="https://mastodon.social/@visbot" class="hover:text-red-500 dark:hover:text-rose-400" title="Follow us on Mastodon" target="_blank" rel="me noreferrer">
