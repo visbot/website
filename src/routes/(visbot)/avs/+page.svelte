@@ -44,6 +44,8 @@
 			<ul class="list-disc m-2">
 				<li class="flex space-x-2">
 					<a href={`https://github.com/visbot/vis_avs`} class="text-red-600 hover:bg-red-600 dark:text-rose-400 dark:hover:bg-rose-400 hover:text-white">vis_avs source</a>
+				</li>
+				<li class="flex space-x-2">
 					<a href={`https://github.com/visbot/chavs`} class="text-red-600 hover:bg-red-600 dark:text-rose-400 dark:hover:bg-rose-400 hover:text-white">vis_chavs source</a>
 				</li>
 			</ul>
