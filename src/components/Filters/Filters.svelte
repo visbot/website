@@ -11,7 +11,6 @@
 	let selectedArtist = searchParams.get('artist') || '';
 	let selectedType = searchParams.get('type') || '';
 	let selectedSeries = searchParams.get('series') || '';
-	let isMac;
 	let searchText = 'search';
 
 	onMount(() => {
