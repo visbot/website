@@ -8,7 +8,7 @@
 
 <main>
 	<section class="bg-white sm:border-2 border-black dark:border-neutral-200 dark:bg-neutral-900 dark:text-white p-4 my-0 box-shadow sm:mb-4">
-		<h1 class="font-semibold mt-2">avs versions</h1>
+		<h1 class="font-semibold mt-2">advanced visualization studio (avs)</h1>
 
 		<span class="m-2">
 			<ul class="list-disc m-2">
