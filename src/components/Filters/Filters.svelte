@@ -6,12 +6,31 @@
 	import metaData from '../../meta.json';
 
 	const searchParams = new URLSearchParams($page.url.search);
+	let searchInput;
 	let searchValue = searchParams.get('search') || '';
 	let selectedArtist = searchParams.get('artist') || '';
 	let selectedType = searchParams.get('type') || '';
 	let selectedSeries = searchParams.get('series') || '';
+	let isMac;
 
-	onMount(() => filterHandler());
+	onMount(() => {
+		isMac = navigator.userAgent.includes('Mac OS') || navigator.userAgent.includes('macOS');
+		filterHandler();
+	});
+
+	const globalHandler = (e) => {
+		const isK = e.key.toLowerCase() === 'k';
+
+		switch (true) {
+			case e.metaKey && isK:
+			case e.controlKey && isK:
+				searchInput.focus();
+				break;
+
+			default:
+				break;
+		}
+	};
 
 	const filterHandler = () => {
 		const search = decodeURIComponent(searchValue).toLowerCase() || '';
@@ -62,8 +81,10 @@
 	};
 </script>
 
+<svelte:window on:keydown={globalHandler} />
+
 <form class="hidden sm:flex flex-wrap sm:gap-x-4">
-	<input name="search" class="grow bg-white sm:border-2 border-black dark:border-neutral-200 dark:bg-neutral-900 dark:text-white p-4 my-0 sm:mb-4 box-shadow" type="text" placeholder="search..." aria-label="Search for a release" bind:value={searchValue} on:change={filterHandler} />
+	<input name="search" class="grow bg-white sm:border-2 border-black dark:border-neutral-200 dark:bg-neutral-900 dark:text-white p-4 my-0 sm:mb-4 box-shadow" type="text" placeholder="search..." aria-label="Search for a release" bind:this={searchInput} bind:value={searchValue} on:change={filterHandler} />
 
 	<div class="flex justify-evenly grow gap-x-4">
 		<select name="artist" class="placeholder-neutral-500 bg-white grow sm:border-2 border-black dark:border-neutral-200 dark:bg-neutral-900 dark:text-white p-4 my-0 sm:mb-4 box-shadow" aria-label="Select an artist" bind:value={selectedArtist} on:change={filterHandler}>
