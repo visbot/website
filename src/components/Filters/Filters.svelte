@@ -12,9 +12,10 @@
 	let selectedType = searchParams.get('type') || '';
 	let selectedSeries = searchParams.get('series') || '';
 	let isMac;
+	let searchText = 'search';
 
 	onMount(() => {
-		isMac = navigator.userAgent.includes('Mac OS') || navigator.userAgent.includes('macOS');
+		searchText = navigator.userAgent.includes('Mac OS') || navigator.userAgent.includes('macOS') ? 'cmd+k to search' : 'ctrl+k to search';
 		filterHandler();
 	});
 
@@ -84,7 +85,7 @@
 <svelte:window on:keydown={globalHandler} />
 
 <form class="hidden sm:flex flex-wrap sm:gap-x-4">
-	<input name="search" class="grow bg-white sm:border-2 border-black dark:border-neutral-200 dark:bg-neutral-900 dark:text-white p-4 my-0 sm:mb-4 box-shadow" type="text" placeholder={isMac ? 'cmd+k to search' : 'ctrl+k to search'} aria-label="Search for a release" bind:this={searchInput} bind:value={searchValue} on:change={filterHandler} />
+	<input name="search" class="grow bg-white sm:border-2 border-black dark:border-neutral-200 dark:bg-neutral-900 dark:text-white p-4 my-0 sm:mb-4 box-shadow" type="text" placeholder={searchText} aria-label="Search for a release" bind:this={searchInput} bind:value={searchValue} on:change={filterHandler} />
 
 	<div class="flex justify-evenly grow gap-x-4">
 		<select name="artist" class="placeholder-neutral-500 bg-white grow sm:border-2 border-black dark:border-neutral-200 dark:bg-neutral-900 dark:text-white p-4 my-0 sm:mb-4 box-shadow" aria-label="Select an artist" bind:value={selectedArtist} on:change={filterHandler}>
