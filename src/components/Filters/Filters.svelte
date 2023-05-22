@@ -61,8 +61,10 @@
 			currentFilter = currentFilter.filter((item) => item.id.toLowerCase().startsWith(`v${series}`));
 		}
 
-		if (newSearchParams.toString().length) {
-			goto(`?${newSearchParams.toString()}`);
+		const searchParamsString = newSearchParams.toString();
+
+		if (searchParamsString?.length) {
+			goto(`?${searchParamsString}`);
 		} else {
 			goto('/');
 		}
