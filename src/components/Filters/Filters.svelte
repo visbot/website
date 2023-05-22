@@ -48,7 +48,7 @@
 
 		if (artist?.length) {
 			newSearchParams.set('artist', artist);
-			currentFilter = currentFilter.filter((item) => item.artists.find((item) => item.toLowerCase().startsWith(artist)));
+			currentFilter = currentFilter.filter((item) => item.artists.find((item) => item.toLowerCase() === artist));
 		}
 
 		if (type?.length) {
@@ -58,7 +58,7 @@
 
 		if (series?.length) {
 			newSearchParams.set('series', series);
-			currentFilter = currentFilter.filter((item) => item.id.toLowerCase().startsWith('v${series}'));
+			currentFilter = currentFilter.filter((item) => item.id.toLowerCase().startsWith(`v${series}`));
 		}
 
 		if (newSearchParams.toString().length) {
