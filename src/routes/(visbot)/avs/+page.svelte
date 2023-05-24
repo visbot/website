@@ -43,11 +43,11 @@
 		<span class="m-2">
 			<ul class="list-disc m-2">
 				<li class="flex space-x-2">
-					<span><a href="https://visbot.net/files/avs/source/vis_avs-2.81d-src.zip" class="text-red-600 hover:bg-red-600 dark:text-rose-400 dark:hover:bg-rose-400 hover:text-white">vis_avs src</a></span>
+					<span><a href="https://visbot.net/files/avs/source/vis_avs-2.81d-src.7z" class="text-red-600 hover:bg-red-600 dark:text-rose-400 dark:hover:bg-rose-400 hover:text-white">vis_avs-2.81d-src</a></span>
 					<span>or <a href="https://github.com/visbot/vis_avs" class="text-red-600 hover:bg-red-600 dark:text-rose-400 dark:hover:bg-rose-400 hover:text-white">github</a></span>
 				</li>
 				<li class="flex space-x-2">
-					<span><a href="https://visbot.net/files/avs/source/vis_chavs-2.9.1-src.zip" class="text-red-600 hover:bg-red-600 dark:text-rose-400 dark:hover:bg-rose-400 hover:text-white">vis_chavs src</a></span>
+					<span><a href="https://visbot.net/files/avs/source/vis_chavs-2.9.1-src.7z" class="text-red-600 hover:bg-red-600 dark:text-rose-400 dark:hover:bg-rose-400 hover:text-white">vis_chavs-2.9.1-src</a></span>
 					<span>or <a href="https://github.com/visbot/chavs" class="text-red-600 hover:bg-red-600 dark:text-rose-400 dark:hover:bg-rose-400 hover:text-white">github</a></span>
 				</li>
 			</ul>
