@@ -57,16 +57,18 @@
 	<section class="bg-white sm:border-2 border-black dark:border-neutral-200 dark:bg-neutral-900 dark:text-white p-4 my-0 box-shadow sm:mb-4">
 		<h1 class="font-semibold mt-2">Resources</h1>
 
-		<ul class="list-disc m-2">
-			<li class="flex space-x-2">
-				<a href="https://visbot.net/files/avs/resources/tuggummi-texer-resources.7z" class="text-red-600 hover:bg-red-600 dark:text-rose-400 dark:hover:bg-rose-400 hover:text-white">Tuggummi's Texer Resources</a>
-			</li>
-			<li class="flex space-x-2">
-				<a href="https://visbot.net/files/avs/resources/yathosho-texer-resources-extension-pack.7z" class="text-red-600 hover:bg-red-600 dark:text-rose-400 dark:hover:bg-rose-400 hover:text-white">Yathosho's Texer Resources Extension Pack</a>
-			</li>
-			<li class="flex space-x-2">
-				<a href="https://visbot.net/files/avs/resources/yathosho-mega-texer-pack.7z" class="text-red-600 hover:bg-red-600 dark:text-rose-400 dark:hover:bg-rose-400 hover:text-white">Yathosho's Mega Texer Pack</a>
-			</li>
-		</ul>
+		<span class="m-2">
+			<ul class="list-disc m-2">
+				<li class="flex space-x-2">
+					<a href="https://visbot.net/files/avs/resources/tuggummi-texer-resources.7z" class="text-red-600 hover:bg-red-600 dark:text-rose-400 dark:hover:bg-rose-400 hover:text-white">Tuggummi's Texer Resources</a>
+				</li>
+				<li class="flex space-x-2">
+					<a href="https://visbot.net/files/avs/resources/yathosho-texer-resources-extension-pack.7z" class="text-red-600 hover:bg-red-600 dark:text-rose-400 dark:hover:bg-rose-400 hover:text-white">Yathosho's Texer Resources Extension Pack</a>
+				</li>
+				<li class="flex space-x-2">
+					<a href="https://visbot.net/files/avs/resources/yathosho-mega-texer-pack.7z" class="text-red-600 hover:bg-red-600 dark:text-rose-400 dark:hover:bg-rose-400 hover:text-white">Yathosho's Mega Texer Pack</a>
+				</li>
+			</ul>
+		</span>
 	</section>
 </main>
