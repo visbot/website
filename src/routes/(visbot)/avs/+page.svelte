@@ -6,9 +6,9 @@
 	const chavs = ['vis_chavs-2.9', 'vis_chavsmod-2.9.1', 'vis_chavsmod-2.9'];
 </script>
 
-<main>
+<main class="lowercase">
 	<section class="bg-white sm:border-2 border-black dark:border-neutral-200 dark:bg-neutral-900 dark:text-white p-4 my-0 box-shadow sm:mb-4">
-		<h1 class="font-semibold mt-2">advanced visualization studio (avs)</h1>
+		<h1 class="font-semibold mt-2">Advanced Visualization Studio (AVS)</h1>
 
 		<span class="m-2">
 			<ul class="list-disc m-2">
@@ -43,12 +43,30 @@
 		<span class="m-2">
 			<ul class="list-disc m-2">
 				<li class="flex space-x-2">
-					<a href={`https://github.com/visbot/vis_avs`} class="text-red-600 hover:bg-red-600 dark:text-rose-400 dark:hover:bg-rose-400 hover:text-white">vis_avs source</a>
+					<span><a href="https://visbot.net/files/avs/Source Code/vis_avs-2.81d-src.zip" class="text-red-600 hover:bg-red-600 dark:text-rose-400 dark:hover:bg-rose-400 hover:text-white">vis_avs src</a></span>
+					<span>or <a href="https://github.com/visbot/vis_avs" class="text-red-600 hover:bg-red-600 dark:text-rose-400 dark:hover:bg-rose-400 hover:text-white">github</a></span>
 				</li>
 				<li class="flex space-x-2">
-					<a href={`https://github.com/visbot/chavs`} class="text-red-600 hover:bg-red-600 dark:text-rose-400 dark:hover:bg-rose-400 hover:text-white">vis_chavs source</a>
+					<span><a href="https://visbot.net/files/avs/Source Code/vis_chavs-2.9.1-src.zip" class="text-red-600 hover:bg-red-600 dark:text-rose-400 dark:hover:bg-rose-400 hover:text-white">vis_chavs src</a></span>
+					<span>or <a href="https://github.com/visbot/chavs" class="text-red-600 hover:bg-red-600 dark:text-rose-400 dark:hover:bg-rose-400 hover:text-white">github</a></span>
 				</li>
 			</ul>
 		</span>
+	</section>
+
+	<section class="bg-white sm:border-2 border-black dark:border-neutral-200 dark:bg-neutral-900 dark:text-white p-4 my-0 box-shadow sm:mb-4">
+		<h1 class="font-semibold mt-2">Resources</h1>
+
+		<ul class="list-disc m-2">
+			<li class="flex space-x-2">
+				<a href="https://visbot.net/files/avs/Resources/tuggummi-texer-resources.7z" class="text-red-600 hover:bg-red-600 dark:text-rose-400 dark:hover:bg-rose-400 hover:text-white">Tuggummi's Texer Resources</a>
+			</li>
+			<li class="flex space-x-2">
+				<a href="https://visbot.net/files/avs/Resources/yathosho-texer-resources-extension-pack.7z" class="text-red-600 hover:bg-red-600 dark:text-rose-400 dark:hover:bg-rose-400 hover:text-white">Yathosho's Texer Resources Extension Pack</a>
+			</li>
+			<li class="flex space-x-2">
+				<a href="https://visbot.net/files/avs/Resources/yathosho-mega-texer-pack.7z" class="text-red-600 hover:bg-red-600 dark:text-rose-400 dark:hover:bg-rose-400 hover:text-white">Yathosho's Mega Texer Pack</a>
+			</li>
+		</ul>
 	</section>
 </main>
