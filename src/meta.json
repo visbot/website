@@ -199,6 +199,11 @@
     "date": "2023-04-27"
   },
   {
+    "id": "VA018",
+    "type": "album",
+    "tba": true
+  },
+  {
     "id": "VB001-1",
     "name": "Brokenframe Teasa",
     "byline": "Yathosho",
