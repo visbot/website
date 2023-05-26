@@ -191,7 +191,7 @@
     "id": "VA017",
     "name": "Helium",
     "byline": "Micro.D",
-    "type": "album",
+    "type": "compilation",
     "artists": [
       "micro-d"
     ],
@@ -200,8 +200,14 @@
   },
   {
     "id": "VA018",
-    "type": "album",
-    "tba": true
+    "name": "Finnish Flash Forever",
+    "byline": "Finnish Flash",
+    "type": "compilation",
+    "artists": [
+      "finnish-flash"
+    ],
+    "is_new": true,
+    "date": "2023-05-26"
   },
   {
     "id": "VB001-1",
