@@ -10,7 +10,7 @@
 		</li>
 		<li class="inline-block">
 			<a href="https://github.com/visbot" class="hover:text-red-500 dark:hover:text-rose-400" title="Find our projects on GitHub" target="_blank" rel="me noreferrer">
-				<span>github</span>
+				<span>GitHub</span>
 			</a>
 		</li>
 		<li class="inline-block">
