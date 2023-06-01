@@ -8,7 +8,7 @@
 		const { file_id }: { file_id: string[] } = await import('@visbot/file_id.diz');
 		console.log(file_id.join('\n'));
 
-		window.get = (file) => {
+		window['get'] = (file) => {
 			const link: HTMLAnchorElement = document.querySelector(`a[href$="file=${file.toUpperCase()}.exe.zip"]`);
 
 			if (link) {
