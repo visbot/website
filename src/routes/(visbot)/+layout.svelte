@@ -9,7 +9,7 @@
 		console.log(file_id.join('\n'));
 
 		window['get'] = (file) => {
-			const link: HTMLAnchorElement = document.querySelector(`a[href$="file=${file.toUpperCase()}.exe.zip"]`);
+			const link: HTMLAnchorElement = document.querySelector(`a[href$="?file=${file.toUpperCase()}.exe.zip"]`);
 
 			if (link) {
 				link.click();

@@ -34,7 +34,7 @@ export function createFeed(metaData) {
 		feed.addItem({
 			title: item.name.toLowerCase(),
 			id: item.id,
-			link: `https://visbot.net/download/?file=${item.id}.exe.zip&rel=feed`,
+			link: `https://visbot.net/download?file=${item.id}.exe.zip&rel=feed`,
 			description: `by ${item.byline.toLowerCase()}`,
 			date: new Date(item.date)
 		});
