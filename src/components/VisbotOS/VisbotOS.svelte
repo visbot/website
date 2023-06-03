@@ -9,7 +9,5 @@
 		window['get'] = commands.get;
 		window['help'] = commands.help;
 		window['info'] = commands.info;
-		// window['help'] = commands.help;
-		// window['list'] = commands.list;
 	});
 </script>

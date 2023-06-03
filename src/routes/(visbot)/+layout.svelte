@@ -1,7 +1,13 @@
 <script lang="ts">
 	import '@lufrai/modern-css-reset';
-	import { VisbotOS } from '$components/VisbotOS';
 	import { Nav } from '$components/Nav';
+	import { onMount } from 'svelte';
+
+	let visbotOS = null;
+
+	onMount(async () => {
+		visbotOS = (await import('$components/VisbotOS')).VisbotOS;
+	});
 </script>
 
 <svelte:head>
@@ -11,7 +17,7 @@
 </svelte:head>
 
 <div class="font-mono lg:max-w-screen-lg lg:mx-auto sm:pt-4">
-	<VisbotOS />
+	<svelte:component this={visbotOS} />
 	<Nav />
 	<slot />
 </div>
