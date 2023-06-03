@@ -1,21 +1,7 @@
 <script lang="ts">
 	import '@lufrai/modern-css-reset';
-	import { onMount } from 'svelte';
-
+	import { VisbotOS } from '$components/VisbotOS';
 	import { Nav } from '$components/Nav';
-
-	onMount(async () => {
-		const { file_id }: { file_id: string[] } = await import('@visbot/file_id.diz');
-		console.log(file_id.join('\n'));
-
-		window['get'] = (file) => {
-			const link: HTMLAnchorElement = document.querySelector(`a[href$="?file=${file.toUpperCase()}.exe.zip"]`);
-
-			if (link) {
-				link.click();
-			}
-		};
-	});
 </script>
 
 <svelte:head>
@@ -25,6 +11,7 @@
 </svelte:head>
 
 <div class="font-mono lg:max-w-screen-lg lg:mx-auto sm:pt-4">
+	<VisbotOS />
 	<Nav />
 	<slot />
 </div>
