@@ -3,8 +3,8 @@
   "tasks": [
     {
       "label": "Vite",
-      "type": "npm",
-      "script": "dev:web",
+      "type": "shell",
+      "command": "turbo dev:web",
       "presentation": {
         "clear": true,
         "focus": false,
