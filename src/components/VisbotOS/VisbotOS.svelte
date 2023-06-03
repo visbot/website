@@ -4,6 +4,7 @@
 
 	onMount(async () => {
 		const { file_id }: { file_id: string[] } = await import('@visbot/file_id.diz');
+		console.clear();
 		console.log(file_id.join('\n'));
 
 		window['get'] = commands.get;
