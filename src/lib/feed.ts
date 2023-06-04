@@ -13,7 +13,7 @@ export function createFeed(metaData) {
 
 	const feed = new Feed({
 		title: 'visbot releases',
-		description: 'get updates on the latest visbot releases',
+		description: 'get updates on the latest visbot drops',
 		id: '//visbot.net/feed',
 		link: 'https://visbot.net',
 		language: 'en',
