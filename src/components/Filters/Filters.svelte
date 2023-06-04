@@ -93,7 +93,7 @@
 			<option value="">-- Artist --</option>
 			<option value="alt-iii">Alt III</option>
 			<option value="amphirion">Amphirion</option>
-			<option value="avs-king">AVS King</option>
+			<option value="avs-king">AVS-King</option>
 			<option value="danaughty1">Danaughty1</option>
 			<option value="duo">Duo</option>
 			<option value="dynamic-duo">Dynamic Duo</option>
