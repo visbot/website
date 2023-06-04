@@ -12,7 +12,7 @@ export function createFeed(metaData) {
 		.slice(0, 10);
 
 	const feed = new Feed({
-		title: 'visbot releases',
+		title: 'visbot drops',
 		description: 'get updates on the latest visbot drops',
 		id: '//visbot.net/feed',
 		link: 'https://visbot.net',
