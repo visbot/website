@@ -43,7 +43,7 @@
 
 		if (search?.length) {
 			newSearchParams.set('search', search);
-			currentFilter = currentFilter.filter((item) => item.name?.toLowerCase().includes(search) || item.id.toLowerCase().includes(search));
+			currentFilter = currentFilter.filter((item) => item.name?.toLowerCase().includes(search) || item.id.toLowerCase().includes(search) || item.byline.toLowerCase().includes(search));
 		}
 
 		if (artist?.length) {
