@@ -37,6 +37,10 @@
 			<LostPasswordForm />
 		{/if}
 
+		{#if false}
+			<slot />
+		{/if}
+
 		<p id="backtoblog">
 			<a href={base || '/'}>&larr; Go to {import.meta.env.VITE_SITE_NAME}</a>
 		</p>

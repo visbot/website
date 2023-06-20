@@ -222,12 +222,21 @@
   },
   {
     "id": "VA020",
+    "byline": "VISBOT",
     "type": "compilation",
     "artists": [
-      "hboy"
+      "visbot"
     ],
-    "tba": true,
-    "date": "2023-06-04"
+    "tba": true
+  },
+  {
+    "id": "VA021",
+    "byline": "Skupers",
+    "type": "compilation",
+    "artists": [
+      "skupers"
+    ],
+    "tba": true
   },
   {
     "id": "VB001-1",
