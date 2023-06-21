@@ -35,8 +35,8 @@
 	const filterHandler = () => {
 		const search = decodeURIComponent(searchValue)?.toLowerCase() || '';
 		const artist = selectedArtist?.toLowerCase();
-		const type = selectedType.toLowerCase();
-		const series = selectedSeries.toLowerCase();
+		const type = selectedType?.toLowerCase();
+		const series = selectedSeries?.toLowerCase();
 
 		const newSearchParams = new URLSearchParams();
 		let currentFilter = metaData;
