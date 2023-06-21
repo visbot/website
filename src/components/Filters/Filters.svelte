@@ -44,21 +44,29 @@
 		if (search?.length) {
 			newSearchParams.set('search', search);
 			currentFilter = currentFilter.filter((item) => item.name?.toLowerCase().includes(search) || item.id?.toLowerCase().includes(search) || item.byline?.toLowerCase().includes(search));
+		} else {
+			newSearchParams.delete('search');
 		}
 
 		if (artist?.length) {
 			newSearchParams.set('artist', artist);
 			currentFilter = currentFilter.filter((item) => item.artists.find((item) => item?.toLowerCase() === artist));
+		} else {
+			newSearchParams.delete('artist');
 		}
 
 		if (type?.length) {
 			newSearchParams.set('type', type);
 			currentFilter = currentFilter.filter((item) => item.type === type);
+		} else {
+			newSearchParams.delete('type');
 		}
 
 		if (series?.length) {
 			newSearchParams.set('series', series);
 			currentFilter = currentFilter.filter((item) => item.id?.toLowerCase().startsWith(`v${series}`));
+		} else {
+			newSearchParams.delete('series');
 		}
 
 		const searchParamsString = newSearchParams.toString();
