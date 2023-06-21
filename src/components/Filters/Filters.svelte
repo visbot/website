@@ -43,12 +43,12 @@
 
 		if (search?.length) {
 			newSearchParams.set('search', search);
-			currentFilter = currentFilter.filter((item) => item.name?.toLowerCase().includes(search) || item.id.toLowerCase().includes(search) || item.byline.toLowerCase().includes(search));
+			currentFilter = currentFilter.filter((item) => item.name?.toLowerCase().includes(search) || item.id?.toLowerCase().includes(search) || item.byline?.toLowerCase().includes(search));
 		}
 
 		if (artist?.length) {
 			newSearchParams.set('artist', artist);
-			currentFilter = currentFilter.filter((item) => item.artists.find((item) => item.toLowerCase() === artist));
+			currentFilter = currentFilter.filter((item) => item.artists.find((item) => item?.toLowerCase() === artist));
 		}
 
 		if (type?.length) {
@@ -58,7 +58,7 @@
 
 		if (series?.length) {
 			newSearchParams.set('series', series);
-			currentFilter = currentFilter.filter((item) => item.id.toLowerCase().startsWith(`v${series}`));
+			currentFilter = currentFilter.filter((item) => item.id?.toLowerCase().startsWith(`v${series}`));
 		}
 
 		const searchParamsString = newSearchParams.toString();
