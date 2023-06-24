@@ -16,7 +16,7 @@
 	<link rel="icon" href="/favicon.svg" />
 </svelte:head>
 
-<div class="font-mono lg:max-w-screen-lg lg:mx-auto sm:pt-4 md:text-lg">
+<div class="font-mono lg:max-w-screen-lg lg:mx-auto sm:pt-4 md:text-xl">
 	<svelte:component this={visbotOS} />
 	<Nav />
 	<slot />
