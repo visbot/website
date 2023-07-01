@@ -223,6 +223,7 @@
   {
     "id": "VA020",
     "name": "VISBOT XX",
+    "byline": "VISBOT",
     "type": "compilation",
     "artists": [
       "visbot"
