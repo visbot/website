@@ -222,11 +222,13 @@
   },
   {
     "id": "VA020",
+    "name": "VISBOT XX",
     "type": "compilation",
     "artists": [
       "visbot"
     ],
-    "tba": true
+    "is_new": true,
+    "date": "2023-07-02"
   },
   {
     "id": "VB001-1",
