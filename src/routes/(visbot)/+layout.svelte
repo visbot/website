@@ -3,11 +3,11 @@
 	import { Nav } from '$components/Nav';
 	import { onMount } from 'svelte';
 
-	let visbotOS = null;
+	// let visbotOS = null;
 
-	onMount(async () => {
-		visbotOS = (await import('$components/VisbotOS')).VisbotOS;
-	});
+	// onMount(async () => {
+	// 	visbotOS = (await import('$components/VisbotOS')).VisbotOS;
+	// });
 </script>
 
 <svelte:head>
