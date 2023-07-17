@@ -6,6 +6,24 @@
 </script>
 
 <main class="lowercase">
+	<!--
+    TL;DR
+   -->
+	<section class="bg-white sm:border-2 border-black dark:border-neutral-200 dark:bg-neutral-900 dark:text-white p-4 my-0 box-shadow sm:mb-4">
+		<h1 class="font-semibold mt-2">TL;DR</h1>
+
+		<span class="m-2">
+			<p>
+				You probably don't care about the specifics. This
+				<a href={`https://visbot.net/files/avs/avs-starter-pack.7z`} class="text-red-600 hover:bg-red-600 dark:text-rose-400 dark:hover:bg-rose-400 hover:text-white">AVS Starter Pack</a>
+				is for you then!
+			</p>
+		</span>
+	</section>
+
+	<!--
+    AVS
+   -->
 	<section class="bg-white sm:border-2 border-black dark:border-neutral-200 dark:bg-neutral-900 dark:text-white p-4 my-0 box-shadow sm:mb-4">
 		<h1 class="font-semibold mt-2">Advanced Visualization Studio (AVS)</h1>
 
@@ -57,6 +75,9 @@
 		<p>* avs versions that are widely considered to be the most compatible</p>
 	</section>
 
+	<!--
+    RESOURCES
+   -->
 	<section class="bg-white sm:border-2 border-black dark:border-neutral-200 dark:bg-neutral-900 dark:text-white p-4 my-0 box-shadow sm:mb-4">
 		<h1 class="font-semibold mt-2">Resources</h1>
 
@@ -75,6 +96,9 @@
 		</span>
 	</section>
 
+	<!--
+    APEs
+   -->
 	<section class="bg-white sm:border-2 border-black dark:border-neutral-200 dark:bg-neutral-900 dark:text-white p-4 my-0 box-shadow sm:mb-4">
 		<h1 class="font-semibold mt-2">AVS Plugin Effects (APE)</h1>
 
