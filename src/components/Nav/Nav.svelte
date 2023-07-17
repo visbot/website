@@ -4,7 +4,7 @@
 	</h1>
 	<ul class="float-right lowercase">
 		<li class="inline-block mr-2">
-			<a href="/avs" class="hover:text-red-500 dark:hover:text-rose-400" title="Get AVS">
+			<a href="/avs" class="hover:text-red-500 dark:hover:text-rose-400" title="Download AVS and related resources">
 				<span>Get AVS!</span>
 			</a>
 		</li>
