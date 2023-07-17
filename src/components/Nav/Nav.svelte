@@ -3,12 +3,17 @@
 		<a href="/">VISBOT NETWORK</a>
 	</h1>
 	<ul class="float-right lowercase">
-		<li class="inline-block">
+		<li class="inline-block mr-2">
+			<a href="/avs" class="hover:text-red-500 dark:hover:text-rose-400" title="Get AVS">
+				<span>Get AVS!</span>
+			</a>
+		</li>
+		<li class="inline-block mr-2">
 			<a href="https://mastodon.social/@visbot" class="hover:text-red-500 dark:hover:text-rose-400" title="Follow us on Mastodon" target="_blank" rel="me noreferrer">
 				<span>Mastodon</span>
 			</a>
 		</li>
-		<li class="inline-block">
+		<li class="inline-block mr-2">
 			<a href="https://github.com/visbot" class="hover:text-red-500 dark:hover:text-rose-400" title="Find our software on GitHub" target="_blank" rel="me noreferrer">
 				<span>GitHub</span>
 			</a>
