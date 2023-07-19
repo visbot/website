@@ -1,6 +1,3 @@
-import metaData from '../meta.json';
-
-const nonMembers: string[] = [];
 const members = [
 	{
 		slug: 'alt-iii',
@@ -96,13 +93,4 @@ const members = [
 	}
 ];
 
-metaData.map((item) => {
-	item.artists.map((artist) => {
-		if (!nonMembers.includes(artist) && !members.includes(artist)) {
-			nonMembers.push(artist);
-			nonMembers.sort();
-		}
-	});
-});
-
-export { members, nonMembers };
+export { members };

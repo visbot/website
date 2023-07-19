@@ -17,7 +17,6 @@
 	onMount(() => {
 		searchText = navigator.userAgent.includes('Mac OS') || navigator.userAgent.includes('macOS') ? 'cmd+k to search' : 'ctrl+k to search';
 		filterHandler();
-		console.log({ members });
 	});
 
 	const globalHandler = (e) => {
