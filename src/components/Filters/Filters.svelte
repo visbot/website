@@ -2,6 +2,7 @@
 	import { meta as store } from '$stores/meta';
 	import { page } from '$app/stores';
 	import { goto } from '$app/navigation';
+	import { members } from '$lib/config';
 	import { onMount } from 'svelte';
 	import metaData from '../../meta.json';
 
@@ -16,6 +17,7 @@
 	onMount(() => {
 		searchText = navigator.userAgent.includes('Mac OS') || navigator.userAgent.includes('macOS') ? 'cmd+k to search' : 'ctrl+k to search';
 		filterHandler();
+		console.log({ members });
 	});
 
 	const globalHandler = (e) => {
@@ -99,27 +101,9 @@
 	<div class="flex justify-evenly grow gap-x-4">
 		<select name="artist" class="placeholder-neutral-500 bg-white grow sm:border-2 border-black dark:border-neutral-200 dark:bg-neutral-900 dark:text-white p-4 my-0 sm:mb-4 box-shadow" aria-label="Select an artist" bind:value={selectedArtist} on:change={filterHandler}>
 			<option value="">-- Artist --</option>
-			<option value="alt-iii">Alt III</option>
-			<option value="amphirion">Amphirion</option>
-			<option value="avs-king">AVS-King</option>
-			<option value="danaughty1">Danaughty1</option>
-			<option value="duo">Duo</option>
-			<option value="dynamic-duo">Dynamic Duo</option>
-			<option value="effekthasch">Effekthasch</option>
-			<option value="frames-of-reality">Frames-of-Reality</option>
-			<option value="grandchild">Grandchild</option>
-			<option value="hboy">Hboy</option>
-			<option value="javs">JaVS</option>
-			<option value="les-noobiens">les Noobiens</option>
-			<option value="micro-d">Micro.D</option>
-			<option value="nemo-orange">Nemo Orange</option>
-			<option value="onionring">Onionring</option>
-			<option value="pan-am">PAN AM</option>
-			<option value="skupers">Skupers</option>
-			<option value="synth-c">Synth-C</option>
-			<option value="vanish">Vanish</option>
-			<option value="yathosho">Yathosho</option>
-			<option value="zamuz">Zamuz</option>
+			{#each members as member}
+				<option value={member.slug}>{member.name}</option>
+			{/each}
 		</select>
 
 		<select name="type" class="grow bg-white sm:border-2 border-black dark:bg-neutral-900 dark:border-neutral-200 dark:text-white p-4 my-0 sm:mb-4 box-shadow" aria-label="Select a release type" bind:value={selectedType} on:change={filterHandler}>
