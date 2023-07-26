@@ -23,12 +23,14 @@ async function trackDownload(event) {
 	const file = getFile(event.rawUrl);
 
 	if (!file?.length) {
+		console.error('Missing file');
 		return;
 	}
 
 	const { catalogue, type } = getParams(file);
 
 	if (!catalogue?.length || !type?.length) {
+		console.error('Missing type or catalogue');
 		return;
 	}
 
