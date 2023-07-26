@@ -52,7 +52,7 @@ async function trackDownload(event) {
 		})
 	});
 
-	appInsights.setup().start(); // assuming connection string is in environment variables. start() can be omitted to disable any non-custom data
+	appInsights.setup().start();
 
 	const client = appInsights.defaultClient;
 
