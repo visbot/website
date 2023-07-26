@@ -1,4 +1,5 @@
 import { v4 as uuidv4, v5 as uuidv5 } from 'uuid';
+import appInsights from 'applicationinsights';
 import type { APIGatewayEvent } from 'aws-lambda';
 
 export async function handler(event: APIGatewayEvent) {
@@ -49,6 +50,19 @@ async function trackDownload(event) {
 				}
 			]
 		})
+	});
+
+	appInsights.setup().start(); // assuming connection string is in environment variables. start() can be omitted to disable any non-custom data
+
+	const client = appInsights.defaultClient;
+
+	client.trackEvent({
+		name: 'download',
+		properties: {
+			file,
+			catalogue,
+			type
+		}
 	});
 }
 
