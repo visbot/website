@@ -55,6 +55,8 @@ async function trackDownload(event) {
 				]
 			})
 		});
+	} else {
+		console.warn('GA_MEASUREMENT_ID or GA_API_SECRET is not defined');
 	}
 
 	if (process.env.APPLICATIONINSIGHTS_CONNECTION_STRING) {
@@ -69,6 +71,8 @@ async function trackDownload(event) {
 				type
 			}
 		});
+	} else {
+		console.warn('APPLICATIONINSIGHTS_CONNECTION_STRING is not defined');
 	}
 }
 
