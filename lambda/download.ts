@@ -3,8 +3,6 @@ import appInsights from 'applicationinsights';
 import type { APIGatewayEvent } from 'aws-lambda';
 
 export async function handler(event: APIGatewayEvent) {
-	console.log('Running handler()');
-
 	await trackDownload(event);
 
 	const file = getFile(event.rawUrl);
@@ -18,7 +16,6 @@ export async function handler(event: APIGatewayEvent) {
 }
 
 async function trackDownload(event) {
-	console.log('Running trackDownload()');
 	const file = getFile(event.rawUrl);
 
 	if (!file?.length) {
@@ -86,7 +83,6 @@ async function trackDownload(event) {
 }
 
 function getFile(rawUrl: string): string {
-	console.log('Running getFile()');
 	const url = new URL(rawUrl);
 	const searchParams = new URLSearchParams(url.search);
 	const file = searchParams.get('file') || '';
@@ -95,7 +91,6 @@ function getFile(rawUrl: string): string {
 }
 
 function getParams(file: string): { catalogue: string; type: string } {
-	console.log('Running getParams()');
 	const catalogue = file.split('.')[0];
 
 	switch (true) {
