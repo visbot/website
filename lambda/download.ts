@@ -37,6 +37,8 @@ async function trackDownload(event) {
 	const clientId = event.requestContext?.http?.sourceIp ? uuidv5(event.requestContext.http.sourceIp, namespace) : uuidv4();
 
 	if (process.env.GA_MEASUREMENT_ID && process.env.GA_API_SECRET) {
+		console.time('Sending request to Google Analytics');
+
 		const GA_MEASUREMENT_ID = process.env.GA_MEASUREMENT_ID;
 		const GA_API_SECRET = process.env.GA_API_SECRET;
 
@@ -56,11 +58,15 @@ async function trackDownload(event) {
 				]
 			})
 		});
+
+		console.timeEnd('Sending request to Google Analytics');
 	} else {
 		console.warn('GA_MEASUREMENT_ID or GA_API_SECRET is not defined');
 	}
 
 	if (process.env.APPLICATIONINSIGHTS_CONNECTION_STRING) {
+		console.time('Sending request to Application Insights');
+
 		appInsights.setup().start();
 		const client = appInsights.defaultClient;
 
@@ -72,6 +78,8 @@ async function trackDownload(event) {
 				type
 			}
 		});
+
+		console.timeEnd('Sending request to Application Insights');
 	} else {
 		console.warn('APPLICATIONINSIGHTS_CONNECTION_STRING is not defined');
 	}
