@@ -33,8 +33,17 @@ async function trackDownload(event) {
 	const namespace = uuidv5('https://visbot.net', uuidv5.URL);
 	const clientId = event.requestContext?.http?.sourceIp ? uuidv5(event.requestContext.http.sourceIp, namespace) : uuidv4();
 
+	const eventProperties = {
+		name: 'download',
+		params: {
+			file,
+			catalogue,
+			type
+		}
+	};
+
 	if (process.env.GA_MEASUREMENT_ID && process.env.GA_API_SECRET) {
-		console.time('Sending request to Google Analytics');
+		console.time(`Sending request to Google Analytics: ${JSON.stringify(eventProperties, null, 2)}`);
 
 		const GA_MEASUREMENT_ID = process.env.GA_MEASUREMENT_ID;
 		const GA_API_SECRET = process.env.GA_API_SECRET;
@@ -43,40 +52,24 @@ async function trackDownload(event) {
 			method: 'POST',
 			body: JSON.stringify({
 				client_id: clientId,
-				events: [
-					{
-						name: 'download',
-						params: {
-							file,
-							catalogue,
-							type
-						}
-					}
-				]
+				events: [eventProperties]
 			})
 		});
 
-		console.timeEnd('Sending request to Google Analytics');
+		console.timeEnd(`Sending request to Google Analytics: ${JSON.stringify(eventProperties, null, 2)}`);
 	} else {
 		console.warn('GA_MEASUREMENT_ID or GA_API_SECRET is not defined');
 	}
 
 	if (process.env.APPLICATIONINSIGHTS_CONNECTION_STRING) {
-		console.time('Sending request to Application Insights');
+		console.time(`Sending request to Application Insights: ${JSON.stringify(eventProperties, null, 2)}`);
 
 		appInsights.setup().start();
 		const client = appInsights.defaultClient;
 
-		client.trackEvent({
-			name: 'download',
-			properties: {
-				file,
-				catalogue,
-				type
-			}
-		});
+		client.trackEvent(eventProperties);
 
-		console.timeEnd('Sending request to Application Insights');
+		console.timeEnd(`Sending request to Application Insights: ${JSON.stringify(eventProperties, null, 2)}`);
 	} else {
 		console.warn('APPLICATIONINSIGHTS_CONNECTION_STRING is not defined');
 	}
