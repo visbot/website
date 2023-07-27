@@ -14,14 +14,12 @@ export async function handler(event: APIGatewayEvent) {
 	return {
 		statusCode: 302,
 		headers: {
-			Location: `https://visbot.net/files/packs/${file}?`
+			Location: `https://visbot.net/files/packs/${file}`
 		}
 	};
 }
 
 async function trackDownload(event) {
-	const GA_MEASUREMENT_ID = process.env.GA_MEASUREMENT_ID;
-	const GA_API_SECRET = process.env.GA_API_SECRET;
 	const file = getFile(event.rawUrl);
 
 	if (!file?.length) {
@@ -39,33 +37,40 @@ async function trackDownload(event) {
 	const namespace = uuidv5('https://visbot.net', uuidv5.URL);
 	const clientId = event.requestContext?.http?.sourceIp ? uuidv5(event.requestContext.http.sourceIp, namespace) : uuidv4();
 
-	await fetch(`https://www.google-analytics.com/mp/collect?measurement_id=${GA_MEASUREMENT_ID}&api_secret=${GA_API_SECRET}`, {
-		method: 'POST',
-		body: JSON.stringify({
-			client_id: clientId,
-			events: [
-				{
-					name: 'download',
-					params: {
-						file,
-						catalogue,
-						type
+	if (process.env.GA_MEASUREMENT_ID && process.env.GA_API_SECRET) {
+		const GA_MEASUREMENT_ID = process.env.GA_MEASUREMENT_ID;
+		const GA_API_SECRET = process.env.GA_API_SECRET;
+
+		await fetch(`https://www.google-analytics.com/mp/collect?measurement_id=${GA_MEASUREMENT_ID}&api_secret=${GA_API_SECRET}`, {
+			method: 'POST',
+			body: JSON.stringify({
+				client_id: clientId,
+				events: [
+					{
+						name: 'download',
+						params: {
+							file,
+							catalogue,
+							type
+						}
 					}
-				}
-			]
-		})
-	});
+				]
+			})
+		});
+	}
 
-	const client = appInsights.defaultClient;
+	if (process.env.APPLICATIONINSIGHTS_CONNECTION_STRING) {
+		const client = appInsights.defaultClient;
 
-	client.trackEvent({
-		name: 'download',
-		properties: {
-			file,
-			catalogue,
-			type
-		}
-	});
+		client.trackEvent({
+			name: 'download',
+			properties: {
+				file,
+				catalogue,
+				type
+			}
+		});
+	}
 }
 
 function getFile(rawUrl: string): string {
