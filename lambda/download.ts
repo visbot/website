@@ -2,6 +2,8 @@ import { v4 as uuidv4, v5 as uuidv5 } from 'uuid';
 import appInsights from 'applicationinsights';
 import type { APIGatewayEvent } from 'aws-lambda';
 
+appInsights.setup().start();
+
 export async function handler(event: APIGatewayEvent) {
 	if (process.env.GA_MEASUREMENT_ID && process.env.GA_API_SECRET) {
 		await trackDownload(event);
@@ -53,8 +55,6 @@ async function trackDownload(event) {
 			]
 		})
 	});
-
-	appInsights.setup().start();
 
 	const client = appInsights.defaultClient;
 
