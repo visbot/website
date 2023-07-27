@@ -64,8 +64,7 @@ async function trackDownload(event) {
 	if (process.env.APPLICATIONINSIGHTS_CONNECTION_STRING) {
 		console.time(`Sending request to Application Insights: ${JSON.stringify(eventProperties, null, 2)}`);
 
-		appInsights.setup().start();
-		const client = appInsights.defaultClient;
+		const client = new appInsights.TelemetryClient();
 
 		client.trackEvent(eventProperties);
 
