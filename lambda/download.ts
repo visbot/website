@@ -1,5 +1,4 @@
 import { v4 as uuidv4, v5 as uuidv5 } from 'uuid';
-import appInsights from 'applicationinsights';
 import type { APIGatewayEvent } from 'aws-lambda';
 
 export async function handler(event: APIGatewayEvent) {
@@ -16,6 +15,11 @@ export async function handler(event: APIGatewayEvent) {
 }
 
 async function trackDownload(event) {
+	if (process.env.GA_MEASUREMENT_ID && process.env.GA_API_SECRET) {
+		console.warn('GA_MEASUREMENT_ID or GA_API_SECRET is not defined');
+		return;
+	}
+
 	const file = getFile(event.rawUrl);
 
 	if (!file?.length) {
@@ -42,36 +46,16 @@ async function trackDownload(event) {
 		}
 	};
 
-	if (process.env.GA_MEASUREMENT_ID && process.env.GA_API_SECRET) {
-		console.time(`Sending request to Google Analytics: ${JSON.stringify(eventProperties, null, 2)}`);
+	const GA_MEASUREMENT_ID = process.env.GA_MEASUREMENT_ID;
+	const GA_API_SECRET = process.env.GA_API_SECRET;
 
-		const GA_MEASUREMENT_ID = process.env.GA_MEASUREMENT_ID;
-		const GA_API_SECRET = process.env.GA_API_SECRET;
-
-		await fetch(`https://www.google-analytics.com/mp/collect?measurement_id=${GA_MEASUREMENT_ID}&api_secret=${GA_API_SECRET}`, {
-			method: 'POST',
-			body: JSON.stringify({
-				client_id: clientId,
-				events: [eventProperties]
-			})
-		});
-
-		console.timeEnd(`Sending request to Google Analytics: ${JSON.stringify(eventProperties, null, 2)}`);
-	} else {
-		console.warn('GA_MEASUREMENT_ID or GA_API_SECRET is not defined');
-	}
-
-	if (process.env.APPLICATIONINSIGHTS_CONNECTION_STRING) {
-		console.time(`Sending request to Application Insights: ${JSON.stringify(eventProperties, null, 2)}`);
-
-		const client = new appInsights.TelemetryClient();
-
-		client.trackEvent(eventProperties);
-
-		console.timeEnd(`Sending request to Application Insights: ${JSON.stringify(eventProperties, null, 2)}`);
-	} else {
-		console.warn('APPLICATIONINSIGHTS_CONNECTION_STRING is not defined');
-	}
+	await fetch(`https://www.google-analytics.com/mp/collect?measurement_id=${GA_MEASUREMENT_ID}&api_secret=${GA_API_SECRET}`, {
+		method: 'POST',
+		body: JSON.stringify({
+			client_id: clientId,
+			events: [eventProperties]
+		})
+	});
 }
 
 function getFile(rawUrl: string): string {
