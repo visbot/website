@@ -232,6 +232,17 @@
     "date": "2023-07-02"
   },
   {
+    "id": "VA021",
+    "name": "Kryptonite!",
+    "byline": "Pure Krypton",
+    "type": "compilation",
+    "artists": [
+      "pure-krypton"
+    ],
+    "is_new": true,
+    "date": "2023-08-02"
+  },
+  {
     "id": "VB001-1",
     "name": "Brokenframe Teasa",
     "byline": "Yathosho",
@@ -1889,7 +1900,7 @@
   {
     "id": "VB127",
     "name": "Skin (Yathosho Remixes)",
-    "byline": "Pure-Krypton",
+    "byline": "Pure Krypton",
     "type": "single",
     "artists": [
       "pure-krypton"
