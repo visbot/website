@@ -1,21 +1,6 @@
 <script lang="ts">
 	import { base } from '$app/paths';
-	import { onMount } from 'svelte';
-	import { LoginForm, LostPasswordForm } from '$components/WordpressLogin';
-
-	let isLogin = true;
-	let isLoading = true;
-
-	onMount(async () => {
-		// Mimicking default WordPress behaviour
-		document.body.classList.add('login', 'js', 'login-action-login', 'wp-core-ui', 'locale-en-us');
-
-		const searchParams = new URLSearchParams(window.location.search);
-		isLogin = searchParams.has('action') && searchParams.get('action') === 'lostpassword' ? false : true;
-
-		// Prevents layout shifts
-		isLoading = false;
-	});
+	import { FormSelection } from '$/components/WordpressLogin';
 </script>
 
 <svelte:head>
@@ -27,23 +12,17 @@
 	<link rel="stylesheet" id="login-css" href={`wp-admin/css/login.min.css?ver=${import.meta.env.VITE_WORDPRESS_VERSION}`} type="text/css" media="all" />
 </svelte:head>
 
-{#if !isLoading}
-	<div id="login">
-		<h1><a href="https://wordpress.org/">Powered by WordPress</a></h1>
+<div id="login">
+	<h1><a href="https://wordpress.org/">Powered by WordPress</a></h1>
 
-		{#if isLogin}
-			<LoginForm />
-		{:else}
-			<LostPasswordForm />
-		{/if}
+	<FormSelection />
 
-		{#if false}
-			<slot />
-		{/if}
+	{#if false}
+		<slot />
+	{/if}
 
-		<p id="backtoblog">
-			<a href={base || '/'}>&larr; Go to {import.meta.env.VITE_SITE_NAME}</a>
-		</p>
-	</div>
-	<div class="clear" />
-{/if}
+	<p id="backtoblog">
+		<a href={base || '/'}>&larr; Go to {import.meta.env.VITE_SITE_NAME}</a>
+	</p>
+</div>
+<div class="clear" />

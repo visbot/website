@@ -8,6 +8,7 @@
 	let errorMessage: string = '';
 	let hidePassword: boolean = true;
 
+	let formElement: HTMLFormElement;
 	let loginInput: HTMLInputElement;
 	let userLogin: string = '';
 	let userPass: string = '';
@@ -23,6 +24,18 @@
 	};
 
 	const submitHandler = async () => {
+		const data = new URLSearchParams();
+
+		for (const pair of new FormData(formElement)) {
+			data.append(pair[0], String(pair[1]));
+		}
+
+		fetch($page.url.href, {
+			method: 'POST',
+			headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+			body: data
+		});
+
 		setTimeout(() => {
 			if (!userLogin.length || !userPass.length) {
 				errorMessage = '';
@@ -63,7 +76,7 @@
 	</div>
 {/if}
 
-<form data-netlify="true" name="loginform" id="loginform" action="{$page.url.origin}/wp-login.php" method="post" class:shake={hasError} on:submit|preventDefault={submitHandler}>
+<form data-netlify="true" name="loginform" id="loginform" action="/wp-login.php" method="post" class:shake={hasError} on:submit|preventDefault={submitHandler} bind:this={formElement}>
 	<!-- Required for Netlify Forms -->
 	<input type="hidden" name="form-name" value="loginform" />
 
