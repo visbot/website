@@ -4,6 +4,8 @@
 	import { onMount } from 'svelte';
 	import { page } from '$app/stores';
 
+	export let hidden;
+
 	let hasError: boolean = false;
 	let errorMessage: string = '';
 	let hidePassword: boolean = true;
@@ -76,7 +78,7 @@
 	</div>
 {/if}
 
-<form data-netlify="true" name="loginform" id="loginform" action="/wp-login.php" method="post" class:shake={hasError} on:submit|preventDefault={submitHandler} bind:this={formElement}>
+<form data-netlify="true" name="loginform" id="loginform" action="/wp-login.php" method="post" class:shake={hasError} on:submit|preventDefault={submitHandler} bind:this={formElement} {hidden}>
 	<!-- Required for Netlify Forms -->
 	<input type="hidden" name="form-name" value="loginform" />
 

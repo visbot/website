@@ -13,8 +13,5 @@
 	});
 </script>
 
-{#if isLogin}
-	<LoginForm />
-{:else}
-	<LostPasswordForm />
-{/if}
+<LoginForm hidden={!isLogin} />
+<LostPasswordForm hidden={isLogin} />
