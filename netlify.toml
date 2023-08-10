@@ -5,14 +5,3 @@ publish = "build"
 [functions]
 directory = "lambda"
 node_bundler = "esbuild"
-
-[[headers]]
-  for = "/*"
-
-  [headers.values]
-  Content-Security-Policy = '''
-  script-src 'strict-dynamic' 'unsafe-inline' http: https:;
-  object-src 'none';
-  base-uri 'none';
-  require-trusted-types-for 'script';
-  report-uri https://visbot.net;'''
