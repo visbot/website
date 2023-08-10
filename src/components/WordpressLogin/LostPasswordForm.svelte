@@ -4,7 +4,7 @@
 	import { randomResponse } from '$lib/util';
 	import { page } from '$app/stores';
 
-	export let hidden;
+	let hidden = true;
 
 	let hasError = false;
 	let errorMessage = '';
@@ -13,6 +13,9 @@
 	let userLogin: string = '';
 
 	onMount(() => {
+		const searchParams = new URLSearchParams(window.location.search);
+		hidden = searchParams.has('action') && searchParams.get('action') === 'lostpassword' ? false : true;
+
 		// Mimicking default WordPress behaviour
 		passwordInput.focus();
 	});

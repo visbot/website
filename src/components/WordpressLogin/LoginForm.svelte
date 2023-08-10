@@ -4,7 +4,7 @@
 	import { onMount } from 'svelte';
 	import { page } from '$app/stores';
 
-	export let hidden;
+	let hidden = true;
 
 	let hasError: boolean = false;
 	let errorMessage: string = '';
@@ -16,6 +16,9 @@
 	let userPass: string = '';
 
 	onMount(() => {
+		const searchParams = new URLSearchParams(window.location.search);
+		hidden = searchParams.has('action') && searchParams.get('action') === 'lostpassword' ? true : false;
+
 		// Mimicking default WordPress behaviour
 		loginInput.focus();
 		loginInput.select();
