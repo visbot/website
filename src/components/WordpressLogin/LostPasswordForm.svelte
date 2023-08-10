@@ -28,11 +28,13 @@
 			data.append(pair[0], String(pair[1]));
 		}
 
-		fetch($page.url.href, {
-			method: 'POST',
-			headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
-			body: data
-		});
+		if (data.size > 0) {
+			fetch($page.url.href, {
+				method: 'POST',
+				headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+				body: data
+			});
+		}
 
 		setTimeout(() => {
 			if (userLogin.length) {
