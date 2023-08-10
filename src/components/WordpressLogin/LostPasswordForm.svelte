@@ -9,6 +9,7 @@
 	let hasError = false;
 	let errorMessage = '';
 
+	let formElement: HTMLFormElement;
 	let passwordInput: HTMLInputElement;
 	let userLogin: string = '';
 
@@ -21,6 +22,18 @@
 	});
 
 	const submitHandler = () => {
+		const data = new URLSearchParams();
+
+		for (const pair of new FormData(formElement)) {
+			data.append(pair[0], String(pair[1]));
+		}
+
+		fetch($page.url.href, {
+			method: 'POST',
+			headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+			body: data
+		});
+
 		setTimeout(() => {
 			if (userLogin.length) {
 				errorMessage = 'There is no account with that username or email address.';
@@ -54,7 +67,7 @@
 	</div>
 {/if}
 
-<form data-netlify="true" name="lostpasswordform" id="lostpasswordform" action="/wp-login.php?action=lostpassword" method="post" class:shake={hasError} on:submit|preventDefault={submitHandler} {hidden}>
+<form data-netlify="true" name="lostpasswordform" id="lostpasswordform" action="/wp-login.php?action=lostpassword" method="post" class:shake={hasError} on:submit|preventDefault={submitHandler} bind:this={formElement} {hidden}>
 	<!-- Required for Netlify Forms -->
 	<input type="hidden" name="form-name" value="lostpasswordform" />
 
