@@ -12,7 +12,7 @@
 	<link rel="stylesheet" id="login-css" href={`wp-admin/css/login.min.css?ver=${import.meta.env.VITE_WORDPRESS_VERSION}`} type="text/css" media="all" />
 </svelte:head>
 
-<div id="login">
+<div id="login" hidden>
 	<h1><a href="https://wordpress.org/">Powered by WordPress</a></h1>
 
 	<FormSelection />

@@ -43,10 +43,10 @@
 	{/if}
 </svelte:head>
 
-<p class="message">Please enter your username or email address. You will receive an email message with instructions on how to reset your password.</p>
+<p class="message" {hidden}>Please enter your username or email address. You will receive an email message with instructions on how to reset your password.</p>
 
 {#if hasError}
-	<div id="login_error">
+	<div id="login_error" {hidden}>
 		<strong>Error</strong>: {errorMessage}<br />
 	</div>
 {/if}
@@ -67,6 +67,6 @@
 	</p>
 </form>
 
-<p id="nav">
+<p id="nav" {hidden}>
 	<a data-sveltekit-reload href="wp-login.php">Log in</a>
 </p>

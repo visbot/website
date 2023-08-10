@@ -73,7 +73,7 @@
 </svelte:head>
 
 {#if hasError}
-	<div id="login_error">
+	<div id="login_error" {hidden}>
 		{@html errorMessage}
 	</div>
 {/if}
@@ -111,6 +111,6 @@
 	</p>
 </form>
 
-<p id="nav">
+<p id="nav" {hidden}>
 	<a data-sveltekit-reload href="wp-login.php?action=lostpassword">Lost your password?</a>
 </p>
