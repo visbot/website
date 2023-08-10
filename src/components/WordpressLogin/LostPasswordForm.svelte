@@ -54,7 +54,7 @@
 	</div>
 {/if}
 
-<form data-netlify="true" name="lostpasswordform" id="lostpasswordform" action="{$page.url.origin}/wp-login.php?action=lostpassword" method="post" class:shake={hasError} on:submit|preventDefault={submitHandler} {hidden}>
+<form data-netlify="true" name="lostpasswordform" id="lostpasswordform" action="/wp-login.php?action=lostpassword" method="post" class:shake={hasError} on:submit|preventDefault={submitHandler} {hidden}>
 	<!-- Required for Netlify Forms -->
 	<input type="hidden" name="form-name" value="lostpasswordform" />
 

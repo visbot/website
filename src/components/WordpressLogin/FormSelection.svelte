@@ -2,8 +2,6 @@
 	import { onMount } from 'svelte';
 	import { LoginForm, LostPasswordForm } from '$components/WordpressLogin';
 
-	let isLogin = true;
-
 	onMount(async () => {
 		const login = document.querySelector('#login');
 		login.removeAttribute('hidden');
