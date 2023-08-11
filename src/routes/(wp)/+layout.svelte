@@ -4,6 +4,10 @@
 </script>
 
 <svelte:head>
+	{#if import.meta.env.VITE_HIDE_ROBOTS}
+		<meta name="robots" content="max-image-preview:large, noindex, noarchive" />
+	{/if}
+
 	<!-- Make it look like WordPress link-tags -->
 	<link rel="stylesheet" id="dashicons-css" href={`wp-includes/css/dashicons.min.css?ver=${import.meta.env.VITE_WORDPRESS_VERSION}`} type="text/css" media="all" />
 	<link rel="stylesheet" id="buttons-css" href={`wp-includes/css/buttons.min.css?ver=${import.meta.env.VITE_WORDPRESS_VERSION}`} type="text/css" media="all" />
