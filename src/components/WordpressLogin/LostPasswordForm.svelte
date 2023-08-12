@@ -64,7 +64,7 @@
 
 {#if hasError}
 	<div id="login_error" {hidden}>
-		<strong>Error</strong>: {errorMessage}<br />
+		<strong>Error</strong>: {@html errorMessage}<br />
 	</div>
 {/if}
 
