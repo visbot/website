@@ -48,14 +48,18 @@
 				errorMessage = '';
 
 				if (!userLogin.length) {
-					errorMessage += 'The username field is empty.';
+					errorMessage += '<strong>Error</strong>: The username field is empty.';
+				}
+
+				if (!userLogin.length && !userPass.length) {
+					errorMessage += '<br />';
 				}
 
 				if (!userPass.length) {
-					errorMessage += 'The password field is empty.';
+					errorMessage += '<strong>Error</strong>: The password field is empty.';
 				}
 			} else {
-				errorMessage = `The username <strong>${userLogin}</strong> is not registered on this site. If you are unsure of your username, try your email address instead.`;
+				errorMessage = `<strong>Error</strong>: The username <strong>${userLogin}</strong> is not registered on this site. If you are unsure of your username, try your email address instead.`;
 			}
 
 			hasError = true;
@@ -78,7 +82,7 @@
 
 {#if hasError}
 	<div id="login_error" {hidden}>
-		<strong>Error</strong>: {@html errorMessage}<br />
+		{@html errorMessage}<br />
 	</div>
 {/if}
 
