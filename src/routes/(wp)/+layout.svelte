@@ -1,6 +1,5 @@
 <script lang="ts">
 	import { base } from '$app/paths';
-	import { FormSelection } from '$/components/WordpressLogin';
 </script>
 
 <svelte:head>
@@ -19,14 +18,11 @@
 <div id="login" hidden>
 	<h1><a href="https://wordpress.org/">Powered by WordPress</a></h1>
 
-	<FormSelection />
-
-	{#if false}
-		<slot />
-	{/if}
+	<slot />
 
 	<p id="backtoblog">
 		<a href={base || '/'}>&larr; Go to {import.meta.env.VITE_SITE_NAME}</a>
 	</p>
 </div>
+
 <div class="clear" />
