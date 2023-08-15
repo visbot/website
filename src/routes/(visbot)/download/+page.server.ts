@@ -1,26 +1,22 @@
-import { v4 as uuidv4, v5 as uuidv5 } from 'uuid';
-import type { APIGatewayEvent } from 'aws-lambda';
+import { redirect } from '@sveltejs/kit';
+import { v4 as uuidv4 } from 'uuid';
 
-export async function handler(event: APIGatewayEvent) {
-	await trackDownload(event);
+/** @type {import('./$types').LayoutServerLoad} */
+export async function load(event) {
+	trackDownload(event.url);
 
-	const file = getFile(event.rawUrl);
+	const file = getFile(event.url.href);
 
-	return {
-		statusCode: 302,
-		headers: {
-			Location: `https://visbot.net/files/packs/${file}`
-		}
-	};
+	throw redirect(302, `https://visbot.net/files/packs/${file}`);
 }
 
-async function trackDownload(event) {
+async function trackDownload(url) {
 	if (process.env.GA_MEASUREMENT_ID && process.env.GA_API_SECRET) {
 		console.warn('GA_MEASUREMENT_ID or GA_API_SECRET is not defined');
 		return;
 	}
 
-	const file = getFile(event.rawUrl);
+	const file = getFile(url.href);
 
 	if (!file?.length) {
 		console.error('Missing file');
@@ -34,8 +30,7 @@ async function trackDownload(event) {
 		return;
 	}
 
-	const namespace = uuidv5('https://visbot.net', uuidv5.URL);
-	const clientId = event.requestContext?.http?.sourceIp ? uuidv5(event.requestContext.http.sourceIp, namespace) : uuidv4();
+	const clientId = uuidv4();
 
 	const eventProperties = {
 		name: 'download',
