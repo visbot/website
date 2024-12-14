@@ -16,7 +16,7 @@ const config = {
 	kit: {
 		adapter: getAdapter(),
 		paths: {
-			base: process.env.GITHUB_WORKFLOW ? '/website' : undefined,
+			base: process.env.GITHUB_WORKFLOW ? '/' : undefined,
 		},
 		alias: {
 			$: resolve('./src'),
