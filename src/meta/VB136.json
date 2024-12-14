@@ -1,0 +1,51 @@
+{
+    "name": "DM6R",
+    "id": "VB136",
+    "presets": [
+        {
+            "file": "Dynamic Duo/DM6R/ddA1__zamuz - fluffy candy time (dynamic duo rework #8).avs",
+            "size": 4863,
+            "checksum": "sha256:3c2a474a13e9958c8678356231c1828dc8777a5637100bd32ddb947d6ce7a021"
+        },
+        {
+            "file": "Dynamic Duo/DM6R/ddA2__elvis - dreamtime (dynamic duo's harry-bo rework #3).avs",
+            "size": 13175,
+            "checksum": "sha256:1a6e3ed51b64ecc922ec90424f488bc55015852c6e80e37f52f309cfb8c593dd"
+        },
+        {
+            "file": "Dynamic Duo/DM6R/ddB1__elvis & vanish - envae (novae remix by frames.of.reality -edit-).avs",
+            "size": 5828,
+            "checksum": "sha256:175f9ac54440366b787921d6aac048726371607f4aa39f0b2e1b3dafe3a8e1d6"
+        },
+        {
+            "file": "Dynamic Duo/DM6R/ddB2__nemo - bouquet (yathosho's sweet june -brighter day version- rework).avs",
+            "size": 11446,
+            "checksum": "sha256:1f11c8404c2fddca16fba8102f49ed585dfc394fd9867dfec8069ac4d6037ae5"
+        }
+    ],
+    "assets": [
+        {
+            "file": "avsres_texer_circle_slightblur_15x15.bmp",
+            "size": 774,
+            "checksum": "sha256:c89e1d88f4a3c3e779fd7a8a76332d111e7a191aa6643a941b97c47ec33eeb4e"
+        },
+        {
+            "file": "avsres_texer_circle_slightblur_19x19.bmp",
+            "size": 1194,
+            "checksum": "sha256:261166291fd2f6454e957719ad4a83c8b24f85e4859cc680532a555cfd8aa37a"
+        },
+        {
+            "file": "avsres_texer_circle_slightblur_23x23.bmp",
+            "size": 1710,
+            "checksum": "sha256:f422d35cde6b401866dbf5f43184a1effb3cedc599e912af1b8e9b17ca1af37e"
+        },
+        {
+            "file": "avsres_texer_square_sharp_04x04.bmp",
+            "size": 246,
+            "checksum": "sha256:2e3156b4b05df497d7450b7869f6b547799d8799e9a23c7ba736fd4ff3bc8717"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

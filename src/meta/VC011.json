@@ -1,0 +1,187 @@
+{
+    "name": "VISBOT Meeting old friends in a Phone Booth",
+    "id": "VC011",
+    "presets": [
+        {
+            "file": "VISBOT/VC011 Meeting old friends in a Phone Booth/01 zamuz - visbot eleven intro.avs",
+            "size": 13471,
+            "checksum": "sha256:2e2541576c7785dfeff792a51595600ab8d2e63511652c6d3af2d6ee93d0e271"
+        },
+        {
+            "file": "VISBOT/VC011 Meeting old friends in a Phone Booth/02 hboy - delirium.avs",
+            "size": 10539,
+            "checksum": "sha256:df9ae3130d90d65ef6cd32071c4d7672fed39cef26eb0d5a6ce5954bd5607334"
+        },
+        {
+            "file": "VISBOT/VC011 Meeting old friends in a Phone Booth/03 pan am - silkworm.avs",
+            "size": 1762,
+            "checksum": "sha256:268503377e2fadcc00491538e840606606269f83b32847bd4287b5f3fd8448d1"
+        },
+        {
+            "file": "VISBOT/VC011 Meeting old friends in a Phone Booth/04 amphirion - kilo.avs",
+            "size": 4606,
+            "checksum": "sha256:1d18470ed3964ef8959893c6ab596343a71610ddeebbd239fcd899b9e4f9611d"
+        },
+        {
+            "file": "VISBOT/VC011 Meeting old friends in a Phone Booth/05 frames-of-reality - my flow can beat up yr flow.avs",
+            "size": 5984,
+            "checksum": "sha256:f1763ec437bb5f245ecdb170e7ae34973d48e3bad4b7dc9a2df458db93d7b307"
+        },
+        {
+            "file": "VISBOT/VC011 Meeting old friends in a Phone Booth/06 zamuz - spaghetti.avs",
+            "size": 22596,
+            "checksum": "sha256:0483d16b148701840ae40506504713ca7567acc9bf240b4b2bd1df7324742b5a"
+        },
+        {
+            "file": "VISBOT/VC011 Meeting old friends in a Phone Booth/07 nemo - bouquet (botox diet edit by framey).avs",
+            "size": 13009,
+            "checksum": "sha256:cde9ded5555a5924d0592b73518fb4ef776aefa0b589306af5219047bab4dcc6"
+        },
+        {
+            "file": "VISBOT/VC011 Meeting old friends in a Phone Booth/08 skupers - spin foam.avs",
+            "size": 4616,
+            "checksum": "sha256:37729e29237c8a996c5b8b63219f3b61aac8fb5b8b4dc954fbfc1d9febe3cd2a"
+        },
+        {
+            "file": "VISBOT/VC011 Meeting old friends in a Phone Booth/09 amphirion - entangled.avs",
+            "size": 4373,
+            "checksum": "sha256:e508cc5e2d5503b142efa3a78903a1e59037a395a0dda0cc267bb5f9c09549d0"
+        },
+        {
+            "file": "VISBOT/VC011 Meeting old friends in a Phone Booth/10 zamuz - give me my feed back.avs",
+            "size": 2984,
+            "checksum": "sha256:ece762c958e553d9046e65a07880ce4692a303ce8bbcd1f6b26349c1e92fd160"
+        },
+        {
+            "file": "VISBOT/VC011 Meeting old friends in a Phone Booth/11 frames-of-reality - blue ten.avs",
+            "size": 3744,
+            "checksum": "sha256:2f3a9e509fd9b4228ddf7d04de5f3e50260d8e4433290fffdb3a7f016e09b7f2"
+        },
+        {
+            "file": "VISBOT/VC011 Meeting old friends in a Phone Booth/12 skupers - bijoux (edit).avs",
+            "size": 9086,
+            "checksum": "sha256:696cef72e8ff16fa2fa6ffcb75006b501813ca2a04693aa8185c018e4bf1daba"
+        },
+        {
+            "file": "VISBOT/VC011 Meeting old friends in a Phone Booth/13 p-k - skin (uncommonly good remix).avs",
+            "size": 3238,
+            "checksum": "sha256:f3692afe19644c980370581bcd6a1dfffdea02730be445d5154c7f8efeee4569"
+        },
+        {
+            "file": "VISBOT/VC011 Meeting old friends in a Phone Booth/14 pan am - ministeck (edit).avs",
+            "size": 2524,
+            "checksum": "sha256:af3083eabce968cdfd5e0479d364b6953349293e1ee5aaf12037bf0d59fae33a"
+        },
+        {
+            "file": "VISBOT/VC011 Meeting old friends in a Phone Booth/15 hboy - full of stars (reprise).avs",
+            "size": 13617,
+            "checksum": "sha256:86633f88096df4d4ccdfd8ce96f3f71a5ac0b7b2d6e9ab0321975ba22223ebe3"
+        }
+    ],
+    "assets": [
+        {
+            "file": "avsres_texer_circle_edgeonly_29x29.bmp",
+            "size": 2606,
+            "checksum": "sha256:534c1eb965d3a1df52fa0bc8bdb4977fbf18ac19869417ac8e8d1409f6b203e6"
+        },
+        {
+            "file": "avsres_texer_circle_heavyblur_21x21.bmp",
+            "size": 1398,
+            "checksum": "sha256:f8f868bfc48b2131e08f79a3ccdcdd5487537c1ac1decebee1a5ff5a2edf331b"
+        },
+        {
+            "file": "avsres_texer_circle_heavyblur_29x29.bmp",
+            "size": 2606,
+            "checksum": "sha256:f774cf10d56275d629f321163dbc610fee02b0e892c9065b0931564240bf078d"
+        },
+        {
+            "file": "avsres_texer_circle_sharp_17x17.bmp",
+            "size": 1194,
+            "checksum": "sha256:31d52f73c76abfe7928248f3531a8eb77fdcbc48e398797d16ec183d0389c5db"
+        },
+        {
+            "file": "avsres_texer_circle_slightblur_23x23.bmp",
+            "size": 1710,
+            "checksum": "sha256:f422d35cde6b401866dbf5f43184a1effb3cedc599e912af1b8e9b17ca1af37e"
+        },
+        {
+            "file": "avsres_texer_circle_slightblur_29x29.bmp",
+            "size": 2606,
+            "checksum": "sha256:34607b9b3b3f4c4e19cdbba2c2026b01d7834c17061deeb19f2e4d1607b9b814"
+        },
+        {
+            "file": "Shreyas-IV-01.bmp",
+            "size": 36342,
+            "checksum": "sha256:10bf973044414dbea4dfaf77de57d7de4d3a871f0fc057bda1a3f699e202a411"
+        },
+        {
+            "file": "skupers_lp7_02.bmp",
+            "size": 10856,
+            "checksum": "sha256:aaeb13486d7082c888a556012a3ea574dc4c651b01510ae9722a1ce184f8fd03"
+        },
+        {
+            "file": "skupers_lp7_05.bmp",
+            "size": 776,
+            "checksum": "sha256:9ffee96d577cdbce33395669601281395112690c7f61e90d63c4273cae7ebc75"
+        },
+        {
+            "file": "vb_cloud.bmp",
+            "size": 18238,
+            "checksum": "sha256:df0d67236c8ebc0ae50b7e48254f78bbd03b42b755b14b5a1a8072c3f3871257"
+        },
+        {
+            "file": "vb_duo_01.bmp",
+            "size": 2680,
+            "checksum": "sha256:de17e281a17c93e59f7fd0d223f4f3dbca42108095757bbc1692b5ffd8b4023b"
+        },
+        {
+            "file": "vb_inv.bmp",
+            "size": 414,
+            "checksum": "sha256:5c2f6ddc1e7cb7518d4b8ad15df9fc066bbe7f72b2f5018c4ec2404f2aca8ec6"
+        },
+        {
+            "file": "vb11_vb.bmp",
+            "size": 55950,
+            "checksum": "sha256:166a4b4ada72ceb1b6066b13af2ee0a439feb14547e7b12f10df017cb6d2d480"
+        },
+        {
+            "file": "vb11intro.bmp",
+            "size": 174682,
+            "checksum": "sha256:7bfc8cd6c02b13011520bb6e03c6762a14cd10dff3565062bbf3cdf2ba92b1e5"
+        },
+        {
+            "file": "vb2.bmp",
+            "size": 145254,
+            "checksum": "sha256:d35fea78b8e9b0080b4a143e5fee0c1c305d66ff8d53070b692906d063da4374"
+        },
+        {
+            "file": "viskey_texer(bubble8c).bmp",
+            "size": 2134,
+            "checksum": "sha256:eb42a7ed39a2cc6ce9ffc41c31a2204f1885ef341d4e278ffc868f083547c7c0"
+        },
+        {
+            "file": "viskey_texer(combinded_grad2).bmp",
+            "size": 3590,
+            "checksum": "sha256:d5de71373d96c0361c711997f2ffe160d2670f98bfef6945aa0a50b40d4ac116"
+        },
+        {
+            "file": "viskey_texer(grad1).bmp",
+            "size": 670,
+            "checksum": "sha256:ef7aabc2f4865d33c280972e4d0a0b753efadd00a48d7fe7daa7bf18457841fe"
+        },
+        {
+            "file": "viskey_texer(grad2).bmp",
+            "size": 1254,
+            "checksum": "sha256:df845542d6e8b6609ee75b5ac2d298b60d1ed99e5a173e5253ce4abf4a9a8335"
+        },
+        {
+            "file": "viskey3_humanavs.bmp",
+            "size": 18802,
+            "checksum": "sha256:fae701a6c6768b312ceb05ed3081afa0a812d21a0475a29081c03d02e855953f"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter",
+        "GlobalVarMan"
+    ]
+}

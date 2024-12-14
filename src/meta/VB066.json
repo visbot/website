@@ -1,0 +1,36 @@
+{
+    "name": "DDoo6",
+    "id": "VB066",
+    "presets": [
+        {
+            "file": "Dynamic Duo/DDoo6/ddA1__pit.avs",
+            "size": 2646,
+            "checksum": "sha256:1a8ff4cf71d6a1c4b8451a567a25423dafbe923587bdddf062f4b0b31ff12b56"
+        },
+        {
+            "file": "Dynamic Duo/DDoo6/ddA2__carousel.avs",
+            "size": 1679,
+            "checksum": "sha256:4486ab6fc754f2959c6ede2e30fa2f7458d25ee8032667af54dd59a596d98c69"
+        },
+        {
+            "file": "Dynamic Duo/DDoo6/ddB1__elevation.avs",
+            "size": 3661,
+            "checksum": "sha256:13162325293f0833138d85e722ba9ecebc57b025d6b664112b20a112f6fd81f5"
+        },
+        {
+            "file": "Dynamic Duo/DDoo6/ddB2__zamuz_lt.avs",
+            "size": 8102,
+            "checksum": "sha256:9a1295fd984dd162dc33f2cd3cd4a3cadf7d91b363435308a5b402c536e4bebf"
+        }
+    ],
+    "assets": [
+        {
+            "file": "avsres_texer_square_edgeonly_28x28.bmp",
+            "size": 2406,
+            "checksum": "sha256:92562607c279b3b13fa87bd48960f15b4380d4fdc1a9595f9a90d3915b0cbe12"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

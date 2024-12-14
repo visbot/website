@@ -1,0 +1,171 @@
+{
+    "name": "VISBOT New People Selection Vol 6",
+    "id": "VB194",
+    "presets": [
+        {
+            "file": "VISBOT/VISBOT New People Selection Vol 6/01 hurric4ne - art rock.avs",
+            "size": 5172,
+            "checksum": "sha256:3702ec291607ccb577d62a805a6454ebca02190278d588375690e3a52ade7836"
+        },
+        {
+            "file": "VISBOT/VISBOT New People Selection Vol 6/02 onionring of doom - mushroom hunting.avs",
+            "size": 9899,
+            "checksum": "sha256:2f7bb71555e312e91efbc2b3c103af7070db01e54024e46226e87ed15d3121b8"
+        },
+        {
+            "file": "VISBOT/VISBOT New People Selection Vol 6/03 vanish - muthafuckingrobot (yathosho's early remix attempt).avs",
+            "size": 5775,
+            "checksum": "sha256:47f958c434a1ce3535047197188179b8eb4aef9ff920d6a769f61bacc0139da6"
+        },
+        {
+            "file": "VISBOT/VISBOT New People Selection Vol 6/04 micro.d - sound cruiser (edit).avs",
+            "size": 11752,
+            "checksum": "sha256:15e32f907b05e7016d15779db1b421acd6ada644db26a0910d653c5ff457a639"
+        },
+        {
+            "file": "VISBOT/VISBOT New People Selection Vol 6/05 dark matter - spectrum (white mountains).avs",
+            "size": 2534,
+            "checksum": "sha256:051f8fa2f76a2d4417b2804fe45fb31b6426c3f3e64898191ad5e70fb4eba06d"
+        },
+        {
+            "file": "VISBOT/VISBOT New People Selection Vol 6/06 mykal - child seeds (edit).avs",
+            "size": 4649,
+            "checksum": "sha256:8faec970b2f8d76b08c15f12955a5b7f14c2560648ad83456db012b4c15c63f6"
+        },
+        {
+            "file": "VISBOT/VISBOT New People Selection Vol 6/07 nic01 - a mere grid (edit).avs",
+            "size": 3803,
+            "checksum": "sha256:16b88714146e799fe267ba91549195f430b5914249411cd1f1bc739bcde8e5dd"
+        },
+        {
+            "file": "VISBOT/VISBOT New People Selection Vol 6/08 kar-ma - rotational synergy.avs",
+            "size": 1924,
+            "checksum": "sha256:0977aba01f4fa7035bffc794a274e25fce76e2e946a053e67ad920f871552255"
+        },
+        {
+            "file": "VISBOT/VISBOT New People Selection Vol 6/09 javs - dying evil force.avs",
+            "size": 8262,
+            "checksum": "sha256:13be8daa6028e690c09e0a2c5d4ec998be5ae3c8a677c7a1a10b32992f0cf15d"
+        },
+        {
+            "file": "VISBOT/VISBOT New People Selection Vol 6/10 meaningless-existance - blercome (mixed by degnic).avs",
+            "size": 2017,
+            "checksum": "sha256:0a9b0394ca57a8bece5eb64f1a311305a95013eb10c434507cbbe6cdb7268d97"
+        },
+        {
+            "file": "VISBOT/VISBOT New People Selection Vol 6/11 mercenary - the barcode.avs",
+            "size": 7144,
+            "checksum": "sha256:1816eef0a736116a13a6641e7aaa6ed9794f939a50ae8d5abf2d6b0a08e95202"
+        },
+        {
+            "file": "VISBOT/VISBOT New People Selection Vol 6/12 mykal -  apartment heads.avs",
+            "size": 2850,
+            "checksum": "sha256:093157d7009486283d152147015dc3c8c0f194c539320cc2afba3e3da9d4d05a"
+        },
+        {
+            "file": "VISBOT/VISBOT New People Selection Vol 6/13 hurric4ne - flora + fauna.avs",
+            "size": 6143,
+            "checksum": "sha256:cf5a9a3b878c1fe91038dccb6b9a5aa3d77b11dbf49e3f669d91ae83e9a5734a"
+        },
+        {
+            "file": "VISBOT/VISBOT New People Selection Vol 6/14 onionring of doom - 459.avs",
+            "size": 4518,
+            "checksum": "sha256:631cb910d8386e4dcf000dc06fc9014baa03fc6bf2c0ad29dfd72cb8878c32ee"
+        },
+        {
+            "file": "VISBOT/VISBOT New People Selection Vol 6/15 micro.d vs pure-krypton - tv-store (pan am vs yathosho remix).avs",
+            "size": 9716,
+            "checksum": "sha256:0a3c0f72640c628728cc17197b1df34ceb260875f0ffbd9d67f6f9d5398fbe51"
+        },
+        {
+            "file": "VISBOT/VISBOT New People Selection Vol 6/16 raz - the tunnel (edit).avs",
+            "size": 81094,
+            "checksum": "sha256:0cb0f43f39f7f7315050860c8f93f0412144ca0086442f9eb4341a5b25ed44cb"
+        },
+        {
+            "file": "VISBOT/VISBOT New People Selection Vol 6/17 vanish - unknown preset (drew's vocal test).avs",
+            "size": 2495,
+            "checksum": "sha256:c1ba446d767410f857bfa81d2ec9c0fd4c98387a7096d42c30a03ea5ea5f8d78"
+        },
+        {
+            "file": "VISBOT/VISBOT New People Selection Vol 6/18 grandchild - sphere (dynamic duo edit).avs",
+            "size": 6449,
+            "checksum": "sha256:496135c6ce866df833cbb0bc589295e9c3e8e1a70835adac5189b220b380d14f"
+        },
+        {
+            "file": "VISBOT/VISBOT New People Selection Vol 6/19 javs - microgerms (les Noobiens tutti-frutti cocktail).avs",
+            "size": 5428,
+            "checksum": "sha256:2c5f99f816c20e1a00776e057d0cdc4eab3b40feb10b408bb828428f3ea075b2"
+        },
+        {
+            "file": "VISBOT/VISBOT New People Selection Vol 6/20 dynamic duo - tentaclism (micro.d cökimix).avs",
+            "size": 4984,
+            "checksum": "sha256:8b553d087e06b53bac3667784a7ee92a2c852f7df3d6ad2466c091eb372554b5"
+        }
+    ],
+    "assets": [
+        {
+            "file": "avsres_texer_circle_fade_29x29.bmp",
+            "size": 2606,
+            "checksum": "sha256:10bcb870745a117d8cd57e44f60718e278a0e3ae25e3eaa9250e7936c1dc6fba"
+        },
+        {
+            "file": "avsres_texer_circle_sharp_29x29.bmp",
+            "size": 3030,
+            "checksum": "sha256:2d057959257346e2b9a8922504ad51ff7d2608d6bd591659a7fa08d07406366a"
+        },
+        {
+            "file": "avsres_texer_Glow_Particle_100x100.bmp",
+            "size": 30054,
+            "checksum": "sha256:6bccd7b909248828bbc91ef35e984ffed875d6f4c04b8d922a2b719eb75491c6"
+        },
+        {
+            "file": "avsres_texer_square_fade_30x30.bmp",
+            "size": 2814,
+            "checksum": "sha256:12bdc0b6a44fc540c0c84f7e704a6c9bb6885676ba39652b1ef0b1121701e089"
+        },
+        {
+            "file": "avsres_texer_square_sharp_30x30.bmp",
+            "size": 3590,
+            "checksum": "sha256:e41754b033960b3a5e77252cf1edee71e97c311c2cedafc9b4139a3df51240e6"
+        },
+        {
+            "file": "mer©_x08_m_sharp_s.bmp",
+            "size": 2406,
+            "checksum": "sha256:619177d6e1feca1dd8a19f7df5ae23be48f01688400316f7252d5a7ee3b2117f"
+        },
+        {
+            "file": "mer©_x08_s_sharp_l.bmp",
+            "size": 2814,
+            "checksum": "sha256:d5d7c2fd7e5a3c88715ebd4804f8e0c297955f5b423b9bb93e2577355e0cc841"
+        },
+        {
+            "file": "mer©_x08_s_sharp_s.bmp",
+            "size": 1254,
+            "checksum": "sha256:17cf47f7b7824f841469492e405277f49e06e88fc30408b69ad16ee1662c9033"
+        },
+        {
+            "file": "reGeneSys2.bmp",
+            "size": 66244,
+            "checksum": "sha256:fcd93670f08e3e8d3a23d8175257a8ea00fa8129a4171dfc0197d06eb74ef16d"
+        },
+        {
+            "file": "v5_circle.bmp",
+            "size": 4854,
+            "checksum": "sha256:cebc9a03181dd184fecbba1d09290f11c70f1aaea28b8e5520d0e276267fec40"
+        },
+        {
+            "file": "Zmzv3_texer.bmp",
+            "size": 9358,
+            "checksum": "sha256:5ad9c1c53613ebab4374722917a99ddcf61bb05b435e95531e4048ed5281eaec"
+        }
+    ],
+    "plugins": [
+        "AddBorder",
+        "BufferBlend",
+        "ConvolutionFilter",
+        "FramerateLimiter",
+        "TransAuto",
+        "Triangle"
+    ]
+}

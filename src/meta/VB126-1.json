@@ -1,0 +1,151 @@
+{
+    "name": "s05 .5 soy bomb",
+    "id": "VB126-1",
+    "presets": [
+        {
+            "file": "frames.of.reality/s05 .5 soy bomb/000 . intro.avs",
+            "size": 2506,
+            "checksum": "sha256:ddfb3737f8f64ed4a4f49cd5465526e0b47d2179a3caeaa8402bfa8af17e1b37"
+        },
+        {
+            "file": "frames.of.reality/s05 .5 soy bomb/001 . frames vs. yathosho - live from the island of dead souls.avs",
+            "size": 4155,
+            "checksum": "sha256:cfae8f648b9e4c2cd51b5e61dc9794fd91a750105fac84c88b8dd6f68db348aa"
+        },
+        {
+            "file": "frames.of.reality/s05 .5 soy bomb/002 . verkia v7.avs",
+            "size": 3654,
+            "checksum": "sha256:eb98855e98fd48ab9dd3a7fe4eed9d664cefc57de8ff79e3a1bf05c9a5c59ae2"
+        },
+        {
+            "file": "frames.of.reality/s05 .5 soy bomb/003 . intoy as.avs",
+            "size": 2664,
+            "checksum": "sha256:1825ed74ce8127b9442605d46c9fae691f11633c3ada12fbbb39a660ec99d213"
+        },
+        {
+            "file": "frames.of.reality/s05 .5 soy bomb/004 . seturin.avs",
+            "size": 7876,
+            "checksum": "sha256:c96a2042401ee17ab762e6ad201447063efde0c19175be89be76642a01e6e383"
+        },
+        {
+            "file": "frames.of.reality/s05 .5 soy bomb/005 . showcase in snowflakes.avs",
+            "size": 3924,
+            "checksum": "sha256:660e2357e91e669ef4f88935f492812833800abcbd5daa8f6350d35e8a5dd090"
+        },
+        {
+            "file": "frames.of.reality/s05 .5 soy bomb/006 . love feels like cherry (blooming).avs",
+            "size": 5860,
+            "checksum": "sha256:261d005dc77fc28be12599938f6bade78fc9e5764151eda48e2c271cd20efb4d"
+        },
+        {
+            "file": "frames.of.reality/s05 .5 soy bomb/007 . framey vs. viskey - somewhere between something and something.avs",
+            "size": 7741,
+            "checksum": "sha256:84dd7031372c0783fcaf9be3cef303049505994bc7ce311a43f8cdcdad2f1581"
+        },
+        {
+            "file": "frames.of.reality/s05 .5 soy bomb/008 . blood vs. milk (horusian remix).avs",
+            "size": 4675,
+            "checksum": "sha256:e7eeb50eb93dfa03e8d89e1777dfaaeb04747778807471c54f4a3343c9317092"
+        },
+        {
+            "file": "frames.of.reality/s05 .5 soy bomb/009 . omega redux.avs",
+            "size": 3384,
+            "checksum": "sha256:84dfbb2994060dd33d21718a20d4281e88c2af1c5e269e1c852f00ae32713066"
+        },
+        {
+            "file": "frames.of.reality/s05 .5 soy bomb/010 . frames vs. yathosho - 1024.avs",
+            "size": 2083,
+            "checksum": "sha256:6b9ab636928571b7d24d8ffc3717d4e87a77f76a4f7d89b4bd8ccd3143cfbcd6"
+        },
+        {
+            "file": "frames.of.reality/s05 .5 soy bomb/011 . sibivir ef.avs",
+            "size": 2637,
+            "checksum": "sha256:35afabbba0b56da397fc26ea6427c11d939c1f9332ed868dd4eaf691ff1dae48"
+        },
+        {
+            "file": "frames.of.reality/s05 .5 soy bomb/012 . vyntek.avs",
+            "size": 3840,
+            "checksum": "sha256:7bbf5e0a20c992a9ba04f28765bd950e0249e5c65c54b41a2dfa0f26a614d79b"
+        },
+        {
+            "file": "frames.of.reality/s05 .5 soy bomb/013 . copycat.avs",
+            "size": 3581,
+            "checksum": "sha256:20e75b674bc045f2dc5da08c17058ea08908ff8becc766260c30cd014a714d95"
+        },
+        {
+            "file": "frames.of.reality/s05 .5 soy bomb/014 . diasantique.avs",
+            "size": 3509,
+            "checksum": "sha256:1cc1e387eb4c67c09c46cfdd3f281a0b7577d82bbe5f407bf6aad3d6b9c2ed14"
+        },
+        {
+            "file": "frames.of.reality/s05 .5 soy bomb/015 . into the chambers of beta.avs",
+            "size": 1994,
+            "checksum": "sha256:b69f7e277442fb4d09e04edb2c6ee25e248d8f892fab8a8d6b2e42b124f6d59b"
+        },
+        {
+            "file": "frames.of.reality/s05 .5 soy bomb/016 . boly.avs",
+            "size": 3026,
+            "checksum": "sha256:19c95324636975df254b7679385402c3c57b6489b92cbc34e9bf5a25c903b777"
+        },
+        {
+            "file": "frames.of.reality/s05 .5 soy bomb/017 . not exactly monochrome (nightmare redux).avs",
+            "size": 4697,
+            "checksum": "sha256:254780c78ac7ceb90ad968585fd270ee8508982ddae6bf991af7bff8ada0f65e"
+        },
+        {
+            "file": "frames.of.reality/s05 .5 soy bomb/018 . visible.avs",
+            "size": 3531,
+            "checksum": "sha256:cd49ac5757bbc1eeec3034a71bc7afc7a7af399925015c536d3ed402ae6b0522"
+        },
+        {
+            "file": "frames.of.reality/s05 .5 soy bomb/019 . frames vs. yathosho vs. vanish - color maps are cliché.avs",
+            "size": 2440,
+            "checksum": "sha256:d48486ef8f23c9e6522f3aad963b78d3322d8dd6585181640290919ebdd63595"
+        },
+        {
+            "file": "frames.of.reality/s05 .5 soy bomb/020 . nemoorange - nemo sweety (op-ed).avs",
+            "size": 3834,
+            "checksum": "sha256:ecc116fc7a26b7837deea2f1edd17c22a5a208d9e8a401a9e3092863fd5ebc7c"
+        },
+        {
+            "file": "frames.of.reality/s05 .5 soy bomb/021 . journey (alt).avs",
+            "size": 3335,
+            "checksum": "sha256:1b3cead8a88a1634122d742576f99dee89f60ec8e5b5c80c031ed5a524e435c9"
+        },
+        {
+            "file": "frames.of.reality/s05 .5 soy bomb/022 . frames vs. zamuz - solar blackhole (alt).avs",
+            "size": 5756,
+            "checksum": "sha256:e954982001233d4c2dd1cb292583c2bc60a7e37eecb32cbf6f9a5610c2b482fb"
+        },
+        {
+            "file": "frames.of.reality/s05 .5 soy bomb/023 . seasonal approach.avs",
+            "size": 2560,
+            "checksum": "sha256:7de373aa8d26616f2d94c6cc9e86574885a0df0657a2e7bc2cb213e92fb498f9"
+        },
+        {
+            "file": "frames.of.reality/s05 .5 soy bomb/024 . screen.avs",
+            "size": 4196,
+            "checksum": "sha256:d302cb543f977a0c18fe49da2c0cade4b49c3446014d3828ee952ea222541dc3"
+        },
+        {
+            "file": "frames.of.reality/s05 .5 soy bomb/025 . dreamspace redux.avs",
+            "size": 3459,
+            "checksum": "sha256:d34c0f3f74496162326b6aa7aa5039018e6446a8b857038bd13edd8180ac5bff"
+        },
+        {
+            "file": "frames.of.reality/s05 .5 soy bomb/026 . optical tuning.avs",
+            "size": 2625,
+            "checksum": "sha256:5988a81d953e120d1ac35d5313329e84449e433cbbcd94a38be8405927bca00d"
+        },
+        {
+            "file": "frames.of.reality/s05 .5 soy bomb/027 . the donut of oblivion.avs",
+            "size": 2698,
+            "checksum": "sha256:ce98c97122988afd6586498ccd0890427e96b281b3901984e5038e306491a826"
+        }
+    ],
+    "plugins": [
+        "AddBorder",
+        "ConvolutionFilter",
+        "GlobalVarMan"
+    ]
+}

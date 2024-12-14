@@ -1,0 +1,149 @@
+{
+    "name": "Dynamic Movement 7",
+    "id": "VD007",
+    "presets": [
+        {
+            "file": "Dynamic Duo/Dynamic Movement 7/01 dynamic duo - dm7 intro.avs",
+            "size": 5126,
+            "checksum": "sha256:dd8817d94bfb17f1757416d4859fc8a332d87bc05bc8e49e0dbf2597abf3d38e"
+        },
+        {
+            "file": "Dynamic Duo/Dynamic Movement 7/02 frames-of-reality - the haunt for dreams [fake zamuz edit].avs",
+            "size": 5672,
+            "checksum": "sha256:c295290f98849c95c3249e8a61d2df3a88fd649cfdb21b6c911c1eb7c35653f4"
+        },
+        {
+            "file": "Dynamic Duo/Dynamic Movement 7/03 amphirion - wanlotus [dynamic duo rework].avs",
+            "size": 4941,
+            "checksum": "sha256:c91a471091ff8a2a5295c21eede8af1936f06d6fa25253e4bd61354ee61a0fb9"
+        },
+        {
+            "file": "Dynamic Duo/Dynamic Movement 7/04 dynamic duo - tentaclism [out of focus 2nd take by zamuz].avs",
+            "size": 7219,
+            "checksum": "sha256:a97f4cb8991f7133d8e95478f1170c7ad49713e05184ba0508cc0d3440df9fe3"
+        },
+        {
+            "file": "Dynamic Duo/Dynamic Movement 7/05 les Noobiens - blockz [ugly edit].avs",
+            "size": 2635,
+            "checksum": "sha256:a793f95e97bb979ecd6ce21024e96c68321689b17e1b5b3d5267487decfd3eb2"
+        },
+        {
+            "file": "Dynamic Duo/Dynamic Movement 7/06 zamuz - clothing lines [yathosho's future noir rework].avs",
+            "size": 3627,
+            "checksum": "sha256:de455c5c3bf2ad4dd01b46ae69a7d52fb9297121222f18d625458546ae30232b"
+        },
+        {
+            "file": "Dynamic Duo/Dynamic Movement 7/07 frames-of-reality - vibum buomv [yathosho und das goldene vlies].avs",
+            "size": 3712,
+            "checksum": "sha256:93aeadb792e59259886ad7fa8d3922dc770ff293c449e240020e2ca448a53e31"
+        },
+        {
+            "file": "Dynamic Duo/Dynamic Movement 7/08 onionring vs dynamic duo - left right up down [ill Noobiens edit].avs",
+            "size": 9041,
+            "checksum": "sha256:01d29e7f7cc58e75cf68b782cc50699c786b46323b9fd909d6bcc4fbfffd725a"
+        },
+        {
+            "file": "Dynamic Duo/Dynamic Movement 7/09 duo - dye in the water [dynamic duo's -to dye for- rework].avs",
+            "size": 6051,
+            "checksum": "sha256:9aaa74e9de92e6d07f6369e834865293e057faf19b8a60610207bc607cb02a55"
+        },
+        {
+            "file": "Dynamic Duo/Dynamic Movement 7/10 elvis - dreamtime [yathosho's 2nd time rework].avs",
+            "size": 13116,
+            "checksum": "sha256:dbf131d69c9ff51c35715ee854759a6270d56aba5b60740583ea3631eebc58e3"
+        },
+        {
+            "file": "Dynamic Duo/Dynamic Movement 7/11 m-e - simple mpworkingssse [fake les Noobiens rmx].avs",
+            "size": 6998,
+            "checksum": "sha256:4efdc2bb7c3176d7c4512e710381ffaaf51757248df497cb232d5ed1485b4f5e"
+        },
+        {
+            "file": "Dynamic Duo/Dynamic Movement 7/12 duo - integrationist [yathosho's origami 2.0 rework].avs",
+            "size": 4179,
+            "checksum": "sha256:0b472fd581346ea25a59f88f170690c516bd31783d6911c138785a10ae2959fa"
+        },
+        {
+            "file": "Dynamic Duo/Dynamic Movement 7/13 hboy - interstellar phenomenon [yathosho's kyoto rework].avs",
+            "size": 15959,
+            "checksum": "sha256:e6501b0385edeb05bfe6eb5aa3625135c99ed3717bcfbb48ffd2c11979221a1a"
+        },
+        {
+            "file": "Dynamic Duo/Dynamic Movement 7/14 grandchild+yathosho - chkmate (edit).avs",
+            "size": 6116,
+            "checksum": "sha256:b31a68297bd51068bbe02e1fff599273a3abba794d27ff9427345100a427ba04"
+        },
+        {
+            "file": "Dynamic Duo/Dynamic Movement 7/15 dynamic duo - chromatics.avs",
+            "size": 4236,
+            "checksum": "sha256:8b960002a3b142703215bf0dbf7dffca7dc4e370c66f7ff8c9d796ba6d0467e5"
+        },
+        {
+            "file": "Dynamic Duo/Dynamic Movement 7/16 dynamic duo - hentai [ya-tho-sho treatment].avs",
+            "size": 4380,
+            "checksum": "sha256:9d16cd5fdc0524e5fe1d9190622f153d70e49840e187c4a63ca67944c05944d4"
+        },
+        {
+            "file": "Dynamic Duo/Dynamic Movement 7/17 javs - leaving the classic [grandchild's class-sick remix (edit)].avs",
+            "size": 8122,
+            "checksum": "sha256:0edcfebc729bb026a0571788e935be0f786b989d65aac61935b98448f9d03d72"
+        },
+        {
+            "file": "Dynamic Duo/Dynamic Movement 7/18 zamuz - light expel (edit).avs",
+            "size": 33822,
+            "checksum": "sha256:327eddacf0b57d0a8edf8cb16be1c051de1391b846ffe5e30cd3dd1ee2f2a189"
+        },
+        {
+            "file": "Dynamic Duo/Dynamic Movement 7/19 yathosho - vertigo (edit).avs",
+            "size": 2850,
+            "checksum": "sha256:8fbb1930582ec38d7020bd0efe15846cfdc566ea31931fd0b7f53b8451e75be0"
+        },
+        {
+            "file": "Dynamic Duo/Dynamic Movement 7/20 javs - nerve recharge [ya-tho-sho treatment #2].avs",
+            "size": 4069,
+            "checksum": "sha256:121ebfe7089a4c3716971b0e9041dc957efe18b55d44aa5e0130fbbc1e1ee8eb"
+        },
+        {
+            "file": "Dynamic Duo/Dynamic Movement 7/21 hboy - fragile [yathosho shocks rework].avs",
+            "size": 6478,
+            "checksum": "sha256:ec5a6601ff76500bc3bb50347af2cac83cbd114db5f473ea1a5c02b7bb6563ed"
+        },
+        {
+            "file": "Dynamic Duo/Dynamic Movement 7/22 yathosho - beyond beyond [ugly edit].avs",
+            "size": 2498,
+            "checksum": "sha256:7c87e216a0444a26bd12de9fdf342eee2158dd64d92d9d7ee22681fd919e814a"
+        }
+    ],
+    "assets": [
+        {
+            "file": "avsres_texer_square_sharp_30x30.bmp",
+            "size": 3590,
+            "checksum": "sha256:e41754b033960b3a5e77252cf1edee71e97c311c2cedafc9b4139a3df51240e6"
+        },
+        {
+            "file": "B&W.bmp",
+            "size": 22554,
+            "checksum": "sha256:efe4e6d5d3e825d5b3240c2ab63bd3c022c98f64c6a56e3dbccc75b86106f0cd"
+        },
+        {
+            "file": "Shreyas-IV-01.bmp",
+            "size": 36342,
+            "checksum": "sha256:10bf973044414dbea4dfaf77de57d7de4d3a871f0fc057bda1a3f699e202a411"
+        },
+        {
+            "file": "v4_texer2.bmp",
+            "size": 5430,
+            "checksum": "sha256:693afb60f5532b47099ce70ccbdf18fd1651b93b525994e5ceb66e71aa0ae01e"
+        },
+        {
+            "file": "Silkscreen.ttf",
+            "size": 18336,
+            "checksum": "sha256:201df110e8dd8f19da40e5ad953b25bcac34dcb1bd14c7b8e02c9ce0b5ac0ca3"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter",
+        "GlobalVarMan",
+        "TransAuto",
+        "Triangle"
+    ]
+}

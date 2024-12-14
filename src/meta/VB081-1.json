@@ -1,0 +1,24 @@
+{
+    "name": "les Noobiens jacques aux fraises",
+    "id": "VB081-1",
+    "presets": [
+        {
+            "file": "les Noobiens/les Noobiens jacques aux fraises/lNA1 les Noobiens - love-is-faye-dun-a-way (yathosho shakes cheaper away).avs",
+            "size": 2184,
+            "checksum": "sha256:9be2c2c798d5c521aff60bd57f40c0eb15794981be6b381e48aa611dab2f35f8"
+        },
+        {
+            "file": "les Noobiens/les Noobiens jacques aux fraises/lNB1 les Noobiens - pixfu (nu lesbians edit).avs",
+            "size": 1235,
+            "checksum": "sha256:298e7284054b6845d1a67268bf39fe28ad0dcdbf5345daddac036f9a152f0881"
+        },
+        {
+            "file": "les Noobiens/les Noobiens jacques aux fraises/lNB2 les Noobiens - die neue elastik.avs",
+            "size": 2266,
+            "checksum": "sha256:6b1b35ce40e289f1a30588051d23ad10de71c8e6cb560b6ef1aa6693b36dd16d"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

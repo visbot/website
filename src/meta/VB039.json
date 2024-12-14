@@ -1,0 +1,34 @@
+{
+    "name": "Relax",
+    "id": "VB039",
+    "presets": [
+        {
+            "file": "Relax/1 - Rest like Rain.avs",
+            "size": 15415,
+            "checksum": "sha256:17a342a8568f46df085ae34476ce25d8ea7705f852dffa56fbdfd67a66a9c17a"
+        },
+        {
+            "file": "Relax/2 - Easy.avs",
+            "size": 1924,
+            "checksum": "sha256:947bda254b0f71975c8561fd5fbc51aa6a0d18f6cbdd86849aa99b87c80695d0"
+        },
+        {
+            "file": "Relax/3 - Lay Back Lavalamp.avs",
+            "size": 2748,
+            "checksum": "sha256:548a2a929970d74b089e8e37e2cc1e579af55568557f0d00799810a1ad049174"
+        },
+        {
+            "file": "Relax/4 - Aimlessly Around.avs",
+            "size": 3841,
+            "checksum": "sha256:b304128089a4ccef2adcbe277e0f9e1b2f09564bf80b0749a06f5a4f2817082b"
+        },
+        {
+            "file": "Relax/5 - Xhale Skysail.avs",
+            "size": 2607,
+            "checksum": "sha256:6f428e0e51224ef470972e6c089841dc769b218820515f3aed4ab072d64f3c7f"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

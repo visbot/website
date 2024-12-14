@@ -1,0 +1,30 @@
+{
+    "name": "CO-OP Session 03",
+    "id": "VB038",
+    "presets": [
+        {
+            "file": "CO-OP Sessions/CO-OP Session 03/a1 les noobiens - pünktchen und anton.avs",
+            "size": 1636,
+            "checksum": "sha256:b8c47cbab3db9f7f0315eb2379f03c13770a0ce6c8ba0d85e6998c3ec7acd189"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 03/a2 unconed - flexo spaghetti.avs",
+            "size": 8444,
+            "checksum": "sha256:968cda0f7335a440c9736a5b2ff5db46bdd7fb32248c1db9284765665002ce65"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 03/b1 unconed - stop and go.avs",
+            "size": 3800,
+            "checksum": "sha256:90b5a0b4c0f2b97b52185271508dc42c05c65666f59537fe8c081acdd2aaabb8"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 03/b2 les noobiens - stop communications ltd.avs",
+            "size": 4503,
+            "checksum": "sha256:66ccf2049ea6e33987d6759474d48aeb2b7fa365488c6d8e289437e771e23ef8"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter",
+        "GlobalVarMan"
+    ]
+}

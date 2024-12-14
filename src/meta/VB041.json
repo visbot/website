@@ -1,0 +1,113 @@
+{
+    "name": "Visions III",
+    "id": "VB041",
+    "presets": [
+        {
+            "file": "Zamuz/Visions III/01 - visions III.avs",
+            "size": 4358,
+            "checksum": "sha256:4ff065e6157790ad3b65e0daa9fd16abf7da7d7fcd0fa7269131765b3f06cca5"
+        },
+        {
+            "file": "Zamuz/Visions III/02 - metallic flow.avs",
+            "size": 1945,
+            "checksum": "sha256:95ea597a822131512451654de42570dbce9f185716d8d09c5f9b9f9b3cc819cd"
+        },
+        {
+            "file": "Zamuz/Visions III/03 - kaleidoscopic architecture.avs",
+            "size": 2301,
+            "checksum": "sha256:105b854771fb5bccbcc47a4d24c7138fb4d5da4dc7ad516700dc2aff8a4e35d0"
+        },
+        {
+            "file": "Zamuz/Visions III/04 - blooming v2.avs",
+            "size": 2691,
+            "checksum": "sha256:5d6a58ecf491b55ad05d611cb24f1ec814765db1b9575d3213957d7fd1d27810"
+        },
+        {
+            "file": "Zamuz/Visions III/05 - energy.avs",
+            "size": 2887,
+            "checksum": "sha256:64ba2717a0c050328439d203f2288beb1455945c6c161bca49cab8397a1693a6"
+        },
+        {
+            "file": "Zamuz/Visions III/06 - rough n smooth.avs",
+            "size": 3065,
+            "checksum": "sha256:ac43da7b9fb2cb103d497813875d1c6e467097b73a17e7da58f56408f6118a2b"
+        },
+        {
+            "file": "Zamuz/Visions III/07 - layered illusion [ optimized ].avs",
+            "size": 2698,
+            "checksum": "sha256:19a2ef16beabf0ecc8f71c50432b0ef25db2eb478e7bc9fa8c4ee3b8d3305b97"
+        },
+        {
+            "file": "Zamuz/Visions III/08 - minimal.avs",
+            "size": 3261,
+            "checksum": "sha256:d86acc87b64b18641a19cd9d2f44e88f3e9f93b40a5ebabede43449ad13d8edd"
+        },
+        {
+            "file": "Zamuz/Visions III/09 - particular.avs",
+            "size": 3601,
+            "checksum": "sha256:b5f71d31447d1319391a2aba5561eff17a3c2a43efa17654bc6106bd0b872fd1"
+        },
+        {
+            "file": "Zamuz/Visions III/10 - big bang.avs",
+            "size": 1622,
+            "checksum": "sha256:5afefec63fd0c62f56c04561cae803eb32ca6b0de60db0fd13a7f1c9ea35e561"
+        },
+        {
+            "file": "Zamuz/Visions III/11 - into.avs",
+            "size": 3984,
+            "checksum": "sha256:66f2bbe819011f34050575589e7725948dbad69bb98d8beedcc7e13752ed0300"
+        },
+        {
+            "file": "Zamuz/Visions III/12 - soundprinting.avs",
+            "size": 2381,
+            "checksum": "sha256:7b9687ca32575eabf6787fd6f91d13ebf00a4540a57aa2ba3b90953015b3996b"
+        },
+        {
+            "file": "Zamuz/Visions III/13 - sangre.avs",
+            "size": 2308,
+            "checksum": "sha256:7c9ec9f56631c18fa0dd9e12c62c268cf0fddd1f4de14bfcf39149e4c2b26d89"
+        },
+        {
+            "file": "Zamuz/Visions III/14 - crimson.avs",
+            "size": 3873,
+            "checksum": "sha256:c0b92b79d76e1af8e0a1490de4fc0805db7a9d287a6b8832f75e6f534f0a72a0"
+        },
+        {
+            "file": "Zamuz/Visions III/15 - stuff under my blanket.avs",
+            "size": 2534,
+            "checksum": "sha256:a3bab8f175d7881e9f518df4c022a488ba6b328e2e0f2b57dd79ea1ccbc5d5e5"
+        },
+        {
+            "file": "Zamuz/Visions III/16 - sangre [ heat rmx ].avs",
+            "size": 3100,
+            "checksum": "sha256:f9ffbe0c06753b1fda53946e634544746030999ede21f41995291b1ef7e333f1"
+        },
+        {
+            "file": "Zamuz/Visions III/17 - tiled waterdrops.avs",
+            "size": 2365,
+            "checksum": "sha256:e12039e992f7ac54804d3969ec6a5ae3af2a9858c27d05b1db82e1c6dc12adf5"
+        }
+    ],
+    "assets": [
+        {
+            "file": "zmzv3_border.bmp",
+            "size": 145254,
+            "checksum": "sha256:1617f98d6a428c76c7a19b994ce094ba6811e3f383eef8f4d795a9f15325e1a4"
+        },
+        {
+            "file": "zmzv3_layer.bmp",
+            "size": 78582,
+            "checksum": "sha256:c9562e272d4abd1cec76e51c34122af7e2a4616c33a849df5feb8cf88985cb12"
+        },
+        {
+            "file": "Zmzv3_texer.bmp",
+            "size": 9358,
+            "checksum": "sha256:5ad9c1c53613ebab4374722917a99ddcf61bb05b435e95531e4048ed5281eaec"
+        }
+    ],
+    "plugins": [
+        "BufferBlend",
+        "ConvolutionFilter",
+        "Picture2"
+    ]
+}

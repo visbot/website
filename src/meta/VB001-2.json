@@ -1,0 +1,109 @@
+{
+    "name": "whyEye.org brokenframe",
+    "id": "VB001-2",
+    "presets": [
+        {
+            "file": "whyEye.org/whyEye.org brokenframe/yathosho__am_teich.avs",
+            "size": 882,
+            "checksum": "sha256:218b066fb2d777d6ba01b1ccbd13d598a1e2600ec0705c0b2f58d2be0598f2ae"
+        },
+        {
+            "file": "whyEye.org/whyEye.org brokenframe/yathosho__buttercup.avs",
+            "size": 908,
+            "checksum": "sha256:74bd9509e21c947203ebdcbebeabadd95804f2abb69a968cb7942b57d7573d0a"
+        },
+        {
+            "file": "whyEye.org/whyEye.org brokenframe/yathosho__dp(v)i(p).avs",
+            "size": 1421,
+            "checksum": "sha256:f1971ceb57a37e9c60b8c2d32b2ceda33c0e0565c39e4fb76013c5fa85752bb4"
+        },
+        {
+            "file": "whyEye.org/whyEye.org brokenframe/yathosho__fasten_your_seatbelt.avs",
+            "size": 799,
+            "checksum": "sha256:bd46767dceaa23e81fefb0526a5af8001b253924748950addde4da71ade566dd"
+        },
+        {
+            "file": "whyEye.org/whyEye.org brokenframe/yathosho__formosa.avs",
+            "size": 850,
+            "checksum": "sha256:441f3eedbeb54c80fd600af2ec8b6350d50fb406d55ce5725d20872762632680"
+        },
+        {
+            "file": "whyEye.org/whyEye.org brokenframe/yathosho__framework.avs",
+            "size": 1021,
+            "checksum": "sha256:0ccfe931a1a884d2cef3b3371c85d5fd9c43d9bf16948783cf34e65270c73539"
+        },
+        {
+            "file": "whyEye.org/whyEye.org brokenframe/yathosho__hotel_garni.avs",
+            "size": 1468,
+            "checksum": "sha256:0bcbdfc2ac5db1446cb04b840adae695c46d41737caa747657edaad33e3c7c32"
+        },
+        {
+            "file": "whyEye.org/whyEye.org brokenframe/yathosho__isetta.avs",
+            "size": 810,
+            "checksum": "sha256:6345fe918f3e2c8738642100e68f3c9c97a5ce9a81300f955c5b36b9b3ed872a"
+        },
+        {
+            "file": "whyEye.org/whyEye.org brokenframe/yathosho__mind_the_vip.avs",
+            "size": 831,
+            "checksum": "sha256:0f237d16845d714e61a4e8fc3899db6865040e8eae1f8aa59ff3392d755af0ef"
+        },
+        {
+            "file": "whyEye.org/whyEye.org brokenframe/yathosho__new_sector_movements.avs",
+            "size": 799,
+            "checksum": "sha256:08ec08b5622c23ca8af9c6ba6b8f7dede7f53b4bc07dfb1f996c2eccf8800179"
+        },
+        {
+            "file": "whyEye.org/whyEye.org brokenframe/yathosho__northern_soul_(2nd_edition).avs",
+            "size": 1011,
+            "checksum": "sha256:83c1c3509c7b0d14cfa2ae619c205869d53a6ba5da10bba80f14482a37b540e0"
+        },
+        {
+            "file": "whyEye.org/whyEye.org brokenframe/yathosho__pillow.avs",
+            "size": 1722,
+            "checksum": "sha256:19a4b6f2bb35d54e82d6423257d6c1b56884e58999f3495a149ce9f61370450c"
+        },
+        {
+            "file": "whyEye.org/whyEye.org brokenframe/yathosho__pocketdesign.avs",
+            "size": 956,
+            "checksum": "sha256:ab52b71be87983ce462259c540806039e4162a4c0db7b6be7c74d15b387336f6"
+        },
+        {
+            "file": "whyEye.org/whyEye.org brokenframe/yathosho__puzzled.avs",
+            "size": 798,
+            "checksum": "sha256:71482c34569dd67f7d196b5cb0b9db9d22a861a7b90ca5388969bf5042e3447c"
+        },
+        {
+            "file": "whyEye.org/whyEye.org brokenframe/yathosho__rednosed.avs",
+            "size": 1050,
+            "checksum": "sha256:c1e1bd81edd05fcc59c59ac0d694c02df9138342103beca0c46767c23d6b35b3"
+        },
+        {
+            "file": "whyEye.org/whyEye.org brokenframe/yathosho__sail_away.avs",
+            "size": 1173,
+            "checksum": "sha256:9def626fa8c6a20d17b4f41cc1563b6fe139019f069312333d500e8eeee82102"
+        },
+        {
+            "file": "whyEye.org/whyEye.org brokenframe/yathosho__salad_tosser_(v.i.p.).avs",
+            "size": 776,
+            "checksum": "sha256:6612d99c80c323c64dfcaf3acd31939f8437aad210056890f37dfd590504280a"
+        },
+        {
+            "file": "whyEye.org/whyEye.org brokenframe/yathosho__stimorol.avs",
+            "size": 1028,
+            "checksum": "sha256:b7d124fcb510c69f898f9717c4590c91489a09000f741025725d56b21957fefd"
+        },
+        {
+            "file": "whyEye.org/whyEye.org brokenframe/yathosho__the_oasis_(take_me_there).avs",
+            "size": 877,
+            "checksum": "sha256:b39732e52b3a87922ace564b4e25b1df3e64b0f2fb0886c842d8fead10e89c69"
+        },
+        {
+            "file": "whyEye.org/whyEye.org brokenframe/yathosho__the_second_season_(rebroken).avs",
+            "size": 780,
+            "checksum": "sha256:7459acbdd32bf92a50569d377c1e862a0df7f432d63075048a3ea8e037b41ded"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

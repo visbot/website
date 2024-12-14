@@ -1,0 +1,84 @@
+{
+    "name": "msibooN",
+    "id": "VB050",
+    "presets": [
+        {
+            "file": "les Noobiens/msibooN/01 les Noobiens - weebly (v.i.p.).avs",
+            "size": 2141,
+            "checksum": "sha256:07eb3f98a55a1a0fb6151a32c7932fe935efff910651ae4baa62beb9a7a8dd05"
+        },
+        {
+            "file": "les Noobiens/msibooN/02 tuggummi - retroleum (boiling and bubbling mix).avs",
+            "size": 4585,
+            "checksum": "sha256:002ab4d4727c718d3f628c43bfed44da99689f9f44852f9d835af22c5ee01fe8"
+        },
+        {
+            "file": "les Noobiens/msibooN/03 les Noobiens - german autobahn (rMxD bY -+dAsN00b+-).avs",
+            "size": 10817,
+            "checksum": "sha256:71031e5ac844be8d11ecd8cddf17d37991cbfe41664688970f2989a44b79dc4a"
+        },
+        {
+            "file": "les Noobiens/msibooN/04 zamuz - back to cursor (in-depth remix).avs",
+            "size": 4511,
+            "checksum": "sha256:702204ee956f362f331eb5b0f7e3bdf8ee02e4940bbfbe596554e29c1b1d4973"
+        },
+        {
+            "file": "les Noobiens/msibooN/05 skupers - pixfu (pixel tidal remix).avs",
+            "size": 3489,
+            "checksum": "sha256:e06a8b4b35e1e8644a5b3b517a17249b6e2da300953447341a186d7d1feacb9f"
+        },
+        {
+            "file": "les Noobiens/msibooN/06 el-vis - virus (les Noobiens monochromatic edit).avs",
+            "size": 2999,
+            "checksum": "sha256:f44aac9845dc857568d8e12e3e782c7fd33dd99e6cf9f742a13060839fddd51e"
+        },
+        {
+            "file": "les Noobiens/msibooN/07 yathosho - back to cursor (back to outline mix).avs",
+            "size": 2148,
+            "checksum": "sha256:b37c793d02a1f819e3a47920ba67686d5f0cde92d8628a68d49050c865d8225a"
+        },
+        {
+            "file": "les Noobiens/msibooN/08 onionring - bumm bumm bumm (be there or be square!).avs",
+            "size": 2299,
+            "checksum": "sha256:456c4892df4a8979231251ebf427251962a81f88efaa6ecbaa74e63d02a9e69c"
+        },
+        {
+            "file": "les Noobiens/msibooN/09 skupers - the allnighter (networking remix).avs",
+            "size": 3559,
+            "checksum": "sha256:47020d0bcb4547c691688223901eb25f6749d1e1b7300d9d51e0f6f23e671002"
+        },
+        {
+            "file": "les Noobiens/msibooN/10 zamuz - the allnighter (3 am and drunk remix).avs",
+            "size": 1999,
+            "checksum": "sha256:c14828ad165e26d4719004d4293a68842998c909bade72f898c0ea075c13e0b9"
+        },
+        {
+            "file": "les Noobiens/msibooN/11 les Noobiens - sci-fi 1920s (pan am rework).avs",
+            "size": 719,
+            "checksum": "sha256:ac9e7810aa07d2bf0d73a66daba1aecb3336ef8713b914ab64d2c672571f68a5"
+        },
+        {
+            "file": "les Noobiens/msibooN/12 dynamic duo - all that hippie shit (les Noobiens rework).avs",
+            "size": 2461,
+            "checksum": "sha256:818b607ccefc62fbda937b80915d0d9cf8fdf0ff29dbc118b38d617362a14ab8"
+        },
+        {
+            "file": "les Noobiens/msibooN/13 les Noobiens - pünktchen und anton (reliefskimiks).avs",
+            "size": 1939,
+            "checksum": "sha256:63dc8a50020f7b39c1053d6bd891bac87a3f96ffe5d1000eb39aace28db14ef9"
+        },
+        {
+            "file": "les Noobiens/msibooN/14 pan am - detroit i (les Noobiens rework).avs",
+            "size": 1305,
+            "checksum": "sha256:dae40088d6a666684c08d774d687d9cff469115e051494fe0f581dc03c04ace4"
+        },
+        {
+            "file": "les Noobiens/msibooN/15 zamuz - this is not ikea (les Noobiens remix).avs",
+            "size": 1995,
+            "checksum": "sha256:7aa200f5dad92922c54687d21b05ac1b87c29756084c1aefda25b125bca9c82e"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "name": "les Noobiens les couleurs",
+    "id": "VB070",
+    "presets": [
+        {
+            "file": "les Noobiens/les Noobiens les couleurs/lNa1 les Noobiens - spectrum holobyte (2004 rework).avs",
+            "size": 1751,
+            "checksum": "sha256:13abf702d2b377410d2bd43104e998d419166d5722c4d5aa966f061d366e23cb"
+        },
+        {
+            "file": "les Noobiens/les Noobiens les couleurs/lNa2 les Noobiens vs zamuz - bumpy carpet (this is still not IT).avs",
+            "size": 2100,
+            "checksum": "sha256:c162570ea02ddcb5d32beab8689b8b1a64bc0c0b1216853a76b45bdf46193a3f"
+        },
+        {
+            "file": "les Noobiens/les Noobiens les couleurs/lNb1 nu Lesbians vs yathosho - minidisko (quix mix).avs",
+            "size": 1735,
+            "checksum": "sha256:fd4eae9db1ef33f02ce458f2d7b98d0b15e8681b1e105da2cdc47d67d9889193"
+        },
+        {
+            "file": "les Noobiens/les Noobiens les couleurs/lNb2 dark matter - ancient (les Noobiens rework).avs",
+            "size": 2123,
+            "checksum": "sha256:a273e67b038320c341e478b6517b760765019406adb1a855cf636c0b1fc4352c"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

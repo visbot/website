@@ -1,0 +1,29 @@
+{
+    "name": "whyEye.org back2future ep",
+    "id": "VB128",
+    "presets": [
+        {
+            "file": "whyEye.org/whyEye.org back2future ep/yiA1 horse-fly - xerarch invert (ya-tho-sho treatment).avs",
+            "size": 3057,
+            "checksum": "sha256:48296ed105d2c92685282fe9a2f5737c7b239a9ce9f489e9a153ce246b73188d"
+        },
+        {
+            "file": "whyEye.org/whyEye.org back2future ep/yiA2 nixa - no name (yathosho 6pm rework).avs",
+            "size": 3648,
+            "checksum": "sha256:48474ca3359c55fe40aeb44a789ccb87cc1456d31ccb9232c424df2758d5feb9"
+        },
+        {
+            "file": "whyEye.org/whyEye.org back2future ep/yiB1 horse-fly vs catminddo - acid shadow (yathosho mash-up).avs",
+            "size": 4341,
+            "checksum": "sha256:fd87da30641ef7ccc171cdac1aa1b34c8fcf0ac50452459d6b52aad0dd567946"
+        },
+        {
+            "file": "whyEye.org/whyEye.org back2future ep/yiB2 jay-fatboy - golden rush (yathosho in bed with fatboy mix).avs",
+            "size": 2132,
+            "checksum": "sha256:6ec8edaa2ec41550ec013a53604183ba73103b4d3c1d9c5da6fcfd626a240ce3"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

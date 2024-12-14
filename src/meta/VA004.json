@@ -1,0 +1,159 @@
+{
+    "name": "whyEye.org retrospective",
+    "id": "VA004",
+    "presets": [
+        {
+            "file": "whyEye.org/whyEye.org retrospective/01 yathosho__aztec iooi.avs",
+            "size": 1111,
+            "checksum": "sha256:a7f8e362ca9922051bbaf2cd690ce2ec6471c7dac13b1654b5c4d0c7d0c3a011"
+        },
+        {
+            "file": "whyEye.org/whyEye.org retrospective/02 yathosho__polymetrix.avs",
+            "size": 1047,
+            "checksum": "sha256:4d6b305276e484f53c04945e2eb343da5d40df0742d3e69e2a4758b76a06c1cf"
+        },
+        {
+            "file": "whyEye.org/whyEye.org retrospective/03 yathosho__altered state.avs",
+            "size": 615,
+            "checksum": "sha256:908bca9ef2d7b4253c08c7892b840333ae7cb6fde83e3e747a9b49d7ca22b189"
+        },
+        {
+            "file": "whyEye.org/whyEye.org retrospective/04 yathosho__funk-iooi-rama.avs",
+            "size": 1038,
+            "checksum": "sha256:44633f775bf00e967a24ba71704f0fddfd200fdd07a80f97f96ef4da811d14ec"
+        },
+        {
+            "file": "whyEye.org/whyEye.org retrospective/05 yathosho__kongo iv.avs",
+            "size": 2107,
+            "checksum": "sha256:e681a96d174cffebd5cd5155f36b5beff3a910bcf15c57f746131e88acd922d1"
+        },
+        {
+            "file": "whyEye.org/whyEye.org retrospective/06 yathosho__die kleine biene maja.avs",
+            "size": 704,
+            "checksum": "sha256:5a10c97bc4228c1ff9d565fb0e08ca3d243f883764b0140218d751a0bf45ec7d"
+        },
+        {
+            "file": "whyEye.org/whyEye.org retrospective/07 yathosho__generation atari.avs",
+            "size": 990,
+            "checksum": "sha256:69cf3453a3ad54d3c00fd4a68f76e042105bb86b5fd5088bd1fcf092c7aead5c"
+        },
+        {
+            "file": "whyEye.org/whyEye.org retrospective/08 yathosho__missile command.avs",
+            "size": 886,
+            "checksum": "sha256:ac281a9d905baceb111d3cdc3f85411c00a3f362dd716ec85a15bdbd0a76472a"
+        },
+        {
+            "file": "whyEye.org/whyEye.org retrospective/09 yathosho__horizons.avs",
+            "size": 1000,
+            "checksum": "sha256:f7ad7547b3bccbc0955c6842189a3473c0fd860b4b7b5a94cd4cbdad0232b86d"
+        },
+        {
+            "file": "whyEye.org/whyEye.org retrospective/10 yathosho__ambrosia.avs",
+            "size": 1144,
+            "checksum": "sha256:e90c5ac3dedc754e6255fe72cc72a0e9610d7cfee727fd311ddec6fd13d40329"
+        },
+        {
+            "file": "whyEye.org/whyEye.org retrospective/11 yathosho__homogenic.avs",
+            "size": 983,
+            "checksum": "sha256:5e882f125ae82d782c9efa0a4199e96b74524000341f33eb33205bc06f0aee97"
+        },
+        {
+            "file": "whyEye.org/whyEye.org retrospective/12 yathosho__venom.avs",
+            "size": 1379,
+            "checksum": "sha256:66d32774252bafcdbceb85bb51ee9e7896cfc9b26446a01de8c3c1084866ed68"
+        },
+        {
+            "file": "whyEye.org/whyEye.org retrospective/13 yathosho__chainreaction.avs",
+            "size": 1593,
+            "checksum": "sha256:c9c5b81cc8a7c3d551d0c5df27ff796dfa72c222140927002fe37bc1c45eb16f"
+        },
+        {
+            "file": "whyEye.org/whyEye.org retrospective/14 yathosho__radium.avs",
+            "size": 867,
+            "checksum": "sha256:f7cf108b4fb48dbb6f517267c2454d547d8726728a3b186b27eae6e733ab0297"
+        },
+        {
+            "file": "whyEye.org/whyEye.org retrospective/15 yathosho__ed von schleck.avs",
+            "size": 942,
+            "checksum": "sha256:fdf9480319b6628100de1311482e8173c0a93447431b6e879555caab06ab46e0"
+        },
+        {
+            "file": "whyEye.org/whyEye.org retrospective/16 yathosho__abstractfunk.avs",
+            "size": 862,
+            "checksum": "sha256:835821b95dc904f5f5834643715392dc33bf829c5f9cca35d0261705e500a1bf"
+        },
+        {
+            "file": "whyEye.org/whyEye.org retrospective/17 yathosho__puzzled.avs",
+            "size": 1068,
+            "checksum": "sha256:4690a66283f0930c86e7b2507dee801367ecceb62cbb686e8e0727e7299ea2de"
+        },
+        {
+            "file": "whyEye.org/whyEye.org retrospective/18 yathosho__dpi.avs",
+            "size": 1185,
+            "checksum": "sha256:5e308444b82fe86e3de1e66a1f59c5847dae45d385a04d3d8e78ca4a31e4e40f"
+        },
+        {
+            "file": "whyEye.org/whyEye.org retrospective/19 yathosho__beyond.avs",
+            "size": 1389,
+            "checksum": "sha256:6ae540b13d2336d1c07be6b5ff8ca5c8411523c3aa4d8cd61e5569e21c48abfc"
+        },
+        {
+            "file": "whyEye.org/whyEye.org retrospective/20 yathosho__sternfrucht.avs",
+            "size": 990,
+            "checksum": "sha256:67abdbe79646da483d42b46276fda5cf4d54b72ada243a705fd5cd7d0a128a87"
+        },
+        {
+            "file": "whyEye.org/whyEye.org retrospective/21 yathosho__fuckmeplastic.avs",
+            "size": 771,
+            "checksum": "sha256:66e4001eec9cf1780b6aae8f22557a7f35cde86b91321b4d256696051c0e0f27"
+        },
+        {
+            "file": "whyEye.org/whyEye.org retrospective/22 yathosho__cosmic vagina.avs",
+            "size": 649,
+            "checksum": "sha256:a14b9e8393020b220d1290f5a9f438a03ba67d055d2b02737e5adad918aa88fb"
+        },
+        {
+            "file": "whyEye.org/whyEye.org retrospective/23 yathosho__interlaced.avs",
+            "size": 1112,
+            "checksum": "sha256:90a7b8daa14b731c76343e933c09989bdd3094ab848b563d89dc72e65f48ac2c"
+        },
+        {
+            "file": "whyEye.org/whyEye.org retrospective/24 yathosho__anja_rand.avs",
+            "size": 1724,
+            "checksum": "sha256:9975c8fc3722160725ae8e46d9a92312fdb5b8f504d9b106cfda91b135a9643d"
+        },
+        {
+            "file": "whyEye.org/whyEye.org retrospective/25 yathosho__if 60s were 90s.avs",
+            "size": 1028,
+            "checksum": "sha256:b22aaa86d42ecc2acf2a0860701f5eb88d8c6913dba195cd81839f65dbf4cb93"
+        },
+        {
+            "file": "whyEye.org/whyEye.org retrospective/26 yathosho__sensorama zwei.avs",
+            "size": 1379,
+            "checksum": "sha256:3293ea649bdceafb8e705994a002e31a8f4b8d291203edb3d6a73eff8029f53c"
+        },
+        {
+            "file": "whyEye.org/whyEye.org retrospective/27 yathosho__untitled.avs",
+            "size": 852,
+            "checksum": "sha256:7fb2df40feb0c74b11bae4b579c12c4c56c79bb98b78e4957484cc225077a751"
+        },
+        {
+            "file": "whyEye.org/whyEye.org retrospective/28 yathosho__landschaft.avs",
+            "size": 1651,
+            "checksum": "sha256:3f0fad0006e7a0616385af49994062cf832a472022c993b88c3f9d81a1cb484c"
+        },
+        {
+            "file": "whyEye.org/whyEye.org retrospective/29 yathosho__mind the gap.avs",
+            "size": 1546,
+            "checksum": "sha256:623b8a017ea7192df79c4bb2e31259fa5b103f6880e1d64a1be5448e72ff6ed9"
+        },
+        {
+            "file": "whyEye.org/whyEye.org retrospective/30 yathosho__tischdeckenmikrostruktur.avs",
+            "size": 1238,
+            "checksum": "sha256:64b7dd53334ebde7dfe0f160a5f28b8acde67ed89eb6aaa010ac9a56494d7de3"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

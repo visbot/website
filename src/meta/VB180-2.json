@@ -1,0 +1,285 @@
+{
+    "name": "whyEye.org x5",
+    "id": "VB180-2",
+    "presets": [
+        {
+            "file": "whyEye.org/whyEye.org x5/volume one/01 mr nudge - bounce (ya-tho-sho cut #2).avs",
+            "size": 4325,
+            "checksum": "sha256:94bcfd35caecd10f62a45212907997e76341f83164cc50cb4ee3359df622db84"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x5/volume one/02 dynamic duo - contraction (ya-tho-sho rework).avs",
+            "size": 4332,
+            "checksum": "sha256:3ce801b2281cac24e6a60de72a61feafc3ced3a0aa2ffd8b48f4db4205c8b2f7"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x5/volume one/03 hboy - interstellar phenomenon (yathosho's kyoto edit).avs",
+            "size": 15894,
+            "checksum": "sha256:03d64c031f449a2b0e01b631bea658d47843adcae3df99211ba4e97fc869f2dc"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x5/volume one/04 degnic & zamuz - tipsy triple (yathosho inkjet rework).avs",
+            "size": 3605,
+            "checksum": "sha256:f34befa0d1ff987982a6dc1d809457dd4af2074fd1f5140ba4c41016d12bc351"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x5/volume one/05 dynamic duo - tentaclism (ya-tho-sho treatment #1).avs",
+            "size": 4436,
+            "checksum": "sha256:e9a5bf004c32e0e0600e92bca812c2ad4247fa80687ecb65aba203e035cee487"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x5/volume one/06 amphirion - string theory (yathosho dub).avs",
+            "size": 10709,
+            "checksum": "sha256:07cc9de572430c9dbc3f337d0ac23aa0d2c3357f7dcf3e92e08e95593202d68d"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x5/volume one/07 frames.of.reality - vibum buomv (yathosho und das goldene vlies).avs",
+            "size": 3712,
+            "checksum": "sha256:93aeadb792e59259886ad7fa8d3922dc770ff293c449e240020e2ca448a53e31"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x5/volume one/08 hboy - fragile (yathosho shocks rework).avs",
+            "size": 6478,
+            "checksum": "sha256:ec5a6601ff76500bc3bb50347af2cac83cbd114db5f473ea1a5c02b7bb6563ed"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x5/volume one/09 mr nudge - nightmare (ya-tho-sho rephreak #2).avs",
+            "size": 5040,
+            "checksum": "sha256:e03b00a9005115bce7d9aa8987574038d5d828a0dad6fd78aa3b16cc89f12a89"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x5/volume one/10 duo - integrationist (yathosho's virtual origami).avs",
+            "size": 4548,
+            "checksum": "sha256:1f89dd2b8dade4c7660c4db35ce9dfd475801dcf7ab37c62570747a2f69bee99"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x5/volume one/11 mykal - basking in the barrel (yathosho's oldskool twist #2).avs",
+            "size": 10875,
+            "checksum": "sha256:cc109ad64bcaf20a92fb2d428309ab2fe270e77b20d93ad9cea4e6699d7dda5a"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x5/volume one/12 m-e - beautiful slop (yathosho's thermal retake).avs",
+            "size": 5763,
+            "checksum": "sha256:f1fa5cfd567367722cf08881055552732da122bf49ce1c022be49b45db14dd67"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x5/volume one/13 dynamic duo - hentai (yathosho's remix pattern).avs",
+            "size": 4057,
+            "checksum": "sha256:3fd52d7eebe940cdd6fe39907c5b3593064bf1c92bacca56c558118bd4f12c71"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x5/volume one/14 onionring -  this is a song about being free (yathosho's momx).avs",
+            "size": 5159,
+            "checksum": "sha256:8258470783b130bc7b9740f20305fb6e704cb197e635711b9047337bf2155e5a"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x5/volume one/15 yathosho vs pan am - miniplastek (yathosho mash-up).avs",
+            "size": 6078,
+            "checksum": "sha256:38f58ba2e2b64547085c2e14c891e9b1ceb748d3342a9bd5b53fe3aa2adef4e0"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x5/volume one/16 hboy - constellation (yathosho's -where the toad sits- rework).avs",
+            "size": 9649,
+            "checksum": "sha256:e5a119875663cac5fe241e9eebb6cb567ad120707158dfc82ad7f0657e352a57"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x5/volume one/17 frames.of.reality - softness (yathosho's nostromo-ii rework).avs",
+            "size": 3982,
+            "checksum": "sha256:e93b6a8a1e284b05ba63f9db1515444fb3cd3b865ffcf2301731c019579f9247"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x5/volume one/18 pan am - ministeck (ya-tho-sho rework).avs",
+            "size": 4446,
+            "checksum": "sha256:1d07b757bd32356f12bf80bfacf2896519298661023d06fddf76b18eae676dc1"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x5/volume one/19 javs - the x flavour (yathosho's high emission rework).avs",
+            "size": 5197,
+            "checksum": "sha256:cdc7a576a74875dac851c58b678ace2413a7a542db9a7c1a1e9d5caec45da78e"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x5/volume one/20 duo - dye in the water (dynamic duo's -to dye for- rework).avs",
+            "size": 6051,
+            "checksum": "sha256:9aaa74e9de92e6d07f6369e834865293e057faf19b8a60610207bc607cb02a55"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x5/volume one/21 zamuz - freeform (raz remix - yathosho edit #2).avs",
+            "size": 5342,
+            "checksum": "sha256:0b2f7ba27b004fc99450b4f9751d4e688620b72c0d5b9845c7a1df45e59b3555"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x5/volume two/01 mr nudge - bounce (ya-tho-sho cut).avs",
+            "size": 4322,
+            "checksum": "sha256:ea76d0f29c8efa00aa1fd5cb19af542cbf95f6ad492850b2091a81810d5dc1f2"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x5/volume two/02 dynamic duo - jet down to it (yathosho's smoke lung).avs",
+            "size": 5565,
+            "checksum": "sha256:12e1cf521f9884246b5ac2b10452a03440e2ee31be8847a81188e0dd3209f851"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x5/volume two/03 hboy - interstellar phenomenon (yathosho's kyoto rework).avs",
+            "size": 15959,
+            "checksum": "sha256:e6501b0385edeb05bfe6eb5aa3625135c99ed3717bcfbb48ffd2c11979221a1a"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x5/volume two/04 degnic & zamuz - tipsy triple (yathosho inkjet edit).avs",
+            "size": 3387,
+            "checksum": "sha256:c50437c4addbd9983d2ccefe9a0f5be05d9db2c01814dd82471079978110556c"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x5/volume two/05 dynamic duo - tentaclism (ya-tho-sho treatment #2).avs",
+            "size": 4436,
+            "checksum": "sha256:adf099a4320638c317931f892c6da1e739aae27ab80288c0ff6a6247df6cb9d3"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x5/volume two/06 amphirion - abstrkt fundamentals (edit).avs",
+            "size": 10079,
+            "checksum": "sha256:734887a370db009c4916613407740e1963d5504015ff2e4ef5b97a368573256f"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x5/volume two/07 javs - electrolysing ions (yathosho's carnal rework).avs",
+            "size": 6241,
+            "checksum": "sha256:f751aaa337acfacd170d7eb2e4666cbe3f6c0c2ab3b23f2e0738c29e59bbb360"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x5/volume two/08 hboy - fragile (yathosho shocks edit).avs",
+            "size": 6308,
+            "checksum": "sha256:c6ac4dc7164b67d5dd02262c74c2342bdf4142fbe64bd4bd24332a584bcb855b"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x5/volume two/09 mr nudge - nightmare (ya-tho-sho rephreak #1).avs",
+            "size": 4995,
+            "checksum": "sha256:4fd50669c3f5d4ca613b70b649344235e2cdeb0beac66089638b248629709641"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x5/volume two/10 duo - integrationist (yathosho's origami 2.0 rework).avs",
+            "size": 4179,
+            "checksum": "sha256:0b472fd581346ea25a59f88f170690c516bd31783d6911c138785a10ae2959fa"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x5/volume two/11 mykal - basking in the barrel (yathosho's oldskool twist #1).avs",
+            "size": 10899,
+            "checksum": "sha256:c85c002672f72e24b2b58717b73d449d205d5e815feb37a7b221171b68bf39eb"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x5/volume two/12 amphirion - abstractica part deux (ya-tho-sho vbs.krower.c).avs",
+            "size": 5915,
+            "checksum": "sha256:e23f3bc4cda4aa23a30ea615c1030582a83d0f1bae28ef8bc98d87740330038f"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x5/volume two/13 dynamic duo - hentai (yathosho's remix for offset).avs",
+            "size": 3431,
+            "checksum": "sha256:32376ac7f4e3201693d1ada6aa45a012390a71e1609fd2ccf71df81d0cd85189"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x5/volume two/14 m-e - asssackcolors (yathosho's conceptional ascii).avs",
+            "size": 5195,
+            "checksum": "sha256:5251119035b1699eb8c8033ad04cabdafcda97709a4d042cef8402cf69ddf21c"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x5/volume two/15 elvis - dreamtime (yathosho's 2nd time rework).avs",
+            "size": 13116,
+            "checksum": "sha256:dbf131d69c9ff51c35715ee854759a6270d56aba5b60740583ea3631eebc58e3"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x5/volume two/16 hboy - constellation (yathosho's -where the toad sits- edit).avs",
+            "size": 9630,
+            "checksum": "sha256:92e240b1ce0cfa178e2e57c6f609ab02d73a8d2f180745658ab4c4e45eae0450"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x5/volume two/17 frames.of.reality - softness (yathosho's nostromo rework).avs",
+            "size": 3918,
+            "checksum": "sha256:447d23c65292cd6e289b14a4e7e6a0da14068f0fd611ac95bf6ad11ed4c21e1a"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x5/volume two/18 pan am - ministeck (ya-tho-sho edit).avs",
+            "size": 4166,
+            "checksum": "sha256:626519c3a58fddd029f6fc71eb43cde3b83f948cb49a0734908af55e84189a46"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x5/volume two/19 nic01 - a mere grid (edit).avs",
+            "size": 3803,
+            "checksum": "sha256:16b88714146e799fe267ba91549195f430b5914249411cd1f1bc739bcde8e5dd"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x5/volume two/20 dynamic duo - chromatics (yathoshos -himmel über moskau- arrangement).avs",
+            "size": 6365,
+            "checksum": "sha256:07f3ebe5a45d23efe99f78139b305303f89e48a07dd57d1d2e7de9dec258e6cb"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x5/volume two/21 zamuz - freeform (raz remix - yathosho edit).avs",
+            "size": 5557,
+            "checksum": "sha256:0920c8b5896cb4e8f18bc0ff28a57b5e0951ffeab08776f22467d7f279d9e146"
+        }
+    ],
+    "assets": [
+        {
+            "file": "avsres_texer_circle_edgeonly_25x25.bmp",
+            "size": 1954,
+            "checksum": "sha256:d4cdad41bf5da63e0d560babcc22cd07665f6e7d2d23d5ac5b4ce66d0542bbfa"
+        },
+        {
+            "file": "avsres_texer_circle_fade_11x11.bmp",
+            "size": 450,
+            "checksum": "sha256:f23cffc3b62ea97fd3bc32cb7107705a5ccdfe90c1c69ad950744f148b75d13f"
+        },
+        {
+            "file": "avsres_texer_circle_fade_29x29.bmp",
+            "size": 2606,
+            "checksum": "sha256:10bcb870745a117d8cd57e44f60718e278a0e3ae25e3eaa9250e7936c1dc6fba"
+        },
+        {
+            "file": "avsres_texer_circle_heavyblur_29x29.bmp",
+            "size": 2606,
+            "checksum": "sha256:f774cf10d56275d629f321163dbc610fee02b0e892c9065b0931564240bf078d"
+        },
+        {
+            "file": "avsres_texer_circle_sharp_09x09.bmp",
+            "size": 450,
+            "checksum": "sha256:6ff6f86f427968efbd9a21ddce8cf0cd681681f0d7fc772659a86700a9c7d0ac"
+        },
+        {
+            "file": "avsres_texer_circle_sharp_17x17.bmp",
+            "size": 1194,
+            "checksum": "sha256:31d52f73c76abfe7928248f3531a8eb77fdcbc48e398797d16ec183d0389c5db"
+        },
+        {
+            "file": "avsres_texer_circle_sharp_19x19.bmp",
+            "size": 1398,
+            "checksum": "sha256:31b87b361b89e60a8052e1c27af6a158a6e0ba4ba136076f2b98afe9958da848"
+        },
+        {
+            "file": "avsres_texer_circle_slightblur_17x17.bmp",
+            "size": 938,
+            "checksum": "sha256:eef1c4468c60f28f5c4baa64f2aaf38f71e00e33d7bdaeede58996b530370205"
+        },
+        {
+            "file": "avsres_texer_square_sharp_30x30.bmp",
+            "size": 3590,
+            "checksum": "sha256:e41754b033960b3a5e77252cf1edee71e97c311c2cedafc9b4139a3df51240e6"
+        },
+        {
+            "file": "mykaL_03.bmp",
+            "size": 51014,
+            "checksum": "sha256:dcc7a5e311ece39675e6f37f057228f31c3a17f3ad85b8cb24c361169e8b115f"
+        },
+        {
+            "file": "onion-squareslanty.bmp",
+            "size": 9296,
+            "checksum": "sha256:7679514ff04019a604afd103e415afa27ee110047646b7bcefa0862e95b2b7f0"
+        }
+    ],
+    "plugins": [
+        "BufferBlend",
+        "ChannelShift",
+        "ColorMap",
+        "ColorReduction",
+        "ConvolutionFilter",
+        "FramerateLimiter",
+        "GlobalVarMan",
+        "Texer2",
+        "Triangle",
+        "VideoDelay"
+    ]
+}

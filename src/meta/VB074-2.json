@@ -1,0 +1,59 @@
+{
+    "name": "PAN AM 747",
+    "id": "VB074-2",
+    "presets": [
+        {
+            "file": "PAN AM/PAN AM 747/01 PAN_AM this_is_ground_control.avs",
+            "size": 1205,
+            "checksum": "sha256:896143d6f80297121bf32fe67302931449824b1713290acf40bf55665472a992"
+        },
+        {
+            "file": "PAN AM/PAN AM 747/02 PAN_AM ignition.avs",
+            "size": 2307,
+            "checksum": "sha256:d94a72498e5e08efb1387f962bf16f884a10443458379a03b418511a062e400f"
+        },
+        {
+            "file": "PAN AM/PAN AM 747/03 PAN_AM take-off.avs",
+            "size": 1463,
+            "checksum": "sha256:4250c2fee233e411f734e3554072a62f2b5c6db8f83ba193a11a5f12566417cc"
+        },
+        {
+            "file": "PAN AM/PAN AM 747/04 PAN_AM atmospheric.avs",
+            "size": 1371,
+            "checksum": "sha256:75a6170e52cbc999d5554f09e35f0d9d7d36655876ed248f47e673b93873f0bc"
+        },
+        {
+            "file": "PAN AM/PAN AM 747/05 PAN_AM polar_tickles.avs",
+            "size": 1463,
+            "checksum": "sha256:900d7d81c710e234f2b6b3940a1377c35a66fd550c3ec85837c6908ee8e94b17"
+        },
+        {
+            "file": "PAN AM/PAN AM 747/06 PAN_AM turbulences.avs",
+            "size": 907,
+            "checksum": "sha256:333d10c7cbeb99a12770f90e93fa9061fbde1dc74660f055b8abfa3a239db4ac"
+        },
+        {
+            "file": "PAN AM/PAN AM 747/07 PAN_AM aspirin.avs",
+            "size": 1459,
+            "checksum": "sha256:03f5e0717caeed3951ceb9a71e67ba3ce42b076bf2d0fbcee0a1ebdff58ca578"
+        },
+        {
+            "file": "PAN AM/PAN AM 747/08 PAN_AM hypertravel.avs",
+            "size": 1767,
+            "checksum": "sha256:c8b00cc34c0a1cbdc0e31dbb271dff51b85ea4b3c45fe2843cb1074d9a7dfbb7"
+        },
+        {
+            "file": "PAN AM/PAN AM 747/09 PAN_AM detroit_revisited.avs",
+            "size": 1990,
+            "checksum": "sha256:83a730662c9f7c8b1a2f5e1e1e2ff3605a0029bbaa9cac33777767d50d9a7c1a"
+        },
+        {
+            "file": "PAN AM/PAN AM 747/10 PAN_AM atmospheric_(PAN_AM_remix).avs",
+            "size": 1435,
+            "checksum": "sha256:e8d7bf9ea91ee47e614d74ae59e143ae6bbce4c89d4c2c1e4be9ec931ce8fdf2"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

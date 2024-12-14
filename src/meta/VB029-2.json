@@ -1,0 +1,227 @@
+{
+    "name": "s_kupers - lp8 - �therius",
+    "id": "VB029-2",
+    "presets": [
+        {
+            "file": "S_KuPeRS/s_kupers - lp8 - ætherius/00 - intro deux.avs",
+            "size": 5066,
+            "checksum": "sha256:d4af74654f5164168245d2bbcff84bd582aa7d89c5bbbf6fc327c8faec425a3e"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp8 - ætherius/01 - bijoux.avs",
+            "size": 10990,
+            "checksum": "sha256:293ac44b973eb69d6f0a7ab9eeb6a1e04df41a21641dc748f906cdfd65f56d0f"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp8 - ætherius/02 - dual flow.avs",
+            "size": 5480,
+            "checksum": "sha256:fa5678e07349aacbc78560e9be38c30a51f4ff723ac98a6ed14b370edafd7e6a"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp8 - ætherius/03 - counseling.avs",
+            "size": 9344,
+            "checksum": "sha256:745d6be72b65a2a91b1cde4733da0ba9b3fdf357152ed111d450b2ca3ca5c007"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp8 - ætherius/04 - alpha-ray damage (2 more dead).avs",
+            "size": 3995,
+            "checksum": "sha256:c73a77c82ec30064a5cf43ed6ab0209dcba86380e1293ccca3189c653d774d81"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp8 - ætherius/05 - dance of the seraphim.avs",
+            "size": 10886,
+            "checksum": "sha256:f0d90c2adde1e391e674080a87023afe0b4937026648ebeb2ac313e8d0c58f0b"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp8 - ætherius/06 - archers train faster.avs",
+            "size": 8978,
+            "checksum": "sha256:b5be63a1e64ad3fa02729d94ec80f45d0d417048541a0171a6d0e55bd9cd860d"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp8 - ætherius/06.5 - when it leaves you (interlude).avs",
+            "size": 4934,
+            "checksum": "sha256:bbf78aadcd2b431e93ac8ba32c283851b661597d4dbe40f68660dc9dc546637e"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp8 - ætherius/07 - on the faders.avs",
+            "size": 4470,
+            "checksum": "sha256:f7d7de509190c7a9522ead9aad0f750f7dc73ba8c06e012581237fd8e3b13885"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp8 - ætherius/08 - if not (for those that believe).avs",
+            "size": 5842,
+            "checksum": "sha256:1e5ef69bcd8a806f8b24c8d8b150d8b80d4c87f5b60f78a498665f4f4e60f460"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp8 - ætherius/09 - t tauri.avs",
+            "size": 10874,
+            "checksum": "sha256:2110adb6050266908a519cab3deeca7d3fadf5aefcc11267fe5a6960bac429c2"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp8 - ætherius/10 - visucube.avs",
+            "size": 6253,
+            "checksum": "sha256:1cceb0fb033836bd6d71330c60ae8cad9b4cbe152da8be69a9f50b9a7296a2bd"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp8 - ætherius/11 - numeric djs mixing your sound.avs",
+            "size": 4413,
+            "checksum": "sha256:e2d81d61c99537f1de37c6633dd0bf85d0e0ee70ad9aee9acf64f99b3eedaa42"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp8 - ætherius/12 - gace.avs",
+            "size": 4667,
+            "checksum": "sha256:cb9385b48b609447e43fe9fb8bda4ab6a1171b3744c1d33a76f7eaaf47b3aee2"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp8 - ætherius/13 - the rise of the phoenix ii.avs",
+            "size": 5279,
+            "checksum": "sha256:19557c2906465fd1c22dbe0a3d80245aa0910e1cb78c1250bd6a3610d6b50925"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp8 - ætherius/13.5 - bent in one direction (interlude).avs",
+            "size": 6927,
+            "checksum": "sha256:a4692ac2a24eb6a9bcc4f915995c61cecf75f5627b9144ec9a67560aad44f410"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp8 - ætherius/14 - nuendo.avs",
+            "size": 6329,
+            "checksum": "sha256:7514b55525066b4481467dc7106531368a821bc5ab0f41d5f2ca649f6c2021d1"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp8 - ætherius/15 - the revenge of mt. doom.avs",
+            "size": 30664,
+            "checksum": "sha256:329b55efb032c3b3a80d3f5a6731e3942d1170670c1ef1a284908ce132ef9ece"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp8 - ætherius/16 - ashes to ashes.avs",
+            "size": 4029,
+            "checksum": "sha256:191141ffb2eaad283ca08e786ab933a24aa92c1684177d926bcd884ff5f5921b"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp8 - ætherius/17 - underscore.avs",
+            "size": 8264,
+            "checksum": "sha256:75e15e541148ad321cfef101cff87a50041b0031d989daf38a205f3da74de135"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp8 - ætherius/18 - some kind of kink ii.avs",
+            "size": 9822,
+            "checksum": "sha256:fac5b6f44f092b2b9596dc56c7a0bec97f15c1ee61846bbb01f07b9140a0333b"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp8 - ætherius/19 - timescope to the third.avs",
+            "size": 17047,
+            "checksum": "sha256:d6b4d6c4a139b87d4f7d362bdd4a7f18784557481cc6f644a1f5ecda56efcfe7"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp8 - ætherius/19.5 - bent in two directions (interlude).avs",
+            "size": 7561,
+            "checksum": "sha256:3612d44ad10ebe5aec3f1f58936e808d772adfd1d6f4c709743376021c3e5454"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp8 - ætherius/20 - discotheque.avs",
+            "size": 10402,
+            "checksum": "sha256:9f417240f01c2a586bff6692bcc1e012f3fe48638efcca6fc9de84929bb8085a"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp8 - ætherius/21 - as light as your life.avs",
+            "size": 9234,
+            "checksum": "sha256:3fdc7ef8191e28ef24f01680dcaed8c0da62a95f22a9277fe1857eb60ac87674"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp8 - ætherius/22 - aetherial flow.avs",
+            "size": 5697,
+            "checksum": "sha256:bc3ab2c18df06e74149d6ad79070af336f2187f63c602fe2ee5ab60c0d93de53"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp8 - ætherius/23 - driving ii.avs",
+            "size": 62674,
+            "checksum": "sha256:efae0587826bbb41f551d47af5b36805dfe111574ed15c41b5ff9854fce39283"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp8 - ætherius/24 - istylized.avs",
+            "size": 7773,
+            "checksum": "sha256:015476e527cca65dac66d27f520fc3e7a4c6eccd0a721197395489be978c1677"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp8 - ætherius/25 - recovering from fate (the way things change).avs",
+            "size": 7503,
+            "checksum": "sha256:bc1222431faf81276a115bdfcfc97886780105659dcd78c6975550754c2ec9b8"
+        }
+    ],
+    "assets": [
+        {
+            "file": "skupers_cb_auto.bmp",
+            "size": 3656,
+            "checksum": "sha256:2e112f64d85239531d402a8c85aa68810641b13060d77c93c69aa6a254a2e2f5"
+        },
+        {
+            "file": "skupers_cb_mouse1.bmp",
+            "size": 5456,
+            "checksum": "sha256:ef5a8bd5156e33811ce70fe6711cdbc940a591b79520e6211e5723e3ff28dc5c"
+        },
+        {
+            "file": "skupers_cb_mouse2.bmp",
+            "size": 5456,
+            "checksum": "sha256:7cf69d6f1273e119611bb59a5a333f793cd6c3a2a8fee06d97b13fcccc5b1453"
+        },
+        {
+            "file": "skupers_cb_mouse3.bmp",
+            "size": 5456,
+            "checksum": "sha256:2e950e2534e718b684dbe327217d3859b0a4a432d4042d0f56c771ab85dd4914"
+        },
+        {
+            "file": "skupers_cb_text.bmp",
+            "size": 3656,
+            "checksum": "sha256:e611598ba7e94d39edbbfde59440f57efc038c4943fbbc8ec877aec740ae32bb"
+        },
+        {
+            "file": "skupers_lp7_01.bmp",
+            "size": 776,
+            "checksum": "sha256:27bdda462dfec5cea6f702611fdc5df24255ae076c64fd214544b75561771339"
+        },
+        {
+            "file": "skupers_lp7_02.bmp",
+            "size": 10856,
+            "checksum": "sha256:aaeb13486d7082c888a556012a3ea574dc4c651b01510ae9722a1ce184f8fd03"
+        },
+        {
+            "file": "skupers_lp7_03.bmp",
+            "size": 774,
+            "checksum": "sha256:b6a3d29fa0ba3a2507b098fefcd58459639c1338b144833ec9ad834f378afb6d"
+        },
+        {
+            "file": "skupers_lp7_04.bmp",
+            "size": 3678,
+            "checksum": "sha256:385d475bda1d0714ac15ceea8fdd096c48f1552ee2bf99b83d5bec44cb75357f"
+        },
+        {
+            "file": "skupers_lp7_05.bmp",
+            "size": 776,
+            "checksum": "sha256:9ffee96d577cdbce33395669601281395112690c7f61e90d63c4273cae7ebc75"
+        },
+        {
+            "file": "skupers_lp7_06.bmp",
+            "size": 776,
+            "checksum": "sha256:2d0cf33c2ffb726b976ebad0c57d1c7a905bd30a9204c44b739a525b1dcc18b8"
+        },
+        {
+            "file": "Silkscreen_Bold.ttf",
+            "size": 16172,
+            "checksum": "sha256:cecab42faa04cfc5d5f647ead30d3dbd099468b412300c8a94e5612a76052034"
+        },
+        {
+            "file": "Silkscreen_Expanded_Bold.ttf",
+            "size": 16276,
+            "checksum": "sha256:698eac3062b43638b361660bdb096707b09df13bbf084c4dc95b177a8aa83a7b"
+        },
+        {
+            "file": "Silkscreen.ttf",
+            "size": 18336,
+            "checksum": "sha256:201df110e8dd8f19da40e5ad953b25bcac34dcb1bd14c7b8e02c9ce0b5ac0ca3"
+        }
+    ],
+    "plugins": [
+        "BufferBlend",
+        "ConvolutionFilter"
+    ]
+}

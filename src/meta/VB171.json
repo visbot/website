@@ -1,0 +1,46 @@
+{
+    "name": "whyEye.org in treatment 2.5",
+    "id": "VB171",
+    "presets": [
+        {
+            "file": "whyEye.org/whyEye.org in treatment 2.5/01 nemo - balloons (ya-tho-sho treatment).avs",
+            "size": 40345,
+            "checksum": "sha256:181bc6f8674dffa291d25e5d5d35661abc68c8ae9c4e11e48cb722bd76d97096"
+        },
+        {
+            "file": "whyEye.org/whyEye.org in treatment 2.5/02 stardust - redemption (ya-tho-sho treatment).avs",
+            "size": 1840,
+            "checksum": "sha256:6dbb2c2ed08e7d09131500755f1cd8015ecee2a5c1c006fd1c554d813f53e139"
+        },
+        {
+            "file": "whyEye.org/whyEye.org in treatment 2.5/03 mykal -  ...then let go (ya-tho-sho treatment).avs",
+            "size": 3012,
+            "checksum": "sha256:1d199894afc0d7c9ae604322fbd5dbe82124b1c752d46b7471e48f19245f4e37"
+        },
+        {
+            "file": "whyEye.org/whyEye.org in treatment 2.5/04 horse-fly - shadow (ya-tho-sho treatment).avs",
+            "size": 2662,
+            "checksum": "sha256:ddc7556e0c442186472cfd61491e6d2f72768daf22cf4413f09c41bb7ad50fa4"
+        },
+        {
+            "file": "whyEye.org/whyEye.org in treatment 2.5/05 zamuz - flame concept (ya-tho-sho treatment).avs",
+            "size": 2327,
+            "checksum": "sha256:68d9f5aca3a475d0d5b44f2fc8080c7329f0e2d8d7e4313053ed04683b81ed69"
+        },
+        {
+            "file": "whyEye.org/whyEye.org in treatment 2.5/06 frames of reality - bloodpot (ya-tho-sho treatment).avs",
+            "size": 3151,
+            "checksum": "sha256:ec16c58697d6bde01e4c782dd1fff9921ef56554b97dd86820cc9ed80dfe10db"
+        }
+    ],
+    "assets": [
+        {
+            "file": "avsres_texer_square_fade_30x30.bmp",
+            "size": 2814,
+            "checksum": "sha256:12bdc0b6a44fc540c0c84f7e704a6c9bb6885676ba39652b1ef0b1121701e089"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

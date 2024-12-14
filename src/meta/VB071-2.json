@@ -1,0 +1,29 @@
+{
+    "name": "whyEye.org minidisko remixes pt. 2",
+    "id": "VB071-2",
+    "presets": [
+        {
+            "file": "whyEye.org/whyEye.org minidisko remixes/yiC1__minidisko (ucd's nipple blanket mix).avs",
+            "size": 3898,
+            "checksum": "sha256:422ee28155a42a59bf7268e96979671c44de2e1bfb9db4416ac9ad3f9d58b501"
+        },
+        {
+            "file": "whyEye.org/whyEye.org minidisko remixes/yiC2__minidisko (zamuz's murder on the dance floor remix).avs",
+            "size": 2977,
+            "checksum": "sha256:a81a656aeefbc260d32046ad508f2833f8603e1a2eae352a6e12677707272016"
+        },
+        {
+            "file": "whyEye.org/whyEye.org minidisko remixes/yiD1__minidiskio (nemo's chromotography remix).avs",
+            "size": 3235,
+            "checksum": "sha256:0a9d0077b7f10466a3f878fef8a01ffaa9a3ec00c6ae0a7a071b005ca6552a09"
+        },
+        {
+            "file": "whyEye.org/whyEye.org minidisko remixes/yiD2__minidisko (les Noobiens rework).avs",
+            "size": 975,
+            "checksum": "sha256:753c515c888c256a831fde1b83f671b971666929385a386ea3f6bc588410f897"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

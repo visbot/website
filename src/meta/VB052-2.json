@@ -1,0 +1,22 @@
+{
+    "name": "whyEye.org relight delight",
+    "id": "VB052-2",
+    "presets": [
+        {
+            "file": "whyEye.org/whyEye.org delight relight/yiB1__nemo_honey.avs",
+            "size": 2003,
+            "checksum": "sha256:d0147ec909b3c675b3d7f145183a875f3769e972ef78e002917077d512c68933"
+        },
+        {
+            "file": "whyEye.org/whyEye.org delight relight/yiB2__orange_interleft.avs",
+            "size": 1737,
+            "checksum": "sha256:68d21ded2c5889ed84fa3e1e40d2d705c990896e6db43c619b5d3c26e83c9657"
+        },
+        {
+            "file": "whyEye.org/whyEye.org delight relight/yiB3__softer_butterfly_(version).avs",
+            "size": 1820,
+            "checksum": "sha256:567887da187e4decd7421f9f7c1e46d8bdb893d2e4779e51f76e89911e597820"
+        }
+    ],
+    "plugins": []
+}

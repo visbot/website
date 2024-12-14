@@ -1,0 +1,91 @@
+{
+    "name": "argon",
+    "id": "VB225",
+    "presets": [
+        {
+            "file": "micro.D°/argon/01 maschinengheist.avs",
+            "size": 6063,
+            "checksum": "sha256:340b761e0a79eacc38e23e57f842e7ec3da8917307356b358b4bb68c676d1482"
+        },
+        {
+            "file": "micro.D°/argon/02 crcls4262a-159832.avs",
+            "size": 6193,
+            "checksum": "sha256:4f9a31a6b7650956ecee5fd7f0b6e92e3f558a8fa18af50413cebbaa879a7d31"
+        },
+        {
+            "file": "micro.D°/argon/03 tzakatzaka.avs",
+            "size": 7119,
+            "checksum": "sha256:97037c4bf180c5cd38f61f53c494eb0179e8a37e13857216c0a5a1f2d1afeb99"
+        },
+        {
+            "file": "micro.D°/argon/04 rygcbm.avs",
+            "size": 7166,
+            "checksum": "sha256:4058fb9b1e9dc2ecbac2b626b19acdb1837684a15dc88e9e29728251310af9a4"
+        },
+        {
+            "file": "micro.D°/argon/05 pixel army rise!.avs",
+            "size": 6655,
+            "checksum": "sha256:946b0b4553e3b7e5103404c40c925411a6a67be4fa07884ec9846933910464f4"
+        },
+        {
+            "file": "micro.D°/argon/06 amphirion - pulse (pulsar2 rmx).avs",
+            "size": 4427,
+            "checksum": "sha256:ec4fc329bfa6ce6112c62ab55bf9897ac30ca6e0660dc51977c1d307b02b35d4"
+        },
+        {
+            "file": "micro.D°/argon/07 gc.md - beware... i live... i hunger!.avs",
+            "size": 4745,
+            "checksum": "sha256:9b4c5e3b0a0e980909debb54875a26d967040252ae45fd5cdc9553f91d04f97f"
+        },
+        {
+            "file": "micro.D°/argon/08 gc.md - the 40th mars mission.avs",
+            "size": 14757,
+            "checksum": "sha256:70e47adec85f2dbe79e22664142fc991fe04ee64dac36fcbdf1da06c02588072"
+        },
+        {
+            "file": "micro.D°/argon/09 monddurt.avs",
+            "size": 6926,
+            "checksum": "sha256:ab811e9a2b3ff79e3ea58531a4d4d910651d2d4522d6adab4699e562d1e9332d"
+        },
+        {
+            "file": "micro.D°/argon/10 citycentre.avs",
+            "size": 11334,
+            "checksum": "sha256:bc85a88925a413f72c5b9c7fb529e43c180cf667aec9096e9b30e913ca4de5d6"
+        },
+        {
+            "file": "micro.D°/argon/11 saints of the rave.avs",
+            "size": 6357,
+            "checksum": "sha256:3a5f698eaf22ea91c337acc47e84a2ff05a0e261f330976cde761a16ae96dbdb"
+        },
+        {
+            "file": "micro.D°/argon/12 sphrs7473a-219030.avs",
+            "size": 9565,
+            "checksum": "sha256:caa9519206f69f5dd75e5144d8fdbdf6474bec4bb8e4c3bf9a29607b39ba879b"
+        },
+        {
+            "file": "micro.D°/argon/13 crcls4262b-366198.avs",
+            "size": 5643,
+            "checksum": "sha256:b3328532a707a80b55ecf4de2de2ef018c3d7110e1e4c2408e54ecb280b8c7d2"
+        },
+        {
+            "file": "micro.D°/argon/14 sphrs2452g-998240.avs",
+            "size": 6318,
+            "checksum": "sha256:e099a6d2f5ca0b6d9ed62232ff856949ce5a495ab7b6364df97836aa3c98c032"
+        }
+    ],
+    "assets": [
+        {
+            "file": "reGeneSys2.bmp",
+            "size": 66244,
+            "checksum": "sha256:fcd93670f08e3e8d3a23d8175257a8ea00fa8129a4171dfc0197d06eb74ef16d"
+        }
+    ],
+    "plugins": [
+        "AddBorder",
+        "ConvolutionFilter",
+        "FramerateLimiter",
+        "Normalise",
+        "TransAuto",
+        "Triangle"
+    ]
+}

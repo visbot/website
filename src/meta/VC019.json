@@ -1,0 +1,79 @@
+{
+    "name": "VISBOT 1999 A.D.",
+    "id": "VC019",
+    "presets": [
+        {
+            "file": "VISBOT/VC019 1999 AD/01 zamuz - façade.avs",
+            "size": 36120,
+            "checksum": "sha256:21443cafbccbdc593d40fa5ca6857e3681082b19ebfbe91876b0fc44115c3aa7"
+        },
+        {
+            "file": "VISBOT/VC019 1999 AD/02 micro.D - resonantia.avs",
+            "size": 5588,
+            "checksum": "sha256:0558de38d836198c09aa054b48e6be53226219ee2ed511017924a893eb949b9c"
+        },
+        {
+            "file": "VISBOT/VC019 1999 AD/03 hurricane - wildest dreams.avs",
+            "size": 8560,
+            "checksum": "sha256:a6e323066264dd1fb1c28560516e616e99ac46abf173df62d0dbce982edcf395"
+        },
+        {
+            "file": "VISBOT/VC019 1999 AD/04 grandchild - ringo.avs",
+            "size": 6894,
+            "checksum": "sha256:69b6346cfa4a2099315b2847f4af1e57fffccb904aa50ea8291e2a4018b72b68"
+        },
+        {
+            "file": "VISBOT/VC019 1999 AD/05 grandchild - ringo (fake micro.D rmx).avs",
+            "size": 7562,
+            "checksum": "sha256:a8a39783cb4fc2cc641317322a7b13c45b280ffeec748a1989367bfabc7af732"
+        },
+        {
+            "file": "VISBOT/VC019 1999 AD/06 micro.D - pöttyöslabda.avs",
+            "size": 7050,
+            "checksum": "sha256:e8b44a3f73af24d743583c5663c6d4681469495f0a1bfda4b922eea172fe3e1b"
+        },
+        {
+            "file": "VISBOT/VC019 1999 AD/07 yathosho - fantasy island iii (edit).avs",
+            "size": 3176,
+            "checksum": "sha256:8cf90446fe15f15f7bb5593276575ef2caa1434e12aab5cdf8db6c7e4c729351"
+        },
+        {
+            "file": "VISBOT/VC019 1999 AD/08 zamuz - seeing triple (frames-of-reality ce remix).avs",
+            "size": 6752,
+            "checksum": "sha256:57d9ad7305dbc9bb76d844d769510daf8f69f7ff37795ffd6fe113e43a09210c"
+        },
+        {
+            "file": "VISBOT/VC019 1999 AD/09 grandchild - waki.avs",
+            "size": 2069,
+            "checksum": "sha256:2466c9ae01130f3940d36db65e94b3af6f7be91239efe15e1c55da4611fb162b"
+        },
+        {
+            "file": "VISBOT/VC019 1999 AD/10 frames-of-reality - focus group.avs",
+            "size": 6466,
+            "checksum": "sha256:4936bfdc0c459d60ef244e148715bedd4d62b66249180d29524c8b46256bfd8c"
+        },
+        {
+            "file": "VISBOT/VC019 1999 AD/11 hurric4ne - wildest dreams (fake skreamizm rmx).avs",
+            "size": 12252,
+            "checksum": "sha256:a88a4ea439caddcb1c39cda4a25238558c3304a9da6bec4e21429553c73f0cf5"
+        }
+    ],
+    "assets": [
+        {
+            "file": "Shreyas-IV-01.bmp",
+            "size": 36342,
+            "checksum": "sha256:10bf973044414dbea4dfaf77de57d7de4d3a871f0fc057bda1a3f699e202a411"
+        }
+    ],
+    "plugins": [
+        "BufferBlend",
+        "ChannelShift",
+        "ColorMap",
+        "ConvolutionFilter",
+        "FramerateLimiter",
+        "Texer2",
+        "TransAuto",
+        "Triangle",
+        "VideoDelay"
+    ]
+}

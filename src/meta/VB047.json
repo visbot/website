@@ -1,0 +1,332 @@
+{
+    "name": "s_kupers - lp7suite",
+    "id": "VB047",
+    "presets": [
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/000 - intro.avs",
+            "size": 2668,
+            "checksum": "sha256:655540808be5ba81c8708fce51431bea1f44524ab9a1f96c25ca605e6df19ef7"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/001.1 - inverse kinetics.avs",
+            "size": 4009,
+            "checksum": "sha256:ea54907308b9c096ffa396183c26cbdbb3a9ead090d09f685b2d74df3c5ec024"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/001.2 - inverse kinetics ii.avs",
+            "size": 4039,
+            "checksum": "sha256:49e43fe51d45cb01d2e86dbe6ce6760d9194e45392d3ec3a404bb06c72d442e4"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/001.3 - nemoorange - inverse kinetics (remix).avs",
+            "size": 1454,
+            "checksum": "sha256:366e9005b245d00bd704ab642a748713968fbde6c80fbabbf03c8a52db1b14a2"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/002 - plasticwrecx ii (yathosho remixed).avs",
+            "size": 3014,
+            "checksum": "sha256:77c8ec8df548fa14fad8e3866d507c843b4e9cd0b4b43c18a3b14b124c38fbcb"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/003.1 - with your fear ii.avs",
+            "size": 3850,
+            "checksum": "sha256:8af434b69ff112b80110e9f98691bd6dccc776aa36fb840d91a56d1e5dfb3dda"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/003.2 - nemoorange - with your fear (remix).avs",
+            "size": 1858,
+            "checksum": "sha256:11f1455a8f00660b19da8711c9adba5835d9f9e5a2d882ef5cec494af154d74c"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/004 - arctic rainbow.avs",
+            "size": 3409,
+            "checksum": "sha256:449c54a0c26a8f67ae519ac0efb9395b5157492d8d034897cfc037aba3628c77"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/005.1 - spirit realm.avs",
+            "size": 4169,
+            "checksum": "sha256:12fa216884cc1d7a16f27f7227e6736a603dc840c91c9c89617d62f93010039a"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/005.2 - degnic - spirit realm (plasmoid rmx).avs",
+            "size": 2798,
+            "checksum": "sha256:9397a1b625a29277ddf15b09b8b21fd4c016b33004efe4988d67bc4c699891a7"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/006 - noir du temps.avs",
+            "size": 5533,
+            "checksum": "sha256:66c7ddc1ecf72b481eedae7519b818f16d55f2d43062e2b0553afdb8ab9c17e2"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/007.1 - not mt. doom.avs",
+            "size": 3862,
+            "checksum": "sha256:a5feeeb3f1b9eda604a1456d131a5a7e809776a792c676f1707b0d4bedd570a9"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/007.2 - not mt. doom (instrumental version).avs",
+            "size": 2751,
+            "checksum": "sha256:eef2d7cceab0bb718be0204f28deb5bba34ffdd9765cbc752b330f308098f354"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/008 - it never left (interlude).avs",
+            "size": 3126,
+            "checksum": "sha256:3383f1d151f6ae73905ada275999fdaee2291fcbe0f604859ec70f2a0aa0c18d"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/009 - magsun.avs",
+            "size": 3307,
+            "checksum": "sha256:c9d229b8c757c7454223dd05a16bf4e2ac2f2e16077a0025a0f7bed92ad398fb"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/010 - mind the mind ii.avs",
+            "size": 1781,
+            "checksum": "sha256:225ba2e57cb40850659002f0d33907c10116542164b102af52c77f3dff73e00f"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/011.1 - metallic funk appliance ii.avs",
+            "size": 4719,
+            "checksum": "sha256:c96cc4a188357fe57f70d86a71674899d5d2710facc251ecc10313ef0125ee8f"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/011.2 - funk metallic appliance.avs",
+            "size": 3096,
+            "checksum": "sha256:da78aceee11de17a6631ad34ec622db10727b000d53406e880fd8b4be8a34a7e"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/011.3 - appliance metallic funk.avs",
+            "size": 3060,
+            "checksum": "sha256:f3d317465d1f24585b2a352dcd3cc1945a845d3c3573c86ab821067931c42323"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/011.4 - yathosho - metallic funk appliance (yathosho's gewebeprobenmix).avs",
+            "size": 1844,
+            "checksum": "sha256:3c5770ed09e7ae8c7ce123a8fbceb5ed29f27966068d58a26e297d896fb267a7"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/012 - chinook.avs",
+            "size": 1491,
+            "checksum": "sha256:4e109b74c9aa54eaef31516c5adeaf1720d3db3359e77c0c077c7bf800b35092"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/013 - disthereal.avs",
+            "size": 2837,
+            "checksum": "sha256:70df20442d523ba95ba4a482c21fa60b9d7da4919c285418673c74eea00f5a50"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/014 - taking control ii.avs",
+            "size": 4873,
+            "checksum": "sha256:44d5b3066f645222a8fa166ab8fdad5849271a315a0e7df58b7ca5614e062d6f"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/015 - inspired by degnic.avs",
+            "size": 3710,
+            "checksum": "sha256:5e2a693500e548bed56d872d0ef74b097e14e560d5100d9f7ffe38444f140877"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/016 - dreamtime iv (elvis remixed).avs",
+            "size": 4861,
+            "checksum": "sha256:1a673d0bfb46ca78bc4103a155f186cda314c5d876f2615123ac8ea6f291d156"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/017 - a word of caution.avs",
+            "size": 4156,
+            "checksum": "sha256:85699cf7c7855d39b907d913f78f85ade1429acdefe0974d2022e10f1a4dc63e"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/018 - spacecubed.avs",
+            "size": 9167,
+            "checksum": "sha256:1361466b298f2ed8059aacc9149abfe9ef33f7b97631dfcbeeddcb53767b01c2"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/019.1 - hexual healing.avs",
+            "size": 3818,
+            "checksum": "sha256:6c68e70805904bc948418549034949736f06a08eb21968b19802311b02cbca34"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/019.2 - yathosho - hexual healing (yathosho's broken pleasing).avs",
+            "size": 2057,
+            "checksum": "sha256:69477a05a751cc3be3d5d9906423b75c5d0b85b3d2dc8349719fe8da9bba0e12"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/020 - kiani industries.avs",
+            "size": 4722,
+            "checksum": "sha256:b2f3110035cf8f102909939aaff2ef17290cf3cd3869265e21d2072de13f328e"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/021 - a tribute to fsk.avs",
+            "size": 4485,
+            "checksum": "sha256:a3ff183b7c3457b4f05245f2c173e228459f4b6d0e739bafbd6e0aba2059d07e"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/022 - semicube ii.avs",
+            "size": 4945,
+            "checksum": "sha256:43cf13482e121b7d3275ce98aa41ff3ec0cd492a291468d0adf11e94f3f4cf13"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/023 - caged ii.avs",
+            "size": 5698,
+            "checksum": "sha256:3de7e115f0fcf9a89e32021a2e322b8bcb5cba59765628883d7763074bccdc71"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/024 - isotta ii (yathosho remixed).avs",
+            "size": 5032,
+            "checksum": "sha256:c166a6d9656400b04f42673c9398eac5f91ffad1a42bac86e2277390c189f9f7"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/025 - smoking the edge.avs",
+            "size": 2895,
+            "checksum": "sha256:1820c694fa2fe73464e2b4b0aa6b8a84c4f0a0c2db027910489802c64f71a30c"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/026.1 - why i love you (interlude).avs",
+            "size": 3201,
+            "checksum": "sha256:dd26d7f89ddc119fc8c878458b6a4829790fdb1fae505cb017ca766b887f7cec"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/026.2 - why i love you so (interlude).avs",
+            "size": 3060,
+            "checksum": "sha256:db83dc445bfa64922afb43cb0129aa1d896725c2d814b4f90b88023b3c4dd784"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/026.3 - duo - why i love you (pulsedriver remix).avs",
+            "size": 1384,
+            "checksum": "sha256:be4d1e5cd4e4815e10d583ffbb8fd7182b66ecabf6db9ad6cba93b7a3663c90f"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/027 - trisomie ii.avs",
+            "size": 4333,
+            "checksum": "sha256:2d8dcfcf6cb1abe47a222ea6c446d8708d33f4f39d784333559b865a9ae5c069"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/028.1 - curvism iii.avs",
+            "size": 4614,
+            "checksum": "sha256:c08157726bac2a97ea440d8b6274cc1fb7ef50583d3168f72a0f6489b7dcc973"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/028.2 - duo - curvism ii (sensualistic remix).avs",
+            "size": 1750,
+            "checksum": "sha256:288dca2705edefdfa36be6ca562addd4cfa35ce48a190bb4a2e564bdabf9807f"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/029 - art retro.avs",
+            "size": 4246,
+            "checksum": "sha256:e0b37564fa37b224cc46f8186e2c8c2f5a03f844914cd725eef60e0bb5022c81"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/030 - in effect.avs",
+            "size": 5246,
+            "checksum": "sha256:a02769d370bd9ba59e2dcf35be2a84a62b67e89301dec7cff95c2d735b0638d7"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/031.1 - untitled ii.avs",
+            "size": 3315,
+            "checksum": "sha256:8940320401d7384704865bc700d68a682132606b0678deebe0bff91df6144439"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/031.2 - yathosho - untitled (yathosho's dirty sci-fi mix).avs",
+            "size": 2331,
+            "checksum": "sha256:9861ebae7ac4aefb1b2457212b964e421f1ab9284698749f8ae2645487535077"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/032 - dutch flow.avs",
+            "size": 4875,
+            "checksum": "sha256:1b2fce79bdc878b8d24a5bfb6d96e32046f51a143b0444da587e2c0085f2546e"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/033 - space theme (avsking remixed).avs",
+            "size": 3682,
+            "checksum": "sha256:b99c93642fe5a382eccc2f330d01b03cae2b920a1b08411d166b317c719632c2"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/034 - ix i xi.avs",
+            "size": 2330,
+            "checksum": "sha256:8620183da294162a20206aa5358f68990aa6be7481270a517a8215d17007c3e8"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/035 - txorrx ii.avs",
+            "size": 3810,
+            "checksum": "sha256:c4a970dd706c59b71ec4a0aa26ae8dd0267c99dee4dc69690b265b9ba960f0a9"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/036 - someday my rays will cover the earth.avs",
+            "size": 4887,
+            "checksum": "sha256:406dae98396e6cc0093623e7ba298b93b66ab8bd19a4f9697aca9f8584e4edb4"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/037.1 - ...hiddan track....avs",
+            "size": 2968,
+            "checksum": "sha256:8f4c8b65bad6b9eb706346732f1335f8e14eb2d0961a20b6bce74468374f8b72"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/037.2 - ...hidden track....avs",
+            "size": 2688,
+            "checksum": "sha256:2d01847e8ecd9796f4b64d8313a5d54e9b7e887c261f05d42b21071d15c0d3b4"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/037.3 - ...hiddmn track....avs",
+            "size": 2697,
+            "checksum": "sha256:49e271672fb4daaeffcec26bcddfd08c13fde32a4ae5a2f9b0d4fa92f6003e33"
+        },
+        {
+            "file": "S_KuPeRS/s_kupers - lp7suite/037.4 - ...hidden trax....avs",
+            "size": 2323,
+            "checksum": "sha256:e4f6e7a8b099cbb74269bb0b91ffabe0af087e932fc28885f434af072f8a7bcb"
+        }
+    ],
+    "assets": [
+        {
+            "file": "skupers_cb_auto.bmp",
+            "size": 3656,
+            "checksum": "sha256:2e112f64d85239531d402a8c85aa68810641b13060d77c93c69aa6a254a2e2f5"
+        },
+        {
+            "file": "skupers_cb_mouse1.bmp",
+            "size": 5456,
+            "checksum": "sha256:ef5a8bd5156e33811ce70fe6711cdbc940a591b79520e6211e5723e3ff28dc5c"
+        },
+        {
+            "file": "skupers_lp7_01.bmp",
+            "size": 776,
+            "checksum": "sha256:27bdda462dfec5cea6f702611fdc5df24255ae076c64fd214544b75561771339"
+        },
+        {
+            "file": "skupers_lp7_02.bmp",
+            "size": 10856,
+            "checksum": "sha256:aaeb13486d7082c888a556012a3ea574dc4c651b01510ae9722a1ce184f8fd03"
+        },
+        {
+            "file": "skupers_lp7_03.bmp",
+            "size": 774,
+            "checksum": "sha256:b6a3d29fa0ba3a2507b098fefcd58459639c1338b144833ec9ad834f378afb6d"
+        },
+        {
+            "file": "skupers_lp7_04.bmp",
+            "size": 3678,
+            "checksum": "sha256:385d475bda1d0714ac15ceea8fdd096c48f1552ee2bf99b83d5bec44cb75357f"
+        },
+        {
+            "file": "skupers_lp7_05.bmp",
+            "size": 776,
+            "checksum": "sha256:9ffee96d577cdbce33395669601281395112690c7f61e90d63c4273cae7ebc75"
+        },
+        {
+            "file": "skupers_lp7_06.bmp",
+            "size": 776,
+            "checksum": "sha256:2d0cf33c2ffb726b976ebad0c57d1c7a905bd30a9204c44b739a525b1dcc18b8"
+        },
+        {
+            "file": "whacko6-07.bmp",
+            "size": 3422,
+            "checksum": "sha256:45c2072b0dcffc04ac87199392097c5debefaaac6000997da9f568094278155d"
+        },
+        {
+            "file": "slkscr.ttf",
+            "size": 20480,
+            "checksum": "sha256:1dea07bcde210dd14a73fd3a7654fc8ce83552fee8134b53b4428cbda1193e04"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter",
+        "MultiFilter"
+    ]
+}

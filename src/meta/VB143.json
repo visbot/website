@@ -1,0 +1,29 @@
+{
+    "name": "DDxo3",
+    "id": "VB143",
+    "presets": [
+        {
+            "file": "Dynamic Duo/DDxo3/ddA1__tentaclism (debit mix by drew).avs",
+            "size": 3073,
+            "checksum": "sha256:4edc28a2ba3dc051ddb6d6677a74ebdc9566ebf40b0f6a8090cfb8737d91309c"
+        },
+        {
+            "file": "Dynamic Duo/DDxo3/ddA2__contraction (zen-x is choking me rmx).avs",
+            "size": 2581,
+            "checksum": "sha256:9fa0ce0fcbf0d5657095e64c2022bbfdbd403d1a749f1fe474198bcdb84c1648"
+        },
+        {
+            "file": "Dynamic Duo/DDxo3/ddB1__chromatics (titanium rework by yathosho).avs",
+            "size": 4498,
+            "checksum": "sha256:5bf82989999216b9b6b7aa00de642ad94cc792fe635e13ac37e7f0f68cb6230c"
+        },
+        {
+            "file": "Dynamic Duo/DDxo3/ddB2__tentaclism (trash da junk mix by pan am).avs",
+            "size": 4262,
+            "checksum": "sha256:4eeb79c77345f8f87e7d72b204bbbf426445e7320fc206e55eb1a2440036614c"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

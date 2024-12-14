@@ -1,0 +1,275 @@
+{
+    "name": "The 12 Inches of CO-OP",
+    "id": "VB173",
+    "presets": [
+        {
+            "file": "CO-OP Sessions/CO-OP Session 01/a1 skupers - dubbing single mothers.avs",
+            "size": 3800,
+            "checksum": "sha256:fc008236b3daf639a0e9675372b6b4f1cd2006ab22d09b8a0b9732dcb6f85fb3"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 01/a2 amphirion - moths double in single flame.avs",
+            "size": 4447,
+            "checksum": "sha256:545a2351ad41d1d452f48a1e953aaf8e85ea56c1657413396f1e4398043a7121"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 01/b1 amphirion - in the burning.avs",
+            "size": 2742,
+            "checksum": "sha256:fa29e3a7809d9b6844f01a8fdb0b3be65abcd82e59cbc6751ea489d86c508709"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 01/b2 skupers - burning a hole in the sky.avs",
+            "size": 2770,
+            "checksum": "sha256:d6d4524b0b2b47a441704a46bb4312e15b1dce34b73f100b04b181597e74928b"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 02/a1 yathosho - my crown jewels, show me yours!.avs",
+            "size": 1603,
+            "checksum": "sha256:5465ec608aa371cff49fdc298e9305def0d858ce70a3eaeaa5c2293d940481f8"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 02/a2 zamuz - my alien jewels.avs",
+            "size": 2154,
+            "checksum": "sha256:f74683d13a1f83acbbc8f4622da7fbd02bda542417745784cfbaf26a4d32952a"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 02/b1 zamuz - blooming.avs",
+            "size": 2765,
+            "checksum": "sha256:fe3d44f3c5f72f7feb420424910a886762a476f353549cc6cc1ff8cc2a35f6cd"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 02/b2 yathosho - where the deuce did the flowers go.avs",
+            "size": 1405,
+            "checksum": "sha256:780ff53e8fd7ef1d5e65c20de5e6c0c8f3a3b98c4caa31a1609838ffb7121976"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 03/a1 les noobiens - pünktchen und anton.avs",
+            "size": 1636,
+            "checksum": "sha256:b8c47cbab3db9f7f0315eb2379f03c13770a0ce6c8ba0d85e6998c3ec7acd189"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 03/a2 unconed - flexo spaghetti.avs",
+            "size": 8444,
+            "checksum": "sha256:968cda0f7335a440c9736a5b2ff5db46bdd7fb32248c1db9284765665002ce65"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 03/b1 unconed - stop and go.avs",
+            "size": 3800,
+            "checksum": "sha256:90b5a0b4c0f2b97b52185271508dc42c05c65666f59537fe8c081acdd2aaabb8"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 03/b2 les noobiens - stop communications ltd.avs",
+            "size": 4503,
+            "checksum": "sha256:66ccf2049ea6e33987d6759474d48aeb2b7fa365488c6d8e289437e771e23ef8"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 04/a1 dynamic duo - just blind.avs",
+            "size": 2881,
+            "checksum": "sha256:a902ae258694273d7f05e0719bdc05e3a1da94806b6f633ca4dc0ef1cdc09548"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 04/a2 degnic - just healed.avs",
+            "size": 2800,
+            "checksum": "sha256:437b91d0263afbec002d5b227cd9bfbd0fa0962d338866e10d15eda3464c9c31"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 04/b1 tuggummi - thoughts to text converter in-depth discussions.avs",
+            "size": 4556,
+            "checksum": "sha256:8c1ff2dba6304d53e506178d54992674c364a7c2216d3c023c861abf6e21abe4"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 04/b2 dynamic duo - converting your thoughts to rgb.avs",
+            "size": 2478,
+            "checksum": "sha256:0e0b613cda5f9f3d43565f75bc2213ca629c499472492dbbab39bef418cb32e7"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 05/a1 zamuz - my way.avs",
+            "size": 3873,
+            "checksum": "sha256:e6134d5900a6312de16567b61a46681e4e13f3b6e7ca2ebad0626f0e0b2f7de9"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 05/a2 hboy - my way transformed into a nuclear road.avs",
+            "size": 5067,
+            "checksum": "sha256:ad5bb6b6aeba3ebd36650997b4a50575bbe3dee78631b828c777f1ba38a18d19"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 05/b1 hboy - From a different world.avs",
+            "size": 5526,
+            "checksum": "sha256:d8893c2cf8426fafeb42e57a01d2eb0afb5af514cf8037249ba03b884e0fd0fe"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 05/b2 zamuz - from the world where flowers grow.avs",
+            "size": 8518,
+            "checksum": "sha256:2e56399b73b2efbab570a09e1ed881ec4cc1e0292dc2b66ad0338f02f44a77a9"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 06/a1 nemoorange - sputnik homeland.avs",
+            "size": 4133,
+            "checksum": "sha256:68f104c8f3fda088bd2f8a34f10dbc8c074cadcfb13b1740123686ac47b7a31a"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 06/a2 unripe lemon - sputnik destination.avs",
+            "size": 4639,
+            "checksum": "sha256:ccbf6d625624de0840be442a672620207d41ead938fe8d5db210e6e909789c17"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 06/b1 unripe lemon - rotor.avs",
+            "size": 3003,
+            "checksum": "sha256:bb8497322d896575d5df01eadb10c17b6ed29bd5ecc4e855900814c3b76e4426"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 06/b2 nemoorange - r0t0r m0t0r.avs",
+            "size": 44966,
+            "checksum": "sha256:3a4560eea0d4ab0b8a5730c7beac058be4046ffc5fe8826615d1b1a7bcb8984b"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 07/a1 yathosho - stijlomat.avs",
+            "size": 3835,
+            "checksum": "sha256:a6ec945fc06e327d6270573d5a7ac9176dce2fff5e7a352470dc0a0a3005f6cb"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 07/a2 synth-c - style du matin.avs",
+            "size": 9295,
+            "checksum": "sha256:8954c533c01909f81d06c4b846aa2dece2f1c3c8fab58f7774666b8892c5c9d2"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 07/b1 synth-c - amour fluide.avs",
+            "size": 7494,
+            "checksum": "sha256:d2b41a2d85fff2e0516a3095e13b301c98bd07dfed6a9f1f8de61ea48988b63b"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 07/b2 yathosho - fluid drive.avs",
+            "size": 6673,
+            "checksum": "sha256:bf8287c55067f40144bef88f55c7f982280907e132eecc21a7479595242e1ae5"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 08/a1 danaughty1 - feed your cosmonaughtz.avs",
+            "size": 2139,
+            "checksum": "sha256:94cf52bbfaf07722f3ceb2b2159d989254416c1cdaff1c4e2002caa9a02ecb5d"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 08/a2 hboy - feed your tamtam.avs",
+            "size": 3685,
+            "checksum": "sha256:57422ef3f72d36be10d1e59700251b5bc67a8f1d84a14f64b76acbbde6a06750"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 08/b1 hboy - seekers.avs",
+            "size": 2779,
+            "checksum": "sha256:599984889c563eecf9b4d940d94a50b2acf82defa0a4bb8df5ea5224a2c19e7c"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 08/b2 danaughty1 - peek-n-seek.avs",
+            "size": 4031,
+            "checksum": "sha256:3a89715e5c3d523572aab3fdfce8bc2afd9e38514ab8d5a0b7dfc9a332728eb7"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 09/a1 duo - surreal killer.avs",
+            "size": 3312,
+            "checksum": "sha256:ebc47d8b25fba7f8c608a4b54a4c30b614995e44802847720d9f8198b08a33c9"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 09/a2 yathosho - cereal thriller.avs",
+            "size": 3520,
+            "checksum": "sha256:7e6e2333dfe8459f241b23799f7cbdc5368b8f1f1ad39d8022c4970fce052472"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 09/b1 yathosho - meet the faunaticz.avs",
+            "size": 3596,
+            "checksum": "sha256:416a31734b45d5ac7ac949cae3cc8e97dc140896ce52d0e1bcbe03f97ddc2309"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 09/b2 duo - the faunaticz gave me peyote.avs",
+            "size": 6292,
+            "checksum": "sha256:862634b866d141039f5ff71426965cd81c293fb483840281bdb1bbcf5981a267"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 10/a1 amphirion - can't touch this.avs",
+            "size": 2603,
+            "checksum": "sha256:93c8e3a3141dbb35276022577feaab5149d3d7e4682a96140cb6d87e3c32d379"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 10/a2 vanish - can't hate it.avs",
+            "size": 4401,
+            "checksum": "sha256:5e6f49070f33adc922de5dcea0bad67fc6803b6cca102cdb3bed162c63da1b68"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 10/b1 vanish - hurt.avs",
+            "size": 4654,
+            "checksum": "sha256:8da15fab91f47a7ec57e3929184d1cd87f76dd3762bb191ba32915362c5e179a"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 10/b2 amphirion - heart.avs",
+            "size": 4212,
+            "checksum": "sha256:a74361b7304fc2d1618e501c64b26d736d07c908d4fd4ca01e77a02696ec1f17"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 11/a1 frames.of.reality - duvoil.avs",
+            "size": 3023,
+            "checksum": "sha256:7f88ca993dfcb69a6b1957d3a92a9713d3765876000e0b99d995c785727377f6"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 11/a2 ^..^ - dive in burning oil.avs",
+            "size": 4568,
+            "checksum": "sha256:5221bbe5c26378ba49c030ff788eb8e3325ebdceddf890ecbf67d40e125bcd87"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 11/b1 ^..^ - digitizing a postcard.avs",
+            "size": 4678,
+            "checksum": "sha256:8a012dc86964aa7b0e43312c32328b4e25387561791f4d291690ba919b13e777"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 11/b2 frames.of.reality - writing a letter about the unspeakable horrors of the digital fortress.avs",
+            "size": 6287,
+            "checksum": "sha256:96e541612b4fe38bc0a6439d3d5e571ddca79bd4566eae6c6b1b8b07f4c2b6ec"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 12/a1 yathosho - rise of the minotaur.avs",
+            "size": 5704,
+            "checksum": "sha256:dfa57e2146a5671204ca4b36ef1ce4a9412f79eabeb3c07d42e1c110e8d08406"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 12/a2 grandchild - the mini-tower of rice.avs",
+            "size": 5679,
+            "checksum": "sha256:3e04e2ec1c69271342b565f21b84a0cb3f41283ac7b0b880f7f75b1b1e5a708f"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 12/b1 grandchild - grosses kino.avs",
+            "size": 9110,
+            "checksum": "sha256:ba0cceb5e369c29bedc579ecbdbe6ae57d0d4c9766dbefd9f4ddc5614d3b5eb8"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 12/b2 yathosho - grosser lauschangriff.avs",
+            "size": 7278,
+            "checksum": "sha256:371fbb40bb1378a912b3affd531dd0dee4f56a908cbb88b8c886e6e052ddbded"
+        }
+    ],
+    "assets": [
+        {
+            "file": "avsres_texer_circle_fade_15x15.bmp",
+            "size": 774,
+            "checksum": "sha256:e993d9035e0c88999abda7037e81440f63ee87e37709679de1f4416511be4551"
+        },
+        {
+            "file": "avsres_texer_square_fade_30x30.bmp",
+            "size": 2814,
+            "checksum": "sha256:12bdc0b6a44fc540c0c84f7e704a6c9bb6885676ba39652b1ef0b1121701e089"
+        },
+        {
+            "file": "Shreyas-IV-01.bmp",
+            "size": 36342,
+            "checksum": "sha256:10bf973044414dbea4dfaf77de57d7de4d3a871f0fc057bda1a3f699e202a411"
+        }
+    ],
+    "plugins": [
+        "AddBorder",
+        "ChannelShift",
+        "ColorMap",
+        "ColorReduction",
+        "ConvolutionFilter",
+        "Multiplier",
+        "MultiFilter",
+        "TransAuto",
+        "VideoDelay",
+        "Texer2"
+    ]
+}

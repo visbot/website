@@ -1,0 +1,24 @@
+{
+    "name": "sEP . TRIAD",
+    "id": "VB126-2",
+    "presets": [
+        {
+            "file": "frames.of.reality/sEP . TRIAD/¤.avs",
+            "size": 5667,
+            "checksum": "sha256:f6e75a85b5830f88dc6a2984ed6442c90e81e1c73889c1b4bf52fe5c3edc9c19"
+        },
+        {
+            "file": "frames.of.reality/sEP . TRIAD/¤¤.avs",
+            "size": 2348,
+            "checksum": "sha256:94afa01ff97bceb874c911e5ab8132a2e79a61a982b83a698139642eb3913222"
+        },
+        {
+            "file": "frames.of.reality/sEP . TRIAD/¤¤¤.avs",
+            "size": 2968,
+            "checksum": "sha256:123819d5e3cd141cc9ff12c1d23c7ff9380ffa4b9c42dd9d8ab676102949db40"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

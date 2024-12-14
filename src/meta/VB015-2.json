@@ -1,0 +1,114 @@
+{
+    "name": "duo - enVISION II (reissue)",
+    "id": "VB015-2",
+    "presets": [
+        {
+            "file": "duo/duo - enVISION II/00 - duo - envision II intro.avs",
+            "size": 2759,
+            "checksum": "sha256:fbf645b90373d44395b671b83da6b5bcdf02a9d779e7e08ca2ea568b743c69dc"
+        },
+        {
+            "file": "duo/duo - enVISION II/01 - duo - dye in water.avs",
+            "size": 2209,
+            "checksum": "sha256:8dc5cd744749a423bcf327a4b9dc92f5fef300118ea39ac8757380428c865104"
+        },
+        {
+            "file": "duo/duo - enVISION II/02 - duo - got the groove.avs",
+            "size": 3729,
+            "checksum": "sha256:3c8f91c9caa950326d47df0e99f3316648bdcaf320a2581f80d94546d28e3f82"
+        },
+        {
+            "file": "duo/duo - enVISION II/03 - duo - destination unknown.avs",
+            "size": 1290,
+            "checksum": "sha256:f9e1414df75614a41462bf38c8a8620c296eab48c6016ec141f35adb9f24d73f"
+        },
+        {
+            "file": "duo/duo - enVISION II/04 - duo - technohedron.avs",
+            "size": 5614,
+            "checksum": "sha256:b823e45b529826b4dbfee0dc0178942f33094527f64a0ae431914b9cc4c659d9"
+        },
+        {
+            "file": "duo/duo - enVISION II/05 - duo - alienated.avs",
+            "size": 2649,
+            "checksum": "sha256:8837665d6b43134899f4d4ebedd13529aebb0e0c2a25d2f28f06b0aad72a85a8"
+        },
+        {
+            "file": "duo/duo - enVISION II/06 - duo - miraculous flow.avs",
+            "size": 1197,
+            "checksum": "sha256:f22e9e239ef9c05035f515597b3e10ccba135009e4ad4f476f95f53165754fab"
+        },
+        {
+            "file": "duo/duo - enVISION II/07 - duo - alien intercourse III.avs",
+            "size": 1255,
+            "checksum": "sha256:2737b05485e3b698084166ea27fe77ff870f09ccc3b41db6065571f7db9d8220"
+        },
+        {
+            "file": "duo/duo - enVISION II/08 - duo - under pressure.avs",
+            "size": 2312,
+            "checksum": "sha256:37b40ea970f94d30d8fe183c2c744cae0a83ff628ae3d03763c19c36ab4071aa"
+        },
+        {
+            "file": "duo/duo - enVISION II/09 - duo - drunk driving II.avs",
+            "size": 2560,
+            "checksum": "sha256:018ad319214d4cee709696ad3e044671684c37b6fa5c0ae564c53359a0b4b67e"
+        },
+        {
+            "file": "duo/duo - enVISION II/10 - duo - enigmatic.avs",
+            "size": 1462,
+            "checksum": "sha256:a22ca1925e247bb9075df8163f3ab346c167a377e6afc2e8b115494cb5a2d34d"
+        },
+        {
+            "file": "duo/duo - enVISION II/11 - duo - toxic garden.avs",
+            "size": 1846,
+            "checksum": "sha256:1b5e1729a15b5157429df63963bac1218fcc5664ea6751da6d375ab402376d54"
+        },
+        {
+            "file": "duo/duo - enVISION II/12 - duo - alien heart.avs",
+            "size": 1278,
+            "checksum": "sha256:4e4529e4ba136b8af8460364f98d33ff2dcd1e0ecb0a84b221bb830895e429a5"
+        },
+        {
+            "file": "duo/duo - enVISION II/13 - duo - born on fire.avs",
+            "size": 2556,
+            "checksum": "sha256:85b35ea0f8532608d7646857bc7a7f59f6d538f104c4c44653f7d15898b47759"
+        },
+        {
+            "file": "duo/duo - enVISION II/14 - duo - the happy dance II.avs",
+            "size": 3064,
+            "checksum": "sha256:44e9edd8ed82c5a41de8b0a90847522d4d4cbff56d0e36f8291c69417cf485ee"
+        },
+        {
+            "file": "duo/duo - enVISION II/15 - duo - integrationist.avs",
+            "size": 2107,
+            "checksum": "sha256:09ce22ebcb7a116d7924426fb2330b0bac8cd883d0fa9f56c8e5d12a8f0dc804"
+        },
+        {
+            "file": "duo/duo - enVISION II/16 - duo - just another surface.avs",
+            "size": 1333,
+            "checksum": "sha256:34e0a98b313628f8ced6bd07a4271f681f69ece7171b6190a0e0a2e61d117a8b"
+        },
+        {
+            "file": "duo/duo - enVISION II/17 - duo - abstract existence.avs",
+            "size": 2579,
+            "checksum": "sha256:00ead9c3d93dfd5588f46275a3b074b47e92deedd32cd4876f44e40b4e4a88f4"
+        },
+        {
+            "file": "duo/duo - enVISION II/18 - duo - solar sphere.avs",
+            "size": 1584,
+            "checksum": "sha256:15ddb60579f4858e8675534a96c77a84cca256fec7f9ec46fd065c2a62ec7046"
+        },
+        {
+            "file": "duo/duo - enVISION II/19 - duo - vertigo II.avs",
+            "size": 1381,
+            "checksum": "sha256:b8a0b4d4cd32d25f76b64e9adc6bc4f32341d7443fdb2f645ac4edd1a1be6e9c"
+        },
+        {
+            "file": "duo/duo - enVISION II/20 - duo - surround sound.avs",
+            "size": 8394,
+            "checksum": "sha256:e59b770928140aac84eb0031b4c92bcababfe9fb7ab9e02b2fdb4565c85fe829"
+        }
+    ],
+    "plugins": [
+        "BufferBlend"
+    ]
+}

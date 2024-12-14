@@ -1,0 +1,65 @@
+{
+    "name": "whyEye.org final cut versions",
+    "id": "VB232",
+    "presets": [
+        {
+            "file": "whyEye.org/whyEye.org final cut versions/yiA1__domino (version).avs",
+            "size": 5812,
+            "checksum": "sha256:b5e45cfc0c317f886a59ff430001bc969c81ca728cfa56079c2c675402c96a9a"
+        },
+        {
+            "file": "whyEye.org/whyEye.org final cut versions/yiA2__vertigo (version).avs",
+            "size": 3159,
+            "checksum": "sha256:c08c62935de4e4f98f324c6e8bc0e373764b9f997b51eda7bfaa5e9839d4af50"
+        },
+        {
+            "file": "whyEye.org/whyEye.org final cut versions/yiB1__modular (version).avs",
+            "size": 4122,
+            "checksum": "sha256:7dbbb624127f4c3ae5004462aefae58764466b8f5c2dff106f924e57607ea2c7"
+        },
+        {
+            "file": "whyEye.org/whyEye.org final cut versions/yiB2__pillow fight (re-feathered version).avs",
+            "size": 7173,
+            "checksum": "sha256:5d2b9c6503d86f61be8a15f8f16c757d5aad9df4a0e4bfc9fb15fdb704470480"
+        }
+    ],
+    "assets": [
+        {
+            "file": "avsres_texer_square_sharp_36x36.bmp",
+            "size": 2368,
+            "checksum": "sha256:074dfa0fadbfff9e8446e54e6806d7ce53c15cab1c9c2ea1510e1aaca89d5e87"
+        },
+        {
+            "file": "avsres_texer_square_sharp_48x48.bmp",
+            "size": 3200,
+            "checksum": "sha256:bb4e9f6f084e61e1c72e04fcc947d368cc0bae71c96172d2eac64656c486d70a"
+        },
+        {
+            "file": "avsres_texer_square_sharp_60x60.bmp",
+            "size": 4688,
+            "checksum": "sha256:1f04b10b325c77f7a2520dc7da8e4b80f10184df129ccb1600a88e8a8b83c3dc"
+        },
+        {
+            "file": "avsres_texer_square_sharp_72x72.bmp",
+            "size": 7120,
+            "checksum": "sha256:b75c8f2e291fcf254aa02e53148c50e7f7bbf228cdca6d86ae89d37c69ed3826"
+        },
+        {
+            "file": "avsres_texer_square_sharp_90x90.bmp",
+            "size": 10672,
+            "checksum": "sha256:62692c667dc8030a152035eacbd53e4d5ecb312636fbc67ee293ee969c102045"
+        },
+        {
+            "file": "avsres_texer_square_sharp_96x96.bmp",
+            "size": 12608,
+            "checksum": "sha256:d6de9a6d0f47a1864cfc7ada89bcdf7f09924264db301466baaef861260036b3"
+        }
+    ],
+    "plugins": [
+        "BufferBlend",
+        "ColorMap",
+        "Multiplier",
+        "Texer",
+        "VideoDelay"
+    ]
+}

@@ -1,0 +1,336 @@
+{
+    "name": "RX . sight - difference",
+    "id": "VB134-1",
+    "presets": [
+        {
+            "file": "frames.of.reality/RX . sight - difference/000 . intro.avs",
+            "size": 8559,
+            "checksum": "sha256:b2ff95d36e727dee26cd5d71c9a3f6944db01777b5991b28974c97fdc915673c"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/A01 . divisions (yathosho's dhutty mf).avs",
+            "size": 3762,
+            "checksum": "sha256:be207891d25432af7d30e58272517c7301ef06baeee93c7a3a06ef516e4d14ff"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/A02 . deerwalk (JjcL237 Remix).avs",
+            "size": 2518,
+            "checksum": "sha256:bc42f5cda46f00692cfb95cf1f33dfb050a4025300c1e63de07d8816895ef1da"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/A03 . gydnia (mitozyn remix).avs",
+            "size": 5179,
+            "checksum": "sha256:c28925c6db85c439b108602658898ad2ec0ee67ae47bfa03d4f3220f978df83f"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/A04 . tackternaom aa.avs",
+            "size": 3632,
+            "checksum": "sha256:46fb019f0413ed78f93595afd375f16bd6e085db071ec60a26b1c173fdf6a2ed"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/A05 . jewelry of inhuman lifeforms (v-clot remix).avs",
+            "size": 4845,
+            "checksum": "sha256:e6599a7f02c7fd88f255c8a9dc1864e5fe0cfded64e2a57143cb58a7ab2fb18e"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/A06 .  newspaper blue.avs",
+            "size": 3689,
+            "checksum": "sha256:61e6525451a7f2246f92c6e062a592a4fd2337c5c35b9ee50389306499549664"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/A07 . asfgs (dynamic duo's moskau remix).avs",
+            "size": 5680,
+            "checksum": "sha256:8ab86d1088543c83e43e39f014726028f1e897a80eb4f1cafeb0ba12dd7cc738"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/A08 . intro (yathosho's gif2give lo mix).avs",
+            "size": 4243,
+            "checksum": "sha256:bc554755ce430843ae907945ba1c377a69a82359f34219f2c2084354575c5907"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/A09 . qviex alt.avs",
+            "size": 2281,
+            "checksum": "sha256:c322e9cb8c3e46c2864ac2840ac7280be202c8be3a618601c58b02e86ba349af"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/A10 . intoy as alt.avs",
+            "size": 3567,
+            "checksum": "sha256:ec30754b85f2f1e382aeb637d7e819478fd3450a7285095f4a3b33afa04a54ca"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/A11 . picasso deluxe (grandchild's x-ray gallery).avs",
+            "size": 4819,
+            "checksum": "sha256:8dc8ed9c50635199c525ad7747a28a958df0c30b97308bf0be236518f7f3ff01"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/A12 . divisions (yathosho's rusty springfields mix).avs",
+            "size": 4044,
+            "checksum": "sha256:f97ce8220e3fa7719d399c0d02631c9cd3b4cdd5eb6128ba0ab6f4b80825b06f"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/A13 . s05 intro (autobot remix by pak-9).avs",
+            "size": 7528,
+            "checksum": "sha256:ccc12bad3c9c058d1c5c7d622909e550daf11869306c22a29a9137d9997dff90"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/A14 . biomass (ya-tho-sho treatment #1).avs",
+            "size": 4741,
+            "checksum": "sha256:54a89701cb782effbb9ea95f9ed40457d000b4729dba8494cd4ae3f1e649a00c"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/A15 . jewelry (hboy's main mix).avs",
+            "size": 3199,
+            "checksum": "sha256:e9b5ce1d3c51f8999ae52293502ac9d6c51f476c57bf80dfca40de92487d8ddb"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/A16 . divisions (dirty urban remix by PAK-9).avs",
+            "size": 3798,
+            "checksum": "sha256:21cdf6e483c94a2dbf1159f3e001a3052a689006da23ef8b57ce288b791696b5"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/A17 . shylent vs. frames - cheap jewelry ii.avs",
+            "size": 3445,
+            "checksum": "sha256:99ebba345c6e1f0a9db7d6a1039df070d931706f3e362bf2c81fa66b9c405768"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/A18 . evvax (love is just a slower form of visbot version).avs",
+            "size": 4868,
+            "checksum": "sha256:871f5bb5f4ab7340e88bf64f8d91363c48f99510fc5537d9f726ec9a9d36ab4f"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/A19 . verkia v6.avs",
+            "size": 3810,
+            "checksum": "sha256:a3b96141f7c1911829dad556197217ebea0eba5395b755558f1e0f2bf13f8e8f"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/A20 . deep inside the eyes of the furniture (ASD5As fading my ink mix).avs",
+            "size": 3088,
+            "checksum": "sha256:0442379abc329a2ec0a73db270c033090e744be30c369fb5537976d1260cf509"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/B01 . dsfs . vonite.avs",
+            "size": 3665,
+            "checksum": "sha256:ab952d5ee37b7b58fb32e1c3bfd53c730f49536dd0072581149f48e39301e1d0"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/B02 . victor fl . dyn phaze.avs",
+            "size": 9405,
+            "checksum": "sha256:3a07b76123979e19d32f9ea16f87d326198e1d178bf7796c296c1b25b6759b73"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/B03 . hboy - evasion molten.avs",
+            "size": 4817,
+            "checksum": "sha256:75bb72149177cb9c6d26ace3a447763db5ecf41abf7e775c03cffb678234b182"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/B04 . a3 - fuck back.avs",
+            "size": 2703,
+            "checksum": "sha256:e6435dcd4b51315d56a935077fed726d903ca8bee9bd9feafb69f73c9c8787d9"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/B05 . drew . cycled peas.avs",
+            "size": 4852,
+            "checksum": "sha256:e066f72da3e8f0b813a9e8ec7b5b0f305cdaededdbf30fbc4efadb007cfda575"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/B06 . duo . alien trickery II.avs",
+            "size": 4880,
+            "checksum": "sha256:b108464cd1349749b36ee857de5b9f0ee9b005901d97e5120876a3a192b6f20f"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/B07 . degnic . fyru.avs",
+            "size": 5242,
+            "checksum": "sha256:4f7fb9bc884f1024b22c54c999281c160e4e455b452423e4603e586bdd890898"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/B08 . PAK-9 . disturbed II.avs",
+            "size": 4072,
+            "checksum": "sha256:49717039891b13d22997bfe2ca16ffac012e60295c45757a57df003ae0612c08"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/B09 . jheriko . dirt shape.avs",
+            "size": 5965,
+            "checksum": "sha256:7192094dcdfdd699c29a21b0019d8ef73371f40dd7dac578c468950e77d3fcfe"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/B10 . pak9 vs mysterious w . archaic highway.avs",
+            "size": 7339,
+            "checksum": "sha256:2f8756c0cac60b8a133fc03974bd434cb33cbace7f6c1d3876d3f6df0fc7bd7b"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/B11 . degnic vs skupers . rainbowdrops.avs",
+            "size": 4569,
+            "checksum": "sha256:183526b5bc3fe11130c2d57bc491a058c7a263c186e49bd169550bce7787e081"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/B12 . yathosho . redesign from scratch.avs",
+            "size": 4326,
+            "checksum": "sha256:3c503cae2744ee9a1734d7a08ff3e4987d1f2ca61f21e9909e504578fb76b511"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/B13 . m-e . hug hug.avs",
+            "size": 4032,
+            "checksum": "sha256:4c58de19ecb4696323911d2e3d26d09e157defb83d162ab1512249fca6116e14"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/B14 . zamuz . you fill my heart with strong deep emotions.avs",
+            "size": 4395,
+            "checksum": "sha256:20d26044ca6e4c1e429745ff7e2890a781c79162200405c5c8235931b452a69a"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/B15 . jjcl . ridezorz teh spirrow.avs",
+            "size": 4689,
+            "checksum": "sha256:9ff6a0159aa9d12c4706a944d57226876689150a52c4f92e8c01c3ed9d2cd2cb"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/B16 . asd5a . king of teh avs (chatroom it is).avs",
+            "size": 4718,
+            "checksum": "sha256:1adcc5c9ebcb957f24775eb6646f12b7b105958741cafdf9c97b7ce845604e6f"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/B17 . pak-9 . luv juh.avs",
+            "size": 4562,
+            "checksum": "sha256:f0368d9186ec7c391196289131f620e28e12ae3da8bb8b497703e9051e1a62dc"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/B18 . nemo - euphoria smokes (oops my fishtank is on fire remix).avs",
+            "size": 5743,
+            "checksum": "sha256:965e6e9b8003449eeefca10b9ed67a8a2f7d29c1cbdd80222b92a1766d326b7b"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/B19 . shylent . minute made.avs",
+            "size": 3169,
+            "checksum": "sha256:0cd49690af6f3c329bc6e174354bdc034d7b76df256b9e04148e0ae178453e1f"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/B20 . drew . backfrontback.avs",
+            "size": 3756,
+            "checksum": "sha256:ef78d726f5c6a51d2b0875d3e441c5d1396d0b3df7f9ceefb4af368398d7350f"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/B21 . UL . the rings are tired.avs",
+            "size": 4866,
+            "checksum": "sha256:2c19898c1b8c96e9e2b78c3df9b107e4bd3dee58932ac55e71d5ac6974dd7fcd"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/B22 . yathosho . me luv juh long time suksuky five dollar.avs",
+            "size": 3362,
+            "checksum": "sha256:cf560b1453b3883e90a7ca437c0fc7b2c9df40deab90b3c2c05e38ee87c0f29f"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/B23 . amphirion . egotrip.avs",
+            "size": 8420,
+            "checksum": "sha256:d52322adf241c4232d90c6e30c0e8e746d36680497a078537de6a770480f5e6d"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/B24 . skupers . comedown.avs",
+            "size": 8764,
+            "checksum": "sha256:4682f990946c5e91700f1b27bddba3ee8de511774d8d0cbeecc8b78455d1c3fc"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/B25 . mr nudge . triumflow.avs",
+            "size": 2645,
+            "checksum": "sha256:79086e80eaaf18b5d02b4ddb140c4c2f4ad086ebadca74e8e3ea7192e9103f86"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/B26 . vanish . lightmate.avs",
+            "size": 4051,
+            "checksum": "sha256:2d074416af57abbba3d3ac1c52e02346ff9526d70936748629810787e207fee3"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/B27 . jjcl . dead.avs",
+            "size": 4504,
+            "checksum": "sha256:10efbaed5fc50422e7a53d5478534d73e398a4ff5658c7b1165dfb8482991d68"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/B28 . fragmer - iodine (extended).avs",
+            "size": 2269,
+            "checksum": "sha256:c57b1f8604036b0b04d353578bac68bc3d09ed0abfb180a6d3ec0499ed59a900"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/B29 . wotl . ascending cows.avs",
+            "size": 2982,
+            "checksum": "sha256:97155a0da45110d7bb8ce66177a2347231d735073afbd2ee8d1e0648e4fe2ae3"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/B30 . avs-king . aeth.avs",
+            "size": 3875,
+            "checksum": "sha256:9cc6366c9ea0e548fd5d904919bf4965a3d2547801b339b585469e5f8d79ffd8"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/C01 .the diamond sea.avs",
+            "size": 2927,
+            "checksum": "sha256:8198bc41e596f4964cdbc8af8fb45ad12eca5f15da838c645ca204e6a81b4462"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/C02 . fuckoffplastic.avs",
+            "size": 1441,
+            "checksum": "sha256:0714db3a40aebce49b971bbaec327458d852573f50e782e1c5c1556f6ca56c82"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/C03 . squai.avs",
+            "size": 3541,
+            "checksum": "sha256:7524c566bd994d798c783693f75f773b95b9d577ff5b43415817870bf9af2029"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/C04 . purrlep.avs",
+            "size": 4743,
+            "checksum": "sha256:a882adfe024e8c86418fedf581d551e73bb790bbc3a8faf924bd81143c09aeef"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/C05 . nice.avs",
+            "size": 2623,
+            "checksum": "sha256:2e10299701bc6c2a682e917843c688c07dab44c747231d75bef784b11d084174"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/C06 . cinematik orkestar.avs",
+            "size": 4012,
+            "checksum": "sha256:bdbc4ee7930cef19e466a25c46a9fbe951d7a87feaa98a762f66763a64fbcf83"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/C07 . blutlamp.avs",
+            "size": 4598,
+            "checksum": "sha256:43c70413271a65a163ca79367cc816d7cd9a81c8eb7715c64c6b4a779f74dc2d"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/C08 . xcybs.avs",
+            "size": 3760,
+            "checksum": "sha256:b57d8fcd3dac501e9be8decc63f0340f7fcbbcfa260aa353dc717495c4dfc1a8"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/C09 . ubik.avs",
+            "size": 2192,
+            "checksum": "sha256:ee9ee2fb97b961474f0f07937f60861776a031e4c7517ce9e53a6ef0ac65fcef"
+        },
+        {
+            "file": "frames.of.reality/RX . sight - difference/C10 . fuck you dude i'm going home.avs",
+            "size": 2841,
+            "checksum": "sha256:bb8c9c00cdc228c2cd339a7a44c7f493a51b6e993508c5a29337d95d0a67ff11"
+        }
+    ],
+    "assets": [
+        {
+            "file": "flow3.0-2.bmp",
+            "size": 7478,
+            "checksum": "sha256:9a104de04020f289c3229be7700a54ef66ad2bf4108bb2500137d32c40dc85b2"
+        },
+        {
+            "file": "P9_Tx_1.bmp",
+            "size": 3730,
+            "checksum": "sha256:162a4a41761a76c96bca6ae15c420d9c5553c74e78fb4ea1abc738fb64606397"
+        },
+        {
+            "file": "vb2.bmp",
+            "size": 145254,
+            "checksum": "sha256:d35fea78b8e9b0080b4a143e5fee0c1c305d66ff8d53070b692906d063da4374"
+        }
+    ],
+    "plugins": [
+        "AddBorder",
+        "BufferBlend",
+        "ConvolutionFilter",
+        "GlobalVarMan",
+        "Picture2",
+        "Triangle"
+    ]
+}

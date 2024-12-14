@@ -1,0 +1,106 @@
+{
+    "name": "The Y Element",
+    "id": "VB002",
+    "presets": [
+        {
+            "file": "S_KuPeRS/sk-the_y_element/sk00 - introx.avs",
+            "size": 1406,
+            "checksum": "sha256:543027055cd17bad58a9baf0501669cfca18b955ed6961d152ccfb11ad7da511"
+        },
+        {
+            "file": "S_KuPeRS/sk-the_y_element/skA1 - graphite.avs",
+            "size": 1128,
+            "checksum": "sha256:6809efe13dd5addb3cfd7d0d0e3e305e514525fd34b25da294067c5c150c3bdf"
+        },
+        {
+            "file": "S_KuPeRS/sk-the_y_element/skA2 - matmossx.avs",
+            "size": 1513,
+            "checksum": "sha256:6439a2104049b87a12052f339839f057a7957d3210b20a0a67bb6ff3366049f4"
+        },
+        {
+            "file": "S_KuPeRS/sk-the_y_element/skA3 - xorange.avs",
+            "size": 1479,
+            "checksum": "sha256:ce0a61e11f23ac3c8369626b5d03e534d826e16a351d3be82e9bf671ab662c56"
+        },
+        {
+            "file": "S_KuPeRS/sk-the_y_element/skA4 - tensionx.avs",
+            "size": 551,
+            "checksum": "sha256:ce4f4c43a214dc8b5a250419db8e0fbf7a71cf1b50cae30376283e985e6144d6"
+        },
+        {
+            "file": "S_KuPeRS/sk-the_y_element/skB1 - graphiterx.avs",
+            "size": 1106,
+            "checksum": "sha256:122e378bc9aea2b76edfb9de74fef013ffdcf19d2211528a5f09bac69ff85f44"
+        },
+        {
+            "file": "S_KuPeRS/sk-the_y_element/skB2 - radiumsx.avs",
+            "size": 818,
+            "checksum": "sha256:08c97eff48bded254ea90f55fd456f42e0a1fce5b053e07887b875b460d18ff3"
+        },
+        {
+            "file": "S_KuPeRS/sk-the_y_element/skB3 - knitting.avs",
+            "size": 1384,
+            "checksum": "sha256:c8556a91f136c0e6b241fefd1de040d817f26a9a47adc2a1ae7e24e55fb50a87"
+        },
+        {
+            "file": "S_KuPeRS/sk-the_y_element/skB4 - tendrilx.avs",
+            "size": 845,
+            "checksum": "sha256:a7d5b654675eeb95bca162f6ee24927f2a745e594cde6bd29a013414867af06e"
+        },
+        {
+            "file": "S_KuPeRS/sk-the_y_element/skC1 - usarx.avs",
+            "size": 991,
+            "checksum": "sha256:674d8ee52ca7f7ae4fee948afb5b9bbb8be09c0e0a21440afda6d1d14ffedcb2"
+        },
+        {
+            "file": "S_KuPeRS/sk-the_y_element/skC2 - euphorian.avs",
+            "size": 1037,
+            "checksum": "sha256:de0ef9e20e0a74d3df49279fd4bf84882353d2cd01a01a7eeb167e333f2aed4a"
+        },
+        {
+            "file": "S_KuPeRS/sk-the_y_element/skC3 - mind the mind.avs",
+            "size": 810,
+            "checksum": "sha256:ad936e3207e651243dc42c07b34279fa181b5ee3636ceec64d23aa7dca87f87f"
+        },
+        {
+            "file": "S_KuPeRS/sk-the_y_element/skC4 - txorx.avs",
+            "size": 599,
+            "checksum": "sha256:a6dfc8133866ce012b8790671bade75bff74a661d1aac226d24940a42699e8a4"
+        },
+        {
+            "file": "S_KuPeRS/sk-the_y_element/skD1 - tequilax.avs",
+            "size": 892,
+            "checksum": "sha256:246bd3ec50b6801f89fc9c24fd1ebed6fc8e028e4cdc852f1d09e42ecc22abd8"
+        },
+        {
+            "file": "S_KuPeRS/sk-the_y_element/skD2 - xxexx.avs",
+            "size": 1356,
+            "checksum": "sha256:bc076de01f27a7915d868f6c4dffa73f9b05a1dbd107656c7dc981463dfceb9c"
+        },
+        {
+            "file": "S_KuPeRS/sk-the_y_element/skD3 - txorrx.avs",
+            "size": 873,
+            "checksum": "sha256:8aca7983cae9003ae5db81b57ef199f31bb087effcf0270d158ee4c4b9264815"
+        },
+        {
+            "file": "S_KuPeRS/sk-the_y_element/skD4 - lux eternarx.avs",
+            "size": 1711,
+            "checksum": "sha256:bdd585937806ed27951ee00dbd7a47036fcbd43c59f0b9e79bf41c2d63bb036d"
+        }
+    ],
+    "assets": [
+        {
+            "file": "skupers_lp6_01.bmp",
+            "size": 776,
+            "checksum": "sha256:27bdda462dfec5cea6f702611fdc5df24255ae076c64fd214544b75561771339"
+        },
+        {
+            "file": "skupers_lp6_02.bmp",
+            "size": 10856,
+            "checksum": "sha256:aaeb13486d7082c888a556012a3ea574dc4c651b01510ae9722a1ce184f8fd03"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

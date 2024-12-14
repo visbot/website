@@ -1,0 +1,29 @@
+{
+    "name": "whyEye.org since when 2",
+    "id": "VB111",
+    "presets": [
+        {
+            "file": "whyEye.org/whyEye.org since when 2/yiA1 zamuz - rainbowish (yathosho's all lemonades mix).avs",
+            "size": 3069,
+            "checksum": "sha256:c900fcc04eb280369b5188cc755155b8443032356232eb71f2f105240cac2b61"
+        },
+        {
+            "file": "whyEye.org/whyEye.org since when 2/yiA2 yathosho - mobilee (les Noobiens rework).avs",
+            "size": 2615,
+            "checksum": "sha256:b7fceee08525e89282a135a685c4db7e575271cf68036f54e70cbb4fb6765468"
+        },
+        {
+            "file": "whyEye.org/whyEye.org since when 2/yiB1 yathosho - mobilee (da naughty's re-rub).avs",
+            "size": 2881,
+            "checksum": "sha256:267a05d8f42c68c346d8adc662bda35eea4f11a570ca6bec71cc664b438e80fb"
+        },
+        {
+            "file": "whyEye.org/whyEye.org since when 2/yiB2 shylent - restless ribbon (yathosho's re-fusion edit).avs",
+            "size": 3575,
+            "checksum": "sha256:17873f1047d3755cc377d04807e8e240e2b187d4a064cc5cd54290ae57ababdb"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

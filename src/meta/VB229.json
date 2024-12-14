@@ -1,0 +1,74 @@
+{
+    "name": "whyEye.org pillow fight e.p.",
+    "id": "VB229",
+    "presets": [
+        {
+            "file": "whyEye.org/whyEye.org pillow fight ep/yiA1 yathosho - pillow fight (original version).avs",
+            "size": 6642,
+            "checksum": "sha256:b19c2010d60fa34a5519a7eb9eb39d97fe300823361be66cc8c4144b2c698097"
+        },
+        {
+            "file": "whyEye.org/whyEye.org pillow fight ep/yiA2 yathosho - pillow fight (re-feathered).avs",
+            "size": 7165,
+            "checksum": "sha256:d57885fe5a9c09d046a6a398f6f1a9d566f810f60b47196200b74bd903bcd1d2"
+        },
+        {
+            "file": "whyEye.org/whyEye.org pillow fight ep/yiB1 yathosho - pillow fight (cirkomix by micro.d).avs",
+            "size": 8591,
+            "checksum": "sha256:224c7dcf072224bd2802b3065cc5daeaf95044bb0615431f68edb56d90131d70"
+        }
+    ],
+    "assets": [
+        {
+            "file": "avsres_texer_circle_heavyblur_29x29.bmp",
+            "size": 2606,
+            "checksum": "sha256:f774cf10d56275d629f321163dbc610fee02b0e892c9065b0931564240bf078d"
+        },
+        {
+            "file": "avsres_texer_square_edgeonly_24x24.bmp",
+            "size": 1782,
+            "checksum": "sha256:c46bd796cd80b6c512df4db6db3ea6c7804656ea263152ce61a72a46b0ca2b77"
+        },
+        {
+            "file": "avsres_texer_square_edgeonly_30x30.bmp",
+            "size": 2814,
+            "checksum": "sha256:de1666bdc88de12db1398b001bb8c5402daabd611cb6efabf4ff12e7516ee4ce"
+        },
+        {
+            "file": "avsres_texer_square_sharp_32x32.bmp",
+            "size": 1664,
+            "checksum": "sha256:c58bd222c6e3acdf02a3ac553ea0da340f7c29c24c7a73cb2196af1085dce866"
+        },
+        {
+            "file": "avsres_texer_square_sharp_48x48.bmp",
+            "size": 3200,
+            "checksum": "sha256:bb4e9f6f084e61e1c72e04fcc947d368cc0bae71c96172d2eac64656c486d70a"
+        },
+        {
+            "file": "avsres_texer_square_sharp_60x60.bmp",
+            "size": 4688,
+            "checksum": "sha256:1f04b10b325c77f7a2520dc7da8e4b80f10184df129ccb1600a88e8a8b83c3dc"
+        },
+        {
+            "file": "avsres_texer_square_sharp_64x64.bmp",
+            "size": 6464,
+            "checksum": "sha256:6f7e3fe92089100c02821a23e06a4ec9e683c40400b0aa6fc55629d2388d0808"
+        },
+        {
+            "file": "avsres_texer_square_sharp_72x72.bmp",
+            "size": 7120,
+            "checksum": "sha256:b75c8f2e291fcf254aa02e53148c50e7f7bbf228cdca6d86ae89d37c69ed3826"
+        },
+        {
+            "file": "avsres_texer_square_sharp_96x96.bmp",
+            "size": 12608,
+            "checksum": "sha256:d6de9a6d0f47a1864cfc7ada89bcdf7f09924264db301466baaef861260036b3"
+        }
+    ],
+    "plugins": [
+        "ColorMap",
+        "Texer2",
+        "TransAuto",
+        "VideoDelay"
+    ]
+}

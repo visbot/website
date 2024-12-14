@@ -1,0 +1,31 @@
+{
+    "name": "whyEye.org it2 sampler",
+    "id": "VB120-1",
+    "presets": [
+        {
+            "file": "whyEye.org/whyEye.org it2 sampler/yiA1 amphirion - abstractica part deux (ya-tho-sho edit).avs",
+            "size": 3663,
+            "checksum": "sha256:6192434e3a3722d1aaa24ca2a59b3c0d47bd6ee81d6b973bc681c91cf7891d7e"
+        },
+        {
+            "file": "whyEye.org/whyEye.org it2 sampler/yiA2 unconed - going up-down (ya-tho-sho edit).avs",
+            "size": 2663,
+            "checksum": "sha256:6bcdfd061a4343b1a0d23bec74a27dc11ac457ca9d51b7daa3a90241b9404e9c"
+        },
+        {
+            "file": "whyEye.org/whyEye.org it2 sampler/yiB1 amphirion - necromancer's pot (ya-tho-sho treatment).avs",
+            "size": 3667,
+            "checksum": "sha256:1f9df0f2a83e4a9c245c01bd704aed8e07867a696124398a88d9f0a27763409d"
+        }
+    ],
+    "assets": [
+        {
+            "file": "amphi v 2.0.bmp",
+            "size": 7656,
+            "checksum": "sha256:bccd8118c58b7ee479082080a1bed41864047dd68a1106a53b1a965fc645e206"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "name": "DDxo6",
+    "id": "VB166",
+    "presets": [
+        {
+            "file": "Dynamic Duo/DDxo6/ddA1__tentaclism (smell my tentacle armpits edit #3 by wotl).avs",
+            "size": 3178,
+            "checksum": "sha256:903d5f31acb6c8f848a1f08367469a760ad4c3e6e0e91a60930a582269c746c9"
+        },
+        {
+            "file": "Dynamic Duo/DDxo6/ddA2__contraction (detach action mix by frames-of-reality).avs",
+            "size": 3268,
+            "checksum": "sha256:072f60ac95b04b7ac7f226c4da53eaeb94d80e2fec93e1e2349a672c556e4d4a"
+        },
+        {
+            "file": "Dynamic Duo/DDxo6/ddB1__flickermood (3rd eye landslide mix by frames-of-reality).avs",
+            "size": 7973,
+            "checksum": "sha256:0d9da9ba2ecaa7e686defa95079c68c1d071245ce63f5a6ff7ae163d5eb977e2"
+        },
+        {
+            "file": "Dynamic Duo/DDxo6/ddB2__tentaclism (smell my tentacle armpits edit #2 by wotl).avs",
+            "size": 3163,
+            "checksum": "sha256:ea482c224fd7412edecba357d49e49f5799029bc8b77a830e9f4400d4f31ebaa"
+        }
+    ],
+    "plugins": [
+        "AddBorder",
+        "ConvolutionFilter"
+    ]
+}

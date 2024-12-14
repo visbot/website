@@ -1,0 +1,30 @@
+{
+    "name": "les Noobiens the internoob",
+    "id": "VB098",
+    "presets": [
+        {
+            "file": "les Noobiens/les Noobiens the internoob/lNa1 nemo & dasnoob - dissipate (les Noobiens rework).avs",
+            "size": 2529,
+            "checksum": "sha256:7b278da77d1176707bfbc27e702cf8da84983fded398c6c2c1a56550a69e0c7d"
+        },
+        {
+            "file": "les Noobiens/les Noobiens the internoob/lNa2 danaughty1 - da-naughty-loose (les Noobiens rework).avs",
+            "size": 1631,
+            "checksum": "sha256:3f685d299be8845701a5f00466f895d0c29e998a4ebadf9a7ea97dbbb2726100"
+        },
+        {
+            "file": "les Noobiens/les Noobiens the internoob/lNb1 les Noobiens - please wait.avs",
+            "size": 1903,
+            "checksum": "sha256:69a13a5ee5bf95e7f29ee61beff8ac9c625b345459e241bb624e963b3cc6141b"
+        },
+        {
+            "file": "les Noobiens/les Noobiens the internoob/lNb2 les Noobiens - jitterbug (re-edit).avs",
+            "size": 1681,
+            "checksum": "sha256:29855aa7c55b4c30dc9955a4f651c0cb943d2beca120c7cea9aeab96e8843c90"
+        }
+    ],
+    "plugins": [
+        "AddBorder",
+        "ConvolutionFilter"
+    ]
+}

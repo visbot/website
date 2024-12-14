@@ -1,0 +1,29 @@
+{
+    "name": "whyEye.org since then 4",
+    "id": "VB004",
+    "presets": [
+        {
+            "file": "whyEye.org/whyEye.org since then 4/yiA1__verywikiwiki.avs",
+            "size": 2194,
+            "checksum": "sha256:01412a7bd389abe9e7210b449ca3226ffb1428c69fb9647e8870c103efa668bf"
+        },
+        {
+            "file": "whyEye.org/whyEye.org since then 4/yiA2__erdbeer_(reissue).avs",
+            "size": 968,
+            "checksum": "sha256:58688a28baf682e69937af4deb93b30bb9da3cd6b98f2f073a8e4d31a0fe2863"
+        },
+        {
+            "file": "whyEye.org/whyEye.org since then 4/yiB1__konstrukt.avs",
+            "size": 1123,
+            "checksum": "sha256:3ca5da9db8fc412a15fe12cc1a2dd893a4862044d9983cd9dd44b47372b2a9b9"
+        },
+        {
+            "file": "whyEye.org/whyEye.org since then 4/yiB2__glibnitz_(early_version).avs",
+            "size": 1799,
+            "checksum": "sha256:1c64562e8a7d94590a53b99888a7fa75a2c46de1546fcb2932ad5c2fce2edcd9"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

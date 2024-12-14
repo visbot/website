@@ -1,0 +1,32 @@
+{
+    "name": "CO-OP Session 13",
+    "id": "VB177",
+    "presets": [
+        {
+            "file": "CO-OP Sessions/CO-OP Session 13/a1 dynamic duo - best foot forward.avs",
+            "size": 9433,
+            "checksum": "sha256:176096a1e3d208a233971727a9d7ef7732e24dce23d84981205b7914ed05fdf2"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 13/a2 onionring of doom - my feet go backwards.avs",
+            "size": 10749,
+            "checksum": "sha256:2126810b6aff638eb48721e0e22461d8efabbd4cc8f0bfb7ebbb174ee04d739c"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 13/b1 onionring of doom - left, right, up, down.avs",
+            "size": 9189,
+            "checksum": "sha256:628a752ce5eb5831176c81b59ca05951134dda8415f047a67eb5f3afcc5cc793"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 13/b2 dynamic duo - upside down (around and round).avs",
+            "size": 9735,
+            "checksum": "sha256:d6bce4b8fb0ce7bd1fb3a53217a95a6a13fa829630271c4a51003c0d51c2c313"
+        }
+    ],
+    "plugins": [
+        "BufferBlend",
+        "ConvolutionFilter",
+        "GlobalVarMan",
+        "Triangle"
+    ]
+}

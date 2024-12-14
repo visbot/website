@@ -1,0 +1,24 @@
+{
+    "name": "whyEye.org sokoban e.p.",
+    "id": "VB137",
+    "presets": [
+        {
+            "file": "whyEye.org/whyEye.org sokoban ep/yiA1 yathosho - sokoban.avs",
+            "size": 2364,
+            "checksum": "sha256:3a36645a70682dfbec6e6dda75d2d903abc18ea20714152e761c1f8c49887e75"
+        },
+        {
+            "file": "whyEye.org/whyEye.org sokoban ep/yiA2 yathosho - sokoban (edit).avs",
+            "size": 2103,
+            "checksum": "sha256:2a7e5e08d56a7a9908236a89d257a552bf9167ce54a71508f5c51c2f42b70fe8"
+        },
+        {
+            "file": "whyEye.org/whyEye.org sokoban ep/yiB1 yathosho - sokoban (les Noobiens extension).avs",
+            "size": 2756,
+            "checksum": "sha256:2b39bc3fe3eb31b027e6c763862e4bd5cb1a84af95f04e54170e662183455ffc"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

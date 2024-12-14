@@ -1,0 +1,30 @@
+{
+    "name": "VISBOT Refocused Part 2",
+    "id": "VB117-2",
+    "presets": [
+        {
+            "file": "VISBOT/VISBOT Refocused/c1 avs-king - fill my head with color (zamuz's splat work remix).avs",
+            "size": 5427,
+            "checksum": "sha256:2369f0c8a35fb1a1dc8465c6266c2b76821d95aeb0a873965f1258279a807857"
+        },
+        {
+            "file": "VISBOT/VISBOT Refocused/c2 avs-king - deuterion (turnstile blues remix by frames).avs",
+            "size": 6467,
+            "checksum": "sha256:c6bd87f721115faedcc6fbf3491b821a7c17b7c6fa87c9d2326e818a4b97e285"
+        },
+        {
+            "file": "VISBOT/VISBOT Refocused/d1 avs-king - quantum (quantumbiology by hboy).avs",
+            "size": 4125,
+            "checksum": "sha256:13c967d692d3c3ac3f92edf433ca5de4706d2757b74c0929250d1c59624ef13d"
+        },
+        {
+            "file": "VISBOT/VISBOT Refocused/d2 avs-king - jellyfish (nemo mix).avs",
+            "size": 2681,
+            "checksum": "sha256:b554e8ad28c17495ea65c60c7d55add0e12e780b69c7d9924878fceb36962918"
+        }
+    ],
+    "plugins": [
+        "BufferBlend",
+        "ConvolutionFilter"
+    ]
+}

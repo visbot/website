@@ -1,0 +1,30 @@
+{
+    "name": "CO-OP Session 06",
+    "id": "VB075",
+    "presets": [
+        {
+            "file": "CO-OP Sessions/CO-OP Session 06/a1 nemoorange - sputnik homeland.avs",
+            "size": 4133,
+            "checksum": "sha256:68f104c8f3fda088bd2f8a34f10dbc8c074cadcfb13b1740123686ac47b7a31a"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 06/a2 unripe lemon - sputnik destination.avs",
+            "size": 4639,
+            "checksum": "sha256:ccbf6d625624de0840be442a672620207d41ead938fe8d5db210e6e909789c17"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 06/b1 unripe lemon - rotor.avs",
+            "size": 3003,
+            "checksum": "sha256:bb8497322d896575d5df01eadb10c17b6ed29bd5ecc4e855900814c3b76e4426"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 06/b2 nemoorange - r0t0r m0t0r.avs",
+            "size": 44966,
+            "checksum": "sha256:3a4560eea0d4ab0b8a5730c7beac058be4046ffc5fe8826615d1b1a7bcb8984b"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter",
+        "GlobalVarMan"
+    ]
+}

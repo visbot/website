@@ -1,0 +1,40 @@
+{
+    "name": "whyEye.org the grit escape",
+    "id": "VB141",
+    "presets": [
+        {
+            "file": "whyEye.org/whyEye.org the grit escape ep/yiA1 2phuture (dub #2).avs",
+            "size": 3949,
+            "checksum": "sha256:84aab5b870500722d243c385c443116beb377b5df67a84dfe78ddfdca9a7c38f"
+        },
+        {
+            "file": "whyEye.org/whyEye.org the grit escape ep/yiA2 son of ptaah (dub #1).avs",
+            "size": 5504,
+            "checksum": "sha256:a72bfee843b9f02974c74fcef5dff1893374da83477bb1597e6dddbbd287d41f"
+        },
+        {
+            "file": "whyEye.org/whyEye.org the grit escape ep/yiB1 son of ptaah (dub #3).avs",
+            "size": 3334,
+            "checksum": "sha256:05ddb99216780491fbf37ac7a84ef387c39614bf9c1e4fa227e5bbcb7b9c0e83"
+        },
+        {
+            "file": "whyEye.org/whyEye.org the grit escape ep/yiB2 lifecycles (dub #2).avs",
+            "size": 3800,
+            "checksum": "sha256:eec9a339ce331482c84db463c9b5a4d4c03f95134e6d7af73bf89d6dec19b4a2"
+        }
+    ],
+    "assets": [
+        {
+            "file": "yi-panton.bmp",
+            "size": 948,
+            "checksum": "sha256:1d4e158a5299389496afee41aece65f023f9483db8782b05252def9705d609f5"
+        }
+    ],
+    "plugins": [
+        "ColorMap",
+        "ColorReduction",
+        "ConvolutionFilter",
+        "Texer2",
+        "VideoDelay"
+    ]
+}

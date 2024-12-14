@@ -1,0 +1,29 @@
+{
+    "name": "sk-tidalpixel",
+    "id": "VB051",
+    "presets": [
+        {
+            "file": "S_KuPeRS/sk-tidalpixel/a - one - pixfu - pixel tidal.avs",
+            "size": 3489,
+            "checksum": "sha256:e06a8b4b35e1e8644a5b3b517a17249b6e2da300953447341a186d7d1feacb9f"
+        },
+        {
+            "file": "S_KuPeRS/sk-tidalpixel/a - two - pixfu - tidal tidal.avs",
+            "size": 2524,
+            "checksum": "sha256:dc19f09c05f7e0de3ebce8b80b72ca867848289257d55f0146a2d415d209cc18"
+        },
+        {
+            "file": "S_KuPeRS/sk-tidalpixel/b - one - pixfu - tidal pixel.avs",
+            "size": 1681,
+            "checksum": "sha256:8edf99c0d30049a979fc461d338bad6a200fb408ce0203ab64eba6f44c7147c6"
+        },
+        {
+            "file": "S_KuPeRS/sk-tidalpixel/b - two - pixfu - pixel pixel.avs",
+            "size": 2984,
+            "checksum": "sha256:3dac0485d1acff803473cd6a77c96c47f6f74b9ad07a91bcbe4b1b2eb209140c"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

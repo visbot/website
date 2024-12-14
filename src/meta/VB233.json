@@ -1,0 +1,1090 @@
+{
+    "name": "sEP . saller",
+    "id": "VB233",
+    "presets": [
+        {
+            "file": "frames.of.reality/sEP . saller/001. jheriko . stoned in front of the police.avs",
+            "size": 9102,
+            "checksum": "sha256:afb6157e135c2ae5da266c44e443f2c3818851277be696ebc5d5bb441d928946"
+        },
+        {
+            "file": "frames.of.reality/sEP . saller/002 . frames-of-reality vs yathosho . cup of butter (yathosho edit).avs",
+            "size": 3459,
+            "checksum": "sha256:24f36cb0f8fe839c0400eea71a00be3cb721dd580b12ea0b584e74db52df75cd"
+        },
+        {
+            "file": "frames.of.reality/sEP . saller/003 . dunakeszi.avs",
+            "size": 6816,
+            "checksum": "sha256:8dd69b82426e2db96aee4b4cd9ad75deb9fb632e64d153fe1497f6f7aeb0f4b0"
+        },
+        {
+            "file": "frames.of.reality/sEP . saller/004 . guitwo . butterfly reflect.avs",
+            "size": 4386,
+            "checksum": "sha256:df0347b5a81a03b7c4052838940c38d5b4b1e28e7d5388d37434e4313b596160"
+        },
+        {
+            "file": "frames.of.reality/sEP . saller/005 . mykal . quadro (dekonstrukt 2 remix by for).avs",
+            "size": 10351,
+            "checksum": "sha256:c491fb7fd16851c4c5d83511635248b8e21affb4a8a7b0fd4ccd5a3bade94553"
+        }
+    ],
+    "assets": [
+        {
+            "file": "avsres_texer_circle_edgeonly_11x11.bmp",
+            "size": 450,
+            "checksum": "sha256:d32fb95b8cdc8f8b9e0fa2f24c9f88d01a461cd611a0d240e0fa974e696ec1f1"
+        },
+        {
+            "file": "avsres_texer_circle_edgeonly_13x13.bmp",
+            "size": 574,
+            "checksum": "sha256:a27bce9ed985bb9635bda1c7e6daaea6766945b077f9ed15798743356d9f29a7"
+        },
+        {
+            "file": "avsres_texer_circle_edgeonly_15x15.bmp",
+            "size": 774,
+            "checksum": "sha256:4e797d0af19753125dc6712aca5598eff13f7b963e582f28fbfe1c41881cb7fb"
+        },
+        {
+            "file": "avsres_texer_circle_edgeonly_17x17.bmp",
+            "size": 938,
+            "checksum": "sha256:647422d3f0fc68a04e69422a6948b04e1ad6b4232fc29035ea074ba3c2b974e8"
+        },
+        {
+            "file": "avsres_texer_circle_edgeonly_19x19.bmp",
+            "size": 1194,
+            "checksum": "sha256:441d44f2343f2d47275b4203d427162c97439948cd96a50472c36f7e5e1b7b2b"
+        },
+        {
+            "file": "avsres_texer_circle_edgeonly_21x21.bmp",
+            "size": 1398,
+            "checksum": "sha256:8207702c79cf8754461b1cc6feecec3448fb520cee622676e6407ba0c3352f62"
+        },
+        {
+            "file": "avsres_texer_circle_edgeonly_23x23.bmp",
+            "size": 1710,
+            "checksum": "sha256:a2401e6a89ada472fc07ed3e408b521bad0314883f9d8233252b00ddba862804"
+        },
+        {
+            "file": "avsres_texer_circle_edgeonly_25x25.bmp",
+            "size": 1954,
+            "checksum": "sha256:d4cdad41bf5da63e0d560babcc22cd07665f6e7d2d23d5ac5b4ce66d0542bbfa"
+        },
+        {
+            "file": "avsres_texer_circle_edgeonly_27x27.bmp",
+            "size": 2322,
+            "checksum": "sha256:af7f06d0e89eb239c0063beb654e254cf8d8b78a3460c3ead85989e5e88f74d4"
+        },
+        {
+            "file": "avsres_texer_circle_edgeonly_29x29.bmp",
+            "size": 2606,
+            "checksum": "sha256:534c1eb965d3a1df52fa0bc8bdb4977fbf18ac19869417ac8e8d1409f6b203e6"
+        },
+        {
+            "file": "avsres_texer_circle_fade_11x11.bmp",
+            "size": 450,
+            "checksum": "sha256:f23cffc3b62ea97fd3bc32cb7107705a5ccdfe90c1c69ad950744f148b75d13f"
+        },
+        {
+            "file": "avsres_texer_circle_fade_13x13.bmp",
+            "size": 574,
+            "checksum": "sha256:b63bce5ba15b7dbaeedc588fa991c218963d0ed312c865a0d0f36d771b496a37"
+        },
+        {
+            "file": "avsres_texer_circle_fade_15x15.bmp",
+            "size": 774,
+            "checksum": "sha256:e993d9035e0c88999abda7037e81440f63ee87e37709679de1f4416511be4551"
+        },
+        {
+            "file": "avsres_texer_circle_fade_17x17.bmp",
+            "size": 938,
+            "checksum": "sha256:e76a9c0ac6ef5dfa2308908a92f6b54f481c5dafcad8c47dd887b3fab39abd92"
+        },
+        {
+            "file": "avsres_texer_circle_fade_19x19.bmp",
+            "size": 1194,
+            "checksum": "sha256:cc04c68f70e6e055052c17d9acab017f4f8e0124db05422cffeea153073f24d6"
+        },
+        {
+            "file": "avsres_texer_circle_fade_21x21.bmp",
+            "size": 1398,
+            "checksum": "sha256:fda89b02c0abd78fa024cd721651880302f7928ea9fffc342aa83d16306eb3f2"
+        },
+        {
+            "file": "avsres_texer_circle_fade_23x23.bmp",
+            "size": 1710,
+            "checksum": "sha256:95df24e24fcdcc1e78aa613a2465cd0a11670fbebbf2fe6424d7678b7b88c789"
+        },
+        {
+            "file": "avsres_texer_circle_fade_25x25.bmp",
+            "size": 1954,
+            "checksum": "sha256:e4f85455ec309a1ea3e8aab2ad5ab3256ca230dae80b2de38efe3101f90bc945"
+        },
+        {
+            "file": "avsres_texer_circle_fade_27x27.bmp",
+            "size": 2322,
+            "checksum": "sha256:3cdfe658a7c79b81df990f78ee37b4f358b77b1439579f2c0ca1fa0fe2c86c48"
+        },
+        {
+            "file": "avsres_texer_circle_fade_29x29.bmp",
+            "size": 2606,
+            "checksum": "sha256:10bcb870745a117d8cd57e44f60718e278a0e3ae25e3eaa9250e7936c1dc6fba"
+        },
+        {
+            "file": "avsres_texer_circle_heavyblur_11x11.bmp",
+            "size": 450,
+            "checksum": "sha256:0874f6c0ceae338fed5586458149d51bba71701e376dbccb90f7c7cdb37ef8cd"
+        },
+        {
+            "file": "avsres_texer_circle_heavyblur_13x13.bmp",
+            "size": 574,
+            "checksum": "sha256:de6edd5a2c892a4968f28518f43fce60b45ba3c2bec2f412cec1e8e12328ef12"
+        },
+        {
+            "file": "avsres_texer_circle_heavyblur_15x15.bmp",
+            "size": 774,
+            "checksum": "sha256:176ca3c00b87d29bca35543f3d9687fad62e1c2cd621a7860ae2beacc844a676"
+        },
+        {
+            "file": "avsres_texer_circle_heavyblur_17x17.bmp",
+            "size": 938,
+            "checksum": "sha256:9c0d10207637f07462379213924d903088a801a5c81fce3b205e4abe15899e2d"
+        },
+        {
+            "file": "avsres_texer_circle_heavyblur_19x19.bmp",
+            "size": 1194,
+            "checksum": "sha256:e6a52ec2f27513918744c31b5d10dac12767d426bf7d1709eed5197a86fb33e7"
+        },
+        {
+            "file": "avsres_texer_circle_heavyblur_21x21.bmp",
+            "size": 1398,
+            "checksum": "sha256:f8f868bfc48b2131e08f79a3ccdcdd5487537c1ac1decebee1a5ff5a2edf331b"
+        },
+        {
+            "file": "avsres_texer_circle_heavyblur_23x23.bmp",
+            "size": 1710,
+            "checksum": "sha256:f95417ea4b1b9635fff582489c356f9b374a7983937742438fd1b3dc632a39d2"
+        },
+        {
+            "file": "avsres_texer_circle_heavyblur_25x25.bmp",
+            "size": 1954,
+            "checksum": "sha256:628fcd6f3794a85c8ddb61ef90ad3b9a3054eaa568470e582897e72ba92dcb10"
+        },
+        {
+            "file": "avsres_texer_circle_heavyblur_27x27.bmp",
+            "size": 2322,
+            "checksum": "sha256:140bb9f221774489a82ea64a1afa447426450dccd56995d3f54bf71c08e91a69"
+        },
+        {
+            "file": "avsres_texer_circle_heavyblur_29x29.bmp",
+            "size": 2606,
+            "checksum": "sha256:f774cf10d56275d629f321163dbc610fee02b0e892c9065b0931564240bf078d"
+        },
+        {
+            "file": "avsres_texer_circle_sharp_05x05.bmp",
+            "size": 222,
+            "checksum": "sha256:7fed1eba922199994b49288ec476cbffd75aa77c90e664869306e85d9f4196ce"
+        },
+        {
+            "file": "avsres_texer_circle_sharp_07x07.bmp",
+            "size": 306,
+            "checksum": "sha256:0ae7ac00bf934f625713ba87ed22ee4dbd9c16dc6b7d72ba9373dfc2c5e02bf8"
+        },
+        {
+            "file": "avsres_texer_circle_sharp_09x09.bmp",
+            "size": 450,
+            "checksum": "sha256:6ff6f86f427968efbd9a21ddce8cf0cd681681f0d7fc772659a86700a9c7d0ac"
+        },
+        {
+            "file": "avsres_texer_circle_sharp_11x11.bmp",
+            "size": 574,
+            "checksum": "sha256:834aadff3c131183f1d1fb76010c64317c7f638008d06a769ba29a68a9aed73a"
+        },
+        {
+            "file": "avsres_texer_circle_sharp_13x13.bmp",
+            "size": 774,
+            "checksum": "sha256:7dfb911b3bcceb29b6c6b2386e40f8c7b1af1785e25d5e0310f5537a36cf937a"
+        },
+        {
+            "file": "avsres_texer_circle_sharp_15x15.bmp",
+            "size": 938,
+            "checksum": "sha256:32c61631054ead9b42d17e9b3ea4f3b9d3329d1aff4659bc99d6285c0c771de4"
+        },
+        {
+            "file": "avsres_texer_circle_sharp_17x17.bmp",
+            "size": 1194,
+            "checksum": "sha256:31d52f73c76abfe7928248f3531a8eb77fdcbc48e398797d16ec183d0389c5db"
+        },
+        {
+            "file": "avsres_texer_circle_sharp_19x19.bmp",
+            "size": 1398,
+            "checksum": "sha256:31b87b361b89e60a8052e1c27af6a158a6e0ba4ba136076f2b98afe9958da848"
+        },
+        {
+            "file": "avsres_texer_circle_sharp_21x21.bmp",
+            "size": 1710,
+            "checksum": "sha256:47592cab97851c568b462581e1116a9eca9bb534d78534619263d57f4765e239"
+        },
+        {
+            "file": "avsres_texer_circle_sharp_23x23.bmp",
+            "size": 1954,
+            "checksum": "sha256:c89fdfa202543cac0cd1880a6f242a15ac3816e960b183ccfa92bbaa6184b92a"
+        },
+        {
+            "file": "avsres_texer_circle_sharp_25x25.bmp",
+            "size": 2322,
+            "checksum": "sha256:e8d6d4c06b831887f398c7b8a59bec494f4806aec5f568dff3fb3f771e3d3ea7"
+        },
+        {
+            "file": "avsres_texer_circle_sharp_27x27.bmp",
+            "size": 2606,
+            "checksum": "sha256:53f96e5f860b7ece905c92aa6253a3445a571f55c9a6ac4a9ee3df6bea56e65a"
+        },
+        {
+            "file": "avsres_texer_circle_sharp_29x29.bmp",
+            "size": 3030,
+            "checksum": "sha256:2d057959257346e2b9a8922504ad51ff7d2608d6bd591659a7fa08d07406366a"
+        },
+        {
+            "file": "avsres_texer_circle_slightblur_11x11.bmp",
+            "size": 450,
+            "checksum": "sha256:d0cdec969a376bc2b90780196d082246e236561e71a33ceca55f3fc20fd68e70"
+        },
+        {
+            "file": "avsres_texer_circle_slightblur_13x13.bmp",
+            "size": 574,
+            "checksum": "sha256:f26cdcfd72f313040335a5aef83d7302c6efea241b3b88b463bd6a66a6c685d0"
+        },
+        {
+            "file": "avsres_texer_circle_slightblur_15x15.bmp",
+            "size": 774,
+            "checksum": "sha256:c89e1d88f4a3c3e779fd7a8a76332d111e7a191aa6643a941b97c47ec33eeb4e"
+        },
+        {
+            "file": "avsres_texer_circle_slightblur_17x17.bmp",
+            "size": 938,
+            "checksum": "sha256:eef1c4468c60f28f5c4baa64f2aaf38f71e00e33d7bdaeede58996b530370205"
+        },
+        {
+            "file": "avsres_texer_circle_slightblur_19x19.bmp",
+            "size": 1194,
+            "checksum": "sha256:261166291fd2f6454e957719ad4a83c8b24f85e4859cc680532a555cfd8aa37a"
+        },
+        {
+            "file": "avsres_texer_circle_slightblur_21x21.bmp",
+            "size": 1398,
+            "checksum": "sha256:ddbd3beabf6a2fa1a5385cc5943a1b4a49431902a8e3d461ce7c06a6f6987bb3"
+        },
+        {
+            "file": "avsres_texer_circle_slightblur_23x23.bmp",
+            "size": 1710,
+            "checksum": "sha256:f422d35cde6b401866dbf5f43184a1effb3cedc599e912af1b8e9b17ca1af37e"
+        },
+        {
+            "file": "avsres_texer_circle_slightblur_25x25.bmp",
+            "size": 1954,
+            "checksum": "sha256:7bfd7c979a8600c67a44927fe21cab76c1a0a685508e3893705d7c6f4266602d"
+        },
+        {
+            "file": "avsres_texer_circle_slightblur_27x27.bmp",
+            "size": 2322,
+            "checksum": "sha256:1e3f05b0507b57d568517a9bf7a30d8c0096397127366d57630ab5556b96c811"
+        },
+        {
+            "file": "avsres_texer_circle_slightblur_29x29.bmp",
+            "size": 2606,
+            "checksum": "sha256:34607b9b3b3f4c4e19cdbba2c2026b01d7834c17061deeb19f2e4d1607b9b814"
+        },
+        {
+            "file": "avsres_texer_diamond_blur_11x11.bmp",
+            "size": 208,
+            "checksum": "sha256:223cba80e03793c36e70257a8ae8f1f7fd612f8b8ce27d1c83d0a330bd139a6e"
+        },
+        {
+            "file": "avsres_texer_diamond_blur_13x13.bmp",
+            "size": 224,
+            "checksum": "sha256:e3c7d536294756c2c184d032f4d4624c70044ae6d47e1ce91ad3f32636e5b80f"
+        },
+        {
+            "file": "avsres_texer_diamond_blur_15x15.bmp",
+            "size": 240,
+            "checksum": "sha256:7e5c0f65a308c8f606a81376bd3e80ec10e0fca7696c85e2aedd0d8ed4674f98"
+        },
+        {
+            "file": "avsres_texer_diamond_blur_17x17.bmp",
+            "size": 324,
+            "checksum": "sha256:9afabd5153099d07474632ec2c94ba75c201e7c8b58135ee4bb4a51b04ca0a2c"
+        },
+        {
+            "file": "avsres_texer_diamond_blur_19x19.bmp",
+            "size": 348,
+            "checksum": "sha256:2c980e3db3d160d4ead14a214957ac4656718258ff8353b2068154428cfc5307"
+        },
+        {
+            "file": "avsres_texer_diamond_blur_21x21.bmp",
+            "size": 372,
+            "checksum": "sha256:06e71aecd09293e95f3597878ac9cd2fff7f093e6dd203dc61df39bec7c13c06"
+        },
+        {
+            "file": "avsres_texer_diamond_blur_23x23.bmp",
+            "size": 396,
+            "checksum": "sha256:1f882bdc155b4dae6939c7e4cbe85b911a848b2ee5358fc7924839f29e6cc089"
+        },
+        {
+            "file": "avsres_texer_diamond_blur_25x25.bmp",
+            "size": 520,
+            "checksum": "sha256:4a661280ccb2eaeb0c3c979d8f02180df8811ed712ff25d00b9eb3ad79fc9385"
+        },
+        {
+            "file": "avsres_texer_diamond_blur_27x27.bmp",
+            "size": 552,
+            "checksum": "sha256:1c36201c3acaf75ad469ddfed66960c54abc5604dd8591caf4823e4cec981bc4"
+        },
+        {
+            "file": "avsres_texer_diamond_blur_29x29.bmp",
+            "size": 584,
+            "checksum": "sha256:35aec6e610a932aa44f6f80f6e261a2fee3d6c2c479cffb13d2f97a149f4e229"
+        },
+        {
+            "file": "avsres_texer_diamond_blur_31x31.bmp",
+            "size": 616,
+            "checksum": "sha256:773c29b8c784b2d36bd01f5162efc7e074db7038a2c5fd032764fc20532c32e3"
+        },
+        {
+            "file": "avsres_texer_diamond_blur_33x33.bmp",
+            "size": 780,
+            "checksum": "sha256:44f3f7246dd96de98a247385f069ff09aed891879e2b611ece8bd182785fbfd0"
+        },
+        {
+            "file": "avsres_texer_diamond_blur_35x35.bmp",
+            "size": 820,
+            "checksum": "sha256:360f5b39c3ec5cb0956721c207be56caef2ae894084ffb1a08a9430f3cda16cd"
+        },
+        {
+            "file": "avsres_texer_diamond_blur_37x37.bmp",
+            "size": 860,
+            "checksum": "sha256:8192848a6fcc5bc92f01c1711c0b02db44d9a7d09945e26a95095d8a99b4f6f3"
+        },
+        {
+            "file": "avsres_texer_diamond_blur_39x39.bmp",
+            "size": 900,
+            "checksum": "sha256:907503b43e52036820814ecf70ff79abe52d6198cc15b26815e2768a4a8148c2"
+        },
+        {
+            "file": "avsres_texer_hexagon-h_blur_11x11.bmp",
+            "size": 208,
+            "checksum": "sha256:530bb902f61672e3e52f5fb2e69efbac008ee488b1721901b86476b8631b4dec"
+        },
+        {
+            "file": "avsres_texer_hexagon-h_blur_13x13.bmp",
+            "size": 224,
+            "checksum": "sha256:1df9b90e358654b3ebdd4cf0dcd1e163b6a37f470496e3fe3e186d91d2ac1074"
+        },
+        {
+            "file": "avsres_texer_hexagon-h_blur_15x15.bmp",
+            "size": 240,
+            "checksum": "sha256:cb14b0376cea1cf2c9da52d1e5f513743dbb51d167b1d2c710af12086e9df70e"
+        },
+        {
+            "file": "avsres_texer_hexagon-h_blur_17x17.bmp",
+            "size": 324,
+            "checksum": "sha256:836cc0f6cfce53784925aeb093e48b16a371e6c389a147f2bdcc54955bd39a6b"
+        },
+        {
+            "file": "avsres_texer_hexagon-h_blur_19x19.bmp",
+            "size": 348,
+            "checksum": "sha256:33f50378b320c596b114999f4ce57b567868e81220cc7716c53d9b80fa348fc6"
+        },
+        {
+            "file": "avsres_texer_hexagon-h_blur_21x21.bmp",
+            "size": 372,
+            "checksum": "sha256:1289aa8b41207c02496fb0c6325a1f7bbcb69f66c649bc442eac7ae558f8e76e"
+        },
+        {
+            "file": "avsres_texer_hexagon-h_blur_23x23.bmp",
+            "size": 396,
+            "checksum": "sha256:20e83a1aa276b28c1d30d98a28a7d76b3551642eae3524143d48424dc8e502bb"
+        },
+        {
+            "file": "avsres_texer_hexagon-h_blur_25x25.bmp",
+            "size": 520,
+            "checksum": "sha256:13a987c52e6fd770f21c4a02b11bb6cf173d7ba0fb8d8668b6608effbdd9c3df"
+        },
+        {
+            "file": "avsres_texer_hexagon-h_blur_27x27.bmp",
+            "size": 552,
+            "checksum": "sha256:5e48681ed2902dcf9d516f04a3a295004090cb0befcc5817e7d45dc324bc47c1"
+        },
+        {
+            "file": "avsres_texer_hexagon-h_blur_29x29.bmp",
+            "size": 584,
+            "checksum": "sha256:35bd9f7c3ad516938cedbf571e1d90d38833af3d7445a57e4a5839c4dabef6c3"
+        },
+        {
+            "file": "avsres_texer_hexagon-h_blur_31x31.bmp",
+            "size": 616,
+            "checksum": "sha256:6ad7fe42f71a9aed5df0f175767e22fbc07ad7439c26da6b74fa629189b93c98"
+        },
+        {
+            "file": "avsres_texer_hexagon-h_blur_33x33.bmp",
+            "size": 780,
+            "checksum": "sha256:dacac31a995de85276f57ab7c02b47205c0291c4a67c598c4bf82ee2fa7abc0c"
+        },
+        {
+            "file": "avsres_texer_hexagon-h_blur_35x35.bmp",
+            "size": 820,
+            "checksum": "sha256:e75e37d864932a7ac1a0cb4a1f471a1ef6ea8e5fe151591eb5ef5b0dac86d893"
+        },
+        {
+            "file": "avsres_texer_hexagon-h_blur_37x37.bmp",
+            "size": 860,
+            "checksum": "sha256:1736b74e1d04af70b4e087175107b4fe542298b9ca7d4f5f86db67d8e20ad98d"
+        },
+        {
+            "file": "avsres_texer_hexagon-h_blur_39x39.bmp",
+            "size": 900,
+            "checksum": "sha256:1b5c663d6a5edb5d1d98217cecb81d12e14b65942358176665af5b95ff7faf89"
+        },
+        {
+            "file": "avsres_texer_hexagon-v_blur_11x11.bmp",
+            "size": 208,
+            "checksum": "sha256:528bd3729b00ab2650a2c72686f5ff60f596712a5f2394d493231beeeeb63b48"
+        },
+        {
+            "file": "avsres_texer_hexagon-v_blur_13x13.bmp",
+            "size": 224,
+            "checksum": "sha256:195da58e56c93446fc8ec2fabd1fc2858470a64a6f0b630a8c40db7acb493ca8"
+        },
+        {
+            "file": "avsres_texer_hexagon-v_blur_15x15.bmp",
+            "size": 240,
+            "checksum": "sha256:42a001976cf44b518a30a3342ddcdac641c83e1e899387889d40277acd10d396"
+        },
+        {
+            "file": "avsres_texer_hexagon-v_blur_17x17.bmp",
+            "size": 324,
+            "checksum": "sha256:a4b816f3ef4e45af4b83901c64ff603d3a03899cd3c3643fadc2e1a55c94ce5c"
+        },
+        {
+            "file": "avsres_texer_hexagon-v_blur_19x19.bmp",
+            "size": 348,
+            "checksum": "sha256:be19bb7a9937a4e08ac8343b3acd16058722dd5a950a2ba8eeaee485c2cb1d09"
+        },
+        {
+            "file": "avsres_texer_hexagon-v_blur_21x21.bmp",
+            "size": 372,
+            "checksum": "sha256:ad45ed0d7385c1068dcb8776aba1e74f9f9c77183a5c357902aedf23cdc12bef"
+        },
+        {
+            "file": "avsres_texer_hexagon-v_blur_23x23.bmp",
+            "size": 396,
+            "checksum": "sha256:b74ed14ebeacf110e5673a4a4b0a0713950d6197e5651aac786c1545cbfcf999"
+        },
+        {
+            "file": "avsres_texer_hexagon-v_blur_25x25.bmp",
+            "size": 520,
+            "checksum": "sha256:dacd0ceb3ec7656146a3a06c8c2845b72c1da264485ccb25b3364ac5f336056b"
+        },
+        {
+            "file": "avsres_texer_hexagon-v_blur_27x27.bmp",
+            "size": 552,
+            "checksum": "sha256:baf115e0cc8fdc931eaf7dcca1fe63711e5d4b729e69ea66950b069a75b0a95a"
+        },
+        {
+            "file": "avsres_texer_hexagon-v_blur_29x29.bmp",
+            "size": 584,
+            "checksum": "sha256:f43ba7a1d4afd6951c46b8ef41716f445ee7ba646e0e3454afc358f2bca10f7d"
+        },
+        {
+            "file": "avsres_texer_hexagon-v_blur_31x31.bmp",
+            "size": 616,
+            "checksum": "sha256:d393600a14bab9b8001a81952fe0f61360114e97acf0d6978ff89c2039e5df0c"
+        },
+        {
+            "file": "avsres_texer_hexagon-v_blur_33x33.bmp",
+            "size": 780,
+            "checksum": "sha256:8560aab7a075bf6e3cb7a6838cad74eb34365910f123406ce256322ccd9e4bda"
+        },
+        {
+            "file": "avsres_texer_hexagon-v_blur_35x35.bmp",
+            "size": 820,
+            "checksum": "sha256:0c677db0149ffdf7797ebb8d65aa139e449d785a4e6bac30b8e927e778f5b8bd"
+        },
+        {
+            "file": "avsres_texer_hexagon-v_blur_37x37.bmp",
+            "size": 860,
+            "checksum": "sha256:e495fe122e124ee91386e9db52d878589af295d8554f2874e6b3f7f8e6caf1ae"
+        },
+        {
+            "file": "avsres_texer_hexagon-v_blur_39x39.bmp",
+            "size": 900,
+            "checksum": "sha256:ea4944c7c1e1343a1b68e9182a146b5c66f76557d2257f9671821ce18967ea0f"
+        },
+        {
+            "file": "avsres_texer_square_edgeonly_10x10.bmp",
+            "size": 374,
+            "checksum": "sha256:54dd91a4ff0316c875f48f929fd8f634af0810a4ab99ef29208638511636d139"
+        },
+        {
+            "file": "avsres_texer_square_edgeonly_14x14.bmp",
+            "size": 670,
+            "checksum": "sha256:6d0c3c6121da514e2c95f4db0b596d0c5134011487db5dd42dda5e9aca1d7b45"
+        },
+        {
+            "file": "avsres_texer_square_edgeonly_18x18.bmp",
+            "size": 1062,
+            "checksum": "sha256:016b7e3f0363594b771d2cdb2c0d0707508308a5a8780486047ea80e48e15bcb"
+        },
+        {
+            "file": "avsres_texer_square_edgeonly_24x24.bmp",
+            "size": 1782,
+            "checksum": "sha256:c46bd796cd80b6c512df4db6db3ea6c7804656ea263152ce61a72a46b0ca2b77"
+        },
+        {
+            "file": "avsres_texer_square_edgeonly_28x28.bmp",
+            "size": 2406,
+            "checksum": "sha256:92562607c279b3b13fa87bd48960f15b4380d4fdc1a9595f9a90d3915b0cbe12"
+        },
+        {
+            "file": "avsres_texer_square_edgeonly_30x30.bmp",
+            "size": 2814,
+            "checksum": "sha256:de1666bdc88de12db1398b001bb8c5402daabd611cb6efabf4ff12e7516ee4ce"
+        },
+        {
+            "file": "avsres_texer_square_edgeonly_4x4.bmp",
+            "size": 102,
+            "checksum": "sha256:830f9935e0f5ca5c357510d10217aabc7ac2e52eff4f74beba8f61c791c1d131"
+        },
+        {
+            "file": "avsres_texer_square_edgeonly_6x6.bmp",
+            "size": 174,
+            "checksum": "sha256:37bfe2cfc53038001cc124edfe4651d331c017efa0824e9dac01e62e81505139"
+        },
+        {
+            "file": "avsres_texer_square_edgeonly_8x8.bmp",
+            "size": 246,
+            "checksum": "sha256:73a77155eccf13657bd686a3e6dca0db84b114b48c000dcc0ddce46a217cf07c"
+        },
+        {
+            "file": "avsres_texer_square_fade_10x10.bmp",
+            "size": 374,
+            "checksum": "sha256:574f0957d8cb1fcb680e96e98b93b87c00e290fdaef655ceb13390d766e42435"
+        },
+        {
+            "file": "avsres_texer_square_fade_12x12.bmp",
+            "size": 486,
+            "checksum": "sha256:9eab3698c3c0a7dd5aed4123ac38024f60d524734e26336a725a2a14d30c1070"
+        },
+        {
+            "file": "avsres_texer_square_fade_14x14.bmp",
+            "size": 670,
+            "checksum": "sha256:6ed53a8643ac2758be7ca99ed0d5fa4250fba0e0e5f4e90007da9be29ba210e1"
+        },
+        {
+            "file": "avsres_texer_square_fade_16x16.bmp",
+            "size": 822,
+            "checksum": "sha256:c01b8a2be27c3c37e78e98228630d7a062e56b46d7156f6d4c8aae9894d706a2"
+        },
+        {
+            "file": "avsres_texer_square_fade_18x18.bmp",
+            "size": 1062,
+            "checksum": "sha256:f7008e11db2b83fd8956d51e815a8dbb1c9537119cca04c75587dab711412fc2"
+        },
+        {
+            "file": "avsres_texer_square_fade_20x20.bmp",
+            "size": 1254,
+            "checksum": "sha256:41e8ce9d114036123e4ce350e6a51b9df335efb751eabd94a3b6af39c646779d"
+        },
+        {
+            "file": "avsres_texer_square_fade_22x22.bmp",
+            "size": 1550,
+            "checksum": "sha256:17cc7ee20b5a62e5f409ebbc353042d4c6eed2a736d91dd835fdec734f30761a"
+        },
+        {
+            "file": "avsres_texer_square_fade_24x24.bmp",
+            "size": 1782,
+            "checksum": "sha256:d0cf77b7f03389584400d6c5a6f2ce14dbc1aa3b3b36299171e3349eae83f54b"
+        },
+        {
+            "file": "avsres_texer_square_fade_28x28.bmp",
+            "size": 2406,
+            "checksum": "sha256:5f0c6a2babd0044918587c38523410e641c7951fd626edb99fe528f34bc76345"
+        },
+        {
+            "file": "avsres_texer_square_fade_30x30.bmp",
+            "size": 2814,
+            "checksum": "sha256:12bdc0b6a44fc540c0c84f7e704a6c9bb6885676ba39652b1ef0b1121701e089"
+        },
+        {
+            "file": "avsres_texer_square_sharp_04x04.bmp",
+            "size": 246,
+            "checksum": "sha256:2e3156b4b05df497d7450b7869f6b547799d8799e9a23c7ba736fd4ff3bc8717"
+        },
+        {
+            "file": "avsres_texer_square_sharp_06x06.bmp",
+            "size": 374,
+            "checksum": "sha256:b7547f4b7f28823d9c7817c94b0e504abceb4cef187adb77afce7ebfbfbdf960"
+        },
+        {
+            "file": "avsres_texer_square_sharp_08x08.bmp",
+            "size": 486,
+            "checksum": "sha256:1489751f1899f08cdbe6b0357e0e6f7a084ba28d5e582be57cbc5ec89e418064"
+        },
+        {
+            "file": "avsres_texer_square_sharp_10x10.bmp",
+            "size": 670,
+            "checksum": "sha256:6505fc3af053d605d4e3200eb09ddf8053d1ee422bc6ea95d55279912e763721"
+        },
+        {
+            "file": "avsres_texer_square_sharp_120x120.bmp",
+            "size": 18560,
+            "checksum": "sha256:4a7a8efb7e26f308a23015cf6fe9b0f60d54ec4fcb2570c78e4a26135e6069c6"
+        },
+        {
+            "file": "avsres_texer_square_sharp_12x12.bmp",
+            "size": 822,
+            "checksum": "sha256:8ea7c501ed2e5126c4969987a30609014c5c0f239d948f231f700cfd142b17c8"
+        },
+        {
+            "file": "avsres_texer_square_sharp_14x14.bmp",
+            "size": 1062,
+            "checksum": "sha256:0b61c799914c245f0978ce3f839d5d1c13bb9b3efbed0a662f1f713fdf6756a3"
+        },
+        {
+            "file": "avsres_texer_square_sharp_16x16.bmp",
+            "size": 1254,
+            "checksum": "sha256:dcdc7dc7cf95c0a05b0d09c9a629d63f4079ea69b66b1e9546b2b4da830c538f"
+        },
+        {
+            "file": "avsres_texer_square_sharp_18x18.bmp",
+            "size": 1550,
+            "checksum": "sha256:8b27e73da59859e818be144f6402a059cccb8e2ef08353767e750742dfbfa2fa"
+        },
+        {
+            "file": "avsres_texer_square_sharp_20x20.bmp",
+            "size": 1782,
+            "checksum": "sha256:bcf774b1520e3314da459eb50c9b597531d783c20b48abd5f1ba91641f3169c6"
+        },
+        {
+            "file": "avsres_texer_square_sharp_22x22.bmp",
+            "size": 2134,
+            "checksum": "sha256:6f04ded460a98057f7389192a38e048e7d6c63075226ccbb8c4cce297b6c05c4"
+        },
+        {
+            "file": "avsres_texer_square_sharp_24x24.bmp",
+            "size": 2406,
+            "checksum": "sha256:21b38fa90fdbe2b1884505f9bbe3a022914d6e15e2c1365f5c17a4219d1ef247"
+        },
+        {
+            "file": "avsres_texer_square_sharp_28x28.bmp",
+            "size": 3126,
+            "checksum": "sha256:11ec412bcb0bb94f3c925a53aeb2385eac18ad573484b0fc0f86754320a1d0ac"
+        },
+        {
+            "file": "avsres_texer_square_sharp_30x30.bmp",
+            "size": 3590,
+            "checksum": "sha256:e41754b033960b3a5e77252cf1edee71e97c311c2cedafc9b4139a3df51240e6"
+        },
+        {
+            "file": "avsres_texer_square_sharp_40x40.bmp",
+            "size": 2368,
+            "checksum": "sha256:2adae16669b61a6fa8ed443f946cd951d6cff6d9999e1a513d417bf5074b7cff"
+        },
+        {
+            "file": "avsres_texer_square_sharp_64x64.bmp",
+            "size": 6464,
+            "checksum": "sha256:6f7e3fe92089100c02821a23e06a4ec9e683c40400b0aa6fc55629d2388d0808"
+        },
+        {
+            "file": "avsres_texer_square_sharp_96x96.bmp",
+            "size": 12608,
+            "checksum": "sha256:d6de9a6d0f47a1864cfc7ada89bcdf7f09924264db301466baaef861260036b3"
+        },
+        {
+            "file": "avsres_texer_star_blur_11x11.bmp",
+            "size": 208,
+            "checksum": "sha256:633bc1840e64f22a1b768431740314d0061473e0fd9e92c2af631bf951b73a23"
+        },
+        {
+            "file": "avsres_texer_star_blur_13x13.bmp",
+            "size": 224,
+            "checksum": "sha256:4a5990a1de08346f77caadf8451c92b36e2d3407a8df7969d3d6103ee60542ed"
+        },
+        {
+            "file": "avsres_texer_star_blur_15x15.bmp",
+            "size": 240,
+            "checksum": "sha256:4d141218628922fe1ef288c2d97c875ecd57b1f47e3650e633def1e9453ff5b0"
+        },
+        {
+            "file": "avsres_texer_star_blur_17x17.bmp",
+            "size": 324,
+            "checksum": "sha256:61b5496e4863c2b394a93d4e49df92f990ac9727fba93b35c71622ee8e416423"
+        },
+        {
+            "file": "avsres_texer_star_blur_19x19.bmp",
+            "size": 348,
+            "checksum": "sha256:736ac2bdc7517234c1da0cbb50451bbfc1392dff7679a92a9f02fe1c56a10ff6"
+        },
+        {
+            "file": "avsres_texer_star_blur_21x21.bmp",
+            "size": 372,
+            "checksum": "sha256:d1899dd8bfeb6dfa5f0f2a8247fc5a9c2734c3297683e45d368d095fc8ff8dbd"
+        },
+        {
+            "file": "avsres_texer_star_blur_23x23.bmp",
+            "size": 396,
+            "checksum": "sha256:253cc1b2dc8af6b86ae48e274e3201d4f33021bdc80fbd7e9368ac500a39c221"
+        },
+        {
+            "file": "avsres_texer_star_blur_25x25.bmp",
+            "size": 520,
+            "checksum": "sha256:06f22dde2ce5f11300a2f1b436a6fec09986fd71647c590bc82e735f37338abc"
+        },
+        {
+            "file": "avsres_texer_star_blur_27x27.bmp",
+            "size": 552,
+            "checksum": "sha256:d173455182906f85c311061847c525cde8152e575619ec9f94b34f84d1953722"
+        },
+        {
+            "file": "avsres_texer_star_blur_29x29.bmp",
+            "size": 584,
+            "checksum": "sha256:c44762808f079f4256f6dcfa05e66c46e603a266893780c73f0482ac22e878de"
+        },
+        {
+            "file": "avsres_texer_star_blur_31x31.bmp",
+            "size": 616,
+            "checksum": "sha256:123244118cbddae3aa2197defb4fd616a309980b9b454226b7a8cf18d8e8f8e7"
+        },
+        {
+            "file": "avsres_texer_star_blur_33x33.bmp",
+            "size": 780,
+            "checksum": "sha256:2e0e902792236021431a1d0ad67643e202a4666f1a411c3c24d0d30d6a0a9dca"
+        },
+        {
+            "file": "avsres_texer_star_blur_35x35.bmp",
+            "size": 820,
+            "checksum": "sha256:d43b062c4ffbc72a3bd74932bd6dae1409452de70636665e498ab9e6395c5e44"
+        },
+        {
+            "file": "avsres_texer_star_blur_37x37.bmp",
+            "size": 860,
+            "checksum": "sha256:c21bdfc0736657c8b7b5d59406b9c71e4515d81269df475bd2cd6d29f83f91a9"
+        },
+        {
+            "file": "avsres_texer_star_blur_39x39.bmp",
+            "size": 900,
+            "checksum": "sha256:0ec41306e2529a7919b78126f0a8bba8fa5add0b2090a6bed9389ad8545b1ef0"
+        },
+        {
+            "file": "avsres_texer_triangle-down_blur_11x11.bmp",
+            "size": 208,
+            "checksum": "sha256:976cb0d0bca17a175b7402b41f0b6cd941b01d901b72dc1397a7e8d6a06cd262"
+        },
+        {
+            "file": "avsres_texer_triangle-down_blur_13x13.bmp",
+            "size": 224,
+            "checksum": "sha256:4ab1f1e235da34cfdecaf149835edbc0df412da299db73f9134e759c77b8fc3e"
+        },
+        {
+            "file": "avsres_texer_triangle-down_blur_15x15.bmp",
+            "size": 240,
+            "checksum": "sha256:2588231101b975002975c5ea4b67c8242d71208ce3e61c3d3cc636c10249b4ba"
+        },
+        {
+            "file": "avsres_texer_triangle-down_blur_17x17.bmp",
+            "size": 324,
+            "checksum": "sha256:f567aaea78d487fe56caacf24eed89a2579ec9b3102e2389ca47d6ea5e05dc0d"
+        },
+        {
+            "file": "avsres_texer_triangle-down_blur_19x19.bmp",
+            "size": 348,
+            "checksum": "sha256:d7464c4d8f386ca86b8614e0a2a41a1bec38271da6c444004520029278206d65"
+        },
+        {
+            "file": "avsres_texer_triangle-down_blur_21x21.bmp",
+            "size": 372,
+            "checksum": "sha256:26b896f5fa0d7a73cd57753bc45ede0b139b8b3844b64092e50f2fa91e636336"
+        },
+        {
+            "file": "avsres_texer_triangle-down_blur_23x23.bmp",
+            "size": 396,
+            "checksum": "sha256:60816127de2cd334e5bc0217ad8ad8e6c44c4cb0c01677d41a7981990d1dba46"
+        },
+        {
+            "file": "avsres_texer_triangle-down_blur_25x25.bmp",
+            "size": 520,
+            "checksum": "sha256:123c553dd62a1278f62fd4ab99d190cdea1e971784044fcd0f57a5332e0a90f4"
+        },
+        {
+            "file": "avsres_texer_triangle-down_blur_27x27.bmp",
+            "size": 552,
+            "checksum": "sha256:c702c5b3dfd6e232d8e032fa9084edfeef51144a9646c844c09a7d7e80ff9ee3"
+        },
+        {
+            "file": "avsres_texer_triangle-down_blur_29x29.bmp",
+            "size": 584,
+            "checksum": "sha256:442edd3bb0f8cbfd569dfd9b39b1eb4c4ab1175b58d403cb952af964476a5b6f"
+        },
+        {
+            "file": "avsres_texer_triangle-down_blur_31x31.bmp",
+            "size": 616,
+            "checksum": "sha256:2dc4c10ec0d97f0ecaf02ce44ef626eb52da07ffeb3b560a74b439cf0e54196f"
+        },
+        {
+            "file": "avsres_texer_triangle-down_blur_33x33.bmp",
+            "size": 780,
+            "checksum": "sha256:2e78718aed7f47b86efa03b174fbda81fe5a28f4658325594f9a5bf247c7f095"
+        },
+        {
+            "file": "avsres_texer_triangle-down_blur_35x35.bmp",
+            "size": 820,
+            "checksum": "sha256:231e02bd5ad24cc93ef2bb7e1a21ec69343baaf64ff04673cfaae5eb127e77b0"
+        },
+        {
+            "file": "avsres_texer_triangle-down_blur_37x37.bmp",
+            "size": 860,
+            "checksum": "sha256:48f63ae67535d74ed6501e5c9b9fcda905cb6f53a1a8da55a1a8f8ae2d1829c5"
+        },
+        {
+            "file": "avsres_texer_triangle-down_blur_39x39.bmp",
+            "size": 900,
+            "checksum": "sha256:1f64e357e2750f693c6ff8cc599f37b97547dc6571b6f8c0490997b5c9df946e"
+        },
+        {
+            "file": "avsres_texer_triangle-left_blur_11x11.bmp",
+            "size": 208,
+            "checksum": "sha256:90f100bf4a7f737bc4ae9a37d1ad9d7af43a092dce648cbccf1bc91a9824e095"
+        },
+        {
+            "file": "avsres_texer_triangle-left_blur_13x13.bmp",
+            "size": 224,
+            "checksum": "sha256:d3c0c9d19b33b3003aa550f29b56a1bfd6e2228b8e663d044e008eda58c9fd18"
+        },
+        {
+            "file": "avsres_texer_triangle-left_blur_15x15.bmp",
+            "size": 240,
+            "checksum": "sha256:217225db38cd81059180454a32cf6b2ffbcd9fc21eac19e9bffbacd8ef09f101"
+        },
+        {
+            "file": "avsres_texer_triangle-left_blur_17x17.bmp",
+            "size": 324,
+            "checksum": "sha256:a537f119c0275a793aca121b40f580f4ef0d6387778faa400c97db29f64cd401"
+        },
+        {
+            "file": "avsres_texer_triangle-left_blur_19x19.bmp",
+            "size": 348,
+            "checksum": "sha256:066e02c1f0a1c75451e591ac54e8d5b87eea47425e9c9c7688af80ce2c9aa51f"
+        },
+        {
+            "file": "avsres_texer_triangle-left_blur_21x21.bmp",
+            "size": 372,
+            "checksum": "sha256:d19cf142ac9ad70519aa6a6c1240a9d7a44afa1865048e2298f0b762c17fb28d"
+        },
+        {
+            "file": "avsres_texer_triangle-left_blur_23x23.bmp",
+            "size": 396,
+            "checksum": "sha256:b809e93f7c0b75041e10418850cb5bdbd7d6c6df5c2a694eda71e88b15a448d9"
+        },
+        {
+            "file": "avsres_texer_triangle-left_blur_25x25.bmp",
+            "size": 520,
+            "checksum": "sha256:f325c66ea5be2db0a9c115cf83c38b271de39bd97ce5b74777af81e054e4de82"
+        },
+        {
+            "file": "avsres_texer_triangle-left_blur_27x27.bmp",
+            "size": 552,
+            "checksum": "sha256:52e2ad4fdc70b574aa76e019ec91a8d5e36535245649dab91dfb0e19ed2be40b"
+        },
+        {
+            "file": "avsres_texer_triangle-left_blur_29x29.bmp",
+            "size": 584,
+            "checksum": "sha256:ee80ecd203597176584233a865a2d5e06194f311dffdfe56ed9c33e43eabb605"
+        },
+        {
+            "file": "avsres_texer_triangle-left_blur_31x31.bmp",
+            "size": 616,
+            "checksum": "sha256:82724f3b5a2ef32908d3307e8f74d27303f0c478ff73b351aa95ca9badb780eb"
+        },
+        {
+            "file": "avsres_texer_triangle-left_blur_33x33.bmp",
+            "size": 780,
+            "checksum": "sha256:86c15a37a1455d84e26c62a2fbac50c207a35fa4b5dc9be1f1e7110f84aed815"
+        },
+        {
+            "file": "avsres_texer_triangle-left_blur_35x35.bmp",
+            "size": 820,
+            "checksum": "sha256:7b368c72ada3dcf4bce710230a3193c362f6a66f79df5ef4ff36e4fb99755ffe"
+        },
+        {
+            "file": "avsres_texer_triangle-left_blur_37x37.bmp",
+            "size": 860,
+            "checksum": "sha256:d85f674397bab5955eba149b2f0b2d1581fd02f67210afca3be669d0c6fa0db9"
+        },
+        {
+            "file": "avsres_texer_triangle-left_blur_39x39.bmp",
+            "size": 900,
+            "checksum": "sha256:35f09ad1a7536fb04ab45eb14c59837763cbb3d8fb9634b037936ca9f012c849"
+        },
+        {
+            "file": "avsres_texer_triangle-right_blur_11x11.bmp",
+            "size": 208,
+            "checksum": "sha256:1ec874820a0cd4973fa7cb6963860cd2cbea615b826b8dfabda53a9cb4d44b77"
+        },
+        {
+            "file": "avsres_texer_triangle-right_blur_13x13.bmp",
+            "size": 224,
+            "checksum": "sha256:442139e10e5542e82b65b24bfb57cb4f71070a615fb47f53af3238bece56695b"
+        },
+        {
+            "file": "avsres_texer_triangle-right_blur_15x15.bmp",
+            "size": 240,
+            "checksum": "sha256:cf2bc49dbb621a1e227c7fc8efb5ffb36581143084b54827a62a3043607dceae"
+        },
+        {
+            "file": "avsres_texer_triangle-right_blur_17x17.bmp",
+            "size": 324,
+            "checksum": "sha256:ba6bdc13957f9079a68e045f37ff0217f79d527d0bb7ee8e04791ffa172fea59"
+        },
+        {
+            "file": "avsres_texer_triangle-right_blur_19x19.bmp",
+            "size": 348,
+            "checksum": "sha256:077e9a33afe1903b998b95824aab9afdfa1a31a7d92aed246a5b9c803523f43e"
+        },
+        {
+            "file": "avsres_texer_triangle-right_blur_21x21.bmp",
+            "size": 372,
+            "checksum": "sha256:8291d43a63e137e4d7b1f2561a767771749912d84ccd198098aa245354de0831"
+        },
+        {
+            "file": "avsres_texer_triangle-right_blur_23x23.bmp",
+            "size": 396,
+            "checksum": "sha256:f61786b2417c03af5c7ce3c01e4ad99f640e849d6787efede62baeab42beda12"
+        },
+        {
+            "file": "avsres_texer_triangle-right_blur_25x25.bmp",
+            "size": 520,
+            "checksum": "sha256:c68acb14e6f76f6af8029a2f1ec44cb517e1ce92ebeb59c2a1133784aa328e0d"
+        },
+        {
+            "file": "avsres_texer_triangle-right_blur_27x27.bmp",
+            "size": 552,
+            "checksum": "sha256:1a42ab8fad4872c9b435994e540b5a453a6e1dfa5cb15ffec5e317bf5a2d77e0"
+        },
+        {
+            "file": "avsres_texer_triangle-right_blur_29x29.bmp",
+            "size": 584,
+            "checksum": "sha256:9c6e2f2df5a088d908d9e78dc17c33b402bda87e1b244781b88783a1987fea0a"
+        },
+        {
+            "file": "avsres_texer_triangle-right_blur_31x31.bmp",
+            "size": 616,
+            "checksum": "sha256:c56deecb5ddda821da8b032bc142bbbd3e42367ca9ac0ed86fb081e39a44bfe5"
+        },
+        {
+            "file": "avsres_texer_triangle-right_blur_33x33.bmp",
+            "size": 780,
+            "checksum": "sha256:e789b2b076afd3f970f533f909c05222571758f127264f85b945270846cc42b4"
+        },
+        {
+            "file": "avsres_texer_triangle-right_blur_35x35.bmp",
+            "size": 820,
+            "checksum": "sha256:5b378b3795ff5cba165e72d12a3446cb4da944ec7b65ebae9a4a4681c6805a81"
+        },
+        {
+            "file": "avsres_texer_triangle-right_blur_37x37.bmp",
+            "size": 860,
+            "checksum": "sha256:34a6eae86077bc91d9cda6488ac77e3e300ec0ef398761b7de0a24a6aae583fb"
+        },
+        {
+            "file": "avsres_texer_triangle-right_blur_39x39.bmp",
+            "size": 900,
+            "checksum": "sha256:4f139f82b97624e42674f80006bdb30135eed07d38b7d4dbd7dbf9ccaec9e926"
+        },
+        {
+            "file": "avsres_texer_triangle-up_blur_11x11.bmp",
+            "size": 208,
+            "checksum": "sha256:24c51e74e2a6aa79beff4a8e46a613c2601ebc8dd01ef442b814a64b60baebc9"
+        },
+        {
+            "file": "avsres_texer_triangle-up_blur_13x13.bmp",
+            "size": 224,
+            "checksum": "sha256:0bd343e116690ed4c2a8f77b64b7d3079e3ca0725ff4bf3ef9f669e285911737"
+        },
+        {
+            "file": "avsres_texer_triangle-up_blur_15x15.bmp",
+            "size": 240,
+            "checksum": "sha256:e1e2301fb9dce8d6655545984458843e385092a330b615be710a8e99990611ed"
+        },
+        {
+            "file": "avsres_texer_triangle-up_blur_17x17.bmp",
+            "size": 324,
+            "checksum": "sha256:bfaec5884a72d17d4e2c246e96315c6fba7ca7e872bd01df18e96e47dfe68177"
+        },
+        {
+            "file": "avsres_texer_triangle-up_blur_19x19.bmp",
+            "size": 348,
+            "checksum": "sha256:8da5684b9c752a9ae070fa1745c066f471bea940c8f1e4b69f532ea997881486"
+        },
+        {
+            "file": "avsres_texer_triangle-up_blur_21x21.bmp",
+            "size": 372,
+            "checksum": "sha256:22c6fa9b93a4380fd28d71c37834656432402f4c2ccaec4f4c4f8c775958df34"
+        },
+        {
+            "file": "avsres_texer_triangle-up_blur_23x23.bmp",
+            "size": 396,
+            "checksum": "sha256:e91dd12b30bc5388f6358778f14f83fec0aafe622b3d01998d6bc50a5f9788e0"
+        },
+        {
+            "file": "avsres_texer_triangle-up_blur_25x25.bmp",
+            "size": 520,
+            "checksum": "sha256:387c00e7ff398071952554da622df8f4b2a782802ec4afdf46a4b1c060f6aca7"
+        },
+        {
+            "file": "avsres_texer_triangle-up_blur_27x27.bmp",
+            "size": 552,
+            "checksum": "sha256:39da1fb742cad20bb144b58acce2282fda2bb9f9fb2c6923d4c5f44a098b6e35"
+        },
+        {
+            "file": "avsres_texer_triangle-up_blur_29x29.bmp",
+            "size": 584,
+            "checksum": "sha256:434fbe782e3d460e4b11dc076644c2166807dc0701c001cf8afd446594959e6b"
+        },
+        {
+            "file": "avsres_texer_triangle-up_blur_31x31.bmp",
+            "size": 616,
+            "checksum": "sha256:ea1cbd9bb625850186cfab3ba8576257f0466c94f473f2bc7a58a7437700472b"
+        },
+        {
+            "file": "avsres_texer_triangle-up_blur_33x33.bmp",
+            "size": 780,
+            "checksum": "sha256:47b9c65e27a31b9ce0e1062d96088f642a99ea3a56d3cf7514853db334b4865c"
+        },
+        {
+            "file": "avsres_texer_triangle-up_blur_35x35.bmp",
+            "size": 820,
+            "checksum": "sha256:ff4f6d2a693ff185cfc294ed875e78e4db90ed7451758f4b661e4e5d4ffbb992"
+        },
+        {
+            "file": "avsres_texer_triangle-up_blur_37x37.bmp",
+            "size": 860,
+            "checksum": "sha256:590b1a04c83af15b3290b80e51e274d5fba8c89e6cda1a9d3e94fb236b3e3f65"
+        },
+        {
+            "file": "avsres_texer_triangle-up_blur_39x39.bmp",
+            "size": 900,
+            "checksum": "sha256:a17f8b73a9a7f328d35740e702ccb4907927e74b4651db5405a534f7fdf978bb"
+        }
+    ],
+    "plugins": [
+        "AddBorder",
+        "BufferBlend",
+        "ChannelShift",
+        "ColorMap",
+        "Multiplier",
+        "NegativeStrobe",
+        "ScreenReverse",
+        "Texer",
+        "VfxAVIPlayer",
+        "VideoDelay"
+    ]
+}

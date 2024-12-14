@@ -1,0 +1,41 @@
+{
+    "name": "sEP . the reconsidered",
+    "id": "VB219-1",
+    "presets": [
+        {
+            "file": "frames.of.reality/sEP . the reconsidered/001 . nemo - tinnitus 2.0.avs",
+            "size": 5364,
+            "checksum": "sha256:11c2bd02272c3c36b973aaf0425571c7bfd78f3ef67e8b187ba9837a81e3b4a2"
+        },
+        {
+            "file": "frames.of.reality/sEP . the reconsidered/002 . grandchild . 3 zebras on hawaii.avs",
+            "size": 5604,
+            "checksum": "sha256:fe829561ad41cabefa107254a6193a18a762d6320312193a9665e01d9be27301"
+        },
+        {
+            "file": "frames.of.reality/sEP . the reconsidered/003 . skupers - curvasinus.avs",
+            "size": 4794,
+            "checksum": "sha256:fe518ecf3bb9df39b8b5323265074aca5da8dc6a13a1d901fca9fb7bf7bdf88f"
+        },
+        {
+            "file": "frames.of.reality/sEP . the reconsidered/004 . drew . invidia recolor v2.avs",
+            "size": 4064,
+            "checksum": "sha256:38ee4757f5cc647503f56f64ddd18b632b8a90b81476e3296f4b5fdc96650de8"
+        },
+        {
+            "file": "frames.of.reality/sEP . the reconsidered/005 . synth-c - orbitál.avs",
+            "size": 50421,
+            "checksum": "sha256:417d2fc760a1a6c0a18616fc61a681afc7a8fef02fb5623dd0c91cb489bb0172"
+        },
+        {
+            "file": "frames.of.reality/sEP . the reconsidered/006 . alchemist . mean spirit.avs",
+            "size": 4068,
+            "checksum": "sha256:b860233eff1e86739af6d68f58256895dcbae4375aa8a5fdf679776fc7dc037e"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter",
+        "TransAuto",
+        "Triangle"
+    ]
+}

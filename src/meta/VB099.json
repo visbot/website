@@ -1,0 +1,64 @@
+{
+    "name": "danaughty1 - u been naughty",
+    "id": "VB099",
+    "presets": [
+        {
+            "file": "da-naughty-one/danaughty1 - u been naughty/01 danaughty1 - u been naughty.avs",
+            "size": 3972,
+            "checksum": "sha256:021a2b6cef777dd10e6adb3871a0865f79cee3a2b6e8e9feffd01758b6587a59"
+        },
+        {
+            "file": "da-naughty-one/danaughty1 - u been naughty/02 danaughty1 - the cosmonaught.avs",
+            "size": 2183,
+            "checksum": "sha256:c88b18e618a5948a3adb837f99b5e5279b6d18523db93a3cf8c47d11376dcb1d"
+        },
+        {
+            "file": "da-naughty-one/danaughty1 - u been naughty/03 danaughty1 - super circuit.avs",
+            "size": 2170,
+            "checksum": "sha256:ec6f99a47d26b547a578c422a8e8eb9a194ff31de1bad33d03cea2b585253b94"
+        },
+        {
+            "file": "da-naughty-one/danaughty1 - u been naughty/04 danaughty1 - cascade.avs",
+            "size": 2344,
+            "checksum": "sha256:e11afc6fd1d126c87289ea4d9a8e53dfe95b2908b8be307994b164ad0bf632a5"
+        },
+        {
+            "file": "da-naughty-one/danaughty1 - u been naughty/05 danaughty1 - nightride kawasaki.avs",
+            "size": 2619,
+            "checksum": "sha256:7b46731678d2c211d905d7cd5a861d1c0341f39199a90ed669388a85341d6786"
+        },
+        {
+            "file": "da-naughty-one/danaughty1 - u been naughty/06 danaughty1 - the crossing.avs",
+            "size": 2993,
+            "checksum": "sha256:563d0883a889b06ecc687fa91d17d5afe8bc76b4314b01d69b11a5c6ffcf80e5"
+        },
+        {
+            "file": "da-naughty-one/danaughty1 - u been naughty/07 danaughty1 - it's da naughty loose.avs",
+            "size": 3351,
+            "checksum": "sha256:82bd2e657bb09f11ff79ba814fdfa847d23566be34eb71de14aea4a0f78ddffa"
+        },
+        {
+            "file": "da-naughty-one/danaughty1 - u been naughty/08 danaughty1 - pullin out complementary tricks.avs",
+            "size": 2366,
+            "checksum": "sha256:88c8cdae99b0c346e7f999eeaba064feb643b784c25da3dca628a21ee656fa2d"
+        },
+        {
+            "file": "da-naughty-one/danaughty1 - u been naughty/09 danaughty1 - bitz+pieces.avs",
+            "size": 2460,
+            "checksum": "sha256:d77b1fbc7204422248b04a6ec294c5119968e29950818ac1c8085ca252165686"
+        },
+        {
+            "file": "da-naughty-one/danaughty1 - u been naughty/10 danaughty1 - all night long.avs",
+            "size": 3800,
+            "checksum": "sha256:40cb9fb0784d260ac0b67538f2362eef5f86b73173bc3a55d498f35e2d8859b5"
+        },
+        {
+            "file": "da-naughty-one/danaughty1 - u been naughty/11 danaughty1 - turbo grafx (yathosho's copics version).avs",
+            "size": 4011,
+            "checksum": "sha256:23428d8c29d61e5d8d5827fc911600c66b821a113fdce724b84000ae886ef9bd"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

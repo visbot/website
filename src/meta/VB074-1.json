@@ -1,0 +1,24 @@
+{
+    "name": "PAN AM Preflight",
+    "id": "VB074-1",
+    "presets": [
+        {
+            "file": "PAN AM/PAN AM Preflight/01 PAN_AM take-off (les Noobiens rework).avs",
+            "size": 1675,
+            "checksum": "sha256:ee252b57ba998c64937edb4a278ef746c120e753088c229996466bf12c076acc"
+        },
+        {
+            "file": "PAN AM/PAN AM Preflight/02 PAN_AM take-off (p-k's nottin but teh G!0w mix).avs",
+            "size": 2426,
+            "checksum": "sha256:f3f95333b68ce66b25435e591880606c16bb002025c42a9ee64a0502a9910942"
+        },
+        {
+            "file": "PAN AM/PAN AM Preflight/03 PAN_AM take-off (yathosho's glühwürmchenmix).avs",
+            "size": 1855,
+            "checksum": "sha256:21c111d2a1bb6e7ae73ac647d197ce98105a32c1832ca8e1bb3f4dc02931d4e4"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

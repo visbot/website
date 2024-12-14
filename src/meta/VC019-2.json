@@ -1,0 +1,37 @@
+{
+    "name": "VISBOT 1999 A.D. (chapter two)",
+    "id": "VC019-2",
+    "presets": [
+        {
+            "file": "VISBOT/VC019 1999 AD/c1 grandchild - ringo (fake micro.D rmx).avs",
+            "size": 7562,
+            "checksum": "sha256:a8a39783cb4fc2cc641317322a7b13c45b280ffeec748a1989367bfabc7af732"
+        },
+        {
+            "file": "VISBOT/VC019 1999 AD/c2 yathosho - fantasy island iii (edit).avs",
+            "size": 3176,
+            "checksum": "sha256:8cf90446fe15f15f7bb5593276575ef2caa1434e12aab5cdf8db6c7e4c729351"
+        },
+        {
+            "file": "VISBOT/VC019 1999 AD/d1 zamuz - seeing triple (frames-of-reality ce remix).avs",
+            "size": 6752,
+            "checksum": "sha256:57d9ad7305dbc9bb76d844d769510daf8f69f7ff37795ffd6fe113e43a09210c"
+        },
+        {
+            "file": "VISBOT/VC019 1999 AD/d2 frames-of-reality - focus group.avs",
+            "size": 6466,
+            "checksum": "sha256:4936bfdc0c459d60ef244e148715bedd4d62b66249180d29524c8b46256bfd8c"
+        }
+    ],
+    "assets": [
+        {
+            "file": "Shreyas-IV-01.bmp",
+            "size": 36342,
+            "checksum": "sha256:10bf973044414dbea4dfaf77de57d7de4d3a871f0fc057bda1a3f699e202a411"
+        }
+    ],
+    "plugins": [
+        "ColorMap",
+        "ConvolutionFilter"
+    ]
+}

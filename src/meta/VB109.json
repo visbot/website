@@ -1,0 +1,29 @@
+{
+    "name": "dm5 sampler",
+    "id": "VB109",
+    "presets": [
+        {
+            "file": "Dynamic Duo/dm5 sampler/ddA1 avs-king - rhcp.avs",
+            "size": 1189,
+            "checksum": "sha256:e92ee128436e596b4dfd2f876f1f92184593f7d7c05fc83b8149f137827a8f15"
+        },
+        {
+            "file": "Dynamic Duo/dm5 sampler/ddA2 danaughty1 - super circuit (skupers' glamour remix).avs",
+            "size": 2936,
+            "checksum": "sha256:dedac556a21f2fc4df92c88e9a9225355cd135ee50c45a82b6f11c3628b2fc68"
+        },
+        {
+            "file": "Dynamic Duo/dm5 sampler/ddB1 hboy - seekers (yathosho rework #2).avs",
+            "size": 4313,
+            "checksum": "sha256:cb68e6e3a007babb248fe4c0e80cffd7eb7ce6384fc94d08c8b77f16643ca674"
+        },
+        {
+            "file": "Dynamic Duo/dm5 sampler/ddB2 vanish & dynamic duo - through the eyes of hypocrisy.avs",
+            "size": 2993,
+            "checksum": "sha256:d853c15718a662443ba62555fd54c00111cf6c1af8d2a8fa04566bbed7346430"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

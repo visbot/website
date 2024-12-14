@@ -1,0 +1,121 @@
+{
+    "name": "zamuz - visions vi",
+    "id": "VB156",
+    "presets": [
+        {
+            "file": "Zamuz/zamuz - visions vi/01 - visions vi.avs",
+            "size": 19046,
+            "checksum": "sha256:f330ad96ba9d954f9956af62af817fca958d96372c3763b2521cf0758103def2"
+        },
+        {
+            "file": "Zamuz/zamuz - visions vi/02 - spaghetti.avs",
+            "size": 25726,
+            "checksum": "sha256:07a9efd819090c813eeca036a2b351a8881e2d0561775f29dcf3e269324096f0"
+        },
+        {
+            "file": "Zamuz/zamuz - visions vi/03 - light expel.avs",
+            "size": 34208,
+            "checksum": "sha256:e4ac364a99341b7936e272aa157a9faca46e655aa4d6d0fb15f1a073fa7f85f6"
+        },
+        {
+            "file": "Zamuz/zamuz - visions vi/04 - emerging.avs",
+            "size": 5072,
+            "checksum": "sha256:ffb6a34b4f189011e86afb2f372f2a267fe9046a4ebd883cd282d4555915cfeb"
+        },
+        {
+            "file": "Zamuz/zamuz - visions vi/05 - tentacles.avs",
+            "size": 14331,
+            "checksum": "sha256:664ac34f588eed1e6a813ecfa5961a24ac7360da8ef2177b45a86c198916563a"
+        },
+        {
+            "file": "Zamuz/zamuz - visions vi/06 - as fake as it gets.avs",
+            "size": 6612,
+            "checksum": "sha256:4866cb15c58a8773146ac8f50707efa9f80c09bbda290201739c867943fa2971"
+        },
+        {
+            "file": "Zamuz/zamuz - visions vi/07 - dragon dance.avs",
+            "size": 19135,
+            "checksum": "sha256:b783272370d02ca740e3b02b617988cf36f15f1ee78602817f310cb9f2b83201"
+        },
+        {
+            "file": "Zamuz/zamuz - visions vi/08 - fireplant.avs",
+            "size": 19048,
+            "checksum": "sha256:5e4d44c4397046709aef85111540e9b72dce561a7db426ecc746a944361c3def"
+        },
+        {
+            "file": "Zamuz/zamuz - visions vi/09 - seeing triple (not so tipsy remix).avs",
+            "size": 5613,
+            "checksum": "sha256:60948781d415bb9e5f66d731811a912edc1aa40a9698d71e62ef51685194f57d"
+        },
+        {
+            "file": "Zamuz/zamuz - visions vi/10 - brain fluid.avs",
+            "size": 6933,
+            "checksum": "sha256:f37dbec279ea411a23bd87395c77d753ed78bab208a96fd48c97b742842ae09f"
+        },
+        {
+            "file": "Zamuz/zamuz - visions vi/11 - spotlight.avs",
+            "size": 7994,
+            "checksum": "sha256:1bf5f7930dc422a3ba6e532afeeaf5fa1e4269c7a62ecb2e09631e43ede29982"
+        }
+    ],
+    "assets": [
+        {
+            "file": "synth_001.bmp",
+            "size": 2678,
+            "checksum": "sha256:1300798c72afe1189e60e579f3a5d0b5ebefdc2e8e19c15f68acd393a82f5b8c"
+        },
+        {
+            "file": "v4_texer2.bmp",
+            "size": 5430,
+            "checksum": "sha256:693afb60f5532b47099ce70ccbdf18fd1651b93b525994e5ceb66e71aa0ae01e"
+        },
+        {
+            "file": "v4_texer3.bmp",
+            "size": 4854,
+            "checksum": "sha256:77c620edd0df29e8c3fd320cf301022d0fc169b68786781a09e89ce47fdac1d9"
+        },
+        {
+            "file": "v4_texer7.bmp",
+            "size": 1954,
+            "checksum": "sha256:49b6458d62c8f9687fefe109e1891166da70448e4eba3006067f948662a46a76"
+        },
+        {
+            "file": "v5_circle.bmp",
+            "size": 4854,
+            "checksum": "sha256:cebc9a03181dd184fecbba1d09290f11c70f1aaea28b8e5520d0e276267fec40"
+        },
+        {
+            "file": "v5_square.bmp",
+            "size": 1254,
+            "checksum": "sha256:2e3dc3d7cec32c7a2091c638f46cf70b9b01974ebcf0558ba3edc8e67b29b065"
+        },
+        {
+            "file": "v5_texer1.bmp",
+            "size": 7654,
+            "checksum": "sha256:a3479f02cd8b7257efb9f07839f6e022c06638c87ded2d3517619125222331d9"
+        },
+        {
+            "file": "v6_circle2.bmp",
+            "size": 2038,
+            "checksum": "sha256:5c0597260161c1538fd6e2af44185b9c22297b937d8de9b2f8cd189d1c16c414"
+        },
+        {
+            "file": "vb_cloud.bmp",
+            "size": 18238,
+            "checksum": "sha256:df0d67236c8ebc0ae50b7e48254f78bbd03b42b755b14b5a1a8072c3f3871257"
+        },
+        {
+            "file": "zamuz_v6_1.bmp",
+            "size": 22254,
+            "checksum": "sha256:a4075f87f291e14480c9d5a9cf7e318e68a1b829029c28589f38f7a95c31bebb"
+        },
+        {
+            "file": "zamuz_v6_3.bmp",
+            "size": 7878,
+            "checksum": "sha256:5ef6ad80326a3d922597c0181dfaed88e2de072ad96767531cac2aea994f129c"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

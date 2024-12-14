@@ -1,0 +1,46 @@
+{
+    "name": "Manic",
+    "id": "VB207-1",
+    "presets": [
+        {
+            "file": "Drew/Manic/Cavum.avs",
+            "size": 3657,
+            "checksum": "sha256:0fa294e068cada60aa7a9a89457c357fe23e3bef21eb7dc9c70b9f76221fe0ef"
+        },
+        {
+            "file": "Drew/Manic/Destorbiun.avs",
+            "size": 3168,
+            "checksum": "sha256:2442483122e68da910d7cb71f45e39ce5d70bd0a969ee84c635022c0acb4248c"
+        },
+        {
+            "file": "Drew/Manic/Deyotor.avs",
+            "size": 3708,
+            "checksum": "sha256:b921933ceeb2606ab8f14ebef972de8b79da316ab28317196bd0368541c6ea37"
+        },
+        {
+            "file": "Drew/Manic/Invidia.avs",
+            "size": 3020,
+            "checksum": "sha256:fadf61d8eff2fb4511bfd7bb78e86b01ce409a47dbd8ff01032431fb65ba182e"
+        },
+        {
+            "file": "Drew/Manic/Mancipium.avs",
+            "size": 4583,
+            "checksum": "sha256:679116cf5094e780930f7d312c8b11cc53a02554c986e44b6ee3df6420eafd3a"
+        },
+        {
+            "file": "Drew/Manic/Veneficus.avs",
+            "size": 3949,
+            "checksum": "sha256:7a5bc4d4dee6fb93eeb25706fc951cb10782723bd36672562333de12b954ce75"
+        }
+    ],
+    "assets": [
+        {
+            "file": "avsres_texer_circle_heavyblur_29x29.bmp",
+            "size": 2606,
+            "checksum": "sha256:f774cf10d56275d629f321163dbc610fee02b0e892c9065b0931564240bf078d"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

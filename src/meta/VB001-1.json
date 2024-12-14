@@ -1,0 +1,27 @@
+{
+    "name": "whyEye.org brokenframe TEASA",
+    "id": "VB001-1",
+    "presets": [
+        {
+            "file": "whyEye.org/whyEye.org brokenframe TEASA/yiA1__aggregat.avs",
+            "size": 1640,
+            "checksum": "sha256:7588f6ab2a9ea80ef71154a92f092be1be8ab803894e872b5226d42dc56344f8"
+        },
+        {
+            "file": "whyEye.org/whyEye.org brokenframe TEASA/yiA2__hotel_garni_(early_version).avs",
+            "size": 1484,
+            "checksum": "sha256:68af3d2dc1475d96daec4d3eb490e8444bcb7155ea3c0dc2fc998334f6c42d98"
+        },
+        {
+            "file": "whyEye.org/whyEye.org brokenframe TEASA/yiB1__isetta_(recolored_promo).avs",
+            "size": 840,
+            "checksum": "sha256:6246ca74105566a75d60f8453162226959e074df27c84e0194c26526848fea9a"
+        },
+        {
+            "file": "whyEye.org/whyEye.org brokenframe TEASA/yiB2__screenmate.avs",
+            "size": 1641,
+            "checksum": "sha256:330c4739a0a991eb3bb826a87a6c181303c5eb26feedc9acdf65b5a9d12eb58c"
+        }
+    ],
+    "plugins": []
+}

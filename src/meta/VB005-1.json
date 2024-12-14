@@ -1,0 +1,29 @@
+{
+    "name": "whyEye.org broken rewinda pt. 1",
+    "id": "VB005-1",
+    "presets": [
+        {
+            "file": "whyEye.org/whyEye.org broken rewinda/yiA1-tuggummi__formosa_(ixf).avs",
+            "size": 1236,
+            "checksum": "sha256:c49fec4299147d34d24918b9d2b0ff0412a64e896be49b14bb752f2d988b62e6"
+        },
+        {
+            "file": "whyEye.org/whyEye.org broken rewinda/yiA2-degnic__buttercup_(extra_fat_rmx).avs",
+            "size": 1395,
+            "checksum": "sha256:45ddf74b8ca6500d5df781aa9403c8adbf83338443963b56c66132795b4d2b45"
+        },
+        {
+            "file": "whyEye.org/whyEye.org broken rewinda/yiB1-degnic__salad_tosser_(curtain_rmx).avs",
+            "size": 1890,
+            "checksum": "sha256:286ad19309aedbd36b650581a00a9e68836b3b4b3931688df941f864978547ca"
+        },
+        {
+            "file": "whyEye.org/whyEye.org broken rewinda/yiB2-yathosho_vs_tuggummi__sector_movements_(v.i.p.).avs",
+            "size": 1317,
+            "checksum": "sha256:2aa4bb1a0669e00c59407e3324c0dc5a8da58aea0487e35c7db03abcb4b0d6e5"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

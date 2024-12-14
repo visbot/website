@@ -1,0 +1,29 @@
+{
+    "name": "les Noobiens I LUV OO 2",
+    "id": "VB035-2",
+    "presets": [
+        {
+            "file": "les Noobiens/les Noobiens I LUV OO 2/lNa1 - retroleum (tuggummi's boiling and bubbling mix).avs",
+            "size": 4585,
+            "checksum": "sha256:002ab4d4727c718d3f628c43bfed44da99689f9f44852f9d835af22c5ee01fe8"
+        },
+        {
+            "file": "les Noobiens/les Noobiens I LUV OO 2/lNa2 - das kaffeeservice (zamuz pretty rmx).avs",
+            "size": 2135,
+            "checksum": "sha256:67d540db0588a399fdab408ed7113fe826b7d32a03e99ad0463ce8c2382a4a6a"
+        },
+        {
+            "file": "les Noobiens/les Noobiens I LUV OO 2/lNb1 - pixfu (skupers tidal pixel remix).avs",
+            "size": 1577,
+            "checksum": "sha256:a413e8ce5795e87e2e81bcde6d289285370133af2ec9e7c604d6ddcc4bfc2804"
+        },
+        {
+            "file": "les Noobiens/les Noobiens I LUV OO 2/lNb2 - back to cursor (yathosho's back to outline mix).avs",
+            "size": 2148,
+            "checksum": "sha256:b37c793d02a1f819e3a47920ba67686d5f0cde92d8628a68d49050c865d8225a"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

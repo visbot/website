@@ -1,0 +1,29 @@
+{
+    "name": "whyEye.org abstraction of documents",
+    "id": "VB027",
+    "presets": [
+        {
+            "file": "whyEye.org/whyEye.org abstraction of documents/yiA1__back_to_carnaby_street_R1.avs",
+            "size": 1661,
+            "checksum": "sha256:0732c7e0b3a66beb4301530169a5ad2984d0ecd7f21027a8b39ff99b9f4f110b"
+        },
+        {
+            "file": "whyEye.org/whyEye.org abstraction of documents/yiA2__gasoline_R1.avs",
+            "size": 1694,
+            "checksum": "sha256:f7ee49e0f2b3072685ec2b05070b0701c3b68bc182660eaa57556519670f53ab"
+        },
+        {
+            "file": "whyEye.org/whyEye.org abstraction of documents/yiB1__agent_dragonfly_rebroken_R1.avs",
+            "size": 1916,
+            "checksum": "sha256:a7c7ee2ab57c55eac1c03bc040873caec7f6de20e126c745ff84a927d8251545"
+        },
+        {
+            "file": "whyEye.org/whyEye.org abstraction of documents/yiB2__jigsaw_R1.avs",
+            "size": 1585,
+            "checksum": "sha256:10b6ebf27d7b3f294e9e8012b48d35a7683a2eff25bb7cea2cd80d85320e9df9"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

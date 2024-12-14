@@ -1,0 +1,30 @@
+{
+    "name": "danaughty1 - enter da naughty",
+    "id": "VB082",
+    "presets": [
+        {
+            "file": "danaughty1/danaughty1 - enter da naughty/a1 danaughty1 - enter da naughty.avs",
+            "size": 2102,
+            "checksum": "sha256:5bf691cb893a68781153e8a65f73db83b1916de0b03ca5d767b126dc062cdb48"
+        },
+        {
+            "file": "danaughty1/danaughty1 - enter da naughty/a2 danaughty1 - turbo grafx.avs",
+            "size": 4060,
+            "checksum": "sha256:3de1994dd88fcca14a1cecffbcd26dab2a48c8c62b927b961f40290b72ca0288"
+        },
+        {
+            "file": "danaughty1/danaughty1 - enter da naughty/b1 danaughty1 - da-naughty-loose.avs",
+            "size": 2566,
+            "checksum": "sha256:a0a79644fecd25893525a03bfaedcec0928ff84d423b42885d36f0dc7b431578"
+        },
+        {
+            "file": "danaughty1/danaughty1 - enter da naughty/b2 yathosho - zahnschmelz (danaughty1's broken teeth mix).avs",
+            "size": 1506,
+            "checksum": "sha256:d27e16a99b02abd89621ec9a88cdfbe05af988a40920670e24e1a55788fc4c59"
+        }
+    ],
+    "plugins": [
+        "ColorMap",
+        "ConvolutionFilter"
+    ]
+}

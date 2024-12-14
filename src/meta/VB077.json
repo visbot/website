@@ -1,0 +1,30 @@
+{
+    "name": "CO-OP Session 07",
+    "id": "VB077",
+    "presets": [
+        {
+            "file": "CO-OP Sessions/CO-OP Session 07/a1 yathosho - stijlomat.avs",
+            "size": 3835,
+            "checksum": "sha256:a6ec945fc06e327d6270573d5a7ac9176dce2fff5e7a352470dc0a0a3005f6cb"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 07/a2 synth-c - style du matin.avs",
+            "size": 9295,
+            "checksum": "sha256:8954c533c01909f81d06c4b846aa2dece2f1c3c8fab58f7774666b8892c5c9d2"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 07/b1 synth-c - amour fluide.avs",
+            "size": 7494,
+            "checksum": "sha256:d2b41a2d85fff2e0516a3095e13b301c98bd07dfed6a9f1f8de61ea48988b63b"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 07/b2 yathosho - fluid drive.avs",
+            "size": 6673,
+            "checksum": "sha256:bf8287c55067f40144bef88f55c7f982280907e132eecc21a7479595242e1ae5"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter",
+        "GlobalVarMan"
+    ]
+}

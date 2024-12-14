@@ -1,0 +1,33 @@
+{
+    "name": "Hojojutsu EP",
+    "id": "VB231",
+    "presets": [
+        {
+            "file": "Dynamic Duo/Hojojutsu EP/ddA1__hojojutsu ($211 remix by onionring).avs",
+            "size": 4280,
+            "checksum": "sha256:344e6e35257b732ec7309f84b8aa81783ece597052bc3f2c5585044c45a5aa31"
+        },
+        {
+            "file": "Dynamic Duo/Hojojutsu EP/ddA2__hojojutsu (ya-tho-sho rework).avs",
+            "size": 4412,
+            "checksum": "sha256:34e737d91ad76094e1aab97e2e4deb3efadcb5b9239642f9c945e1dac985ddf3"
+        },
+        {
+            "file": "Dynamic Duo/Hojojutsu EP/ddB1__prototype (2011 rework).avs",
+            "size": 6134,
+            "checksum": "sha256:483b121e93217e6c066ec86e2c9970d2544514bc0cdcb35bba834808c1e96421"
+        },
+        {
+            "file": "Dynamic Duo/Hojojutsu EP/ddB2__prototype (framey rework).avs",
+            "size": 5860,
+            "checksum": "sha256:68f84a06b272d6bf6177f7f64f9ffc428aba0df371be2478c814cf8ea8abfe6d"
+        }
+    ],
+    "plugins": [
+        "BufferBlend",
+        "ColorReduction",
+        "Multiplier",
+        "VfxAVIPlayer",
+        "VideoDelay"
+    ]
+}

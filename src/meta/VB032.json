@@ -1,0 +1,121 @@
+{
+    "name": "Noobism",
+    "id": "VB032",
+    "presets": [
+        {
+            "file": "les Noobiens/Noobism/01 les Noobiens - noobism.avs",
+            "size": 2348,
+            "checksum": "sha256:a619b45238e256495ebc9815375530b8150b75d0327b4d01cbb4d5584325ed43"
+        },
+        {
+            "file": "les Noobiens/Noobism/02 yathosho - retroleum (les Noobiens back 2 back mix).avs",
+            "size": 1395,
+            "checksum": "sha256:64111a905386232f881198c7b47156ee1bbb18d1df707ca25723303a63b8561e"
+        },
+        {
+            "file": "les Noobiens/Noobism/03 les Noobiens - german autobahn.avs",
+            "size": 2255,
+            "checksum": "sha256:7d868fabff211502ebba7a76bede62ac9d4322923ef5b9323359b6df38ef0800"
+        },
+        {
+            "file": "les Noobiens/Noobism/04 les Noobiens - sci-fi 1920s.avs",
+            "size": 651,
+            "checksum": "sha256:eec0094c1164f8000b014635a8394bac8b159e4ac7de78f2162c20baed14cba4"
+        },
+        {
+            "file": "les Noobiens/Noobism/05 les Noobiens - pixfu.avs",
+            "size": 970,
+            "checksum": "sha256:bd71a81832c4c821d568b15fc2a2b5fed39cc21f0e1894c7f41ffe63ff0a1652"
+        },
+        {
+            "file": "les Noobiens/Noobism/06 les Noobiens - use the force 2.avs",
+            "size": 730,
+            "checksum": "sha256:12e271810d334d696d6964ae956bf75a2fc7c2018a573e39e10035986422dbb1"
+        },
+        {
+            "file": "les Noobiens/Noobism/07 les Noobiens - spectrum holobyte.avs",
+            "size": 1428,
+            "checksum": "sha256:4608e9e1847ea24d6ece61c2fd44683b2d2f58eeb577f2ba542700759241056d"
+        },
+        {
+            "file": "les Noobiens/Noobism/08 yathosho - cosmic vagina (les Noobiens remix).avs",
+            "size": 1961,
+            "checksum": "sha256:e16713e95b8c782cb73b371978aadea42b8ae5728788d8fcef48dd8c468f7623"
+        },
+        {
+            "file": "les Noobiens/Noobism/09 les Noobiens - das kaffeeservice.avs",
+            "size": 1422,
+            "checksum": "sha256:dd273198275e5c39fa07ce58f1a71155e2c4c8c23276db2bd946ab58f951c380"
+        },
+        {
+            "file": "les Noobiens/Noobism/10 les Noobiens - back to cursor (les Noobiens rework).avs",
+            "size": 1566,
+            "checksum": "sha256:8b886eb0e8f5b06ea5cc284f481322676a6586edf7549b5f8922b87b096cab4b"
+        },
+        {
+            "file": "les Noobiens/Noobism/11 les Noobiens - weebly (recolored).avs",
+            "size": 1952,
+            "checksum": "sha256:a9a09dac9872344677da7cd547beafc3372604992f1ae814c7a67ee0f70d8dd6"
+        },
+        {
+            "file": "les Noobiens/Noobism/12 les Noobiens - screenmate.avs",
+            "size": 1625,
+            "checksum": "sha256:c6ee30d4efa8017bc8abc03717301da6ac29f192e358ca8bdbf4ef27148ff4e0"
+        },
+        {
+            "file": "les Noobiens/Noobism/13 les Noobiens - marble madness.avs",
+            "size": 1789,
+            "checksum": "sha256:d05405f26f208fdb84289e8ff99d7ade1de5600a2377a66354465084cb2f03f0"
+        },
+        {
+            "file": "les Noobiens/Noobism/14 les Noobiens - autobahnnetz (remonitored).avs",
+            "size": 958,
+            "checksum": "sha256:1fc1cb48fd242c8c2aed0657c56d1d86ef20db84c1a31b6e71580676920e14c2"
+        },
+        {
+            "file": "les Noobiens/Noobism/15 les Noobiens - the allnighter.avs",
+            "size": 1964,
+            "checksum": "sha256:9b96693ccb84c63066bdfee56270e5e243da52852950c2b1118b889915109811"
+        },
+        {
+            "file": "les Noobiens/Noobism/16 yathosho - lenor (les Noobiens' birthday arrangement).avs",
+            "size": 1064,
+            "checksum": "sha256:3f2ccfe3b74048b2aee0c30d7726473efda5465509e5d95876455dcb140ef069"
+        },
+        {
+            "file": "les Noobiens/Noobism/17 les Noobiens - bumm bumm bumm.avs",
+            "size": 1621,
+            "checksum": "sha256:80eae31cb71f5b66a9795e936223d753e2456ca7be48a6aed76b238375095f66"
+        },
+        {
+            "file": "les Noobiens/Noobism/18 les Noobiens - marble madness (pan am's freightliner remix).avs",
+            "size": 1924,
+            "checksum": "sha256:e19dd07bf7463aaa90f44965ea7c41727cf32e0b931993a31184eeff3ed43836"
+        }
+    ],
+    "assets": [
+        {
+            "file": "Silkscreen_Bold.ttf",
+            "size": 16172,
+            "checksum": "sha256:cecab42faa04cfc5d5f647ead30d3dbd099468b412300c8a94e5612a76052034"
+        },
+        {
+            "file": "Silkscreen_Expanded_Bold.ttf",
+            "size": 16276,
+            "checksum": "sha256:698eac3062b43638b361660bdb096707b09df13bbf084c4dc95b177a8aa83a7b"
+        },
+        {
+            "file": "Silkscreen_Expanded.ttf",
+            "size": 18444,
+            "checksum": "sha256:1204e736ae72865f861e49396d5313f448357983e9c61d8c0110cd2cdefca9d4"
+        },
+        {
+            "file": "Silkscreen.ttf",
+            "size": 18336,
+            "checksum": "sha256:201df110e8dd8f19da40e5ad953b25bcac34dcb1bd14c7b8e02c9ce0b5ac0ca3"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "name": "les Noobiens I LUV OO",
+    "id": "VB035-1",
+    "presets": [
+        {
+            "file": "les Noobiens/les Noobiens I LUV OO/lNa1 - marble madness (HF's freightliner remix).avs",
+            "size": 2146,
+            "checksum": "sha256:bae02ddef172736bbeb6ab8c87583a7e5f06bf3c58f25183ae44c0d1154368d3"
+        },
+        {
+            "file": "les Noobiens/les Noobiens I LUV OO/lNa2 - screenmate (rMxD bY -+dAsN00b+-).avs",
+            "size": 11457,
+            "checksum": "sha256:1e0f4b19c8ed89abd27c1e3a4cc7ee64a9a758a939fc88e572d65e1266927f41"
+        },
+        {
+            "file": "les Noobiens/les Noobiens I LUV OO/lNb1 - german autobahn (rMxD bY -+dAsN00b+-).avs",
+            "size": 10817,
+            "checksum": "sha256:71031e5ac844be8d11ecd8cddf17d37991cbfe41664688970f2989a44b79dc4a"
+        },
+        {
+            "file": "les Noobiens/les Noobiens I LUV OO/lNb2 - sci-fi 1920s (pan am rework).avs",
+            "size": 719,
+            "checksum": "sha256:ac9e7810aa07d2bf0d73a66daba1aecb3336ef8713b914ab64d2c672571f68a5"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

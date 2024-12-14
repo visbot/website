@@ -1,0 +1,29 @@
+{
+    "name": "DDoo3",
+    "id": "VB023",
+    "presets": [
+        {
+            "file": "Dynamic Duo/DDoo3/ddA1__texturized.avs",
+            "size": 3071,
+            "checksum": "sha256:69f6777247f8ac340edf627870887c13634b6053dad8f8105b61fb88f5c1630f"
+        },
+        {
+            "file": "Dynamic Duo/DDoo3/ddA2__curvaceous_02.avs",
+            "size": 2207,
+            "checksum": "sha256:998584ce2a109cf09105f257548be4257038684af67ed4e51bdfd9b68ceccf4c"
+        },
+        {
+            "file": "Dynamic Duo/DDoo3/ddB1__dial_m_for_drugstore.avs",
+            "size": 1707,
+            "checksum": "sha256:5aa5668b63903cf5c49577d31e5e6965e8fdc9634cf53e809e65265048a92c50"
+        },
+        {
+            "file": "Dynamic Duo/DDoo3/ddB2__jiwsaw.avs",
+            "size": 1911,
+            "checksum": "sha256:ded5b8efc2ab85eb8fdce999a3d7ffd4b000cad070fa44ca063f2d16cc01a049"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

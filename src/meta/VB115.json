@@ -1,0 +1,29 @@
+{
+    "name": "DDoo7",
+    "id": "VB115",
+    "presets": [
+        {
+            "file": "Dynamic Duo/DDoo7/ddA1__envian.avs",
+            "size": 3515,
+            "checksum": "sha256:95bae1692c10a3b0bde3dd91a176a2672a792bf5eb9843f174ff6241608ad465"
+        },
+        {
+            "file": "Dynamic Duo/DDoo7/ddA2__ny.avs",
+            "size": 3068,
+            "checksum": "sha256:3509696cf7a7933042c39ce6c0a81abd58bb89c69e8a629f8f61c3039f0cd0d3"
+        },
+        {
+            "file": "Dynamic Duo/DDoo7/ddB1__jet down to it.avs",
+            "size": 4943,
+            "checksum": "sha256:e2b7213b01ee8440c5cf0e47b30651fc2b207382a185e6a08a9251da239bc032"
+        },
+        {
+            "file": "Dynamic Duo/DDoo7/ddB2__upachi.avs",
+            "size": 3141,
+            "checksum": "sha256:64318bdf3a816ecad6a7fb46400d6531804543687638c4be66ac7f06e5c49f0d"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

@@ -1,0 +1,157 @@
+{
+    "name": "VISBOT Better eight than never",
+    "id": "VC008",
+    "presets": [
+        {
+            "file": "VISBOT/VC008 Better eight than never/01 zamuz - visbot eight intro.avs",
+            "size": 5197,
+            "checksum": "sha256:809e4d55d7c021a63bd51cfd1145680f641db377436a0f0b1d27c0c79ee69a79"
+        },
+        {
+            "file": "VISBOT/VC008 Better eight than never/02 synth-c - burn the sun.avs",
+            "size": 21879,
+            "checksum": "sha256:5e36ce739905bf24251e8385e72f5d426f29a5e34e33baabbf3f540018a44436"
+        },
+        {
+            "file": "VISBOT/VC008 Better eight than never/03 skupers - dubbing single mothers (frame's zamuzioid remix).avs",
+            "size": 4630,
+            "checksum": "sha256:02a262102450fb3270e6bfd8d80ff464ecac97a04e4d5759134d7b7f0785ceab"
+        },
+        {
+            "file": "VISBOT/VC008 Better eight than never/04 yathosho - vogue (skupers' glitch remix).avs",
+            "size": 3352,
+            "checksum": "sha256:be69d1fc6e7356a729340a5ee070e1972952cebef89c181e135a34fe32cb7ce9"
+        },
+        {
+            "file": "VISBOT/VC008 Better eight than never/05 zamuz - roll-on mojo (duo's remix).avs",
+            "size": 3392,
+            "checksum": "sha256:76f5512117e84ce331d764c825797a7a90c9f20f278234c612cca3a24f376fc3"
+        },
+        {
+            "file": "VISBOT/VC008 Better eight than never/06 duo - biofeedback.avs",
+            "size": 4936,
+            "checksum": "sha256:014dddf32bb415d563417fa2eacac615821e307e77f88c90de89dfcfde1fae71"
+        },
+        {
+            "file": "VISBOT/VC008 Better eight than never/07 frames.of.reality - plots of summer.avs",
+            "size": 3884,
+            "checksum": "sha256:e510b76aac5386bb9e9bfa1391f798efce3110a5142934f9497e74967af40384"
+        },
+        {
+            "file": "VISBOT/VC008 Better eight than never/08 les Noobiens - blockz.avs",
+            "size": 1315,
+            "checksum": "sha256:aa34a9f9381f660ce1a80f4844ab000fe46cf7df51ffaa7ccf92fce25c467a2e"
+        },
+        {
+            "file": "VISBOT/VC008 Better eight than never/09 zamuz - waterburn.avs",
+            "size": 3736,
+            "checksum": "sha256:5917ad5606c4ce8ed77f664ecbd58965cfc3c4573da51cf36420b95916b4cadf"
+        },
+        {
+            "file": "VISBOT/VC008 Better eight than never/10 amphirion - ex deux plastica.avs",
+            "size": 12155,
+            "checksum": "sha256:6a77fad1e4ff004c1f5b5b52986ee7aa755c02a9df915ec551dee09b7baf5a11"
+        },
+        {
+            "file": "VISBOT/VC008 Better eight than never/11 synth-c - dancebot.avs",
+            "size": 16130,
+            "checksum": "sha256:f87a101a6bd52fae8c996073ade50f6116357d483d754591ed3037503500e4c9"
+        },
+        {
+            "file": "VISBOT/VC008 Better eight than never/12 yathosho - vogue (les Noobiens rework).avs",
+            "size": 4484,
+            "checksum": "sha256:2227abfc120d84b9d57b5111b502f074b78d1639b83b9a588e7b7e580f97e1cc"
+        },
+        {
+            "file": "VISBOT/VC008 Better eight than never/13 duo - in the valley.avs",
+            "size": 13008,
+            "checksum": "sha256:94c445fc12d6a40ff21638751d535053160e1994c77a4b6cbf96a923f4693bb1"
+        },
+        {
+            "file": "VISBOT/VC008 Better eight than never/14 skupers - caustics.avs",
+            "size": 9062,
+            "checksum": "sha256:de2da7f2685e2bf30b0aba2fb05274b692b6751b0999485c126d615e87de0e90"
+        },
+        {
+            "file": "VISBOT/VC008 Better eight than never/15 zamuz - garden (synth-c remix).avs",
+            "size": 11735,
+            "checksum": "sha256:4db87e39b17f17ab184f9d472cc247bb0e98314a2c74b2bcfe9f0c9e0d2d8791"
+        },
+        {
+            "file": "VISBOT/VC008 Better eight than never/16 skupers - on the faders (zamuz's blocked up remix).avs",
+            "size": 6341,
+            "checksum": "sha256:701dbe98dfa1dd5e3d55d37438d7d1b112ce7d60aa916b6452aabce36cd6c5c8"
+        },
+        {
+            "file": "VISBOT/VC008 Better eight than never/17 amphirion - the pacifist.avs",
+            "size": 9163,
+            "checksum": "sha256:78bb1e681dec759bdd1f8c5535e22d800013c93f6673d1c58181bb99125c839d"
+        },
+        {
+            "file": "VISBOT/VC008 Better eight than never/18 frames.of.reality - niov (alt edit).avs",
+            "size": 4589,
+            "checksum": "sha256:f473294c707f5c74b8b7cde90088eef09f29d036ad7e9c1ec2138f1407db0aab"
+        },
+        {
+            "file": "VISBOT/VC008 Better eight than never/19 skupers - calydon.avs",
+            "size": 2664,
+            "checksum": "sha256:3b8f8fd5e1210e73db415e56f5ccfaefd5c47e61fdcb7d921ec336fcc7438b9a"
+        },
+        {
+            "file": "VISBOT/VC008 Better eight than never/20 zamuz - kaleidoscopic architecture (amphirious remix).avs",
+            "size": 6388,
+            "checksum": "sha256:e8cc86b70e20d56620483cb2e94717ff8589ac5b6dd894436fd500fac3ebae04"
+        },
+        {
+            "file": "VISBOT/VC008 Better eight than never/21 yathosho - touristica (ya-tho-sho treatment).avs",
+            "size": 2175,
+            "checksum": "sha256:2b6854559a49dcbd690ef130d35e179c74b382970ac6d3da932c88cafcbd7b02"
+        },
+        {
+            "file": "VISBOT/VC008 Better eight than never/22 nemo - balloons (ya-tho-sho rework).avs",
+            "size": 40342,
+            "checksum": "sha256:539eb052c830c452223d50a14128575580371efa0262a456f6c5ee69e38a66bf"
+        },
+        {
+            "file": "VISBOT/VC008 Better eight than never/23 zamuz - breathe.avs",
+            "size": 4005,
+            "checksum": "sha256:a845a67376bc550c5b1cca723b85f2f38ac18c4591308374b0d8015fa156dd64"
+        }
+    ],
+    "assets": [
+        {
+            "file": "amphi v 2.0a.bmp",
+            "size": 5056,
+            "checksum": "sha256:d8a2dd0b7b40a6316e7287aca9b6d08a4328d7d3c6f2306565e5590496bdd0f7"
+        },
+        {
+            "file": "avsres_texer_circle_sharp_15x15.bmp",
+            "size": 938,
+            "checksum": "sha256:32c61631054ead9b42d17e9b3ea4f3b9d3329d1aff4659bc99d6285c0c771de4"
+        },
+        {
+            "file": "avsres_texer_square_sharp_04x04.bmp",
+            "size": 246,
+            "checksum": "sha256:2e3156b4b05df497d7450b7869f6b547799d8799e9a23c7ba736fd4ff3bc8717"
+        },
+        {
+            "file": "v4_texer7.bmp",
+            "size": 1954,
+            "checksum": "sha256:49b6458d62c8f9687fefe109e1891166da70448e4eba3006067f948662a46a76"
+        },
+        {
+            "file": "vb.bmp",
+            "size": 145254,
+            "checksum": "sha256:92479458ed7967973cccc27666c5192a2cf8a9f5b526dacba4c3fc907a3bdad4"
+        }
+    ],
+    "plugins": [
+        "AddBorder",
+        "ConvolutionFilter",
+        "GlobalVarMan",
+        "Normalise",
+        "Picture2",
+        "TransAuto",
+        "Triangle"
+    ]
+}

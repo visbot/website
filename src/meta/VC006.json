@@ -1,0 +1,176 @@
+{
+    "name": "VISBOT Swindle all the way",
+    "id": "VC006",
+    "presets": [
+        {
+            "file": "VISBOT/VC006 Swindle all the way/01 zamuz - visbot intro.avs",
+            "size": 2489,
+            "checksum": "sha256:d1ea885613fe03f27d1d69bf6caf8bdb38801252c1030dadf5c3853bcb3336fe"
+        },
+        {
+            "file": "VISBOT/VC006 Swindle all the way/02 nemo - floors (les Noobiens rework).avs",
+            "size": 2977,
+            "checksum": "sha256:4ff4a5b45650b0e55e7ff34e8f1514dcfe9800ee63f79a7b74d3dc215ed8b63d"
+        },
+        {
+            "file": "VISBOT/VC006 Swindle all the way/03 danaughty1 - super circuit.avs",
+            "size": 1916,
+            "checksum": "sha256:3c75a6e9c9df0aa3667bca4d85ec4be04ab0d1ef431eca8b1d9f663fd640a55f"
+        },
+        {
+            "file": "VISBOT/VC006 Swindle all the way/04 synth-c - glass peeks.avs",
+            "size": 9736,
+            "checksum": "sha256:ea45317e8807ce9c423405ad4e4b41425292ace3d130ddea2c457dcfa98b1f0a"
+        },
+        {
+            "file": "VISBOT/VC006 Swindle all the way/05 zamuz - fluffy flying time.avs",
+            "size": 2152,
+            "checksum": "sha256:add61029bdea8dee63e7009591751c5b47c102350555d91c50180de68f886b98"
+        },
+        {
+            "file": "VISBOT/VC006 Swindle all the way/06 nemo - ghostdrilt.avs",
+            "size": 83202,
+            "checksum": "sha256:72170888748030e45e1b34e2f88e3e4fbe029a720065c23b04a97fdf00e832f1"
+        },
+        {
+            "file": "VISBOT/VC006 Swindle all the way/07 duo - hexasexual.avs",
+            "size": 10514,
+            "checksum": "sha256:8f50aa2e87bea2a1787f621441edf1e49aed350c4071292502cbb9422f6019b8"
+        },
+        {
+            "file": "VISBOT/VC006 Swindle all the way/08 yathosho - my first day at the oldskool.avs",
+            "size": 2420,
+            "checksum": "sha256:2e24592a2c97a1a554cab0c89ea728f4cc735f6c2fccd8233b1bf0f82925d586"
+        },
+        {
+            "file": "VISBOT/VC006 Swindle all the way/09 skupers - flame fractal.avs",
+            "size": 11335,
+            "checksum": "sha256:c35657a43d2862b5fa033814ac889700dce9caaa2a8bc5e1b728661d2fb09f03"
+        },
+        {
+            "file": "VISBOT/VC006 Swindle all the way/10 duo - candyland (skupers talve remix).avs",
+            "size": 3999,
+            "checksum": "sha256:f1157a3acbde265d73e977ae7e3e02bf34ef8edea5403f365659062eb00143eb"
+        },
+        {
+            "file": "VISBOT/VC006 Swindle all the way/11 zamuz - blood twisters (ya-tho-sho rework).avs",
+            "size": 3171,
+            "checksum": "sha256:77575627c6ca1aeb2b5f03efb031b184de37eeeb96a205bbdfbf02f6dd695181"
+        },
+        {
+            "file": "VISBOT/VC006 Swindle all the way/12 duo - beneath the surface.avs",
+            "size": 3435,
+            "checksum": "sha256:625cb687d6d676e88a081c0062f2a340072451ad611d11eba757dfdd408225be"
+        },
+        {
+            "file": "VISBOT/VC006 Swindle all the way/13 yathosho - sakura (nemo 2x eyes remix).avs",
+            "size": 8107,
+            "checksum": "sha256:89531b1beeb6dc93833c10187dffb9ba43416122d94134993ee3b2762b7eec6e"
+        },
+        {
+            "file": "VISBOT/VC006 Swindle all the way/14 dynamic duo - zamuz lt (synth-c remix).avs",
+            "size": 10699,
+            "checksum": "sha256:175bc8ca736db10384961b2c6cbf14f4755fa565ef1ee7ddc2997c43c08014cc"
+        },
+        {
+            "file": "VISBOT/VC006 Swindle all the way/15 zamuz - heart dynamics (duo's high dose mix).avs",
+            "size": 5729,
+            "checksum": "sha256:9d0ae541268664528d572118b1de48db6d7acd8537a65c71921e66d0ed7a32d5"
+        },
+        {
+            "file": "VISBOT/VC006 Swindle all the way/16 synth-c - oscbot.avs",
+            "size": 13349,
+            "checksum": "sha256:008dac2c451549f90001e660ef620c06d64b6ab41937531c4eac7ebaf9fa3f0b"
+        },
+        {
+            "file": "VISBOT/VC006 Swindle all the way/17 les Noobiens - r u dijital (rework).avs",
+            "size": 3634,
+            "checksum": "sha256:768e7ced44c51fac5651a30c802b0fe77f4031ffa6c0f4842d644066faa407a5"
+        },
+        {
+            "file": "VISBOT/VC006 Swindle all the way/18 zamuz - roll-on mojo (zamuz surrounded remix).avs",
+            "size": 1907,
+            "checksum": "sha256:022cd9df70c47e9dab3ba700a64b1cd339c6e0df3a16bbe004036c65671a4416"
+        },
+        {
+            "file": "VISBOT/VC006 Swindle all the way/19 nemo - inner workings.avs",
+            "size": 24931,
+            "checksum": "sha256:d1d79bab2e966e29cfa88c4cf1d3e6d49a425f2dd31692426b59f81c5d179ab0"
+        },
+        {
+            "file": "VISBOT/VC006 Swindle all the way/20 skupers - music analysis.avs",
+            "size": 2603,
+            "checksum": "sha256:7261daa2883eb12011f22d4b56ed6f0a3a38f1c00d842f0e95a904db2b652ecb"
+        },
+        {
+            "file": "VISBOT/VC006 Swindle all the way/21 yathosho - the crossing.avs",
+            "size": 3102,
+            "checksum": "sha256:6b8204b7561de759bce40050047d0dace9af93e70ead5625c1b7300aeba2f8f1"
+        },
+        {
+            "file": "VISBOT/VC006 Swindle all the way/22 dynamic duo - elevation (re-edit).avs",
+            "size": 3661,
+            "checksum": "sha256:fc9172e3b3fcc5bec65f1b81d1968eb409a2ce7d4ad66890be6a932eb886dcc9"
+        },
+        {
+            "file": "VISBOT/VC006 Swindle all the way/23 zamuz - snow up in my window.avs",
+            "size": 6752,
+            "checksum": "sha256:7c53c40da11014029868f5a4a612a9b613a0f8af4b9a542d38a820081c799888"
+        }
+    ],
+    "assets": [
+        {
+            "file": "avsres_texer_circle_fade_15x15.bmp",
+            "size": 774,
+            "checksum": "sha256:e993d9035e0c88999abda7037e81440f63ee87e37709679de1f4416511be4551"
+        },
+        {
+            "file": "avsres_texer_circle_sharp_05x05.bmp",
+            "size": 222,
+            "checksum": "sha256:7fed1eba922199994b49288ec476cbffd75aa77c90e664869306e85d9f4196ce"
+        },
+        {
+            "file": "avsres_texer_circle_sharp_13x13.bmp",
+            "size": 774,
+            "checksum": "sha256:7dfb911b3bcceb29b6c6b2386e40f8c7b1af1785e25d5e0310f5537a36cf937a"
+        },
+        {
+            "file": "avsres_texer_circle_sharp_27x27.bmp",
+            "size": 2606,
+            "checksum": "sha256:53f96e5f860b7ece905c92aa6253a3445a571f55c9a6ac4a9ee3df6bea56e65a"
+        },
+        {
+            "file": "avsres_texer_square_fade_30x30.bmp",
+            "size": 2814,
+            "checksum": "sha256:12bdc0b6a44fc540c0c84f7e704a6c9bb6885676ba39652b1ef0b1121701e089"
+        },
+        {
+            "file": "skupers_ct_auto.bmp",
+            "size": 1220,
+            "checksum": "sha256:2ea891be7e48ff49863a7c2d29c728378c90daf512dcbf224b7abe33fccd4de9"
+        },
+        {
+            "file": "skupers_lp9_01.bmp",
+            "size": 1480,
+            "checksum": "sha256:308666e137c61483495b97c1061b481e421dbdd55e138047ad20abe43715d19a"
+        },
+        {
+            "file": "synth_002.bmp",
+            "size": 2814,
+            "checksum": "sha256:0deae1aab291e879184dae6c7a55dbff6abfa91ba35a81045eb86df10d0129bc"
+        },
+        {
+            "file": "vb2.bmp",
+            "size": 145254,
+            "checksum": "sha256:d35fea78b8e9b0080b4a143e5fee0c1c305d66ff8d53070b692906d063da4374"
+        }
+    ],
+    "plugins": [
+        "AddBorder",
+        "ConvolutionFilter",
+        "GlobalVarMan",
+        "MultiFilter",
+        "Picture2",
+        "Triangle"
+    ]
+}

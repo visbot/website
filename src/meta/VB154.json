@@ -1,0 +1,59 @@
+{
+    "name": "Tentaclism",
+    "id": "VB154",
+    "presets": [
+        {
+            "file": "Dynamic Duo/Tentaclism/01 dynamic duo - tentaclism (velvet remix by pak-9).avs",
+            "size": 3166,
+            "checksum": "sha256:91d22fc8ee4e555fa8e56382fa32b41a4f96f7666655f9b38c2209dc2c8a49ff"
+        },
+        {
+            "file": "Dynamic Duo/Tentaclism/02 dynamic duo - tentaclism (amphirious edit).avs",
+            "size": 2629,
+            "checksum": "sha256:9e9efa244b17b35b37c5ab3a8cb967a855405d01c8c98f990a605d62c3609cce"
+        },
+        {
+            "file": "Dynamic Duo/Tentaclism/03 dynamic duo - tentaclism (frames-of-reality's transatentaclism).avs",
+            "size": 4714,
+            "checksum": "sha256:ae9c357c85adf15d7d9117f47ab25363cd1914cb37a3b89c49fb323118fe1a43"
+        },
+        {
+            "file": "Dynamic Duo/Tentaclism/04 dynamic duo - tentaclism (ten-o-clock-ism! mix by drew).avs",
+            "size": 5060,
+            "checksum": "sha256:7bb758ad0c6829ade8a3c330562f341b2b7ce6ff93ee97f248ce5525629112ff"
+        },
+        {
+            "file": "Dynamic Duo/Tentaclism/05 dynamic duo - tentaclism (smell my tentacle armpits edit #2 by wotl).avs",
+            "size": 3163,
+            "checksum": "sha256:b402b32902861696f5095213d4256477faae5bbc8c4508df63404fcfbade43c8"
+        },
+        {
+            "file": "Dynamic Duo/Tentaclism/06 dynamic duo - tentaclism (out of focus mix #1 by zamuz).avs",
+            "size": 7208,
+            "checksum": "sha256:1c114afc3bb159f62663efeabe8d2897d5cad06994a84c9531530a10eff6f3a5"
+        },
+        {
+            "file": "Dynamic Duo/Tentaclism/07 dynamic duo - tentaclism (raz remix).avs",
+            "size": 4787,
+            "checksum": "sha256:28811b3113aeec98d407ea2ce6d4734e9031ef83d8270e00c861ee1dd80aaf91"
+        },
+        {
+            "file": "Dynamic Duo/Tentaclism/08 dynamic duo - tentaclism (javs remix).avs",
+            "size": 5025,
+            "checksum": "sha256:df8009842ed034a1f5847397b2026f90bde845de4eb8a20a935cc9ca27e0065b"
+        },
+        {
+            "file": "Dynamic Duo/Tentaclism/09 dynamic duo - tentaclism (ya-tho-sho treatment #1).avs",
+            "size": 4436,
+            "checksum": "sha256:e9a5bf004c32e0e0600e92bca812c2ad4247fa80687ecb65aba203e035cee487"
+        },
+        {
+            "file": "Dynamic Duo/Tentaclism/10 dynamic duo - tentaclism (nemo mix).avs",
+            "size": 4963,
+            "checksum": "sha256:2784ab8276b4cf02ee0ad5db25162e151f78697240895f27a0dbd28f7a26fb43"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

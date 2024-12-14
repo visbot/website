@@ -1,0 +1,30 @@
+{
+    "name": "javs - dynamic art (ya-tho-sho treatments)",
+    "id": "VB153",
+    "presets": [
+        {
+            "file": "JaVS/javs - dynamic art (ya-tho-sho treatments)/yiA1 javs - smooth creaminal (ya-tho-sho treatment).avs",
+            "size": 4063,
+            "checksum": "sha256:42f72b6fb61d9fcbde37f05bd2b2cf06087034aaf4b673bc4aa626b86dcfa578"
+        },
+        {
+            "file": "JaVS/javs - dynamic art (ya-tho-sho treatments)/yiA2 javs - the x flavour (ya-tho-sho treatment).avs",
+            "size": 3648,
+            "checksum": "sha256:5e34e1396741c960a92fb34f4f89ef7c4ef9fb9d5d5f4970d8d1f9de1628e5a1"
+        },
+        {
+            "file": "JaVS/javs - dynamic art (ya-tho-sho treatments)/yiB1 javs - golden meltdown (ya-tho-sho treatment).avs",
+            "size": 4723,
+            "checksum": "sha256:f29e8f4158a313d176f1138f8932dc27197d8bd02ec7264f12ad13d59fdaaebe"
+        },
+        {
+            "file": "JaVS/javs - dynamic art (ya-tho-sho treatments)/yiB2 javs - nerve recharge (ya-tho-sho treatment).avs",
+            "size": 3736,
+            "checksum": "sha256:4b7eb13fceccb7788b931f953472b3998d6b730633250b784d6bc38d075f0041"
+        }
+    ],
+    "plugins": [
+        "BufferBlend",
+        "ConvolutionFilter"
+    ]
+}

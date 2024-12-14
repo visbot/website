@@ -1,0 +1,29 @@
+{
+    "name": "CO-OP Session 10",
+    "id": "VB106",
+    "presets": [
+        {
+            "file": "CO-OP Sessions/CO-OP Session 10/a1 amphirion - can't touch this.avs",
+            "size": 2603,
+            "checksum": "sha256:93c8e3a3141dbb35276022577feaab5149d3d7e4682a96140cb6d87e3c32d379"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 10/a2 vanish - can't hate it.avs",
+            "size": 4401,
+            "checksum": "sha256:5e6f49070f33adc922de5dcea0bad67fc6803b6cca102cdb3bed162c63da1b68"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 10/b1 vanish - hurt.avs",
+            "size": 4654,
+            "checksum": "sha256:8da15fab91f47a7ec57e3929184d1cd87f76dd3762bb191ba32915362c5e179a"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 10/b2 amphirion - heart.avs",
+            "size": 4212,
+            "checksum": "sha256:a74361b7304fc2d1618e501c64b26d736d07c908d4fd4ca01e77a02696ec1f17"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

@@ -1,0 +1,38 @@
+{
+    "name": "whyEye.org x7ep",
+    "id": "VB215-1",
+    "presets": [
+        {
+            "file": "whyEye.org/whyEye.org x7ep/yiA1 viskey - somewhere else (yathosho's meltdown rework).avs",
+            "size": 7553,
+            "checksum": "sha256:4ee0df04dfbc96ffa6835f226a43be71c530f5bb357c3b75c0c5e33e8f77513c"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x7ep/yiA2 hurric4ne - a master's brush stoke (yathosho re-edit).avs",
+            "size": 6869,
+            "checksum": "sha256:b60d675451b738a4d48693523544acd02fc6ce19a4bdd094d830728aa7665c8e"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x7ep/yiB1 yathosho - weightless (ugly edit).avs",
+            "size": 3421,
+            "checksum": "sha256:6a2f763956df35e4595d57f1cfac09c1f960561c01025509f48fa3bf59ebe4f1"
+        },
+        {
+            "file": "whyEye.org/whyEye.org x7ep/yiB2 drew - toxic-inkated (yathosho pop version).avs",
+            "size": 12226,
+            "checksum": "sha256:ddac08825203827112ee5edb4f1eea0a1a8f4f8d1acf845e88458c3a45881fda"
+        }
+    ],
+    "assets": [
+        {
+            "file": "viskey_texer(combinded_grad2).bmp",
+            "size": 3590,
+            "checksum": "sha256:d5de71373d96c0361c711997f2ffe160d2670f98bfef6945aa0a50b40d4ac116"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter",
+        "GlobalVarMan",
+        "TransAuto"
+    ]
+}

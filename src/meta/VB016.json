@@ -1,0 +1,39 @@
+{
+    "name": "govisbotgo",
+    "id": "VB016",
+    "presets": [
+        {
+            "file": "govisbotgo/aztec visbot.avs",
+            "size": 2587,
+            "checksum": "sha256:9fa89bed8a85185dfc67f8a7a865cc056529c58ae1a3b0a20562ab43681a1000"
+        },
+        {
+            "file": "govisbotgo/dancer visbot.avs",
+            "size": 1507,
+            "checksum": "sha256:2dfaf574932f49efee790826c6156e8049ffff54f78c029baf164de27d1cc9ab"
+        },
+        {
+            "file": "govisbotgo/light up visbot.avs",
+            "size": 4270,
+            "checksum": "sha256:ca46d5935e1828846b5c8d605aeb2a999bb856310ded251ba19d45218179c092"
+        },
+        {
+            "file": "govisbotgo/population visbot.avs",
+            "size": 2484,
+            "checksum": "sha256:eba5eb7f9d9fb6986a6d7b753ca06ce869480dd1cb9342cc338fbcdc7effe4de"
+        },
+        {
+            "file": "govisbotgo/shakey visbot.avs",
+            "size": 1530,
+            "checksum": "sha256:f1b90bb0fd53c3a8748728347babfb10e85dc7557bb11fb873339dc3a68e206a"
+        },
+        {
+            "file": "govisbotgo/tunnel visbot.avs",
+            "size": 2677,
+            "checksum": "sha256:269b80e28706f47232e4d29ded91b4b74616cb28b3bb3f458946551e5ca28bd4"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

@@ -1,0 +1,36 @@
+{
+    "name": "CO-OP Session 05",
+    "id": "VB058",
+    "presets": [
+        {
+            "file": "CO-OP Sessions/CO-OP Session 05/a1 zamuz - my way.avs",
+            "size": 3873,
+            "checksum": "sha256:e6134d5900a6312de16567b61a46681e4e13f3b6e7ca2ebad0626f0e0b2f7de9"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 05/a2 hboy - my way transformed into a nuclear road.avs",
+            "size": 5067,
+            "checksum": "sha256:ad5bb6b6aeba3ebd36650997b4a50575bbe3dee78631b828c777f1ba38a18d19"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 05/b1 hboy - From a different world.avs",
+            "size": 5526,
+            "checksum": "sha256:d8893c2cf8426fafeb42e57a01d2eb0afb5af514cf8037249ba03b884e0fd0fe"
+        },
+        {
+            "file": "CO-OP Sessions/CO-OP Session 05/b2 zamuz - from the world where flowers grow.avs",
+            "size": 8518,
+            "checksum": "sha256:2e56399b73b2efbab570a09e1ed881ec4cc1e0292dc2b66ad0338f02f44a77a9"
+        }
+    ],
+    "assets": [
+        {
+            "file": "Shreyas-IV-01.bmp",
+            "size": 36342,
+            "checksum": "sha256:10bf973044414dbea4dfaf77de57d7de4d3a871f0fc057bda1a3f699e202a411"
+        }
+    ],
+    "plugins": [
+        "MultiFilter"
+    ]
+}

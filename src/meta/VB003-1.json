@@ -1,0 +1,34 @@
+{
+    "name": "sk-rrx_7inch",
+    "id": "VB003-1",
+    "presets": [
+        {
+            "file": "S_KuPeRS/sk-rrx_7inch/skA1 - plasticwrecx.avs",
+            "size": 2550,
+            "checksum": "sha256:c2c0b95d8b481a46db4d8f8de3aa15ddf5656c0c76b0dfaa358419a43a9befd5"
+        },
+        {
+            "file": "S_KuPeRS/sk-rrx_7inch/skA2 - i xix i.avs",
+            "size": 1755,
+            "checksum": "sha256:685d4b3032bc0cb89405ef9e7003e458e013c46b0f733ad48790b798abbd2574"
+        },
+        {
+            "file": "S_KuPeRS/sk-rrx_7inch/skB1 - hiddentrax.avs",
+            "size": 2054,
+            "checksum": "sha256:573f9f335ada3630c9ea073408c68d7ccdd1951ada29b2a084415c8c409dee28"
+        },
+        {
+            "file": "S_KuPeRS/sk-rrx_7inch/skB2 - ix i xi.avs",
+            "size": 2062,
+            "checksum": "sha256:5133cfef420cd481074aadb9fc7b03b63bd03c6f30b1d56e5891ffbc23140658"
+        },
+        {
+            "file": "S_KuPeRS/sk-rrx_7inch/yiB3 - plastic wrap (original).avs",
+            "size": 1358,
+            "checksum": "sha256:a6d13cbcfa85e92b1789f0a3f0f7a86268dba10c031526a72f676f837cf8ac6c"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

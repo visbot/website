@@ -1,0 +1,75 @@
+/* TEAM */
+Founding Member: Alt III
+Location: United States
+Website: https://www.deviantart.com/alt-iii
+
+Founding Member: AVS King
+Location: United States
+Website: https://www.deviantart.com/avs-king
+
+Founding Member: Duo
+Location: United States
+Website: https://www.deviantart.com/duo
+
+Founding Member: NemoOrange
+Location: United States
+Website: https://www.deviantart.com/nemoorange
+
+Founding Member: Skupers
+Location: Netherlands
+Website: https://www.deviantart.com/skupers
+
+Founding Member: Yathosho
+Location: Germany
+Website: https://www.deviantart.com/yathosho
+
+Member: Amphirion
+Location: United States
+Website: https://www.deviantart.com/amphirion
+
+Member: Effekthasch
+Location: Germany
+Website: https://effekthasch.org/
+
+Member: Frames of Reality
+Location: Hungary
+Website: https://www.deviantart.com/framesofreality
+
+Member: Grandchild
+Location: Germany
+Website: https://www.deviantart.com/grandchild
+
+Member: Hboy
+Location: Hungary
+Website: https://www.deviantart.com/hboy
+
+Member: JaVS
+Location: Malaysia
+
+Member: Micro D
+Location: Hungary
+Website: https://www.deviantart.com/hboy
+
+Member: Onionring
+Location: United States
+Website: https://www.deviantart.com/onionringofdoom
+
+Member: PAN AM
+Location: Finland
+
+Member: Synth-C
+Location: Netherlands
+Website: https://www.deviantart.com/synth-c
+
+Member: Vanish
+Location: Russian Federation
+Website: https://www.deviantart.com/vanish
+
+Member: Zamuz
+Location: Chile
+Website: https://www.deviantart.com/zamuz
+
+
+/* SOCIAL MEDIA */
+Mastodon: https://mastodon.social/@visbot
+Bluesky: https://bsky.app/profile/visbot.bsky.social

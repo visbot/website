@@ -1,0 +1,39 @@
+{
+    "name": "whyEye.org tools vol. 1",
+    "id": "VB199",
+    "presets": [
+        {
+            "file": "whyEye.org/whyEye.org tools vol. 1/yiA1 yathosho - formula square (pattern).avs",
+            "size": 2706,
+            "checksum": "sha256:59b961cf2dcd580e82b42089fb4d297e9d6dd6db12d7f13c70e9089bbb6c143a"
+        },
+        {
+            "file": "whyEye.org/whyEye.org tools vol. 1/yiA2 yathosho - agent dragonfly (pattern).avs",
+            "size": 2148,
+            "checksum": "sha256:944e272eda1396e8d240de80f785067461e70f336e8835944454b8194f042110"
+        },
+        {
+            "file": "whyEye.org/whyEye.org tools vol. 1/yiA3 yathosho - off keys (pattern).avs",
+            "size": 1746,
+            "checksum": "sha256:0bc3f69c4d785cac16d93f13e4460e8a5082787c9e6760c7111340204dd834b0"
+        },
+        {
+            "file": "whyEye.org/whyEye.org tools vol. 1/yiB1 yathosho - touristica (pattern).avs",
+            "size": 1472,
+            "checksum": "sha256:6252bf6bf93e778db07cc35936c53374aa11d8451669722f4b73a77e5b92c83c"
+        },
+        {
+            "file": "whyEye.org/whyEye.org tools vol. 1/yiB2 yathosho - frühlingswiese (pattern).avs",
+            "size": 2930,
+            "checksum": "sha256:12c345aed778785bb30155e4247801cd4ebb3e3efa31a191afc81675f15e544f"
+        },
+        {
+            "file": "whyEye.org/whyEye.org tools vol. 1/yiB3 yathosho - tischdeckenmikrostruktur (pattern).avs",
+            "size": 1580,
+            "checksum": "sha256:fa2acb4cf5d67a979310fa9ded22e02f87d4a6d152a92105b90fd1cb8ed8f158"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

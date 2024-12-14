@@ -1,0 +1,6 @@
+import { writable } from 'svelte/store';
+import metaData from '../meta.jsonc';
+
+const meta = writable(metaData);
+
+export { meta };

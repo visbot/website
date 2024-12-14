@@ -1,0 +1,3 @@
+[build]
+command = "bun run bootstrap && bun run build"
+publish = "build"

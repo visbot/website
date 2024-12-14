@@ -1,0 +1,29 @@
+{
+    "name": "DDoo5",
+    "id": "VB055",
+    "presets": [
+        {
+            "file": "Dynamic Duo/DDoo5/ddA1__it's_all_square_(early_version).avs",
+            "size": 2006,
+            "checksum": "sha256:e17edca30437f97905f277e5fed31ffa11f80a8cc25a56fd0c62aac277e51de1"
+        },
+        {
+            "file": "Dynamic Duo/DDoo5/ddA2__night_lighter.avs",
+            "size": 2295,
+            "checksum": "sha256:6f0652be707ac6119808e2dc0523b9c9861adc734ab7fc98a381e009a0d5ec61"
+        },
+        {
+            "file": "Dynamic Duo/DDoo5/ddB1__e_to_the_x_yi_squared.avs",
+            "size": 2911,
+            "checksum": "sha256:225144d78993705c7fe2a155d00fc63610fb1a70ce9e4b980b5aa7b61d95c900"
+        },
+        {
+            "file": "Dynamic Duo/DDoo5/ddB2__zamuzified.avs",
+            "size": 2422,
+            "checksum": "sha256:1fc6967139ffbce3062580c01464579e3376fc9ea253ccca882a9b5dbd120087"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

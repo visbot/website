@@ -1,0 +1,180 @@
+{
+    "name": "s04 . kerygma",
+    "id": "VB091",
+    "presets": [
+        {
+            "file": "frames.of.reality/s04 . kerygma/000 . intro.avs",
+            "size": 6824,
+            "checksum": "sha256:a681a6c2697995da7e4cc859e1ecdfc9d002556e67fa5159a416d9dbebc8cbc9"
+        },
+        {
+            "file": "frames.of.reality/s04 . kerygma/001 . soul searching sun.avs",
+            "size": 5130,
+            "checksum": "sha256:98f7a9449fc8501c1ba5279a3f552a2962b92e9a4ffd4ad0b85b8a6a3d1256b2"
+        },
+        {
+            "file": "frames.of.reality/s04 . kerygma/002 . reflections.avs",
+            "size": 4470,
+            "checksum": "sha256:bcc95e494517f23618ae0614d3f90ff6de8025dda8c523ebcedf7d0a032c1166"
+        },
+        {
+            "file": "frames.of.reality/s04 . kerygma/003 . leian.avs",
+            "size": 3668,
+            "checksum": "sha256:22856a395fd68b3e7e5e325dcf2e70f34f631474030cdec2fc4477ec9e7fa7d9"
+        },
+        {
+            "file": "frames.of.reality/s04 . kerygma/004 . naxius.avs",
+            "size": 1652,
+            "checksum": "sha256:091868881777bedffbfd261d024c8dc253f17b3bfae4770693ae388019645497"
+        },
+        {
+            "file": "frames.of.reality/s04 . kerygma/005 . rys nnv.avs",
+            "size": 2837,
+            "checksum": "sha256:f8f35d49e64174e34fdf5f6c046d757327f63ff70ebddf4b8697c9ac49be3d62"
+        },
+        {
+            "file": "frames.of.reality/s04 . kerygma/006 . avellx.avs",
+            "size": 5003,
+            "checksum": "sha256:9845792ec924df1161a43f434905f2de4f6d88051e42cd2b377fd344687bc695"
+        },
+        {
+            "file": "frames.of.reality/s04 . kerygma/007 . ozmarat.avs",
+            "size": 3344,
+            "checksum": "sha256:4e4a0c38594546d6aa7c2dc1ef904bab2efc2e0e1c7fcb49f155fe98d94c33c3"
+        },
+        {
+            "file": "frames.of.reality/s04 . kerygma/008 . z-kx 444.avs",
+            "size": 5647,
+            "checksum": "sha256:d58097275f7f6c42fb9fb5d82be4bc20d5d8a680f4f9938000b69882c0f463c4"
+        },
+        {
+            "file": "frames.of.reality/s04 . kerygma/009 . monument.avs",
+            "size": 6835,
+            "checksum": "sha256:3868733dd8eab083d5bf6c0069b6b53c7d9b3bcae08e9e7c898250b2d6ba262e"
+        },
+        {
+            "file": "frames.of.reality/s04 . kerygma/010 . exoniemetry.avs",
+            "size": 5026,
+            "checksum": "sha256:dde33fb24d15f8e4fcb4b29f9676848aaf18e48f566fa10f2f1efa9686657a5b"
+        },
+        {
+            "file": "frames.of.reality/s04 . kerygma/011 . minimal v2.avs",
+            "size": 2331,
+            "checksum": "sha256:f90064e2f4cc552fc27a383d8ce220d77934925bdc74f31aeca8223c3ce707ac"
+        },
+        {
+            "file": "frames.of.reality/s04 . kerygma/012 . divisions.avs",
+            "size": 6192,
+            "checksum": "sha256:230c0ada8eec8e004de45316fe70d9e2389cbe68791d1e9306f0f9ebd1f820be"
+        },
+        {
+            "file": "frames.of.reality/s04 . kerygma/013 . bloodplot.avs",
+            "size": 4899,
+            "checksum": "sha256:03ed54e247f3c2b44ff15f23291b67bcb9b995d004669090fde4231b7570e1cf"
+        },
+        {
+            "file": "frames.of.reality/s04 . kerygma/014 . vold.avs",
+            "size": 2394,
+            "checksum": "sha256:7fa42a08175c76a7257717a2f23799199e97ebdf850d40265f090f12bcf89364"
+        },
+        {
+            "file": "frames.of.reality/s04 . kerygma/015 . escarte.avs",
+            "size": 4690,
+            "checksum": "sha256:e4df625811b00b12047ce33477c9e0909d5437f9e43bf756ed81f4b365248cf0"
+        },
+        {
+            "file": "frames.of.reality/s04 . kerygma/016 . journey v2.avs",
+            "size": 3973,
+            "checksum": "sha256:1c77ed5cbdd8fedaea1c5b13a2ddf9ec2da5f7a07f69e04c69c116cd0915503d"
+        },
+        {
+            "file": "frames.of.reality/s04 . kerygma/017 . picasso deluxe.avs",
+            "size": 3959,
+            "checksum": "sha256:ec0b13a692afc571d5920a203fb60ff74d9da1d97e8b8bd05dc72ccc98bd7405"
+        },
+        {
+            "file": "frames.of.reality/s04 . kerygma/018 . cherry.avs",
+            "size": 5603,
+            "checksum": "sha256:bcab14850cb89bfa915cafc4b13a216be378dfa5aab6ba64fb56087f17476cfd"
+        },
+        {
+            "file": "frames.of.reality/s04 . kerygma/019 . framesofreality vs. wotl - gloizm.avs",
+            "size": 5103,
+            "checksum": "sha256:173ed56c35d5dfcad0f7eb4c4da3d3ee99d7b67d4bd2a99ef3eb1965433d0a8e"
+        },
+        {
+            "file": "frames.of.reality/s04 . kerygma/020 . niv ekx.avs",
+            "size": 3964,
+            "checksum": "sha256:7968d5a258256d200af9899e0bcc55b4f5bec23ec220ae117c081d68c4ed11c9"
+        },
+        {
+            "file": "frames.of.reality/s04 . kerygma/021 . knistoan.avs",
+            "size": 3290,
+            "checksum": "sha256:5a91244cf670cb2ead65ad1610029f90a87269fdae0aeea94b5ff7920ea614dc"
+        },
+        {
+            "file": "frames.of.reality/s04 . kerygma/022 . quoendo.avs",
+            "size": 3612,
+            "checksum": "sha256:0847e354b23f56399f49bbf818b7d54418a63a79e8f78b29ee6fddf1c4b78e1f"
+        },
+        {
+            "file": "frames.of.reality/s04 . kerygma/023 . plots.avs",
+            "size": 2869,
+            "checksum": "sha256:3ffa3cf328f394b64235fc8b4c110e99b08f8265bc21b274f6e348d88b55bf18"
+        },
+        {
+            "file": "frames.of.reality/s04 . kerygma/024 . hybridization.avs",
+            "size": 5146,
+            "checksum": "sha256:69e4780f037c08670c133edec2d9b8d046f2a88469cb9412967bb468faa53e67"
+        },
+        {
+            "file": "frames.of.reality/s04 . kerygma/025 . evvax.avs",
+            "size": 3054,
+            "checksum": "sha256:ddc91c08551e044e6e63a5c937fb08812680bd34460af5304663aa28bebfb256"
+        },
+        {
+            "file": "frames.of.reality/s04 . kerygma/025b . evvax (version).avs",
+            "size": 3195,
+            "checksum": "sha256:f017f4ddb63b04443600055e9e630ec16af28425b7c50a533e0c3c4dc45b7cf9"
+        },
+        {
+            "file": "frames.of.reality/s04 . kerygma/026 . dores.avs",
+            "size": 3165,
+            "checksum": "sha256:f75eba6c024a5c0ab6a94a650d21b5d2d7773be584e165cfa4a5669b93c3094d"
+        },
+        {
+            "file": "frames.of.reality/s04 . kerygma/027 . irracional.avs",
+            "size": 3486,
+            "checksum": "sha256:a823e2f55dfb3ba4f38e5a44ed9e2373d20280bb2d2a60774369c7ec2fd368d4"
+        },
+        {
+            "file": "frames.of.reality/s04 . kerygma/028 . life is cruel.avs",
+            "size": 2320,
+            "checksum": "sha256:a4117eea5617497fc30aad8bd5c659b338da4723cdcd8490a8a495699e197c4e"
+        },
+        {
+            "file": "frames.of.reality/s04 . kerygma/029 . the name eletricity is such a cliché so i named this preset -volcha-.avs",
+            "size": 8097,
+            "checksum": "sha256:a788f8b7de35eef8912543850e4b238211f6838e463f7eb3d16a671ec5f9570d"
+        },
+        {
+            "file": "frames.of.reality/s04 . kerygma/030 . outro.avs",
+            "size": 4595,
+            "checksum": "sha256:d1d3ea43d95ad01f4b7c9400c43f88fded917a9b31a81c825551897b0c92c27a"
+        }
+    ],
+    "assets": [
+        {
+            "file": "avsres_texer_circle_fade_19x19.bmp",
+            "size": 1194,
+            "checksum": "sha256:cc04c68f70e6e055052c17d9acab017f4f8e0124db05422cffeea153073f24d6"
+        }
+    ],
+    "plugins": [
+        "AddBorder",
+        "BufferBlend",
+        "ConvolutionFilter",
+        "GlobalVarMan",
+        "MultiFilter"
+    ]
+}

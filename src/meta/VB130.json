@@ -1,0 +1,29 @@
+{
+    "name": "les Noobiens straight outta lipton",
+    "id": "VB130",
+    "presets": [
+        {
+            "file": "les Noobiens/les Noobiens straight outta lipton/lNa1 dark matter - ancient (les Noobiens least coast ip-op mix).avs",
+            "size": 1952,
+            "checksum": "sha256:fb21ecb49d05fec2c23a8077170892fcea223f969e97c2f5257ae7d2ebe2519d"
+        },
+        {
+            "file": "les Noobiens/les Noobiens straight outta lipton/lNa2 yathosho - nizza is nice too (les Noobiens ip-op mix).avs",
+            "size": 1848,
+            "checksum": "sha256:6351175ba4d10c27f1af3ec75ccbda6ff2aa9da1ccf64d4acbc9f98357e1391d"
+        },
+        {
+            "file": "les Noobiens/les Noobiens straight outta lipton/lNb1 dark matter - ancient (les Noobiens rest coast ip-op mix).avs",
+            "size": 1872,
+            "checksum": "sha256:ff75c8a359572e6beb8bba3eb12ff9a1f432654ae8cd50ba9e96c3e1fda92e23"
+        },
+        {
+            "file": "les Noobiens/les Noobiens straight outta lipton/lNb2 les Noobiens - beat connection (les Noobiens ip-op mix).avs",
+            "size": 2226,
+            "checksum": "sha256:92c86abff207c155630312f4923611cd59bf45c562ac1858e45a21cd9c3e3d9a"
+        }
+    ],
+    "plugins": [
+        "ConvolutionFilter"
+    ]
+}

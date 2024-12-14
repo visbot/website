@@ -1,0 +1,28 @@
+.DS_Store
+
+# SvelteKit defaults
+/build
+/.svelte-kit
+/package
+
+# wphp
+/.wordpress
+/static/wp-admin
+/static/wp-includes
+/static/license.txt
+/static/readme.html
+
+# Caches
+.eslintcache
+.stylelintcache
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
+
+# Package managers
+.pnpm-debug.log
+node_modules
+package-lock.json
+yarn.lock
+
+# Local Netlify folder
+.netlify

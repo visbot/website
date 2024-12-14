@@ -1,0 +1,128 @@
+{
+    "name": "VISBOT X",
+    "id": "VC010",
+    "presets": [
+        {
+            "file": "VISBOT/VC010 VISBOT X/01 dynamic duo - ny again.avs",
+            "size": 2803,
+            "checksum": "sha256:566024259a58e7f28d37b1c5d9cace5bcd775f3858182116e68061d9a66dfa1b"
+        },
+        {
+            "file": "VISBOT/VC010 VISBOT X/02 zamuz - flowing glowers two.avs",
+            "size": 3165,
+            "checksum": "sha256:3198d01b97b7cb14b163c0593730971b17b692ef199ed0168fee98c4515f2f2d"
+        },
+        {
+            "file": "VISBOT/VC010 VISBOT X/03 nemo - the blueprint speaks (amphirion's remix).avs",
+            "size": 4440,
+            "checksum": "sha256:57bd04f3bd311701e74d1c32e13473725483c7ff57eff2f8aca5c170bb3f0ab4"
+        },
+        {
+            "file": "VISBOT/VC010 VISBOT X/04 skupers - dual flow (yathosho's twice the flavour edit).avs",
+            "size": 3173,
+            "checksum": "sha256:a8ad44de0357414132c3ee36e570be5e916dc94c333d967e284d32bf8620bc83"
+        },
+        {
+            "file": "VISBOT/VC010 VISBOT X/05 duo - biofeedback (nemo maps mix).avs",
+            "size": 5526,
+            "checksum": "sha256:b06532fdf124dae63521283d3c61e897ff19850633394a9e71132da4c39b42d9"
+        },
+        {
+            "file": "VISBOT/VC010 VISBOT X/06 amphirion - the pacifist (duo's underworld mix).avs",
+            "size": 5778,
+            "checksum": "sha256:1421ad2c7b3cecc8cfec9edb58c1bc6b9d7c905423fef96bb9a46083ead99648"
+        },
+        {
+            "file": "VISBOT/VC010 VISBOT X/07 frames.of.reality - asfgs (dynamic duo's moskau remix).avs",
+            "size": 5680,
+            "checksum": "sha256:8ab86d1088543c83e43e39f014726028f1e897a80eb4f1cafeb0ba12dd7cc738"
+        },
+        {
+            "file": "VISBOT/VC010 VISBOT X/08 hboy - nightstalker (orifice remix).avs",
+            "size": 7183,
+            "checksum": "sha256:65152f7f0054943ef0787c1819f2ceb0fd955f2e3963391b6f1862c90c49b781"
+        },
+        {
+            "file": "VISBOT/VC010 VISBOT X/09 zamuz - toxicaly (remix by frames.of.reality).avs",
+            "size": 5489,
+            "checksum": "sha256:89a450894917bd2f7d3eaa43178a3f8a4cdd170d0620a3d723467020b7420f4c"
+        },
+        {
+            "file": "VISBOT/VC010 VISBOT X/10 skupers - some kind of kink (amphirion's for the sake of christmas remix).avs",
+            "size": 8078,
+            "checksum": "sha256:758c94b91238ce924965778d1fb670e27cf3fb92e62bf484d59d44e08e16685e"
+        },
+        {
+            "file": "VISBOT/VC010 VISBOT X/11 zamuz - flame concept (ya-tho-sho treatment).avs",
+            "size": 2327,
+            "checksum": "sha256:68d9f5aca3a475d0d5b44f2fc8080c7329f0e2d8d7e4313053ed04683b81ed69"
+        },
+        {
+            "file": "VISBOT/VC010 VISBOT X/12 zamuz - freeform two.avs",
+            "size": 4802,
+            "checksum": "sha256:71244911c33c2dabed3391b033557a25ec8b5b495002b730b1c43641bd2a2603"
+        },
+        {
+            "file": "VISBOT/VC010 VISBOT X/13 amphirion - the pacifist (hboy's abstraction).avs",
+            "size": 3671,
+            "checksum": "sha256:01f3b0855fab68d932f8ce110d62723559ecb528b78181cb99172fc0a50cbfd1"
+        },
+        {
+            "file": "VISBOT/VC010 VISBOT X/14 zamuz - urban metallic (yathosho's almost november mix).avs",
+            "size": 2513,
+            "checksum": "sha256:f4eab1179dae620792534d102a6352d9d29439b37eb873f6eaa50646abadfa7d"
+        },
+        {
+            "file": "VISBOT/VC010 VISBOT X/15 duo - biofeedback (hboy's organic mix).avs",
+            "size": 3946,
+            "checksum": "sha256:956727beb542d77492c82f01f6be314b5beb61c1c73c230969eba3d638d13642"
+        },
+        {
+            "file": "VISBOT/VC010 VISBOT X/16 amphirion - can't touch this (nemo oh yes i can mix).avs",
+            "size": 4596,
+            "checksum": "sha256:93a0ededb45dee0acfb117ac4359ff585e80b25cc9c8c53b2f843a9ba6fa73ca"
+        },
+        {
+            "file": "VISBOT/VC010 VISBOT X/17 synth-c - pearl beats (zamuz's welcome to pearland remix).avs",
+            "size": 10741,
+            "checksum": "sha256:531d6e4247b1ac37d5ae6309bde2fdb13dc12c55ec8a0669e7280e1f5713d048"
+        },
+        {
+            "file": "VISBOT/VC010 VISBOT X/18 skupers - dual flow (yathosho's twice the flavour mix).avs",
+            "size": 3170,
+            "checksum": "sha256:8207c9e8d4590ddf39d9a156a82cd09b072d637ccbdb3603c91b1330ee6dce8c"
+        },
+        {
+            "file": "VISBOT/VC010 VISBOT X/19 zamuz - waterburn (duo's icy hot mix).avs",
+            "size": 7333,
+            "checksum": "sha256:00f8630e7f54467947d372201be31134e80ab0b6bfc285adcdf828d72bf55932"
+        },
+        {
+            "file": "VISBOT/VC010 VISBOT X/20 synth-c - hextic (when you almost forgot you have epilepsy remix by frames.of.reality).avs",
+            "size": 4259,
+            "checksum": "sha256:a33629c86791349cabdc933dec318c8b17f99d1008b395c5c0a337a71ffde083"
+        }
+    ],
+    "assets": [
+        {
+            "file": "avsres_texer_circle_heavyblur_27x27.bmp",
+            "size": 2322,
+            "checksum": "sha256:140bb9f221774489a82ea64a1afa447426450dccd56995d3f54bf71c08e91a69"
+        },
+        {
+            "file": "Shreyas-IV-01.bmp",
+            "size": 36342,
+            "checksum": "sha256:10bf973044414dbea4dfaf77de57d7de4d3a871f0fc057bda1a3f699e202a411"
+        },
+        {
+            "file": "v4_texer2.bmp",
+            "size": 5430,
+            "checksum": "sha256:693afb60f5532b47099ce70ccbdf18fd1651b93b525994e5ceb66e71aa0ae01e"
+        }
+    ],
+    "plugins": [
+        "AddBorder",
+        "ConvolutionFilter",
+        "GlobalVarMan"
+    ]
+}

@@ -1,0 +1,52 @@
+{
+    "name": "Dynamic Duo - Dynamix (Japan Edition)",
+    "id": "VB175",
+    "presets": [
+        {
+            "file": "Dynamic Duo/Dynamix (Japan LP VB175)/ddA1 dynamic duo - general dynamics.avs",
+            "size": 3179,
+            "checksum": "sha256:5f3c161059115de494522981c389abc8fdada5ea6fe5788676ed3a224e15ba10"
+        },
+        {
+            "file": "Dynamic Duo/Dynamix (Japan LP VB175)/ddA2 dynamic duo - nitoichi.avs",
+            "size": 4374,
+            "checksum": "sha256:d449b1ee9892f00198cf8dc8b6f57e2d81176a8f607bdd9aff7878dae3490514"
+        },
+        {
+            "file": "Dynamic Duo/Dynamix (Japan LP VB175)/ddB1 dynamic duo - tentaclism (album treatment).avs",
+            "size": 4436,
+            "checksum": "sha256:adf099a4320638c317931f892c6da1e739aae27ab80288c0ff6a6247df6cb9d3"
+        },
+        {
+            "file": "Dynamic Duo/Dynamix (Japan LP VB175)/ddB2 dynamic duo - prototype.avs",
+            "size": 4308,
+            "checksum": "sha256:7f2b95dffd3310b261074be11f24a3ae4ed73bd48f211ddbe3f2283e50fe0cc0"
+        },
+        {
+            "file": "Dynamic Duo/Dynamix (Japan LP VB175)/ddC1 dynamic duo - chromatics.avs",
+            "size": 4236,
+            "checksum": "sha256:8b960002a3b142703215bf0dbf7dffca7dc4e370c66f7ff8c9d796ba6d0467e5"
+        },
+        {
+            "file": "Dynamic Duo/Dynamix (Japan LP VB175)/ddC2 dynamic duo - styx feat. nemo.avs",
+            "size": 9959,
+            "checksum": "sha256:1e0713a17569f8bc60df846db38c823c0894951baed01d8af11499eb35922962"
+        },
+        {
+            "file": "Dynamic Duo/Dynamix (Japan LP VB175)/ddD1 dynamic duo - hentai.avs",
+            "size": 4035,
+            "checksum": "sha256:8768163c3d11cdad57fa5245c20b5f3b35feb011638b4b948aa8f1065b4edcff"
+        },
+        {
+            "file": "Dynamic Duo/Dynamix (Japan LP VB175)/ddD2 dynamic duo - hentai (remix).avs",
+            "size": 4873,
+            "checksum": "sha256:56c5075cf8500e9b40a123db5d5f1b286f418bfb2a73efc55419e6355569571f"
+        }
+    ],
+    "plugins": [
+        "ColorMap",
+        "ConvolutionFilter",
+        "FramerateLimiter",
+        "VideoDelay"
+    ]
+}
