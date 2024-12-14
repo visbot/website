@@ -1,81 +1,79 @@
 {
-    "name": "shake your Noobiens (TM)",
-    "id": "VB081-2",
-    "presets": [
-        {
-            "file": "les Noobiens/shake your Noobiens (TM)/01 frames-of-reality - vold (les Noobiens rub).avs",
-            "size": 3474,
-            "checksum": "sha256:504e2d4f317c4a24364df82e031a63d994b298faf9130d10eaf74fff59e6cc99"
-        },
-        {
-            "file": "les Noobiens/shake your Noobiens (TM)/02 amphirion - nightcrawling (pulse n'shake).avs",
-            "size": 3903,
-            "checksum": "sha256:e8e04038bdba22d87ae4d1339e7d88c0fe8c9aa9ac4690c1ac806408036d96b2"
-        },
-        {
-            "file": "les Noobiens/shake your Noobiens (TM)/03 skupers - miniquiz.avs",
-            "size": 4329,
-            "checksum": "sha256:2963bc73eae892c3ad6927b7ed61218af8f42be15fe97f393ce1adc9599c98e4"
-        },
-        {
-            "file": "les Noobiens/shake your Noobiens (TM)/04 yathosho - love-is-faye-dun-a-way (luv-shake-ba-by!).avs",
-            "size": 2059,
-            "checksum": "sha256:d4687bb0a0be340a55ee7af1a2d7186b6d26ef307cbcfa9d7255d64b6e25d98b"
-        },
-        {
-            "file": "les Noobiens/shake your Noobiens (TM)/05 zamuz - it's over here (shake shake revolution).avs",
-            "size": 5611,
-            "checksum": "sha256:aa6b3754333d1f2fb1cc6cdc4b511d291366ba017f78868a4b32f47dc4a0d8af"
-        },
-        {
-            "file": "les Noobiens/shake your Noobiens (TM)/06 les Noobiens - pixfu (nu Lesbians cocktail).avs",
-            "size": 2291,
-            "checksum": "sha256:3d3cdbfd6764823f201fcfdf727c193faad269aca250d5e271109fa9cec7f08e"
-        },
-        {
-            "file": "les Noobiens/shake your Noobiens (TM)/07 pan am - 2-gummi (pan am shake).avs",
-            "size": 826,
-            "checksum": "sha256:0ba26ee235f201bd4b340ed6ad58d5d517a04d07e4f5d170e6ceb47e8aeedc9f"
-        },
-        {
-            "file": "les Noobiens/shake your Noobiens (TM)/08 nemo - the almightier (megaman shake).avs",
-            "size": 2777,
-            "checksum": "sha256:37d07a138ebb2e76b26d38205a649c0c5e24695d6cd8ef521f331cfbd6796657"
-        },
-        {
-            "file": "les Noobiens/shake your Noobiens (TM)/09 frames-of-reality - love-is-faye-dun-a-way (deathshake).avs",
-            "size": 7597,
-            "checksum": "sha256:ad2652a60dad611cd451c9176fc8b1e8f64f7608e8e7ce0b300cc48390fe7a62"
-        },
-        {
-            "file": "les Noobiens/shake your Noobiens (TM)/10 yathosho - 2-gummi (shake it too!).avs",
-            "size": 3755,
-            "checksum": "sha256:c03540ea8ecdc7eae2d9c492ed5443b602c584797179b5e7bd0e36371fb50d85"
-        },
-        {
-            "file": "les Noobiens/shake your Noobiens (TM)/11 -+dAsN00b+- - 76 squares (les Noobiens rework).avs",
-            "size": 5937,
-            "checksum": "sha256:165e4b3f72ab1a7524ac92f5c72482ace989cd84e327218830f3ac5169ef4c54"
-        },
-        {
-            "file": "les Noobiens/shake your Noobiens (TM)/12 amphirion - hard traffik (grainy road shake).avs",
-            "size": 2638,
-            "checksum": "sha256:b789718f16ab781fe740c147d5b36c19cd9388de661cb38615423888ff1bed00"
-        }
-    ],
-    "assets": [
-        {
-            "file": "mega_1.bmp",
-            "size": 1726,
-            "checksum": "sha256:099218d535479c5242f01aae917ffb727108444dc992b2e40f02a33c6a2f49a1"
-        },
-        {
-            "file": "Commodore64-v51.ttf",
-            "size": 52856,
-            "checksum": "sha256:387f55f9c714d16ef080d57f8c01ae9432012c031d2361ff326b88d311bd6fb5"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "shake your Noobiens (TM)",
+	"id": "VB081-2",
+	"presets": [
+		{
+			"file": "les Noobiens/shake your Noobiens (TM)/01 frames-of-reality - vold (les Noobiens rub).avs",
+			"size": 3474,
+			"checksum": "sha256:504e2d4f317c4a24364df82e031a63d994b298faf9130d10eaf74fff59e6cc99"
+		},
+		{
+			"file": "les Noobiens/shake your Noobiens (TM)/02 amphirion - nightcrawling (pulse n'shake).avs",
+			"size": 3903,
+			"checksum": "sha256:e8e04038bdba22d87ae4d1339e7d88c0fe8c9aa9ac4690c1ac806408036d96b2"
+		},
+		{
+			"file": "les Noobiens/shake your Noobiens (TM)/03 skupers - miniquiz.avs",
+			"size": 4329,
+			"checksum": "sha256:2963bc73eae892c3ad6927b7ed61218af8f42be15fe97f393ce1adc9599c98e4"
+		},
+		{
+			"file": "les Noobiens/shake your Noobiens (TM)/04 yathosho - love-is-faye-dun-a-way (luv-shake-ba-by!).avs",
+			"size": 2059,
+			"checksum": "sha256:d4687bb0a0be340a55ee7af1a2d7186b6d26ef307cbcfa9d7255d64b6e25d98b"
+		},
+		{
+			"file": "les Noobiens/shake your Noobiens (TM)/05 zamuz - it's over here (shake shake revolution).avs",
+			"size": 5611,
+			"checksum": "sha256:aa6b3754333d1f2fb1cc6cdc4b511d291366ba017f78868a4b32f47dc4a0d8af"
+		},
+		{
+			"file": "les Noobiens/shake your Noobiens (TM)/06 les Noobiens - pixfu (nu Lesbians cocktail).avs",
+			"size": 2291,
+			"checksum": "sha256:3d3cdbfd6764823f201fcfdf727c193faad269aca250d5e271109fa9cec7f08e"
+		},
+		{
+			"file": "les Noobiens/shake your Noobiens (TM)/07 pan am - 2-gummi (pan am shake).avs",
+			"size": 826,
+			"checksum": "sha256:0ba26ee235f201bd4b340ed6ad58d5d517a04d07e4f5d170e6ceb47e8aeedc9f"
+		},
+		{
+			"file": "les Noobiens/shake your Noobiens (TM)/08 nemo - the almightier (megaman shake).avs",
+			"size": 2777,
+			"checksum": "sha256:37d07a138ebb2e76b26d38205a649c0c5e24695d6cd8ef521f331cfbd6796657"
+		},
+		{
+			"file": "les Noobiens/shake your Noobiens (TM)/09 frames-of-reality - love-is-faye-dun-a-way (deathshake).avs",
+			"size": 7597,
+			"checksum": "sha256:ad2652a60dad611cd451c9176fc8b1e8f64f7608e8e7ce0b300cc48390fe7a62"
+		},
+		{
+			"file": "les Noobiens/shake your Noobiens (TM)/10 yathosho - 2-gummi (shake it too!).avs",
+			"size": 3755,
+			"checksum": "sha256:c03540ea8ecdc7eae2d9c492ed5443b602c584797179b5e7bd0e36371fb50d85"
+		},
+		{
+			"file": "les Noobiens/shake your Noobiens (TM)/11 -+dAsN00b+- - 76 squares (les Noobiens rework).avs",
+			"size": 5937,
+			"checksum": "sha256:165e4b3f72ab1a7524ac92f5c72482ace989cd84e327218830f3ac5169ef4c54"
+		},
+		{
+			"file": "les Noobiens/shake your Noobiens (TM)/12 amphirion - hard traffik (grainy road shake).avs",
+			"size": 2638,
+			"checksum": "sha256:b789718f16ab781fe740c147d5b36c19cd9388de661cb38615423888ff1bed00"
+		}
+	],
+	"assets": [
+		{
+			"file": "mega_1.bmp",
+			"size": 1726,
+			"checksum": "sha256:099218d535479c5242f01aae917ffb727108444dc992b2e40f02a33c6a2f49a1"
+		},
+		{
+			"file": "Commodore64-v51.ttf",
+			"size": 52856,
+			"checksum": "sha256:387f55f9c714d16ef080d57f8c01ae9432012c031d2361ff326b88d311bd6fb5"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

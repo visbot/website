@@ -1,19 +1,17 @@
 {
-    "name": "whyEye.org edits pt. 1",
-    "id": "VB182-1",
-    "presets": [
-        {
-            "file": "whyEye.org/whyEye.org edits/yiA yathosho - tischdeckenmikrostruktur (alternative edit).avs",
-            "size": 1715,
-            "checksum": "sha256:6eb6b45ea5d70422673a852c902671c10bf32e9f86397f826c3c0baf0da30a6f"
-        },
-        {
-            "file": "whyEye.org/whyEye.org edits/yiAA yathosho - anja ruta (dynamic duo's dm7 edit).avs",
-            "size": 3240,
-            "checksum": "sha256:3ce1f113e3e404fa5037ba4b64f715d94cfc2f027d45ed9ad106294d93323480"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "whyEye.org edits pt. 1",
+	"id": "VB182-1",
+	"presets": [
+		{
+			"file": "whyEye.org/whyEye.org edits/yiA yathosho - tischdeckenmikrostruktur (alternative edit).avs",
+			"size": 1715,
+			"checksum": "sha256:6eb6b45ea5d70422673a852c902671c10bf32e9f86397f826c3c0baf0da30a6f"
+		},
+		{
+			"file": "whyEye.org/whyEye.org edits/yiAA yathosho - anja ruta (dynamic duo's dm7 edit).avs",
+			"size": 3240,
+			"checksum": "sha256:3ce1f113e3e404fa5037ba4b64f715d94cfc2f027d45ed9ad106294d93323480"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

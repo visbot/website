@@ -1,49 +1,44 @@
 {
-    "name": "Rejects EP",
-    "id": "VB195",
-    "presets": [
-        {
-            "file": "Dynamic Duo/Rejects EP/ddA1__delirium 2.avs",
-            "size": 10882,
-            "checksum": "sha256:ef13f05fb640ed5c0c308c3e5ad6d056d034693d86f8c858f7b6c7ac5923f677"
-        },
-        {
-            "file": "Dynamic Duo/Rejects EP/ddA2__mecha design (edit).avs",
-            "size": 4812,
-            "checksum": "sha256:13913e941e61a46c562b7bceb7beb4ec6358e14b5112a9f3a48f4c73c398f410"
-        },
-        {
-            "file": "Dynamic Duo/Rejects EP/ddB1__tangram.avs",
-            "size": 3451,
-            "checksum": "sha256:df63e9e64cb5dc0e2e78047c2bcabb06be67dfab1d4ed3bfd97b8740d7648a62"
-        },
-        {
-            "file": "Dynamic Duo/Rejects EP/ddB2__skreamizm.avs",
-            "size": 3969,
-            "checksum": "sha256:ccce9a913524f70310e0bc5a15a320df5708e6944428ad1b53e24c9615201d96"
-        }
-    ],
-    "assets": [
-        {
-            "file": "avsres_texer_square_sharp_24x24.bmp",
-            "size": 2406,
-            "checksum": "sha256:21b38fa90fdbe2b1884505f9bbe3a022914d6e15e2c1365f5c17a4219d1ef247"
-        },
-        {
-            "file": "avsres_texer_square_sharp_30x30.bmp",
-            "size": 3590,
-            "checksum": "sha256:e41754b033960b3a5e77252cf1edee71e97c311c2cedafc9b4139a3df51240e6"
-        },
-        {
-            "file": "skupers_lp6_02.bmp",
-            "size": 10856,
-            "checksum": "sha256:aaeb13486d7082c888a556012a3ea574dc4c651b01510ae9722a1ce184f8fd03"
-        }
-    ],
-    "plugins": [
-        "ColorMap",
-        "ConvolutionFilter",
-        "Texer2",
-        "VideoDelay"
-    ]
+	"name": "Rejects EP",
+	"id": "VB195",
+	"presets": [
+		{
+			"file": "Dynamic Duo/Rejects EP/ddA1__delirium 2.avs",
+			"size": 10882,
+			"checksum": "sha256:ef13f05fb640ed5c0c308c3e5ad6d056d034693d86f8c858f7b6c7ac5923f677"
+		},
+		{
+			"file": "Dynamic Duo/Rejects EP/ddA2__mecha design (edit).avs",
+			"size": 4812,
+			"checksum": "sha256:13913e941e61a46c562b7bceb7beb4ec6358e14b5112a9f3a48f4c73c398f410"
+		},
+		{
+			"file": "Dynamic Duo/Rejects EP/ddB1__tangram.avs",
+			"size": 3451,
+			"checksum": "sha256:df63e9e64cb5dc0e2e78047c2bcabb06be67dfab1d4ed3bfd97b8740d7648a62"
+		},
+		{
+			"file": "Dynamic Duo/Rejects EP/ddB2__skreamizm.avs",
+			"size": 3969,
+			"checksum": "sha256:ccce9a913524f70310e0bc5a15a320df5708e6944428ad1b53e24c9615201d96"
+		}
+	],
+	"assets": [
+		{
+			"file": "avsres_texer_square_sharp_24x24.bmp",
+			"size": 2406,
+			"checksum": "sha256:21b38fa90fdbe2b1884505f9bbe3a022914d6e15e2c1365f5c17a4219d1ef247"
+		},
+		{
+			"file": "avsres_texer_square_sharp_30x30.bmp",
+			"size": 3590,
+			"checksum": "sha256:e41754b033960b3a5e77252cf1edee71e97c311c2cedafc9b4139a3df51240e6"
+		},
+		{
+			"file": "skupers_lp6_02.bmp",
+			"size": 10856,
+			"checksum": "sha256:aaeb13486d7082c888a556012a3ea574dc4c651b01510ae9722a1ce184f8fd03"
+		}
+	],
+	"plugins": ["ColorMap", "ConvolutionFilter", "Texer2", "VideoDelay"]
 }

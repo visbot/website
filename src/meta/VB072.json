@@ -1,69 +1,67 @@
 {
-    "name": "les Noobiens present noobtroop volume 1",
-    "id": "VB072",
-    "presets": [
-        {
-            "file": "les Noobiens/les Noobiens present noobtroop volume 1/01 nemo - ascii visbot.avs",
-            "size": 977,
-            "checksum": "sha256:33c2b61c8714fd838748ee281cbb8a2c9c8b5168f01e0f31f4e3f228cc4ac1b6"
-        },
-        {
-            "file": "les Noobiens/les Noobiens present noobtroop volume 1/02 yathosho - cosmic rita (les Noobiens ultranoobula mix).avs",
-            "size": 1650,
-            "checksum": "sha256:be1b939b45f7f57b5976c7afc494faabdd562e196682c0fd03a139babfe598c2"
-        },
-        {
-            "file": "les Noobiens/les Noobiens present noobtroop volume 1/03 les Noobiens - sci-fi 1920s (a3 sci-fi 1980s).avs",
-            "size": 1102,
-            "checksum": "sha256:8752bc61eb7387578385fc19acbb9093f7004b7c73df5047c91130e297d7b22e"
-        },
-        {
-            "file": "les Noobiens/les Noobiens present noobtroop volume 1/04 les Noobiens - a preview to nothing.avs",
-            "size": 1961,
-            "checksum": "sha256:b41c6c2c77eb25bd5f5ff19117f13b07135c860ab995c10033efe9dd4ecb1ea4"
-        },
-        {
-            "file": "les Noobiens/les Noobiens present noobtroop volume 1/05 dark matter - ancient (les Noobiens edit).avs",
-            "size": 1705,
-            "checksum": "sha256:29153cd0b33a46dc75b25dfb13ac79369d394aeeef676bb1177eaebc5218d439"
-        },
-        {
-            "file": "les Noobiens/les Noobiens present noobtroop volume 1/06 nemo - balloons (unripe lemon's 1930s remix).avs",
-            "size": 39950,
-            "checksum": "sha256:2b690319e57d22d9117ca488cf2c3672a6c0a63cc8f832f95acac33e7dfdebbe"
-        },
-        {
-            "file": "les Noobiens/les Noobiens present noobtroop volume 1/07 les Noobiens - retroleum (a3 bebop mix).avs",
-            "size": 2668,
-            "checksum": "sha256:9f7136e23eb67cd0a803839235912d829d5cfb29fbfe646c5596af94b2de37af"
-        },
-        {
-            "file": "les Noobiens/les Noobiens present noobtroop volume 1/08 nemo - chrysanthemum (rMxD bY -+dAsN00b+-).avs",
-            "size": 1609,
-            "checksum": "sha256:ae9582a8626d9266786b723adac6eaccf4ba4e7a7ca6e73c0a8853b2361d678d"
-        },
-        {
-            "file": "les Noobiens/les Noobiens present noobtroop volume 1/09 unripe lemon - noobworld (a les Noobiens simulation).avs",
-            "size": 3612,
-            "checksum": "sha256:a9248388700c6f9951e2251c28bbb70a3c26d6be9a912aa07085b3c239b1d01c"
-        },
-        {
-            "file": "les Noobiens/les Noobiens present noobtroop volume 1/10 yathosho - retroleum (re-edit).avs",
-            "size": 1990,
-            "checksum": "sha256:15469898502e44977ff4f2c7952da0c2a887218d37aa72de62d1ca9a388e5994"
-        },
-        {
-            "file": "les Noobiens/les Noobiens present noobtroop volume 1/11 zamuz - metallic flow (les Noobiens bitflow beta).avs",
-            "size": 1449,
-            "checksum": "sha256:50d5bd479c0ab8184ea2ef780b9fcf38f76d20c676b3c62395083c291323ab1c"
-        },
-        {
-            "file": "les Noobiens/les Noobiens present noobtroop volume 1/12 nemo - dissipate (rMxD bY -+dAsN00b+-).avs",
-            "size": 636,
-            "checksum": "sha256:ad63e662dda4b8d05a6393fdcce911a4851d82c8f66d7538c01d106929e8bf19"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "les Noobiens present noobtroop volume 1",
+	"id": "VB072",
+	"presets": [
+		{
+			"file": "les Noobiens/les Noobiens present noobtroop volume 1/01 nemo - ascii visbot.avs",
+			"size": 977,
+			"checksum": "sha256:33c2b61c8714fd838748ee281cbb8a2c9c8b5168f01e0f31f4e3f228cc4ac1b6"
+		},
+		{
+			"file": "les Noobiens/les Noobiens present noobtroop volume 1/02 yathosho - cosmic rita (les Noobiens ultranoobula mix).avs",
+			"size": 1650,
+			"checksum": "sha256:be1b939b45f7f57b5976c7afc494faabdd562e196682c0fd03a139babfe598c2"
+		},
+		{
+			"file": "les Noobiens/les Noobiens present noobtroop volume 1/03 les Noobiens - sci-fi 1920s (a3 sci-fi 1980s).avs",
+			"size": 1102,
+			"checksum": "sha256:8752bc61eb7387578385fc19acbb9093f7004b7c73df5047c91130e297d7b22e"
+		},
+		{
+			"file": "les Noobiens/les Noobiens present noobtroop volume 1/04 les Noobiens - a preview to nothing.avs",
+			"size": 1961,
+			"checksum": "sha256:b41c6c2c77eb25bd5f5ff19117f13b07135c860ab995c10033efe9dd4ecb1ea4"
+		},
+		{
+			"file": "les Noobiens/les Noobiens present noobtroop volume 1/05 dark matter - ancient (les Noobiens edit).avs",
+			"size": 1705,
+			"checksum": "sha256:29153cd0b33a46dc75b25dfb13ac79369d394aeeef676bb1177eaebc5218d439"
+		},
+		{
+			"file": "les Noobiens/les Noobiens present noobtroop volume 1/06 nemo - balloons (unripe lemon's 1930s remix).avs",
+			"size": 39950,
+			"checksum": "sha256:2b690319e57d22d9117ca488cf2c3672a6c0a63cc8f832f95acac33e7dfdebbe"
+		},
+		{
+			"file": "les Noobiens/les Noobiens present noobtroop volume 1/07 les Noobiens - retroleum (a3 bebop mix).avs",
+			"size": 2668,
+			"checksum": "sha256:9f7136e23eb67cd0a803839235912d829d5cfb29fbfe646c5596af94b2de37af"
+		},
+		{
+			"file": "les Noobiens/les Noobiens present noobtroop volume 1/08 nemo - chrysanthemum (rMxD bY -+dAsN00b+-).avs",
+			"size": 1609,
+			"checksum": "sha256:ae9582a8626d9266786b723adac6eaccf4ba4e7a7ca6e73c0a8853b2361d678d"
+		},
+		{
+			"file": "les Noobiens/les Noobiens present noobtroop volume 1/09 unripe lemon - noobworld (a les Noobiens simulation).avs",
+			"size": 3612,
+			"checksum": "sha256:a9248388700c6f9951e2251c28bbb70a3c26d6be9a912aa07085b3c239b1d01c"
+		},
+		{
+			"file": "les Noobiens/les Noobiens present noobtroop volume 1/10 yathosho - retroleum (re-edit).avs",
+			"size": 1990,
+			"checksum": "sha256:15469898502e44977ff4f2c7952da0c2a887218d37aa72de62d1ca9a388e5994"
+		},
+		{
+			"file": "les Noobiens/les Noobiens present noobtroop volume 1/11 zamuz - metallic flow (les Noobiens bitflow beta).avs",
+			"size": 1449,
+			"checksum": "sha256:50d5bd479c0ab8184ea2ef780b9fcf38f76d20c676b3c62395083c291323ab1c"
+		},
+		{
+			"file": "les Noobiens/les Noobiens present noobtroop volume 1/12 nemo - dissipate (rMxD bY -+dAsN00b+-).avs",
+			"size": 636,
+			"checksum": "sha256:ad63e662dda4b8d05a6393fdcce911a4851d82c8f66d7538c01d106929e8bf19"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

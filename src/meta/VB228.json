@@ -1,40 +1,34 @@
 {
-    "name": "sEP . vs amphirion - pulse remixes",
-    "id": "VB228",
-    "presets": [
-        {
-            "file": "frames.of.reality/sEP . vs amphirion - pulse remixes/001 . amphirion - pulse (front row center remix).avs",
-            "size": 5706,
-            "checksum": "sha256:17b8e095c37796350e2c34c016de7f68f63d817f2a0f1e62dee30c792d541246"
-        },
-        {
-            "file": "frames.of.reality/sEP . vs amphirion - pulse remixes/002 . amphirion - pulse (caribon remix).avs",
-            "size": 4895,
-            "checksum": "sha256:1b1d32aa9389872d41c83c4baafc89fd6145fe2028d3379ecb9fdeff82ac2663"
-        },
-        {
-            "file": "frames.of.reality/sEP . vs amphirion - pulse remixes/003 . amphirion - pulse (xore wounds remix).avs",
-            "size": 5044,
-            "checksum": "sha256:c63369de28e668a4d5e49202b6cf3b0cbdefddeefd4022b63d642a4ad3914d66"
-        },
-        {
-            "file": "frames.of.reality/sEP . vs amphirion - pulse remixes/004 . amphirion - pulse (replenish health remix).avs",
-            "size": 4321,
-            "checksum": "sha256:3685eaa89dd8e951f72c84fefe719dd8317ea2c8801a70127536e3c92bfcd018"
-        }
-    ],
-    "assets": [
-        {
-            "file": "avsres_texer_circle_fade_25x25.bmp",
-            "size": 1954,
-            "checksum": "sha256:e4f85455ec309a1ea3e8aab2ad5ab3256ca230dae80b2de38efe3101f90bc945"
-        }
-    ],
-    "plugins": [
-        "ChannelShift",
-        "ColorMap",
-        "ConvolutionFilter",
-        "Multiplier",
-        "Texer2"
-    ]
+	"name": "sEP . vs amphirion - pulse remixes",
+	"id": "VB228",
+	"presets": [
+		{
+			"file": "frames.of.reality/sEP . vs amphirion - pulse remixes/001 . amphirion - pulse (front row center remix).avs",
+			"size": 5706,
+			"checksum": "sha256:17b8e095c37796350e2c34c016de7f68f63d817f2a0f1e62dee30c792d541246"
+		},
+		{
+			"file": "frames.of.reality/sEP . vs amphirion - pulse remixes/002 . amphirion - pulse (caribon remix).avs",
+			"size": 4895,
+			"checksum": "sha256:1b1d32aa9389872d41c83c4baafc89fd6145fe2028d3379ecb9fdeff82ac2663"
+		},
+		{
+			"file": "frames.of.reality/sEP . vs amphirion - pulse remixes/003 . amphirion - pulse (xore wounds remix).avs",
+			"size": 5044,
+			"checksum": "sha256:c63369de28e668a4d5e49202b6cf3b0cbdefddeefd4022b63d642a4ad3914d66"
+		},
+		{
+			"file": "frames.of.reality/sEP . vs amphirion - pulse remixes/004 . amphirion - pulse (replenish health remix).avs",
+			"size": 4321,
+			"checksum": "sha256:3685eaa89dd8e951f72c84fefe719dd8317ea2c8801a70127536e3c92bfcd018"
+		}
+	],
+	"assets": [
+		{
+			"file": "avsres_texer_circle_fade_25x25.bmp",
+			"size": 1954,
+			"checksum": "sha256:e4f85455ec309a1ea3e8aab2ad5ab3256ca230dae80b2de38efe3101f90bc945"
+		}
+	],
+	"plugins": ["ChannelShift", "ColorMap", "ConvolutionFilter", "Multiplier", "Texer2"]
 }

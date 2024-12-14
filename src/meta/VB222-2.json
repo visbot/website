@@ -1,157 +1,149 @@
 {
-    "name": "whyEye.org final cut [10th anniversary reissue]",
-    "id": "VB222-2",
-    "presets": [
-        {
-            "file": "whyEye.org/whyEye.org final cut [limited edition]/01 yathosho - off keys.avs",
-            "size": 2445,
-            "checksum": "sha256:ae4fd6ff0e5ceef288165847fa26f628215c67ad8f7e3293eec2128462ed3c7b"
-        },
-        {
-            "file": "whyEye.org/whyEye.org final cut [limited edition]/02 yathosho - domino.avs",
-            "size": 5806,
-            "checksum": "sha256:d7e9db2dcf48af712e5a18effda0ae106b1a52aeb1ca3aed87936e988770b242"
-        },
-        {
-            "file": "whyEye.org/whyEye.org final cut [limited edition]/03 yathosho - pillow fight.avs",
-            "size": 6642,
-            "checksum": "sha256:b19c2010d60fa34a5519a7eb9eb39d97fe300823361be66cc8c4144b2c698097"
-        },
-        {
-            "file": "whyEye.org/whyEye.org final cut [limited edition]/04 yathosho - birds.avs",
-            "size": 2536,
-            "checksum": "sha256:ad8cfa6d38048b9674543d01b6c5666c5879026034c3b13357c7e3cc320448cb"
-        },
-        {
-            "file": "whyEye.org/whyEye.org final cut [limited edition]/05 yathosho - vertigo.avs",
-            "size": 3153,
-            "checksum": "sha256:dd490602a738e6753fcf5041af4ab406d966c25bc888018a7eb474af710d9714"
-        },
-        {
-            "file": "whyEye.org/whyEye.org final cut [limited edition]/06 yathosho - sail away 2.0.avs",
-            "size": 2382,
-            "checksum": "sha256:89637524a5fe24c566df0db1f80c59b2c9912ee982c5f2bacc9977191d66ed10"
-        },
-        {
-            "file": "whyEye.org/whyEye.org final cut [limited edition]/07 yathosho - bebop.avs",
-            "size": 1791,
-            "checksum": "sha256:566fd4b953a1f763f33eb6f8df19521677a9c6d208570aa049b4788761a7c6dc"
-        },
-        {
-            "file": "whyEye.org/whyEye.org final cut [limited edition]/08 yathosho - warm.avs",
-            "size": 3992,
-            "checksum": "sha256:c1f969a5c136c2a3fa336c7acad1b887c24e86671c05fc7278576652c2f666cb"
-        },
-        {
-            "file": "whyEye.org/whyEye.org final cut [limited edition]/09 yathosho - modular.avs",
-            "size": 4846,
-            "checksum": "sha256:e2bed205cdaef71f2416b1bc2b669e270d3f4de467c7cc8635b4f08cf7fb2796"
-        },
-        {
-            "file": "whyEye.org/whyEye.org final cut [limited edition]/10 yathosho - sokoban.avs",
-            "size": 2697,
-            "checksum": "sha256:63c464b0f03d3cf19fd6228c288e003f938753e769a143c3c595e6b14e4fb5d3"
-        },
-        {
-            "file": "whyEye.org/whyEye.org final cut [limited edition]/11 yathosho - domino [version].avs",
-            "size": 5812,
-            "checksum": "sha256:b5e45cfc0c317f886a59ff430001bc969c81ca728cfa56079c2c675402c96a9a"
-        },
-        {
-            "file": "whyEye.org/whyEye.org final cut [limited edition]/12 yathosho - vertigo [version].avs",
-            "size": 3159,
-            "checksum": "sha256:c08c62935de4e4f98f324c6e8bc0e373764b9f997b51eda7bfaa5e9839d4af50"
-        },
-        {
-            "file": "whyEye.org/whyEye.org final cut [limited edition]/13 yathosho - sail away 2.0 [fake tuggummi nite version].avs",
-            "size": 2364,
-            "checksum": "sha256:3a1d319de1fe7c1267c348af8b2a1b97c66e88e5364cd702c668baa51103c2f9"
-        },
-        {
-            "file": "whyEye.org/whyEye.org final cut [limited edition]/14 yathosho - modular [version].avs",
-            "size": 4122,
-            "checksum": "sha256:7dbbb624127f4c3ae5004462aefae58764466b8f5c2dff106f924e57607ea2c7"
-        },
-        {
-            "file": "whyEye.org/whyEye.org final cut [limited edition]/15 yathosho - bebop [nite version].avs",
-            "size": 2157,
-            "checksum": "sha256:8eab9766115f3fc9f6bc6cbe50f43c23e25198160a045b6baf2f888bb04822cf"
-        },
-        {
-            "file": "whyEye.org/whyEye.org final cut [limited edition]/16 yathosho - birds [version].avs",
-            "size": 2544,
-            "checksum": "sha256:9ec01b22e1264c74f1f1e2e54d7df78577836b43175a91251db68b2da5d6b80f"
-        },
-        {
-            "file": "whyEye.org/whyEye.org final cut [limited edition]/17 yathosho - black milk.avs",
-            "size": 2708,
-            "checksum": "sha256:458dea2c71df00a0ae9c22d15f876637ed62ca66c62a462e262acdd229d13dd0"
-        },
-        {
-            "file": "whyEye.org/whyEye.org final cut [limited edition]/18 yathosho - sokoban [u.g.l.y. edit #2].avs",
-            "size": 2571,
-            "checksum": "sha256:8312f62921d22d60963b02205a5e3192ecaf2164e0258b0073b69ea212352551"
-        },
-        {
-            "file": "whyEye.org/whyEye.org final cut [limited edition]/19 yathosho - pillow fight [re-feathered].avs",
-            "size": 7165,
-            "checksum": "sha256:d57885fe5a9c09d046a6a398f6f1a9d566f810f60b47196200b74bd903bcd1d2"
-        },
-        {
-            "file": "whyEye.org/whyEye.org final cut [limited edition]/20 yathosho - nite constructions [reconstruction].avs",
-            "size": 2864,
-            "checksum": "sha256:d5f4a7bbc06140e07dace0d4926cf93c68877aec6a3716d649ab118a515d9722"
-        }
-    ],
-    "assets": [
-        {
-            "file": "avsres_texer_square_sharp_32x32.bmp",
-            "size": 1664,
-            "checksum": "sha256:c58bd222c6e3acdf02a3ac553ea0da340f7c29c24c7a73cb2196af1085dce866"
-        },
-        {
-            "file": "avsres_texer_square_sharp_36x36.bmp",
-            "size": 2368,
-            "checksum": "sha256:074dfa0fadbfff9e8446e54e6806d7ce53c15cab1c9c2ea1510e1aaca89d5e87"
-        },
-        {
-            "file": "avsres_texer_square_sharp_48x48.bmp",
-            "size": 3200,
-            "checksum": "sha256:bb4e9f6f084e61e1c72e04fcc947d368cc0bae71c96172d2eac64656c486d70a"
-        },
-        {
-            "file": "avsres_texer_square_sharp_60x60.bmp",
-            "size": 4688,
-            "checksum": "sha256:1f04b10b325c77f7a2520dc7da8e4b80f10184df129ccb1600a88e8a8b83c3dc"
-        },
-        {
-            "file": "avsres_texer_square_sharp_64x64.bmp",
-            "size": 6464,
-            "checksum": "sha256:6f7e3fe92089100c02821a23e06a4ec9e683c40400b0aa6fc55629d2388d0808"
-        },
-        {
-            "file": "avsres_texer_square_sharp_72x72.bmp",
-            "size": 7120,
-            "checksum": "sha256:b75c8f2e291fcf254aa02e53148c50e7f7bbf228cdca6d86ae89d37c69ed3826"
-        },
-        {
-            "file": "avsres_texer_square_sharp_90x90.bmp",
-            "size": 10672,
-            "checksum": "sha256:62692c667dc8030a152035eacbd53e4d5ecb312636fbc67ee293ee969c102045"
-        },
-        {
-            "file": "avsres_texer_square_sharp_96x96.bmp",
-            "size": 12608,
-            "checksum": "sha256:d6de9a6d0f47a1864cfc7ada89bcdf7f09924264db301466baaef861260036b3"
-        }
-    ],
-    "plugins": [
-        "AddBorder",
-        "ChannelShift",
-        "ColorMap",
-        "ConvolutionFilter",
-        "FramerateLimiter",
-        "Texer2",
-        "VideoDelay"
-    ]
+	"name": "whyEye.org final cut [10th anniversary reissue]",
+	"id": "VB222-2",
+	"presets": [
+		{
+			"file": "whyEye.org/whyEye.org final cut [limited edition]/01 yathosho - off keys.avs",
+			"size": 2445,
+			"checksum": "sha256:ae4fd6ff0e5ceef288165847fa26f628215c67ad8f7e3293eec2128462ed3c7b"
+		},
+		{
+			"file": "whyEye.org/whyEye.org final cut [limited edition]/02 yathosho - domino.avs",
+			"size": 5806,
+			"checksum": "sha256:d7e9db2dcf48af712e5a18effda0ae106b1a52aeb1ca3aed87936e988770b242"
+		},
+		{
+			"file": "whyEye.org/whyEye.org final cut [limited edition]/03 yathosho - pillow fight.avs",
+			"size": 6642,
+			"checksum": "sha256:b19c2010d60fa34a5519a7eb9eb39d97fe300823361be66cc8c4144b2c698097"
+		},
+		{
+			"file": "whyEye.org/whyEye.org final cut [limited edition]/04 yathosho - birds.avs",
+			"size": 2536,
+			"checksum": "sha256:ad8cfa6d38048b9674543d01b6c5666c5879026034c3b13357c7e3cc320448cb"
+		},
+		{
+			"file": "whyEye.org/whyEye.org final cut [limited edition]/05 yathosho - vertigo.avs",
+			"size": 3153,
+			"checksum": "sha256:dd490602a738e6753fcf5041af4ab406d966c25bc888018a7eb474af710d9714"
+		},
+		{
+			"file": "whyEye.org/whyEye.org final cut [limited edition]/06 yathosho - sail away 2.0.avs",
+			"size": 2382,
+			"checksum": "sha256:89637524a5fe24c566df0db1f80c59b2c9912ee982c5f2bacc9977191d66ed10"
+		},
+		{
+			"file": "whyEye.org/whyEye.org final cut [limited edition]/07 yathosho - bebop.avs",
+			"size": 1791,
+			"checksum": "sha256:566fd4b953a1f763f33eb6f8df19521677a9c6d208570aa049b4788761a7c6dc"
+		},
+		{
+			"file": "whyEye.org/whyEye.org final cut [limited edition]/08 yathosho - warm.avs",
+			"size": 3992,
+			"checksum": "sha256:c1f969a5c136c2a3fa336c7acad1b887c24e86671c05fc7278576652c2f666cb"
+		},
+		{
+			"file": "whyEye.org/whyEye.org final cut [limited edition]/09 yathosho - modular.avs",
+			"size": 4846,
+			"checksum": "sha256:e2bed205cdaef71f2416b1bc2b669e270d3f4de467c7cc8635b4f08cf7fb2796"
+		},
+		{
+			"file": "whyEye.org/whyEye.org final cut [limited edition]/10 yathosho - sokoban.avs",
+			"size": 2697,
+			"checksum": "sha256:63c464b0f03d3cf19fd6228c288e003f938753e769a143c3c595e6b14e4fb5d3"
+		},
+		{
+			"file": "whyEye.org/whyEye.org final cut [limited edition]/11 yathosho - domino [version].avs",
+			"size": 5812,
+			"checksum": "sha256:b5e45cfc0c317f886a59ff430001bc969c81ca728cfa56079c2c675402c96a9a"
+		},
+		{
+			"file": "whyEye.org/whyEye.org final cut [limited edition]/12 yathosho - vertigo [version].avs",
+			"size": 3159,
+			"checksum": "sha256:c08c62935de4e4f98f324c6e8bc0e373764b9f997b51eda7bfaa5e9839d4af50"
+		},
+		{
+			"file": "whyEye.org/whyEye.org final cut [limited edition]/13 yathosho - sail away 2.0 [fake tuggummi nite version].avs",
+			"size": 2364,
+			"checksum": "sha256:3a1d319de1fe7c1267c348af8b2a1b97c66e88e5364cd702c668baa51103c2f9"
+		},
+		{
+			"file": "whyEye.org/whyEye.org final cut [limited edition]/14 yathosho - modular [version].avs",
+			"size": 4122,
+			"checksum": "sha256:7dbbb624127f4c3ae5004462aefae58764466b8f5c2dff106f924e57607ea2c7"
+		},
+		{
+			"file": "whyEye.org/whyEye.org final cut [limited edition]/15 yathosho - bebop [nite version].avs",
+			"size": 2157,
+			"checksum": "sha256:8eab9766115f3fc9f6bc6cbe50f43c23e25198160a045b6baf2f888bb04822cf"
+		},
+		{
+			"file": "whyEye.org/whyEye.org final cut [limited edition]/16 yathosho - birds [version].avs",
+			"size": 2544,
+			"checksum": "sha256:9ec01b22e1264c74f1f1e2e54d7df78577836b43175a91251db68b2da5d6b80f"
+		},
+		{
+			"file": "whyEye.org/whyEye.org final cut [limited edition]/17 yathosho - black milk.avs",
+			"size": 2708,
+			"checksum": "sha256:458dea2c71df00a0ae9c22d15f876637ed62ca66c62a462e262acdd229d13dd0"
+		},
+		{
+			"file": "whyEye.org/whyEye.org final cut [limited edition]/18 yathosho - sokoban [u.g.l.y. edit #2].avs",
+			"size": 2571,
+			"checksum": "sha256:8312f62921d22d60963b02205a5e3192ecaf2164e0258b0073b69ea212352551"
+		},
+		{
+			"file": "whyEye.org/whyEye.org final cut [limited edition]/19 yathosho - pillow fight [re-feathered].avs",
+			"size": 7165,
+			"checksum": "sha256:d57885fe5a9c09d046a6a398f6f1a9d566f810f60b47196200b74bd903bcd1d2"
+		},
+		{
+			"file": "whyEye.org/whyEye.org final cut [limited edition]/20 yathosho - nite constructions [reconstruction].avs",
+			"size": 2864,
+			"checksum": "sha256:d5f4a7bbc06140e07dace0d4926cf93c68877aec6a3716d649ab118a515d9722"
+		}
+	],
+	"assets": [
+		{
+			"file": "avsres_texer_square_sharp_32x32.bmp",
+			"size": 1664,
+			"checksum": "sha256:c58bd222c6e3acdf02a3ac553ea0da340f7c29c24c7a73cb2196af1085dce866"
+		},
+		{
+			"file": "avsres_texer_square_sharp_36x36.bmp",
+			"size": 2368,
+			"checksum": "sha256:074dfa0fadbfff9e8446e54e6806d7ce53c15cab1c9c2ea1510e1aaca89d5e87"
+		},
+		{
+			"file": "avsres_texer_square_sharp_48x48.bmp",
+			"size": 3200,
+			"checksum": "sha256:bb4e9f6f084e61e1c72e04fcc947d368cc0bae71c96172d2eac64656c486d70a"
+		},
+		{
+			"file": "avsres_texer_square_sharp_60x60.bmp",
+			"size": 4688,
+			"checksum": "sha256:1f04b10b325c77f7a2520dc7da8e4b80f10184df129ccb1600a88e8a8b83c3dc"
+		},
+		{
+			"file": "avsres_texer_square_sharp_64x64.bmp",
+			"size": 6464,
+			"checksum": "sha256:6f7e3fe92089100c02821a23e06a4ec9e683c40400b0aa6fc55629d2388d0808"
+		},
+		{
+			"file": "avsres_texer_square_sharp_72x72.bmp",
+			"size": 7120,
+			"checksum": "sha256:b75c8f2e291fcf254aa02e53148c50e7f7bbf228cdca6d86ae89d37c69ed3826"
+		},
+		{
+			"file": "avsres_texer_square_sharp_90x90.bmp",
+			"size": 10672,
+			"checksum": "sha256:62692c667dc8030a152035eacbd53e4d5ecb312636fbc67ee293ee969c102045"
+		},
+		{
+			"file": "avsres_texer_square_sharp_96x96.bmp",
+			"size": 12608,
+			"checksum": "sha256:d6de9a6d0f47a1864cfc7ada89bcdf7f09924264db301466baaef861260036b3"
+		}
+	],
+	"plugins": ["AddBorder", "ChannelShift", "ColorMap", "ConvolutionFilter", "FramerateLimiter", "Texer2", "VideoDelay"]
 }

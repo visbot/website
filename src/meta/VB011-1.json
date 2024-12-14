@@ -1,112 +1,107 @@
 {
-    "name": "whyEye.org version 2",
-    "id": "VB011-1",
-    "presets": [
-        {
-            "file": "whyEye.org/whyEye.org version 2/yathosho__1970_v2.avs",
-            "size": 1142,
-            "checksum": "sha256:1a21891613c42f2ee30d4d22940a696fd11d8785899df32a95bec76353a9112f"
-        },
-        {
-            "file": "whyEye.org/whyEye.org version 2/yathosho__78_v2.avs",
-            "size": 1771,
-            "checksum": "sha256:e86dde6faaf1b93033ecee58dad31900f2456c90df6722a3e62488d9a55853b6"
-        },
-        {
-            "file": "whyEye.org/whyEye.org version 2/yathosho__alpenveilchen_v2.avs",
-            "size": 1279,
-            "checksum": "sha256:e81c7cb19e9ae2da86be91787f294a213d2f613644bd89f9d15ef3f81e9b9b8f"
-        },
-        {
-            "file": "whyEye.org/whyEye.org version 2/yathosho__ambrosia_v2.avs",
-            "size": 1875,
-            "checksum": "sha256:6abc9ac93781488b6043b66297a3634ce3c00c36e1bb6bbf2116c5e2ea700a75"
-        },
-        {
-            "file": "whyEye.org/whyEye.org version 2/yathosho__beautifully_nothing_v2.avs",
-            "size": 1086,
-            "checksum": "sha256:842910ed3a32802f2bb42a5ad9300d9387659230a8b0abd78909b7e639f92523"
-        },
-        {
-            "file": "whyEye.org/whyEye.org version 2/yathosho__beyond_beyond_v2.avs",
-            "size": 1482,
-            "checksum": "sha256:db111d7a175908361f3788c89a174ffc588a9928d70d1e8bf65d52abe893f926"
-        },
-        {
-            "file": "whyEye.org/whyEye.org version 2/yathosho__deep_into_something_v2.avs",
-            "size": 877,
-            "checksum": "sha256:3575f6a8d1958eaecfa63941a03f0ed685dacf4c4b9bb09089e20ea2e900f553"
-        },
-        {
-            "file": "whyEye.org/whyEye.org version 2/yathosho__die_kleine_biene_maja_v2.avs",
-            "size": 507,
-            "checksum": "sha256:cd80f9e948d850127c9f2675691af2d4ab279546412969111ef9ec4b65b6d764"
-        },
-        {
-            "file": "whyEye.org/whyEye.org version 2/yathosho__kon-go_v2.avs",
-            "size": 1376,
-            "checksum": "sha256:b8aaa0c95e5efa6348c4e258c6e3943a55a1596c90e72e56b98154d9b8e9c384"
-        },
-        {
-            "file": "whyEye.org/whyEye.org version 2/yathosho__orchidea_v2.avs",
-            "size": 1010,
-            "checksum": "sha256:1764aadec6767c502446eb2eb334aeda37c5c79ef7f64e0befd0e4fbb44baac3"
-        },
-        {
-            "file": "whyEye.org/whyEye.org version 2/yathosho__organismus_3002.avs",
-            "size": 1243,
-            "checksum": "sha256:d456c3a37c70359c4680d73acd4ddb1eabd4d122383dd9d223ac7429114c7e87"
-        },
-        {
-            "file": "whyEye.org/whyEye.org version 2/yathosho__polydimorphium_v2.avs",
-            "size": 1160,
-            "checksum": "sha256:57ec7ad9691123736305fce122991cd9e70065d02d95bb5ba9047943f21aec00"
-        },
-        {
-            "file": "whyEye.org/whyEye.org version 2/yathosho__raumbewegung_v2.avs",
-            "size": 978,
-            "checksum": "sha256:7355ec35ce4376b4ab4199e4296818747476bb7a39e60bafd03d7e3255aac087"
-        },
-        {
-            "file": "whyEye.org/whyEye.org version 2/yathosho__skogsklocka_v2.avs",
-            "size": 1081,
-            "checksum": "sha256:948e8c9acf6db843f2bdf5183964b50631f15bd047dcd8d20a05f26b8a59e230"
-        },
-        {
-            "file": "whyEye.org/whyEye.org version 2/yathosho__sternfrucht_v2.avs",
-            "size": 1141,
-            "checksum": "sha256:48d6df91ffd469bd6149378a0f7c3ee26722346b7025e0e2b28b704ea96916c1"
-        },
-        {
-            "file": "whyEye.org/whyEye.org version 2/yathosho__the_audience_v2.avs",
-            "size": 1503,
-            "checksum": "sha256:adfea89494a0e2265f468bd4145e01be0af9ac0158f176694a2fbdefed8550f7"
-        },
-        {
-            "file": "whyEye.org/whyEye.org version 2/yathosho__tischdeckenmikrostruktur_v2.avs",
-            "size": 1393,
-            "checksum": "sha256:348d268354963882f1dc35d4bf4a23a0110e3eda8410cba8873b6ad1184c825d"
-        },
-        {
-            "file": "whyEye.org/whyEye.org version 2/yathosho__venom_v2.avs",
-            "size": 1186,
-            "checksum": "sha256:f44b185b37bfe4f4d2cdfca9d1cb6352306c59ef09d57e13b3bb54a697b32dfe"
-        },
-        {
-            "file": "whyEye.org/whyEye.org version 2/yathosho__zahnschmelz_v2.avs",
-            "size": 1099,
-            "checksum": "sha256:dd9d95f4e4b9b269d50bd780900179f49243920899370961bb1afd00740ebd7d"
-        },
-        {
-            "file": "whyEye.org/whyEye.org version 2/yathosho_vs_tk__lichtkoerper_v2.avs",
-            "size": 1155,
-            "checksum": "sha256:46b500fccff17e734b2ac33d8e659683b09c20bc80c61d17f6dd6f4a84a57de5"
-        }
-    ],
-    "plugins": [
-        "ChannelShift",
-        "ColorMap",
-        "ConvolutionFilter",
-        "Multiplier"
-    ]
+	"name": "whyEye.org version 2",
+	"id": "VB011-1",
+	"presets": [
+		{
+			"file": "whyEye.org/whyEye.org version 2/yathosho__1970_v2.avs",
+			"size": 1142,
+			"checksum": "sha256:1a21891613c42f2ee30d4d22940a696fd11d8785899df32a95bec76353a9112f"
+		},
+		{
+			"file": "whyEye.org/whyEye.org version 2/yathosho__78_v2.avs",
+			"size": 1771,
+			"checksum": "sha256:e86dde6faaf1b93033ecee58dad31900f2456c90df6722a3e62488d9a55853b6"
+		},
+		{
+			"file": "whyEye.org/whyEye.org version 2/yathosho__alpenveilchen_v2.avs",
+			"size": 1279,
+			"checksum": "sha256:e81c7cb19e9ae2da86be91787f294a213d2f613644bd89f9d15ef3f81e9b9b8f"
+		},
+		{
+			"file": "whyEye.org/whyEye.org version 2/yathosho__ambrosia_v2.avs",
+			"size": 1875,
+			"checksum": "sha256:6abc9ac93781488b6043b66297a3634ce3c00c36e1bb6bbf2116c5e2ea700a75"
+		},
+		{
+			"file": "whyEye.org/whyEye.org version 2/yathosho__beautifully_nothing_v2.avs",
+			"size": 1086,
+			"checksum": "sha256:842910ed3a32802f2bb42a5ad9300d9387659230a8b0abd78909b7e639f92523"
+		},
+		{
+			"file": "whyEye.org/whyEye.org version 2/yathosho__beyond_beyond_v2.avs",
+			"size": 1482,
+			"checksum": "sha256:db111d7a175908361f3788c89a174ffc588a9928d70d1e8bf65d52abe893f926"
+		},
+		{
+			"file": "whyEye.org/whyEye.org version 2/yathosho__deep_into_something_v2.avs",
+			"size": 877,
+			"checksum": "sha256:3575f6a8d1958eaecfa63941a03f0ed685dacf4c4b9bb09089e20ea2e900f553"
+		},
+		{
+			"file": "whyEye.org/whyEye.org version 2/yathosho__die_kleine_biene_maja_v2.avs",
+			"size": 507,
+			"checksum": "sha256:cd80f9e948d850127c9f2675691af2d4ab279546412969111ef9ec4b65b6d764"
+		},
+		{
+			"file": "whyEye.org/whyEye.org version 2/yathosho__kon-go_v2.avs",
+			"size": 1376,
+			"checksum": "sha256:b8aaa0c95e5efa6348c4e258c6e3943a55a1596c90e72e56b98154d9b8e9c384"
+		},
+		{
+			"file": "whyEye.org/whyEye.org version 2/yathosho__orchidea_v2.avs",
+			"size": 1010,
+			"checksum": "sha256:1764aadec6767c502446eb2eb334aeda37c5c79ef7f64e0befd0e4fbb44baac3"
+		},
+		{
+			"file": "whyEye.org/whyEye.org version 2/yathosho__organismus_3002.avs",
+			"size": 1243,
+			"checksum": "sha256:d456c3a37c70359c4680d73acd4ddb1eabd4d122383dd9d223ac7429114c7e87"
+		},
+		{
+			"file": "whyEye.org/whyEye.org version 2/yathosho__polydimorphium_v2.avs",
+			"size": 1160,
+			"checksum": "sha256:57ec7ad9691123736305fce122991cd9e70065d02d95bb5ba9047943f21aec00"
+		},
+		{
+			"file": "whyEye.org/whyEye.org version 2/yathosho__raumbewegung_v2.avs",
+			"size": 978,
+			"checksum": "sha256:7355ec35ce4376b4ab4199e4296818747476bb7a39e60bafd03d7e3255aac087"
+		},
+		{
+			"file": "whyEye.org/whyEye.org version 2/yathosho__skogsklocka_v2.avs",
+			"size": 1081,
+			"checksum": "sha256:948e8c9acf6db843f2bdf5183964b50631f15bd047dcd8d20a05f26b8a59e230"
+		},
+		{
+			"file": "whyEye.org/whyEye.org version 2/yathosho__sternfrucht_v2.avs",
+			"size": 1141,
+			"checksum": "sha256:48d6df91ffd469bd6149378a0f7c3ee26722346b7025e0e2b28b704ea96916c1"
+		},
+		{
+			"file": "whyEye.org/whyEye.org version 2/yathosho__the_audience_v2.avs",
+			"size": 1503,
+			"checksum": "sha256:adfea89494a0e2265f468bd4145e01be0af9ac0158f176694a2fbdefed8550f7"
+		},
+		{
+			"file": "whyEye.org/whyEye.org version 2/yathosho__tischdeckenmikrostruktur_v2.avs",
+			"size": 1393,
+			"checksum": "sha256:348d268354963882f1dc35d4bf4a23a0110e3eda8410cba8873b6ad1184c825d"
+		},
+		{
+			"file": "whyEye.org/whyEye.org version 2/yathosho__venom_v2.avs",
+			"size": 1186,
+			"checksum": "sha256:f44b185b37bfe4f4d2cdfca9d1cb6352306c59ef09d57e13b3bb54a697b32dfe"
+		},
+		{
+			"file": "whyEye.org/whyEye.org version 2/yathosho__zahnschmelz_v2.avs",
+			"size": 1099,
+			"checksum": "sha256:dd9d95f4e4b9b269d50bd780900179f49243920899370961bb1afd00740ebd7d"
+		},
+		{
+			"file": "whyEye.org/whyEye.org version 2/yathosho_vs_tk__lichtkoerper_v2.avs",
+			"size": 1155,
+			"checksum": "sha256:46b500fccff17e734b2ac33d8e659683b09c20bc80c61d17f6dd6f4a84a57de5"
+		}
+	],
+	"plugins": ["ChannelShift", "ColorMap", "ConvolutionFilter", "Multiplier"]
 }

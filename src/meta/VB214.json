@@ -1,30 +1,27 @@
 {
-    "name": "R2 (B-Sides)",
-    "id": "VB214",
-    "presets": [
-        {
-            "file": "Dynamic Duo/R2/R2.3 B-Sides/ddA1__pak-9 & vanish - ninjaisbleeding [dynamic duo's re-traumatization].avs",
-            "size": 5514,
-            "checksum": "sha256:b87562e19af81bce5e7e9354eef10c872c37b4d9e153eb528f039038c00bd612"
-        },
-        {
-            "file": "Dynamic Duo/R2/R2.3 B-Sides/ddA2__les Noobiens - the allnighter [dynamic duo's networking remix].avs",
-            "size": 3559,
-            "checksum": "sha256:47020d0bcb4547c691688223901eb25f6749d1e1b7300d9d51e0f6f23e671002"
-        },
-        {
-            "file": "Dynamic Duo/R2/R2.3 B-Sides/ddB1__frames-of-reality - asfgs [dynamic duo's moskau remix].avs",
-            "size": 5680,
-            "checksum": "sha256:8ab86d1088543c83e43e39f014726028f1e897a80eb4f1cafeb0ba12dd7cc738"
-        },
-        {
-            "file": "Dynamic Duo/R2/R2.3 B-Sides/ddB2__vanish - through the eyes of hypocrisy [dynamic duo re-rub].avs",
-            "size": 3030,
-            "checksum": "sha256:30317eb7adf3c085ce349b2b2af0a5762b9ac7ba4eb4cb66de1deb63285e83c9"
-        }
-    ],
-    "plugins": [
-        "AddBorder",
-        "ConvolutionFilter"
-    ]
+	"name": "R2 (B-Sides)",
+	"id": "VB214",
+	"presets": [
+		{
+			"file": "Dynamic Duo/R2/R2.3 B-Sides/ddA1__pak-9 & vanish - ninjaisbleeding [dynamic duo's re-traumatization].avs",
+			"size": 5514,
+			"checksum": "sha256:b87562e19af81bce5e7e9354eef10c872c37b4d9e153eb528f039038c00bd612"
+		},
+		{
+			"file": "Dynamic Duo/R2/R2.3 B-Sides/ddA2__les Noobiens - the allnighter [dynamic duo's networking remix].avs",
+			"size": 3559,
+			"checksum": "sha256:47020d0bcb4547c691688223901eb25f6749d1e1b7300d9d51e0f6f23e671002"
+		},
+		{
+			"file": "Dynamic Duo/R2/R2.3 B-Sides/ddB1__frames-of-reality - asfgs [dynamic duo's moskau remix].avs",
+			"size": 5680,
+			"checksum": "sha256:8ab86d1088543c83e43e39f014726028f1e897a80eb4f1cafeb0ba12dd7cc738"
+		},
+		{
+			"file": "Dynamic Duo/R2/R2.3 B-Sides/ddB2__vanish - through the eyes of hypocrisy [dynamic duo re-rub].avs",
+			"size": 3030,
+			"checksum": "sha256:30317eb7adf3c085ce349b2b2af0a5762b9ac7ba4eb4cb66de1deb63285e83c9"
+		}
+	],
+	"plugins": ["AddBorder", "ConvolutionFilter"]
 }

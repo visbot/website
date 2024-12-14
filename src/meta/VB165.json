@@ -1,59 +1,57 @@
 {
-    "name": "Bsides",
-    "id": "VB165",
-    "presets": [
-        {
-            "file": "Dynamic Duo/Bsides/01 dynamic duo - chromatics (ya-tho-sho treatment).avs",
-            "size": 5581,
-            "checksum": "sha256:ef8e342ba0279dd4d36aed675e717604279a361ad56ea8fdc33f5e66efba960c"
-        },
-        {
-            "file": "Dynamic Duo/Bsides/02 dynamic duo - contraction.avs",
-            "size": 3204,
-            "checksum": "sha256:85de21b3d8e8f8da578d1fed2053c309517801b7514eafa2acbb797702cb731f"
-        },
-        {
-            "file": "Dynamic Duo/Bsides/03 dynamic duo - pit (live from lakehurst).avs",
-            "size": 2937,
-            "checksum": "sha256:b1f0d1769a351ce10e809aea482b2172d70c33a9fc4046ec2bc7ce0ca13f9812"
-        },
-        {
-            "file": "Dynamic Duo/Bsides/04 dynamic duo - styx.avs",
-            "size": 9798,
-            "checksum": "sha256:0ad86a2d9ce81bf828a071990142c2dbe405f3a5c43ea3f0e3c0dd6e73c4abd0"
-        },
-        {
-            "file": "Dynamic Duo/Bsides/05 dynamic duo - flickermood (edit).avs",
-            "size": 7755,
-            "checksum": "sha256:7ce385f4ef8f76cee05aaa83dc653e424be374d14343121a365b3e9d07914bad"
-        },
-        {
-            "file": "Dynamic Duo/Bsides/06 dynamic duo - tentaclism (pan am rework).avs",
-            "size": 3278,
-            "checksum": "sha256:a513bafc1e1b5529e4d54e93d8c47bd8680292c9743456b33d8a40d2420226d6"
-        },
-        {
-            "file": "Dynamic Duo/Bsides/07 dynamic duo - flickermood.avs",
-            "size": 7879,
-            "checksum": "sha256:799a2e241155f8b83dcb342753837bfdd2faaff0ac0f2eabfce4afc2fca822ff"
-        },
-        {
-            "file": "Dynamic Duo/Bsides/08 dynamic duo - tentaclism.avs",
-            "size": 3284,
-            "checksum": "sha256:dcff0a643dab951d36269ddefb03d2a3fb4792adbe84280c2e656e207a8f0348"
-        },
-        {
-            "file": "Dynamic Duo/Bsides/09 zamuz - spiritual (dynamic duo's soft parade).avs",
-            "size": 3432,
-            "checksum": "sha256:c7c6ed2d1c415c6fb067bd3e78eceb9c159ec360d8c63bed2b88122b04cc644e"
-        },
-        {
-            "file": "Dynamic Duo/Bsides/10 zamuz - spiritual (dynamic duo's in-to-the-abyss mix).avs",
-            "size": 3667,
-            "checksum": "sha256:0d8e87aef97a2e702ce732a9cff133d5e781bf089750259b0d4c67fcb73fbec2"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "Bsides",
+	"id": "VB165",
+	"presets": [
+		{
+			"file": "Dynamic Duo/Bsides/01 dynamic duo - chromatics (ya-tho-sho treatment).avs",
+			"size": 5581,
+			"checksum": "sha256:ef8e342ba0279dd4d36aed675e717604279a361ad56ea8fdc33f5e66efba960c"
+		},
+		{
+			"file": "Dynamic Duo/Bsides/02 dynamic duo - contraction.avs",
+			"size": 3204,
+			"checksum": "sha256:85de21b3d8e8f8da578d1fed2053c309517801b7514eafa2acbb797702cb731f"
+		},
+		{
+			"file": "Dynamic Duo/Bsides/03 dynamic duo - pit (live from lakehurst).avs",
+			"size": 2937,
+			"checksum": "sha256:b1f0d1769a351ce10e809aea482b2172d70c33a9fc4046ec2bc7ce0ca13f9812"
+		},
+		{
+			"file": "Dynamic Duo/Bsides/04 dynamic duo - styx.avs",
+			"size": 9798,
+			"checksum": "sha256:0ad86a2d9ce81bf828a071990142c2dbe405f3a5c43ea3f0e3c0dd6e73c4abd0"
+		},
+		{
+			"file": "Dynamic Duo/Bsides/05 dynamic duo - flickermood (edit).avs",
+			"size": 7755,
+			"checksum": "sha256:7ce385f4ef8f76cee05aaa83dc653e424be374d14343121a365b3e9d07914bad"
+		},
+		{
+			"file": "Dynamic Duo/Bsides/06 dynamic duo - tentaclism (pan am rework).avs",
+			"size": 3278,
+			"checksum": "sha256:a513bafc1e1b5529e4d54e93d8c47bd8680292c9743456b33d8a40d2420226d6"
+		},
+		{
+			"file": "Dynamic Duo/Bsides/07 dynamic duo - flickermood.avs",
+			"size": 7879,
+			"checksum": "sha256:799a2e241155f8b83dcb342753837bfdd2faaff0ac0f2eabfce4afc2fca822ff"
+		},
+		{
+			"file": "Dynamic Duo/Bsides/08 dynamic duo - tentaclism.avs",
+			"size": 3284,
+			"checksum": "sha256:dcff0a643dab951d36269ddefb03d2a3fb4792adbe84280c2e656e207a8f0348"
+		},
+		{
+			"file": "Dynamic Duo/Bsides/09 zamuz - spiritual (dynamic duo's soft parade).avs",
+			"size": 3432,
+			"checksum": "sha256:c7c6ed2d1c415c6fb067bd3e78eceb9c159ec360d8c63bed2b88122b04cc644e"
+		},
+		{
+			"file": "Dynamic Duo/Bsides/10 zamuz - spiritual (dynamic duo's in-to-the-abyss mix).avs",
+			"size": 3667,
+			"checksum": "sha256:0d8e87aef97a2e702ce732a9cff133d5e781bf089750259b0d4c67fcb73fbec2"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

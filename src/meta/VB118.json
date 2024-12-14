@@ -1,30 +1,27 @@
 {
-    "name": "les Noobiens rehmix vol 1",
-    "id": "VB118",
-    "presets": [
-        {
-            "file": "les Noobiens/les Noobiens rehmix vol 1/lNa1 a3 - dr worm (les Noobiens rework).avs",
-            "size": 3513,
-            "checksum": "sha256:20a2451662462eb0990de5a376c89fd23f05844a09675f0931516ab7648a3a5b"
-        },
-        {
-            "file": "les Noobiens/les Noobiens rehmix vol 1/lNa2 les zamuziens - decorative blockz.avs",
-            "size": 4011,
-            "checksum": "sha256:b1278f0ab749e4aea19c92ea39d7cd7207df7b1eb6acb49bad46f8a481d75139"
-        },
-        {
-            "file": "les Noobiens/les Noobiens rehmix vol 1/lNb1 ishan - alpha grid (les Noobiens metropolitan rework).avs",
-            "size": 2914,
-            "checksum": "sha256:3a6107852198e5514a2037005a64f576fe3649175c2c7b5790279e03a2a3a832"
-        },
-        {
-            "file": "les Noobiens/les Noobiens rehmix vol 1/lNb2 drew - new noise (les Noobiens americano mix).avs",
-            "size": 2587,
-            "checksum": "sha256:558e0d724472fdacd77a62fd60882ce76c9f878621a39c0bf7cc5ef43175a58f"
-        }
-    ],
-    "plugins": [
-        "AddBorder",
-        "ConvolutionFilter"
-    ]
+	"name": "les Noobiens rehmix vol 1",
+	"id": "VB118",
+	"presets": [
+		{
+			"file": "les Noobiens/les Noobiens rehmix vol 1/lNa1 a3 - dr worm (les Noobiens rework).avs",
+			"size": 3513,
+			"checksum": "sha256:20a2451662462eb0990de5a376c89fd23f05844a09675f0931516ab7648a3a5b"
+		},
+		{
+			"file": "les Noobiens/les Noobiens rehmix vol 1/lNa2 les zamuziens - decorative blockz.avs",
+			"size": 4011,
+			"checksum": "sha256:b1278f0ab749e4aea19c92ea39d7cd7207df7b1eb6acb49bad46f8a481d75139"
+		},
+		{
+			"file": "les Noobiens/les Noobiens rehmix vol 1/lNb1 ishan - alpha grid (les Noobiens metropolitan rework).avs",
+			"size": 2914,
+			"checksum": "sha256:3a6107852198e5514a2037005a64f576fe3649175c2c7b5790279e03a2a3a832"
+		},
+		{
+			"file": "les Noobiens/les Noobiens rehmix vol 1/lNb2 drew - new noise (les Noobiens americano mix).avs",
+			"size": 2587,
+			"checksum": "sha256:558e0d724472fdacd77a62fd60882ce76c9f878621a39c0bf7cc5ef43175a58f"
+		}
+	],
+	"plugins": ["AddBorder", "ConvolutionFilter"]
 }

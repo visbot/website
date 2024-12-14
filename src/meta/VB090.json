@@ -1,96 +1,94 @@
 {
-    "name": "DDrmx",
-    "id": "VB090",
-    "presets": [
-        {
-            "file": "Dynamic Duo/DDrmx/01 el-vis - soulburn.avs",
-            "size": 3319,
-            "checksum": "sha256:f31bd3358f816ced375d60c75772f3151134482bb971b65f73939f923389960b"
-        },
-        {
-            "file": "Dynamic Duo/DDrmx/02 amphirion - loot-us.avs",
-            "size": 4703,
-            "checksum": "sha256:8db37ea2886ee88e2150ff7f97aece30abd33d25878a5f750a85465055348eee"
-        },
-        {
-            "file": "Dynamic Duo/DDrmx/03 tuggummi - body to bass.avs",
-            "size": 3060,
-            "checksum": "sha256:5ee42a49af20bff315209efaa21c7dd80e80a63f4828e785ed3eb79c4b5985de"
-        },
-        {
-            "file": "Dynamic Duo/DDrmx/04 degnic - nuclear 1982 amiga blobs (alternate edit).avs",
-            "size": 4710,
-            "checksum": "sha256:84acb78747add40c4cc078b53a6bd89b65f0aa37b6110ab3f58f9c03814e36ad"
-        },
-        {
-            "file": "Dynamic Duo/DDrmx/05 hboy - lick(w)it.avs",
-            "size": 3666,
-            "checksum": "sha256:621c066eaff605d2f7b637954f6b594daaf619da67bd3484233875f9550abe91"
-        },
-        {
-            "file": "Dynamic Duo/DDrmx/06 zamuz - blockbuster.avs",
-            "size": 1874,
-            "checksum": "sha256:abb3cff59dd75ff603d8155a45ee6fd221b26855600e249be568bb161e0e3097"
-        },
-        {
-            "file": "Dynamic Duo/DDrmx/07 tuggummi - converting your thoughts to rgb (v.i.p.).avs",
-            "size": 3095,
-            "checksum": "sha256:46697aa5a934cc3ae67a296898a7d7a6311b4686e017eb053fb6d23870a0f195"
-        },
-        {
-            "file": "Dynamic Duo/DDrmx/08 a3 - dinah morf.avs",
-            "size": 2265,
-            "checksum": "sha256:21f285a939db12d637b93db7a46bbe7e7f562d31fa793f3634f50fa9185292fb"
-        },
-        {
-            "file": "Dynamic Duo/DDrmx/09 vanish - through the eyes of hypocrisy (dynamic duo re-rub).avs",
-            "size": 3030,
-            "checksum": "sha256:30317eb7adf3c085ce349b2b2af0a5762b9ac7ba4eb4cb66de1deb63285e83c9"
-        },
-        {
-            "file": "Dynamic Duo/DDrmx/10 el-vis - all that hippie shit.avs",
-            "size": 2362,
-            "checksum": "sha256:01fa06626c10500be88387a87d2bf49192e6be6e047c6d08bc611f2a031d704b"
-        },
-        {
-            "file": "Dynamic Duo/DDrmx/11 unconed - plejmobyte.avs",
-            "size": 3773,
-            "checksum": "sha256:b34dc45a86499de94c78af66f7047c0e49c6fc24f79f6fb4fac2c941fea99678"
-        },
-        {
-            "file": "Dynamic Duo/DDrmx/12 degnic - frog your dance.avs",
-            "size": 4943,
-            "checksum": "sha256:9f1b931e418fde0518fc58ee1e4cce7f52bc2848e696830e3483307ed0f71b79"
-        },
-        {
-            "file": "Dynamic Duo/DDrmx/13 zamuz - blocksoup.avs",
-            "size": 2761,
-            "checksum": "sha256:797a50a1cffc1928aeb3fc0f4e79cf55cb4b9821b42e3d0ffe74eb9b2099ad90"
-        },
-        {
-            "file": "Dynamic Duo/DDrmx/14 dynamic duo - dial m for drugstore (zamuz's drugs make me dizzy remix).avs",
-            "size": 3715,
-            "checksum": "sha256:19be3c8be12ea15855d2eed0de786f98069e207163806a789360c26c9e093a03"
-        },
-        {
-            "file": "Dynamic Duo/DDrmx/15 dynamic duo - elevation (montana remix).avs",
-            "size": 3992,
-            "checksum": "sha256:09ad9047efa58b400748958704554eb76e3bc24f9469f0360effe2277ff9985a"
-        }
-    ],
-    "assets": [
-        {
-            "file": "Hboy_nineteen_texer1.bmp",
-            "size": 30054,
-            "checksum": "sha256:15608b6525bcb0f5f79e73de4dd051e02f9a8bb183f6abcad0ddddd1de79393e"
-        },
-        {
-            "file": "whacko6-03.bmp",
-            "size": 2266,
-            "checksum": "sha256:016f2b9bcb992215ae5feba005c54aa00f0d2d43c7a8dae36da903efb0307845"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "DDrmx",
+	"id": "VB090",
+	"presets": [
+		{
+			"file": "Dynamic Duo/DDrmx/01 el-vis - soulburn.avs",
+			"size": 3319,
+			"checksum": "sha256:f31bd3358f816ced375d60c75772f3151134482bb971b65f73939f923389960b"
+		},
+		{
+			"file": "Dynamic Duo/DDrmx/02 amphirion - loot-us.avs",
+			"size": 4703,
+			"checksum": "sha256:8db37ea2886ee88e2150ff7f97aece30abd33d25878a5f750a85465055348eee"
+		},
+		{
+			"file": "Dynamic Duo/DDrmx/03 tuggummi - body to bass.avs",
+			"size": 3060,
+			"checksum": "sha256:5ee42a49af20bff315209efaa21c7dd80e80a63f4828e785ed3eb79c4b5985de"
+		},
+		{
+			"file": "Dynamic Duo/DDrmx/04 degnic - nuclear 1982 amiga blobs (alternate edit).avs",
+			"size": 4710,
+			"checksum": "sha256:84acb78747add40c4cc078b53a6bd89b65f0aa37b6110ab3f58f9c03814e36ad"
+		},
+		{
+			"file": "Dynamic Duo/DDrmx/05 hboy - lick(w)it.avs",
+			"size": 3666,
+			"checksum": "sha256:621c066eaff605d2f7b637954f6b594daaf619da67bd3484233875f9550abe91"
+		},
+		{
+			"file": "Dynamic Duo/DDrmx/06 zamuz - blockbuster.avs",
+			"size": 1874,
+			"checksum": "sha256:abb3cff59dd75ff603d8155a45ee6fd221b26855600e249be568bb161e0e3097"
+		},
+		{
+			"file": "Dynamic Duo/DDrmx/07 tuggummi - converting your thoughts to rgb (v.i.p.).avs",
+			"size": 3095,
+			"checksum": "sha256:46697aa5a934cc3ae67a296898a7d7a6311b4686e017eb053fb6d23870a0f195"
+		},
+		{
+			"file": "Dynamic Duo/DDrmx/08 a3 - dinah morf.avs",
+			"size": 2265,
+			"checksum": "sha256:21f285a939db12d637b93db7a46bbe7e7f562d31fa793f3634f50fa9185292fb"
+		},
+		{
+			"file": "Dynamic Duo/DDrmx/09 vanish - through the eyes of hypocrisy (dynamic duo re-rub).avs",
+			"size": 3030,
+			"checksum": "sha256:30317eb7adf3c085ce349b2b2af0a5762b9ac7ba4eb4cb66de1deb63285e83c9"
+		},
+		{
+			"file": "Dynamic Duo/DDrmx/10 el-vis - all that hippie shit.avs",
+			"size": 2362,
+			"checksum": "sha256:01fa06626c10500be88387a87d2bf49192e6be6e047c6d08bc611f2a031d704b"
+		},
+		{
+			"file": "Dynamic Duo/DDrmx/11 unconed - plejmobyte.avs",
+			"size": 3773,
+			"checksum": "sha256:b34dc45a86499de94c78af66f7047c0e49c6fc24f79f6fb4fac2c941fea99678"
+		},
+		{
+			"file": "Dynamic Duo/DDrmx/12 degnic - frog your dance.avs",
+			"size": 4943,
+			"checksum": "sha256:9f1b931e418fde0518fc58ee1e4cce7f52bc2848e696830e3483307ed0f71b79"
+		},
+		{
+			"file": "Dynamic Duo/DDrmx/13 zamuz - blocksoup.avs",
+			"size": 2761,
+			"checksum": "sha256:797a50a1cffc1928aeb3fc0f4e79cf55cb4b9821b42e3d0ffe74eb9b2099ad90"
+		},
+		{
+			"file": "Dynamic Duo/DDrmx/14 dynamic duo - dial m for drugstore (zamuz's drugs make me dizzy remix).avs",
+			"size": 3715,
+			"checksum": "sha256:19be3c8be12ea15855d2eed0de786f98069e207163806a789360c26c9e093a03"
+		},
+		{
+			"file": "Dynamic Duo/DDrmx/15 dynamic duo - elevation (montana remix).avs",
+			"size": 3992,
+			"checksum": "sha256:09ad9047efa58b400748958704554eb76e3bc24f9469f0360effe2277ff9985a"
+		}
+	],
+	"assets": [
+		{
+			"file": "Hboy_nineteen_texer1.bmp",
+			"size": 30054,
+			"checksum": "sha256:15608b6525bcb0f5f79e73de4dd051e02f9a8bb183f6abcad0ddddd1de79393e"
+		},
+		{
+			"file": "whacko6-03.bmp",
+			"size": 2266,
+			"checksum": "sha256:016f2b9bcb992215ae5feba005c54aa00f0d2d43c7a8dae36da903efb0307845"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

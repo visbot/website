@@ -1,223 +1,219 @@
 {
-    "name": "I wanna be Frank Nagel",
-    "id": "VA003-1",
-    "presets": [
-        {
-            "file": "I wanna be Frank Nagel/danjoe__powersource_hv_(nagelism_remix).avs",
-            "size": 2194,
-            "checksum": "sha256:d9a27316725db049c80a98e9318923fc9ac2e2ed010e14dd33685446323c844c"
-        },
-        {
-            "file": "I wanna be Frank Nagel/danjoe__spaceodyssey2003_hv_(9_fingers_remix).avs",
-            "size": 8759,
-            "checksum": "sha256:d51f473d4c0b71130658088652bc2ce8b94be2ea7888c64a166d01e7a8e3a10d"
-        },
-        {
-            "file": "I wanna be Frank Nagel/degnic__donotpreach_(palm_rmx).avs",
-            "size": 724,
-            "checksum": "sha256:9a2494370609c0dd0c41ea6d1dfbcebd64ac94c496ee7a12142ec55032259e53"
-        },
-        {
-            "file": "I wanna be Frank Nagel/degnic__negative2_hv_(rise_of_the_king_rmx).avs",
-            "size": 2218,
-            "checksum": "sha256:2d44c739362cd9f26fca4ee700267afe6117aa831348d138b7615b165fc22d84"
-        },
-        {
-            "file": "I wanna be Frank Nagel/degnic__virus002_(degmix).avs",
-            "size": 5386,
-            "checksum": "sha256:e7d5b4970969195ce4ce917505cd031e17b0c64724f64aa0d9197097c5fbce60"
-        },
-        {
-            "file": "I wanna be Frank Nagel/duo__infinite_dreams_(dreamtime_rmx).avs",
-            "size": 2712,
-            "checksum": "sha256:4c6d4525b8f258cf8991decda9ba7dc184fe9b2989d08ba492ed59705ce7832b"
-        },
-        {
-            "file": "I wanna be Frank Nagel/duo__somewhere_out_there_(hubble_rmx).avs",
-            "size": 2818,
-            "checksum": "sha256:d6ba5bb71905049c5099e651b2382d860d287d064a15eb67508ceda5a3eef370"
-        },
-        {
-            "file": "I wanna be Frank Nagel/ernst__magneticfields_(tonic_field_of_force_remixed).avs",
-            "size": 2273,
-            "checksum": "sha256:f7406b2ea17311b5df91d222e13f39d53a096ccbb99981350fddea3cca446afc"
-        },
-        {
-            "file": "I wanna be Frank Nagel/ernst__rabbithole002.avs",
-            "size": 1793,
-            "checksum": "sha256:44db3422527af95aa97dacca43aabdd769c969b1e31f4f8e843a55997fba3ae9"
-        },
-        {
-            "file": "I wanna be Frank Nagel/evilrice__orbits_(chicklets_remix).avs",
-            "size": 20119,
-            "checksum": "sha256:9957162d56d274d29ff47e418559ff111dd935f4c22897d7e5190d1fa6a66804"
-        },
-        {
-            "file": "I wanna be Frank Nagel/evilrice__sliding_(cellular_zip_tube_remix).avs",
-            "size": 12297,
-            "checksum": "sha256:b71c44d2eb9cf703e7a233a2cc4637bd41d3d21340ffe511d6cf8e7257b0c626"
-        },
-        {
-            "file": "I wanna be Frank Nagel/horse-fly__goingdown_(tipping_over_mix).avs",
-            "size": 1209,
-            "checksum": "sha256:ededd4eaf8b648f973fe9b570c5f9feeb4b6f106c646c394fd9bd497de77e479"
-        },
-        {
-            "file": "I wanna be Frank Nagel/horse-fly__hellfire_(descending_mix).avs",
-            "size": 688,
-            "checksum": "sha256:01cf573d2adb6db8155e1e8c85301d677aa786ad422af1fc57537f2526bff754"
-        },
-        {
-            "file": "I wanna be Frank Nagel/horse-fly__novae_(static_mix).avs",
-            "size": 1085,
-            "checksum": "sha256:1e40273043d91eaf9351e78391d11de5eac21382af73b799b69766bf198160f5"
-        },
-        {
-            "file": "I wanna be Frank Nagel/jayfatboy__goingdown_(no_future_mix).avs",
-            "size": 1128,
-            "checksum": "sha256:64549edafbd68ddaffa2d8ee070da987fd2d1a954d14eb599313ed0cff163c27"
-        },
-        {
-            "file": "I wanna be Frank Nagel/jayfatboy__plasma_tron_(fear_of_heights_mix).avs",
-            "size": 2529,
-            "checksum": "sha256:19959b69a76a66802ba27354a2301fb82d67fe91cc83a53887938f265f466918"
-        },
-        {
-            "file": "I wanna be Frank Nagel/jdm__disco2001_(2003_mix).avs",
-            "size": 13392,
-            "checksum": "sha256:6375c50d9213b6acb85343bde9f24d001857f005abcf2ca79a2a4a2b338d01f6"
-        },
-        {
-            "file": "I wanna be Frank Nagel/jdm__spaceodyssey2003_(tribute_mix).avs",
-            "size": 11288,
-            "checksum": "sha256:ff0f855318a113662ef0311be8b92bd15061954bae4314596ea696e1518c596a"
-        },
-        {
-            "file": "I wanna be Frank Nagel/jheriko__bluespectrum_(formations_remix).avs",
-            "size": 19681,
-            "checksum": "sha256:86788676207701338b75b6152f03c7f283671c24f39c95e7ccfe67db1a5f8d9b"
-        },
-        {
-            "file": "I wanna be Frank Nagel/jheriko__egothelivingplanet_(mandelbrot's_nightmare_remix).avs",
-            "size": 3895,
-            "checksum": "sha256:42c3c9b2549c1f3f7dc81838dcadff1e0f969e2c42e4bd8d6ec50c36b252da63"
-        },
-        {
-            "file": "I wanna be Frank Nagel/l0tus__carcinogenic_haze.avs",
-            "size": 1731,
-            "checksum": "sha256:ed10dd40fec32fde636df77c650ab708574ce4506cd70401acd1f3324d562e5f"
-        },
-        {
-            "file": "I wanna be Frank Nagel/l0tus__faded_dream.avs",
-            "size": 13842,
-            "checksum": "sha256:1612931182c40ceb51c965b9b0adbef77be3749240d74423dc7a7da34cf497f0"
-        },
-        {
-            "file": "I wanna be Frank Nagel/nemoorange__dreamtime2.avs",
-            "size": 12040,
-            "checksum": "sha256:1026ba4796999717e9ac19dc47d6b19a5b3f4a0f4b7d2ef270635411a8914b1e"
-        },
-        {
-            "file": "I wanna be Frank Nagel/nemoorange__superspiro.avs",
-            "size": 1723,
-            "checksum": "sha256:a7084ea61eeaaf5ae5cbb226149df6c88c64d8a1e866f2bee1b8e3a14bf388a5"
-        },
-        {
-            "file": "I wanna be Frank Nagel/nixa__myblueheaven_(stoned_fast_rmx).avs",
-            "size": 1579,
-            "checksum": "sha256:30ed5956159cd27d1dc728650bf4e7ee340fd7580b10130d16887a8361f4b6fa"
-        },
-        {
-            "file": "I wanna be Frank Nagel/nixa__sliding_rmx.avs",
-            "size": 3293,
-            "checksum": "sha256:1c4a530af787dd7b2f9aec0bf21c2fa8a82b00c7a6be6230ad732ad5344d13a7"
-        },
-        {
-            "file": "I wanna be Frank Nagel/peepingdan__elviswater.avs",
-            "size": 13640,
-            "checksum": "sha256:b87d741fc4292878c501c68c16a5fa6c759984004bffe4ff238d6c952f9f3ca5"
-        },
-        {
-            "file": "I wanna be Frank Nagel/peepingdan__snakepit_rmx.avs",
-            "size": 4803,
-            "checksum": "sha256:cb5dcc58f0e97c0de2c03e5ade352cf7990bd33fea551a61257fd42d6e4b853b"
-        },
-        {
-            "file": "I wanna be Frank Nagel/runar__drinking_(remixed_el-vis).avs",
-            "size": 1813,
-            "checksum": "sha256:a73c411d8ddaabe68885b711467d88e92531390de8fe1b171cbf0f82e5c59add"
-        },
-        {
-            "file": "I wanna be Frank Nagel/runar__skyspiral_(remixed_el-vis).avs",
-            "size": 1163,
-            "checksum": "sha256:3c2b3f9384275df20d3640118190683b5e93b708c683fd1c725bcef6896efeb4"
-        },
-        {
-            "file": "I wanna be Frank Nagel/skupers__home_of_the_borg_(transwarp_remix).avs",
-            "size": 3591,
-            "checksum": "sha256:8e4bd57fbf9e943a923620a1c76201c829722c2fd51fe91b1950508023e721bb"
-        },
-        {
-            "file": "I wanna be Frank Nagel/skupers__softcell_(circular_remix).avs",
-            "size": 13455,
-            "checksum": "sha256:ff19bfc7487532527a0ebf4ef862f9d55dcbe7c30352aa0051db05087958dd54"
-        },
-        {
-            "file": "I wanna be Frank Nagel/t-k__dogmatrix_(wormonacid_hv_rmx).avs",
-            "size": 1754,
-            "checksum": "sha256:a477e03680e73851a688c8469593645773856087725a4c5dd18b55b3a1ad040c"
-        },
-        {
-            "file": "I wanna be Frank Nagel/t-k__solid_fixation_(dreamtime3_hv_rmx).avs",
-            "size": 3436,
-            "checksum": "sha256:0a7c99af20d07cece037a904be434aa1753b34487650c9e7b8c52a00642216af"
-        },
-        {
-            "file": "I wanna be Frank Nagel/tonic__extracted_diamonds.avs",
-            "size": 1178,
-            "checksum": "sha256:f1f5f28eb52f34e5ed908f64291616a3ebc10f1fffe133d00aaeb3d1df1ec8c4"
-        },
-        {
-            "file": "I wanna be Frank Nagel/tuggummi__real3d_time_(warp_rmx).avs",
-            "size": 3318,
-            "checksum": "sha256:6ef8824d971203cf052fbd0e5751dab47c9aedf6c68a184cd68c186de0acc673"
-        },
-        {
-            "file": "I wanna be Frank Nagel/tuggummi__starscope_(party_rmx).avs",
-            "size": 5496,
-            "checksum": "sha256:571d90868c4d2d0b7010432d69c8c90bb89d2c6f7778373f7658c3137836f7e4"
-        },
-        {
-            "file": "I wanna be Frank Nagel/yathosho__agent_dragonfly_(on_german_tv).avs",
-            "size": 895,
-            "checksum": "sha256:e590a8a762684651f3010022640c29578a6fbaa54297c2f11d490e8a7a57ea8a"
-        },
-        {
-            "file": "I wanna be Frank Nagel/yathosho__alpenveilchen.avs",
-            "size": 956,
-            "checksum": "sha256:30880e6e5741f54381bfd291411bf1412b1ed9810d6d08a2a9c5ef0305f004f5"
-        }
-    ],
-    "assets": [
-        {
-            "file": "dance5.avi",
-            "size": 13908,
-            "checksum": "sha256:fab70ab2aaf9046b5ccfa0d04a7d9dc564d9314a0f2b21115caadf04723afe87"
-        },
-        {
-            "file": "Fluid_Plastic.bmp",
-            "size": 750056,
-            "checksum": "sha256:76d3553a789f5c9edd66e64e51a1a346a5f8db1b647820226229d6fa9a8e2f86"
-        },
-        {
-            "file": "Jheriko_7.bmp",
-            "size": 196662,
-            "checksum": "sha256:8ce402175178101c17d0f3103269a2495a3980f611838869102b78445ecf3e8f"
-        }
-    ],
-    "plugins": [
-        "BufferBlend",
-        "ConvolutionFilter",
-        "Picture2"
-    ]
+	"name": "I wanna be Frank Nagel",
+	"id": "VA003-1",
+	"presets": [
+		{
+			"file": "I wanna be Frank Nagel/danjoe__powersource_hv_(nagelism_remix).avs",
+			"size": 2194,
+			"checksum": "sha256:d9a27316725db049c80a98e9318923fc9ac2e2ed010e14dd33685446323c844c"
+		},
+		{
+			"file": "I wanna be Frank Nagel/danjoe__spaceodyssey2003_hv_(9_fingers_remix).avs",
+			"size": 8759,
+			"checksum": "sha256:d51f473d4c0b71130658088652bc2ce8b94be2ea7888c64a166d01e7a8e3a10d"
+		},
+		{
+			"file": "I wanna be Frank Nagel/degnic__donotpreach_(palm_rmx).avs",
+			"size": 724,
+			"checksum": "sha256:9a2494370609c0dd0c41ea6d1dfbcebd64ac94c496ee7a12142ec55032259e53"
+		},
+		{
+			"file": "I wanna be Frank Nagel/degnic__negative2_hv_(rise_of_the_king_rmx).avs",
+			"size": 2218,
+			"checksum": "sha256:2d44c739362cd9f26fca4ee700267afe6117aa831348d138b7615b165fc22d84"
+		},
+		{
+			"file": "I wanna be Frank Nagel/degnic__virus002_(degmix).avs",
+			"size": 5386,
+			"checksum": "sha256:e7d5b4970969195ce4ce917505cd031e17b0c64724f64aa0d9197097c5fbce60"
+		},
+		{
+			"file": "I wanna be Frank Nagel/duo__infinite_dreams_(dreamtime_rmx).avs",
+			"size": 2712,
+			"checksum": "sha256:4c6d4525b8f258cf8991decda9ba7dc184fe9b2989d08ba492ed59705ce7832b"
+		},
+		{
+			"file": "I wanna be Frank Nagel/duo__somewhere_out_there_(hubble_rmx).avs",
+			"size": 2818,
+			"checksum": "sha256:d6ba5bb71905049c5099e651b2382d860d287d064a15eb67508ceda5a3eef370"
+		},
+		{
+			"file": "I wanna be Frank Nagel/ernst__magneticfields_(tonic_field_of_force_remixed).avs",
+			"size": 2273,
+			"checksum": "sha256:f7406b2ea17311b5df91d222e13f39d53a096ccbb99981350fddea3cca446afc"
+		},
+		{
+			"file": "I wanna be Frank Nagel/ernst__rabbithole002.avs",
+			"size": 1793,
+			"checksum": "sha256:44db3422527af95aa97dacca43aabdd769c969b1e31f4f8e843a55997fba3ae9"
+		},
+		{
+			"file": "I wanna be Frank Nagel/evilrice__orbits_(chicklets_remix).avs",
+			"size": 20119,
+			"checksum": "sha256:9957162d56d274d29ff47e418559ff111dd935f4c22897d7e5190d1fa6a66804"
+		},
+		{
+			"file": "I wanna be Frank Nagel/evilrice__sliding_(cellular_zip_tube_remix).avs",
+			"size": 12297,
+			"checksum": "sha256:b71c44d2eb9cf703e7a233a2cc4637bd41d3d21340ffe511d6cf8e7257b0c626"
+		},
+		{
+			"file": "I wanna be Frank Nagel/horse-fly__goingdown_(tipping_over_mix).avs",
+			"size": 1209,
+			"checksum": "sha256:ededd4eaf8b648f973fe9b570c5f9feeb4b6f106c646c394fd9bd497de77e479"
+		},
+		{
+			"file": "I wanna be Frank Nagel/horse-fly__hellfire_(descending_mix).avs",
+			"size": 688,
+			"checksum": "sha256:01cf573d2adb6db8155e1e8c85301d677aa786ad422af1fc57537f2526bff754"
+		},
+		{
+			"file": "I wanna be Frank Nagel/horse-fly__novae_(static_mix).avs",
+			"size": 1085,
+			"checksum": "sha256:1e40273043d91eaf9351e78391d11de5eac21382af73b799b69766bf198160f5"
+		},
+		{
+			"file": "I wanna be Frank Nagel/jayfatboy__goingdown_(no_future_mix).avs",
+			"size": 1128,
+			"checksum": "sha256:64549edafbd68ddaffa2d8ee070da987fd2d1a954d14eb599313ed0cff163c27"
+		},
+		{
+			"file": "I wanna be Frank Nagel/jayfatboy__plasma_tron_(fear_of_heights_mix).avs",
+			"size": 2529,
+			"checksum": "sha256:19959b69a76a66802ba27354a2301fb82d67fe91cc83a53887938f265f466918"
+		},
+		{
+			"file": "I wanna be Frank Nagel/jdm__disco2001_(2003_mix).avs",
+			"size": 13392,
+			"checksum": "sha256:6375c50d9213b6acb85343bde9f24d001857f005abcf2ca79a2a4a2b338d01f6"
+		},
+		{
+			"file": "I wanna be Frank Nagel/jdm__spaceodyssey2003_(tribute_mix).avs",
+			"size": 11288,
+			"checksum": "sha256:ff0f855318a113662ef0311be8b92bd15061954bae4314596ea696e1518c596a"
+		},
+		{
+			"file": "I wanna be Frank Nagel/jheriko__bluespectrum_(formations_remix).avs",
+			"size": 19681,
+			"checksum": "sha256:86788676207701338b75b6152f03c7f283671c24f39c95e7ccfe67db1a5f8d9b"
+		},
+		{
+			"file": "I wanna be Frank Nagel/jheriko__egothelivingplanet_(mandelbrot's_nightmare_remix).avs",
+			"size": 3895,
+			"checksum": "sha256:42c3c9b2549c1f3f7dc81838dcadff1e0f969e2c42e4bd8d6ec50c36b252da63"
+		},
+		{
+			"file": "I wanna be Frank Nagel/l0tus__carcinogenic_haze.avs",
+			"size": 1731,
+			"checksum": "sha256:ed10dd40fec32fde636df77c650ab708574ce4506cd70401acd1f3324d562e5f"
+		},
+		{
+			"file": "I wanna be Frank Nagel/l0tus__faded_dream.avs",
+			"size": 13842,
+			"checksum": "sha256:1612931182c40ceb51c965b9b0adbef77be3749240d74423dc7a7da34cf497f0"
+		},
+		{
+			"file": "I wanna be Frank Nagel/nemoorange__dreamtime2.avs",
+			"size": 12040,
+			"checksum": "sha256:1026ba4796999717e9ac19dc47d6b19a5b3f4a0f4b7d2ef270635411a8914b1e"
+		},
+		{
+			"file": "I wanna be Frank Nagel/nemoorange__superspiro.avs",
+			"size": 1723,
+			"checksum": "sha256:a7084ea61eeaaf5ae5cbb226149df6c88c64d8a1e866f2bee1b8e3a14bf388a5"
+		},
+		{
+			"file": "I wanna be Frank Nagel/nixa__myblueheaven_(stoned_fast_rmx).avs",
+			"size": 1579,
+			"checksum": "sha256:30ed5956159cd27d1dc728650bf4e7ee340fd7580b10130d16887a8361f4b6fa"
+		},
+		{
+			"file": "I wanna be Frank Nagel/nixa__sliding_rmx.avs",
+			"size": 3293,
+			"checksum": "sha256:1c4a530af787dd7b2f9aec0bf21c2fa8a82b00c7a6be6230ad732ad5344d13a7"
+		},
+		{
+			"file": "I wanna be Frank Nagel/peepingdan__elviswater.avs",
+			"size": 13640,
+			"checksum": "sha256:b87d741fc4292878c501c68c16a5fa6c759984004bffe4ff238d6c952f9f3ca5"
+		},
+		{
+			"file": "I wanna be Frank Nagel/peepingdan__snakepit_rmx.avs",
+			"size": 4803,
+			"checksum": "sha256:cb5dcc58f0e97c0de2c03e5ade352cf7990bd33fea551a61257fd42d6e4b853b"
+		},
+		{
+			"file": "I wanna be Frank Nagel/runar__drinking_(remixed_el-vis).avs",
+			"size": 1813,
+			"checksum": "sha256:a73c411d8ddaabe68885b711467d88e92531390de8fe1b171cbf0f82e5c59add"
+		},
+		{
+			"file": "I wanna be Frank Nagel/runar__skyspiral_(remixed_el-vis).avs",
+			"size": 1163,
+			"checksum": "sha256:3c2b3f9384275df20d3640118190683b5e93b708c683fd1c725bcef6896efeb4"
+		},
+		{
+			"file": "I wanna be Frank Nagel/skupers__home_of_the_borg_(transwarp_remix).avs",
+			"size": 3591,
+			"checksum": "sha256:8e4bd57fbf9e943a923620a1c76201c829722c2fd51fe91b1950508023e721bb"
+		},
+		{
+			"file": "I wanna be Frank Nagel/skupers__softcell_(circular_remix).avs",
+			"size": 13455,
+			"checksum": "sha256:ff19bfc7487532527a0ebf4ef862f9d55dcbe7c30352aa0051db05087958dd54"
+		},
+		{
+			"file": "I wanna be Frank Nagel/t-k__dogmatrix_(wormonacid_hv_rmx).avs",
+			"size": 1754,
+			"checksum": "sha256:a477e03680e73851a688c8469593645773856087725a4c5dd18b55b3a1ad040c"
+		},
+		{
+			"file": "I wanna be Frank Nagel/t-k__solid_fixation_(dreamtime3_hv_rmx).avs",
+			"size": 3436,
+			"checksum": "sha256:0a7c99af20d07cece037a904be434aa1753b34487650c9e7b8c52a00642216af"
+		},
+		{
+			"file": "I wanna be Frank Nagel/tonic__extracted_diamonds.avs",
+			"size": 1178,
+			"checksum": "sha256:f1f5f28eb52f34e5ed908f64291616a3ebc10f1fffe133d00aaeb3d1df1ec8c4"
+		},
+		{
+			"file": "I wanna be Frank Nagel/tuggummi__real3d_time_(warp_rmx).avs",
+			"size": 3318,
+			"checksum": "sha256:6ef8824d971203cf052fbd0e5751dab47c9aedf6c68a184cd68c186de0acc673"
+		},
+		{
+			"file": "I wanna be Frank Nagel/tuggummi__starscope_(party_rmx).avs",
+			"size": 5496,
+			"checksum": "sha256:571d90868c4d2d0b7010432d69c8c90bb89d2c6f7778373f7658c3137836f7e4"
+		},
+		{
+			"file": "I wanna be Frank Nagel/yathosho__agent_dragonfly_(on_german_tv).avs",
+			"size": 895,
+			"checksum": "sha256:e590a8a762684651f3010022640c29578a6fbaa54297c2f11d490e8a7a57ea8a"
+		},
+		{
+			"file": "I wanna be Frank Nagel/yathosho__alpenveilchen.avs",
+			"size": 956,
+			"checksum": "sha256:30880e6e5741f54381bfd291411bf1412b1ed9810d6d08a2a9c5ef0305f004f5"
+		}
+	],
+	"assets": [
+		{
+			"file": "dance5.avi",
+			"size": 13908,
+			"checksum": "sha256:fab70ab2aaf9046b5ccfa0d04a7d9dc564d9314a0f2b21115caadf04723afe87"
+		},
+		{
+			"file": "Fluid_Plastic.bmp",
+			"size": 750056,
+			"checksum": "sha256:76d3553a789f5c9edd66e64e51a1a346a5f8db1b647820226229d6fa9a8e2f86"
+		},
+		{
+			"file": "Jheriko_7.bmp",
+			"size": 196662,
+			"checksum": "sha256:8ce402175178101c17d0f3103269a2495a3980f611838869102b78445ecf3e8f"
+		}
+	],
+	"plugins": ["BufferBlend", "ConvolutionFilter", "Picture2"]
 }

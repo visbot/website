@@ -1,144 +1,142 @@
 {
-    "name": "AltIII Old Skul",
-    "id": "VB019",
-    "presets": [
-        {
-            "file": "AltIII/AltIII Old Skul/911.avs",
-            "size": 859,
-            "checksum": "sha256:698f00d802110b7ebcb8f3c58ed27c7209714f4bdfa543a1b9664b40d6c9add7"
-        },
-        {
-            "file": "AltIII/AltIII Old Skul/AlienPorn.avs",
-            "size": 2151,
-            "checksum": "sha256:ab67744293c6c9ef0e71ff21229b6766088e29fa351e06a2b96ca59d01e44858"
-        },
-        {
-            "file": "AltIII/AltIII Old Skul/allergy.avs",
-            "size": 1125,
-            "checksum": "sha256:dbd8d59e24e1ed1241b965b52f1ba5896648311b2b6e7577bdfb1402cb8e0dcb"
-        },
-        {
-            "file": "AltIII/AltIII Old Skul/ALTJulia.avs",
-            "size": 1296,
-            "checksum": "sha256:19b3036367a465005fd7faebcb863688f87c820f3b0780ebbe6dd4e9c404652d"
-        },
-        {
-            "file": "AltIII/AltIII Old Skul/ALTJulia2.avs",
-            "size": 768,
-            "checksum": "sha256:a26d5718fef35081e14244e414efc8dcba6e50ab89f8cd5eda7c2103e022237d"
-        },
-        {
-            "file": "AltIII/AltIII Old Skul/BastardRules.avs",
-            "size": 859,
-            "checksum": "sha256:5308c9e35c40d57aa38273e41bd90e9a5e5d98d70e84c5d61eb5230bf3457c19"
-        },
-        {
-            "file": "AltIII/AltIII Old Skul/Betatester.avs",
-            "size": 2322,
-            "checksum": "sha256:bc05ac34805a4396a0c8189804d332f0fc505a0b0e12a4ec153ee607217984ee"
-        },
-        {
-            "file": "AltIII/AltIII Old Skul/bitmuch.avs",
-            "size": 962,
-            "checksum": "sha256:df0388318997deb0669f9833f04b1f0889abfa2b41e3186935607be6d5646af3"
-        },
-        {
-            "file": "AltIII/AltIII Old Skul/BleedingFlower.avs",
-            "size": 705,
-            "checksum": "sha256:a5ca1347493235826c30ec827c97deb498bfd37a8a8a06244605c5d62d8108e3"
-        },
-        {
-            "file": "AltIII/AltIII Old Skul/BlokHed.avs",
-            "size": 792,
-            "checksum": "sha256:841969b0588d7f72ed395ff1597de65a86f5ab71716da7b15a30df9d34fab247"
-        },
-        {
-            "file": "AltIII/AltIII Old Skul/buttons.avs",
-            "size": 733,
-            "checksum": "sha256:7a94dd74c74749b865518a9b201cc40bea76d48eb6f345a461905737c210d876"
-        },
-        {
-            "file": "AltIII/AltIII Old Skul/drugtest.avs",
-            "size": 1548,
-            "checksum": "sha256:4521c590d4c1fda6b8dc558fc761c820ec05272172ad34d9132274c3d09820ba"
-        },
-        {
-            "file": "AltIII/AltIII Old Skul/DrWorm.avs",
-            "size": 2235,
-            "checksum": "sha256:533832e509920dbeb8b26e36eeef78f00e996de5ded74b4d42cc4784c66e4c32"
-        },
-        {
-            "file": "AltIII/AltIII Old Skul/ElsCoolScope.avs",
-            "size": 1957,
-            "checksum": "sha256:52f64608f7e9206d3db21f759ab7978e7c3432d061197c57c26a3a2255729e88"
-        },
-        {
-            "file": "AltIII/AltIII Old Skul/FallingEmpire.avs",
-            "size": 896,
-            "checksum": "sha256:0200d84713092fb16a8bdb0f11dcd61a09c45607f3996ca0f44c6786bd7bf370"
-        },
-        {
-            "file": "AltIII/AltIII Old Skul/FukDMs.avs",
-            "size": 562,
-            "checksum": "sha256:a912918ae85fbb7996424d6390cbb5d4edf1ec7179b43b0c83e769a59a56e513"
-        },
-        {
-            "file": "AltIII/AltIII Old Skul/fuksociet.avs",
-            "size": 677,
-            "checksum": "sha256:66a081655156d1eb9efc7f5b94c11bc88820c717a88a62c339c94e79dcb765f0"
-        },
-        {
-            "file": "AltIII/AltIII Old Skul/Intro.avs",
-            "size": 1405,
-            "checksum": "sha256:6535c2c89b0040172fb200b7c87c42f4a054e787ca939e42428416f7918fd818"
-        },
-        {
-            "file": "AltIII/AltIII Old Skul/jellyfishfood.avs",
-            "size": 930,
-            "checksum": "sha256:3d3ee672b69f8b8b5cb8493498b400dc747854a6844a5edc39d99618aab10769"
-        },
-        {
-            "file": "AltIII/AltIII Old Skul/legomaster.avs",
-            "size": 590,
-            "checksum": "sha256:0240373f321234191e6126807752fce8d314da53e067e4742c87b05c0a0f7f15"
-        },
-        {
-            "file": "AltIII/AltIII Old Skul/LookingGlass.avs",
-            "size": 1119,
-            "checksum": "sha256:5796a70e3acc9a73d59b2e4f50afbf38083a6e2a69e2deb2c5a534088959045a"
-        },
-        {
-            "file": "AltIII/AltIII Old Skul/mintyfreshness.avs",
-            "size": 897,
-            "checksum": "sha256:661fde8ac305be8e0a91fab4c1d6dac769c32ec63731684074c33e3ac6673391"
-        },
-        {
-            "file": "AltIII/AltIII Old Skul/mirroredthehardway.avs",
-            "size": 1483,
-            "checksum": "sha256:ecfe88d307e9fffa6de8ef71b2225f5ee9352de652fcea6679509905f1d212b8"
-        },
-        {
-            "file": "AltIII/AltIII Old Skul/Mr.Blob.avs",
-            "size": 2211,
-            "checksum": "sha256:f68494c0b8b399f99df8ee7576fe72d776f410b188eb6870d13d69ca249abcaa"
-        },
-        {
-            "file": "AltIII/AltIII Old Skul/Mrs.shiny.avs",
-            "size": 2161,
-            "checksum": "sha256:e589d79de07ba21b09099a6e7e97b11d0c70f4643890dc841f610eb13adee2f7"
-        },
-        {
-            "file": "AltIII/AltIII Old Skul/TiledGoony.avs",
-            "size": 509,
-            "checksum": "sha256:840ebf8d27c7bc043ecf0f1e176107811128667fcfc18d8fbb982ba4a871ea4d"
-        },
-        {
-            "file": "AltIII/AltIII Old Skul/UrbanChaos.avs",
-            "size": 643,
-            "checksum": "sha256:09dcab0d23f07d8900c266f9c3ee0215f4868b6f01ee5eabb98b84343bcd360d"
-        }
-    ],
-    "plugins": [
-        "BufferBlend"
-    ]
+	"name": "AltIII Old Skul",
+	"id": "VB019",
+	"presets": [
+		{
+			"file": "AltIII/AltIII Old Skul/911.avs",
+			"size": 859,
+			"checksum": "sha256:698f00d802110b7ebcb8f3c58ed27c7209714f4bdfa543a1b9664b40d6c9add7"
+		},
+		{
+			"file": "AltIII/AltIII Old Skul/AlienPorn.avs",
+			"size": 2151,
+			"checksum": "sha256:ab67744293c6c9ef0e71ff21229b6766088e29fa351e06a2b96ca59d01e44858"
+		},
+		{
+			"file": "AltIII/AltIII Old Skul/allergy.avs",
+			"size": 1125,
+			"checksum": "sha256:dbd8d59e24e1ed1241b965b52f1ba5896648311b2b6e7577bdfb1402cb8e0dcb"
+		},
+		{
+			"file": "AltIII/AltIII Old Skul/ALTJulia.avs",
+			"size": 1296,
+			"checksum": "sha256:19b3036367a465005fd7faebcb863688f87c820f3b0780ebbe6dd4e9c404652d"
+		},
+		{
+			"file": "AltIII/AltIII Old Skul/ALTJulia2.avs",
+			"size": 768,
+			"checksum": "sha256:a26d5718fef35081e14244e414efc8dcba6e50ab89f8cd5eda7c2103e022237d"
+		},
+		{
+			"file": "AltIII/AltIII Old Skul/BastardRules.avs",
+			"size": 859,
+			"checksum": "sha256:5308c9e35c40d57aa38273e41bd90e9a5e5d98d70e84c5d61eb5230bf3457c19"
+		},
+		{
+			"file": "AltIII/AltIII Old Skul/Betatester.avs",
+			"size": 2322,
+			"checksum": "sha256:bc05ac34805a4396a0c8189804d332f0fc505a0b0e12a4ec153ee607217984ee"
+		},
+		{
+			"file": "AltIII/AltIII Old Skul/bitmuch.avs",
+			"size": 962,
+			"checksum": "sha256:df0388318997deb0669f9833f04b1f0889abfa2b41e3186935607be6d5646af3"
+		},
+		{
+			"file": "AltIII/AltIII Old Skul/BleedingFlower.avs",
+			"size": 705,
+			"checksum": "sha256:a5ca1347493235826c30ec827c97deb498bfd37a8a8a06244605c5d62d8108e3"
+		},
+		{
+			"file": "AltIII/AltIII Old Skul/BlokHed.avs",
+			"size": 792,
+			"checksum": "sha256:841969b0588d7f72ed395ff1597de65a86f5ab71716da7b15a30df9d34fab247"
+		},
+		{
+			"file": "AltIII/AltIII Old Skul/buttons.avs",
+			"size": 733,
+			"checksum": "sha256:7a94dd74c74749b865518a9b201cc40bea76d48eb6f345a461905737c210d876"
+		},
+		{
+			"file": "AltIII/AltIII Old Skul/drugtest.avs",
+			"size": 1548,
+			"checksum": "sha256:4521c590d4c1fda6b8dc558fc761c820ec05272172ad34d9132274c3d09820ba"
+		},
+		{
+			"file": "AltIII/AltIII Old Skul/DrWorm.avs",
+			"size": 2235,
+			"checksum": "sha256:533832e509920dbeb8b26e36eeef78f00e996de5ded74b4d42cc4784c66e4c32"
+		},
+		{
+			"file": "AltIII/AltIII Old Skul/ElsCoolScope.avs",
+			"size": 1957,
+			"checksum": "sha256:52f64608f7e9206d3db21f759ab7978e7c3432d061197c57c26a3a2255729e88"
+		},
+		{
+			"file": "AltIII/AltIII Old Skul/FallingEmpire.avs",
+			"size": 896,
+			"checksum": "sha256:0200d84713092fb16a8bdb0f11dcd61a09c45607f3996ca0f44c6786bd7bf370"
+		},
+		{
+			"file": "AltIII/AltIII Old Skul/FukDMs.avs",
+			"size": 562,
+			"checksum": "sha256:a912918ae85fbb7996424d6390cbb5d4edf1ec7179b43b0c83e769a59a56e513"
+		},
+		{
+			"file": "AltIII/AltIII Old Skul/fuksociet.avs",
+			"size": 677,
+			"checksum": "sha256:66a081655156d1eb9efc7f5b94c11bc88820c717a88a62c339c94e79dcb765f0"
+		},
+		{
+			"file": "AltIII/AltIII Old Skul/Intro.avs",
+			"size": 1405,
+			"checksum": "sha256:6535c2c89b0040172fb200b7c87c42f4a054e787ca939e42428416f7918fd818"
+		},
+		{
+			"file": "AltIII/AltIII Old Skul/jellyfishfood.avs",
+			"size": 930,
+			"checksum": "sha256:3d3ee672b69f8b8b5cb8493498b400dc747854a6844a5edc39d99618aab10769"
+		},
+		{
+			"file": "AltIII/AltIII Old Skul/legomaster.avs",
+			"size": 590,
+			"checksum": "sha256:0240373f321234191e6126807752fce8d314da53e067e4742c87b05c0a0f7f15"
+		},
+		{
+			"file": "AltIII/AltIII Old Skul/LookingGlass.avs",
+			"size": 1119,
+			"checksum": "sha256:5796a70e3acc9a73d59b2e4f50afbf38083a6e2a69e2deb2c5a534088959045a"
+		},
+		{
+			"file": "AltIII/AltIII Old Skul/mintyfreshness.avs",
+			"size": 897,
+			"checksum": "sha256:661fde8ac305be8e0a91fab4c1d6dac769c32ec63731684074c33e3ac6673391"
+		},
+		{
+			"file": "AltIII/AltIII Old Skul/mirroredthehardway.avs",
+			"size": 1483,
+			"checksum": "sha256:ecfe88d307e9fffa6de8ef71b2225f5ee9352de652fcea6679509905f1d212b8"
+		},
+		{
+			"file": "AltIII/AltIII Old Skul/Mr.Blob.avs",
+			"size": 2211,
+			"checksum": "sha256:f68494c0b8b399f99df8ee7576fe72d776f410b188eb6870d13d69ca249abcaa"
+		},
+		{
+			"file": "AltIII/AltIII Old Skul/Mrs.shiny.avs",
+			"size": 2161,
+			"checksum": "sha256:e589d79de07ba21b09099a6e7e97b11d0c70f4643890dc841f610eb13adee2f7"
+		},
+		{
+			"file": "AltIII/AltIII Old Skul/TiledGoony.avs",
+			"size": 509,
+			"checksum": "sha256:840ebf8d27c7bc043ecf0f1e176107811128667fcfc18d8fbb982ba4a871ea4d"
+		},
+		{
+			"file": "AltIII/AltIII Old Skul/UrbanChaos.avs",
+			"size": 643,
+			"checksum": "sha256:09dcab0d23f07d8900c266f9c3ee0215f4868b6f01ee5eabb98b84343bcd360d"
+		}
+	],
+	"plugins": ["BufferBlend"]
 }

@@ -1,65 +1,59 @@
 {
-    "name": "sEP . n�gy",
-    "id": "VB238",
-    "presets": [
-        {
-            "file": "frames.of.reality/sEP . négy/001 . plasma panel.avs",
-            "size": 3496,
-            "checksum": "sha256:b7114ece223191028cb2fa34f19ff23be413b6fde2bc6cc844da1b0dd6c00186"
-        },
-        {
-            "file": "frames.of.reality/sEP . négy/002 . focus group retouch.avs",
-            "size": 8015,
-            "checksum": "sha256:371a32e47ccb3697ae8c1745ef0aa9cb373008ad8ccda6c9ac56fa2938e8050a"
-        },
-        {
-            "file": "frames.of.reality/sEP . négy/003 . micro.d . crcls4262b-366198 (oh so bright and cheerful remix).avs",
-            "size": 6945,
-            "checksum": "sha256:d2107943b81ab87031a93eaf30970391ed7da44596f3374a59169a09f90de32f"
-        },
-        {
-            "file": "frames.of.reality/sEP . négy/004 . into the chambers of maedvigan (2011 retouch).avs",
-            "size": 2973,
-            "checksum": "sha256:52b7ca73e25766fdc968fcde1d8890a37e552ab17e88cf1c685d15e5d0284b74"
-        },
-        {
-            "file": "frames.of.reality/sEP . négy/005 . amphirion - pulse (re-gb remix by frames-of-reality).avs",
-            "size": 5345,
-            "checksum": "sha256:8bfcb8bbde5839de9dc79a667339238347b03e4312374fe38046fff6137dc97e"
-        },
-        {
-            "file": "frames.of.reality/sEP . négy/006 . mykal . chromatica (edit).avs",
-            "size": 3876,
-            "checksum": "sha256:93f8f7b89eb38cfe0d08d74498d56e2b85028b73a7b0c4e945ddc03f218b274a"
-        },
-        {
-            "file": "frames.of.reality/sEP . négy/007 . yathosho .  if 60s were 90s (for's red ghost version).avs",
-            "size": 4606,
-            "checksum": "sha256:eb6cea6b4465d7cddeb428eb004c1573e04dffc610ccfbe5c1736ec8412b4a5a"
-        }
-    ],
-    "assets": [
-        {
-            "file": "avsres_texer_circle_fade_25x25.bmp",
-            "size": 1954,
-            "checksum": "sha256:e4f85455ec309a1ea3e8aab2ad5ab3256ca230dae80b2de38efe3101f90bc945"
-        },
-        {
-            "file": "avsres_texer_circle_heavyblur_29x29.bmp",
-            "size": 2606,
-            "checksum": "sha256:f774cf10d56275d629f321163dbc610fee02b0e892c9065b0931564240bf078d"
-        },
-        {
-            "file": "Shreyas-IV-01.bmp",
-            "size": 36342,
-            "checksum": "sha256:10bf973044414dbea4dfaf77de57d7de4d3a871f0fc057bda1a3f699e202a411"
-        }
-    ],
-    "plugins": [
-        "AddBorder",
-        "BufferBlend",
-        "FramerateLimiter",
-        "TransAuto",
-        "VideoDelay"
-    ]
+	"name": "sEP . n�gy",
+	"id": "VB238",
+	"presets": [
+		{
+			"file": "frames.of.reality/sEP . négy/001 . plasma panel.avs",
+			"size": 3496,
+			"checksum": "sha256:b7114ece223191028cb2fa34f19ff23be413b6fde2bc6cc844da1b0dd6c00186"
+		},
+		{
+			"file": "frames.of.reality/sEP . négy/002 . focus group retouch.avs",
+			"size": 8015,
+			"checksum": "sha256:371a32e47ccb3697ae8c1745ef0aa9cb373008ad8ccda6c9ac56fa2938e8050a"
+		},
+		{
+			"file": "frames.of.reality/sEP . négy/003 . micro.d . crcls4262b-366198 (oh so bright and cheerful remix).avs",
+			"size": 6945,
+			"checksum": "sha256:d2107943b81ab87031a93eaf30970391ed7da44596f3374a59169a09f90de32f"
+		},
+		{
+			"file": "frames.of.reality/sEP . négy/004 . into the chambers of maedvigan (2011 retouch).avs",
+			"size": 2973,
+			"checksum": "sha256:52b7ca73e25766fdc968fcde1d8890a37e552ab17e88cf1c685d15e5d0284b74"
+		},
+		{
+			"file": "frames.of.reality/sEP . négy/005 . amphirion - pulse (re-gb remix by frames-of-reality).avs",
+			"size": 5345,
+			"checksum": "sha256:8bfcb8bbde5839de9dc79a667339238347b03e4312374fe38046fff6137dc97e"
+		},
+		{
+			"file": "frames.of.reality/sEP . négy/006 . mykal . chromatica (edit).avs",
+			"size": 3876,
+			"checksum": "sha256:93f8f7b89eb38cfe0d08d74498d56e2b85028b73a7b0c4e945ddc03f218b274a"
+		},
+		{
+			"file": "frames.of.reality/sEP . négy/007 . yathosho .  if 60s were 90s (for's red ghost version).avs",
+			"size": 4606,
+			"checksum": "sha256:eb6cea6b4465d7cddeb428eb004c1573e04dffc610ccfbe5c1736ec8412b4a5a"
+		}
+	],
+	"assets": [
+		{
+			"file": "avsres_texer_circle_fade_25x25.bmp",
+			"size": 1954,
+			"checksum": "sha256:e4f85455ec309a1ea3e8aab2ad5ab3256ca230dae80b2de38efe3101f90bc945"
+		},
+		{
+			"file": "avsres_texer_circle_heavyblur_29x29.bmp",
+			"size": 2606,
+			"checksum": "sha256:f774cf10d56275d629f321163dbc610fee02b0e892c9065b0931564240bf078d"
+		},
+		{
+			"file": "Shreyas-IV-01.bmp",
+			"size": 36342,
+			"checksum": "sha256:10bf973044414dbea4dfaf77de57d7de4d3a871f0fc057bda1a3f699e202a411"
+		}
+	],
+	"plugins": ["AddBorder", "BufferBlend", "FramerateLimiter", "TransAuto", "VideoDelay"]
 }

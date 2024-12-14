@@ -1,130 +1,130 @@
 {
-    "name": "whyEye.org x6",
-    "id": "VB188",
-    "presets": [
-        {
-            "file": "whyEye.org/whyEye.org x6/volume one/01 micro.d - blockfucker (yathosho refix #1).avs",
-            "size": 6404,
-            "checksum": "sha256:873ea19631ad484dc3b70bc1a31c81faa53efc9cd4c7e5cbcfbe80d3f198eb3b"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x6/volume one/02 nemo - balloons (layers rework by yathosho).avs",
-            "size": 42479,
-            "checksum": "sha256:cf188b83e8e0ffd583d1dc27d9ca0e5868a3889101880ec49e529b9d29807424"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x6/volume one/03 hurric4ne - you + me (yathosho refix).avs",
-            "size": 9135,
-            "checksum": "sha256:beb5cd06909b48bdc8812d45cb038f03750306b3cf036b4341f0c29a344675cd"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x6/volume one/04 amphirion - just for today (ya-tho-sho treatment).avs",
-            "size": 3465,
-            "checksum": "sha256:742237e0bfc1de0f9ed20aa363443baf48e7067ebf01cb0e88519dfe2a179fe0"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x6/volume one/05 onionring - ziyan ii (yathosho refix #1).avs",
-            "size": 18065,
-            "checksum": "sha256:0689c0d316cb5e6de7f393d9d51b8eb94d4058440adb270faa40701ab6e61fd9"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x6/volume one/06 kar-ma - rotational synergy (yathosho edit #2).avs",
-            "size": 2685,
-            "checksum": "sha256:45d5bc02081ae73ca38312e0aa88f0ae16fb70f48d12268e4c809106b6ff9245"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x6/volume one/07 vanish - hurt (yathosho peeks and pokes rework #7).avs",
-            "size": 4733,
-            "checksum": "sha256:318c2deb91e33232ef80b3bb4f75205ce613d60e27d92946d3575cf21318e25d"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x6/volume one/08 zamuz - urban metallic (the spanish remix).avs",
-            "size": 6465,
-            "checksum": "sha256:a7fbe464a54ee264444ec5c7b827eaf256c42bad988cf67ac36aef979077ebdf"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x6/volume one/09 vanish - muthafuckingrobot! (yathosho system shocks).avs",
-            "size": 5427,
-            "checksum": "sha256:1b58cbca2540e97c100cf3a7147d4b6dedc0900393a1d7214797ea0264cb6209"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x6/volume one/10 mr nudge - bounce (ya-tho-sho cut #5).avs",
-            "size": 4702,
-            "checksum": "sha256:83828b280f58ac5440a1a87b0d0f8c1c53062fa348a6bffe23b8ad608362c495"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x6/volume two/01 micro.d - blockfucker (yathosho refix #2).avs",
-            "size": 7132,
-            "checksum": "sha256:3ded88e885fe414ae09b65206b943e2b50e0c7e8d162687accb2d71c643d0cfe"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x6/volume two/02 nemo - balloons (beta remix).avs",
-            "size": 42400,
-            "checksum": "sha256:3e086fa116f28433ec95d940d3ebabdbe79b088c1d147e704468ab618440ba08"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x6/volume two/03 hurric4ne - you + me (yathosho refix inverted).avs",
-            "size": 9156,
-            "checksum": "sha256:2cd8abd5f9c0364eca7d56de6d1fa22b51e5e44261e068f7b16a54460e920953"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x6/volume two/04 amphirion - just for today (yathosho dub).avs",
-            "size": 3511,
-            "checksum": "sha256:0d52b63afbb44ba58bd70724e50655ea088be65920b7f891f601cab600acc6c5"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x6/volume two/05 onionring - ziyan ii (yathosho refix #2).avs",
-            "size": 17993,
-            "checksum": "sha256:a0a24969c83e3385e6f03fee11a785a07ac547187a280ddb5c9d00171505c69e"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x6/volume two/06 kar-ma - rotational synergy (yathosho edit #1).avs",
-            "size": 2376,
-            "checksum": "sha256:b3b0d3bf344d16074aa58d002a4d58e39b65720222c77eed0248709820a7a2f4"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x6/volume two/07 vanish - hurt (yathosho peeks and pokes rework #4).avs",
-            "size": 4825,
-            "checksum": "sha256:89536504ce6b7f2d4f91f0d641d4d53445e0f51291d3e680c61a71c346c3d619"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x6/volume two/08 zamuz - urban metallic (certain death remix).avs",
-            "size": 5960,
-            "checksum": "sha256:8e94e35d74e6805ec766b294741e2c6ffcaca5f2cd0dffd2e56a864bf3d7f701"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x6/volume two/09 javs - translucent ink (the spanish remix).avs",
-            "size": 4256,
-            "checksum": "sha256:2ef5434ccee25bdba85f9e7a472951ea479394ba10f29b8430473c1ec7dfd43b"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x6/volume two/10 mr nudge - bounce (ya-tho-sho cut #4).avs",
-            "size": 4702,
-            "checksum": "sha256:8c03567644d035b8ab757ed7ad09ec27c32f7438e5b4d8107e16a764e5d91ba7"
-        }
-    ],
-    "assets": [
-        {
-            "file": "avsres_texer_square_sharp_16x16.bmp",
-            "size": 1254,
-            "checksum": "sha256:dcdc7dc7cf95c0a05b0d09c9a629d63f4079ea69b66b1e9546b2b4da830c538f"
-        },
-        {
-            "file": "vanish_hurt_screenshot.bmp",
-            "size": 196662,
-            "checksum": "sha256:260ac18d1dd6f772b75bcc8312eab07ef7e8b8191cc520521f0d9ef780a6df3b"
-        }
-    ],
-    "plugins": [
-        "ChannelShift",
-        "ColorMap",
-        "ColorReduction",
-        "ConvolutionFilter",
-        "Normalise",
-        "Picture2",
-        "Texer2",
-        "TransAuto",
-        "Triangle",
-        "VideoDelay"
-    ]
+	"name": "whyEye.org x6",
+	"id": "VB188",
+	"presets": [
+		{
+			"file": "whyEye.org/whyEye.org x6/volume one/01 micro.d - blockfucker (yathosho refix #1).avs",
+			"size": 6404,
+			"checksum": "sha256:873ea19631ad484dc3b70bc1a31c81faa53efc9cd4c7e5cbcfbe80d3f198eb3b"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x6/volume one/02 nemo - balloons (layers rework by yathosho).avs",
+			"size": 42479,
+			"checksum": "sha256:cf188b83e8e0ffd583d1dc27d9ca0e5868a3889101880ec49e529b9d29807424"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x6/volume one/03 hurric4ne - you + me (yathosho refix).avs",
+			"size": 9135,
+			"checksum": "sha256:beb5cd06909b48bdc8812d45cb038f03750306b3cf036b4341f0c29a344675cd"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x6/volume one/04 amphirion - just for today (ya-tho-sho treatment).avs",
+			"size": 3465,
+			"checksum": "sha256:742237e0bfc1de0f9ed20aa363443baf48e7067ebf01cb0e88519dfe2a179fe0"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x6/volume one/05 onionring - ziyan ii (yathosho refix #1).avs",
+			"size": 18065,
+			"checksum": "sha256:0689c0d316cb5e6de7f393d9d51b8eb94d4058440adb270faa40701ab6e61fd9"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x6/volume one/06 kar-ma - rotational synergy (yathosho edit #2).avs",
+			"size": 2685,
+			"checksum": "sha256:45d5bc02081ae73ca38312e0aa88f0ae16fb70f48d12268e4c809106b6ff9245"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x6/volume one/07 vanish - hurt (yathosho peeks and pokes rework #7).avs",
+			"size": 4733,
+			"checksum": "sha256:318c2deb91e33232ef80b3bb4f75205ce613d60e27d92946d3575cf21318e25d"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x6/volume one/08 zamuz - urban metallic (the spanish remix).avs",
+			"size": 6465,
+			"checksum": "sha256:a7fbe464a54ee264444ec5c7b827eaf256c42bad988cf67ac36aef979077ebdf"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x6/volume one/09 vanish - muthafuckingrobot! (yathosho system shocks).avs",
+			"size": 5427,
+			"checksum": "sha256:1b58cbca2540e97c100cf3a7147d4b6dedc0900393a1d7214797ea0264cb6209"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x6/volume one/10 mr nudge - bounce (ya-tho-sho cut #5).avs",
+			"size": 4702,
+			"checksum": "sha256:83828b280f58ac5440a1a87b0d0f8c1c53062fa348a6bffe23b8ad608362c495"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x6/volume two/01 micro.d - blockfucker (yathosho refix #2).avs",
+			"size": 7132,
+			"checksum": "sha256:3ded88e885fe414ae09b65206b943e2b50e0c7e8d162687accb2d71c643d0cfe"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x6/volume two/02 nemo - balloons (beta remix).avs",
+			"size": 42400,
+			"checksum": "sha256:3e086fa116f28433ec95d940d3ebabdbe79b088c1d147e704468ab618440ba08"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x6/volume two/03 hurric4ne - you + me (yathosho refix inverted).avs",
+			"size": 9156,
+			"checksum": "sha256:2cd8abd5f9c0364eca7d56de6d1fa22b51e5e44261e068f7b16a54460e920953"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x6/volume two/04 amphirion - just for today (yathosho dub).avs",
+			"size": 3511,
+			"checksum": "sha256:0d52b63afbb44ba58bd70724e50655ea088be65920b7f891f601cab600acc6c5"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x6/volume two/05 onionring - ziyan ii (yathosho refix #2).avs",
+			"size": 17993,
+			"checksum": "sha256:a0a24969c83e3385e6f03fee11a785a07ac547187a280ddb5c9d00171505c69e"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x6/volume two/06 kar-ma - rotational synergy (yathosho edit #1).avs",
+			"size": 2376,
+			"checksum": "sha256:b3b0d3bf344d16074aa58d002a4d58e39b65720222c77eed0248709820a7a2f4"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x6/volume two/07 vanish - hurt (yathosho peeks and pokes rework #4).avs",
+			"size": 4825,
+			"checksum": "sha256:89536504ce6b7f2d4f91f0d641d4d53445e0f51291d3e680c61a71c346c3d619"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x6/volume two/08 zamuz - urban metallic (certain death remix).avs",
+			"size": 5960,
+			"checksum": "sha256:8e94e35d74e6805ec766b294741e2c6ffcaca5f2cd0dffd2e56a864bf3d7f701"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x6/volume two/09 javs - translucent ink (the spanish remix).avs",
+			"size": 4256,
+			"checksum": "sha256:2ef5434ccee25bdba85f9e7a472951ea479394ba10f29b8430473c1ec7dfd43b"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x6/volume two/10 mr nudge - bounce (ya-tho-sho cut #4).avs",
+			"size": 4702,
+			"checksum": "sha256:8c03567644d035b8ab757ed7ad09ec27c32f7438e5b4d8107e16a764e5d91ba7"
+		}
+	],
+	"assets": [
+		{
+			"file": "avsres_texer_square_sharp_16x16.bmp",
+			"size": 1254,
+			"checksum": "sha256:dcdc7dc7cf95c0a05b0d09c9a629d63f4079ea69b66b1e9546b2b4da830c538f"
+		},
+		{
+			"file": "vanish_hurt_screenshot.bmp",
+			"size": 196662,
+			"checksum": "sha256:260ac18d1dd6f772b75bcc8312eab07ef7e8b8191cc520521f0d9ef780a6df3b"
+		}
+	],
+	"plugins": [
+		"ChannelShift",
+		"ColorMap",
+		"ColorReduction",
+		"ConvolutionFilter",
+		"Normalise",
+		"Picture2",
+		"Texer2",
+		"TransAuto",
+		"Triangle",
+		"VideoDelay"
+	]
 }

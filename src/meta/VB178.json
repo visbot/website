@@ -1,59 +1,54 @@
 {
-    "name": "He Said, She Said",
-    "id": "VB178",
-    "presets": [
-        {
-            "file": "OnionRing/He Said, She Said/01 He Said She Said.avs",
-            "size": 18003,
-            "checksum": "sha256:45f010b90a5a9f8a288d2b40922bcb42c4394a17473a1dd9ae46d1945f2daa16"
-        },
-        {
-            "file": "OnionRing/He Said, She Said/02 Punkte.avs",
-            "size": 5190,
-            "checksum": "sha256:c6c0c90a7bcd06a151fb0c0657bc94ba38e939140a747555fbe4525970b7579e"
-        },
-        {
-            "file": "OnionRing/He Said, She Said/03 Halbtonbild.avs",
-            "size": 10994,
-            "checksum": "sha256:40ee166864d0304bf0649722d93f6dd45d2b8c012a1cb954ee7f8717498c65f8"
-        },
-        {
-            "file": "OnionRing/He Said, She Said/04 I'm Home.avs",
-            "size": 4673,
-            "checksum": "sha256:823eb34ab74b1bbff9fcb450c5c6246a5029c06276b323d1fb978d1f8048a1fe"
-        },
-        {
-            "file": "OnionRing/He Said, She Said/05 This Is A Song About Being Free.avs",
-            "size": 4898,
-            "checksum": "sha256:235b559bce1f0264dffb29d844f2a99d4cc159963316d2f899ce32c9d77c6491"
-        },
-        {
-            "file": "OnionRing/He Said, She Said/06 All I Know Is Tonight.avs",
-            "size": 5682,
-            "checksum": "sha256:588f9d2726dc3172d18ec74aa5ccfc95faeb3fca2fbe9d481500208be894ac8c"
-        },
-        {
-            "file": "OnionRing/He Said, She Said/07 Blood On The Motorway.avs",
-            "size": 7252,
-            "checksum": "sha256:eb9c207d0ad98f2491f3e54d332db7d2fe076bb9a8d2a49ea9f2797ce01dfaba"
-        },
-        {
-            "file": "OnionRing/He Said, She Said/08 Ziyan.avs",
-            "size": 12802,
-            "checksum": "sha256:2646fe1674d966d349a7e5c930c4c28b5163588a2713dbd3ccb6a4ab30414b0a"
-        }
-    ],
-    "assets": [
-        {
-            "file": "slkscr.ttf",
-            "size": 18336,
-            "checksum": "sha256:201df110e8dd8f19da40e5ad953b25bcac34dcb1bd14c7b8e02c9ce0b5ac0ca3"
-        }
-    ],
-    "plugins": [
-        "BufferBlend",
-        "ConvolutionFilter",
-        "FramerateLimiter",
-        "Triangle"
-    ]
+	"name": "He Said, She Said",
+	"id": "VB178",
+	"presets": [
+		{
+			"file": "OnionRing/He Said, She Said/01 He Said She Said.avs",
+			"size": 18003,
+			"checksum": "sha256:45f010b90a5a9f8a288d2b40922bcb42c4394a17473a1dd9ae46d1945f2daa16"
+		},
+		{
+			"file": "OnionRing/He Said, She Said/02 Punkte.avs",
+			"size": 5190,
+			"checksum": "sha256:c6c0c90a7bcd06a151fb0c0657bc94ba38e939140a747555fbe4525970b7579e"
+		},
+		{
+			"file": "OnionRing/He Said, She Said/03 Halbtonbild.avs",
+			"size": 10994,
+			"checksum": "sha256:40ee166864d0304bf0649722d93f6dd45d2b8c012a1cb954ee7f8717498c65f8"
+		},
+		{
+			"file": "OnionRing/He Said, She Said/04 I'm Home.avs",
+			"size": 4673,
+			"checksum": "sha256:823eb34ab74b1bbff9fcb450c5c6246a5029c06276b323d1fb978d1f8048a1fe"
+		},
+		{
+			"file": "OnionRing/He Said, She Said/05 This Is A Song About Being Free.avs",
+			"size": 4898,
+			"checksum": "sha256:235b559bce1f0264dffb29d844f2a99d4cc159963316d2f899ce32c9d77c6491"
+		},
+		{
+			"file": "OnionRing/He Said, She Said/06 All I Know Is Tonight.avs",
+			"size": 5682,
+			"checksum": "sha256:588f9d2726dc3172d18ec74aa5ccfc95faeb3fca2fbe9d481500208be894ac8c"
+		},
+		{
+			"file": "OnionRing/He Said, She Said/07 Blood On The Motorway.avs",
+			"size": 7252,
+			"checksum": "sha256:eb9c207d0ad98f2491f3e54d332db7d2fe076bb9a8d2a49ea9f2797ce01dfaba"
+		},
+		{
+			"file": "OnionRing/He Said, She Said/08 Ziyan.avs",
+			"size": 12802,
+			"checksum": "sha256:2646fe1674d966d349a7e5c930c4c28b5163588a2713dbd3ccb6a4ab30414b0a"
+		}
+	],
+	"assets": [
+		{
+			"file": "slkscr.ttf",
+			"size": 18336,
+			"checksum": "sha256:201df110e8dd8f19da40e5ad953b25bcac34dcb1bd14c7b8e02c9ce0b5ac0ca3"
+		}
+	],
+	"plugins": ["BufferBlend", "ConvolutionFilter", "FramerateLimiter", "Triangle"]
 }

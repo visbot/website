@@ -1,19 +1,17 @@
 {
-    "name": "VISBOT Refocused (The Y.M.O. Reworks)",
-    "id": "VB170",
-    "presets": [
-        {
-            "file": "VISBOT/VISBOT Refocused/x1 avs-king - fill my head with poison (the y.m.o. rework #1).avs",
-            "size": 1891,
-            "checksum": "sha256:2e0f782b138b4898a114ad3ac33cd48dc74e6b2a20ee5a857a79670ce290c8d2"
-        },
-        {
-            "file": "VISBOT/VISBOT Refocused/y1 avs-king - fill my head with poison (the y.m.o. rework #2).avs",
-            "size": 1903,
-            "checksum": "sha256:e0b7c5bbdc1c09ce3679d3f54d337475d3e555637ceef29f7250bd217db8958c"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "VISBOT Refocused (The Y.M.O. Reworks)",
+	"id": "VB170",
+	"presets": [
+		{
+			"file": "VISBOT/VISBOT Refocused/x1 avs-king - fill my head with poison (the y.m.o. rework #1).avs",
+			"size": 1891,
+			"checksum": "sha256:2e0f782b138b4898a114ad3ac33cd48dc74e6b2a20ee5a857a79670ce290c8d2"
+		},
+		{
+			"file": "VISBOT/VISBOT Refocused/y1 avs-king - fill my head with poison (the y.m.o. rework #2).avs",
+			"size": 1903,
+			"checksum": "sha256:e0b7c5bbdc1c09ce3679d3f54d337475d3e555637ceef29f7250bd217db8958c"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

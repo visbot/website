@@ -1,163 +1,163 @@
 {
-    "name": "Dynamic Duo EPs 2006-2009",
-    "id": "VE011-2",
-    "presets": [
-        {
-            "file": "Dynamic Duo/EPs 2006-2009/01 dynamic duo - upachi (sitting bull mix by drew).avs",
-            "size": 2678,
-            "checksum": "sha256:ac8d379b66c6dea94e1401fdf659a8256da53cdd48182f060c0a0a7c92b0d714"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2006-2009/02 dynamic duo - contraction (sunfraction mix by grandchild).avs",
-            "size": 4468,
-            "checksum": "sha256:98503c1da04dd07f0dc2433df22b4ada4587276e4d1d356d25fd9b8f5f55c933"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2006-2009/03 dynamic duo - tentaclism (transatentaclism mix by frames-of-reality).avs",
-            "size": 4714,
-            "checksum": "sha256:ae9c357c85adf15d7d9117f47ab25363cd1914cb37a3b89c49fb323118fe1a43"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2006-2009/04 dynamic duo - upachi (steel sky mix by zen-x).avs",
-            "size": 3532,
-            "checksum": "sha256:0de406af471d80745fb81a061fddfe3ff3e90b09098842f68bc25671eaf8a9af"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2006-2009/05 dynamic duo - tentaclism (sky of contempt mix by drew).avs",
-            "size": 3942,
-            "checksum": "sha256:2ad8ceda3c7c9a3c4700e9910f975ef064168c2a965625f1030634677bd37384"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2006-2009/06 dynamic duo - carousel (mario overkill mix by vanish).avs",
-            "size": 4623,
-            "checksum": "sha256:37cc813d5501b1b88a2612bce8a8ea1c2c9eb294ceee7d7c1bc7d73106461597"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2006-2009/07 dynamic duo - get sick (777minus111 mix by vanish).avs",
-            "size": 2597,
-            "checksum": "sha256:0a5faecc5bcf5c71a8792907c6e839e705edcce3a20b904f04d904b472122a31"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2006-2009/08 dynamic duo - chromatics (attempted misery mix by wotl).avs",
-            "size": 3166,
-            "checksum": "sha256:4b13b1bff843e9f5be234aec81d189959e73b899cb878848461d274d8f1fff47"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2006-2009/09 dynamic duo - tentaclism (debit mix by drew).avs",
-            "size": 3073,
-            "checksum": "sha256:4edc28a2ba3dc051ddb6d6677a74ebdc9566ebf40b0f6a8090cfb8737d91309c"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2006-2009/10 dynamic duo - contraction (zen-x is choking me rmx).avs",
-            "size": 2581,
-            "checksum": "sha256:9fa0ce0fcbf0d5657095e64c2022bbfdbd403d1a749f1fe474198bcdb84c1648"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2006-2009/11 dynamic duo - chromatics (titanium rework by yathosho).avs",
-            "size": 4498,
-            "checksum": "sha256:5bf82989999216b9b6b7aa00de642ad94cc792fe635e13ac37e7f0f68cb6230c"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2006-2009/12 dynamic duo - tentaclism (trash da junk mix by pan am).avs",
-            "size": 4262,
-            "checksum": "sha256:4eeb79c77345f8f87e7d72b204bbbf426445e7320fc206e55eb1a2440036614c"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2006-2009/13 dynamic duo - upachi (drug friendly mix by zamuz).avs",
-            "size": 6628,
-            "checksum": "sha256:08392fb695559ef5c1d375fd6f2d49699ae93203ca7696c9a5164745b19ed4c8"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2006-2009/14 dynamic duo - tentaclism (the y.m.o. rework #1).avs",
-            "size": 2303,
-            "checksum": "sha256:3a20c53a4015fac1b76764baf3c080b32cfc4c8d0244fd3b01e3fd92edc45f8c"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2006-2009/15 dynamic duo - tentaclism (bw mix by meaningless-existance).avs",
-            "size": 4444,
-            "checksum": "sha256:98732804792ee597e20221f240606c3f1d3aa4bed4cc7e59de37814114ab6548"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2006-2009/16 dynamic duo - chromatics (glowy mix by meaningless-existance).avs",
-            "size": 5301,
-            "checksum": "sha256:f70bceb1a522229182079e755250f3d5c56d2013b259ea76bd85d9c09ad52d33"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2006-2009/17 dynamic duo - hentai (yathosho's remix pattern).avs",
-            "size": 4057,
-            "checksum": "sha256:3fd52d7eebe940cdd6fe39907c5b3593064bf1c92bacca56c558118bd4f12c71"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2006-2009/18 dynamic duo - contraction (ya-tho-sho rework).avs",
-            "size": 4332,
-            "checksum": "sha256:3ce801b2281cac24e6a60de72a61feafc3ced3a0aa2ffd8b48f4db4205c8b2f7"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2006-2009/19 dynamic duo - contraction (holly didn't go lightly rework by montana).avs",
-            "size": 1946,
-            "checksum": "sha256:67f2aaa843affe40b39d2f13dc7a66d3c7b420e9bd1b19a3131e64320b788163"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2006-2009/20 dynamic duo - tentaclism (out of focus 2nd take by zamuz).avs",
-            "size": 7219,
-            "checksum": "sha256:a97f4cb8991f7133d8e95478f1170c7ad49713e05184ba0508cc0d3440df9fe3"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2006-2009/21 dynamic duo - tentaclism (smell my tentacle armpits edit #3 by wotl).avs",
-            "size": 3178,
-            "checksum": "sha256:903d5f31acb6c8f848a1f08367469a760ad4c3e6e0e91a60930a582269c746c9"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2006-2009/22 dynamic duo - contraction (detach action mix by frames-of-reality).avs",
-            "size": 3268,
-            "checksum": "sha256:072f60ac95b04b7ac7f226c4da53eaeb94d80e2fec93e1e2349a672c556e4d4a"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2006-2009/23 dynamic duo - flickermood (3rd eye landslide mix by frames-of-reality).avs",
-            "size": 7973,
-            "checksum": "sha256:0d9da9ba2ecaa7e686defa95079c68c1d071245ce63f5a6ff7ae163d5eb977e2"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2006-2009/24 dynamic duo - tentaclism (smell my tentacle armpits edit #2 by wotl).avs",
-            "size": 3163,
-            "checksum": "sha256:ea482c224fd7412edecba357d49e49f5799029bc8b77a830e9f4400d4f31ebaa"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2006-2009/25 dynamic duo - skreamizm ii (drew remix).avs",
-            "size": 4192,
-            "checksum": "sha256:5b81a56937d36a0a8aa0d3a74044f8cdb76086c8c4c8e465ba7d9396e1a32edb"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2006-2009/26 dynamic duo - tentaclism (micro.D° cökimix).avs",
-            "size": 4984,
-            "checksum": "sha256:8b553d087e06b53bac3667784a7ee92a2c852f7df3d6ad2466c091eb372554b5"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2006-2009/27 dynamic duo - tentaclism (kans of kansis mix by drew).avs",
-            "size": 3136,
-            "checksum": "sha256:48b0b335bbcef0284e462c3d8671cb0e79ad0202d9ebb49131f93a2e5c521ce1"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2006-2009/28 dynamic duo - skreamizm (09fuff10 remix by grandchild).avs",
-            "size": 4658,
-            "checksum": "sha256:dc9cc790ac9aa01d9f6c66d329295e1857836bc4e1504b0ca4072ffbfa9ec272"
-        }
-    ],
-    "assets": [
-        {
-            "file": "reGeneSys2.bmp",
-            "size": 66244,
-            "checksum": "sha256:fcd93670f08e3e8d3a23d8175257a8ea00fa8129a4171dfc0197d06eb74ef16d"
-        }
-    ],
-    "plugins": [
-        "AddBorder",
-        "BufferBlend",
-        "ChannelShift",
-        "FramerateLimiter",
-        "Multiplier",
-        "Texer",
-        "VfxAVIPlayer",
-        "VideoDelay"
-    ]
+	"name": "Dynamic Duo EPs 2006-2009",
+	"id": "VE011-2",
+	"presets": [
+		{
+			"file": "Dynamic Duo/EPs 2006-2009/01 dynamic duo - upachi (sitting bull mix by drew).avs",
+			"size": 2678,
+			"checksum": "sha256:ac8d379b66c6dea94e1401fdf659a8256da53cdd48182f060c0a0a7c92b0d714"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2006-2009/02 dynamic duo - contraction (sunfraction mix by grandchild).avs",
+			"size": 4468,
+			"checksum": "sha256:98503c1da04dd07f0dc2433df22b4ada4587276e4d1d356d25fd9b8f5f55c933"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2006-2009/03 dynamic duo - tentaclism (transatentaclism mix by frames-of-reality).avs",
+			"size": 4714,
+			"checksum": "sha256:ae9c357c85adf15d7d9117f47ab25363cd1914cb37a3b89c49fb323118fe1a43"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2006-2009/04 dynamic duo - upachi (steel sky mix by zen-x).avs",
+			"size": 3532,
+			"checksum": "sha256:0de406af471d80745fb81a061fddfe3ff3e90b09098842f68bc25671eaf8a9af"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2006-2009/05 dynamic duo - tentaclism (sky of contempt mix by drew).avs",
+			"size": 3942,
+			"checksum": "sha256:2ad8ceda3c7c9a3c4700e9910f975ef064168c2a965625f1030634677bd37384"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2006-2009/06 dynamic duo - carousel (mario overkill mix by vanish).avs",
+			"size": 4623,
+			"checksum": "sha256:37cc813d5501b1b88a2612bce8a8ea1c2c9eb294ceee7d7c1bc7d73106461597"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2006-2009/07 dynamic duo - get sick (777minus111 mix by vanish).avs",
+			"size": 2597,
+			"checksum": "sha256:0a5faecc5bcf5c71a8792907c6e839e705edcce3a20b904f04d904b472122a31"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2006-2009/08 dynamic duo - chromatics (attempted misery mix by wotl).avs",
+			"size": 3166,
+			"checksum": "sha256:4b13b1bff843e9f5be234aec81d189959e73b899cb878848461d274d8f1fff47"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2006-2009/09 dynamic duo - tentaclism (debit mix by drew).avs",
+			"size": 3073,
+			"checksum": "sha256:4edc28a2ba3dc051ddb6d6677a74ebdc9566ebf40b0f6a8090cfb8737d91309c"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2006-2009/10 dynamic duo - contraction (zen-x is choking me rmx).avs",
+			"size": 2581,
+			"checksum": "sha256:9fa0ce0fcbf0d5657095e64c2022bbfdbd403d1a749f1fe474198bcdb84c1648"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2006-2009/11 dynamic duo - chromatics (titanium rework by yathosho).avs",
+			"size": 4498,
+			"checksum": "sha256:5bf82989999216b9b6b7aa00de642ad94cc792fe635e13ac37e7f0f68cb6230c"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2006-2009/12 dynamic duo - tentaclism (trash da junk mix by pan am).avs",
+			"size": 4262,
+			"checksum": "sha256:4eeb79c77345f8f87e7d72b204bbbf426445e7320fc206e55eb1a2440036614c"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2006-2009/13 dynamic duo - upachi (drug friendly mix by zamuz).avs",
+			"size": 6628,
+			"checksum": "sha256:08392fb695559ef5c1d375fd6f2d49699ae93203ca7696c9a5164745b19ed4c8"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2006-2009/14 dynamic duo - tentaclism (the y.m.o. rework #1).avs",
+			"size": 2303,
+			"checksum": "sha256:3a20c53a4015fac1b76764baf3c080b32cfc4c8d0244fd3b01e3fd92edc45f8c"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2006-2009/15 dynamic duo - tentaclism (bw mix by meaningless-existance).avs",
+			"size": 4444,
+			"checksum": "sha256:98732804792ee597e20221f240606c3f1d3aa4bed4cc7e59de37814114ab6548"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2006-2009/16 dynamic duo - chromatics (glowy mix by meaningless-existance).avs",
+			"size": 5301,
+			"checksum": "sha256:f70bceb1a522229182079e755250f3d5c56d2013b259ea76bd85d9c09ad52d33"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2006-2009/17 dynamic duo - hentai (yathosho's remix pattern).avs",
+			"size": 4057,
+			"checksum": "sha256:3fd52d7eebe940cdd6fe39907c5b3593064bf1c92bacca56c558118bd4f12c71"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2006-2009/18 dynamic duo - contraction (ya-tho-sho rework).avs",
+			"size": 4332,
+			"checksum": "sha256:3ce801b2281cac24e6a60de72a61feafc3ced3a0aa2ffd8b48f4db4205c8b2f7"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2006-2009/19 dynamic duo - contraction (holly didn't go lightly rework by montana).avs",
+			"size": 1946,
+			"checksum": "sha256:67f2aaa843affe40b39d2f13dc7a66d3c7b420e9bd1b19a3131e64320b788163"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2006-2009/20 dynamic duo - tentaclism (out of focus 2nd take by zamuz).avs",
+			"size": 7219,
+			"checksum": "sha256:a97f4cb8991f7133d8e95478f1170c7ad49713e05184ba0508cc0d3440df9fe3"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2006-2009/21 dynamic duo - tentaclism (smell my tentacle armpits edit #3 by wotl).avs",
+			"size": 3178,
+			"checksum": "sha256:903d5f31acb6c8f848a1f08367469a760ad4c3e6e0e91a60930a582269c746c9"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2006-2009/22 dynamic duo - contraction (detach action mix by frames-of-reality).avs",
+			"size": 3268,
+			"checksum": "sha256:072f60ac95b04b7ac7f226c4da53eaeb94d80e2fec93e1e2349a672c556e4d4a"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2006-2009/23 dynamic duo - flickermood (3rd eye landslide mix by frames-of-reality).avs",
+			"size": 7973,
+			"checksum": "sha256:0d9da9ba2ecaa7e686defa95079c68c1d071245ce63f5a6ff7ae163d5eb977e2"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2006-2009/24 dynamic duo - tentaclism (smell my tentacle armpits edit #2 by wotl).avs",
+			"size": 3163,
+			"checksum": "sha256:ea482c224fd7412edecba357d49e49f5799029bc8b77a830e9f4400d4f31ebaa"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2006-2009/25 dynamic duo - skreamizm ii (drew remix).avs",
+			"size": 4192,
+			"checksum": "sha256:5b81a56937d36a0a8aa0d3a74044f8cdb76086c8c4c8e465ba7d9396e1a32edb"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2006-2009/26 dynamic duo - tentaclism (micro.D° cökimix).avs",
+			"size": 4984,
+			"checksum": "sha256:8b553d087e06b53bac3667784a7ee92a2c852f7df3d6ad2466c091eb372554b5"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2006-2009/27 dynamic duo - tentaclism (kans of kansis mix by drew).avs",
+			"size": 3136,
+			"checksum": "sha256:48b0b335bbcef0284e462c3d8671cb0e79ad0202d9ebb49131f93a2e5c521ce1"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2006-2009/28 dynamic duo - skreamizm (09fuff10 remix by grandchild).avs",
+			"size": 4658,
+			"checksum": "sha256:dc9cc790ac9aa01d9f6c66d329295e1857836bc4e1504b0ca4072ffbfa9ec272"
+		}
+	],
+	"assets": [
+		{
+			"file": "reGeneSys2.bmp",
+			"size": 66244,
+			"checksum": "sha256:fcd93670f08e3e8d3a23d8175257a8ea00fa8129a4171dfc0197d06eb74ef16d"
+		}
+	],
+	"plugins": [
+		"AddBorder",
+		"BufferBlend",
+		"ChannelShift",
+		"FramerateLimiter",
+		"Multiplier",
+		"Texer",
+		"VfxAVIPlayer",
+		"VideoDelay"
+	]
 }

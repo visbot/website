@@ -1,45 +1,39 @@
 {
-    "name": "whyEye.org the age of nuke",
-    "id": "VB113",
-    "presets": [
-        {
-            "file": "whyEye.org/whyEye.org the age of nuke/yiA1 hboy - fragile (yathosho's ill bill mix).avs",
-            "size": 4925,
-            "checksum": "sha256:6c2e68522a303cb1330ac5fc30273101a6a1f3424ffd9c131d45aa71ea5c47fd"
-        },
-        {
-            "file": "whyEye.org/whyEye.org the age of nuke/yiA2 mr nudge - black hole (yathosho remix).avs",
-            "size": 2516,
-            "checksum": "sha256:8dbfe0a4de804ca175ba56b22e4e7a01a5bccc0ed2d1ebeb844ec55b10b2439d"
-        },
-        {
-            "file": "whyEye.org/whyEye.org the age of nuke/yiB1 yathosho - vogue (ya-tho-sho rework).avs",
-            "size": 3077,
-            "checksum": "sha256:1fd03281523424adc9a274c8a885007e09b4a3d2db0ad7c0fa238296cf788f23"
-        },
-        {
-            "file": "whyEye.org/whyEye.org the age of nuke/yiB2 nemo - to paint with blood (yathosho's age of nuke rework).avs",
-            "size": 3702,
-            "checksum": "sha256:09aa937978fa9738d0c16dfdabfc278e90984312ae7bc38f41be4e375714643b"
-        }
-    ],
-    "assets": [
-        {
-            "file": "avsres_texer_circle_sharp_15x15.bmp",
-            "size": 938,
-            "checksum": "sha256:32c61631054ead9b42d17e9b3ea4f3b9d3329d1aff4659bc99d6285c0c771de4"
-        },
-        {
-            "file": "avsres_texer_circle_sharp_29x29.bmp",
-            "size": 3030,
-            "checksum": "sha256:2d057959257346e2b9a8922504ad51ff7d2608d6bd591659a7fa08d07406366a"
-        }
-    ],
-    "plugins": [
-        "ColorMap",
-        "ConvolutionFilter",
-        "Multiplier",
-        "Texer2",
-        "Triangle"
-    ]
+	"name": "whyEye.org the age of nuke",
+	"id": "VB113",
+	"presets": [
+		{
+			"file": "whyEye.org/whyEye.org the age of nuke/yiA1 hboy - fragile (yathosho's ill bill mix).avs",
+			"size": 4925,
+			"checksum": "sha256:6c2e68522a303cb1330ac5fc30273101a6a1f3424ffd9c131d45aa71ea5c47fd"
+		},
+		{
+			"file": "whyEye.org/whyEye.org the age of nuke/yiA2 mr nudge - black hole (yathosho remix).avs",
+			"size": 2516,
+			"checksum": "sha256:8dbfe0a4de804ca175ba56b22e4e7a01a5bccc0ed2d1ebeb844ec55b10b2439d"
+		},
+		{
+			"file": "whyEye.org/whyEye.org the age of nuke/yiB1 yathosho - vogue (ya-tho-sho rework).avs",
+			"size": 3077,
+			"checksum": "sha256:1fd03281523424adc9a274c8a885007e09b4a3d2db0ad7c0fa238296cf788f23"
+		},
+		{
+			"file": "whyEye.org/whyEye.org the age of nuke/yiB2 nemo - to paint with blood (yathosho's age of nuke rework).avs",
+			"size": 3702,
+			"checksum": "sha256:09aa937978fa9738d0c16dfdabfc278e90984312ae7bc38f41be4e375714643b"
+		}
+	],
+	"assets": [
+		{
+			"file": "avsres_texer_circle_sharp_15x15.bmp",
+			"size": 938,
+			"checksum": "sha256:32c61631054ead9b42d17e9b3ea4f3b9d3329d1aff4659bc99d6285c0c771de4"
+		},
+		{
+			"file": "avsres_texer_circle_sharp_29x29.bmp",
+			"size": 3030,
+			"checksum": "sha256:2d057959257346e2b9a8922504ad51ff7d2608d6bd591659a7fa08d07406366a"
+		}
+	],
+	"plugins": ["ColorMap", "ConvolutionFilter", "Multiplier", "Texer2", "Triangle"]
 }

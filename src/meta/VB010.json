@@ -1,109 +1,107 @@
 {
-    "name": "Yathosho presents Broker's Insider Volume 1",
-    "id": "VB010",
-    "presets": [
-        {
-            "file": "Broker's Insider/Yathosho presents Broker's Insider Volume 1/01 Yathosho - Butterfly II.avs",
-            "size": 708,
-            "checksum": "sha256:b52ff1cc6f3685cfea2dc9ab27faa1c0f295dcb9198c9c30e677dba209e8a2b3"
-        },
-        {
-            "file": "Broker's Insider/Yathosho presents Broker's Insider Volume 1/02 NemoOrange - Oceanscene (Yathosho's Marrakech Dub).avs",
-            "size": 1149,
-            "checksum": "sha256:6d3f6a50d7be6c1569c728fe1a4f97054403bfedb66c606a41ee7478e17b9d71"
-        },
-        {
-            "file": "Broker's Insider/Yathosho presents Broker's Insider Volume 1/03 S_KuPeRS - Graphiterx (Yathosho in Macau Remix).avs",
-            "size": 1486,
-            "checksum": "sha256:44b915cf18baf12cf41ace794d7f05b7b65f82ab237769572cf920b4dcb2d5ff"
-        },
-        {
-            "file": "Broker's Insider/Yathosho presents Broker's Insider Volume 1/04 Yathosho - dubqnp (Puzzled in green).avs",
-            "size": 839,
-            "checksum": "sha256:3060c00762c9a005cd2496ad800824acdf31e76b556a4bf83e0c81252020fe99"
-        },
-        {
-            "file": "Broker's Insider/Yathosho presents Broker's Insider Volume 1/05 S_KuPeRS vs Yathosho - Isotta.avs",
-            "size": 2553,
-            "checksum": "sha256:92a61866921ee7b56eb5bc7080140fc6eb9774b36c10af0e324345ad0271722d"
-        },
-        {
-            "file": "Broker's Insider/Yathosho presents Broker's Insider Volume 1/06 Yathosho - en Autriche.avs",
-            "size": 805,
-            "checksum": "sha256:f18b5521ce390f29d4b24f56803074206dba3effc02fa01f6629d46024d0874d"
-        },
-        {
-            "file": "Broker's Insider/Yathosho presents Broker's Insider Volume 1/07 Yathosho vs S_KuPeRS - Broken Pleasing.avs",
-            "size": 1692,
-            "checksum": "sha256:86b9600ba4fb285ad339148c28fbb7f631cb9dce842e14d141b9c8188f6f144a"
-        },
-        {
-            "file": "Broker's Insider/Yathosho presents Broker's Insider Volume 1/08 Yathosho vs Tuggummi - Sector Movements (V.I.P.).avs",
-            "size": 1317,
-            "checksum": "sha256:2aa4bb1a0669e00c59407e3324c0dc5a8da58aea0487e35c7db03abcb4b0d6e5"
-        },
-        {
-            "file": "Broker's Insider/Yathosho presents Broker's Insider Volume 1/09 Yathosho - Tischdeckenmikrostruktur (Playdo Mix).avs",
-            "size": 1713,
-            "checksum": "sha256:273c0ea1385e8819fe36ab2ff526d09c4f42ea525f46504e7fe1ca332158d97a"
-        },
-        {
-            "file": "Broker's Insider/Yathosho presents Broker's Insider Volume 1/10 Yathosho - Kon-go (Ill Dub).avs",
-            "size": 866,
-            "checksum": "sha256:737bf1d873b17cf5b269da9a237cffdba40c4db208bd8b4777e073a55f520705"
-        },
-        {
-            "file": "Broker's Insider/Yathosho presents Broker's Insider Volume 1/11 Yathosho vs AVS-King - Super Constellation.avs",
-            "size": 852,
-            "checksum": "sha256:9aedf8cf68b6027eabb6e72352c4926942221ec3391a40010dbb4bfff1a5c3a4"
-        },
-        {
-            "file": "Broker's Insider/Yathosho presents Broker's Insider Volume 1/12 S_KuPeRS - Much more.avs",
-            "size": 4033,
-            "checksum": "sha256:295d836171a89606724b3ffa7dbdbd0747783ad77071be97ea28fb658e4fd70b"
-        },
-        {
-            "file": "Broker's Insider/Yathosho presents Broker's Insider Volume 1/13 Yathosho - dotUK.avs",
-            "size": 1421,
-            "checksum": "sha256:f057a9fb56498d5384648a321e67e09219e69978828d777f2cda4c62a064d32b"
-        },
-        {
-            "file": "Broker's Insider/Yathosho presents Broker's Insider Volume 1/14 Yathosho - Lambretta.avs",
-            "size": 1132,
-            "checksum": "sha256:aca3a6f2e2f52f075b99ed4e9f00ac51efe60c6280ca14ee1ad140c7586110ee"
-        },
-        {
-            "file": "Broker's Insider/Yathosho presents Broker's Insider Volume 1/15 S_KuPeRS - Untitled 031 (Yathosho's Dirty Sci-fi Mix).avs",
-            "size": 2136,
-            "checksum": "sha256:ae0b3406aa2524405bf6708ed2859d3e486be50052f705d41ac1e313d708c869"
-        },
-        {
-            "file": "Broker's Insider/Yathosho presents Broker's Insider Volume 1/16 Yathosho - Fünfzigerjahrekombi.avs",
-            "size": 687,
-            "checksum": "sha256:530299c482c74518f3fe0b4f882a06a7a79e732dba98c770155cb4da96fa29ab"
-        },
-        {
-            "file": "Broker's Insider/Yathosho presents Broker's Insider Volume 1/17 Tuggummi - IXF (Yathosho's Handheld Version).avs",
-            "size": 1237,
-            "checksum": "sha256:ccaaf37b2989dedabd0000b85518618422b5dfcdc62fdede9918737897dedf64"
-        },
-        {
-            "file": "Broker's Insider/Yathosho presents Broker's Insider Volume 1/18 Yathosho - Buttercup (Degnic's Extra Fat RMX).avs",
-            "size": 1395,
-            "checksum": "sha256:45ddf74b8ca6500d5df781aa9403c8adbf83338443963b56c66132795b4d2b45"
-        },
-        {
-            "file": "Broker's Insider/Yathosho presents Broker's Insider Volume 1/19 Yathosho - VeryWikiWiki.avs",
-            "size": 2194,
-            "checksum": "sha256:01412a7bd389abe9e7210b449ca3226ffb1428c69fb9647e8870c103efa668bf"
-        },
-        {
-            "file": "Broker's Insider/Yathosho presents Broker's Insider Volume 1/20 Yathosho - Digi-Go.avs",
-            "size": 1997,
-            "checksum": "sha256:87ba617afc65593b8c1a6cc9c5f93000e3bc75f7877a47141cacf993fb3464c4"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "Yathosho presents Broker's Insider Volume 1",
+	"id": "VB010",
+	"presets": [
+		{
+			"file": "Broker's Insider/Yathosho presents Broker's Insider Volume 1/01 Yathosho - Butterfly II.avs",
+			"size": 708,
+			"checksum": "sha256:b52ff1cc6f3685cfea2dc9ab27faa1c0f295dcb9198c9c30e677dba209e8a2b3"
+		},
+		{
+			"file": "Broker's Insider/Yathosho presents Broker's Insider Volume 1/02 NemoOrange - Oceanscene (Yathosho's Marrakech Dub).avs",
+			"size": 1149,
+			"checksum": "sha256:6d3f6a50d7be6c1569c728fe1a4f97054403bfedb66c606a41ee7478e17b9d71"
+		},
+		{
+			"file": "Broker's Insider/Yathosho presents Broker's Insider Volume 1/03 S_KuPeRS - Graphiterx (Yathosho in Macau Remix).avs",
+			"size": 1486,
+			"checksum": "sha256:44b915cf18baf12cf41ace794d7f05b7b65f82ab237769572cf920b4dcb2d5ff"
+		},
+		{
+			"file": "Broker's Insider/Yathosho presents Broker's Insider Volume 1/04 Yathosho - dubqnp (Puzzled in green).avs",
+			"size": 839,
+			"checksum": "sha256:3060c00762c9a005cd2496ad800824acdf31e76b556a4bf83e0c81252020fe99"
+		},
+		{
+			"file": "Broker's Insider/Yathosho presents Broker's Insider Volume 1/05 S_KuPeRS vs Yathosho - Isotta.avs",
+			"size": 2553,
+			"checksum": "sha256:92a61866921ee7b56eb5bc7080140fc6eb9774b36c10af0e324345ad0271722d"
+		},
+		{
+			"file": "Broker's Insider/Yathosho presents Broker's Insider Volume 1/06 Yathosho - en Autriche.avs",
+			"size": 805,
+			"checksum": "sha256:f18b5521ce390f29d4b24f56803074206dba3effc02fa01f6629d46024d0874d"
+		},
+		{
+			"file": "Broker's Insider/Yathosho presents Broker's Insider Volume 1/07 Yathosho vs S_KuPeRS - Broken Pleasing.avs",
+			"size": 1692,
+			"checksum": "sha256:86b9600ba4fb285ad339148c28fbb7f631cb9dce842e14d141b9c8188f6f144a"
+		},
+		{
+			"file": "Broker's Insider/Yathosho presents Broker's Insider Volume 1/08 Yathosho vs Tuggummi - Sector Movements (V.I.P.).avs",
+			"size": 1317,
+			"checksum": "sha256:2aa4bb1a0669e00c59407e3324c0dc5a8da58aea0487e35c7db03abcb4b0d6e5"
+		},
+		{
+			"file": "Broker's Insider/Yathosho presents Broker's Insider Volume 1/09 Yathosho - Tischdeckenmikrostruktur (Playdo Mix).avs",
+			"size": 1713,
+			"checksum": "sha256:273c0ea1385e8819fe36ab2ff526d09c4f42ea525f46504e7fe1ca332158d97a"
+		},
+		{
+			"file": "Broker's Insider/Yathosho presents Broker's Insider Volume 1/10 Yathosho - Kon-go (Ill Dub).avs",
+			"size": 866,
+			"checksum": "sha256:737bf1d873b17cf5b269da9a237cffdba40c4db208bd8b4777e073a55f520705"
+		},
+		{
+			"file": "Broker's Insider/Yathosho presents Broker's Insider Volume 1/11 Yathosho vs AVS-King - Super Constellation.avs",
+			"size": 852,
+			"checksum": "sha256:9aedf8cf68b6027eabb6e72352c4926942221ec3391a40010dbb4bfff1a5c3a4"
+		},
+		{
+			"file": "Broker's Insider/Yathosho presents Broker's Insider Volume 1/12 S_KuPeRS - Much more.avs",
+			"size": 4033,
+			"checksum": "sha256:295d836171a89606724b3ffa7dbdbd0747783ad77071be97ea28fb658e4fd70b"
+		},
+		{
+			"file": "Broker's Insider/Yathosho presents Broker's Insider Volume 1/13 Yathosho - dotUK.avs",
+			"size": 1421,
+			"checksum": "sha256:f057a9fb56498d5384648a321e67e09219e69978828d777f2cda4c62a064d32b"
+		},
+		{
+			"file": "Broker's Insider/Yathosho presents Broker's Insider Volume 1/14 Yathosho - Lambretta.avs",
+			"size": 1132,
+			"checksum": "sha256:aca3a6f2e2f52f075b99ed4e9f00ac51efe60c6280ca14ee1ad140c7586110ee"
+		},
+		{
+			"file": "Broker's Insider/Yathosho presents Broker's Insider Volume 1/15 S_KuPeRS - Untitled 031 (Yathosho's Dirty Sci-fi Mix).avs",
+			"size": 2136,
+			"checksum": "sha256:ae0b3406aa2524405bf6708ed2859d3e486be50052f705d41ac1e313d708c869"
+		},
+		{
+			"file": "Broker's Insider/Yathosho presents Broker's Insider Volume 1/16 Yathosho - Fünfzigerjahrekombi.avs",
+			"size": 687,
+			"checksum": "sha256:530299c482c74518f3fe0b4f882a06a7a79e732dba98c770155cb4da96fa29ab"
+		},
+		{
+			"file": "Broker's Insider/Yathosho presents Broker's Insider Volume 1/17 Tuggummi - IXF (Yathosho's Handheld Version).avs",
+			"size": 1237,
+			"checksum": "sha256:ccaaf37b2989dedabd0000b85518618422b5dfcdc62fdede9918737897dedf64"
+		},
+		{
+			"file": "Broker's Insider/Yathosho presents Broker's Insider Volume 1/18 Yathosho - Buttercup (Degnic's Extra Fat RMX).avs",
+			"size": 1395,
+			"checksum": "sha256:45ddf74b8ca6500d5df781aa9403c8adbf83338443963b56c66132795b4d2b45"
+		},
+		{
+			"file": "Broker's Insider/Yathosho presents Broker's Insider Volume 1/19 Yathosho - VeryWikiWiki.avs",
+			"size": 2194,
+			"checksum": "sha256:01412a7bd389abe9e7210b449ca3226ffb1428c69fb9647e8870c103efa668bf"
+		},
+		{
+			"file": "Broker's Insider/Yathosho presents Broker's Insider Volume 1/20 Yathosho - Digi-Go.avs",
+			"size": 1997,
+			"checksum": "sha256:87ba617afc65593b8c1a6cc9c5f93000e3bc75f7877a47141cacf993fb3464c4"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

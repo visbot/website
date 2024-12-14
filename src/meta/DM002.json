@@ -1,203 +1,199 @@
 {
-    "name": "DeskMod TWO",
-    "id": "DM002",
-    "presets": [
-        {
-            "file": "DeskMod TWO/01 Nemo Orange - Building Blocks.avs",
-            "size": 2468,
-            "checksum": "sha256:ff088eed56eb64762cf3e8e59b75bd0742aa1cdf5c7b81b99e2322a654a9559f"
-        },
-        {
-            "file": "DeskMod TWO/02 EL-VIS - Golden (S_KuPeRS Remix).avs",
-            "size": 5493,
-            "checksum": "sha256:9715b778156946d634fd51a508d502ca7a10d200c21e9340c6bffedbc4cb8d5b"
-        },
-        {
-            "file": "DeskMod TWO/03 Dynamic Duo - Kinematics.avs",
-            "size": 4193,
-            "checksum": "sha256:16e2a1c564c6adbd11d80e9737ebc408098caab9ec62a329ea83ffd7a3dccbbc"
-        },
-        {
-            "file": "DeskMod TWO/04 Degnic - Venom (S_KuPeRS Remix).avs",
-            "size": 2711,
-            "checksum": "sha256:3f858d99e6bf2dbba264c999f493dc182f7ea31c1ae5a0453d44cb760bd8b8d7"
-        },
-        {
-            "file": "DeskMod TWO/05 Alt-III - Mr. Blob (S_KuPeRS Remix).avs",
-            "size": 3412,
-            "checksum": "sha256:dd252218acb8028ea604f159ee92065f661b31f58416cba49e8d163cdb95ff9c"
-        },
-        {
-            "file": "DeskMod TWO/06 Dynamic Duo - Untitled031 (UCD's Original Tweak).avs",
-            "size": 2293,
-            "checksum": "sha256:357eb9ea78ed06ac25dafb17f23b0d1c829edecae7bf53fe2a07a8b7a3a49e32"
-        },
-        {
-            "file": "DeskMod TWO/07 Duo - Warm Freeform.avs",
-            "size": 1205,
-            "checksum": "sha256:2d7d98e20aa220c70ddfc401248a95ed6398d5fe44e54997ba8ac8d474364fa9"
-        },
-        {
-            "file": "DeskMod TWO/08 Amphirion - Soah Seampol.avs",
-            "size": 2103,
-            "checksum": "sha256:0f8978777a8b589ba4579c5ff01c6bfec30498a337885063a1464d182df6fc7e"
-        },
-        {
-            "file": "DeskMod TWO/09 Little Buddy - Mama's Boy.avs",
-            "size": 1771,
-            "checksum": "sha256:5e2a134a685f5a992dd61b95f918be557952aec8591bd76f02f0a68df34aa98b"
-        },
-        {
-            "file": "DeskMod TWO/10 Yathosho - En Autriche (S_KuPeRS Remix).avs",
-            "size": 2646,
-            "checksum": "sha256:460527839227972a95411bdf823a8c9a48fa455114feea9cec4b07579a0eadae"
-        },
-        {
-            "file": "DeskMod TWO/11 Nemo Orange vs EL-VIS - Dreamtime (Akribisch Karibisch Remix by Yathosho).avs",
-            "size": 11208,
-            "checksum": "sha256:dfe3ef5782829ebaec66f49834a3bf01ac2b2c90ea1676140a092b9880dcd1bd"
-        },
-        {
-            "file": "DeskMod TWO/12 Degnic - Spacefactory.avs",
-            "size": 1347,
-            "checksum": "sha256:83298cac5c86c57374fce50aec15296cee1b99e4e9faa1c688899cb42e901386"
-        },
-        {
-            "file": "DeskMod TWO/13 Yathosho - Kombi.avs",
-            "size": 625,
-            "checksum": "sha256:b77f31ead78b5d6275ea42d91b5ada5f08b6c2d52d32fad43d96d717d532a6c9"
-        },
-        {
-            "file": "DeskMod TWO/14 S_KuPeRS - Upward Current.avs",
-            "size": 2713,
-            "checksum": "sha256:2b6ddf3035bfbcc49e64e0357ed73325c993ad085b157ef1347c647e011b37ae"
-        },
-        {
-            "file": "DeskMod TWO/15 S_KuPeRS - Aristocrat.avs",
-            "size": 3376,
-            "checksum": "sha256:14d934bf0dc01f5daec8c1a7fabd75e37afcdcb3d0750a77ee658c30f1e84d5b"
-        },
-        {
-            "file": "DeskMod TWO/16 Dynamic Duo - Alphonso from Madrid.avs",
-            "size": 3461,
-            "checksum": "sha256:a3a5e638f73f1d98c968f45bc362ea10fc6a4c65451e474f9a16c34d39ef7c5b"
-        },
-        {
-            "file": "DeskMod TWO/17 Dynamic Duo - benandjerrys.avs",
-            "size": 2616,
-            "checksum": "sha256:57f95ed37767ab7633535015143d0e41ea7066efe0acb2c6148883e2442e5de9"
-        },
-        {
-            "file": "DeskMod TWO/18 Shock Value - Chrome Current (Yathosho's Camouflage Hi-Res Edit).avs",
-            "size": 4719,
-            "checksum": "sha256:ad4bc7f242bf506868f0010becfb1b6001c7912fc77d85ee813ac96a163da7be"
-        },
-        {
-            "file": "DeskMod TWO/19 Yathosho vs T-K - Lichtkörper v3.avs",
-            "size": 1204,
-            "checksum": "sha256:5a6c09415a0f9f085ac266fcc1caf596de228bffbc24cba910825d0d2a3a572b"
-        },
-        {
-            "file": "DeskMod TWO/20 Jheriko - I'm not wanted either (Yathosho's Minute-made Re-edit).avs",
-            "size": 4259,
-            "checksum": "sha256:450d19f8573f2abeee95e963dea43a5a23424c87b260a11e696fdfa9f527a639"
-        },
-        {
-            "file": "DeskMod TWO/21 S_KuPeRS - Brokenoutput Realmism.avs",
-            "size": 5299,
-            "checksum": "sha256:391c0aa8997bd01fdf6afd1dbf0858120d3bf2bc1c5ee288c855942e7d2715f2"
-        },
-        {
-            "file": "DeskMod TWO/22 Nemo Orange - Evaporate (S_KuPeRS Remix).avs",
-            "size": 3317,
-            "checksum": "sha256:b4c15f2d51d82b78db10bdfc4ebb6c1c6fad209baae06f2b187e7410d07e93ac"
-        },
-        {
-            "file": "DeskMod TWO/23 Tuggummi - Electro blobs.avs",
-            "size": 13368,
-            "checksum": "sha256:b4325a35c8101295330be41d571c6d2a5a10288fedbcb12d3d2966cfcc9acd99"
-        },
-        {
-            "file": "DeskMod TWO/24 Yathosho - Transmeta (Early Version).avs",
-            "size": 2089,
-            "checksum": "sha256:d3fccc7a218eea223c850a7ff5e64e5ed782921699a4dc3c1ebde1d958a1a8bc"
-        },
-        {
-            "file": "DeskMod TWO/25 Zamuz - Explosive Virus (S_KuPeRS Remix).avs",
-            "size": 2628,
-            "checksum": "sha256:212bc78549ac46191cd538dc4306d7bef75619854cb28e47284397e657c6bc60"
-        },
-        {
-            "file": "DeskMod TWO/26 EL-VIS - Molecules (S_KuPeRS Remix).avs",
-            "size": 5691,
-            "checksum": "sha256:2e0d4efbab5aa3cc911626729961385a7780cc602ee11c2a4383a5a920733190"
-        },
-        {
-            "file": "DeskMod TWO/27 Yathosho - 78 v2.avs",
-            "size": 1771,
-            "checksum": "sha256:e86dde6faaf1b93033ecee58dad31900f2456c90df6722a3e62488d9a55853b6"
-        },
-        {
-            "file": "DeskMod TWO/28 S_KuPeRS - Metallic Funk Appliance (Yathosho's Gewebeprobenmix).avs",
-            "size": 1538,
-            "checksum": "sha256:aaa22169797f3aec1c82b6e93e94a00d9f0fff59ffac2042fc4bebe8362d5a0c"
-        },
-        {
-            "file": "DeskMod TWO/29 S_KuPeRS - Spirit Realm (Degnic's Plasmoid RMX).avs",
-            "size": 4478,
-            "checksum": "sha256:ca1506ca7a0d9194062b07fcd9f6eb71ea931e8deb8cdd04279879a27e612346"
-        },
-        {
-            "file": "DeskMod TWO/30 AVS-King - Tunnelvision (S_KuPeRS Remix).avs",
-            "size": 3759,
-            "checksum": "sha256:5038c1cb857b17d28c36691db9f351202f1362cc2b1e0982204d6cce5f58dc4b"
-        },
-        {
-            "file": "DeskMod TWO/31 Degnic - Fractal (Yathosho's Broken Fractal Remix).avs",
-            "size": 1088,
-            "checksum": "sha256:9e8941628d66e3acb0dc26827a81925e44a55ce54bc42c62b369aee9e9ff7d7a"
-        },
-        {
-            "file": "DeskMod TWO/32 Dynamic Duo - Curvaceous (Yathosho's Vaginal Stream).avs",
-            "size": 1973,
-            "checksum": "sha256:a2cf7ee10ad52797761594f24a69a8c9acb871ea13ef7d22edcd1a93f56cd65d"
-        },
-        {
-            "file": "DeskMod TWO/33 S_KuPeRS - Technological.avs",
-            "size": 8998,
-            "checksum": "sha256:5252efc2e7eea9a49b83af4e3065d0f0583f0abbf977f81a9f3286e98f681534"
-        },
-        {
-            "file": "DeskMod TWO/34 Yathosho - VeryWikiWiki.avs",
-            "size": 2194,
-            "checksum": "sha256:3c0bd509b3d829ad6fd4399116bca0e0603bc8e7930e5162d350da676ee73ea7"
-        },
-        {
-            "file": "DeskMod TWO/35 Unripe Lemon - Lava Lamp (Yathosho's Magneto Dub).avs",
-            "size": 2492,
-            "checksum": "sha256:362fcd567d0469e1238081b4b617b811faa9939068c1d1303aa8eb4591a930dc"
-        }
-    ],
-    "assets": [
-        {
-            "file": "skupers_lp7_02.bmp",
-            "size": 10856,
-            "checksum": "sha256:aaeb13486d7082c888a556012a3ea574dc4c651b01510ae9722a1ce184f8fd03"
-        },
-        {
-            "file": "tug_bit2_texer5.bmp",
-            "size": 6778,
-            "checksum": "sha256:4cf1a65d0260c22aea56db70fd91122dbf858e2803e230f5ae51e9d9979e99fb"
-        },
-        {
-            "file": "whacko6-07.bmp",
-            "size": 3422,
-            "checksum": "sha256:45c2072b0dcffc04ac87199392097c5debefaaac6000997da9f568094278155d"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter",
-        "MultiFilter",
-        "Picture2"
-    ]
+	"name": "DeskMod TWO",
+	"id": "DM002",
+	"presets": [
+		{
+			"file": "DeskMod TWO/01 Nemo Orange - Building Blocks.avs",
+			"size": 2468,
+			"checksum": "sha256:ff088eed56eb64762cf3e8e59b75bd0742aa1cdf5c7b81b99e2322a654a9559f"
+		},
+		{
+			"file": "DeskMod TWO/02 EL-VIS - Golden (S_KuPeRS Remix).avs",
+			"size": 5493,
+			"checksum": "sha256:9715b778156946d634fd51a508d502ca7a10d200c21e9340c6bffedbc4cb8d5b"
+		},
+		{
+			"file": "DeskMod TWO/03 Dynamic Duo - Kinematics.avs",
+			"size": 4193,
+			"checksum": "sha256:16e2a1c564c6adbd11d80e9737ebc408098caab9ec62a329ea83ffd7a3dccbbc"
+		},
+		{
+			"file": "DeskMod TWO/04 Degnic - Venom (S_KuPeRS Remix).avs",
+			"size": 2711,
+			"checksum": "sha256:3f858d99e6bf2dbba264c999f493dc182f7ea31c1ae5a0453d44cb760bd8b8d7"
+		},
+		{
+			"file": "DeskMod TWO/05 Alt-III - Mr. Blob (S_KuPeRS Remix).avs",
+			"size": 3412,
+			"checksum": "sha256:dd252218acb8028ea604f159ee92065f661b31f58416cba49e8d163cdb95ff9c"
+		},
+		{
+			"file": "DeskMod TWO/06 Dynamic Duo - Untitled031 (UCD's Original Tweak).avs",
+			"size": 2293,
+			"checksum": "sha256:357eb9ea78ed06ac25dafb17f23b0d1c829edecae7bf53fe2a07a8b7a3a49e32"
+		},
+		{
+			"file": "DeskMod TWO/07 Duo - Warm Freeform.avs",
+			"size": 1205,
+			"checksum": "sha256:2d7d98e20aa220c70ddfc401248a95ed6398d5fe44e54997ba8ac8d474364fa9"
+		},
+		{
+			"file": "DeskMod TWO/08 Amphirion - Soah Seampol.avs",
+			"size": 2103,
+			"checksum": "sha256:0f8978777a8b589ba4579c5ff01c6bfec30498a337885063a1464d182df6fc7e"
+		},
+		{
+			"file": "DeskMod TWO/09 Little Buddy - Mama's Boy.avs",
+			"size": 1771,
+			"checksum": "sha256:5e2a134a685f5a992dd61b95f918be557952aec8591bd76f02f0a68df34aa98b"
+		},
+		{
+			"file": "DeskMod TWO/10 Yathosho - En Autriche (S_KuPeRS Remix).avs",
+			"size": 2646,
+			"checksum": "sha256:460527839227972a95411bdf823a8c9a48fa455114feea9cec4b07579a0eadae"
+		},
+		{
+			"file": "DeskMod TWO/11 Nemo Orange vs EL-VIS - Dreamtime (Akribisch Karibisch Remix by Yathosho).avs",
+			"size": 11208,
+			"checksum": "sha256:dfe3ef5782829ebaec66f49834a3bf01ac2b2c90ea1676140a092b9880dcd1bd"
+		},
+		{
+			"file": "DeskMod TWO/12 Degnic - Spacefactory.avs",
+			"size": 1347,
+			"checksum": "sha256:83298cac5c86c57374fce50aec15296cee1b99e4e9faa1c688899cb42e901386"
+		},
+		{
+			"file": "DeskMod TWO/13 Yathosho - Kombi.avs",
+			"size": 625,
+			"checksum": "sha256:b77f31ead78b5d6275ea42d91b5ada5f08b6c2d52d32fad43d96d717d532a6c9"
+		},
+		{
+			"file": "DeskMod TWO/14 S_KuPeRS - Upward Current.avs",
+			"size": 2713,
+			"checksum": "sha256:2b6ddf3035bfbcc49e64e0357ed73325c993ad085b157ef1347c647e011b37ae"
+		},
+		{
+			"file": "DeskMod TWO/15 S_KuPeRS - Aristocrat.avs",
+			"size": 3376,
+			"checksum": "sha256:14d934bf0dc01f5daec8c1a7fabd75e37afcdcb3d0750a77ee658c30f1e84d5b"
+		},
+		{
+			"file": "DeskMod TWO/16 Dynamic Duo - Alphonso from Madrid.avs",
+			"size": 3461,
+			"checksum": "sha256:a3a5e638f73f1d98c968f45bc362ea10fc6a4c65451e474f9a16c34d39ef7c5b"
+		},
+		{
+			"file": "DeskMod TWO/17 Dynamic Duo - benandjerrys.avs",
+			"size": 2616,
+			"checksum": "sha256:57f95ed37767ab7633535015143d0e41ea7066efe0acb2c6148883e2442e5de9"
+		},
+		{
+			"file": "DeskMod TWO/18 Shock Value - Chrome Current (Yathosho's Camouflage Hi-Res Edit).avs",
+			"size": 4719,
+			"checksum": "sha256:ad4bc7f242bf506868f0010becfb1b6001c7912fc77d85ee813ac96a163da7be"
+		},
+		{
+			"file": "DeskMod TWO/19 Yathosho vs T-K - Lichtkörper v3.avs",
+			"size": 1204,
+			"checksum": "sha256:5a6c09415a0f9f085ac266fcc1caf596de228bffbc24cba910825d0d2a3a572b"
+		},
+		{
+			"file": "DeskMod TWO/20 Jheriko - I'm not wanted either (Yathosho's Minute-made Re-edit).avs",
+			"size": 4259,
+			"checksum": "sha256:450d19f8573f2abeee95e963dea43a5a23424c87b260a11e696fdfa9f527a639"
+		},
+		{
+			"file": "DeskMod TWO/21 S_KuPeRS - Brokenoutput Realmism.avs",
+			"size": 5299,
+			"checksum": "sha256:391c0aa8997bd01fdf6afd1dbf0858120d3bf2bc1c5ee288c855942e7d2715f2"
+		},
+		{
+			"file": "DeskMod TWO/22 Nemo Orange - Evaporate (S_KuPeRS Remix).avs",
+			"size": 3317,
+			"checksum": "sha256:b4c15f2d51d82b78db10bdfc4ebb6c1c6fad209baae06f2b187e7410d07e93ac"
+		},
+		{
+			"file": "DeskMod TWO/23 Tuggummi - Electro blobs.avs",
+			"size": 13368,
+			"checksum": "sha256:b4325a35c8101295330be41d571c6d2a5a10288fedbcb12d3d2966cfcc9acd99"
+		},
+		{
+			"file": "DeskMod TWO/24 Yathosho - Transmeta (Early Version).avs",
+			"size": 2089,
+			"checksum": "sha256:d3fccc7a218eea223c850a7ff5e64e5ed782921699a4dc3c1ebde1d958a1a8bc"
+		},
+		{
+			"file": "DeskMod TWO/25 Zamuz - Explosive Virus (S_KuPeRS Remix).avs",
+			"size": 2628,
+			"checksum": "sha256:212bc78549ac46191cd538dc4306d7bef75619854cb28e47284397e657c6bc60"
+		},
+		{
+			"file": "DeskMod TWO/26 EL-VIS - Molecules (S_KuPeRS Remix).avs",
+			"size": 5691,
+			"checksum": "sha256:2e0d4efbab5aa3cc911626729961385a7780cc602ee11c2a4383a5a920733190"
+		},
+		{
+			"file": "DeskMod TWO/27 Yathosho - 78 v2.avs",
+			"size": 1771,
+			"checksum": "sha256:e86dde6faaf1b93033ecee58dad31900f2456c90df6722a3e62488d9a55853b6"
+		},
+		{
+			"file": "DeskMod TWO/28 S_KuPeRS - Metallic Funk Appliance (Yathosho's Gewebeprobenmix).avs",
+			"size": 1538,
+			"checksum": "sha256:aaa22169797f3aec1c82b6e93e94a00d9f0fff59ffac2042fc4bebe8362d5a0c"
+		},
+		{
+			"file": "DeskMod TWO/29 S_KuPeRS - Spirit Realm (Degnic's Plasmoid RMX).avs",
+			"size": 4478,
+			"checksum": "sha256:ca1506ca7a0d9194062b07fcd9f6eb71ea931e8deb8cdd04279879a27e612346"
+		},
+		{
+			"file": "DeskMod TWO/30 AVS-King - Tunnelvision (S_KuPeRS Remix).avs",
+			"size": 3759,
+			"checksum": "sha256:5038c1cb857b17d28c36691db9f351202f1362cc2b1e0982204d6cce5f58dc4b"
+		},
+		{
+			"file": "DeskMod TWO/31 Degnic - Fractal (Yathosho's Broken Fractal Remix).avs",
+			"size": 1088,
+			"checksum": "sha256:9e8941628d66e3acb0dc26827a81925e44a55ce54bc42c62b369aee9e9ff7d7a"
+		},
+		{
+			"file": "DeskMod TWO/32 Dynamic Duo - Curvaceous (Yathosho's Vaginal Stream).avs",
+			"size": 1973,
+			"checksum": "sha256:a2cf7ee10ad52797761594f24a69a8c9acb871ea13ef7d22edcd1a93f56cd65d"
+		},
+		{
+			"file": "DeskMod TWO/33 S_KuPeRS - Technological.avs",
+			"size": 8998,
+			"checksum": "sha256:5252efc2e7eea9a49b83af4e3065d0f0583f0abbf977f81a9f3286e98f681534"
+		},
+		{
+			"file": "DeskMod TWO/34 Yathosho - VeryWikiWiki.avs",
+			"size": 2194,
+			"checksum": "sha256:3c0bd509b3d829ad6fd4399116bca0e0603bc8e7930e5162d350da676ee73ea7"
+		},
+		{
+			"file": "DeskMod TWO/35 Unripe Lemon - Lava Lamp (Yathosho's Magneto Dub).avs",
+			"size": 2492,
+			"checksum": "sha256:362fcd567d0469e1238081b4b617b811faa9939068c1d1303aa8eb4591a930dc"
+		}
+	],
+	"assets": [
+		{
+			"file": "skupers_lp7_02.bmp",
+			"size": 10856,
+			"checksum": "sha256:aaeb13486d7082c888a556012a3ea574dc4c651b01510ae9722a1ce184f8fd03"
+		},
+		{
+			"file": "tug_bit2_texer5.bmp",
+			"size": 6778,
+			"checksum": "sha256:4cf1a65d0260c22aea56db70fd91122dbf858e2803e230f5ae51e9d9979e99fb"
+		},
+		{
+			"file": "whacko6-07.bmp",
+			"size": 3422,
+			"checksum": "sha256:45c2072b0dcffc04ac87199392097c5debefaaac6000997da9f568094278155d"
+		}
+	],
+	"plugins": ["ConvolutionFilter", "MultiFilter", "Picture2"]
 }

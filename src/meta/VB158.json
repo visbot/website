@@ -1,37 +1,34 @@
 {
-    "name": "CO-OP Session 12",
-    "id": "VB158",
-    "presets": [
-        {
-            "file": "CO-OP Sessions/CO-OP Session 12/a1 yathosho - rise of the minotaur.avs",
-            "size": 5704,
-            "checksum": "sha256:dfa57e2146a5671204ca4b36ef1ce4a9412f79eabeb3c07d42e1c110e8d08406"
-        },
-        {
-            "file": "CO-OP Sessions/CO-OP Session 12/a2 grandchild - the mini-tower of rice.avs",
-            "size": 5679,
-            "checksum": "sha256:3e04e2ec1c69271342b565f21b84a0cb3f41283ac7b0b880f7f75b1b1e5a708f"
-        },
-        {
-            "file": "CO-OP Sessions/CO-OP Session 12/b1 grandchild - grosses kino.avs",
-            "size": 9110,
-            "checksum": "sha256:ba0cceb5e369c29bedc579ecbdbe6ae57d0d4c9766dbefd9f4ddc5614d3b5eb8"
-        },
-        {
-            "file": "CO-OP Sessions/CO-OP Session 12/b2 yathosho - grosser lauschangriff.avs",
-            "size": 7278,
-            "checksum": "sha256:371fbb40bb1378a912b3affd531dd0dee4f56a908cbb88b8c886e6e052ddbded"
-        }
-    ],
-    "assets": [
-        {
-            "file": "avsres_texer_circle_fade_15x15.bmp",
-            "size": 774,
-            "checksum": "sha256:e993d9035e0c88999abda7037e81440f63ee87e37709679de1f4416511be4551"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter",
-        "TransAuto"
-    ]
+	"name": "CO-OP Session 12",
+	"id": "VB158",
+	"presets": [
+		{
+			"file": "CO-OP Sessions/CO-OP Session 12/a1 yathosho - rise of the minotaur.avs",
+			"size": 5704,
+			"checksum": "sha256:dfa57e2146a5671204ca4b36ef1ce4a9412f79eabeb3c07d42e1c110e8d08406"
+		},
+		{
+			"file": "CO-OP Sessions/CO-OP Session 12/a2 grandchild - the mini-tower of rice.avs",
+			"size": 5679,
+			"checksum": "sha256:3e04e2ec1c69271342b565f21b84a0cb3f41283ac7b0b880f7f75b1b1e5a708f"
+		},
+		{
+			"file": "CO-OP Sessions/CO-OP Session 12/b1 grandchild - grosses kino.avs",
+			"size": 9110,
+			"checksum": "sha256:ba0cceb5e369c29bedc579ecbdbe6ae57d0d4c9766dbefd9f4ddc5614d3b5eb8"
+		},
+		{
+			"file": "CO-OP Sessions/CO-OP Session 12/b2 yathosho - grosser lauschangriff.avs",
+			"size": 7278,
+			"checksum": "sha256:371fbb40bb1378a912b3affd531dd0dee4f56a908cbb88b8c886e6e052ddbded"
+		}
+	],
+	"assets": [
+		{
+			"file": "avsres_texer_circle_fade_15x15.bmp",
+			"size": 774,
+			"checksum": "sha256:e993d9035e0c88999abda7037e81440f63ee87e37709679de1f4416511be4551"
+		}
+	],
+	"plugins": ["ConvolutionFilter", "TransAuto"]
 }

@@ -1,64 +1,57 @@
 {
-    "name": "Tentacliiism",
-    "id": "VB223",
-    "presets": [
-        {
-            "file": "Dynamic Duo/Tentacliiism/01 dynamic duo - tentaclism (ugly edit by yathosho).avs",
-            "size": 3317,
-            "checksum": "sha256:e5b6c8739e0d764a6bf91c872cae2f349481f0d04759fd1fa111acb0b3ae0d15"
-        },
-        {
-            "file": "Dynamic Duo/Tentacliiism/02 dynamic duo - tentaclism (disco panic remix by javs).avs",
-            "size": 2446,
-            "checksum": "sha256:8109749b1c5b602fc38baa596190ed13cb1aee6822ee4cc8ce6f012f40a0a1f7"
-        },
-        {
-            "file": "Dynamic Duo/Tentacliiism/03 dynamic duo - tentaclism (fake viskey rmx).avs",
-            "size": 6856,
-            "checksum": "sha256:3d91613ee247ac6902d75901b6c8a42b5fda1ef7c2877da5701c6f8c22f9fc1c"
-        },
-        {
-            "file": "Dynamic Duo/Tentacliiism/04 dynamic duo - tentaclism (cökimix by micro.D°).avs",
-            "size": 4984,
-            "checksum": "sha256:8b553d087e06b53bac3667784a7ee92a2c852f7df3d6ad2466c091eb372554b5"
-        },
-        {
-            "file": "Dynamic Duo/Tentacliiism/05 dynamic duo - tentaclism (out of focus 2nd take by zamuz).avs",
-            "size": 7219,
-            "checksum": "sha256:a97f4cb8991f7133d8e95478f1170c7ad49713e05184ba0508cc0d3440df9fe3"
-        },
-        {
-            "file": "Dynamic Duo/Tentacliiism/06 dynamic duo - tentaclism (trash da junk mix by pan am).avs",
-            "size": 4262,
-            "checksum": "sha256:4eeb79c77345f8f87e7d72b204bbbf426445e7320fc206e55eb1a2440036614c"
-        },
-        {
-            "file": "Dynamic Duo/Tentacliiism/07 dynamic duo - tentaclism (fake skupers rmx).avs",
-            "size": 3611,
-            "checksum": "sha256:dc62783441746304f523b474969017e9ee8c19c420e70dd332538badd6446935"
-        },
-        {
-            "file": "Dynamic Duo/Tentacliiism/08 dynamic duo - tentaclism (where is the octopuse remix by mykal).avs",
-            "size": 2506,
-            "checksum": "sha256:718e02c473d9ee44cf302834ed4ae32ba1f6483fa94dcf102b6e9f04a1b20712"
-        },
-        {
-            "file": "Dynamic Duo/Tentacliiism/09 dynamic duo - tentaclism (ya-tho-sho treatment #2).avs",
-            "size": 4436,
-            "checksum": "sha256:adf099a4320638c317931f892c6da1e739aae27ab80288c0ff6a6247df6cb9d3"
-        },
-        {
-            "file": "Dynamic Duo/Tentacliiism/10 dynamic duo - tentaclism (da vinci's sketchbook remix by grandchild & hurricane).avs",
-            "size": 4813,
-            "checksum": "sha256:6bd37039faf9e620c4492f10be54e2317d9a764f07e990a181d9afd15bcbbc41"
-        }
-    ],
-    "plugins": [
-        "ChannelShift",
-        "ColorMap",
-        "ConvolutionFilter",
-        "Multiplier",
-        "Normalise",
-        "Texer2"
-    ]
+	"name": "Tentacliiism",
+	"id": "VB223",
+	"presets": [
+		{
+			"file": "Dynamic Duo/Tentacliiism/01 dynamic duo - tentaclism (ugly edit by yathosho).avs",
+			"size": 3317,
+			"checksum": "sha256:e5b6c8739e0d764a6bf91c872cae2f349481f0d04759fd1fa111acb0b3ae0d15"
+		},
+		{
+			"file": "Dynamic Duo/Tentacliiism/02 dynamic duo - tentaclism (disco panic remix by javs).avs",
+			"size": 2446,
+			"checksum": "sha256:8109749b1c5b602fc38baa596190ed13cb1aee6822ee4cc8ce6f012f40a0a1f7"
+		},
+		{
+			"file": "Dynamic Duo/Tentacliiism/03 dynamic duo - tentaclism (fake viskey rmx).avs",
+			"size": 6856,
+			"checksum": "sha256:3d91613ee247ac6902d75901b6c8a42b5fda1ef7c2877da5701c6f8c22f9fc1c"
+		},
+		{
+			"file": "Dynamic Duo/Tentacliiism/04 dynamic duo - tentaclism (cökimix by micro.D°).avs",
+			"size": 4984,
+			"checksum": "sha256:8b553d087e06b53bac3667784a7ee92a2c852f7df3d6ad2466c091eb372554b5"
+		},
+		{
+			"file": "Dynamic Duo/Tentacliiism/05 dynamic duo - tentaclism (out of focus 2nd take by zamuz).avs",
+			"size": 7219,
+			"checksum": "sha256:a97f4cb8991f7133d8e95478f1170c7ad49713e05184ba0508cc0d3440df9fe3"
+		},
+		{
+			"file": "Dynamic Duo/Tentacliiism/06 dynamic duo - tentaclism (trash da junk mix by pan am).avs",
+			"size": 4262,
+			"checksum": "sha256:4eeb79c77345f8f87e7d72b204bbbf426445e7320fc206e55eb1a2440036614c"
+		},
+		{
+			"file": "Dynamic Duo/Tentacliiism/07 dynamic duo - tentaclism (fake skupers rmx).avs",
+			"size": 3611,
+			"checksum": "sha256:dc62783441746304f523b474969017e9ee8c19c420e70dd332538badd6446935"
+		},
+		{
+			"file": "Dynamic Duo/Tentacliiism/08 dynamic duo - tentaclism (where is the octopuse remix by mykal).avs",
+			"size": 2506,
+			"checksum": "sha256:718e02c473d9ee44cf302834ed4ae32ba1f6483fa94dcf102b6e9f04a1b20712"
+		},
+		{
+			"file": "Dynamic Duo/Tentacliiism/09 dynamic duo - tentaclism (ya-tho-sho treatment #2).avs",
+			"size": 4436,
+			"checksum": "sha256:adf099a4320638c317931f892c6da1e739aae27ab80288c0ff6a6247df6cb9d3"
+		},
+		{
+			"file": "Dynamic Duo/Tentacliiism/10 dynamic duo - tentaclism (da vinci's sketchbook remix by grandchild & hurricane).avs",
+			"size": 4813,
+			"checksum": "sha256:6bd37039faf9e620c4492f10be54e2317d9a764f07e990a181d9afd15bcbbc41"
+		}
+	],
+	"plugins": ["ChannelShift", "ColorMap", "ConvolutionFilter", "Multiplier", "Normalise", "Texer2"]
 }

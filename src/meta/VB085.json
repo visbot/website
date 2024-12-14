@@ -1,110 +1,107 @@
 {
-    "name": "VISBOT New People Selection Vol 3",
-    "id": "VB085",
-    "presets": [
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 3/01 fragmer - xmech.avs",
-            "size": 8691,
-            "checksum": "sha256:265506d4cca5729fde0a9e4121b492ef44ef709b9c2ffb99dd320829c0b16f49"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 3/02 frames of reality - under the lavender skies.avs",
-            "size": 4361,
-            "checksum": "sha256:034db54b71d2a0b05a3bc39a66f60d80e9c7ad33c3d7e93994f4b0e8a78906d6"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 3/03 pure-krypton - sfwv & sfwpk.avs",
-            "size": 2604,
-            "checksum": "sha256:72c1c1106ceea8991baf128b6d81cd6635dc435392ffd94ed29be0d0c4b8ac12"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 3/04 a3 - clove lounge.avs",
-            "size": 2457,
-            "checksum": "sha256:e834984d862852115b1a3759e670e8005e8e2d207797eba789747b364470f905"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 3/05 yathosho - minidisko (nu lesbians teeniedisko mix).avs",
-            "size": 1540,
-            "checksum": "sha256:c216a045fa132f47d0eb76406ad1fd98e3d22c8f888d4233ddc8de56aab35214"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 3/06 mr nudge - anti-pixel.avs",
-            "size": 1832,
-            "checksum": "sha256:d7e15e6ae37d7b91a201260af5b8fe1132445bccb9a24d61bab2fbf80438166f"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 3/07 danaughty1 - it's da naughtilus.avs",
-            "size": 2262,
-            "checksum": "sha256:b0fd892379269ce2171436dd5326705f61f54742fad90027f4061d14962f10c0"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 3/08 tiberiumguy - ir (icemix).avs",
-            "size": 1678,
-            "checksum": "sha256:86770a37f84aa936b4de0d33271e4a8c4e9e9e44e5230b752aea714172a4206f"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 3/09 dasn00b - disko nite out.avs",
-            "size": 3958,
-            "checksum": "sha256:efab02c819b5815322e5100401f8f4d87a3f9871ff5390d44e45dfe8ef60379e"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 3/10 amphirion - necromancer's pot.avs",
-            "size": 3926,
-            "checksum": "sha256:da8a73f1a6025e9b2b5cdb1f4d08d21ca6a6d9ff750a8ee2b82c92bf11706984"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 3/11 onionring - hexigram (yathosho's intergram rework).avs",
-            "size": 2769,
-            "checksum": "sha256:ca324b36a39ed7e495ead65b54bbee89d4d2b70fc9858f0800b457a849c48238"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 3/12 hboy - lightwave.avs",
-            "size": 3450,
-            "checksum": "sha256:66946e6019872e4452f325d5b48c1ca21fed0fbaefd47cdab2241c69a7c95f13"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 3/13 tuggummi - easy go 2 (akx remix).avs",
-            "size": 8787,
-            "checksum": "sha256:fed068e1e8e3cfefdfc060eb3537286ed2e85dc4022702aad2489ff4b8a567bf"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 3/14 musick - this shit hits.avs",
-            "size": 1392,
-            "checksum": "sha256:14fe0ba3d664680709cc1e292483664fac2f2f39695e0f5f5bcf1d4f95eddd71"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 3/15 raz - fireworks.avs",
-            "size": 4201,
-            "checksum": "sha256:3130037aa4f7ec505b608bca5d043e8acff531081d23ab9d0419769c6086456a"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 3/16 amphirion - extremadura (synth-c remix).avs",
-            "size": 3823,
-            "checksum": "sha256:ac0daa28e2710300b4954b0704810994c3c3346152afaad7684a794b91a38cca"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 3/17 pan am - atmospheric (pan am remix).avs",
-            "size": 1435,
-            "checksum": "sha256:e8d7bf9ea91ee47e614d74ae59e143ae6bbce4c89d4c2c1e4be9ec931ce8fdf2"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 3/18 pure-krypton - pureflame (vanish's multifrukt rmx).avs",
-            "size": 3717,
-            "checksum": "sha256:f108e32ad289bbf3999fd46b57b569c5b8d2409d7d91672c016480e7b717b9cd"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 3/19 les noobiens - 2-gummi.avs",
-            "size": 3498,
-            "checksum": "sha256:458a36ef4bae298fccf0880020032f29eb059142cf3920140aabcc00709518ee"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 3/20 yathosho - dynamix 2 (frames of reality borderlines remix).avs",
-            "size": 3222,
-            "checksum": "sha256:cc1a9dbf93adc8b03e50c7570c44d4f5d802daf18622053fd6e98ab635085e88"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter",
-        "GlobalVarMan"
-    ]
+	"name": "VISBOT New People Selection Vol 3",
+	"id": "VB085",
+	"presets": [
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 3/01 fragmer - xmech.avs",
+			"size": 8691,
+			"checksum": "sha256:265506d4cca5729fde0a9e4121b492ef44ef709b9c2ffb99dd320829c0b16f49"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 3/02 frames of reality - under the lavender skies.avs",
+			"size": 4361,
+			"checksum": "sha256:034db54b71d2a0b05a3bc39a66f60d80e9c7ad33c3d7e93994f4b0e8a78906d6"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 3/03 pure-krypton - sfwv & sfwpk.avs",
+			"size": 2604,
+			"checksum": "sha256:72c1c1106ceea8991baf128b6d81cd6635dc435392ffd94ed29be0d0c4b8ac12"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 3/04 a3 - clove lounge.avs",
+			"size": 2457,
+			"checksum": "sha256:e834984d862852115b1a3759e670e8005e8e2d207797eba789747b364470f905"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 3/05 yathosho - minidisko (nu lesbians teeniedisko mix).avs",
+			"size": 1540,
+			"checksum": "sha256:c216a045fa132f47d0eb76406ad1fd98e3d22c8f888d4233ddc8de56aab35214"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 3/06 mr nudge - anti-pixel.avs",
+			"size": 1832,
+			"checksum": "sha256:d7e15e6ae37d7b91a201260af5b8fe1132445bccb9a24d61bab2fbf80438166f"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 3/07 danaughty1 - it's da naughtilus.avs",
+			"size": 2262,
+			"checksum": "sha256:b0fd892379269ce2171436dd5326705f61f54742fad90027f4061d14962f10c0"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 3/08 tiberiumguy - ir (icemix).avs",
+			"size": 1678,
+			"checksum": "sha256:86770a37f84aa936b4de0d33271e4a8c4e9e9e44e5230b752aea714172a4206f"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 3/09 dasn00b - disko nite out.avs",
+			"size": 3958,
+			"checksum": "sha256:efab02c819b5815322e5100401f8f4d87a3f9871ff5390d44e45dfe8ef60379e"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 3/10 amphirion - necromancer's pot.avs",
+			"size": 3926,
+			"checksum": "sha256:da8a73f1a6025e9b2b5cdb1f4d08d21ca6a6d9ff750a8ee2b82c92bf11706984"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 3/11 onionring - hexigram (yathosho's intergram rework).avs",
+			"size": 2769,
+			"checksum": "sha256:ca324b36a39ed7e495ead65b54bbee89d4d2b70fc9858f0800b457a849c48238"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 3/12 hboy - lightwave.avs",
+			"size": 3450,
+			"checksum": "sha256:66946e6019872e4452f325d5b48c1ca21fed0fbaefd47cdab2241c69a7c95f13"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 3/13 tuggummi - easy go 2 (akx remix).avs",
+			"size": 8787,
+			"checksum": "sha256:fed068e1e8e3cfefdfc060eb3537286ed2e85dc4022702aad2489ff4b8a567bf"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 3/14 musick - this shit hits.avs",
+			"size": 1392,
+			"checksum": "sha256:14fe0ba3d664680709cc1e292483664fac2f2f39695e0f5f5bcf1d4f95eddd71"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 3/15 raz - fireworks.avs",
+			"size": 4201,
+			"checksum": "sha256:3130037aa4f7ec505b608bca5d043e8acff531081d23ab9d0419769c6086456a"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 3/16 amphirion - extremadura (synth-c remix).avs",
+			"size": 3823,
+			"checksum": "sha256:ac0daa28e2710300b4954b0704810994c3c3346152afaad7684a794b91a38cca"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 3/17 pan am - atmospheric (pan am remix).avs",
+			"size": 1435,
+			"checksum": "sha256:e8d7bf9ea91ee47e614d74ae59e143ae6bbce4c89d4c2c1e4be9ec931ce8fdf2"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 3/18 pure-krypton - pureflame (vanish's multifrukt rmx).avs",
+			"size": 3717,
+			"checksum": "sha256:f108e32ad289bbf3999fd46b57b569c5b8d2409d7d91672c016480e7b717b9cd"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 3/19 les noobiens - 2-gummi.avs",
+			"size": 3498,
+			"checksum": "sha256:458a36ef4bae298fccf0880020032f29eb059142cf3920140aabcc00709518ee"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 3/20 yathosho - dynamix 2 (frames of reality borderlines remix).avs",
+			"size": 3222,
+			"checksum": "sha256:cc1a9dbf93adc8b03e50c7570c44d4f5d802daf18622053fd6e98ab635085e88"
+		}
+	],
+	"plugins": ["ConvolutionFilter", "GlobalVarMan"]
 }

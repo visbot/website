@@ -1,120 +1,117 @@
 {
-    "name": "Visions II",
-    "id": "VB028",
-    "presets": [
-        {
-            "file": "Zamuz/Visions II/01 - Visions II.avs",
-            "size": 3562,
-            "checksum": "sha256:f9381424b79f765efdf547a3c36ff7446eeb2df17df05be61c3d4e127f497114"
-        },
-        {
-            "file": "Zamuz/Visions II/02 - Alien Sofistication.avs",
-            "size": 2945,
-            "checksum": "sha256:1666f789e4d25707c46d724d67c13c9a83b003f7a8f943eb33cbbd751e4950fe"
-        },
-        {
-            "file": "Zamuz/Visions II/03 - Blood, Snow and Sky.avs",
-            "size": 4056,
-            "checksum": "sha256:a5d0a108b8aafe38398c6f159753c6b7fcfae9abdbb84136cb0e7ec442f52a90"
-        },
-        {
-            "file": "Zamuz/Visions II/04 - Cast Away.avs",
-            "size": 1254,
-            "checksum": "sha256:c5452fde54f3264067f4193928768824a48c01aede84df84244c6718b5bd33aa"
-        },
-        {
-            "file": "Zamuz/Visions II/05 - Cast Away [ stormy ].avs",
-            "size": 1323,
-            "checksum": "sha256:cca80e587c6712da9649fe3e2c177af25d97f6a8c1a464ff859d97f4db50568e"
-        },
-        {
-            "file": "Zamuz/Visions II/06 - Explosive Virus.avs",
-            "size": 3145,
-            "checksum": "sha256:313337899adf695aa8cad677c237c1bb7f43f2404e87ab18ccc415f483786b62"
-        },
-        {
-            "file": "Zamuz/Visions II/07 - Flower Abstraction.avs",
-            "size": 2668,
-            "checksum": "sha256:44a969efcf5c4324513676901a47616f5b392f2a7a8148bc23fbc2b8c6b263c5"
-        },
-        {
-            "file": "Zamuz/Visions II/08 - Glassy Dream.avs",
-            "size": 2860,
-            "checksum": "sha256:a4eb3c1823bd55ac7cdb7dff4137379e0aa094b0d55249dd58ffa381a0447ba8"
-        },
-        {
-            "file": "Zamuz/Visions II/09 - Living Speaker.avs",
-            "size": 795,
-            "checksum": "sha256:3e7e2a14d5dce88576a2f6ba79b04b1f74a8359a0717b5ff1e229df77be917b7"
-        },
-        {
-            "file": "Zamuz/Visions II/10 - Metallic Shades.avs",
-            "size": 3049,
-            "checksum": "sha256:4198bece88a705c42cdc023d2fcf4c6cce98565682ec4c1f0eb946ce6e8ff54d"
-        },
-        {
-            "file": "Zamuz/Visions II/11 - Milky Dream.avs",
-            "size": 2661,
-            "checksum": "sha256:94acb1f9d32be891d7487c37b04cbf9b0005ef67cc4205656c8d9fd206bc3666"
-        },
-        {
-            "file": "Zamuz/Visions II/12 - Toxic Harmony.avs",
-            "size": 3914,
-            "checksum": "sha256:38b5be5cdf2fa2e4280ab4f56da69c66fa4ba678d4adc8364818a8a2272b5b25"
-        },
-        {
-            "file": "Zamuz/Visions II/13 - Tropicali [ spring rmx ].avs",
-            "size": 3118,
-            "checksum": "sha256:ac1cf4981adeba2630c9751aad76edd4590133c2b9f99ce2ebd4aebe3bf05b87"
-        },
-        {
-            "file": "Zamuz/Visions II/14 - Digital Decoration.avs",
-            "size": 3955,
-            "checksum": "sha256:936dd13ba3628b705c187981375deacdf42fb6ba93f5b750206f0c67cd69e4c2"
-        },
-        {
-            "file": "Zamuz/Visions II/15 - Wireframeish.avs",
-            "size": 2261,
-            "checksum": "sha256:7495840c86b15b130880d68ad856f2b72907f7652a894ba80fcfbb5f5b378286"
-        },
-        {
-            "file": "Zamuz/Visions II/16 - Pastel Flow.avs",
-            "size": 5430,
-            "checksum": "sha256:86703b77ba47b6d16ddd6234e43d45a8c3e40dc4d9b577d0ae7a038697eff394"
-        },
-        {
-            "file": "Zamuz/Visions II/17 - Bella.avs",
-            "size": 2643,
-            "checksum": "sha256:a56d87e0c4374e0f128e272a3ca8d91b2c486e84a27f11a8e48f93dc764f7b4d"
-        },
-        {
-            "file": "Zamuz/Visions II/18 - Bella v2.avs",
-            "size": 1375,
-            "checksum": "sha256:fd3cd7adf446d77b8df82944d7741471c1b410caf96684fc6e257f7fd9907dca"
-        },
-        {
-            "file": "Zamuz/Visions II/19 - Acid Shines.avs",
-            "size": 3229,
-            "checksum": "sha256:a52b97faca4a873995fb981da777a8ac49f149fe19f61f9af765f63bcd5a5085"
-        },
-        {
-            "file": "Zamuz/Visions II/20 - Shiny Star [ techy ].avs",
-            "size": 2884,
-            "checksum": "sha256:731b9092b3b46f9da17f5c26274144fd6f4692515526baa228c748d77b1ebda9"
-        },
-        {
-            "file": "Zamuz/Visions II/21 - Clothes.avs",
-            "size": 1158,
-            "checksum": "sha256:a0a5d7dd7d8284e84725ee55454fa94f02ea5d1dbe37124c3c021063b1fef727"
-        },
-        {
-            "file": "Zamuz/Visions II/22 - Living Speaker [ stone skin rmx by degnic ].avs",
-            "size": 3750,
-            "checksum": "sha256:1d7582aed36c07c24954b07668d91d655d1dc651b813d01643399de00352b162"
-        }
-    ],
-    "plugins": [
-        "BufferBlend",
-        "ConvolutionFilter"
-    ]
+	"name": "Visions II",
+	"id": "VB028",
+	"presets": [
+		{
+			"file": "Zamuz/Visions II/01 - Visions II.avs",
+			"size": 3562,
+			"checksum": "sha256:f9381424b79f765efdf547a3c36ff7446eeb2df17df05be61c3d4e127f497114"
+		},
+		{
+			"file": "Zamuz/Visions II/02 - Alien Sofistication.avs",
+			"size": 2945,
+			"checksum": "sha256:1666f789e4d25707c46d724d67c13c9a83b003f7a8f943eb33cbbd751e4950fe"
+		},
+		{
+			"file": "Zamuz/Visions II/03 - Blood, Snow and Sky.avs",
+			"size": 4056,
+			"checksum": "sha256:a5d0a108b8aafe38398c6f159753c6b7fcfae9abdbb84136cb0e7ec442f52a90"
+		},
+		{
+			"file": "Zamuz/Visions II/04 - Cast Away.avs",
+			"size": 1254,
+			"checksum": "sha256:c5452fde54f3264067f4193928768824a48c01aede84df84244c6718b5bd33aa"
+		},
+		{
+			"file": "Zamuz/Visions II/05 - Cast Away [ stormy ].avs",
+			"size": 1323,
+			"checksum": "sha256:cca80e587c6712da9649fe3e2c177af25d97f6a8c1a464ff859d97f4db50568e"
+		},
+		{
+			"file": "Zamuz/Visions II/06 - Explosive Virus.avs",
+			"size": 3145,
+			"checksum": "sha256:313337899adf695aa8cad677c237c1bb7f43f2404e87ab18ccc415f483786b62"
+		},
+		{
+			"file": "Zamuz/Visions II/07 - Flower Abstraction.avs",
+			"size": 2668,
+			"checksum": "sha256:44a969efcf5c4324513676901a47616f5b392f2a7a8148bc23fbc2b8c6b263c5"
+		},
+		{
+			"file": "Zamuz/Visions II/08 - Glassy Dream.avs",
+			"size": 2860,
+			"checksum": "sha256:a4eb3c1823bd55ac7cdb7dff4137379e0aa094b0d55249dd58ffa381a0447ba8"
+		},
+		{
+			"file": "Zamuz/Visions II/09 - Living Speaker.avs",
+			"size": 795,
+			"checksum": "sha256:3e7e2a14d5dce88576a2f6ba79b04b1f74a8359a0717b5ff1e229df77be917b7"
+		},
+		{
+			"file": "Zamuz/Visions II/10 - Metallic Shades.avs",
+			"size": 3049,
+			"checksum": "sha256:4198bece88a705c42cdc023d2fcf4c6cce98565682ec4c1f0eb946ce6e8ff54d"
+		},
+		{
+			"file": "Zamuz/Visions II/11 - Milky Dream.avs",
+			"size": 2661,
+			"checksum": "sha256:94acb1f9d32be891d7487c37b04cbf9b0005ef67cc4205656c8d9fd206bc3666"
+		},
+		{
+			"file": "Zamuz/Visions II/12 - Toxic Harmony.avs",
+			"size": 3914,
+			"checksum": "sha256:38b5be5cdf2fa2e4280ab4f56da69c66fa4ba678d4adc8364818a8a2272b5b25"
+		},
+		{
+			"file": "Zamuz/Visions II/13 - Tropicali [ spring rmx ].avs",
+			"size": 3118,
+			"checksum": "sha256:ac1cf4981adeba2630c9751aad76edd4590133c2b9f99ce2ebd4aebe3bf05b87"
+		},
+		{
+			"file": "Zamuz/Visions II/14 - Digital Decoration.avs",
+			"size": 3955,
+			"checksum": "sha256:936dd13ba3628b705c187981375deacdf42fb6ba93f5b750206f0c67cd69e4c2"
+		},
+		{
+			"file": "Zamuz/Visions II/15 - Wireframeish.avs",
+			"size": 2261,
+			"checksum": "sha256:7495840c86b15b130880d68ad856f2b72907f7652a894ba80fcfbb5f5b378286"
+		},
+		{
+			"file": "Zamuz/Visions II/16 - Pastel Flow.avs",
+			"size": 5430,
+			"checksum": "sha256:86703b77ba47b6d16ddd6234e43d45a8c3e40dc4d9b577d0ae7a038697eff394"
+		},
+		{
+			"file": "Zamuz/Visions II/17 - Bella.avs",
+			"size": 2643,
+			"checksum": "sha256:a56d87e0c4374e0f128e272a3ca8d91b2c486e84a27f11a8e48f93dc764f7b4d"
+		},
+		{
+			"file": "Zamuz/Visions II/18 - Bella v2.avs",
+			"size": 1375,
+			"checksum": "sha256:fd3cd7adf446d77b8df82944d7741471c1b410caf96684fc6e257f7fd9907dca"
+		},
+		{
+			"file": "Zamuz/Visions II/19 - Acid Shines.avs",
+			"size": 3229,
+			"checksum": "sha256:a52b97faca4a873995fb981da777a8ac49f149fe19f61f9af765f63bcd5a5085"
+		},
+		{
+			"file": "Zamuz/Visions II/20 - Shiny Star [ techy ].avs",
+			"size": 2884,
+			"checksum": "sha256:731b9092b3b46f9da17f5c26274144fd6f4692515526baa228c748d77b1ebda9"
+		},
+		{
+			"file": "Zamuz/Visions II/21 - Clothes.avs",
+			"size": 1158,
+			"checksum": "sha256:a0a5d7dd7d8284e84725ee55454fa94f02ea5d1dbe37124c3c021063b1fef727"
+		},
+		{
+			"file": "Zamuz/Visions II/22 - Living Speaker [ stone skin rmx by degnic ].avs",
+			"size": 3750,
+			"checksum": "sha256:1d7582aed36c07c24954b07668d91d655d1dc651b813d01643399de00352b162"
+		}
+	],
+	"plugins": ["BufferBlend", "ConvolutionFilter"]
 }

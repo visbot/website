@@ -1,29 +1,27 @@
 {
-    "name": "DDxo5",
-    "id": "VB159",
-    "presets": [
-        {
-            "file": "Dynamic Duo/DDxo5/ddA1__hentai (yathosho's remix pattern).avs",
-            "size": 4057,
-            "checksum": "sha256:3fd52d7eebe940cdd6fe39907c5b3593064bf1c92bacca56c558118bd4f12c71"
-        },
-        {
-            "file": "Dynamic Duo/DDxo5/ddA2__contraction (ya-tho-sho rework).avs",
-            "size": 4332,
-            "checksum": "sha256:3ce801b2281cac24e6a60de72a61feafc3ced3a0aa2ffd8b48f4db4205c8b2f7"
-        },
-        {
-            "file": "Dynamic Duo/DDxo5/ddB1__contraction (holly didn't go lightly rework by montana).avs",
-            "size": 1946,
-            "checksum": "sha256:67f2aaa843affe40b39d2f13dc7a66d3c7b420e9bd1b19a3131e64320b788163"
-        },
-        {
-            "file": "Dynamic Duo/DDxo5/ddB2__tentaclism (out of focus 2nd take by zamuz).avs",
-            "size": 7219,
-            "checksum": "sha256:a97f4cb8991f7133d8e95478f1170c7ad49713e05184ba0508cc0d3440df9fe3"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "DDxo5",
+	"id": "VB159",
+	"presets": [
+		{
+			"file": "Dynamic Duo/DDxo5/ddA1__hentai (yathosho's remix pattern).avs",
+			"size": 4057,
+			"checksum": "sha256:3fd52d7eebe940cdd6fe39907c5b3593064bf1c92bacca56c558118bd4f12c71"
+		},
+		{
+			"file": "Dynamic Duo/DDxo5/ddA2__contraction (ya-tho-sho rework).avs",
+			"size": 4332,
+			"checksum": "sha256:3ce801b2281cac24e6a60de72a61feafc3ced3a0aa2ffd8b48f4db4205c8b2f7"
+		},
+		{
+			"file": "Dynamic Duo/DDxo5/ddB1__contraction (holly didn't go lightly rework by montana).avs",
+			"size": 1946,
+			"checksum": "sha256:67f2aaa843affe40b39d2f13dc7a66d3c7b420e9bd1b19a3131e64320b788163"
+		},
+		{
+			"file": "Dynamic Duo/DDxo5/ddB2__tentaclism (out of focus 2nd take by zamuz).avs",
+			"size": 7219,
+			"checksum": "sha256:a97f4cb8991f7133d8e95478f1170c7ad49713e05184ba0508cc0d3440df9fe3"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

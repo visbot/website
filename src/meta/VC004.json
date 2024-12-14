@@ -1,195 +1,189 @@
 {
-    "name": "VISBOT meets Finnish Flash",
-    "id": "VC004",
-    "presets": [
-        {
-            "file": "VISBOT/VC004 VISBOT meets Finnish Flash/01 skupers - intro.avs",
-            "size": 5598,
-            "checksum": "sha256:ae11324e5bfdfd9ecacb2b9c76ffd070d0fe7fc54c1c0b5f510b295c023ce6d4"
-        },
-        {
-            "file": "VISBOT/VC004 VISBOT meets Finnish Flash/02 tuggummi meets a3 - alienporn (ghastly mix).avs",
-            "size": 1300,
-            "checksum": "sha256:686b938d25be3a1835a1aff5f291ff4fcfe20e4a7c201844ede398e24666e0d0"
-        },
-        {
-            "file": "VISBOT/VC004 VISBOT meets Finnish Flash/03 yathosho meets oussy - clichéwise.avs",
-            "size": 1879,
-            "checksum": "sha256:3166c99d1468b4d3ba05e85b4587ba3e85f912ff9a59e91195af890a851a4e53"
-        },
-        {
-            "file": "VISBOT/VC004 VISBOT meets Finnish Flash/04 duo meets zxe - pleasure point.avs",
-            "size": 3564,
-            "checksum": "sha256:dbdc401d32238170484d26a2c69abf42fd9499a3043d1dd2a7b24e0e455425b4"
-        },
-        {
-            "file": "VISBOT/VC004 VISBOT meets Finnish Flash/05 skupers meets tuggummi - dezirot.avs",
-            "size": 4120,
-            "checksum": "sha256:184d61ea9df3f5f0defab83a573254fa9632501694f5bef9bf5dd9f188f6ef4e"
-        },
-        {
-            "file": "VISBOT/VC004 VISBOT meets Finnish Flash/06 zamuz meets jdm - fake (still not real remix).avs",
-            "size": 3038,
-            "checksum": "sha256:a91da11897f41a0b40d664e0ed51e8f71915585f1ef753f8a4d9f5eb1dbabf69"
-        },
-        {
-            "file": "VISBOT/VC004 VISBOT meets Finnish Flash/07 nemo meets degnic - adrealine back up (remix).avs",
-            "size": 3071,
-            "checksum": "sha256:f4e6a6ddd0ca81a03de8024f6f7053f76ca12635a7dcf3810acc51e32dc6a8d8"
-        },
-        {
-            "file": "VISBOT/VC004 VISBOT meets Finnish Flash/08 degnic meets skupers - plasmoid.avs",
-            "size": 2798,
-            "checksum": "sha256:9397a1b625a29277ddf15b09b8b21fd4c016b33004efe4988d67bc4c699891a7"
-        },
-        {
-            "file": "VISBOT/VC004 VISBOT meets Finnish Flash/09 skupers meets zxe - semper nihil.avs",
-            "size": 2140,
-            "checksum": "sha256:2f73c1eedf8f81dc510b00acf6ef328cc0e026701d13d5ec34fd885a4cd250ec"
-        },
-        {
-            "file": "VISBOT/VC004 VISBOT meets Finnish Flash/10 tuggummi meets yathosho - style override.avs",
-            "size": 4946,
-            "checksum": "sha256:77de638beddfa82c4e627a217dc7cf092baba1e05a6c136376f6144b741913c4"
-        },
-        {
-            "file": "VISBOT/VC004 VISBOT meets Finnish Flash/11 dynamic duo meets degnic - nuclear 1982 amiga blobs.avs",
-            "size": 5756,
-            "checksum": "sha256:157223d87780c593ae6c86fba05ee2595e8a126f330d16f8cbb7d27960c6b5b0"
-        },
-        {
-            "file": "VISBOT/VC004 VISBOT meets Finnish Flash/12 yathosho meets jdm - rea-mi-ga.avs",
-            "size": 3000,
-            "checksum": "sha256:d6fe3510e0a200f51599aff9b4eade7249b746829c0cb09dededb6defd050aee"
-        },
-        {
-            "file": "VISBOT/VC004 VISBOT meets Finnish Flash/13 zamuz meets tuggummi - fat balls (wallpaper wannabe candy theme).avs",
-            "size": 23017,
-            "checksum": "sha256:64a5e303a6871ce471b90b43bf7b86892d0282f1a6e22f97fc030fa2f6934e45"
-        },
-        {
-            "file": "VISBOT/VC004 VISBOT meets Finnish Flash/14 degnic meets duo - miraculous flow (just-a-colormix).avs",
-            "size": 3688,
-            "checksum": "sha256:ccf787597223bb02ee68b593f829c44dc2dba18aa9ab5d758fdf41f678f70f6b"
-        },
-        {
-            "file": "VISBOT/VC004 VISBOT meets Finnish Flash/15 nemo meets oussy - timeless (remix).avs",
-            "size": 5699,
-            "checksum": "sha256:608340f147034b6340a0e79be3bee0b6bbe60f37acf1c4764a8bac7eafa50ea3"
-        },
-        {
-            "file": "VISBOT/VC004 VISBOT meets Finnish Flash/16 skupers meets degnic - stop mutescreamer.avs",
-            "size": 2601,
-            "checksum": "sha256:7add9a9c3a5fc07db8dae99a40d1de0e8159c0137ceed430e7082bc94f8f4533"
-        },
-        {
-            "file": "VISBOT/VC004 VISBOT meets Finnish Flash/17 degnic meets zamuz - blood, snow and sky.avs",
-            "size": 4497,
-            "checksum": "sha256:73d34b19d2f5f7bdd69d9a884633f1ce1a7abf1b04bd74c5e8831ab60196297a"
-        },
-        {
-            "file": "VISBOT/VC004 VISBOT meets Finnish Flash/18 tuggummi meets zamuz - in the pastel.avs",
-            "size": 2833,
-            "checksum": "sha256:d9245bec1ffd559bc831b346120de25ffbfa1903585a43ece7e1870e24c0401d"
-        },
-        {
-            "file": "VISBOT/VC004 VISBOT meets Finnish Flash/19 yathosho meets degnic - hyper flow (remix).avs",
-            "size": 2378,
-            "checksum": "sha256:55309b58ac44f502f99a56e21c1d51228a4cc1fecd1e4c8ed36407946db3df83"
-        },
-        {
-            "file": "VISBOT/VC004 VISBOT meets Finnish Flash/20 zamuz meets oussy - beach vibes (inside remix).avs",
-            "size": 4165,
-            "checksum": "sha256:f6f5cfbb370948fcb814b23258bd5769abf1c188639e5f77eeed8274c2120e84"
-        },
-        {
-            "file": "VISBOT/VC004 VISBOT meets Finnish Flash/21 nemo meets tuggummi - let me out! (distant attic remix).avs",
-            "size": 2125,
-            "checksum": "sha256:f9483c8b3f8d5ff33687c92d57a57d618edf1b123a09144d7702de3e5380f1c1"
-        },
-        {
-            "file": "VISBOT/VC004 VISBOT meets Finnish Flash/22 skupers meets degnic - a tribute.avs",
-            "size": 3598,
-            "checksum": "sha256:bf54491a8781c786ba2664c947285195a1332b70076018d49ab6dbf530ed282b"
-        },
-        {
-            "file": "VISBOT/VC004 VISBOT meets Finnish Flash/23 zamuz meets tuggummi - sound rings (fired up style remix).avs",
-            "size": 8315,
-            "checksum": "sha256:c4eb25483efe9341402c0b228b151db5ff94eb1a7306c0c2a6e76fa24b0dc28f"
-        },
-        {
-            "file": "VISBOT/VC004 VISBOT meets Finnish Flash/24 tuggummi meets yathosho - magic flying carpet.avs",
-            "size": 3020,
-            "checksum": "sha256:6c69661c40b9df5570462b8bf162666eb3d2c6f0cef3608bcdf9cc935ebc67ea"
-        },
-        {
-            "file": "VISBOT/VC004 VISBOT meets Finnish Flash/25 duo meets tuggummi - multiple overdose.avs",
-            "size": 4795,
-            "checksum": "sha256:2edf68a5d43e6f83019352247680ced89fbe53f3cbeac2ba9d27d8bcbecb285c"
-        },
-        {
-            "file": "VISBOT/VC004 VISBOT meets Finnish Flash/26 nemo meets jdm - comet (morpheus mix).avs",
-            "size": 1046,
-            "checksum": "sha256:b5587e1f26d4a4698214d1a45f772e02111ec8e85ea8cbd62af849b345346988"
-        },
-        {
-            "file": "VISBOT/VC004 VISBOT meets Finnish Flash/27 dynamic duo meets degnic - it's all about the glitter.avs",
-            "size": 3643,
-            "checksum": "sha256:9ffe17609976b3a27d0e837fd6c8529b4835e11260ec89ebdf63631a6db020bd"
-        },
-        {
-            "file": "VISBOT/VC004 VISBOT meets Finnish Flash/28 skupers meets tuggummi - icywarp.avs",
-            "size": 3456,
-            "checksum": "sha256:c8b2933a695e7326dd62debbbc9ce92bee0552e29852bc33710761df9ae2f76c"
-        },
-        {
-            "file": "VISBOT/VC004 VISBOT meets Finnish Flash/29 yathosho meets tuggummi - let me out! (never say mix).avs",
-            "size": 2366,
-            "checksum": "sha256:b9274b97db9cbd310ab7c938ca817c65c6139ead55f94cf93002fc91010ab9bd"
-        },
-        {
-            "file": "VISBOT/VC004 VISBOT meets Finnish Flash/30 nemo meets zxe - juju (remix).avs",
-            "size": 1101,
-            "checksum": "sha256:77f2d16ecd5b4d74e0d5c2eaff344eeeead85ed628d51a2ce3653e41e98fb1fe"
-        }
-    ],
-    "assets": [
-        {
-            "file": "skupers_lp6_01.bmp",
-            "size": 776,
-            "checksum": "sha256:27bdda462dfec5cea6f702611fdc5df24255ae076c64fd214544b75561771339"
-        },
-        {
-            "file": "tug_3dpack_texer4.bmp",
-            "size": 20970,
-            "checksum": "sha256:975dde5246126359a99d1ae13859c07f0aaf6b91d1dd1d2602284d2c11a47503"
-        },
-        {
-            "file": "tug_bit2_style.bmp",
-            "size": 90766,
-            "checksum": "sha256:233edcbda574260903cecedbb5c2f5f578d2ce994dd76ea10228bda93320adaf"
-        },
-        {
-            "file": "vb.bmp",
-            "size": 145254,
-            "checksum": "sha256:92479458ed7967973cccc27666c5192a2cf8a9f5b526dacba4c3fc907a3bdad4"
-        },
-        {
-            "file": "whacko6-03.bmp",
-            "size": 2266,
-            "checksum": "sha256:016f2b9bcb992215ae5feba005c54aa00f0d2d43c7a8dae36da903efb0307845"
-        },
-        {
-            "file": "whacko6-07.bmp",
-            "size": 3422,
-            "checksum": "sha256:45c2072b0dcffc04ac87199392097c5debefaaac6000997da9f568094278155d"
-        }
-    ],
-    "plugins": [
-        "AddBorder",
-        "BufferBlend",
-        "ConvolutionFilter",
-        "MultiFilter",
-        "Picture2"
-    ]
+	"name": "VISBOT meets Finnish Flash",
+	"id": "VC004",
+	"presets": [
+		{
+			"file": "VISBOT/VC004 VISBOT meets Finnish Flash/01 skupers - intro.avs",
+			"size": 5598,
+			"checksum": "sha256:ae11324e5bfdfd9ecacb2b9c76ffd070d0fe7fc54c1c0b5f510b295c023ce6d4"
+		},
+		{
+			"file": "VISBOT/VC004 VISBOT meets Finnish Flash/02 tuggummi meets a3 - alienporn (ghastly mix).avs",
+			"size": 1300,
+			"checksum": "sha256:686b938d25be3a1835a1aff5f291ff4fcfe20e4a7c201844ede398e24666e0d0"
+		},
+		{
+			"file": "VISBOT/VC004 VISBOT meets Finnish Flash/03 yathosho meets oussy - clichéwise.avs",
+			"size": 1879,
+			"checksum": "sha256:3166c99d1468b4d3ba05e85b4587ba3e85f912ff9a59e91195af890a851a4e53"
+		},
+		{
+			"file": "VISBOT/VC004 VISBOT meets Finnish Flash/04 duo meets zxe - pleasure point.avs",
+			"size": 3564,
+			"checksum": "sha256:dbdc401d32238170484d26a2c69abf42fd9499a3043d1dd2a7b24e0e455425b4"
+		},
+		{
+			"file": "VISBOT/VC004 VISBOT meets Finnish Flash/05 skupers meets tuggummi - dezirot.avs",
+			"size": 4120,
+			"checksum": "sha256:184d61ea9df3f5f0defab83a573254fa9632501694f5bef9bf5dd9f188f6ef4e"
+		},
+		{
+			"file": "VISBOT/VC004 VISBOT meets Finnish Flash/06 zamuz meets jdm - fake (still not real remix).avs",
+			"size": 3038,
+			"checksum": "sha256:a91da11897f41a0b40d664e0ed51e8f71915585f1ef753f8a4d9f5eb1dbabf69"
+		},
+		{
+			"file": "VISBOT/VC004 VISBOT meets Finnish Flash/07 nemo meets degnic - adrealine back up (remix).avs",
+			"size": 3071,
+			"checksum": "sha256:f4e6a6ddd0ca81a03de8024f6f7053f76ca12635a7dcf3810acc51e32dc6a8d8"
+		},
+		{
+			"file": "VISBOT/VC004 VISBOT meets Finnish Flash/08 degnic meets skupers - plasmoid.avs",
+			"size": 2798,
+			"checksum": "sha256:9397a1b625a29277ddf15b09b8b21fd4c016b33004efe4988d67bc4c699891a7"
+		},
+		{
+			"file": "VISBOT/VC004 VISBOT meets Finnish Flash/09 skupers meets zxe - semper nihil.avs",
+			"size": 2140,
+			"checksum": "sha256:2f73c1eedf8f81dc510b00acf6ef328cc0e026701d13d5ec34fd885a4cd250ec"
+		},
+		{
+			"file": "VISBOT/VC004 VISBOT meets Finnish Flash/10 tuggummi meets yathosho - style override.avs",
+			"size": 4946,
+			"checksum": "sha256:77de638beddfa82c4e627a217dc7cf092baba1e05a6c136376f6144b741913c4"
+		},
+		{
+			"file": "VISBOT/VC004 VISBOT meets Finnish Flash/11 dynamic duo meets degnic - nuclear 1982 amiga blobs.avs",
+			"size": 5756,
+			"checksum": "sha256:157223d87780c593ae6c86fba05ee2595e8a126f330d16f8cbb7d27960c6b5b0"
+		},
+		{
+			"file": "VISBOT/VC004 VISBOT meets Finnish Flash/12 yathosho meets jdm - rea-mi-ga.avs",
+			"size": 3000,
+			"checksum": "sha256:d6fe3510e0a200f51599aff9b4eade7249b746829c0cb09dededb6defd050aee"
+		},
+		{
+			"file": "VISBOT/VC004 VISBOT meets Finnish Flash/13 zamuz meets tuggummi - fat balls (wallpaper wannabe candy theme).avs",
+			"size": 23017,
+			"checksum": "sha256:64a5e303a6871ce471b90b43bf7b86892d0282f1a6e22f97fc030fa2f6934e45"
+		},
+		{
+			"file": "VISBOT/VC004 VISBOT meets Finnish Flash/14 degnic meets duo - miraculous flow (just-a-colormix).avs",
+			"size": 3688,
+			"checksum": "sha256:ccf787597223bb02ee68b593f829c44dc2dba18aa9ab5d758fdf41f678f70f6b"
+		},
+		{
+			"file": "VISBOT/VC004 VISBOT meets Finnish Flash/15 nemo meets oussy - timeless (remix).avs",
+			"size": 5699,
+			"checksum": "sha256:608340f147034b6340a0e79be3bee0b6bbe60f37acf1c4764a8bac7eafa50ea3"
+		},
+		{
+			"file": "VISBOT/VC004 VISBOT meets Finnish Flash/16 skupers meets degnic - stop mutescreamer.avs",
+			"size": 2601,
+			"checksum": "sha256:7add9a9c3a5fc07db8dae99a40d1de0e8159c0137ceed430e7082bc94f8f4533"
+		},
+		{
+			"file": "VISBOT/VC004 VISBOT meets Finnish Flash/17 degnic meets zamuz - blood, snow and sky.avs",
+			"size": 4497,
+			"checksum": "sha256:73d34b19d2f5f7bdd69d9a884633f1ce1a7abf1b04bd74c5e8831ab60196297a"
+		},
+		{
+			"file": "VISBOT/VC004 VISBOT meets Finnish Flash/18 tuggummi meets zamuz - in the pastel.avs",
+			"size": 2833,
+			"checksum": "sha256:d9245bec1ffd559bc831b346120de25ffbfa1903585a43ece7e1870e24c0401d"
+		},
+		{
+			"file": "VISBOT/VC004 VISBOT meets Finnish Flash/19 yathosho meets degnic - hyper flow (remix).avs",
+			"size": 2378,
+			"checksum": "sha256:55309b58ac44f502f99a56e21c1d51228a4cc1fecd1e4c8ed36407946db3df83"
+		},
+		{
+			"file": "VISBOT/VC004 VISBOT meets Finnish Flash/20 zamuz meets oussy - beach vibes (inside remix).avs",
+			"size": 4165,
+			"checksum": "sha256:f6f5cfbb370948fcb814b23258bd5769abf1c188639e5f77eeed8274c2120e84"
+		},
+		{
+			"file": "VISBOT/VC004 VISBOT meets Finnish Flash/21 nemo meets tuggummi - let me out! (distant attic remix).avs",
+			"size": 2125,
+			"checksum": "sha256:f9483c8b3f8d5ff33687c92d57a57d618edf1b123a09144d7702de3e5380f1c1"
+		},
+		{
+			"file": "VISBOT/VC004 VISBOT meets Finnish Flash/22 skupers meets degnic - a tribute.avs",
+			"size": 3598,
+			"checksum": "sha256:bf54491a8781c786ba2664c947285195a1332b70076018d49ab6dbf530ed282b"
+		},
+		{
+			"file": "VISBOT/VC004 VISBOT meets Finnish Flash/23 zamuz meets tuggummi - sound rings (fired up style remix).avs",
+			"size": 8315,
+			"checksum": "sha256:c4eb25483efe9341402c0b228b151db5ff94eb1a7306c0c2a6e76fa24b0dc28f"
+		},
+		{
+			"file": "VISBOT/VC004 VISBOT meets Finnish Flash/24 tuggummi meets yathosho - magic flying carpet.avs",
+			"size": 3020,
+			"checksum": "sha256:6c69661c40b9df5570462b8bf162666eb3d2c6f0cef3608bcdf9cc935ebc67ea"
+		},
+		{
+			"file": "VISBOT/VC004 VISBOT meets Finnish Flash/25 duo meets tuggummi - multiple overdose.avs",
+			"size": 4795,
+			"checksum": "sha256:2edf68a5d43e6f83019352247680ced89fbe53f3cbeac2ba9d27d8bcbecb285c"
+		},
+		{
+			"file": "VISBOT/VC004 VISBOT meets Finnish Flash/26 nemo meets jdm - comet (morpheus mix).avs",
+			"size": 1046,
+			"checksum": "sha256:b5587e1f26d4a4698214d1a45f772e02111ec8e85ea8cbd62af849b345346988"
+		},
+		{
+			"file": "VISBOT/VC004 VISBOT meets Finnish Flash/27 dynamic duo meets degnic - it's all about the glitter.avs",
+			"size": 3643,
+			"checksum": "sha256:9ffe17609976b3a27d0e837fd6c8529b4835e11260ec89ebdf63631a6db020bd"
+		},
+		{
+			"file": "VISBOT/VC004 VISBOT meets Finnish Flash/28 skupers meets tuggummi - icywarp.avs",
+			"size": 3456,
+			"checksum": "sha256:c8b2933a695e7326dd62debbbc9ce92bee0552e29852bc33710761df9ae2f76c"
+		},
+		{
+			"file": "VISBOT/VC004 VISBOT meets Finnish Flash/29 yathosho meets tuggummi - let me out! (never say mix).avs",
+			"size": 2366,
+			"checksum": "sha256:b9274b97db9cbd310ab7c938ca817c65c6139ead55f94cf93002fc91010ab9bd"
+		},
+		{
+			"file": "VISBOT/VC004 VISBOT meets Finnish Flash/30 nemo meets zxe - juju (remix).avs",
+			"size": 1101,
+			"checksum": "sha256:77f2d16ecd5b4d74e0d5c2eaff344eeeead85ed628d51a2ce3653e41e98fb1fe"
+		}
+	],
+	"assets": [
+		{
+			"file": "skupers_lp6_01.bmp",
+			"size": 776,
+			"checksum": "sha256:27bdda462dfec5cea6f702611fdc5df24255ae076c64fd214544b75561771339"
+		},
+		{
+			"file": "tug_3dpack_texer4.bmp",
+			"size": 20970,
+			"checksum": "sha256:975dde5246126359a99d1ae13859c07f0aaf6b91d1dd1d2602284d2c11a47503"
+		},
+		{
+			"file": "tug_bit2_style.bmp",
+			"size": 90766,
+			"checksum": "sha256:233edcbda574260903cecedbb5c2f5f578d2ce994dd76ea10228bda93320adaf"
+		},
+		{
+			"file": "vb.bmp",
+			"size": 145254,
+			"checksum": "sha256:92479458ed7967973cccc27666c5192a2cf8a9f5b526dacba4c3fc907a3bdad4"
+		},
+		{
+			"file": "whacko6-03.bmp",
+			"size": 2266,
+			"checksum": "sha256:016f2b9bcb992215ae5feba005c54aa00f0d2d43c7a8dae36da903efb0307845"
+		},
+		{
+			"file": "whacko6-07.bmp",
+			"size": 3422,
+			"checksum": "sha256:45c2072b0dcffc04ac87199392097c5debefaaac6000997da9f568094278155d"
+		}
+	],
+	"plugins": ["AddBorder", "BufferBlend", "ConvolutionFilter", "MultiFilter", "Picture2"]
 }

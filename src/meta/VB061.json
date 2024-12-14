@@ -1,128 +1,124 @@
 {
-    "name": "VISBOT New People Selection Vol 2",
-    "id": "VB061",
-    "presets": [
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 2/01 unripe lemon - orange and lemon in the mix (synth-c remix).avs",
-            "size": 9075,
-            "checksum": "sha256:ffa70c657cfd83e6a14b54295bed88a6df0f7ab68bcb11aa06c3b52c89d09e81"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 2/02 frames of reality - the scream of blinding light.avs",
-            "size": 2792,
-            "checksum": "sha256:01ba0bc25b46539c4ceb627714d8d5e5dea96fbf1e90c76cc8c1e60da76c13b4"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 2/03 hboy - motion (revision).avs",
-            "size": 2318,
-            "checksum": "sha256:d5a2e5905f9fb4f94fee6da1a3911ba95a51e7af0582d2d37171590f8c49fbf6"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 2/04 fragmer - the citrus land.avs",
-            "size": 3605,
-            "checksum": "sha256:8ee716947f060d3f61bc0a1ec854501890aaa368f9186b4fe046de6ef11906fa"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 2/05 montana - watermelon evolution.avs",
-            "size": 2974,
-            "checksum": "sha256:344e30a68867cf82d2a9dbc02e60a15f2f6f1abca8cc788a27bafcaee395971e"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 2/06 a3 - moboids.avs",
-            "size": 1479,
-            "checksum": "sha256:ed027d8e354cb016b61f599e02d58cd3d3b8e492def93cd5e95fbd0bf0f5ad70"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 2/07 your-dentist - sphere überscope.avs",
-            "size": 1038,
-            "checksum": "sha256:80a3776c8d1ead5d92e65366254990f296c0329dec6b352ba45cffe4863d2924"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 2/08 da sn00b - ultra x-wings attack from hyper space!.avs",
-            "size": 1924,
-            "checksum": "sha256:3da6619a11c46f38c404e7d34fca246570184db07579d42822ae072cfb367631"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 2/09 da7id - kirschblüten.avs",
-            "size": 1848,
-            "checksum": "sha256:6892550323ac5a07a4e3a855134dd48b98ea5313b31ed6e83a15677dd399118e"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 2/10 franco - beveled discs.avs",
-            "size": 2660,
-            "checksum": "sha256:80e32430cfbb899db0fcb69c06f3e298db356776b656cb4b4d7448a851d9f7aa"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 2/11 hboy - bubble fun.avs",
-            "size": 3716,
-            "checksum": "sha256:1d0350724e3147953de59b6c17b15d359e0630a4c4cabcbeffcbd20c814de2b5"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 2/12 frames of reality - sundew.avs",
-            "size": 2561,
-            "checksum": "sha256:92d6c23dbc79bb875e066ce7a9f91dbe915de6bcd15b7b4b6073dc0e0dbeab2a"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 2/13 p-k - fux0red attempt at curvism.avs",
-            "size": 2838,
-            "checksum": "sha256:e212bef328bd7d08bd4f773f178ccd595138a89bf703c05965b5c3e9b73763f7"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 2/14 runar - floating lead.avs",
-            "size": 1907,
-            "checksum": "sha256:4c0c444c204adc056ab0fcb23bc235ae6831f53090f185e968fa9c782d292c59"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 2/15 viskey - my weirdest.avs",
-            "size": 4033,
-            "checksum": "sha256:d5d3b3c7a9d76aa1536072ce6ceb81ec3a7c12fb6e6669ddc024105090404599"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 2/16 les noobiens - back to cursor (skupers perfect beat remix).avs",
-            "size": 2871,
-            "checksum": "sha256:938329696f559c9ba585645c286a5b980fcd8883ae5b4581c6b6fc57eea91bf8"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 2/17 montana - cosmic video.avs",
-            "size": 1794,
-            "checksum": "sha256:9921d4889d2f188ffa5c5a41d43e10419ac68a401062a4590a46a21b5c3389a3"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 2/18 pixelcraft - celestial wind.avs",
-            "size": 2890,
-            "checksum": "sha256:a4b18aa3906b51a81c2a8c19362ab2d1110f1f24d900a0e5320dc56f2c280555"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 2/19 amphirion - be square (les noobiens formula edit).avs",
-            "size": 2827,
-            "checksum": "sha256:38b49bdb006675b32e9086504e4203d25199b3d2819945715ac133f4a3a1dfcd"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 2/20 montana - neonapple (unconed n'est pas une pomme mix).avs",
-            "size": 5000,
-            "checksum": "sha256:901aa0cb4d3d4453148e5591188c98e77a56fe8f49b7e3b2c884420622f2a41f"
-        }
-    ],
-    "assets": [
-        {
-            "file": "avsres_texer_circle_fade_29x29.bmp",
-            "size": 2606,
-            "checksum": "sha256:10bcb870745a117d8cd57e44f60718e278a0e3ae25e3eaa9250e7936c1dc6fba"
-        },
-        {
-            "file": "avsres_texer_circle_sharp_11x11.bmp",
-            "size": 574,
-            "checksum": "sha256:834aadff3c131183f1d1fb76010c64317c7f638008d06a769ba29a68a9aed73a"
-        },
-        {
-            "file": "Hboy_texer_1.bmp",
-            "size": 17154,
-            "checksum": "sha256:2c13faf386e071d3fe17bc5f2e8f72a4244e085a5a985b249d169fa6c414d27c"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter",
-        "MultiFilter",
-        "Picture2"
-    ]
+	"name": "VISBOT New People Selection Vol 2",
+	"id": "VB061",
+	"presets": [
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 2/01 unripe lemon - orange and lemon in the mix (synth-c remix).avs",
+			"size": 9075,
+			"checksum": "sha256:ffa70c657cfd83e6a14b54295bed88a6df0f7ab68bcb11aa06c3b52c89d09e81"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 2/02 frames of reality - the scream of blinding light.avs",
+			"size": 2792,
+			"checksum": "sha256:01ba0bc25b46539c4ceb627714d8d5e5dea96fbf1e90c76cc8c1e60da76c13b4"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 2/03 hboy - motion (revision).avs",
+			"size": 2318,
+			"checksum": "sha256:d5a2e5905f9fb4f94fee6da1a3911ba95a51e7af0582d2d37171590f8c49fbf6"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 2/04 fragmer - the citrus land.avs",
+			"size": 3605,
+			"checksum": "sha256:8ee716947f060d3f61bc0a1ec854501890aaa368f9186b4fe046de6ef11906fa"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 2/05 montana - watermelon evolution.avs",
+			"size": 2974,
+			"checksum": "sha256:344e30a68867cf82d2a9dbc02e60a15f2f6f1abca8cc788a27bafcaee395971e"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 2/06 a3 - moboids.avs",
+			"size": 1479,
+			"checksum": "sha256:ed027d8e354cb016b61f599e02d58cd3d3b8e492def93cd5e95fbd0bf0f5ad70"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 2/07 your-dentist - sphere überscope.avs",
+			"size": 1038,
+			"checksum": "sha256:80a3776c8d1ead5d92e65366254990f296c0329dec6b352ba45cffe4863d2924"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 2/08 da sn00b - ultra x-wings attack from hyper space!.avs",
+			"size": 1924,
+			"checksum": "sha256:3da6619a11c46f38c404e7d34fca246570184db07579d42822ae072cfb367631"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 2/09 da7id - kirschblüten.avs",
+			"size": 1848,
+			"checksum": "sha256:6892550323ac5a07a4e3a855134dd48b98ea5313b31ed6e83a15677dd399118e"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 2/10 franco - beveled discs.avs",
+			"size": 2660,
+			"checksum": "sha256:80e32430cfbb899db0fcb69c06f3e298db356776b656cb4b4d7448a851d9f7aa"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 2/11 hboy - bubble fun.avs",
+			"size": 3716,
+			"checksum": "sha256:1d0350724e3147953de59b6c17b15d359e0630a4c4cabcbeffcbd20c814de2b5"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 2/12 frames of reality - sundew.avs",
+			"size": 2561,
+			"checksum": "sha256:92d6c23dbc79bb875e066ce7a9f91dbe915de6bcd15b7b4b6073dc0e0dbeab2a"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 2/13 p-k - fux0red attempt at curvism.avs",
+			"size": 2838,
+			"checksum": "sha256:e212bef328bd7d08bd4f773f178ccd595138a89bf703c05965b5c3e9b73763f7"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 2/14 runar - floating lead.avs",
+			"size": 1907,
+			"checksum": "sha256:4c0c444c204adc056ab0fcb23bc235ae6831f53090f185e968fa9c782d292c59"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 2/15 viskey - my weirdest.avs",
+			"size": 4033,
+			"checksum": "sha256:d5d3b3c7a9d76aa1536072ce6ceb81ec3a7c12fb6e6669ddc024105090404599"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 2/16 les noobiens - back to cursor (skupers perfect beat remix).avs",
+			"size": 2871,
+			"checksum": "sha256:938329696f559c9ba585645c286a5b980fcd8883ae5b4581c6b6fc57eea91bf8"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 2/17 montana - cosmic video.avs",
+			"size": 1794,
+			"checksum": "sha256:9921d4889d2f188ffa5c5a41d43e10419ac68a401062a4590a46a21b5c3389a3"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 2/18 pixelcraft - celestial wind.avs",
+			"size": 2890,
+			"checksum": "sha256:a4b18aa3906b51a81c2a8c19362ab2d1110f1f24d900a0e5320dc56f2c280555"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 2/19 amphirion - be square (les noobiens formula edit).avs",
+			"size": 2827,
+			"checksum": "sha256:38b49bdb006675b32e9086504e4203d25199b3d2819945715ac133f4a3a1dfcd"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 2/20 montana - neonapple (unconed n'est pas une pomme mix).avs",
+			"size": 5000,
+			"checksum": "sha256:901aa0cb4d3d4453148e5591188c98e77a56fe8f49b7e3b2c884420622f2a41f"
+		}
+	],
+	"assets": [
+		{
+			"file": "avsres_texer_circle_fade_29x29.bmp",
+			"size": 2606,
+			"checksum": "sha256:10bcb870745a117d8cd57e44f60718e278a0e3ae25e3eaa9250e7936c1dc6fba"
+		},
+		{
+			"file": "avsres_texer_circle_sharp_11x11.bmp",
+			"size": 574,
+			"checksum": "sha256:834aadff3c131183f1d1fb76010c64317c7f638008d06a769ba29a68a9aed73a"
+		},
+		{
+			"file": "Hboy_texer_1.bmp",
+			"size": 17154,
+			"checksum": "sha256:2c13faf386e071d3fe17bc5f2e8f72a4244e085a5a985b249d169fa6c414d27c"
+		}
+	],
+	"plugins": ["ConvolutionFilter", "MultiFilter", "Picture2"]
 }

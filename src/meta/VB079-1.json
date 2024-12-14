@@ -1,25 +1,22 @@
 {
-    "name": "whyEye.org x2ep",
-    "id": "VB079-1",
-    "presets": [
-        {
-            "file": "whyEye.org/whyEye.org x2ep/yiA1 hboy - bubble fun (yathosho's modspot v.i.p. mix).avs",
-            "size": 4090,
-            "checksum": "sha256:8c3c71c00b45c6fa61809d41ae87f083c986efe8f863a062c808755353d2bb1b"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x2ep/yiA2 onionring - living watercolor (yathosho's fragmentation #3).avs.avs",
-            "size": 1787,
-            "checksum": "sha256:24a519e4a5b917be06f6e6c799415efb4cb22aa76309aafa9ca9ec9627be0901"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x2ep/yiB1 tuggummi - let me out! (yathosho's sky divine re-remix).avs",
-            "size": 3837,
-            "checksum": "sha256:df7119ad29c585ddbd00d17b39a9607a35e848893f39ddad2a97b8962e41262f"
-        }
-    ],
-    "plugins": [
-        "BufferBlend",
-        "ConvolutionFilter"
-    ]
+	"name": "whyEye.org x2ep",
+	"id": "VB079-1",
+	"presets": [
+		{
+			"file": "whyEye.org/whyEye.org x2ep/yiA1 hboy - bubble fun (yathosho's modspot v.i.p. mix).avs",
+			"size": 4090,
+			"checksum": "sha256:8c3c71c00b45c6fa61809d41ae87f083c986efe8f863a062c808755353d2bb1b"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x2ep/yiA2 onionring - living watercolor (yathosho's fragmentation #3).avs.avs",
+			"size": 1787,
+			"checksum": "sha256:24a519e4a5b917be06f6e6c799415efb4cb22aa76309aafa9ca9ec9627be0901"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x2ep/yiB1 tuggummi - let me out! (yathosho's sky divine re-remix).avs",
+			"size": 3837,
+			"checksum": "sha256:df7119ad29c585ddbd00d17b39a9607a35e848893f39ddad2a97b8962e41262f"
+		}
+	],
+	"plugins": ["BufferBlend", "ConvolutionFilter"]
 }

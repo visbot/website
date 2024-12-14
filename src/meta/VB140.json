@@ -1,19 +1,17 @@
 {
-    "name": "tentaclism (the y.m.o. reworks)",
-    "id": "VB140",
-    "presets": [
-        {
-            "file": "Dynamic Duo/dynamic duo - tentaclism (the y.m.o. reworks)/ddX__tentaclism (the y.m.o. rework #1).avs",
-            "size": 2303,
-            "checksum": "sha256:3a20c53a4015fac1b76764baf3c080b32cfc4c8d0244fd3b01e3fd92edc45f8c"
-        },
-        {
-            "file": "Dynamic Duo/dynamic duo - tentaclism (the y.m.o. reworks)/ddY__tentaclism (the y.m.o. rework #2).avs",
-            "size": 2343,
-            "checksum": "sha256:c2ad56efcc5dafe562479e9720f1329468f56b49fa065c63c2eb0f4740703242"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "tentaclism (the y.m.o. reworks)",
+	"id": "VB140",
+	"presets": [
+		{
+			"file": "Dynamic Duo/dynamic duo - tentaclism (the y.m.o. reworks)/ddX__tentaclism (the y.m.o. rework #1).avs",
+			"size": 2303,
+			"checksum": "sha256:3a20c53a4015fac1b76764baf3c080b32cfc4c8d0244fd3b01e3fd92edc45f8c"
+		},
+		{
+			"file": "Dynamic Duo/dynamic duo - tentaclism (the y.m.o. reworks)/ddY__tentaclism (the y.m.o. rework #2).avs",
+			"size": 2343,
+			"checksum": "sha256:c2ad56efcc5dafe562479e9720f1329468f56b49fa065c63c2eb0f4740703242"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

@@ -1,312 +1,307 @@
 {
-    "name": "whyEye.org x",
-    "id": "VB042",
-    "presets": [
-        {
-            "file": "whyEye.org/whyEye.org x/volume one/01 S_KuPeRS - Olijfolie.avs",
-            "size": 2123,
-            "checksum": "sha256:a8f5e41be148e9c7240c6299303ac9eee9dcab7cf2bf0658a556cdab15b738ed"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume one/02 Unripe Lemon - Beach Blanket (Still not your DNA Remix by Yathosho).avs",
-            "size": 1803,
-            "checksum": "sha256:f8801faad1c66cfde7245e46d99fd9cdf4740ccda18eea2f8eb674e12b767342"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume one/03 Degnic - Microcosm 01.avs",
-            "size": 1054,
-            "checksum": "sha256:9370616fd698dd663105cff93c7dd2eb80647bc31047e0b73d8d9ae8356f3e9e"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume one/04 NemoOrange vs EL-VIS - Dreamtime (..as Life goes on Remix by Yathosho).avs",
-            "size": 11232,
-            "checksum": "sha256:d49c96425f89171beb749aa41f9dfe71ecb9dec9f44eb3a9d101ff84172693e1"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume one/05 Jheriko - I'm not wanted either (Yathosho's Minute-made Re-edit).avs",
-            "size": 4259,
-            "checksum": "sha256:450d19f8573f2abeee95e963dea43a5a23424c87b260a11e696fdfa9f527a639"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume one/06 Zamuz - Bumpy Carpet (Yathosho's #ffffff Remix).avs",
-            "size": 1879,
-            "checksum": "sha256:c7104cc414df33d759af5a08242bd84c39d55a8e237bb4bec5d729b577e8e65a"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume one/07 NemoOrange - Frying Quetzl Eggs (Ya-tho-sho Treatment).avs",
-            "size": 1183,
-            "checksum": "sha256:768c12ec6bb8f25b988261cedff8f4860823a103130b55a7c726bf0a5015d20b"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume one/08 EL-VIS - Powersource (Sanjusangen-do reflection by Yathosho).avs",
-            "size": 1267,
-            "checksum": "sha256:09d4e1424aa6a15d4f364627cce7f7dddaf5141ca63d62e7ce6eb13219512aa5"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume one/09 S_KuPeRS - Curvism (Yathosho's Camouflaged Curves).avs",
-            "size": 2072,
-            "checksum": "sha256:1074a80cc18df4eac9a3818f0355dd0722f4aa76b3d0c5e71d9ad3b6674b1936"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume one/10 Jheriko - The Klein Bottle (Yathosho's Samurai Showdown).avs",
-            "size": 1971,
-            "checksum": "sha256:1e786a3bc97e8530c00eaf55835780cdb47b6f39392f0e2da2c2d0d1409d6f4f"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume one/11 l0tus vs NemoOrange - Neulich in der Wäscherei.avs",
-            "size": 555,
-            "checksum": "sha256:262878a39178dd8965f9db68f7e5e4f38e1fd52852fb7c63b9e9a2b6176a058d"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume one/12 Tuggummi - Let me out! (Yathosho's Bonbon Remix).avs",
-            "size": 2503,
-            "checksum": "sha256:14cad2fdb053744971b0a837ede6d36bdcffe19ee7180ab54b844742b65d046f"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume one/13 S_KuPeRS - Broken Pleasing (revisited).avs",
-            "size": 2167,
-            "checksum": "sha256:cf74eea43bbbb705b1beee901b4a3e4c0c273d4058a4dbb30777f962a88d9965"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume one/14 Shock Value - Pleasant Migraine (Unpleasantly Re-Ached by Yathosho).avs",
-            "size": 7026,
-            "checksum": "sha256:4095f32fa6df458f58331ea322991d701f9b6f9bf1afc555afb8d5a27b39d58b"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume one/15 Dynamic Duo - Curvaceous (Yathosho's Vaginal Stream).avs",
-            "size": 1973,
-            "checksum": "sha256:a2cf7ee10ad52797761594f24a69a8c9acb871ea13ef7d22edcd1a93f56cd65d"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume one/16 Degnic - Fractal (Yathosho's Broken Fractal Remix).avs",
-            "size": 1088,
-            "checksum": "sha256:9e8941628d66e3acb0dc26827a81925e44a55ce54bc42c62b369aee9e9ff7d7a"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume one/17 UnConeD - Blobs lost normals.avs",
-            "size": 9076,
-            "checksum": "sha256:cfa2cc03691751d45982222317838fc7afceb35ac3e1e0560bc4c7597484815d"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume one/18 Runar - Runar and Leila in the Bedroom.avs",
-            "size": 1698,
-            "checksum": "sha256:a2637f3606f20a5398b111e7ffee3eff46234c600525eaf55005c47bbcedd13f"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume one/19 S_KuPeRS - Graphiterx (Yathosho in Macau Remix).avs",
-            "size": 1486,
-            "checksum": "sha256:44b915cf18baf12cf41ace794d7f05b7b65f82ab237769572cf920b4dcb2d5ff"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume one/20 I Cook Coxy Gay - Bad taste OPS (Yathosho's 1988 Re-Edit).avs",
-            "size": 2016,
-            "checksum": "sha256:eab532b5da276cbcf3c8a7bf467e3db4821b696e1150afd3e88bfe6864d395cc"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume one/21 NemoOrange - Molekyl 02.avs",
-            "size": 534,
-            "checksum": "sha256:1bd0df17e06cbc92d0489beba40b4d76ba2e541b3133880a020742448286397c"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume one/22 Zamuz - Blooming (Yathosho's Oldskool Shit).avs",
-            "size": 2309,
-            "checksum": "sha256:5e2b5cda404b041727232238afb1936e75bc895009fa4289a25eaabd1eff882f"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume one/23 Shock Value - Chrome Current (Yathosho's Camouflage Hi-Res Edit).avs",
-            "size": 4719,
-            "checksum": "sha256:ad4bc7f242bf506868f0010becfb1b6001c7912fc77d85ee813ac96a163da7be"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume one/24 S_KuPeRS - Metallic Funk Appliance (Yathosho's Gewebeprobenmix).avs",
-            "size": 1538,
-            "checksum": "sha256:aaa22169797f3aec1c82b6e93e94a00d9f0fff59ffac2042fc4bebe8362d5a0c"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume one/25 Runar - Erazemia Dream (Yathosho picknicks gently).avs",
-            "size": 2331,
-            "checksum": "sha256:2ea7afa6854b74deea68787f9876f168f43f9245db66e5da4cf95e67d40d8136"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume one/26 T-K - Lichtkörper (Clean Edit).avs",
-            "size": 1146,
-            "checksum": "sha256:b2ab866810f9c5b31d3960129d1537955bfc20a1f27550e294aeca7f6a5dfb37"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume one/27 Jaak - Smoooth (Yathosho's Fall-out Mix).avs",
-            "size": 3195,
-            "checksum": "sha256:97304edb06b9b56c05790f3c8f0c30c37fcd4b9b01a58eb6d5bde6b03358e1da"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume one/28 Zamuz - Bella Nieve.avs",
-            "size": 1745,
-            "checksum": "sha256:d165a17636cb5f7460bd5197c17b35499f1960720ce7e1779b84ff18e91f7bd2"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume one/29 Montana - Cloudwalking (Yathosho's Postcard from Gonkyburg).avs",
-            "size": 2310,
-            "checksum": "sha256:fbcbd2336ee70dfa868141a1002d925ef6a5f70c11a24d7f8a63de6a183236a4"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume one/30 Duo - Enigmatic (Yathosho's Scuba Dive).avs",
-            "size": 2818,
-            "checksum": "sha256:fb56ec53c280795b05098e964a772133202b4bcd7084dd81355641e11a1e74b3"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume two/01 S_KuPeRS - Untitled 031 (Yathosho's Dirty Sci-fi Mix).avs",
-            "size": 2136,
-            "checksum": "sha256:ae0b3406aa2524405bf6708ed2859d3e486be50052f705d41ac1e313d708c869"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume two/02 Shock Value - Chrome Current (Yathosho's Camouflage Lo-Res Edit).avs",
-            "size": 4725,
-            "checksum": "sha256:671b184d3c06224b8ed96b230f718d05e77011b03ed940d4d70ba9427d493627"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume two/03 Zamuz - Bella Sol.avs",
-            "size": 1569,
-            "checksum": "sha256:e1ef14d26f6884e123e5890a4b1579eefd6bd1b868fec7bfe953ed80cfa8b618"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume two/04 EL-VIS - Agent Dragonfly (Rebroken).avs",
-            "size": 1909,
-            "checksum": "sha256:1d570d870547c9d6362df5571911d8366632aee55a7843594daab683f4619d01"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume two/05 Tuggummi - Weird Milks (Yathosho's Lactic Acid Burn).avs",
-            "size": 2441,
-            "checksum": "sha256:b9d09bf8d58319ade5c007135e4c1f28ab785706b5708f45fdbd64ef7db9c75c"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume two/06 Jaak - Smoooth (Yathosho saku).avs",
-            "size": 3573,
-            "checksum": "sha256:bd34e51edbf46aef9cc82dacd28a4a9a5b23f872e3fa1b848ea466267ab4219f"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume two/07 Degnic - Microcosm 02.avs",
-            "size": 1143,
-            "checksum": "sha256:55552fea7199ce4dd5407380f998afc39660a2802134426e8e47a015ae53f2cf"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume two/08 Unripe Lemon - Lava Lamp (Yathosho's Magneto Dub).avs",
-            "size": 2492,
-            "checksum": "sha256:362fcd567d0469e1238081b4b617b811faa9939068c1d1303aa8eb4591a930dc"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume two/09 NemoOrange - Oceanscene (Yathosho's Marrakech Dub).avs",
-            "size": 1149,
-            "checksum": "sha256:6d3f6a50d7be6c1569c728fe1a4f97054403bfedb66c606a41ee7478e17b9d71"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume two/10 Dynamic Duo - En Autriche (Yathosho Rearrangement).avs",
-            "size": 2528,
-            "checksum": "sha256:23d56a3c708fabbedc00d4de1fafd3bb275caf952867db3c1d8fe4d913478139"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume two/11 S_KuPeRS - Mantenna.avs",
-            "size": 2502,
-            "checksum": "sha256:c0cbec8bc6fbfb4fe0544eba7fa023f6b1ccb3818873fff42b375ef638e6468b"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume two/12 Tonic - 3D Fan (Rebroken).avs",
-            "size": 1901,
-            "checksum": "sha256:a78f8d8c854f3d9758a1724b7b9892a6d59c3a0001d5e5f34913bdceb0312afa"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume two/13 Jheriko - The Klein Bottle (Yathosho's Einsteinium Remix).avs",
-            "size": 1089,
-            "checksum": "sha256:12cf068d1b76b88833518b76031b8966230de218e038f4d8e52464f384557366"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume two/14 Degnic - Retrowall (Yathosho's Supermicrocosm).avs",
-            "size": 1747,
-            "checksum": "sha256:91fbee54acfa0b9c915b2a3003bdae8dff58803bc8ab559b6568045686564699"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume two/15 jDm - A-pid-ya-tho-sho!.avs",
-            "size": 1739,
-            "checksum": "sha256:5e4f50ef77a8f3f826682dab60f9edc367c5672d7024f1986d16ad5ba787ad54"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume two/16 EL-VIS - Cherry Kisses.avs",
-            "size": 11162,
-            "checksum": "sha256:c9809017ae9cd3d6153d4170b1557ff75b3ca1d4ab5ec63e56d059af073575e0"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume two/17 Tuggummi - Cubed to death (Yathosho's Loveweight Remix).avs",
-            "size": 6074,
-            "checksum": "sha256:aeb7ca5b109c51a5b6db9808ecfe1b664eaad628ca08b33d0aa8d38f3480334e"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume two/18 Unripe Lemon - Beach Blanket (Not your DNA V.I.P. Remix by Yathosho).avs",
-            "size": 1807,
-            "checksum": "sha256:415695792d0267e7b6f6a5224cd8d21befd3ea90c08268f368ac0e0d897581b3"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume two/19 AVS-King - Super Constellation (Revisited).avs",
-            "size": 1868,
-            "checksum": "sha256:4f46b45a9f0f30c6605dfc1ba91ac218831432cf0af42c4ab961c268a4df44a7"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume two/20 S_KuPeRS - Broken Pleasing (light).avs",
-            "size": 1533,
-            "checksum": "sha256:a7c5ba4e87dfd98109ab54a4b449fc05cf955b69020569087c33b02634cc3ce4"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume two/21 Runar - Erazemia Dream (Yathosho goes Picknick).avs",
-            "size": 2373,
-            "checksum": "sha256:85213ca5d567e71f127d2e65f1e03802402032e86d15247ba30f91daa010455d"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume two/22 Tuggummi - Digital Candy (Yathosho's Jungle Fever Remix).avs",
-            "size": 2686,
-            "checksum": "sha256:138aa3dc775b8dbdcf2b050de2c5ddf86ad8f0da47d9e55345003161ef466f3e"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume two/23 NemoOrange vs EL-VIS - Dreamtime (Akribisch Karibisch Remix by Yathosho).avs",
-            "size": 11208,
-            "checksum": "sha256:dfe3ef5782829ebaec66f49834a3bf01ac2b2c90ea1676140a092b9880dcd1bd"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume two/24 S_KuPeRS - Curvism (Yathosho's Bernstein Flow).avs",
-            "size": 2302,
-            "checksum": "sha256:b002dc2f5853c38b0707625e9f523a25d882f13d9b7713ef1df8170470efdaa6"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume two/25 NemoOrange - Molekyl 01.avs",
-            "size": 638,
-            "checksum": "sha256:bcf4641c3fbe023f845d28ca0bb8a436c6a4e4e16836ee94d945d8caca90873e"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume two/26 Zamuz - Blooming (Yathosho's Nuskool Shit).avs",
-            "size": 2085,
-            "checksum": "sha256:938ad459eaf4b32f42a8ce5ca6c445a13aa1aa62355e45af3355561bd7e36bfb"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume two/27 Tuggummi - Let me out! (Yathosho's Op Mode Mix).avs",
-            "size": 1877,
-            "checksum": "sha256:013a0bbf5c6b8f8e7e48647c4b0fa8890bb8ffcb8c150e6d67a9f597bf6c033f"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume two/28 les Noobiens - Back to Cursor (Yathosho's Back to Outline Mix).avs",
-            "size": 2148,
-            "checksum": "sha256:b37c793d02a1f819e3a47920ba67686d5f0cde92d8628a68d49050c865d8225a"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume two/29 Montana - Silent Drums (Yathosho's bows down to the Ray).avs",
-            "size": 3811,
-            "checksum": "sha256:bb18bdda4eb2cfee601c14775e603fc8fb608c8a2ea9fbbd1a759b28a4ef1e33"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x/volume two/30 Duo - Dye in Water (Yathosho's Soda Zitron Flavor).avs",
-            "size": 2676,
-            "checksum": "sha256:14c4a18c5ae54cddcf4009b11b8c52d3db0590dc32da15a2e6c787c463e62e91"
-        }
-    ],
-    "plugins": [
-        "ColorMap",
-        "ConvolutionFilter",
-        "Multiplier",
-        "Texer"
-    ]
+	"name": "whyEye.org x",
+	"id": "VB042",
+	"presets": [
+		{
+			"file": "whyEye.org/whyEye.org x/volume one/01 S_KuPeRS - Olijfolie.avs",
+			"size": 2123,
+			"checksum": "sha256:a8f5e41be148e9c7240c6299303ac9eee9dcab7cf2bf0658a556cdab15b738ed"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume one/02 Unripe Lemon - Beach Blanket (Still not your DNA Remix by Yathosho).avs",
+			"size": 1803,
+			"checksum": "sha256:f8801faad1c66cfde7245e46d99fd9cdf4740ccda18eea2f8eb674e12b767342"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume one/03 Degnic - Microcosm 01.avs",
+			"size": 1054,
+			"checksum": "sha256:9370616fd698dd663105cff93c7dd2eb80647bc31047e0b73d8d9ae8356f3e9e"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume one/04 NemoOrange vs EL-VIS - Dreamtime (..as Life goes on Remix by Yathosho).avs",
+			"size": 11232,
+			"checksum": "sha256:d49c96425f89171beb749aa41f9dfe71ecb9dec9f44eb3a9d101ff84172693e1"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume one/05 Jheriko - I'm not wanted either (Yathosho's Minute-made Re-edit).avs",
+			"size": 4259,
+			"checksum": "sha256:450d19f8573f2abeee95e963dea43a5a23424c87b260a11e696fdfa9f527a639"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume one/06 Zamuz - Bumpy Carpet (Yathosho's #ffffff Remix).avs",
+			"size": 1879,
+			"checksum": "sha256:c7104cc414df33d759af5a08242bd84c39d55a8e237bb4bec5d729b577e8e65a"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume one/07 NemoOrange - Frying Quetzl Eggs (Ya-tho-sho Treatment).avs",
+			"size": 1183,
+			"checksum": "sha256:768c12ec6bb8f25b988261cedff8f4860823a103130b55a7c726bf0a5015d20b"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume one/08 EL-VIS - Powersource (Sanjusangen-do reflection by Yathosho).avs",
+			"size": 1267,
+			"checksum": "sha256:09d4e1424aa6a15d4f364627cce7f7dddaf5141ca63d62e7ce6eb13219512aa5"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume one/09 S_KuPeRS - Curvism (Yathosho's Camouflaged Curves).avs",
+			"size": 2072,
+			"checksum": "sha256:1074a80cc18df4eac9a3818f0355dd0722f4aa76b3d0c5e71d9ad3b6674b1936"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume one/10 Jheriko - The Klein Bottle (Yathosho's Samurai Showdown).avs",
+			"size": 1971,
+			"checksum": "sha256:1e786a3bc97e8530c00eaf55835780cdb47b6f39392f0e2da2c2d0d1409d6f4f"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume one/11 l0tus vs NemoOrange - Neulich in der Wäscherei.avs",
+			"size": 555,
+			"checksum": "sha256:262878a39178dd8965f9db68f7e5e4f38e1fd52852fb7c63b9e9a2b6176a058d"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume one/12 Tuggummi - Let me out! (Yathosho's Bonbon Remix).avs",
+			"size": 2503,
+			"checksum": "sha256:14cad2fdb053744971b0a837ede6d36bdcffe19ee7180ab54b844742b65d046f"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume one/13 S_KuPeRS - Broken Pleasing (revisited).avs",
+			"size": 2167,
+			"checksum": "sha256:cf74eea43bbbb705b1beee901b4a3e4c0c273d4058a4dbb30777f962a88d9965"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume one/14 Shock Value - Pleasant Migraine (Unpleasantly Re-Ached by Yathosho).avs",
+			"size": 7026,
+			"checksum": "sha256:4095f32fa6df458f58331ea322991d701f9b6f9bf1afc555afb8d5a27b39d58b"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume one/15 Dynamic Duo - Curvaceous (Yathosho's Vaginal Stream).avs",
+			"size": 1973,
+			"checksum": "sha256:a2cf7ee10ad52797761594f24a69a8c9acb871ea13ef7d22edcd1a93f56cd65d"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume one/16 Degnic - Fractal (Yathosho's Broken Fractal Remix).avs",
+			"size": 1088,
+			"checksum": "sha256:9e8941628d66e3acb0dc26827a81925e44a55ce54bc42c62b369aee9e9ff7d7a"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume one/17 UnConeD - Blobs lost normals.avs",
+			"size": 9076,
+			"checksum": "sha256:cfa2cc03691751d45982222317838fc7afceb35ac3e1e0560bc4c7597484815d"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume one/18 Runar - Runar and Leila in the Bedroom.avs",
+			"size": 1698,
+			"checksum": "sha256:a2637f3606f20a5398b111e7ffee3eff46234c600525eaf55005c47bbcedd13f"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume one/19 S_KuPeRS - Graphiterx (Yathosho in Macau Remix).avs",
+			"size": 1486,
+			"checksum": "sha256:44b915cf18baf12cf41ace794d7f05b7b65f82ab237769572cf920b4dcb2d5ff"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume one/20 I Cook Coxy Gay - Bad taste OPS (Yathosho's 1988 Re-Edit).avs",
+			"size": 2016,
+			"checksum": "sha256:eab532b5da276cbcf3c8a7bf467e3db4821b696e1150afd3e88bfe6864d395cc"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume one/21 NemoOrange - Molekyl 02.avs",
+			"size": 534,
+			"checksum": "sha256:1bd0df17e06cbc92d0489beba40b4d76ba2e541b3133880a020742448286397c"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume one/22 Zamuz - Blooming (Yathosho's Oldskool Shit).avs",
+			"size": 2309,
+			"checksum": "sha256:5e2b5cda404b041727232238afb1936e75bc895009fa4289a25eaabd1eff882f"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume one/23 Shock Value - Chrome Current (Yathosho's Camouflage Hi-Res Edit).avs",
+			"size": 4719,
+			"checksum": "sha256:ad4bc7f242bf506868f0010becfb1b6001c7912fc77d85ee813ac96a163da7be"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume one/24 S_KuPeRS - Metallic Funk Appliance (Yathosho's Gewebeprobenmix).avs",
+			"size": 1538,
+			"checksum": "sha256:aaa22169797f3aec1c82b6e93e94a00d9f0fff59ffac2042fc4bebe8362d5a0c"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume one/25 Runar - Erazemia Dream (Yathosho picknicks gently).avs",
+			"size": 2331,
+			"checksum": "sha256:2ea7afa6854b74deea68787f9876f168f43f9245db66e5da4cf95e67d40d8136"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume one/26 T-K - Lichtkörper (Clean Edit).avs",
+			"size": 1146,
+			"checksum": "sha256:b2ab866810f9c5b31d3960129d1537955bfc20a1f27550e294aeca7f6a5dfb37"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume one/27 Jaak - Smoooth (Yathosho's Fall-out Mix).avs",
+			"size": 3195,
+			"checksum": "sha256:97304edb06b9b56c05790f3c8f0c30c37fcd4b9b01a58eb6d5bde6b03358e1da"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume one/28 Zamuz - Bella Nieve.avs",
+			"size": 1745,
+			"checksum": "sha256:d165a17636cb5f7460bd5197c17b35499f1960720ce7e1779b84ff18e91f7bd2"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume one/29 Montana - Cloudwalking (Yathosho's Postcard from Gonkyburg).avs",
+			"size": 2310,
+			"checksum": "sha256:fbcbd2336ee70dfa868141a1002d925ef6a5f70c11a24d7f8a63de6a183236a4"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume one/30 Duo - Enigmatic (Yathosho's Scuba Dive).avs",
+			"size": 2818,
+			"checksum": "sha256:fb56ec53c280795b05098e964a772133202b4bcd7084dd81355641e11a1e74b3"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume two/01 S_KuPeRS - Untitled 031 (Yathosho's Dirty Sci-fi Mix).avs",
+			"size": 2136,
+			"checksum": "sha256:ae0b3406aa2524405bf6708ed2859d3e486be50052f705d41ac1e313d708c869"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume two/02 Shock Value - Chrome Current (Yathosho's Camouflage Lo-Res Edit).avs",
+			"size": 4725,
+			"checksum": "sha256:671b184d3c06224b8ed96b230f718d05e77011b03ed940d4d70ba9427d493627"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume two/03 Zamuz - Bella Sol.avs",
+			"size": 1569,
+			"checksum": "sha256:e1ef14d26f6884e123e5890a4b1579eefd6bd1b868fec7bfe953ed80cfa8b618"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume two/04 EL-VIS - Agent Dragonfly (Rebroken).avs",
+			"size": 1909,
+			"checksum": "sha256:1d570d870547c9d6362df5571911d8366632aee55a7843594daab683f4619d01"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume two/05 Tuggummi - Weird Milks (Yathosho's Lactic Acid Burn).avs",
+			"size": 2441,
+			"checksum": "sha256:b9d09bf8d58319ade5c007135e4c1f28ab785706b5708f45fdbd64ef7db9c75c"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume two/06 Jaak - Smoooth (Yathosho saku).avs",
+			"size": 3573,
+			"checksum": "sha256:bd34e51edbf46aef9cc82dacd28a4a9a5b23f872e3fa1b848ea466267ab4219f"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume two/07 Degnic - Microcosm 02.avs",
+			"size": 1143,
+			"checksum": "sha256:55552fea7199ce4dd5407380f998afc39660a2802134426e8e47a015ae53f2cf"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume two/08 Unripe Lemon - Lava Lamp (Yathosho's Magneto Dub).avs",
+			"size": 2492,
+			"checksum": "sha256:362fcd567d0469e1238081b4b617b811faa9939068c1d1303aa8eb4591a930dc"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume two/09 NemoOrange - Oceanscene (Yathosho's Marrakech Dub).avs",
+			"size": 1149,
+			"checksum": "sha256:6d3f6a50d7be6c1569c728fe1a4f97054403bfedb66c606a41ee7478e17b9d71"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume two/10 Dynamic Duo - En Autriche (Yathosho Rearrangement).avs",
+			"size": 2528,
+			"checksum": "sha256:23d56a3c708fabbedc00d4de1fafd3bb275caf952867db3c1d8fe4d913478139"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume two/11 S_KuPeRS - Mantenna.avs",
+			"size": 2502,
+			"checksum": "sha256:c0cbec8bc6fbfb4fe0544eba7fa023f6b1ccb3818873fff42b375ef638e6468b"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume two/12 Tonic - 3D Fan (Rebroken).avs",
+			"size": 1901,
+			"checksum": "sha256:a78f8d8c854f3d9758a1724b7b9892a6d59c3a0001d5e5f34913bdceb0312afa"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume two/13 Jheriko - The Klein Bottle (Yathosho's Einsteinium Remix).avs",
+			"size": 1089,
+			"checksum": "sha256:12cf068d1b76b88833518b76031b8966230de218e038f4d8e52464f384557366"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume two/14 Degnic - Retrowall (Yathosho's Supermicrocosm).avs",
+			"size": 1747,
+			"checksum": "sha256:91fbee54acfa0b9c915b2a3003bdae8dff58803bc8ab559b6568045686564699"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume two/15 jDm - A-pid-ya-tho-sho!.avs",
+			"size": 1739,
+			"checksum": "sha256:5e4f50ef77a8f3f826682dab60f9edc367c5672d7024f1986d16ad5ba787ad54"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume two/16 EL-VIS - Cherry Kisses.avs",
+			"size": 11162,
+			"checksum": "sha256:c9809017ae9cd3d6153d4170b1557ff75b3ca1d4ab5ec63e56d059af073575e0"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume two/17 Tuggummi - Cubed to death (Yathosho's Loveweight Remix).avs",
+			"size": 6074,
+			"checksum": "sha256:aeb7ca5b109c51a5b6db9808ecfe1b664eaad628ca08b33d0aa8d38f3480334e"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume two/18 Unripe Lemon - Beach Blanket (Not your DNA V.I.P. Remix by Yathosho).avs",
+			"size": 1807,
+			"checksum": "sha256:415695792d0267e7b6f6a5224cd8d21befd3ea90c08268f368ac0e0d897581b3"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume two/19 AVS-King - Super Constellation (Revisited).avs",
+			"size": 1868,
+			"checksum": "sha256:4f46b45a9f0f30c6605dfc1ba91ac218831432cf0af42c4ab961c268a4df44a7"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume two/20 S_KuPeRS - Broken Pleasing (light).avs",
+			"size": 1533,
+			"checksum": "sha256:a7c5ba4e87dfd98109ab54a4b449fc05cf955b69020569087c33b02634cc3ce4"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume two/21 Runar - Erazemia Dream (Yathosho goes Picknick).avs",
+			"size": 2373,
+			"checksum": "sha256:85213ca5d567e71f127d2e65f1e03802402032e86d15247ba30f91daa010455d"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume two/22 Tuggummi - Digital Candy (Yathosho's Jungle Fever Remix).avs",
+			"size": 2686,
+			"checksum": "sha256:138aa3dc775b8dbdcf2b050de2c5ddf86ad8f0da47d9e55345003161ef466f3e"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume two/23 NemoOrange vs EL-VIS - Dreamtime (Akribisch Karibisch Remix by Yathosho).avs",
+			"size": 11208,
+			"checksum": "sha256:dfe3ef5782829ebaec66f49834a3bf01ac2b2c90ea1676140a092b9880dcd1bd"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume two/24 S_KuPeRS - Curvism (Yathosho's Bernstein Flow).avs",
+			"size": 2302,
+			"checksum": "sha256:b002dc2f5853c38b0707625e9f523a25d882f13d9b7713ef1df8170470efdaa6"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume two/25 NemoOrange - Molekyl 01.avs",
+			"size": 638,
+			"checksum": "sha256:bcf4641c3fbe023f845d28ca0bb8a436c6a4e4e16836ee94d945d8caca90873e"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume two/26 Zamuz - Blooming (Yathosho's Nuskool Shit).avs",
+			"size": 2085,
+			"checksum": "sha256:938ad459eaf4b32f42a8ce5ca6c445a13aa1aa62355e45af3355561bd7e36bfb"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume two/27 Tuggummi - Let me out! (Yathosho's Op Mode Mix).avs",
+			"size": 1877,
+			"checksum": "sha256:013a0bbf5c6b8f8e7e48647c4b0fa8890bb8ffcb8c150e6d67a9f597bf6c033f"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume two/28 les Noobiens - Back to Cursor (Yathosho's Back to Outline Mix).avs",
+			"size": 2148,
+			"checksum": "sha256:b37c793d02a1f819e3a47920ba67686d5f0cde92d8628a68d49050c865d8225a"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume two/29 Montana - Silent Drums (Yathosho's bows down to the Ray).avs",
+			"size": 3811,
+			"checksum": "sha256:bb18bdda4eb2cfee601c14775e603fc8fb608c8a2ea9fbbd1a759b28a4ef1e33"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x/volume two/30 Duo - Dye in Water (Yathosho's Soda Zitron Flavor).avs",
+			"size": 2676,
+			"checksum": "sha256:14c4a18c5ae54cddcf4009b11b8c52d3db0590dc32da15a2e6c787c463e62e91"
+		}
+	],
+	"plugins": ["ColorMap", "ConvolutionFilter", "Multiplier", "Texer"]
 }

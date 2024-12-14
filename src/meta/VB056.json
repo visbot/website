@@ -1,29 +1,27 @@
 {
-    "name": "less Noodles, more Beans",
-    "id": "VB056",
-    "presets": [
-        {
-            "file": "les Noobiens/less Noodles, more Beans/lNa1 amphirion - be square (les Noobiens formula rework).avs",
-            "size": 2954,
-            "checksum": "sha256:0c6a5002844a22e438aa8631d2bab92f99a38119c310c794de3e7d70d0bf4cf8"
-        },
-        {
-            "file": "les Noobiens/less Noodles, more Beans/lNa2 amphirion - be square (les Noobiens formula edit).avs",
-            "size": 2827,
-            "checksum": "sha256:38b49bdb006675b32e9086504e4203d25199b3d2819945715ac133f4a3a1dfcd"
-        },
-        {
-            "file": "les Noobiens/less Noodles, more Beans/lNb1 yathosho - cosmic vagina (les Noobiens rework).avs",
-            "size": 1915,
-            "checksum": "sha256:50f0647a45ede9248242f7ad8e72f8699ba460747d51a9a0214de0985b3518d5"
-        },
-        {
-            "file": "les Noobiens/less Noodles, more Beans/lNb2 el-vis - give 'em enough scope (les Noobiens version).avs",
-            "size": 30013,
-            "checksum": "sha256:f286e2f1469b0d4cd5c5765a94a2fc6248bab65afeaff2b5d2b3c889ef8218b5"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "less Noodles, more Beans",
+	"id": "VB056",
+	"presets": [
+		{
+			"file": "les Noobiens/less Noodles, more Beans/lNa1 amphirion - be square (les Noobiens formula rework).avs",
+			"size": 2954,
+			"checksum": "sha256:0c6a5002844a22e438aa8631d2bab92f99a38119c310c794de3e7d70d0bf4cf8"
+		},
+		{
+			"file": "les Noobiens/less Noodles, more Beans/lNa2 amphirion - be square (les Noobiens formula edit).avs",
+			"size": 2827,
+			"checksum": "sha256:38b49bdb006675b32e9086504e4203d25199b3d2819945715ac133f4a3a1dfcd"
+		},
+		{
+			"file": "les Noobiens/less Noodles, more Beans/lNb1 yathosho - cosmic vagina (les Noobiens rework).avs",
+			"size": 1915,
+			"checksum": "sha256:50f0647a45ede9248242f7ad8e72f8699ba460747d51a9a0214de0985b3518d5"
+		},
+		{
+			"file": "les Noobiens/less Noodles, more Beans/lNb2 el-vis - give 'em enough scope (les Noobiens version).avs",
+			"size": 30013,
+			"checksum": "sha256:f286e2f1469b0d4cd5c5765a94a2fc6248bab65afeaff2b5d2b3c889ef8218b5"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

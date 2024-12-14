@@ -1,125 +1,122 @@
 {
-    "name": "SIGHTS",
-    "id": "VB008",
-    "presets": [
-        {
-            "file": "SIGHTS/Chance of Clouds.avs",
-            "size": 1302,
-            "checksum": "sha256:63e72221d8ca6cfdbcca28589b2595931bd50c1eb1d624377772c69155861178"
-        },
-        {
-            "file": "SIGHTS/Chemistry.avs",
-            "size": 2163,
-            "checksum": "sha256:0e2f205c0b1dc778c27f9a756fdea0778fba380b5a1d35c3502628898dabbe1f"
-        },
-        {
-            "file": "SIGHTS/Coca-Cola.avs",
-            "size": 2234,
-            "checksum": "sha256:313835949724007c24375e218f1001d3eea043e9539de1f57e6564debc04516b"
-        },
-        {
-            "file": "SIGHTS/Dreamt a Path.avs",
-            "size": 2168,
-            "checksum": "sha256:400b8eccafd525d423203a9947ed597af5c9eb86b5548619f157d9ec83dccd26"
-        },
-        {
-            "file": "SIGHTS/Euphoria Smokes.avs",
-            "size": 2404,
-            "checksum": "sha256:e818f67da633f04c716b207fbf8730b38b4ce2929835e4ab292daa36a6a29a51"
-        },
-        {
-            "file": "SIGHTS/Evaporate.avs",
-            "size": 1822,
-            "checksum": "sha256:8c43b79ccb47c5699fa26694ef14176c9ff32ec43bf1f2be5cb521e88c8da0d9"
-        },
-        {
-            "file": "SIGHTS/Exhibit.avs",
-            "size": 1617,
-            "checksum": "sha256:3124c97b212ae5baab753564cee0a6c6103bb3745517de14250ac1a80c653fea"
-        },
-        {
-            "file": "SIGHTS/Farewell Angelina.avs",
-            "size": 2371,
-            "checksum": "sha256:28b7cdf1dc26c3aa2d3e1942b083087be5fb2e7493b7831d89e0cb06d0c95cc3"
-        },
-        {
-            "file": "SIGHTS/Gameboard.avs",
-            "size": 4031,
-            "checksum": "sha256:f71fd6b5a72d46a4e8ebd763eabe2d4905c419ddeadc40fdf5158a0b97633663"
-        },
-        {
-            "file": "SIGHTS/Honeyhive.avs",
-            "size": 2451,
-            "checksum": "sha256:c2b1bf4b2e02b8f762b9c64f7e923050af9d1d8e0c488f25c754a4efcd8eb25b"
-        },
-        {
-            "file": "SIGHTS/If These Walls Could Talk.avs",
-            "size": 1962,
-            "checksum": "sha256:e331c18884a324fdc20337bf857c90b1ac9ab40b4ece31faedf434457acd6b43"
-        },
-        {
-            "file": "SIGHTS/Into the Web.avs",
-            "size": 1547,
-            "checksum": "sha256:fa3152f40f29952a16c199b8a06c938558ed3591f414778d52e594543b6b8f39"
-        },
-        {
-            "file": "SIGHTS/Like Pollock.avs",
-            "size": 1124,
-            "checksum": "sha256:3aefe72d03bcb728d6561ced39006e5599983e12a46e50b71dafe143e199ed9a"
-        },
-        {
-            "file": "SIGHTS/Marble Crayons.avs",
-            "size": 2315,
-            "checksum": "sha256:c8c5b53d3191a7abc02ca01423bfc3d6ef69cbc9abbc2509bccfd42867fc01ff"
-        },
-        {
-            "file": "SIGHTS/Pepsi Cola.avs",
-            "size": 1702,
-            "checksum": "sha256:6456732c0583865c9022582d227e236c2f4edb37bcf120856b0c22d80d961cce"
-        },
-        {
-            "file": "SIGHTS/Play It Cool.avs",
-            "size": 2853,
-            "checksum": "sha256:421bec08f30d68bb1a1c973d112269bffdb642640622920b05546f620310fed5"
-        },
-        {
-            "file": "SIGHTS/Shenandoah.avs",
-            "size": 1973,
-            "checksum": "sha256:f76f32c0cc841381ef1f862a348815189ea7832db81f265ae3a107df7e7df1e0"
-        },
-        {
-            "file": "SIGHTS/SIGHTS.avs",
-            "size": 6530,
-            "checksum": "sha256:4afd2b30be8bacc430a2db0ec046ada92fd1dae10a7e84698586cfde90483aae"
-        },
-        {
-            "file": "SIGHTS/The Blueprint Speaks.avs",
-            "size": 2026,
-            "checksum": "sha256:04f41bc22e68c644048b919f0992d00b02635e7c940c18306aae145cf0f77042"
-        },
-        {
-            "file": "SIGHTS/Tri-Elemental.avs",
-            "size": 2591,
-            "checksum": "sha256:0d974f0ac3065fa99401f89a63893455ed41ce8a6f6ac1a5b4e3f1bc199e3b6f"
-        },
-        {
-            "file": "SIGHTS/Tropicali.avs",
-            "size": 1523,
-            "checksum": "sha256:5346ea8dbbae5f4e981c4695f0486bffab7142a77fba84292719efd5a901056f"
-        },
-        {
-            "file": "SIGHTS/Turn On the Soft Light.avs",
-            "size": 1000,
-            "checksum": "sha256:8b7ab360f9d8c31c7f3cd720b39a4d4aa2e5bd991ec9b3cc5085b61e50a70704"
-        },
-        {
-            "file": "SIGHTS/Wished a City.avs",
-            "size": 1642,
-            "checksum": "sha256:f79b194fe7c5f4349154d8278e5006627c3578cbedd72e927b142ca0e46c3f8f"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter",
-        "Triangle"
-    ]
+	"name": "SIGHTS",
+	"id": "VB008",
+	"presets": [
+		{
+			"file": "SIGHTS/Chance of Clouds.avs",
+			"size": 1302,
+			"checksum": "sha256:63e72221d8ca6cfdbcca28589b2595931bd50c1eb1d624377772c69155861178"
+		},
+		{
+			"file": "SIGHTS/Chemistry.avs",
+			"size": 2163,
+			"checksum": "sha256:0e2f205c0b1dc778c27f9a756fdea0778fba380b5a1d35c3502628898dabbe1f"
+		},
+		{
+			"file": "SIGHTS/Coca-Cola.avs",
+			"size": 2234,
+			"checksum": "sha256:313835949724007c24375e218f1001d3eea043e9539de1f57e6564debc04516b"
+		},
+		{
+			"file": "SIGHTS/Dreamt a Path.avs",
+			"size": 2168,
+			"checksum": "sha256:400b8eccafd525d423203a9947ed597af5c9eb86b5548619f157d9ec83dccd26"
+		},
+		{
+			"file": "SIGHTS/Euphoria Smokes.avs",
+			"size": 2404,
+			"checksum": "sha256:e818f67da633f04c716b207fbf8730b38b4ce2929835e4ab292daa36a6a29a51"
+		},
+		{
+			"file": "SIGHTS/Evaporate.avs",
+			"size": 1822,
+			"checksum": "sha256:8c43b79ccb47c5699fa26694ef14176c9ff32ec43bf1f2be5cb521e88c8da0d9"
+		},
+		{
+			"file": "SIGHTS/Exhibit.avs",
+			"size": 1617,
+			"checksum": "sha256:3124c97b212ae5baab753564cee0a6c6103bb3745517de14250ac1a80c653fea"
+		},
+		{
+			"file": "SIGHTS/Farewell Angelina.avs",
+			"size": 2371,
+			"checksum": "sha256:28b7cdf1dc26c3aa2d3e1942b083087be5fb2e7493b7831d89e0cb06d0c95cc3"
+		},
+		{
+			"file": "SIGHTS/Gameboard.avs",
+			"size": 4031,
+			"checksum": "sha256:f71fd6b5a72d46a4e8ebd763eabe2d4905c419ddeadc40fdf5158a0b97633663"
+		},
+		{
+			"file": "SIGHTS/Honeyhive.avs",
+			"size": 2451,
+			"checksum": "sha256:c2b1bf4b2e02b8f762b9c64f7e923050af9d1d8e0c488f25c754a4efcd8eb25b"
+		},
+		{
+			"file": "SIGHTS/If These Walls Could Talk.avs",
+			"size": 1962,
+			"checksum": "sha256:e331c18884a324fdc20337bf857c90b1ac9ab40b4ece31faedf434457acd6b43"
+		},
+		{
+			"file": "SIGHTS/Into the Web.avs",
+			"size": 1547,
+			"checksum": "sha256:fa3152f40f29952a16c199b8a06c938558ed3591f414778d52e594543b6b8f39"
+		},
+		{
+			"file": "SIGHTS/Like Pollock.avs",
+			"size": 1124,
+			"checksum": "sha256:3aefe72d03bcb728d6561ced39006e5599983e12a46e50b71dafe143e199ed9a"
+		},
+		{
+			"file": "SIGHTS/Marble Crayons.avs",
+			"size": 2315,
+			"checksum": "sha256:c8c5b53d3191a7abc02ca01423bfc3d6ef69cbc9abbc2509bccfd42867fc01ff"
+		},
+		{
+			"file": "SIGHTS/Pepsi Cola.avs",
+			"size": 1702,
+			"checksum": "sha256:6456732c0583865c9022582d227e236c2f4edb37bcf120856b0c22d80d961cce"
+		},
+		{
+			"file": "SIGHTS/Play It Cool.avs",
+			"size": 2853,
+			"checksum": "sha256:421bec08f30d68bb1a1c973d112269bffdb642640622920b05546f620310fed5"
+		},
+		{
+			"file": "SIGHTS/Shenandoah.avs",
+			"size": 1973,
+			"checksum": "sha256:f76f32c0cc841381ef1f862a348815189ea7832db81f265ae3a107df7e7df1e0"
+		},
+		{
+			"file": "SIGHTS/SIGHTS.avs",
+			"size": 6530,
+			"checksum": "sha256:4afd2b30be8bacc430a2db0ec046ada92fd1dae10a7e84698586cfde90483aae"
+		},
+		{
+			"file": "SIGHTS/The Blueprint Speaks.avs",
+			"size": 2026,
+			"checksum": "sha256:04f41bc22e68c644048b919f0992d00b02635e7c940c18306aae145cf0f77042"
+		},
+		{
+			"file": "SIGHTS/Tri-Elemental.avs",
+			"size": 2591,
+			"checksum": "sha256:0d974f0ac3065fa99401f89a63893455ed41ce8a6f6ac1a5b4e3f1bc199e3b6f"
+		},
+		{
+			"file": "SIGHTS/Tropicali.avs",
+			"size": 1523,
+			"checksum": "sha256:5346ea8dbbae5f4e981c4695f0486bffab7142a77fba84292719efd5a901056f"
+		},
+		{
+			"file": "SIGHTS/Turn On the Soft Light.avs",
+			"size": 1000,
+			"checksum": "sha256:8b7ab360f9d8c31c7f3cd720b39a4d4aa2e5bd991ec9b3cc5085b61e50a70704"
+		},
+		{
+			"file": "SIGHTS/Wished a City.avs",
+			"size": 1642,
+			"checksum": "sha256:f79b194fe7c5f4349154d8278e5006627c3578cbedd72e927b142ca0e46c3f8f"
+		}
+	],
+	"plugins": ["ConvolutionFilter", "Triangle"]
 }

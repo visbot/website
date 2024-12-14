@@ -1,92 +1,89 @@
 {
-    "name": "love your Noobiens (TM)",
-    "id": "VB076-2",
-    "presets": [
-        {
-            "file": "les Noobiens/love your Noobiens (TM)/01 les Noobiens - intro to love.avs",
-            "size": 2448,
-            "checksum": "sha256:92ca047c5b4a73a97a19f2faa584d0e73658ea23080a975e10cf830b449f2beb"
-        },
-        {
-            "file": "les Noobiens/love your Noobiens (TM)/02 les Noobiens - cmycle.avs",
-            "size": 1852,
-            "checksum": "sha256:8aa09b9ca3c5a9afa50bf82b7f46113fd13c713c9e1ac86f60cc0789fbb51501"
-        },
-        {
-            "file": "les Noobiens/love your Noobiens (TM)/03 les Noobiens - olymp-unique ii.avs",
-            "size": 776,
-            "checksum": "sha256:c851b74009a6cede6a3071f05733b432c1b98cb09fac538722ff053acdc08670"
-        },
-        {
-            "file": "les Noobiens/love your Noobiens (TM)/04 les Noobiens - love-is-faye-dun-a-way.avs",
-            "size": 1501,
-            "checksum": "sha256:842058b86d8fa9b6939b98b7b75f10f17c8cc089e798cbc7beba9b7a36a19c9c"
-        },
-        {
-            "file": "les Noobiens/love your Noobiens (TM)/05 les Noobiens - pompidou.avs",
-            "size": 2618,
-            "checksum": "sha256:b989fd87fa2bad54cf80e9a17156115ac72044844ff60176b74de700673b9a48"
-        },
-        {
-            "file": "les Noobiens/love your Noobiens (TM)/06 les Noobiens - back to cccp.avs",
-            "size": 1033,
-            "checksum": "sha256:d46b4a316398c0d3739ab6dae991560bf1ac5754ea992f0658e589f986454ede"
-        },
-        {
-            "file": "les Noobiens/love your Noobiens (TM)/07 les Noobiens - nightcrawling.avs",
-            "size": 1629,
-            "checksum": "sha256:a3aad31731cbfd29e906ca50620d44a42d41d36fa117f210dfcf941ebd8f7f03"
-        },
-        {
-            "file": "les Noobiens/love your Noobiens (TM)/08 les Noobiens - it's over here.avs",
-            "size": 1720,
-            "checksum": "sha256:56af002071f09a4be2e784339ba2c79e6b9c805d23181f2d45476d7bce192131"
-        },
-        {
-            "file": "les Noobiens/love your Noobiens (TM)/09 les Noobiens - hard traffik.avs",
-            "size": 1532,
-            "checksum": "sha256:52d9bbe00dddce12d33a4e5e8315166be199a2bb5d930127c7eae13ac5d8393d"
-        },
-        {
-            "file": "les Noobiens/love your Noobiens (TM)/10 les Noobiens - miniquix.avs",
-            "size": 1742,
-            "checksum": "sha256:1935daec706764c80bd20e8190c50458a8ca975bf3fd00217680c69f3d017f1d"
-        },
-        {
-            "file": "les Noobiens/love your Noobiens (TM)/11 les Noobiens - 2-gummi.avs",
-            "size": 3498,
-            "checksum": "sha256:458a36ef4bae298fccf0880020032f29eb059142cf3920140aabcc00709518ee"
-        },
-        {
-            "file": "les Noobiens/love your Noobiens (TM)/12 les Noobiens - visbothèque.avs",
-            "size": 2004,
-            "checksum": "sha256:ca3dba7bc015d9a558d10079f5bda87cda1e6670e48ce2f47fa8b4e920f75ed5"
-        },
-        {
-            "file": "les Noobiens/love your Noobiens (TM)/13 les Noobiens - love your Noobiens (game over).avs",
-            "size": 1691,
-            "checksum": "sha256:7d484d6a9ddb85048be16b571e294eabc0f284b00f132e8094cfab3229035023"
-        },
-        {
-            "file": "les Noobiens/love your Noobiens (TM)/14 les Noobiens - pixfu (skupers tidal tidal remix).avs",
-            "size": 2524,
-            "checksum": "sha256:dc19f09c05f7e0de3ebce8b80b72ca867848289257d55f0146a2d415d209cc18"
-        },
-        {
-            "file": "les Noobiens/love your Noobiens (TM)/15 yathosho - stijlomat (les Noobiens rework).avs",
-            "size": 2527,
-            "checksum": "sha256:f9fb2e9f5fe48834c7e349bcd18d7bb7815923cf1ebd14d922ff105df9d01cf7"
-        }
-    ],
-    "assets": [
-        {
-            "file": "Commodore64-v51.ttf",
-            "size": 52856,
-            "checksum": "sha256:387f55f9c714d16ef080d57f8c01ae9432012c031d2361ff326b88d311bd6fb5"
-        }
-    ],
-    "plugins": [
-        "AddBorder",
-        "ConvolutionFilter"
-    ]
+	"name": "love your Noobiens (TM)",
+	"id": "VB076-2",
+	"presets": [
+		{
+			"file": "les Noobiens/love your Noobiens (TM)/01 les Noobiens - intro to love.avs",
+			"size": 2448,
+			"checksum": "sha256:92ca047c5b4a73a97a19f2faa584d0e73658ea23080a975e10cf830b449f2beb"
+		},
+		{
+			"file": "les Noobiens/love your Noobiens (TM)/02 les Noobiens - cmycle.avs",
+			"size": 1852,
+			"checksum": "sha256:8aa09b9ca3c5a9afa50bf82b7f46113fd13c713c9e1ac86f60cc0789fbb51501"
+		},
+		{
+			"file": "les Noobiens/love your Noobiens (TM)/03 les Noobiens - olymp-unique ii.avs",
+			"size": 776,
+			"checksum": "sha256:c851b74009a6cede6a3071f05733b432c1b98cb09fac538722ff053acdc08670"
+		},
+		{
+			"file": "les Noobiens/love your Noobiens (TM)/04 les Noobiens - love-is-faye-dun-a-way.avs",
+			"size": 1501,
+			"checksum": "sha256:842058b86d8fa9b6939b98b7b75f10f17c8cc089e798cbc7beba9b7a36a19c9c"
+		},
+		{
+			"file": "les Noobiens/love your Noobiens (TM)/05 les Noobiens - pompidou.avs",
+			"size": 2618,
+			"checksum": "sha256:b989fd87fa2bad54cf80e9a17156115ac72044844ff60176b74de700673b9a48"
+		},
+		{
+			"file": "les Noobiens/love your Noobiens (TM)/06 les Noobiens - back to cccp.avs",
+			"size": 1033,
+			"checksum": "sha256:d46b4a316398c0d3739ab6dae991560bf1ac5754ea992f0658e589f986454ede"
+		},
+		{
+			"file": "les Noobiens/love your Noobiens (TM)/07 les Noobiens - nightcrawling.avs",
+			"size": 1629,
+			"checksum": "sha256:a3aad31731cbfd29e906ca50620d44a42d41d36fa117f210dfcf941ebd8f7f03"
+		},
+		{
+			"file": "les Noobiens/love your Noobiens (TM)/08 les Noobiens - it's over here.avs",
+			"size": 1720,
+			"checksum": "sha256:56af002071f09a4be2e784339ba2c79e6b9c805d23181f2d45476d7bce192131"
+		},
+		{
+			"file": "les Noobiens/love your Noobiens (TM)/09 les Noobiens - hard traffik.avs",
+			"size": 1532,
+			"checksum": "sha256:52d9bbe00dddce12d33a4e5e8315166be199a2bb5d930127c7eae13ac5d8393d"
+		},
+		{
+			"file": "les Noobiens/love your Noobiens (TM)/10 les Noobiens - miniquix.avs",
+			"size": 1742,
+			"checksum": "sha256:1935daec706764c80bd20e8190c50458a8ca975bf3fd00217680c69f3d017f1d"
+		},
+		{
+			"file": "les Noobiens/love your Noobiens (TM)/11 les Noobiens - 2-gummi.avs",
+			"size": 3498,
+			"checksum": "sha256:458a36ef4bae298fccf0880020032f29eb059142cf3920140aabcc00709518ee"
+		},
+		{
+			"file": "les Noobiens/love your Noobiens (TM)/12 les Noobiens - visbothèque.avs",
+			"size": 2004,
+			"checksum": "sha256:ca3dba7bc015d9a558d10079f5bda87cda1e6670e48ce2f47fa8b4e920f75ed5"
+		},
+		{
+			"file": "les Noobiens/love your Noobiens (TM)/13 les Noobiens - love your Noobiens (game over).avs",
+			"size": 1691,
+			"checksum": "sha256:7d484d6a9ddb85048be16b571e294eabc0f284b00f132e8094cfab3229035023"
+		},
+		{
+			"file": "les Noobiens/love your Noobiens (TM)/14 les Noobiens - pixfu (skupers tidal tidal remix).avs",
+			"size": 2524,
+			"checksum": "sha256:dc19f09c05f7e0de3ebce8b80b72ca867848289257d55f0146a2d415d209cc18"
+		},
+		{
+			"file": "les Noobiens/love your Noobiens (TM)/15 yathosho - stijlomat (les Noobiens rework).avs",
+			"size": 2527,
+			"checksum": "sha256:f9fb2e9f5fe48834c7e349bcd18d7bb7815923cf1ebd14d922ff105df9d01cf7"
+		}
+	],
+	"assets": [
+		{
+			"file": "Commodore64-v51.ttf",
+			"size": 52856,
+			"checksum": "sha256:387f55f9c714d16ef080d57f8c01ae9432012c031d2361ff326b88d311bd6fb5"
+		}
+	],
+	"plugins": ["AddBorder", "ConvolutionFilter"]
 }

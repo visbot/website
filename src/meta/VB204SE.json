@@ -1,98 +1,94 @@
 {
-    "name": "whyEye.org fakes",
-    "id": "VB204SE",
-    "presets": [
-        {
-            "file": "whyEye.org/whyEye.org fakes/01 dynamic duo - tentaclism (fake hboy rmx).avs",
-            "size": 3518,
-            "checksum": "sha256:433770da3f295d6813553a458eb3bdcd37f7429bdc886693ee44c8da97d4d0a3"
-        },
-        {
-            "file": "whyEye.org/whyEye.org fakes/02 tuggummi - trickery (fake zamuz rmx).avs",
-            "size": 4571,
-            "checksum": "sha256:2bcc213d46a89e4311e82ab542cd52647b05c6612254c7c3637d6f96a9a50d18"
-        },
-        {
-            "file": "whyEye.org/whyEye.org fakes/03 frames-of-reality - the haunt for dreams (fake skupers rmx).avs",
-            "size": 4186,
-            "checksum": "sha256:027c91a780b57d5adf3a90a58613effb4b1f5c3436dded16a9b5964cd3ceef9c"
-        },
-        {
-            "file": "whyEye.org/whyEye.org fakes/04 m-e - simple mpworkingssse (fake les Noobiens rmx).avs",
-            "size": 6998,
-            "checksum": "sha256:4efdc2bb7c3176d7c4512e710381ffaaf51757248df497cb232d5ed1485b4f5e"
-        },
-        {
-            "file": "whyEye.org/whyEye.org fakes/05 kar-ma - rotational synergy (fake alt-iii rmx).avs",
-            "size": 2530,
-            "checksum": "sha256:4a3093706a891cde04ae970d755f32bd01762e8d52ea82ea62a17051a36246b3"
-        },
-        {
-            "file": "whyEye.org/whyEye.org fakes/06 synth-c - fluid drive (fake nixa rmx).avs",
-            "size": 7531,
-            "checksum": "sha256:16d088cc9b9350d8a9ec9560bea628cf3ba6a2abc8782938f2538a452ea41459"
-        },
-        {
-            "file": "whyEye.org/whyEye.org fakes/07 yathosho - look it's.. (fake downtown08 rmx).avs",
-            "size": 1565,
-            "checksum": "sha256:4fdc0e3dc0b9b4011017d25849fd3f55e93cfcd0e33bb29cdacbaa262729d629"
-        },
-        {
-            "file": "whyEye.org/whyEye.org fakes/08 dynamic duo - kinematics (fake drew rmx).avs",
-            "size": 3624,
-            "checksum": "sha256:7c62ca9e0a771070b1c3944e1b7add5ece6c74c2e19534aa9abde5ef45f34860"
-        },
-        {
-            "file": "whyEye.org/whyEye.org fakes/09 onionring - this is a song about being free (fake pan am rmx).avs",
-            "size": 4977,
-            "checksum": "sha256:f1f86c7e04f425e68e63310aac11297997f48d5d31c4116e17173060191d6c75"
-        },
-        {
-            "file": "whyEye.org/whyEye.org fakes/10 pure-krypton - skin (fake vanish rmx).avs",
-            "size": 6195,
-            "checksum": "sha256:5e9414329f6a5484e52952dcc00ba3a4083d39d058d2b551a5b291cd15df5268"
-        },
-        {
-            "file": "whyEye.org/whyEye.org fakes/11 m-e - beautiful slop (fake frames-of-reality rmx).avs",
-            "size": 6428,
-            "checksum": "sha256:f157e3c9fe853250968ba241cc139dd37d19a77e696fe7a6eebea72beb294a8f"
-        },
-        {
-            "file": "whyEye.org/whyEye.org fakes/12 tuggummi - trickery (fake zamuz rmx - alternate version).avs",
-            "size": 4597,
-            "checksum": "sha256:a94b824a531c39803823f365b66ccb4324ba4a7d2a42f03d4bf61a8f6f1db848"
-        },
-        {
-            "file": "whyEye.org/whyEye.org fakes/BONUS frames-of-reality - the haunt for dreams (fake zamuz edit).avs",
-            "size": 5672,
-            "checksum": "sha256:c295290f98849c95c3249e8a61d2df3a88fd649cfdb21b6c911c1eb7c35653f4"
-        },
-        {
-            "file": "whyEye.org/whyEye.org fakes/BONUS onionring vs panam - ziyan ii (fake m-e edit).avs",
-            "size": 16280,
-            "checksum": "sha256:4f347c7ec9649b045d1776639b36124e5207dff3c893fab6b42991e6fd8c69d6"
-        }
-    ],
-    "assets": [
-        {
-            "file": "avsres_texer_circle_heavyblur_29x29.bmp",
-            "size": 2606,
-            "checksum": "sha256:f774cf10d56275d629f321163dbc610fee02b0e892c9065b0931564240bf078d"
-        },
-        {
-            "file": "onion-squareslanty.bmp",
-            "size": 9296,
-            "checksum": "sha256:7679514ff04019a604afd103e415afa27ee110047646b7bcefa0862e95b2b7f0"
-        },
-        {
-            "file": "Shreyas-IV-01.bmp",
-            "size": 36342,
-            "checksum": "sha256:10bf973044414dbea4dfaf77de57d7de4d3a871f0fc057bda1a3f699e202a411"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter",
-        "GlobalVarMan",
-        "Triangle"
-    ]
+	"name": "whyEye.org fakes",
+	"id": "VB204SE",
+	"presets": [
+		{
+			"file": "whyEye.org/whyEye.org fakes/01 dynamic duo - tentaclism (fake hboy rmx).avs",
+			"size": 3518,
+			"checksum": "sha256:433770da3f295d6813553a458eb3bdcd37f7429bdc886693ee44c8da97d4d0a3"
+		},
+		{
+			"file": "whyEye.org/whyEye.org fakes/02 tuggummi - trickery (fake zamuz rmx).avs",
+			"size": 4571,
+			"checksum": "sha256:2bcc213d46a89e4311e82ab542cd52647b05c6612254c7c3637d6f96a9a50d18"
+		},
+		{
+			"file": "whyEye.org/whyEye.org fakes/03 frames-of-reality - the haunt for dreams (fake skupers rmx).avs",
+			"size": 4186,
+			"checksum": "sha256:027c91a780b57d5adf3a90a58613effb4b1f5c3436dded16a9b5964cd3ceef9c"
+		},
+		{
+			"file": "whyEye.org/whyEye.org fakes/04 m-e - simple mpworkingssse (fake les Noobiens rmx).avs",
+			"size": 6998,
+			"checksum": "sha256:4efdc2bb7c3176d7c4512e710381ffaaf51757248df497cb232d5ed1485b4f5e"
+		},
+		{
+			"file": "whyEye.org/whyEye.org fakes/05 kar-ma - rotational synergy (fake alt-iii rmx).avs",
+			"size": 2530,
+			"checksum": "sha256:4a3093706a891cde04ae970d755f32bd01762e8d52ea82ea62a17051a36246b3"
+		},
+		{
+			"file": "whyEye.org/whyEye.org fakes/06 synth-c - fluid drive (fake nixa rmx).avs",
+			"size": 7531,
+			"checksum": "sha256:16d088cc9b9350d8a9ec9560bea628cf3ba6a2abc8782938f2538a452ea41459"
+		},
+		{
+			"file": "whyEye.org/whyEye.org fakes/07 yathosho - look it's.. (fake downtown08 rmx).avs",
+			"size": 1565,
+			"checksum": "sha256:4fdc0e3dc0b9b4011017d25849fd3f55e93cfcd0e33bb29cdacbaa262729d629"
+		},
+		{
+			"file": "whyEye.org/whyEye.org fakes/08 dynamic duo - kinematics (fake drew rmx).avs",
+			"size": 3624,
+			"checksum": "sha256:7c62ca9e0a771070b1c3944e1b7add5ece6c74c2e19534aa9abde5ef45f34860"
+		},
+		{
+			"file": "whyEye.org/whyEye.org fakes/09 onionring - this is a song about being free (fake pan am rmx).avs",
+			"size": 4977,
+			"checksum": "sha256:f1f86c7e04f425e68e63310aac11297997f48d5d31c4116e17173060191d6c75"
+		},
+		{
+			"file": "whyEye.org/whyEye.org fakes/10 pure-krypton - skin (fake vanish rmx).avs",
+			"size": 6195,
+			"checksum": "sha256:5e9414329f6a5484e52952dcc00ba3a4083d39d058d2b551a5b291cd15df5268"
+		},
+		{
+			"file": "whyEye.org/whyEye.org fakes/11 m-e - beautiful slop (fake frames-of-reality rmx).avs",
+			"size": 6428,
+			"checksum": "sha256:f157e3c9fe853250968ba241cc139dd37d19a77e696fe7a6eebea72beb294a8f"
+		},
+		{
+			"file": "whyEye.org/whyEye.org fakes/12 tuggummi - trickery (fake zamuz rmx - alternate version).avs",
+			"size": 4597,
+			"checksum": "sha256:a94b824a531c39803823f365b66ccb4324ba4a7d2a42f03d4bf61a8f6f1db848"
+		},
+		{
+			"file": "whyEye.org/whyEye.org fakes/BONUS frames-of-reality - the haunt for dreams (fake zamuz edit).avs",
+			"size": 5672,
+			"checksum": "sha256:c295290f98849c95c3249e8a61d2df3a88fd649cfdb21b6c911c1eb7c35653f4"
+		},
+		{
+			"file": "whyEye.org/whyEye.org fakes/BONUS onionring vs panam - ziyan ii (fake m-e edit).avs",
+			"size": 16280,
+			"checksum": "sha256:4f347c7ec9649b045d1776639b36124e5207dff3c893fab6b42991e6fd8c69d6"
+		}
+	],
+	"assets": [
+		{
+			"file": "avsres_texer_circle_heavyblur_29x29.bmp",
+			"size": 2606,
+			"checksum": "sha256:f774cf10d56275d629f321163dbc610fee02b0e892c9065b0931564240bf078d"
+		},
+		{
+			"file": "onion-squareslanty.bmp",
+			"size": 9296,
+			"checksum": "sha256:7679514ff04019a604afd103e415afa27ee110047646b7bcefa0862e95b2b7f0"
+		},
+		{
+			"file": "Shreyas-IV-01.bmp",
+			"size": 36342,
+			"checksum": "sha256:10bf973044414dbea4dfaf77de57d7de4d3a871f0fc057bda1a3f699e202a411"
+		}
+	],
+	"plugins": ["ConvolutionFilter", "GlobalVarMan", "Triangle"]
 }

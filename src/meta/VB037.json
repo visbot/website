@@ -1,41 +1,37 @@
 {
-    "name": "DDvip",
-    "id": "VB037",
-    "presets": [
-        {
-            "file": "Dynamic Duo/DDvip/a1 dynamic duo vs zamuz - bustblocker.avs",
-            "size": 1924,
-            "checksum": "sha256:4cc55caf9ffd7e153858516769de8d5255be7afdaad7a1c1cd2371b362b69717"
-        },
-        {
-            "file": "Dynamic Duo/DDvip/a2 elvis - dreamtime iv (skupers remix).avs",
-            "size": 4935,
-            "checksum": "sha256:f0d85985885e237c40558943a1252df054a1364f4df89bac500dc37b3a6c5d2e"
-        },
-        {
-            "file": "Dynamic Duo/DDvip/a3 i cook coxy gay - bad taste ops (yathosho's 1988 re-edit).avs",
-            "size": 2016,
-            "checksum": "sha256:eab532b5da276cbcf3c8a7bf467e3db4821b696e1150afd3e88bfe6864d395cc"
-        },
-        {
-            "file": "Dynamic Duo/DDvip/b1 dynamic duo vs zamuz - blockbuster.avs",
-            "size": 1874,
-            "checksum": "sha256:abb3cff59dd75ff603d8155a45ee6fd221b26855600e249be568bb161e0e3097"
-        },
-        {
-            "file": "Dynamic Duo/DDvip/b2 elvis - dreamtime iv (it's 1976 today edit by yathosho).avs",
-            "size": 2427,
-            "checksum": "sha256:e96c327d53ae058636ace172b74cedd9f83c41a9be75ce5ae61253f2bbed0bf5"
-        },
-        {
-            "file": "Dynamic Duo/DDvip/b3 i cook coxy gay - gold water (skupers' out fishing remix).avs",
-            "size": 1888,
-            "checksum": "sha256:cff47e854f4070360cdd5b2fb27364e1d665f9de9bc0dadf72e63418373d34f0"
-        }
-    ],
-    "plugins": [
-        "ChannelShift",
-        "ColorMap",
-        "ConvolutionFilter"
-    ]
+	"name": "DDvip",
+	"id": "VB037",
+	"presets": [
+		{
+			"file": "Dynamic Duo/DDvip/a1 dynamic duo vs zamuz - bustblocker.avs",
+			"size": 1924,
+			"checksum": "sha256:4cc55caf9ffd7e153858516769de8d5255be7afdaad7a1c1cd2371b362b69717"
+		},
+		{
+			"file": "Dynamic Duo/DDvip/a2 elvis - dreamtime iv (skupers remix).avs",
+			"size": 4935,
+			"checksum": "sha256:f0d85985885e237c40558943a1252df054a1364f4df89bac500dc37b3a6c5d2e"
+		},
+		{
+			"file": "Dynamic Duo/DDvip/a3 i cook coxy gay - bad taste ops (yathosho's 1988 re-edit).avs",
+			"size": 2016,
+			"checksum": "sha256:eab532b5da276cbcf3c8a7bf467e3db4821b696e1150afd3e88bfe6864d395cc"
+		},
+		{
+			"file": "Dynamic Duo/DDvip/b1 dynamic duo vs zamuz - blockbuster.avs",
+			"size": 1874,
+			"checksum": "sha256:abb3cff59dd75ff603d8155a45ee6fd221b26855600e249be568bb161e0e3097"
+		},
+		{
+			"file": "Dynamic Duo/DDvip/b2 elvis - dreamtime iv (it's 1976 today edit by yathosho).avs",
+			"size": 2427,
+			"checksum": "sha256:e96c327d53ae058636ace172b74cedd9f83c41a9be75ce5ae61253f2bbed0bf5"
+		},
+		{
+			"file": "Dynamic Duo/DDvip/b3 i cook coxy gay - gold water (skupers' out fishing remix).avs",
+			"size": 1888,
+			"checksum": "sha256:cff47e854f4070360cdd5b2fb27364e1d665f9de9bc0dadf72e63418373d34f0"
+		}
+	],
+	"plugins": ["ChannelShift", "ColorMap", "ConvolutionFilter"]
 }

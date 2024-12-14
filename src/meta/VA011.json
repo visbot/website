@@ -1,82 +1,82 @@
 {
-    "name": "AltIII Inversions & LoungeLizard",
-    "id": "VA011",
-    "presets": [
-        {
-            "file": "AltIII/AltIII Inversions/DeviatedBump.avs",
-            "size": 530,
-            "checksum": "sha256:7e4e1afebc61d435670cf853724c3ad0217b49a901848d06485e6eaaa5dc29f6"
-        },
-        {
-            "file": "AltIII/AltIII Inversions/DeviatedBump2.avs",
-            "size": 454,
-            "checksum": "sha256:934b565d0c60969a32d215ec7a2d550bd061e9138cbe62ed4f1e264c7447dfa4"
-        },
-        {
-            "file": "AltIII/AltIII Inversions/DeviatedPsyco.avs",
-            "size": 488,
-            "checksum": "sha256:40fef7804dac03bd1d1f1b9777532c37adaf155949a6484924f207d9ab98d0dd"
-        },
-        {
-            "file": "AltIII/AltIII Inversions/Flyingwindow1.avs",
-            "size": 674,
-            "checksum": "sha256:e5888343a2c3fe239bf97d37b84e56b7d17c12ab819adf7d78d5eef0cbf4616f"
-        },
-        {
-            "file": "AltIII/AltIII Inversions/Flyingwindow2.avs",
-            "size": 674,
-            "checksum": "sha256:b3693b7baa10d96fba07aa0fd5f59461cb57842be8a52ad8ada08a8f241041f1"
-        },
-        {
-            "file": "AltIII/AltIII Inversions/Strange bump.avs",
-            "size": 825,
-            "checksum": "sha256:81ac823a79287c16bf739776fc3f138ee5c837caa5e764d734216a8c7cd0f8e4"
-        },
-        {
-            "file": "AltIII/AltIII Inversions/Twistingwindow1.avs",
-            "size": 804,
-            "checksum": "sha256:461706ab49ee1f4ae35767385784176faa625c403ecc48238c4c16538e7b12dc"
-        },
-        {
-            "file": "AltIII/AltIII LoungeLizard/BacteriaLounge.avs",
-            "size": 1607,
-            "checksum": "sha256:d215f7b58960f8c6f31a17d1e5e2d443033a29c244395f5a3dee8471a86c5d31"
-        },
-        {
-            "file": "AltIII/AltIII LoungeLizard/BurnLounge.avs",
-            "size": 2457,
-            "checksum": "sha256:e834984d862852115b1a3759e670e8005e8e2d207797eba789747b364470f905"
-        },
-        {
-            "file": "AltIII/AltIII LoungeLizard/CloveLounge.avs",
-            "size": 2457,
-            "checksum": "sha256:e834984d862852115b1a3759e670e8005e8e2d207797eba789747b364470f905"
-        },
-        {
-            "file": "AltIII/AltIII LoungeLizard/MercuryLounge.avs",
-            "size": 1271,
-            "checksum": "sha256:16cf0011a51d5874b2f4f71eb5f2d1ee66b592b1c0f3c6a87a624b80acb86278"
-        },
-        {
-            "file": "AltIII/AltIII LoungeLizard/shinylounge.avs",
-            "size": 1902,
-            "checksum": "sha256:f9ceef3bd62afc2fbf820871879585f3f36a377d10bb01d685a36b2498b24136"
-        },
-        {
-            "file": "AltIII/AltIII LoungeLizard/SmokeLounge.avs",
-            "size": 1930,
-            "checksum": "sha256:2e80fcc8cfbbef5b7710e1e873438bac8902e90980580158d9939e6be41c54e9"
-        },
-        {
-            "file": "AltIII/AltIII LoungeLizard/tissue.avs",
-            "size": 2086,
-            "checksum": "sha256:f1fa3626f3e61960dc17d999af781b918c0f68beba9207a6ee2bdd18535fc890"
-        },
-        {
-            "file": "AltIII/AltIII LoungeLizard/zebralounge.avs",
-            "size": 1170,
-            "checksum": "sha256:77731bbaaef0d5fd37a1d2d9841783d2a59ed4a7c3cc16440a589b7aacf8cfd5"
-        }
-    ],
-    "plugins": []
+	"name": "AltIII Inversions & LoungeLizard",
+	"id": "VA011",
+	"presets": [
+		{
+			"file": "AltIII/AltIII Inversions/DeviatedBump.avs",
+			"size": 530,
+			"checksum": "sha256:7e4e1afebc61d435670cf853724c3ad0217b49a901848d06485e6eaaa5dc29f6"
+		},
+		{
+			"file": "AltIII/AltIII Inversions/DeviatedBump2.avs",
+			"size": 454,
+			"checksum": "sha256:934b565d0c60969a32d215ec7a2d550bd061e9138cbe62ed4f1e264c7447dfa4"
+		},
+		{
+			"file": "AltIII/AltIII Inversions/DeviatedPsyco.avs",
+			"size": 488,
+			"checksum": "sha256:40fef7804dac03bd1d1f1b9777532c37adaf155949a6484924f207d9ab98d0dd"
+		},
+		{
+			"file": "AltIII/AltIII Inversions/Flyingwindow1.avs",
+			"size": 674,
+			"checksum": "sha256:e5888343a2c3fe239bf97d37b84e56b7d17c12ab819adf7d78d5eef0cbf4616f"
+		},
+		{
+			"file": "AltIII/AltIII Inversions/Flyingwindow2.avs",
+			"size": 674,
+			"checksum": "sha256:b3693b7baa10d96fba07aa0fd5f59461cb57842be8a52ad8ada08a8f241041f1"
+		},
+		{
+			"file": "AltIII/AltIII Inversions/Strange bump.avs",
+			"size": 825,
+			"checksum": "sha256:81ac823a79287c16bf739776fc3f138ee5c837caa5e764d734216a8c7cd0f8e4"
+		},
+		{
+			"file": "AltIII/AltIII Inversions/Twistingwindow1.avs",
+			"size": 804,
+			"checksum": "sha256:461706ab49ee1f4ae35767385784176faa625c403ecc48238c4c16538e7b12dc"
+		},
+		{
+			"file": "AltIII/AltIII LoungeLizard/BacteriaLounge.avs",
+			"size": 1607,
+			"checksum": "sha256:d215f7b58960f8c6f31a17d1e5e2d443033a29c244395f5a3dee8471a86c5d31"
+		},
+		{
+			"file": "AltIII/AltIII LoungeLizard/BurnLounge.avs",
+			"size": 2457,
+			"checksum": "sha256:e834984d862852115b1a3759e670e8005e8e2d207797eba789747b364470f905"
+		},
+		{
+			"file": "AltIII/AltIII LoungeLizard/CloveLounge.avs",
+			"size": 2457,
+			"checksum": "sha256:e834984d862852115b1a3759e670e8005e8e2d207797eba789747b364470f905"
+		},
+		{
+			"file": "AltIII/AltIII LoungeLizard/MercuryLounge.avs",
+			"size": 1271,
+			"checksum": "sha256:16cf0011a51d5874b2f4f71eb5f2d1ee66b592b1c0f3c6a87a624b80acb86278"
+		},
+		{
+			"file": "AltIII/AltIII LoungeLizard/shinylounge.avs",
+			"size": 1902,
+			"checksum": "sha256:f9ceef3bd62afc2fbf820871879585f3f36a377d10bb01d685a36b2498b24136"
+		},
+		{
+			"file": "AltIII/AltIII LoungeLizard/SmokeLounge.avs",
+			"size": 1930,
+			"checksum": "sha256:2e80fcc8cfbbef5b7710e1e873438bac8902e90980580158d9939e6be41c54e9"
+		},
+		{
+			"file": "AltIII/AltIII LoungeLizard/tissue.avs",
+			"size": 2086,
+			"checksum": "sha256:f1fa3626f3e61960dc17d999af781b918c0f68beba9207a6ee2bdd18535fc890"
+		},
+		{
+			"file": "AltIII/AltIII LoungeLizard/zebralounge.avs",
+			"size": 1170,
+			"checksum": "sha256:77731bbaaef0d5fd37a1d2d9841783d2a59ed4a7c3cc16440a589b7aacf8cfd5"
+		}
+	],
+	"plugins": []
 }

@@ -1,32 +1,29 @@
 {
-    "name": "whyEye.org x5ep",
-    "id": "VB180-1",
-    "presets": [
-        {
-            "file": "whyEye.org/whyEye.org x5ep/yiA1 zamuz - clothing lines (early remix version).avs",
-            "size": 3806,
-            "checksum": "sha256:4a81b90f37f82022712f2fd59e1dfc682e165ec733050b458a8e5738429bfcac"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x5ep/yiB1 yathosho - anja ruta (ugly edit #2).avs",
-            "size": 3213,
-            "checksum": "sha256:7c0df7b019653e7566722f8ad88fc99645fef1b41fc16f2623ff21dee9fd952a"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x5ep/yiB2 mykal - basking in the barrel (yathosho's oldskool twist #2).avs",
-            "size": 10875,
-            "checksum": "sha256:cc109ad64bcaf20a92fb2d428309ab2fe270e77b20d93ad9cea4e6699d7dda5a"
-        }
-    ],
-    "assets": [
-        {
-            "file": "mykaL_03.bmp",
-            "size": 51014,
-            "checksum": "sha256:dcc7a5e311ece39675e6f37f057228f31c3a17f3ad85b8cb24c361169e8b115f"
-        }
-    ],
-    "plugins": [
-        "BufferBlend",
-        "ConvolutionFilter"
-    ]
+	"name": "whyEye.org x5ep",
+	"id": "VB180-1",
+	"presets": [
+		{
+			"file": "whyEye.org/whyEye.org x5ep/yiA1 zamuz - clothing lines (early remix version).avs",
+			"size": 3806,
+			"checksum": "sha256:4a81b90f37f82022712f2fd59e1dfc682e165ec733050b458a8e5738429bfcac"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x5ep/yiB1 yathosho - anja ruta (ugly edit #2).avs",
+			"size": 3213,
+			"checksum": "sha256:7c0df7b019653e7566722f8ad88fc99645fef1b41fc16f2623ff21dee9fd952a"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x5ep/yiB2 mykal - basking in the barrel (yathosho's oldskool twist #2).avs",
+			"size": 10875,
+			"checksum": "sha256:cc109ad64bcaf20a92fb2d428309ab2fe270e77b20d93ad9cea4e6699d7dda5a"
+		}
+	],
+	"assets": [
+		{
+			"file": "mykaL_03.bmp",
+			"size": 51014,
+			"checksum": "sha256:dcc7a5e311ece39675e6f37f057228f31c3a17f3ad85b8cb24c361169e8b115f"
+		}
+	],
+	"plugins": ["BufferBlend", "ConvolutionFilter"]
 }

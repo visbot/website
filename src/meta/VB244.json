@@ -1,28 +1,24 @@
 {
-    "name": "DDinJP",
-    "id": "VB244",
-    "presets": [
-        {
-            "file": "Dynamic Duo/DDinJP/ddA__delirium 2.avs",
-            "size": 10882,
-            "checksum": "sha256:ef13f05fb640ed5c0c308c3e5ad6d056d034693d86f8c858f7b6c7ac5923f677"
-        },
-        {
-            "file": "Dynamic Duo/DDinJP/ddB__pit (live from lakehurst).avs",
-            "size": 2937,
-            "checksum": "sha256:b1f0d1769a351ce10e809aea482b2172d70c33a9fc4046ec2bc7ce0ca13f9812"
-        }
-    ],
-    "assets": [
-        {
-            "file": "skupers_lp6_02.bmp",
-            "size": 10856,
-            "checksum": "sha256:aaeb13486d7082c888a556012a3ea574dc4c651b01510ae9722a1ce184f8fd03"
-        }
-    ],
-    "plugins": [
-        "ColorMap",
-        "ConvolutionFilter",
-        "Texer2"
-    ]
+	"name": "DDinJP",
+	"id": "VB244",
+	"presets": [
+		{
+			"file": "Dynamic Duo/DDinJP/ddA__delirium 2.avs",
+			"size": 10882,
+			"checksum": "sha256:ef13f05fb640ed5c0c308c3e5ad6d056d034693d86f8c858f7b6c7ac5923f677"
+		},
+		{
+			"file": "Dynamic Duo/DDinJP/ddB__pit (live from lakehurst).avs",
+			"size": 2937,
+			"checksum": "sha256:b1f0d1769a351ce10e809aea482b2172d70c33a9fc4046ec2bc7ce0ca13f9812"
+		}
+	],
+	"assets": [
+		{
+			"file": "skupers_lp6_02.bmp",
+			"size": 10856,
+			"checksum": "sha256:aaeb13486d7082c888a556012a3ea574dc4c651b01510ae9722a1ce184f8fd03"
+		}
+	],
+	"plugins": ["ColorMap", "ConvolutionFilter", "Texer2"]
 }

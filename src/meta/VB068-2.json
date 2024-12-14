@@ -1,107 +1,104 @@
 {
-    "name": "zamuz - revisions v2",
-    "id": "VB068-2",
-    "presets": [
-        {
-            "file": "Zamuz/zamuz - revisions v2/01 - zamuz - winter desktop.avs",
-            "size": 2968,
-            "checksum": "sha256:d663bafeb346d6d5e562610056779e7b61679d3fa6b6eebf8d01379cc68e8aa9"
-        },
-        {
-            "file": "Zamuz/zamuz - revisions v2/02 - skupers - soundprinting (jamaica remix).avs",
-            "size": 3399,
-            "checksum": "sha256:f3adb53fee51919a5989adec4db3f899896464b04d232c3f56e4af52c62778e1"
-        },
-        {
-            "file": "Zamuz/zamuz - revisions v2/03 - les noobiens - bitflow.avs",
-            "size": 1426,
-            "checksum": "sha256:b518fd0bebf4b059de48028bb5633981c59e7a48080de6350541ecdc335e2328"
-        },
-        {
-            "file": "Zamuz/zamuz - revisions v2/04 - marco - intro (marco vs levitated.net).avs",
-            "size": 3849,
-            "checksum": "sha256:de451e91d18a2fd6080098eae7e3a785c9b32381f64e1e44508460bc1c600855"
-        },
-        {
-            "file": "Zamuz/zamuz - revisions v2/05 - raz - particular (remix).avs",
-            "size": 3522,
-            "checksum": "sha256:61ab6ab8278a153a8f5727047b79a3c99be542ab0e34fc1cd6e482e426ae0ad1"
-        },
-        {
-            "file": "Zamuz/zamuz - revisions v2/06 - zamuz - intwo.avs",
-            "size": 5079,
-            "checksum": "sha256:8c635476281f27edf526881d5442cf60e16e82869df4cfc5388b09ee738e178e"
-        },
-        {
-            "file": "Zamuz/zamuz - revisions v2/07 - skupers - metallic flow (nature remix).avs",
-            "size": 2269,
-            "checksum": "sha256:139b6a2bab575fe5dd09d67991501eb47aa6229f3fd46bfe006b9341e4c75f9e"
-        },
-        {
-            "file": "Zamuz/zamuz - revisions v2/08 - pure-krypton - minimal (goin' large remix).avs",
-            "size": 4252,
-            "checksum": "sha256:0d7f735feb8be79ea916f16c0fc7a0f1fbce415fb2e44bd6fdadf9e05bfcb599"
-        },
-        {
-            "file": "Zamuz/zamuz - revisions v2/09 - yathosho - smoophment.avs",
-            "size": 1404,
-            "checksum": "sha256:576c9e35511605b3f2fcf6299e741e3143acc1b32f79bc503ffce8afd27bef7c"
-        },
-        {
-            "file": "Zamuz/zamuz - revisions v2/10 - dynamic duo - blocksoup.avs",
-            "size": 2536,
-            "checksum": "sha256:9226a6ae1309bd5c7b047aca4482be3cfb088dc3aa3bedef156420945538a602"
-        },
-        {
-            "file": "Zamuz/zamuz - revisions v2/11 - raz - milky dream (remix).avs",
-            "size": 3748,
-            "checksum": "sha256:560bb4781f064b1b939262a7a35cdec486f92e20e15ad881e387ac4c23605478"
-        },
-        {
-            "file": "Zamuz/zamuz - revisions v2/12 - skupers - kaleidoscopic architecture (bend of bay remix).avs",
-            "size": 3181,
-            "checksum": "sha256:17f69f14dbe8147d2a978537524809474f34e0a8536a6d2600a14588494a64ba"
-        },
-        {
-            "file": "Zamuz/zamuz - revisions v2/13 - zamuz - bleeding glass.avs",
-            "size": 3354,
-            "checksum": "sha256:4e52322e0599b2203d16087f006cdeea05fdbcbdbb91c8c3b369da398ab249c9"
-        },
-        {
-            "file": "Zamuz/zamuz - revisions v2/14 - skupers - metallic flow (urban remix).avs",
-            "size": 4167,
-            "checksum": "sha256:d274fe1c0886a3e55c5a3c2784c4fede0c3c12016748c796f35e12c42d0797e6"
-        },
-        {
-            "file": "Zamuz/zamuz - revisions v2/15 - tuggummi - milky dream (vagina wind remix).avs",
-            "size": 2861,
-            "checksum": "sha256:b3ac54bc6d84a6834d267fc9d6ec34a1115b209a2e9452ca2b9f1d8d9eb37b7b"
-        },
-        {
-            "file": "Zamuz/zamuz - revisions v2/16 - yathosho - nuskool shit (v.i.p.).avs",
-            "size": 2330,
-            "checksum": "sha256:1e0bd621e19616392dc12e9b967f51c68e9ef69b1c80999e90450c9f1933f2f9"
-        },
-        {
-            "file": "Zamuz/zamuz - revisions v2/17 - dynamic duo - bumpy carpet (photon redesign re-re-edit).avs",
-            "size": 3391,
-            "checksum": "sha256:cc666ca45d6ff14ff0349e9bc76c4c8c561e11c68bd8234221856ba95f960e85"
-        },
-        {
-            "file": "Zamuz/zamuz - revisions v2/18 - raz - blood, snow and sky (remix).avs",
-            "size": 3717,
-            "checksum": "sha256:01e0d8f29b913809c79ae987c746d598af308f32891e01e14ad2a301a2492bd1"
-        }
-    ],
-    "assets": [
-        {
-            "file": "Zmzv3_texer.bmp",
-            "size": 9358,
-            "checksum": "sha256:5ad9c1c53613ebab4374722917a99ddcf61bb05b435e95531e4048ed5281eaec"
-        }
-    ],
-    "plugins": [
-        "BufferBlend",
-        "ConvolutionFilter"
-    ]
+	"name": "zamuz - revisions v2",
+	"id": "VB068-2",
+	"presets": [
+		{
+			"file": "Zamuz/zamuz - revisions v2/01 - zamuz - winter desktop.avs",
+			"size": 2968,
+			"checksum": "sha256:d663bafeb346d6d5e562610056779e7b61679d3fa6b6eebf8d01379cc68e8aa9"
+		},
+		{
+			"file": "Zamuz/zamuz - revisions v2/02 - skupers - soundprinting (jamaica remix).avs",
+			"size": 3399,
+			"checksum": "sha256:f3adb53fee51919a5989adec4db3f899896464b04d232c3f56e4af52c62778e1"
+		},
+		{
+			"file": "Zamuz/zamuz - revisions v2/03 - les noobiens - bitflow.avs",
+			"size": 1426,
+			"checksum": "sha256:b518fd0bebf4b059de48028bb5633981c59e7a48080de6350541ecdc335e2328"
+		},
+		{
+			"file": "Zamuz/zamuz - revisions v2/04 - marco - intro (marco vs levitated.net).avs",
+			"size": 3849,
+			"checksum": "sha256:de451e91d18a2fd6080098eae7e3a785c9b32381f64e1e44508460bc1c600855"
+		},
+		{
+			"file": "Zamuz/zamuz - revisions v2/05 - raz - particular (remix).avs",
+			"size": 3522,
+			"checksum": "sha256:61ab6ab8278a153a8f5727047b79a3c99be542ab0e34fc1cd6e482e426ae0ad1"
+		},
+		{
+			"file": "Zamuz/zamuz - revisions v2/06 - zamuz - intwo.avs",
+			"size": 5079,
+			"checksum": "sha256:8c635476281f27edf526881d5442cf60e16e82869df4cfc5388b09ee738e178e"
+		},
+		{
+			"file": "Zamuz/zamuz - revisions v2/07 - skupers - metallic flow (nature remix).avs",
+			"size": 2269,
+			"checksum": "sha256:139b6a2bab575fe5dd09d67991501eb47aa6229f3fd46bfe006b9341e4c75f9e"
+		},
+		{
+			"file": "Zamuz/zamuz - revisions v2/08 - pure-krypton - minimal (goin' large remix).avs",
+			"size": 4252,
+			"checksum": "sha256:0d7f735feb8be79ea916f16c0fc7a0f1fbce415fb2e44bd6fdadf9e05bfcb599"
+		},
+		{
+			"file": "Zamuz/zamuz - revisions v2/09 - yathosho - smoophment.avs",
+			"size": 1404,
+			"checksum": "sha256:576c9e35511605b3f2fcf6299e741e3143acc1b32f79bc503ffce8afd27bef7c"
+		},
+		{
+			"file": "Zamuz/zamuz - revisions v2/10 - dynamic duo - blocksoup.avs",
+			"size": 2536,
+			"checksum": "sha256:9226a6ae1309bd5c7b047aca4482be3cfb088dc3aa3bedef156420945538a602"
+		},
+		{
+			"file": "Zamuz/zamuz - revisions v2/11 - raz - milky dream (remix).avs",
+			"size": 3748,
+			"checksum": "sha256:560bb4781f064b1b939262a7a35cdec486f92e20e15ad881e387ac4c23605478"
+		},
+		{
+			"file": "Zamuz/zamuz - revisions v2/12 - skupers - kaleidoscopic architecture (bend of bay remix).avs",
+			"size": 3181,
+			"checksum": "sha256:17f69f14dbe8147d2a978537524809474f34e0a8536a6d2600a14588494a64ba"
+		},
+		{
+			"file": "Zamuz/zamuz - revisions v2/13 - zamuz - bleeding glass.avs",
+			"size": 3354,
+			"checksum": "sha256:4e52322e0599b2203d16087f006cdeea05fdbcbdbb91c8c3b369da398ab249c9"
+		},
+		{
+			"file": "Zamuz/zamuz - revisions v2/14 - skupers - metallic flow (urban remix).avs",
+			"size": 4167,
+			"checksum": "sha256:d274fe1c0886a3e55c5a3c2784c4fede0c3c12016748c796f35e12c42d0797e6"
+		},
+		{
+			"file": "Zamuz/zamuz - revisions v2/15 - tuggummi - milky dream (vagina wind remix).avs",
+			"size": 2861,
+			"checksum": "sha256:b3ac54bc6d84a6834d267fc9d6ec34a1115b209a2e9452ca2b9f1d8d9eb37b7b"
+		},
+		{
+			"file": "Zamuz/zamuz - revisions v2/16 - yathosho - nuskool shit (v.i.p.).avs",
+			"size": 2330,
+			"checksum": "sha256:1e0bd621e19616392dc12e9b967f51c68e9ef69b1c80999e90450c9f1933f2f9"
+		},
+		{
+			"file": "Zamuz/zamuz - revisions v2/17 - dynamic duo - bumpy carpet (photon redesign re-re-edit).avs",
+			"size": 3391,
+			"checksum": "sha256:cc666ca45d6ff14ff0349e9bc76c4c8c561e11c68bd8234221856ba95f960e85"
+		},
+		{
+			"file": "Zamuz/zamuz - revisions v2/18 - raz - blood, snow and sky (remix).avs",
+			"size": 3717,
+			"checksum": "sha256:01e0d8f29b913809c79ae987c746d598af308f32891e01e14ad2a301a2492bd1"
+		}
+	],
+	"assets": [
+		{
+			"file": "Zmzv3_texer.bmp",
+			"size": 9358,
+			"checksum": "sha256:5ad9c1c53613ebab4374722917a99ddcf61bb05b435e95531e4048ed5281eaec"
+		}
+	],
+	"plugins": ["BufferBlend", "ConvolutionFilter"]
 }

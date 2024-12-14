@@ -1,104 +1,99 @@
 {
-    "name": "VISBOT Twopointoh",
-    "id": "VC013",
-    "presets": [
-        {
-            "file": "VISBOT/VC013 Twopointoh/01 duo - cafe de duo (vanish's golden edit).avs",
-            "size": 3827,
-            "checksum": "sha256:2eb34839cd9a81ce0809d9fcaf42f5e872ac5973004f8561bacaa4d00eaac223"
-        },
-        {
-            "file": "VISBOT/VC013 Twopointoh/02 frames-of-reality - nemo tm02.avs",
-            "size": 7869,
-            "checksum": "sha256:385a9d10188e192dc02f8302fc7468429ab882cd6b586351391cc5c792b8644f"
-        },
-        {
-            "file": "VISBOT/VC013 Twopointoh/03 vanish - squared static iteration.avs",
-            "size": 1944,
-            "checksum": "sha256:ce5b4c461fb7ad39e63cd9abf1b2fe854fd218b8eac7fd88d78ecb4530c3d56b"
-        },
-        {
-            "file": "VISBOT/VC013 Twopointoh/04 dynamic duo - honeybunch (hboy in the mutant bee hive).avs",
-            "size": 3100,
-            "checksum": "sha256:7e81e3cc72ba56c3bdb1f33a7866627f7a11d35d745448eab5c1ba23945fa0fe"
-        },
-        {
-            "file": "VISBOT/VC013 Twopointoh/05 amphirion- abstrkt fundamentals.avs",
-            "size": 10255,
-            "checksum": "sha256:8872d732e1ca359f42600cf6b1adcbe4807b90220ff83895c93f51e570dae28a"
-        },
-        {
-            "file": "VISBOT/VC013 Twopointoh/06 javs - holy stardust.avs",
-            "size": 5701,
-            "checksum": "sha256:8ece3b0913310a7d286c9c3c6064b3977c41567bc5f22fc296f7e00cd1b03c76"
-        },
-        {
-            "file": "VISBOT/VC013 Twopointoh/07 yathosho - respiced (frames-of-reality's retarded rmx).avs",
-            "size": 1490,
-            "checksum": "sha256:86f19d944caf21398bf57772884a8872a9cf0fc8f32104dc4f6b941a1be36bee"
-        },
-        {
-            "file": "VISBOT/VC013 Twopointoh/08 vanish - nuclear sky of summer 2007.avs",
-            "size": 4958,
-            "checksum": "sha256:6edd763a371ad834362252ce73fb31a1a32d350d8874feb6d939b8d474ab0c78"
-        },
-        {
-            "file": "VISBOT/VC013 Twopointoh/09 frames-of-reality - orange kit.avs",
-            "size": 3369,
-            "checksum": "sha256:2cc9f47caef359eefa8855aa2c45e553896486ee164ff0d85dfb5c7ca93068e3"
-        },
-        {
-            "file": "VISBOT/VC013 Twopointoh/10 hboy - paranormality (javs's tablecloth remix).avs",
-            "size": 17622,
-            "checksum": "sha256:9f25d1677532dc3df6e2dc2c1ec7c37ab68bbd588c353fd8bcbec363ccf5779b"
-        },
-        {
-            "file": "VISBOT/VC013 Twopointoh/11 skupers - silkyworm (amphirious remix).avs",
-            "size": 5260,
-            "checksum": "sha256:3e0a1a78268f1607a3d1be2b937dcc68157261c15cde88951e7e3cb611fc5560"
-        },
-        {
-            "file": "VISBOT/VC013 Twopointoh/12 amphirion - inversed kinetics.avs",
-            "size": 5641,
-            "checksum": "sha256:a148082ea956bcc5751a09c623e85f10fddc0e94f08d5871087ffaa56463c53e"
-        },
-        {
-            "file": "VISBOT/VC013 Twopointoh/13 hboy - the synergy of sound and vision.avs",
-            "size": 52348,
-            "checksum": "sha256:af92766b80229a54e6bb2b6d1659f62ed3e8de1faf944328fe6bcd3eeaa9dc36"
-        }
-    ],
-    "assets": [
-        {
-            "file": "avsres_texer_circle_edgeonly_25x25.bmp",
-            "size": 1954,
-            "checksum": "sha256:d4cdad41bf5da63e0d560babcc22cd07665f6e7d2d23d5ac5b4ce66d0542bbfa"
-        },
-        {
-            "file": "avsres_texer_circle_heavyblur_19x19.bmp",
-            "size": 1194,
-            "checksum": "sha256:e6a52ec2f27513918744c31b5d10dac12767d426bf7d1709eed5197a86fb33e7"
-        },
-        {
-            "file": "avsres_texer_circle_heavyblur_29x29.bmp",
-            "size": 2606,
-            "checksum": "sha256:f774cf10d56275d629f321163dbc610fee02b0e892c9065b0931564240bf078d"
-        },
-        {
-            "file": "avsres_texer_circle_sharp_17x17.bmp",
-            "size": 1194,
-            "checksum": "sha256:31d52f73c76abfe7928248f3531a8eb77fdcbc48e398797d16ec183d0389c5db"
-        },
-        {
-            "file": "avsres_texer_square_sharp_20x20.bmp",
-            "size": 1782,
-            "checksum": "sha256:bcf774b1520e3314da459eb50c9b597531d783c20b48abd5f1ba91641f3169c6"
-        }
-    ],
-    "plugins": [
-        "AddBorder",
-        "ConvolutionFilter",
-        "GlobalVarMan",
-        "MultiFilter"
-    ]
+	"name": "VISBOT Twopointoh",
+	"id": "VC013",
+	"presets": [
+		{
+			"file": "VISBOT/VC013 Twopointoh/01 duo - cafe de duo (vanish's golden edit).avs",
+			"size": 3827,
+			"checksum": "sha256:2eb34839cd9a81ce0809d9fcaf42f5e872ac5973004f8561bacaa4d00eaac223"
+		},
+		{
+			"file": "VISBOT/VC013 Twopointoh/02 frames-of-reality - nemo tm02.avs",
+			"size": 7869,
+			"checksum": "sha256:385a9d10188e192dc02f8302fc7468429ab882cd6b586351391cc5c792b8644f"
+		},
+		{
+			"file": "VISBOT/VC013 Twopointoh/03 vanish - squared static iteration.avs",
+			"size": 1944,
+			"checksum": "sha256:ce5b4c461fb7ad39e63cd9abf1b2fe854fd218b8eac7fd88d78ecb4530c3d56b"
+		},
+		{
+			"file": "VISBOT/VC013 Twopointoh/04 dynamic duo - honeybunch (hboy in the mutant bee hive).avs",
+			"size": 3100,
+			"checksum": "sha256:7e81e3cc72ba56c3bdb1f33a7866627f7a11d35d745448eab5c1ba23945fa0fe"
+		},
+		{
+			"file": "VISBOT/VC013 Twopointoh/05 amphirion- abstrkt fundamentals.avs",
+			"size": 10255,
+			"checksum": "sha256:8872d732e1ca359f42600cf6b1adcbe4807b90220ff83895c93f51e570dae28a"
+		},
+		{
+			"file": "VISBOT/VC013 Twopointoh/06 javs - holy stardust.avs",
+			"size": 5701,
+			"checksum": "sha256:8ece3b0913310a7d286c9c3c6064b3977c41567bc5f22fc296f7e00cd1b03c76"
+		},
+		{
+			"file": "VISBOT/VC013 Twopointoh/07 yathosho - respiced (frames-of-reality's retarded rmx).avs",
+			"size": 1490,
+			"checksum": "sha256:86f19d944caf21398bf57772884a8872a9cf0fc8f32104dc4f6b941a1be36bee"
+		},
+		{
+			"file": "VISBOT/VC013 Twopointoh/08 vanish - nuclear sky of summer 2007.avs",
+			"size": 4958,
+			"checksum": "sha256:6edd763a371ad834362252ce73fb31a1a32d350d8874feb6d939b8d474ab0c78"
+		},
+		{
+			"file": "VISBOT/VC013 Twopointoh/09 frames-of-reality - orange kit.avs",
+			"size": 3369,
+			"checksum": "sha256:2cc9f47caef359eefa8855aa2c45e553896486ee164ff0d85dfb5c7ca93068e3"
+		},
+		{
+			"file": "VISBOT/VC013 Twopointoh/10 hboy - paranormality (javs's tablecloth remix).avs",
+			"size": 17622,
+			"checksum": "sha256:9f25d1677532dc3df6e2dc2c1ec7c37ab68bbd588c353fd8bcbec363ccf5779b"
+		},
+		{
+			"file": "VISBOT/VC013 Twopointoh/11 skupers - silkyworm (amphirious remix).avs",
+			"size": 5260,
+			"checksum": "sha256:3e0a1a78268f1607a3d1be2b937dcc68157261c15cde88951e7e3cb611fc5560"
+		},
+		{
+			"file": "VISBOT/VC013 Twopointoh/12 amphirion - inversed kinetics.avs",
+			"size": 5641,
+			"checksum": "sha256:a148082ea956bcc5751a09c623e85f10fddc0e94f08d5871087ffaa56463c53e"
+		},
+		{
+			"file": "VISBOT/VC013 Twopointoh/13 hboy - the synergy of sound and vision.avs",
+			"size": 52348,
+			"checksum": "sha256:af92766b80229a54e6bb2b6d1659f62ed3e8de1faf944328fe6bcd3eeaa9dc36"
+		}
+	],
+	"assets": [
+		{
+			"file": "avsres_texer_circle_edgeonly_25x25.bmp",
+			"size": 1954,
+			"checksum": "sha256:d4cdad41bf5da63e0d560babcc22cd07665f6e7d2d23d5ac5b4ce66d0542bbfa"
+		},
+		{
+			"file": "avsres_texer_circle_heavyblur_19x19.bmp",
+			"size": 1194,
+			"checksum": "sha256:e6a52ec2f27513918744c31b5d10dac12767d426bf7d1709eed5197a86fb33e7"
+		},
+		{
+			"file": "avsres_texer_circle_heavyblur_29x29.bmp",
+			"size": 2606,
+			"checksum": "sha256:f774cf10d56275d629f321163dbc610fee02b0e892c9065b0931564240bf078d"
+		},
+		{
+			"file": "avsres_texer_circle_sharp_17x17.bmp",
+			"size": 1194,
+			"checksum": "sha256:31d52f73c76abfe7928248f3531a8eb77fdcbc48e398797d16ec183d0389c5db"
+		},
+		{
+			"file": "avsres_texer_square_sharp_20x20.bmp",
+			"size": 1782,
+			"checksum": "sha256:bcf774b1520e3314da459eb50c9b597531d783c20b48abd5f1ba91641f3169c6"
+		}
+	],
+	"plugins": ["AddBorder", "ConvolutionFilter", "GlobalVarMan", "MultiFilter"]
 }

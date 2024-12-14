@@ -44,13 +44,16 @@ async function trackDownload(url) {
 	const GA_MEASUREMENT_ID = process.env.GA_MEASUREMENT_ID;
 	const GA_API_SECRET = process.env.GA_API_SECRET;
 
-	await fetch(`https://www.google-analytics.com/mp/collect?measurement_id=${GA_MEASUREMENT_ID}&api_secret=${GA_API_SECRET}`, {
-		method: 'POST',
-		body: JSON.stringify({
-			client_id: clientId,
-			events: [eventProperties]
-		})
-	});
+	await fetch(
+		`https://www.google-analytics.com/mp/collect?measurement_id=${GA_MEASUREMENT_ID}&api_secret=${GA_API_SECRET}`,
+		{
+			method: 'POST',
+			body: JSON.stringify({
+				client_id: clientId,
+				events: [eventProperties]
+			})
+		}
+	);
 }
 
 function getFile(rawUrl: string): string {

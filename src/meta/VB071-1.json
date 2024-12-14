@@ -1,29 +1,27 @@
 {
-    "name": "whyEye.org minidisko remixes pt. 1",
-    "id": "VB071-1",
-    "presets": [
-        {
-            "file": "whyEye.org/whyEye.org minidisko remixes/yiA1__minidisko (fragmer's chicken-in-the-box).avs",
-            "size": 2956,
-            "checksum": "sha256:acb7c6e6083c148b6281770a9483944fc659010a897b2f5c0468f4a37b39f59f"
-        },
-        {
-            "file": "whyEye.org/whyEye.org minidisko remixes/yiA2__minidisko (raz remix).avs",
-            "size": 1574,
-            "checksum": "sha256:cda0f95005eb4beb757ba89c1b1d864db110e1d90eda012a1cbca03f3a375ef8"
-        },
-        {
-            "file": "whyEye.org/whyEye.org minidisko remixes/yiB1__minidisko (onionring's chainlink mix).avs",
-            "size": 1326,
-            "checksum": "sha256:711b087e4ba399fee891aef0f78cb68c16192420b7bdadc69c7da4af9731c39c"
-        },
-        {
-            "file": "whyEye.org/whyEye.org minidisko remixes/yiB2__minidisko (montana's spoon mix).avs",
-            "size": 2334,
-            "checksum": "sha256:f6c7cb4d70afc64b9c102ed93ea55da7888b10dbc3b15185c88ba399be8be525"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "whyEye.org minidisko remixes pt. 1",
+	"id": "VB071-1",
+	"presets": [
+		{
+			"file": "whyEye.org/whyEye.org minidisko remixes/yiA1__minidisko (fragmer's chicken-in-the-box).avs",
+			"size": 2956,
+			"checksum": "sha256:acb7c6e6083c148b6281770a9483944fc659010a897b2f5c0468f4a37b39f59f"
+		},
+		{
+			"file": "whyEye.org/whyEye.org minidisko remixes/yiA2__minidisko (raz remix).avs",
+			"size": 1574,
+			"checksum": "sha256:cda0f95005eb4beb757ba89c1b1d864db110e1d90eda012a1cbca03f3a375ef8"
+		},
+		{
+			"file": "whyEye.org/whyEye.org minidisko remixes/yiB1__minidisko (onionring's chainlink mix).avs",
+			"size": 1326,
+			"checksum": "sha256:711b087e4ba399fee891aef0f78cb68c16192420b7bdadc69c7da4af9731c39c"
+		},
+		{
+			"file": "whyEye.org/whyEye.org minidisko remixes/yiB2__minidisko (montana's spoon mix).avs",
+			"size": 2334,
+			"checksum": "sha256:f6c7cb4d70afc64b9c102ed93ea55da7888b10dbc3b15185c88ba399be8be525"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

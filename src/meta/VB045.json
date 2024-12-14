@@ -1,29 +1,27 @@
 {
-    "name": "les Noobiens Noob it!",
-    "id": "VB045",
-    "presets": [
-        {
-            "file": "les Noobiens/les Noobiens Noob it!/lNa1 - weebly (v.i.p.).avs",
-            "size": 2141,
-            "checksum": "sha256:07eb3f98a55a1a0fb6151a32c7932fe935efff910651ae4baa62beb9a7a8dd05"
-        },
-        {
-            "file": "les Noobiens/les Noobiens Noob it!/lNa2 - back to cursor (skupers the perfect beat remix).avs",
-            "size": 2871,
-            "checksum": "sha256:938329696f559c9ba585645c286a5b980fcd8883ae5b4581c6b6fc57eea91bf8"
-        },
-        {
-            "file": "les Noobiens/les Noobiens Noob it!/lNb1 - the allnighter (skupers networking remix).avs",
-            "size": 3559,
-            "checksum": "sha256:47020d0bcb4547c691688223901eb25f6749d1e1b7300d9d51e0f6f23e671002"
-        },
-        {
-            "file": "les Noobiens/les Noobiens Noob it!/lNb2 - pünktchen und anton (reliefski miks).avs",
-            "size": 1939,
-            "checksum": "sha256:7765b05f5c56ae5977467d5fc1dabe0511ceeb0d3274415e984dbd18d17034b4"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "les Noobiens Noob it!",
+	"id": "VB045",
+	"presets": [
+		{
+			"file": "les Noobiens/les Noobiens Noob it!/lNa1 - weebly (v.i.p.).avs",
+			"size": 2141,
+			"checksum": "sha256:07eb3f98a55a1a0fb6151a32c7932fe935efff910651ae4baa62beb9a7a8dd05"
+		},
+		{
+			"file": "les Noobiens/les Noobiens Noob it!/lNa2 - back to cursor (skupers the perfect beat remix).avs",
+			"size": 2871,
+			"checksum": "sha256:938329696f559c9ba585645c286a5b980fcd8883ae5b4581c6b6fc57eea91bf8"
+		},
+		{
+			"file": "les Noobiens/les Noobiens Noob it!/lNb1 - the allnighter (skupers networking remix).avs",
+			"size": 3559,
+			"checksum": "sha256:47020d0bcb4547c691688223901eb25f6749d1e1b7300d9d51e0f6f23e671002"
+		},
+		{
+			"file": "les Noobiens/les Noobiens Noob it!/lNb2 - pünktchen und anton (reliefski miks).avs",
+			"size": 1939,
+			"checksum": "sha256:7765b05f5c56ae5977467d5fc1dabe0511ceeb0d3274415e984dbd18d17034b4"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

@@ -1,168 +1,164 @@
 {
-    "name": "VISBOT The Second Season",
-    "id": "VC005",
-    "presets": [
-        {
-            "file": "VISBOT/VC005 The Second Season/01 duo - intro.avs",
-            "size": 5274,
-            "checksum": "sha256:9bb42b09bbb03c7413409bac5dad6b842172f71db6e744634190d8e0e605294e"
-        },
-        {
-            "file": "VISBOT/VC005 The Second Season/02 nemoorange - flush.avs",
-            "size": 34129,
-            "checksum": "sha256:c75f469fcf5620e7272f06e730f65498d1bf16b4c66d24d12403e1aad0b7c045"
-        },
-        {
-            "file": "VISBOT/VC005 The Second Season/03 zamuz - heart dynamics.avs",
-            "size": 4959,
-            "checksum": "sha256:6e381fa6ceb7b59190bb0a2ce930c2c1b752d13869dfa0dad5f5031c6bb914e8"
-        },
-        {
-            "file": "VISBOT/VC005 The Second Season/04 shock value - summer spectrometer.avs",
-            "size": 7611,
-            "checksum": "sha256:fc9a1f8bf17952ed5f8686dd3c340da511ef0092541b68e3fc0275d34777e155"
-        },
-        {
-            "file": "VISBOT/VC005 The Second Season/05 yathosho - 2phuture (part one).avs",
-            "size": 1525,
-            "checksum": "sha256:d527d023becd53ef3eec539d0f69e06824960b369c040a1b98c6872d1bd594cf"
-        },
-        {
-            "file": "VISBOT/VC005 The Second Season/06 skupers - silkyworm (nemoorange remix).avs",
-            "size": 2034,
-            "checksum": "sha256:52b2c8e2fd6bf4e6181c5a4151be7415f4a0b397cb2e09535225058bcd577419"
-        },
-        {
-            "file": "VISBOT/VC005 The Second Season/07 duamic dyno - incessant.avs",
-            "size": 4128,
-            "checksum": "sha256:d8b6c3caa4b41eb111bdf627ab0d38fa0402accfc36f5300f18389791c0336c2"
-        },
-        {
-            "file": "VISBOT/VC005 The Second Season/08 duo - candyland.avs",
-            "size": 3429,
-            "checksum": "sha256:e553bf3f7da8eec33275568c24dadc26b69ed5eecadf6dfbd35ea845d827b2bf"
-        },
-        {
-            "file": "VISBOT/VC005 The Second Season/09 zamuz - sangre (pure-krypton's caramel rmx).avs",
-            "size": 4566,
-            "checksum": "sha256:a4523b79921aacefad58878dd3fc9a28548baf4aa12d4425eaed2554c85be25e"
-        },
-        {
-            "file": "VISBOT/VC005 The Second Season/10 skupers - dual flow (shock value's neon zebra remix).avs",
-            "size": 5359,
-            "checksum": "sha256:5e2427266125af571e6dfa9dda7c16893a8f7cafd986481ee21c9d89a65587cd"
-        },
-        {
-            "file": "VISBOT/VC005 The Second Season/11 les Noobiens - t-error.avs",
-            "size": 1535,
-            "checksum": "sha256:148fa5a5d9d894be2e5198e8489e907caeed3ff2745ea78a4d5f7ff2755014a0"
-        },
-        {
-            "file": "VISBOT/VC005 The Second Season/12 skupers - blood of the innocent.avs",
-            "size": 3086,
-            "checksum": "sha256:00452e46bd93cb59f95208e26edbda0ae745bcc1debcaa348087d6cb5ade155c"
-        },
-        {
-            "file": "VISBOT/VC005 The Second Season/13 duo - the g spot.avs",
-            "size": 4839,
-            "checksum": "sha256:955aacf9bc6e88c9c2947392ba1b6834b022a961ea1446e2f84012d311eeb6cc"
-        },
-        {
-            "file": "VISBOT/VC005 The Second Season/14 nemoorange - not pikasso.avs",
-            "size": 2988,
-            "checksum": "sha256:2327ea31138dfcec6468286ac204cc01d2ddd900c248c5f28964dfa95040cc54"
-        },
-        {
-            "file": "VISBOT/VC005 The Second Season/15 a3 - fuk dms (les Noobiens rework).avs",
-            "size": 1963,
-            "checksum": "sha256:49b7bebd346b58b8e5840cebf38c2251cbb1d43fd83e20351d9da2113263007d"
-        },
-        {
-            "file": "VISBOT/VC005 The Second Season/16 shock value - throbbing circuitry.avs",
-            "size": 16865,
-            "checksum": "sha256:dc57fd70aa594ea297e0c1b090eda355e92fc801f38e720c8aa9da4564a6935d"
-        },
-        {
-            "file": "VISBOT/VC005 The Second Season/17 dynamic duo - the crossing.avs",
-            "size": 1372,
-            "checksum": "sha256:a13fe1c05fd87ce3ab21a8bd09a9d09f1c2ca3ec6839649c93078d79666f2041"
-        },
-        {
-            "file": "VISBOT/VC005 The Second Season/18 skupers - run.avs",
-            "size": 3895,
-            "checksum": "sha256:44d175cd7170f2947da0b00a02f184dc7f70bfaf538116256acc2140cc240327"
-        },
-        {
-            "file": "VISBOT/VC005 The Second Season/19 zamuz - urban metallic (skupers remix).avs",
-            "size": 4160,
-            "checksum": "sha256:2fe8b550b8a9d89fe80552c23c809c519279adf4fc903c9f3769486158b547aa"
-        },
-        {
-            "file": "VISBOT/VC005 The Second Season/20 shock value - uncluttered elegance (zamuz dream away remix).avs",
-            "size": 6438,
-            "checksum": "sha256:b3f83ec1d7c5890209d4979a2be6e86ed419eb3d186df8c67cccb46074662bce"
-        },
-        {
-            "file": "VISBOT/VC005 The Second Season/21 yathosho - dynamix 2.avs",
-            "size": 2048,
-            "checksum": "sha256:9ff24790c4264c533fbceb9f2ea7ca2d973518b878de98368de44773dbe0011c"
-        },
-        {
-            "file": "VISBOT/VC005 The Second Season/22 les Noobiens - black 2 cursor.avs",
-            "size": 1591,
-            "checksum": "sha256:f107a41ecc4a8787e24642e85184d75390d2a545fb4b935ed19f049356482e3e"
-        },
-        {
-            "file": "VISBOT/VC005 The Second Season/23 zamuz - my brush is a weapon.avs",
-            "size": 4647,
-            "checksum": "sha256:5b86790ac1da4bd70573cd1382e18049aed026ad1613a105b6f2e79dc063a03d"
-        },
-        {
-            "file": "VISBOT/VC005 The Second Season/24 a3 - moboids+neon.avs",
-            "size": 1415,
-            "checksum": "sha256:4b1a2f17b5dec7f254f965791ab6dbd4e0124442683985e819f74025b9e462b4"
-        },
-        {
-            "file": "VISBOT/VC005 The Second Season/25 skupers - dual flow (yathosho's cheap trick mix).avs",
-            "size": 3320,
-            "checksum": "sha256:ec5c7f97f3e57a12cd1b7f7a618db710f3c583b86e11c4d4a9b183a557f3c232"
-        },
-        {
-            "file": "VISBOT/VC005 The Second Season/26 zamuz - big bang (duo's nitroglycerin mix).avs",
-            "size": 2853,
-            "checksum": "sha256:05d526062f9c141806398ea60551f44f8fda67fa57789020f254b6e0b9dd761d"
-        }
-    ],
-    "assets": [
-        {
-            "file": "avsres_texer_circle_fade_29x29.bmp",
-            "size": 2606,
-            "checksum": "sha256:10bcb870745a117d8cd57e44f60718e278a0e3ae25e3eaa9250e7936c1dc6fba"
-        },
-        {
-            "file": "v4_texer2.bmp",
-            "size": 4854,
-            "checksum": "sha256:3cbd52611f0afd7250440eda48dacc720994892e7b15ba34da031181aec7b97c"
-        },
-        {
-            "file": "v4_texer7.bmp",
-            "size": 1954,
-            "checksum": "sha256:49b6458d62c8f9687fefe109e1891166da70448e4eba3006067f948662a46a76"
-        },
-        {
-            "file": "vb.bmp",
-            "size": 145254,
-            "checksum": "sha256:92479458ed7967973cccc27666c5192a2cf8a9f5b526dacba4c3fc907a3bdad4"
-        },
-        {
-            "file": "Zmzv3_texer.bmp",
-            "size": 9358,
-            "checksum": "sha256:5ad9c1c53613ebab4374722917a99ddcf61bb05b435e95531e4048ed5281eaec"
-        }
-    ],
-    "plugins": [
-        "BufferBlend",
-        "ConvolutionFilter",
-        "GlobalVarMan"
-    ]
+	"name": "VISBOT The Second Season",
+	"id": "VC005",
+	"presets": [
+		{
+			"file": "VISBOT/VC005 The Second Season/01 duo - intro.avs",
+			"size": 5274,
+			"checksum": "sha256:9bb42b09bbb03c7413409bac5dad6b842172f71db6e744634190d8e0e605294e"
+		},
+		{
+			"file": "VISBOT/VC005 The Second Season/02 nemoorange - flush.avs",
+			"size": 34129,
+			"checksum": "sha256:c75f469fcf5620e7272f06e730f65498d1bf16b4c66d24d12403e1aad0b7c045"
+		},
+		{
+			"file": "VISBOT/VC005 The Second Season/03 zamuz - heart dynamics.avs",
+			"size": 4959,
+			"checksum": "sha256:6e381fa6ceb7b59190bb0a2ce930c2c1b752d13869dfa0dad5f5031c6bb914e8"
+		},
+		{
+			"file": "VISBOT/VC005 The Second Season/04 shock value - summer spectrometer.avs",
+			"size": 7611,
+			"checksum": "sha256:fc9a1f8bf17952ed5f8686dd3c340da511ef0092541b68e3fc0275d34777e155"
+		},
+		{
+			"file": "VISBOT/VC005 The Second Season/05 yathosho - 2phuture (part one).avs",
+			"size": 1525,
+			"checksum": "sha256:d527d023becd53ef3eec539d0f69e06824960b369c040a1b98c6872d1bd594cf"
+		},
+		{
+			"file": "VISBOT/VC005 The Second Season/06 skupers - silkyworm (nemoorange remix).avs",
+			"size": 2034,
+			"checksum": "sha256:52b2c8e2fd6bf4e6181c5a4151be7415f4a0b397cb2e09535225058bcd577419"
+		},
+		{
+			"file": "VISBOT/VC005 The Second Season/07 duamic dyno - incessant.avs",
+			"size": 4128,
+			"checksum": "sha256:d8b6c3caa4b41eb111bdf627ab0d38fa0402accfc36f5300f18389791c0336c2"
+		},
+		{
+			"file": "VISBOT/VC005 The Second Season/08 duo - candyland.avs",
+			"size": 3429,
+			"checksum": "sha256:e553bf3f7da8eec33275568c24dadc26b69ed5eecadf6dfbd35ea845d827b2bf"
+		},
+		{
+			"file": "VISBOT/VC005 The Second Season/09 zamuz - sangre (pure-krypton's caramel rmx).avs",
+			"size": 4566,
+			"checksum": "sha256:a4523b79921aacefad58878dd3fc9a28548baf4aa12d4425eaed2554c85be25e"
+		},
+		{
+			"file": "VISBOT/VC005 The Second Season/10 skupers - dual flow (shock value's neon zebra remix).avs",
+			"size": 5359,
+			"checksum": "sha256:5e2427266125af571e6dfa9dda7c16893a8f7cafd986481ee21c9d89a65587cd"
+		},
+		{
+			"file": "VISBOT/VC005 The Second Season/11 les Noobiens - t-error.avs",
+			"size": 1535,
+			"checksum": "sha256:148fa5a5d9d894be2e5198e8489e907caeed3ff2745ea78a4d5f7ff2755014a0"
+		},
+		{
+			"file": "VISBOT/VC005 The Second Season/12 skupers - blood of the innocent.avs",
+			"size": 3086,
+			"checksum": "sha256:00452e46bd93cb59f95208e26edbda0ae745bcc1debcaa348087d6cb5ade155c"
+		},
+		{
+			"file": "VISBOT/VC005 The Second Season/13 duo - the g spot.avs",
+			"size": 4839,
+			"checksum": "sha256:955aacf9bc6e88c9c2947392ba1b6834b022a961ea1446e2f84012d311eeb6cc"
+		},
+		{
+			"file": "VISBOT/VC005 The Second Season/14 nemoorange - not pikasso.avs",
+			"size": 2988,
+			"checksum": "sha256:2327ea31138dfcec6468286ac204cc01d2ddd900c248c5f28964dfa95040cc54"
+		},
+		{
+			"file": "VISBOT/VC005 The Second Season/15 a3 - fuk dms (les Noobiens rework).avs",
+			"size": 1963,
+			"checksum": "sha256:49b7bebd346b58b8e5840cebf38c2251cbb1d43fd83e20351d9da2113263007d"
+		},
+		{
+			"file": "VISBOT/VC005 The Second Season/16 shock value - throbbing circuitry.avs",
+			"size": 16865,
+			"checksum": "sha256:dc57fd70aa594ea297e0c1b090eda355e92fc801f38e720c8aa9da4564a6935d"
+		},
+		{
+			"file": "VISBOT/VC005 The Second Season/17 dynamic duo - the crossing.avs",
+			"size": 1372,
+			"checksum": "sha256:a13fe1c05fd87ce3ab21a8bd09a9d09f1c2ca3ec6839649c93078d79666f2041"
+		},
+		{
+			"file": "VISBOT/VC005 The Second Season/18 skupers - run.avs",
+			"size": 3895,
+			"checksum": "sha256:44d175cd7170f2947da0b00a02f184dc7f70bfaf538116256acc2140cc240327"
+		},
+		{
+			"file": "VISBOT/VC005 The Second Season/19 zamuz - urban metallic (skupers remix).avs",
+			"size": 4160,
+			"checksum": "sha256:2fe8b550b8a9d89fe80552c23c809c519279adf4fc903c9f3769486158b547aa"
+		},
+		{
+			"file": "VISBOT/VC005 The Second Season/20 shock value - uncluttered elegance (zamuz dream away remix).avs",
+			"size": 6438,
+			"checksum": "sha256:b3f83ec1d7c5890209d4979a2be6e86ed419eb3d186df8c67cccb46074662bce"
+		},
+		{
+			"file": "VISBOT/VC005 The Second Season/21 yathosho - dynamix 2.avs",
+			"size": 2048,
+			"checksum": "sha256:9ff24790c4264c533fbceb9f2ea7ca2d973518b878de98368de44773dbe0011c"
+		},
+		{
+			"file": "VISBOT/VC005 The Second Season/22 les Noobiens - black 2 cursor.avs",
+			"size": 1591,
+			"checksum": "sha256:f107a41ecc4a8787e24642e85184d75390d2a545fb4b935ed19f049356482e3e"
+		},
+		{
+			"file": "VISBOT/VC005 The Second Season/23 zamuz - my brush is a weapon.avs",
+			"size": 4647,
+			"checksum": "sha256:5b86790ac1da4bd70573cd1382e18049aed026ad1613a105b6f2e79dc063a03d"
+		},
+		{
+			"file": "VISBOT/VC005 The Second Season/24 a3 - moboids+neon.avs",
+			"size": 1415,
+			"checksum": "sha256:4b1a2f17b5dec7f254f965791ab6dbd4e0124442683985e819f74025b9e462b4"
+		},
+		{
+			"file": "VISBOT/VC005 The Second Season/25 skupers - dual flow (yathosho's cheap trick mix).avs",
+			"size": 3320,
+			"checksum": "sha256:ec5c7f97f3e57a12cd1b7f7a618db710f3c583b86e11c4d4a9b183a557f3c232"
+		},
+		{
+			"file": "VISBOT/VC005 The Second Season/26 zamuz - big bang (duo's nitroglycerin mix).avs",
+			"size": 2853,
+			"checksum": "sha256:05d526062f9c141806398ea60551f44f8fda67fa57789020f254b6e0b9dd761d"
+		}
+	],
+	"assets": [
+		{
+			"file": "avsres_texer_circle_fade_29x29.bmp",
+			"size": 2606,
+			"checksum": "sha256:10bcb870745a117d8cd57e44f60718e278a0e3ae25e3eaa9250e7936c1dc6fba"
+		},
+		{
+			"file": "v4_texer2.bmp",
+			"size": 4854,
+			"checksum": "sha256:3cbd52611f0afd7250440eda48dacc720994892e7b15ba34da031181aec7b97c"
+		},
+		{
+			"file": "v4_texer7.bmp",
+			"size": 1954,
+			"checksum": "sha256:49b6458d62c8f9687fefe109e1891166da70448e4eba3006067f948662a46a76"
+		},
+		{
+			"file": "vb.bmp",
+			"size": 145254,
+			"checksum": "sha256:92479458ed7967973cccc27666c5192a2cf8a9f5b526dacba4c3fc907a3bdad4"
+		},
+		{
+			"file": "Zmzv3_texer.bmp",
+			"size": 9358,
+			"checksum": "sha256:5ad9c1c53613ebab4374722917a99ddcf61bb05b435e95531e4048ed5281eaec"
+		}
+	],
+	"plugins": ["BufferBlend", "ConvolutionFilter", "GlobalVarMan"]
 }

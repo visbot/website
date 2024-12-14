@@ -1,29 +1,27 @@
 {
-    "name": "les Noobiens leisure suit noobie",
-    "id": "VB063",
-    "presets": [
-        {
-            "file": "les Noobiens/les Noobiens leisure suit noobie/lNa1 a3 - fuk dms (les Noobiens monochromatic edit).avs",
-            "size": 1704,
-            "checksum": "sha256:8509d5b9d1a5772860b1da0f5f59b17b3ee08dde6158995f046cb832ceaa3614"
-        },
-        {
-            "file": "les Noobiens/les Noobiens leisure suit noobie/lNa2 les Noobiens - retroleum (a3 bebop mix).avs",
-            "size": 2668,
-            "checksum": "sha256:9f7136e23eb67cd0a803839235912d829d5cfb29fbfe646c5596af94b2de37af"
-        },
-        {
-            "file": "les Noobiens/les Noobiens leisure suit noobie/lNb1 dynamic duo - back to back to cccp.avs",
-            "size": 3378,
-            "checksum": "sha256:8f66454633bba35a286d00c80fdf64d62fdd156919a0c193127f01e528dfc88c"
-        },
-        {
-            "file": "les Noobiens/les Noobiens leisure suit noobie/lNb2 les Noobiens - back to cccp.avs",
-            "size": 545,
-            "checksum": "sha256:8ebed0c55e93db731bb1da5ce82520d81a82867df8574427adbf710e86d28ea5"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "les Noobiens leisure suit noobie",
+	"id": "VB063",
+	"presets": [
+		{
+			"file": "les Noobiens/les Noobiens leisure suit noobie/lNa1 a3 - fuk dms (les Noobiens monochromatic edit).avs",
+			"size": 1704,
+			"checksum": "sha256:8509d5b9d1a5772860b1da0f5f59b17b3ee08dde6158995f046cb832ceaa3614"
+		},
+		{
+			"file": "les Noobiens/les Noobiens leisure suit noobie/lNa2 les Noobiens - retroleum (a3 bebop mix).avs",
+			"size": 2668,
+			"checksum": "sha256:9f7136e23eb67cd0a803839235912d829d5cfb29fbfe646c5596af94b2de37af"
+		},
+		{
+			"file": "les Noobiens/les Noobiens leisure suit noobie/lNb1 dynamic duo - back to back to cccp.avs",
+			"size": 3378,
+			"checksum": "sha256:8f66454633bba35a286d00c80fdf64d62fdd156919a0c193127f01e528dfc88c"
+		},
+		{
+			"file": "les Noobiens/les Noobiens leisure suit noobie/lNb2 les Noobiens - back to cccp.avs",
+			"size": 545,
+			"checksum": "sha256:8ebed0c55e93db731bb1da5ce82520d81a82867df8574427adbf710e86d28ea5"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

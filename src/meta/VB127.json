@@ -1,24 +1,22 @@
 {
-    "name": "pure-krypton - skin (yathosho remixes)",
-    "id": "VB127",
-    "presets": [
-        {
-            "file": "pure-krypton - skin (yathosho remixes)/yiA1 pure-krypton - skin (yathosho's closer mix).avs",
-            "size": 3915,
-            "checksum": "sha256:c0300c3e7e7856575df2ff075ecc33bf0a78092625c102aeab03a4790bd5f1cc"
-        },
-        {
-            "file": "pure-krypton - skin (yathosho remixes)/yiB1 pure-krypton - skin (original version).avs",
-            "size": 3459,
-            "checksum": "sha256:f5d6e5c54ca4115c8464272dba2a2fede1b881eb5a910f339a19a23f1e27beb0"
-        },
-        {
-            "file": "pure-krypton - skin (yathosho remixes)/yiB2 pure-krypton - skin (yathosho's closer edit).avs",
-            "size": 3697,
-            "checksum": "sha256:b204c430f36b4b5ce70c9dacb87cda9fe3a35712d013b6a18a2f313ba0459d1f"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "pure-krypton - skin (yathosho remixes)",
+	"id": "VB127",
+	"presets": [
+		{
+			"file": "pure-krypton - skin (yathosho remixes)/yiA1 pure-krypton - skin (yathosho's closer mix).avs",
+			"size": 3915,
+			"checksum": "sha256:c0300c3e7e7856575df2ff075ecc33bf0a78092625c102aeab03a4790bd5f1cc"
+		},
+		{
+			"file": "pure-krypton - skin (yathosho remixes)/yiB1 pure-krypton - skin (original version).avs",
+			"size": 3459,
+			"checksum": "sha256:f5d6e5c54ca4115c8464272dba2a2fede1b881eb5a910f339a19a23f1e27beb0"
+		},
+		{
+			"file": "pure-krypton - skin (yathosho remixes)/yiB2 pure-krypton - skin (yathosho's closer edit).avs",
+			"size": 3697,
+			"checksum": "sha256:b204c430f36b4b5ce70c9dacb87cda9fe3a35712d013b6a18a2f313ba0459d1f"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

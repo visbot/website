@@ -1,140 +1,134 @@
 {
-    "name": "VISBOT Coming off H",
-    "id": "VC018",
-    "presets": [
-        {
-            "file": "VISBOT/VC018 Coming off H/01 framey - visbot 18 intro.avs",
-            "size": 2168,
-            "checksum": "sha256:9bf3f7583ab538c899e2b7816572b0c7e53d891714d8e4233fc0c36083567acb"
-        },
-        {
-            "file": "VISBOT/VC018 Coming off H/02 yathosho vs framey vs yathosho - burnt celluloid (version).avs",
-            "size": 8696,
-            "checksum": "sha256:8e774fb40f4c411feecbe1a1097f359e17935eb1fcf2ad396ab701dc422e4c41"
-        },
-        {
-            "file": "VISBOT/VC018 Coming off H/03 grandchild - havoc on ice.avs",
-            "size": 9476,
-            "checksum": "sha256:c539b37b331b6195471cb876936c9a012e0b10b44a91379521aa8caa79f93ebd"
-        },
-        {
-            "file": "VISBOT/VC018 Coming off H/04 pure-krypton & micro.d - tv store (synth-c remix).avs",
-            "size": 8804,
-            "checksum": "sha256:45dfb01d3d116a907d80f32ba2a0be9a0468f860ffd52dbd1bc6074bb72c97b2"
-        },
-        {
-            "file": "VISBOT/VC018 Coming off H/05 avs-king - tunnelvision (dynamic duo rework for hi-res).avs",
-            "size": 6498,
-            "checksum": "sha256:3c7e20d1b68161cd06e8aa23c7afbe212f41dd90822f1979ee440e6ad538b761"
-        },
-        {
-            "file": "VISBOT/VC018 Coming off H/06 framey - axis.avs",
-            "size": 9843,
-            "checksum": "sha256:cabbba75562de45853a294aa52016bf7f0e180aefe01e0c915c07349c12234ab"
-        },
-        {
-            "file": "VISBOT/VC018 Coming off H/07 synth-c - funkus.avs",
-            "size": 15397,
-            "checksum": "sha256:e226858579feea8dd6691f6392df96db93fc5388cd45ec2efc192ffc1977dcf6"
-        },
-        {
-            "file": "VISBOT/VC018 Coming off H/08 zamuz - daydreamer.avs",
-            "size": 41615,
-            "checksum": "sha256:3658c50d8ebbb3396b6365c319948f5ca4e3d5553cca0a87828a0b954cbf9052"
-        },
-        {
-            "file": "VISBOT/VC018 Coming off H/09 yathosho - sail away (waverider remix by zamuz).avs",
-            "size": 5722,
-            "checksum": "sha256:2f89e851f80488aae79d1f5ca6107d980a0ae8a5b732fdc34cecb1e878e04814"
-        },
-        {
-            "file": "VISBOT/VC018 Coming off H/10 yathosho - softsex (nite version).avs",
-            "size": 3703,
-            "checksum": "sha256:bedf5bd52a4ec05c4ac7b4431af23dc45f23849f5debfe45c472e00ee28f046c"
-        },
-        {
-            "file": "VISBOT/VC018 Coming off H/11 synth-c - barrier.avs",
-            "size": 17272,
-            "checksum": "sha256:256b8595fe97272b40555b3d0b9d2387f007bd85d8a537758eff98f5a01c7278"
-        },
-        {
-            "file": "VISBOT/VC018 Coming off H/12 zamuz - warfighter.avs",
-            "size": 17613,
-            "checksum": "sha256:07e6407c7adfadb0dcb10313a68756d2b48f45511eff286c2a6883b29c25b0fd"
-        },
-        {
-            "file": "VISBOT/VC018 Coming off H/13 dynamic duo - hypersonic ii (fake onionring rmx - alternate version).avs",
-            "size": 4909,
-            "checksum": "sha256:6f3ee86a70e666127f36ce224f689d06f0027d6bf8266854de7ea76ec9cb4dba"
-        },
-        {
-            "file": "VISBOT/VC018 Coming off H/14 visbot allstars - new horizons (alternate version).avs",
-            "size": 3754,
-            "checksum": "sha256:d618d19e5b5a5cc3fc76cb32d0701d9454ad7bd17cfa9b731730df401a1ed4c2"
-        }
-    ],
-    "assets": [
-        {
-            "file": "_synth_dotfog16.bmp",
-            "size": 1334,
-            "checksum": "sha256:11c952987367dc8cb10d580873d90d34180b141d289664177088636e35c92d95"
-        },
-        {
-            "file": "avsres_texer_circle_fade_29x29.bmp",
-            "size": 2606,
-            "checksum": "sha256:10bcb870745a117d8cd57e44f60718e278a0e3ae25e3eaa9250e7936c1dc6fba"
-        },
-        {
-            "file": "avsres_texer_circle_sharp_21x21.bmp",
-            "size": 1710,
-            "checksum": "sha256:47592cab97851c568b462581e1116a9eca9bb534d78534619263d57f4765e239"
-        },
-        {
-            "file": "avsres_texer_circle_slightblur_11x11.bmp",
-            "size": 450,
-            "checksum": "sha256:d0cdec969a376bc2b90780196d082246e236561e71a33ceca55f3fc20fd68e70"
-        },
-        {
-            "file": "gc - angel beam 28x28.bmp",
-            "size": 2408,
-            "checksum": "sha256:7f846f685ca9353849c596d3aa875e8d3732bf2eb315ada496d4f2d50e0885e6"
-        },
-        {
-            "file": "gc - circle heavyblur cloud 29x29.bmp",
-            "size": 3032,
-            "checksum": "sha256:30affe975eb7433d527285aeaafbb7677b4ee0357d54378454dd4cc8cc69c3db"
-        },
-        {
-            "file": "gc - circle heavyblur dust+scratches 155x155.bmp",
-            "size": 72596,
-            "checksum": "sha256:9a8d61c567dc9a4bc763bff98bd5f7b4401595e5e48d8d9361d9ebdde403868b"
-        },
-        {
-            "file": "skupers_lp7_02.bmp",
-            "size": 10856,
-            "checksum": "sha256:aaeb13486d7082c888a556012a3ea574dc4c651b01510ae9722a1ce184f8fd03"
-        },
-        {
-            "file": "v4_texer2.bmp",
-            "size": 5430,
-            "checksum": "sha256:693afb60f5532b47099ce70ccbdf18fd1651b93b525994e5ceb66e71aa0ae01e"
-        },
-        {
-            "file": "zamuz_bigcircle01.bmp",
-            "size": 132774,
-            "checksum": "sha256:f02f7188022f23f13870726269f3c713ea69c2d5b56d6d39e59ac63cfa1cc772"
-        },
-        {
-            "file": "Zmzv3_texer.bmp",
-            "size": 9358,
-            "checksum": "sha256:5ad9c1c53613ebab4374722917a99ddcf61bb05b435e95531e4048ed5281eaec"
-        }
-    ],
-    "plugins": [
-        "BufferBlend",
-        "ConvolutionFilter",
-        "GlobalVarMan",
-        "TransAuto",
-        "Triangle"
-    ]
+	"name": "VISBOT Coming off H",
+	"id": "VC018",
+	"presets": [
+		{
+			"file": "VISBOT/VC018 Coming off H/01 framey - visbot 18 intro.avs",
+			"size": 2168,
+			"checksum": "sha256:9bf3f7583ab538c899e2b7816572b0c7e53d891714d8e4233fc0c36083567acb"
+		},
+		{
+			"file": "VISBOT/VC018 Coming off H/02 yathosho vs framey vs yathosho - burnt celluloid (version).avs",
+			"size": 8696,
+			"checksum": "sha256:8e774fb40f4c411feecbe1a1097f359e17935eb1fcf2ad396ab701dc422e4c41"
+		},
+		{
+			"file": "VISBOT/VC018 Coming off H/03 grandchild - havoc on ice.avs",
+			"size": 9476,
+			"checksum": "sha256:c539b37b331b6195471cb876936c9a012e0b10b44a91379521aa8caa79f93ebd"
+		},
+		{
+			"file": "VISBOT/VC018 Coming off H/04 pure-krypton & micro.d - tv store (synth-c remix).avs",
+			"size": 8804,
+			"checksum": "sha256:45dfb01d3d116a907d80f32ba2a0be9a0468f860ffd52dbd1bc6074bb72c97b2"
+		},
+		{
+			"file": "VISBOT/VC018 Coming off H/05 avs-king - tunnelvision (dynamic duo rework for hi-res).avs",
+			"size": 6498,
+			"checksum": "sha256:3c7e20d1b68161cd06e8aa23c7afbe212f41dd90822f1979ee440e6ad538b761"
+		},
+		{
+			"file": "VISBOT/VC018 Coming off H/06 framey - axis.avs",
+			"size": 9843,
+			"checksum": "sha256:cabbba75562de45853a294aa52016bf7f0e180aefe01e0c915c07349c12234ab"
+		},
+		{
+			"file": "VISBOT/VC018 Coming off H/07 synth-c - funkus.avs",
+			"size": 15397,
+			"checksum": "sha256:e226858579feea8dd6691f6392df96db93fc5388cd45ec2efc192ffc1977dcf6"
+		},
+		{
+			"file": "VISBOT/VC018 Coming off H/08 zamuz - daydreamer.avs",
+			"size": 41615,
+			"checksum": "sha256:3658c50d8ebbb3396b6365c319948f5ca4e3d5553cca0a87828a0b954cbf9052"
+		},
+		{
+			"file": "VISBOT/VC018 Coming off H/09 yathosho - sail away (waverider remix by zamuz).avs",
+			"size": 5722,
+			"checksum": "sha256:2f89e851f80488aae79d1f5ca6107d980a0ae8a5b732fdc34cecb1e878e04814"
+		},
+		{
+			"file": "VISBOT/VC018 Coming off H/10 yathosho - softsex (nite version).avs",
+			"size": 3703,
+			"checksum": "sha256:bedf5bd52a4ec05c4ac7b4431af23dc45f23849f5debfe45c472e00ee28f046c"
+		},
+		{
+			"file": "VISBOT/VC018 Coming off H/11 synth-c - barrier.avs",
+			"size": 17272,
+			"checksum": "sha256:256b8595fe97272b40555b3d0b9d2387f007bd85d8a537758eff98f5a01c7278"
+		},
+		{
+			"file": "VISBOT/VC018 Coming off H/12 zamuz - warfighter.avs",
+			"size": 17613,
+			"checksum": "sha256:07e6407c7adfadb0dcb10313a68756d2b48f45511eff286c2a6883b29c25b0fd"
+		},
+		{
+			"file": "VISBOT/VC018 Coming off H/13 dynamic duo - hypersonic ii (fake onionring rmx - alternate version).avs",
+			"size": 4909,
+			"checksum": "sha256:6f3ee86a70e666127f36ce224f689d06f0027d6bf8266854de7ea76ec9cb4dba"
+		},
+		{
+			"file": "VISBOT/VC018 Coming off H/14 visbot allstars - new horizons (alternate version).avs",
+			"size": 3754,
+			"checksum": "sha256:d618d19e5b5a5cc3fc76cb32d0701d9454ad7bd17cfa9b731730df401a1ed4c2"
+		}
+	],
+	"assets": [
+		{
+			"file": "_synth_dotfog16.bmp",
+			"size": 1334,
+			"checksum": "sha256:11c952987367dc8cb10d580873d90d34180b141d289664177088636e35c92d95"
+		},
+		{
+			"file": "avsres_texer_circle_fade_29x29.bmp",
+			"size": 2606,
+			"checksum": "sha256:10bcb870745a117d8cd57e44f60718e278a0e3ae25e3eaa9250e7936c1dc6fba"
+		},
+		{
+			"file": "avsres_texer_circle_sharp_21x21.bmp",
+			"size": 1710,
+			"checksum": "sha256:47592cab97851c568b462581e1116a9eca9bb534d78534619263d57f4765e239"
+		},
+		{
+			"file": "avsres_texer_circle_slightblur_11x11.bmp",
+			"size": 450,
+			"checksum": "sha256:d0cdec969a376bc2b90780196d082246e236561e71a33ceca55f3fc20fd68e70"
+		},
+		{
+			"file": "gc - angel beam 28x28.bmp",
+			"size": 2408,
+			"checksum": "sha256:7f846f685ca9353849c596d3aa875e8d3732bf2eb315ada496d4f2d50e0885e6"
+		},
+		{
+			"file": "gc - circle heavyblur cloud 29x29.bmp",
+			"size": 3032,
+			"checksum": "sha256:30affe975eb7433d527285aeaafbb7677b4ee0357d54378454dd4cc8cc69c3db"
+		},
+		{
+			"file": "gc - circle heavyblur dust+scratches 155x155.bmp",
+			"size": 72596,
+			"checksum": "sha256:9a8d61c567dc9a4bc763bff98bd5f7b4401595e5e48d8d9361d9ebdde403868b"
+		},
+		{
+			"file": "skupers_lp7_02.bmp",
+			"size": 10856,
+			"checksum": "sha256:aaeb13486d7082c888a556012a3ea574dc4c651b01510ae9722a1ce184f8fd03"
+		},
+		{
+			"file": "v4_texer2.bmp",
+			"size": 5430,
+			"checksum": "sha256:693afb60f5532b47099ce70ccbdf18fd1651b93b525994e5ceb66e71aa0ae01e"
+		},
+		{
+			"file": "zamuz_bigcircle01.bmp",
+			"size": 132774,
+			"checksum": "sha256:f02f7188022f23f13870726269f3c713ea69c2d5b56d6d39e59ac63cfa1cc772"
+		},
+		{
+			"file": "Zmzv3_texer.bmp",
+			"size": 9358,
+			"checksum": "sha256:5ad9c1c53613ebab4374722917a99ddcf61bb05b435e95531e4048ed5281eaec"
+		}
+	],
+	"plugins": ["BufferBlend", "ConvolutionFilter", "GlobalVarMan", "TransAuto", "Triangle"]
 }

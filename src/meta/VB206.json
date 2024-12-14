@@ -1,29 +1,27 @@
 {
-    "name": "whyEye.org residual heat e.p.",
-    "id": "VB206",
-    "presets": [
-        {
-            "file": "whyEye.org/whyEye.org residual heat ep/yiA1 yathosho - the second season (screenshot colors re-edit).avs",
-            "size": 2495,
-            "checksum": "sha256:969e6274191f16b9b985b69d699ff6d1f7c1cf2b211311e4fd0bcdbfe202ccb9"
-        },
-        {
-            "file": "whyEye.org/whyEye.org residual heat ep/yiA2 dynamic duo - who doesn't love wood (revisited).avs",
-            "size": 2607,
-            "checksum": "sha256:bb0ad13aa50af60a24b4b16c0e3b4f7aacfb40d5239ec68bb37915e8c25955b6"
-        },
-        {
-            "file": "whyEye.org/whyEye.org residual heat ep/yiB1 dynamic duo - texturized (revisited).avs",
-            "size": 3276,
-            "checksum": "sha256:979b448b0c01c912623aa79c26c6f11787e6f2a642de074c0dbbb289e7bfccfb"
-        },
-        {
-            "file": "whyEye.org/whyEye.org residual heat ep/yiB2 yathosho - sector movements (6ix mix).avs",
-            "size": 1930,
-            "checksum": "sha256:8245d63de29c3d4aa7f4bc7a90704d45a67b2ee2658319ad66ed415d45b2fd9e"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "whyEye.org residual heat e.p.",
+	"id": "VB206",
+	"presets": [
+		{
+			"file": "whyEye.org/whyEye.org residual heat ep/yiA1 yathosho - the second season (screenshot colors re-edit).avs",
+			"size": 2495,
+			"checksum": "sha256:969e6274191f16b9b985b69d699ff6d1f7c1cf2b211311e4fd0bcdbfe202ccb9"
+		},
+		{
+			"file": "whyEye.org/whyEye.org residual heat ep/yiA2 dynamic duo - who doesn't love wood (revisited).avs",
+			"size": 2607,
+			"checksum": "sha256:bb0ad13aa50af60a24b4b16c0e3b4f7aacfb40d5239ec68bb37915e8c25955b6"
+		},
+		{
+			"file": "whyEye.org/whyEye.org residual heat ep/yiB1 dynamic duo - texturized (revisited).avs",
+			"size": 3276,
+			"checksum": "sha256:979b448b0c01c912623aa79c26c6f11787e6f2a642de074c0dbbb289e7bfccfb"
+		},
+		{
+			"file": "whyEye.org/whyEye.org residual heat ep/yiB2 yathosho - sector movements (6ix mix).avs",
+			"size": 1930,
+			"checksum": "sha256:8245d63de29c3d4aa7f4bc7a90704d45a67b2ee2658319ad66ed415d45b2fd9e"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

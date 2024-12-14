@@ -1,116 +1,112 @@
 {
-    "name": "whyEye.org einzelst�cke",
-    "id": "VB183",
-    "presets": [
-        {
-            "file": "whyEye.org/whyEye.org einzelstücke/01 yathosho - en autriche.avs",
-            "size": 953,
-            "checksum": "sha256:bc653f435fd4ddea32e767fe8b6ae3f9550a4007a2a5e402dbf391b46ff4b381"
-        },
-        {
-            "file": "whyEye.org/whyEye.org einzelstücke/02 yathosho - braun.avs",
-            "size": 2640,
-            "checksum": "sha256:0e06d061a20b3ab764c9f686b49860081205e3c8a0e1f69c00b62fb11887e27e"
-        },
-        {
-            "file": "whyEye.org/whyEye.org einzelstücke/03 yathosho - my first day at the oldskool.avs",
-            "size": 2373,
-            "checksum": "sha256:f75bd79986e4e7304aef3fd95b768569efa5e0066e1200887ad02abf9632c303"
-        },
-        {
-            "file": "whyEye.org/whyEye.org einzelstücke/04 yathosho - hallo kleine giraffe.avs",
-            "size": 2382,
-            "checksum": "sha256:645bbb92dd4adea9af3c260b9cfd29a01b2bc77d38bbdba3b5f39d495cf3947f"
-        },
-        {
-            "file": "whyEye.org/whyEye.org einzelstücke/05 yathosho - (the action scene).avs",
-            "size": 10493,
-            "checksum": "sha256:88494df533c524f7aef59830a6cf16c4ad9303a8be3985816b42c67cecf9a939"
-        },
-        {
-            "file": "whyEye.org/whyEye.org einzelstücke/06 yathosho - plastica (dub).avs",
-            "size": 3713,
-            "checksum": "sha256:b3178a9af351936761a1e462f58e2954bd9a6a51f4c5990a9416ea1b323ed2fe"
-        },
-        {
-            "file": "whyEye.org/whyEye.org einzelstücke/07 yathosho - stijlomat.avs",
-            "size": 3782,
-            "checksum": "sha256:053ba355f8ef2578b48a4fe2b1279c0f264e79fae856a00340cd65d32c5dbec7"
-        },
-        {
-            "file": "whyEye.org/whyEye.org einzelstücke/08 yathosho - electronique.avs",
-            "size": 5620,
-            "checksum": "sha256:d9221addc3c9594f0f9c5373dc1f0cf93abf8d40d02647c832461e1d86b41477"
-        },
-        {
-            "file": "whyEye.org/whyEye.org einzelstücke/09 yathosho - got the bug (version).avs",
-            "size": 2860,
-            "checksum": "sha256:7c74ae6c8f90167726dc97658f7f6ed0e4708e4ff84292a48d9fa67777fdf6d7"
-        },
-        {
-            "file": "whyEye.org/whyEye.org einzelstücke/10 yathosho - respiced.avs",
-            "size": 1703,
-            "checksum": "sha256:99006a2fe967b7aa840e612b8164172ed34570d3bd58ab9c5d851914b7892c42"
-        },
-        {
-            "file": "whyEye.org/whyEye.org einzelstücke/11 yathosho - 1970 (previously unreleased version).avs",
-            "size": 2625,
-            "checksum": "sha256:54baa0f46f644eaebbc9159ecabd10b5c866cadf484a52b2b967518836eca9c8"
-        },
-        {
-            "file": "whyEye.org/whyEye.org einzelstücke/12 yathosho - modulok.avs",
-            "size": 1978,
-            "checksum": "sha256:e4fcc814a6146777ae6541d60abab20ab7e62743c993c8c66ca46e84387f8e1f"
-        },
-        {
-            "file": "whyEye.org/whyEye.org einzelstücke/13 yathosho - milch 2.avs",
-            "size": 1794,
-            "checksum": "sha256:47abf96e7604f7142afd7ddad33e1580a540ca73fee358a9c25c48b5b41176bd"
-        },
-        {
-            "file": "whyEye.org/whyEye.org einzelstücke/14 yathosho - i-7a.avs",
-            "size": 2092,
-            "checksum": "sha256:b078b6e911981ce2e9e3fbb2ef83e7a58309a98006a8f882833310c28266810c"
-        },
-        {
-            "file": "whyEye.org/whyEye.org einzelstücke/15 yathosho - meet the faunaticz.avs",
-            "size": 2561,
-            "checksum": "sha256:9a0d81c17215ba70d3d77976c5dda8fdc1d5162113cb0875462b08303617e188"
-        },
-        {
-            "file": "whyEye.org/whyEye.org einzelstücke/16 yathosho - plastica.avs",
-            "size": 1970,
-            "checksum": "sha256:37a0accf982beb5db9f853a0b8f47bdbb42fc5a81f8a1d6af870a1db1c596589"
-        },
-        {
-            "file": "whyEye.org/whyEye.org einzelstücke/17 yathosho - système.avs",
-            "size": 6898,
-            "checksum": "sha256:696599dfb89cbda823a8e12f48c5b14e900df47682361eb4afa3872728828d78"
-        },
-        {
-            "file": "whyEye.org/whyEye.org einzelstücke/18 yathosho - dynamix 2 (early version).avs",
-            "size": 2140,
-            "checksum": "sha256:2a49f889b35094b758cbab179601c3650806ed1383b996fb0ff0e08a1afe470d"
-        },
-        {
-            "file": "whyEye.org/whyEye.org einzelstücke/19 yathosho - ps pussla.avs",
-            "size": 1482,
-            "checksum": "sha256:79f3717cfcfabd08068a6890c81ce64077594a03d27f299393d51c76105c5ccf"
-        },
-        {
-            "file": "whyEye.org/whyEye.org einzelstücke/20 yathosho - twisted pair.avs",
-            "size": 1619,
-            "checksum": "sha256:83154ccaf4ddf728de46bd762c1d5d94eeef5048f2229d702e24fb516f4c197a"
-        },
-        {
-            "file": "whyEye.org/whyEye.org einzelstücke/21 yathosho - carrera.avs",
-            "size": 1680,
-            "checksum": "sha256:9a82a101f17390b1b61c20c68fec8ccd7ef60fe9266b41e396262a8b59460489"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter",
-        "FramerateLimiter",
-        "MultiFilter"
-    ]
+	"name": "whyEye.org einzelst�cke",
+	"id": "VB183",
+	"presets": [
+		{
+			"file": "whyEye.org/whyEye.org einzelstücke/01 yathosho - en autriche.avs",
+			"size": 953,
+			"checksum": "sha256:bc653f435fd4ddea32e767fe8b6ae3f9550a4007a2a5e402dbf391b46ff4b381"
+		},
+		{
+			"file": "whyEye.org/whyEye.org einzelstücke/02 yathosho - braun.avs",
+			"size": 2640,
+			"checksum": "sha256:0e06d061a20b3ab764c9f686b49860081205e3c8a0e1f69c00b62fb11887e27e"
+		},
+		{
+			"file": "whyEye.org/whyEye.org einzelstücke/03 yathosho - my first day at the oldskool.avs",
+			"size": 2373,
+			"checksum": "sha256:f75bd79986e4e7304aef3fd95b768569efa5e0066e1200887ad02abf9632c303"
+		},
+		{
+			"file": "whyEye.org/whyEye.org einzelstücke/04 yathosho - hallo kleine giraffe.avs",
+			"size": 2382,
+			"checksum": "sha256:645bbb92dd4adea9af3c260b9cfd29a01b2bc77d38bbdba3b5f39d495cf3947f"
+		},
+		{
+			"file": "whyEye.org/whyEye.org einzelstücke/05 yathosho - (the action scene).avs",
+			"size": 10493,
+			"checksum": "sha256:88494df533c524f7aef59830a6cf16c4ad9303a8be3985816b42c67cecf9a939"
+		},
+		{
+			"file": "whyEye.org/whyEye.org einzelstücke/06 yathosho - plastica (dub).avs",
+			"size": 3713,
+			"checksum": "sha256:b3178a9af351936761a1e462f58e2954bd9a6a51f4c5990a9416ea1b323ed2fe"
+		},
+		{
+			"file": "whyEye.org/whyEye.org einzelstücke/07 yathosho - stijlomat.avs",
+			"size": 3782,
+			"checksum": "sha256:053ba355f8ef2578b48a4fe2b1279c0f264e79fae856a00340cd65d32c5dbec7"
+		},
+		{
+			"file": "whyEye.org/whyEye.org einzelstücke/08 yathosho - electronique.avs",
+			"size": 5620,
+			"checksum": "sha256:d9221addc3c9594f0f9c5373dc1f0cf93abf8d40d02647c832461e1d86b41477"
+		},
+		{
+			"file": "whyEye.org/whyEye.org einzelstücke/09 yathosho - got the bug (version).avs",
+			"size": 2860,
+			"checksum": "sha256:7c74ae6c8f90167726dc97658f7f6ed0e4708e4ff84292a48d9fa67777fdf6d7"
+		},
+		{
+			"file": "whyEye.org/whyEye.org einzelstücke/10 yathosho - respiced.avs",
+			"size": 1703,
+			"checksum": "sha256:99006a2fe967b7aa840e612b8164172ed34570d3bd58ab9c5d851914b7892c42"
+		},
+		{
+			"file": "whyEye.org/whyEye.org einzelstücke/11 yathosho - 1970 (previously unreleased version).avs",
+			"size": 2625,
+			"checksum": "sha256:54baa0f46f644eaebbc9159ecabd10b5c866cadf484a52b2b967518836eca9c8"
+		},
+		{
+			"file": "whyEye.org/whyEye.org einzelstücke/12 yathosho - modulok.avs",
+			"size": 1978,
+			"checksum": "sha256:e4fcc814a6146777ae6541d60abab20ab7e62743c993c8c66ca46e84387f8e1f"
+		},
+		{
+			"file": "whyEye.org/whyEye.org einzelstücke/13 yathosho - milch 2.avs",
+			"size": 1794,
+			"checksum": "sha256:47abf96e7604f7142afd7ddad33e1580a540ca73fee358a9c25c48b5b41176bd"
+		},
+		{
+			"file": "whyEye.org/whyEye.org einzelstücke/14 yathosho - i-7a.avs",
+			"size": 2092,
+			"checksum": "sha256:b078b6e911981ce2e9e3fbb2ef83e7a58309a98006a8f882833310c28266810c"
+		},
+		{
+			"file": "whyEye.org/whyEye.org einzelstücke/15 yathosho - meet the faunaticz.avs",
+			"size": 2561,
+			"checksum": "sha256:9a0d81c17215ba70d3d77976c5dda8fdc1d5162113cb0875462b08303617e188"
+		},
+		{
+			"file": "whyEye.org/whyEye.org einzelstücke/16 yathosho - plastica.avs",
+			"size": 1970,
+			"checksum": "sha256:37a0accf982beb5db9f853a0b8f47bdbb42fc5a81f8a1d6af870a1db1c596589"
+		},
+		{
+			"file": "whyEye.org/whyEye.org einzelstücke/17 yathosho - système.avs",
+			"size": 6898,
+			"checksum": "sha256:696599dfb89cbda823a8e12f48c5b14e900df47682361eb4afa3872728828d78"
+		},
+		{
+			"file": "whyEye.org/whyEye.org einzelstücke/18 yathosho - dynamix 2 (early version).avs",
+			"size": 2140,
+			"checksum": "sha256:2a49f889b35094b758cbab179601c3650806ed1383b996fb0ff0e08a1afe470d"
+		},
+		{
+			"file": "whyEye.org/whyEye.org einzelstücke/19 yathosho - ps pussla.avs",
+			"size": 1482,
+			"checksum": "sha256:79f3717cfcfabd08068a6890c81ce64077594a03d27f299393d51c76105c5ccf"
+		},
+		{
+			"file": "whyEye.org/whyEye.org einzelstücke/20 yathosho - twisted pair.avs",
+			"size": 1619,
+			"checksum": "sha256:83154ccaf4ddf728de46bd762c1d5d94eeef5048f2229d702e24fb516f4c197a"
+		},
+		{
+			"file": "whyEye.org/whyEye.org einzelstücke/21 yathosho - carrera.avs",
+			"size": 1680,
+			"checksum": "sha256:9a82a101f17390b1b61c20c68fec8ccd7ef60fe9266b41e396262a8b59460489"
+		}
+	],
+	"plugins": ["ConvolutionFilter", "FramerateLimiter", "MultiFilter"]
 }

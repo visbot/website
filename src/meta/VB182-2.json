@@ -1,19 +1,17 @@
 {
-    "name": "whyEye.org edits pt. 2",
-    "id": "VB182-2",
-    "presets": [
-        {
-            "file": "whyEye.org/whyEye.org edits/yiB degnic & yathosho - microcosm 01 (edit).avs",
-            "size": 2746,
-            "checksum": "sha256:45d39a47384f38e7f7487461c17f873d754f7a3f4bf69ca9444d371591d1fced"
-        },
-        {
-            "file": "whyEye.org/whyEye.org edits/yiBB yathosho - straight no chaser (edit).avs",
-            "size": 3289,
-            "checksum": "sha256:79835e9595787b2786460074f37056adbe4ccd7e12a5e63892434ff4c75c6b3a"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "whyEye.org edits pt. 2",
+	"id": "VB182-2",
+	"presets": [
+		{
+			"file": "whyEye.org/whyEye.org edits/yiB degnic & yathosho - microcosm 01 (edit).avs",
+			"size": 2746,
+			"checksum": "sha256:45d39a47384f38e7f7487461c17f873d754f7a3f4bf69ca9444d371591d1fced"
+		},
+		{
+			"file": "whyEye.org/whyEye.org edits/yiBB yathosho - straight no chaser (edit).avs",
+			"size": 3289,
+			"checksum": "sha256:79835e9595787b2786460074f37056adbe4ccd7e12a5e63892434ff4c75c6b3a"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

@@ -1,41 +1,37 @@
 {
-    "name": "sEP . dis",
-    "id": "VB093-1",
-    "presets": [
-        {
-            "file": "frames.of.reality/sEP . dis/001 . frames vs. yathosho - live from the island of dead souls.avs",
-            "size": 3650,
-            "checksum": "sha256:6db75f23548cfef00dd87e2108ea398e887c4dc7c2ab225a97cf58742e2be89e"
-        },
-        {
-            "file": "frames.of.reality/sEP . dis/002 . divisions (beta version).avs",
-            "size": 2842,
-            "checksum": "sha256:83c491d5e56d5553c7fb86a78f3fe12ad53f64fff4d3f245def7d746f4018eaf"
-        },
-        {
-            "file": "frames.of.reality/sEP . dis/003 . malevolentia.avs",
-            "size": 4197,
-            "checksum": "sha256:f0de00073652883520d5a9bc7e60c5d56310ccbd3b4749ea32a9954652ded837"
-        },
-        {
-            "file": "frames.of.reality/sEP . dis/004 . frames vs. nemo - dissipate anticonform.avs",
-            "size": 2157,
-            "checksum": "sha256:f409d6247c0cbdf8ac9260cbf574282503a93680f165780a7d2be24d99286df3"
-        },
-        {
-            "file": "frames.of.reality/sEP . dis/005 . frames vs. el-vis - shadows of dis.avs",
-            "size": 7949,
-            "checksum": "sha256:e254b21c60bfa05d1f40f9ac35ea1dd320fad511cf313940981148edde7ef32e"
-        },
-        {
-            "file": "frames.of.reality/sEP . dis/006 . frames vs. zamuz - wrong disk inserted.avs",
-            "size": 2221,
-            "checksum": "sha256:10989522ee9d49deaf7591c8506b74d2466b7dadfc4d9454b22f99d505a68f36"
-        }
-    ],
-    "plugins": [
-        "BufferBlend",
-        "ConvolutionFilter",
-        "MultiFilter"
-    ]
+	"name": "sEP . dis",
+	"id": "VB093-1",
+	"presets": [
+		{
+			"file": "frames.of.reality/sEP . dis/001 . frames vs. yathosho - live from the island of dead souls.avs",
+			"size": 3650,
+			"checksum": "sha256:6db75f23548cfef00dd87e2108ea398e887c4dc7c2ab225a97cf58742e2be89e"
+		},
+		{
+			"file": "frames.of.reality/sEP . dis/002 . divisions (beta version).avs",
+			"size": 2842,
+			"checksum": "sha256:83c491d5e56d5553c7fb86a78f3fe12ad53f64fff4d3f245def7d746f4018eaf"
+		},
+		{
+			"file": "frames.of.reality/sEP . dis/003 . malevolentia.avs",
+			"size": 4197,
+			"checksum": "sha256:f0de00073652883520d5a9bc7e60c5d56310ccbd3b4749ea32a9954652ded837"
+		},
+		{
+			"file": "frames.of.reality/sEP . dis/004 . frames vs. nemo - dissipate anticonform.avs",
+			"size": 2157,
+			"checksum": "sha256:f409d6247c0cbdf8ac9260cbf574282503a93680f165780a7d2be24d99286df3"
+		},
+		{
+			"file": "frames.of.reality/sEP . dis/005 . frames vs. el-vis - shadows of dis.avs",
+			"size": 7949,
+			"checksum": "sha256:e254b21c60bfa05d1f40f9ac35ea1dd320fad511cf313940981148edde7ef32e"
+		},
+		{
+			"file": "frames.of.reality/sEP . dis/006 . frames vs. zamuz - wrong disk inserted.avs",
+			"size": 2221,
+			"checksum": "sha256:10989522ee9d49deaf7591c8506b74d2466b7dadfc4d9454b22f99d505a68f36"
+		}
+	],
+	"plugins": ["BufferBlend", "ConvolutionFilter", "MultiFilter"]
 }

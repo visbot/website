@@ -1,19 +1,17 @@
 {
-    "name": "tentaclism (the zamuz reworks)",
-    "id": "VB151",
-    "presets": [
-        {
-            "file": "Dynamic Duo/dynamic duo - tentaclism (the zamuz reworks)/ddX__tentaclism (zamuz's out of focus 1st take).avs",
-            "size": 7208,
-            "checksum": "sha256:1c114afc3bb159f62663efeabe8d2897d5cad06994a84c9531530a10eff6f3a5"
-        },
-        {
-            "file": "Dynamic Duo/dynamic duo - tentaclism (the zamuz reworks)/ddY__tentaclism (zamuz's out of focus 2nd take).avs",
-            "size": 7219,
-            "checksum": "sha256:a97f4cb8991f7133d8e95478f1170c7ad49713e05184ba0508cc0d3440df9fe3"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "tentaclism (the zamuz reworks)",
+	"id": "VB151",
+	"presets": [
+		{
+			"file": "Dynamic Duo/dynamic duo - tentaclism (the zamuz reworks)/ddX__tentaclism (zamuz's out of focus 1st take).avs",
+			"size": 7208,
+			"checksum": "sha256:1c114afc3bb159f62663efeabe8d2897d5cad06994a84c9531530a10eff6f3a5"
+		},
+		{
+			"file": "Dynamic Duo/dynamic duo - tentaclism (the zamuz reworks)/ddY__tentaclism (zamuz's out of focus 2nd take).avs",
+			"size": 7219,
+			"checksum": "sha256:a97f4cb8991f7133d8e95478f1170c7ad49713e05184ba0508cc0d3440df9fe3"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

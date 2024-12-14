@@ -1,24 +1,22 @@
 {
-    "name": "whyEye.org since when pt. 2",
-    "id": "VB065-2",
-    "presets": [
-        {
-            "file": "whyEye.org/whyEye.org since when/yiC1 zamuz vs yathosho__using up these new tricks.avs",
-            "size": 2358,
-            "checksum": "sha256:92108abb89eba52539e4af5548b3f9b5c3393e43250948ec252e15f42a028682"
-        },
-        {
-            "file": "whyEye.org/whyEye.org since when/yiD1 yathosho vs jdm__reamiga (edit).avs",
-            "size": 3007,
-            "checksum": "sha256:85e275aba885319c4e3a95b8dbe0e33337d8f1ae4ebcb9d9f125ed6ccdf1b8f7"
-        },
-        {
-            "file": "whyEye.org/whyEye.org since when/yiD2 yathosho vs onionring__fragmentation #2.avs",
-            "size": 1819,
-            "checksum": "sha256:e197acfbb681362645fe848575140f7ccb07d7bf0c098e526523297b7093e0de"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "whyEye.org since when pt. 2",
+	"id": "VB065-2",
+	"presets": [
+		{
+			"file": "whyEye.org/whyEye.org since when/yiC1 zamuz vs yathosho__using up these new tricks.avs",
+			"size": 2358,
+			"checksum": "sha256:92108abb89eba52539e4af5548b3f9b5c3393e43250948ec252e15f42a028682"
+		},
+		{
+			"file": "whyEye.org/whyEye.org since when/yiD1 yathosho vs jdm__reamiga (edit).avs",
+			"size": 3007,
+			"checksum": "sha256:85e275aba885319c4e3a95b8dbe0e33337d8f1ae4ebcb9d9f125ed6ccdf1b8f7"
+		},
+		{
+			"file": "whyEye.org/whyEye.org since when/yiD2 yathosho vs onionring__fragmentation #2.avs",
+			"size": 1819,
+			"checksum": "sha256:e197acfbb681362645fe848575140f7ccb07d7bf0c098e526523297b7093e0de"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

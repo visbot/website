@@ -1,29 +1,27 @@
 {
-    "name": "les Noobiens nublak i-iv",
-    "id": "VB203",
-    "presets": [
-        {
-            "file": "les Noobiens/les Noobiens nublak i-iv/les Noobiens - nublak 1.avs",
-            "size": 1648,
-            "checksum": "sha256:536b75369d7263bb02efa33c1266456f8604f18a6316e9ea63da109c84f10c54"
-        },
-        {
-            "file": "les Noobiens/les Noobiens nublak i-iv/les Noobiens - nublak 2.avs",
-            "size": 2604,
-            "checksum": "sha256:f9801ba5aacdc2a5d577b185ab4b02753059cd66d1c115fe035ca81ed20fac29"
-        },
-        {
-            "file": "les Noobiens/les Noobiens nublak i-iv/les Noobiens - nublak 3.avs",
-            "size": 2336,
-            "checksum": "sha256:ece6f7305ae3e8a4587f3ac720c1239675c5ad498da78fb1c38cb038c3c87296"
-        },
-        {
-            "file": "les Noobiens/les Noobiens nublak i-iv/les Noobiens - nublak 4.avs",
-            "size": 2531,
-            "checksum": "sha256:2c346c31c00c64ad062aa8b777b97594472a6df1c8d5c71d2266eaa06fb995b0"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "les Noobiens nublak i-iv",
+	"id": "VB203",
+	"presets": [
+		{
+			"file": "les Noobiens/les Noobiens nublak i-iv/les Noobiens - nublak 1.avs",
+			"size": 1648,
+			"checksum": "sha256:536b75369d7263bb02efa33c1266456f8604f18a6316e9ea63da109c84f10c54"
+		},
+		{
+			"file": "les Noobiens/les Noobiens nublak i-iv/les Noobiens - nublak 2.avs",
+			"size": 2604,
+			"checksum": "sha256:f9801ba5aacdc2a5d577b185ab4b02753059cd66d1c115fe035ca81ed20fac29"
+		},
+		{
+			"file": "les Noobiens/les Noobiens nublak i-iv/les Noobiens - nublak 3.avs",
+			"size": 2336,
+			"checksum": "sha256:ece6f7305ae3e8a4587f3ac720c1239675c5ad498da78fb1c38cb038c3c87296"
+		},
+		{
+			"file": "les Noobiens/les Noobiens nublak i-iv/les Noobiens - nublak 4.avs",
+			"size": 2531,
+			"checksum": "sha256:2c346c31c00c64ad062aa8b777b97594472a6df1c8d5c71d2266eaa06fb995b0"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

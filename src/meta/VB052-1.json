@@ -1,24 +1,22 @@
 {
-    "name": "whyEye.org delight relight",
-    "id": "VB052-1",
-    "presets": [
-        {
-            "file": "whyEye.org/whyEye.org delight relight/yiA1__honeytek.avs",
-            "size": 1743,
-            "checksum": "sha256:626ede96af87369dada2570481deafc72d186b01979bed8706b315ed4cd24cfd"
-        },
-        {
-            "file": "whyEye.org/whyEye.org delight relight/yiA2__dual_jungle.avs",
-            "size": 2277,
-            "checksum": "sha256:aef449bcadf3507f870b85c2a8765e2e43e0c6098f4fb0a7a6149a5be93d2403"
-        },
-        {
-            "file": "whyEye.org/whyEye.org delight relight/yiA3__golden_(remix).avs",
-            "size": 1591,
-            "checksum": "sha256:2d3735825cfd3f19ac53a3aa791005eb73a27ed3369417a7828a53e4b209e78f"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "whyEye.org delight relight",
+	"id": "VB052-1",
+	"presets": [
+		{
+			"file": "whyEye.org/whyEye.org delight relight/yiA1__honeytek.avs",
+			"size": 1743,
+			"checksum": "sha256:626ede96af87369dada2570481deafc72d186b01979bed8706b315ed4cd24cfd"
+		},
+		{
+			"file": "whyEye.org/whyEye.org delight relight/yiA2__dual_jungle.avs",
+			"size": 2277,
+			"checksum": "sha256:aef449bcadf3507f870b85c2a8765e2e43e0c6098f4fb0a7a6149a5be93d2403"
+		},
+		{
+			"file": "whyEye.org/whyEye.org delight relight/yiA3__golden_(remix).avs",
+			"size": 1591,
+			"checksum": "sha256:2d3735825cfd3f19ac53a3aa791005eb73a27ed3369417a7828a53e4b209e78f"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

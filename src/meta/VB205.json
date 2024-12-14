@@ -1,41 +1,37 @@
 {
-    "name": "Dx 2x3",
-    "id": "VB205",
-    "presets": [
-        {
-            "file": "Dynamic Duo/Dx 2x3/ddA1__general dynamics (version).avs",
-            "size": 3005,
-            "checksum": "sha256:744f0017d2b35246eac3eea53083afb1b884e9663eb748aba41e20e3ade3be9c"
-        },
-        {
-            "file": "Dynamic Duo/Dx 2x3/ddA2__nitoichi ii.avs",
-            "size": 5577,
-            "checksum": "sha256:e031e038d9990b9898eedf026066a97050fe1e35568e5be706d10e2741d6b2ae"
-        },
-        {
-            "file": "Dynamic Duo/Dx 2x3/ddA3__hypersonic ii (edit).avs",
-            "size": 3874,
-            "checksum": "sha256:8937d5406f7d8067561e9725fab28329677922bd04a401e819de5bcfd763dea1"
-        },
-        {
-            "file": "Dynamic Duo/Dx 2x3/ddB1__hojojutsu (version).avs",
-            "size": 4523,
-            "checksum": "sha256:591b8e4283ff00012688320ac70e46174237f7326674e5c5f2db8d2e7ae763e6"
-        },
-        {
-            "file": "Dynamic Duo/Dx 2x3/ddB2__victoria's secret (version).avs",
-            "size": 3979,
-            "checksum": "sha256:de6bb4c34a30c353b6e235cd3164091c2c3c34900f548603ea4fef89cfdbd35f"
-        },
-        {
-            "file": "Dynamic Duo/Dx 2x3/ddB3__shoji (edit).avs",
-            "size": 6547,
-            "checksum": "sha256:5fbe1c2cd79aa28cf85a535303022a6eaa6d80b4cab7ba29b61441a487111d55"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter",
-        "FramerateLimiter",
-        "VideoDelay"
-    ]
+	"name": "Dx 2x3",
+	"id": "VB205",
+	"presets": [
+		{
+			"file": "Dynamic Duo/Dx 2x3/ddA1__general dynamics (version).avs",
+			"size": 3005,
+			"checksum": "sha256:744f0017d2b35246eac3eea53083afb1b884e9663eb748aba41e20e3ade3be9c"
+		},
+		{
+			"file": "Dynamic Duo/Dx 2x3/ddA2__nitoichi ii.avs",
+			"size": 5577,
+			"checksum": "sha256:e031e038d9990b9898eedf026066a97050fe1e35568e5be706d10e2741d6b2ae"
+		},
+		{
+			"file": "Dynamic Duo/Dx 2x3/ddA3__hypersonic ii (edit).avs",
+			"size": 3874,
+			"checksum": "sha256:8937d5406f7d8067561e9725fab28329677922bd04a401e819de5bcfd763dea1"
+		},
+		{
+			"file": "Dynamic Duo/Dx 2x3/ddB1__hojojutsu (version).avs",
+			"size": 4523,
+			"checksum": "sha256:591b8e4283ff00012688320ac70e46174237f7326674e5c5f2db8d2e7ae763e6"
+		},
+		{
+			"file": "Dynamic Duo/Dx 2x3/ddB2__victoria's secret (version).avs",
+			"size": 3979,
+			"checksum": "sha256:de6bb4c34a30c353b6e235cd3164091c2c3c34900f548603ea4fef89cfdbd35f"
+		},
+		{
+			"file": "Dynamic Duo/Dx 2x3/ddB3__shoji (edit).avs",
+			"size": 6547,
+			"checksum": "sha256:5fbe1c2cd79aa28cf85a535303022a6eaa6d80b4cab7ba29b61441a487111d55"
+		}
+	],
+	"plugins": ["ConvolutionFilter", "FramerateLimiter", "VideoDelay"]
 }

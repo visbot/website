@@ -1,36 +1,34 @@
 {
-    "name": "CO-OP Session 08",
-    "id": "VB080",
-    "presets": [
-        {
-            "file": "CO-OP Sessions/CO-OP Session 08/a1 danaughty1 - feed your cosmonaughtz.avs",
-            "size": 2139,
-            "checksum": "sha256:94cf52bbfaf07722f3ceb2b2159d989254416c1cdaff1c4e2002caa9a02ecb5d"
-        },
-        {
-            "file": "CO-OP Sessions/CO-OP Session 08/a2 hboy - feed your tamtam.avs",
-            "size": 3685,
-            "checksum": "sha256:57422ef3f72d36be10d1e59700251b5bc67a8f1d84a14f64b76acbbde6a06750"
-        },
-        {
-            "file": "CO-OP Sessions/CO-OP Session 08/b1 hboy - seekers.avs",
-            "size": 2779,
-            "checksum": "sha256:599984889c563eecf9b4d940d94a50b2acf82defa0a4bb8df5ea5224a2c19e7c"
-        },
-        {
-            "file": "CO-OP Sessions/CO-OP Session 08/b2 danaughty1 - peek-n-seek.avs",
-            "size": 4031,
-            "checksum": "sha256:3a89715e5c3d523572aab3fdfce8bc2afd9e38514ab8d5a0b7dfc9a332728eb7"
-        }
-    ],
-    "assets": [
-        {
-            "file": "avsres_texer_square_fade_30x30.bmp",
-            "size": 2814,
-            "checksum": "sha256:12bdc0b6a44fc540c0c84f7e704a6c9bb6885676ba39652b1ef0b1121701e089"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "CO-OP Session 08",
+	"id": "VB080",
+	"presets": [
+		{
+			"file": "CO-OP Sessions/CO-OP Session 08/a1 danaughty1 - feed your cosmonaughtz.avs",
+			"size": 2139,
+			"checksum": "sha256:94cf52bbfaf07722f3ceb2b2159d989254416c1cdaff1c4e2002caa9a02ecb5d"
+		},
+		{
+			"file": "CO-OP Sessions/CO-OP Session 08/a2 hboy - feed your tamtam.avs",
+			"size": 3685,
+			"checksum": "sha256:57422ef3f72d36be10d1e59700251b5bc67a8f1d84a14f64b76acbbde6a06750"
+		},
+		{
+			"file": "CO-OP Sessions/CO-OP Session 08/b1 hboy - seekers.avs",
+			"size": 2779,
+			"checksum": "sha256:599984889c563eecf9b4d940d94a50b2acf82defa0a4bb8df5ea5224a2c19e7c"
+		},
+		{
+			"file": "CO-OP Sessions/CO-OP Session 08/b2 danaughty1 - peek-n-seek.avs",
+			"size": 4031,
+			"checksum": "sha256:3a89715e5c3d523572aab3fdfce8bc2afd9e38514ab8d5a0b7dfc9a332728eb7"
+		}
+	],
+	"assets": [
+		{
+			"file": "avsres_texer_square_fade_30x30.bmp",
+			"size": 2814,
+			"checksum": "sha256:12bdc0b6a44fc540c0c84f7e704a6c9bb6885676ba39652b1ef0b1121701e089"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

@@ -1,29 +1,27 @@
 {
-    "name": "whyEye.org since then 8",
-    "id": "VB024",
-    "presets": [
-        {
-            "file": "whyEye.org/whyEye.org since then 8/yiA1__iller_dan_je_ouders_(toffee_flavor).avs",
-            "size": 1552,
-            "checksum": "sha256:bcccfcd17e02a55f95cc6629ed10f03a3a8e93ff60ae0cb8d80c2977c1b39383"
-        },
-        {
-            "file": "whyEye.org/whyEye.org since then 8/yiA2__verywikiwiki_(reissue).avs",
-            "size": 2188,
-            "checksum": "sha256:bfbd56a1b5127770a926f97dda7bf69a7ebb79928580ec1979c748e216b5eb77"
-        },
-        {
-            "file": "whyEye.org/whyEye.org since then 8/yiB1__aquarius_(nemo_remixed).avs",
-            "size": 766,
-            "checksum": "sha256:e35e905650f9f2fc971920b9a612c97d4ed2b69488c8660763c82d15734f2a3e"
-        },
-        {
-            "file": "whyEye.org/whyEye.org since then 8/yiB2__lambretta_(different_approach).avs",
-            "size": 1822,
-            "checksum": "sha256:e88822c50f36e358a6ceca6368752b1088aaaa49349601480b9c79f9839b7b7a"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "whyEye.org since then 8",
+	"id": "VB024",
+	"presets": [
+		{
+			"file": "whyEye.org/whyEye.org since then 8/yiA1__iller_dan_je_ouders_(toffee_flavor).avs",
+			"size": 1552,
+			"checksum": "sha256:bcccfcd17e02a55f95cc6629ed10f03a3a8e93ff60ae0cb8d80c2977c1b39383"
+		},
+		{
+			"file": "whyEye.org/whyEye.org since then 8/yiA2__verywikiwiki_(reissue).avs",
+			"size": 2188,
+			"checksum": "sha256:bfbd56a1b5127770a926f97dda7bf69a7ebb79928580ec1979c748e216b5eb77"
+		},
+		{
+			"file": "whyEye.org/whyEye.org since then 8/yiB1__aquarius_(nemo_remixed).avs",
+			"size": 766,
+			"checksum": "sha256:e35e905650f9f2fc971920b9a612c97d4ed2b69488c8660763c82d15734f2a3e"
+		},
+		{
+			"file": "whyEye.org/whyEye.org since then 8/yiB2__lambretta_(different_approach).avs",
+			"size": 1822,
+			"checksum": "sha256:e88822c50f36e358a6ceca6368752b1088aaaa49349601480b9c79f9839b7b7a"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

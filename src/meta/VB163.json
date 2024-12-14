@@ -1,37 +1,34 @@
 {
-    "name": "dm7 sampler",
-    "id": "VB163",
-    "presets": [
-        {
-            "file": "Dynamic Duo/dm7 sampler/ddA1 dynamic duo - tentaclism [raz remix - ugly edit].avs",
-            "size": 2946,
-            "checksum": "sha256:1c20349c70719e5ace5a110f874c4f7e4d6e567e972fc47d0aa4af30da1942da"
-        },
-        {
-            "file": "Dynamic Duo/dm7 sampler/ddA2 hboy - interstellar phenomenon [yathosho's kyoto edit].avs",
-            "size": 15894,
-            "checksum": "sha256:03d64c031f449a2b0e01b631bea658d47843adcae3df99211ba4e97fc869f2dc"
-        },
-        {
-            "file": "Dynamic Duo/dm7 sampler/ddB1 dynamic duo - flickermood [exclusive!].avs",
-            "size": 7879,
-            "checksum": "sha256:799a2e241155f8b83dcb342753837bfdd2faaff0ac0f2eabfce4afc2fca822ff"
-        },
-        {
-            "file": "Dynamic Duo/dm7 sampler/ddB2 zamuz - spiritual [dynamic duo treatment].avs",
-            "size": 3068,
-            "checksum": "sha256:8fea0e42c02c335799e2b0d5842dfd25e40c9ece6e83384af097e847d11b0b8d"
-        }
-    ],
-    "assets": [
-        {
-            "file": "avsres_texer_square_sharp_30x30.bmp",
-            "size": 3590,
-            "checksum": "sha256:e41754b033960b3a5e77252cf1edee71e97c311c2cedafc9b4139a3df51240e6"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter",
-        "GlobalVarMan"
-    ]
+	"name": "dm7 sampler",
+	"id": "VB163",
+	"presets": [
+		{
+			"file": "Dynamic Duo/dm7 sampler/ddA1 dynamic duo - tentaclism [raz remix - ugly edit].avs",
+			"size": 2946,
+			"checksum": "sha256:1c20349c70719e5ace5a110f874c4f7e4d6e567e972fc47d0aa4af30da1942da"
+		},
+		{
+			"file": "Dynamic Duo/dm7 sampler/ddA2 hboy - interstellar phenomenon [yathosho's kyoto edit].avs",
+			"size": 15894,
+			"checksum": "sha256:03d64c031f449a2b0e01b631bea658d47843adcae3df99211ba4e97fc869f2dc"
+		},
+		{
+			"file": "Dynamic Duo/dm7 sampler/ddB1 dynamic duo - flickermood [exclusive!].avs",
+			"size": 7879,
+			"checksum": "sha256:799a2e241155f8b83dcb342753837bfdd2faaff0ac0f2eabfce4afc2fca822ff"
+		},
+		{
+			"file": "Dynamic Duo/dm7 sampler/ddB2 zamuz - spiritual [dynamic duo treatment].avs",
+			"size": 3068,
+			"checksum": "sha256:8fea0e42c02c335799e2b0d5842dfd25e40c9ece6e83384af097e847d11b0b8d"
+		}
+	],
+	"assets": [
+		{
+			"file": "avsres_texer_square_sharp_30x30.bmp",
+			"size": 3590,
+			"checksum": "sha256:e41754b033960b3a5e77252cf1edee71e97c311c2cedafc9b4139a3df51240e6"
+		}
+	],
+	"plugins": ["ConvolutionFilter", "GlobalVarMan"]
 }

@@ -1,29 +1,27 @@
 {
-    "name": "les Noobiens straight outta lipton 2",
-    "id": "VB155",
-    "presets": [
-        {
-            "file": "les Noobiens/les Noobiens straight outta lipton 2/lNa1 horsefly & pan am - acidsteck (les Noobiens mash-up).avs",
-            "size": 4708,
-            "checksum": "sha256:0d9dcc1196b939e63bd0c49a102664316f79e69015fb294e3f1982b4550384d5"
-        },
-        {
-            "file": "les Noobiens/les Noobiens straight outta lipton 2/lNa2 yathosho - dpi 03 (les Noobiens ip-op mix).avs",
-            "size": 2299,
-            "checksum": "sha256:6e3267f9c999cfd6d957140a66716445a4a252a319be2d41552f7ee747d89297"
-        },
-        {
-            "file": "les Noobiens/les Noobiens straight outta lipton 2/lNb1 yathosho - collini (les Noobiens ip-op mix).avs",
-            "size": 3023,
-            "checksum": "sha256:d04c80706ddcc300dfcfcd706f76cb329c143c6506b7533f3632d9af80e91de0"
-        },
-        {
-            "file": "les Noobiens/les Noobiens straight outta lipton 2/lNb2 pan am - acidsteck (les Noobiens edit).avs",
-            "size": 3757,
-            "checksum": "sha256:1175476a743b96531a06fc075cfb2aaf2eb940e8adf6b9a5ff94ce40eec15b0b"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "les Noobiens straight outta lipton 2",
+	"id": "VB155",
+	"presets": [
+		{
+			"file": "les Noobiens/les Noobiens straight outta lipton 2/lNa1 horsefly & pan am - acidsteck (les Noobiens mash-up).avs",
+			"size": 4708,
+			"checksum": "sha256:0d9dcc1196b939e63bd0c49a102664316f79e69015fb294e3f1982b4550384d5"
+		},
+		{
+			"file": "les Noobiens/les Noobiens straight outta lipton 2/lNa2 yathosho - dpi 03 (les Noobiens ip-op mix).avs",
+			"size": 2299,
+			"checksum": "sha256:6e3267f9c999cfd6d957140a66716445a4a252a319be2d41552f7ee747d89297"
+		},
+		{
+			"file": "les Noobiens/les Noobiens straight outta lipton 2/lNb1 yathosho - collini (les Noobiens ip-op mix).avs",
+			"size": 3023,
+			"checksum": "sha256:d04c80706ddcc300dfcfcd706f76cb329c143c6506b7533f3632d9af80e91de0"
+		},
+		{
+			"file": "les Noobiens/les Noobiens straight outta lipton 2/lNb2 pan am - acidsteck (les Noobiens edit).avs",
+			"size": 3757,
+			"checksum": "sha256:1175476a743b96531a06fc075cfb2aaf2eb940e8adf6b9a5ff94ce40eec15b0b"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

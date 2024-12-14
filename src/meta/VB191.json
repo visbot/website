@@ -1,48 +1,44 @@
 {
-    "name": "whyEye.org pillow fight (remixes)",
-    "id": "VB191",
-    "presets": [
-        {
-            "file": "whyEye.org/whyEye.org pillow fight (remixes)/yiA1 yathosho - pillow fight (accidental mix).avs",
-            "size": 6007,
-            "checksum": "sha256:47575928ad2551ca69d0e4b5a0855ec853b5daf0e4d1e0c22c149f615ec13170"
-        },
-        {
-            "file": "whyEye.org/whyEye.org pillow fight (remixes)/yiB1 yathosho - pillow fight (edit).avs",
-            "size": 4269,
-            "checksum": "sha256:a058a19a813e7045222a49e601423bc87e8448c2244e85f636a97b276f30946e"
-        },
-        {
-            "file": "whyEye.org/whyEye.org pillow fight (remixes)/yiB2 yathosho - pillow fight (zamuz digresses).avs",
-            "size": 5157,
-            "checksum": "sha256:0e960c93d1b58a163d2dcca8e5b596a3e1ca088e602c2af29c2cfda9997751c9"
-        }
-    ],
-    "assets": [
-        {
-            "file": "avsres_texer_square_sharp_32x32.bmp",
-            "size": 1664,
-            "checksum": "sha256:c58bd222c6e3acdf02a3ac553ea0da340f7c29c24c7a73cb2196af1085dce866"
-        },
-        {
-            "file": "avsres_texer_square_sharp_48x48.bmp",
-            "size": 3200,
-            "checksum": "sha256:bb4e9f6f084e61e1c72e04fcc947d368cc0bae71c96172d2eac64656c486d70a"
-        },
-        {
-            "file": "avsres_texer_square_sharp_60x60.bmp",
-            "size": 4688,
-            "checksum": "sha256:1f04b10b325c77f7a2520dc7da8e4b80f10184df129ccb1600a88e8a8b83c3dc"
-        },
-        {
-            "file": "v6_circle.bmp",
-            "size": 2038,
-            "checksum": "sha256:a9e79d38dc140b11d79daa86c1060a6439fe2dc2d99e6e437f77b5b175b6379c"
-        }
-    ],
-    "plugins": [
-        "ColorMap",
-        "ConvolutionFilter",
-        "Texer2"
-    ]
+	"name": "whyEye.org pillow fight (remixes)",
+	"id": "VB191",
+	"presets": [
+		{
+			"file": "whyEye.org/whyEye.org pillow fight (remixes)/yiA1 yathosho - pillow fight (accidental mix).avs",
+			"size": 6007,
+			"checksum": "sha256:47575928ad2551ca69d0e4b5a0855ec853b5daf0e4d1e0c22c149f615ec13170"
+		},
+		{
+			"file": "whyEye.org/whyEye.org pillow fight (remixes)/yiB1 yathosho - pillow fight (edit).avs",
+			"size": 4269,
+			"checksum": "sha256:a058a19a813e7045222a49e601423bc87e8448c2244e85f636a97b276f30946e"
+		},
+		{
+			"file": "whyEye.org/whyEye.org pillow fight (remixes)/yiB2 yathosho - pillow fight (zamuz digresses).avs",
+			"size": 5157,
+			"checksum": "sha256:0e960c93d1b58a163d2dcca8e5b596a3e1ca088e602c2af29c2cfda9997751c9"
+		}
+	],
+	"assets": [
+		{
+			"file": "avsres_texer_square_sharp_32x32.bmp",
+			"size": 1664,
+			"checksum": "sha256:c58bd222c6e3acdf02a3ac553ea0da340f7c29c24c7a73cb2196af1085dce866"
+		},
+		{
+			"file": "avsres_texer_square_sharp_48x48.bmp",
+			"size": 3200,
+			"checksum": "sha256:bb4e9f6f084e61e1c72e04fcc947d368cc0bae71c96172d2eac64656c486d70a"
+		},
+		{
+			"file": "avsres_texer_square_sharp_60x60.bmp",
+			"size": 4688,
+			"checksum": "sha256:1f04b10b325c77f7a2520dc7da8e4b80f10184df129ccb1600a88e8a8b83c3dc"
+		},
+		{
+			"file": "v6_circle.bmp",
+			"size": 2038,
+			"checksum": "sha256:a9e79d38dc140b11d79daa86c1060a6439fe2dc2d99e6e437f77b5b175b6379c"
+		}
+	],
+	"plugins": ["ColorMap", "ConvolutionFilter", "Texer2"]
 }

@@ -9,7 +9,7 @@ export default {
   embeddedLanguageFormatting: "auto",
   htmlWhitespaceSensitivity: "css",
   insertPragma: false,
-  printWidth: Infinity,
+  printWidth: 120,
   proseWrap: "preserve",
   quoteProps: "as-needed",
   requirePragma: false,
@@ -18,5 +18,4 @@ export default {
   tabWidth: 2,
   trailingComma: "none",
   useTabs: true,
-  vueIndentScriptAndStyle: false
 };

@@ -1,27 +1,27 @@
 {
-    "name": "whyeye.org kirschbl�ten pt. 2",
-    "id": "VB017-2",
-    "presets": [
-        {
-            "file": "whyEye.org/whyeye.org kirschblüten/yiC1-skupers__kersensmaak.avs",
-            "size": 2009,
-            "checksum": "sha256:ccad666d67342024d0eefe6c2f04b9b1ca949e9de66cabeef24ef5e2bfa19aca"
-        },
-        {
-            "file": "whyEye.org/whyeye.org kirschblüten/yiC2-zamuz__kirscharoma_(pastel_cherry_rmx).avs",
-            "size": 1810,
-            "checksum": "sha256:0e1ff06710d2a1757b06f83d87afa6903edeefc150d909320d04f47064d4955e"
-        },
-        {
-            "file": "whyEye.org/whyeye.org kirschblüten/yiD1-zamuz__kirschblüte_(hard_happiness_rmx).avs",
-            "size": 2561,
-            "checksum": "sha256:7eacb40e4189599c8d169b71683ba0bdb0d77e9a6699c60068b4e93e13658122"
-        },
-        {
-            "file": "whyEye.org/whyeye.org kirschblüten/yiD2-skupers__eet_eens_een_kers.avs",
-            "size": 2845,
-            "checksum": "sha256:63be453f9579707ab4eb1c078ff75a144e2b9a4869141217d666b97f4b0171bf"
-        }
-    ],
-    "plugins": []
+	"name": "whyeye.org kirschbl�ten pt. 2",
+	"id": "VB017-2",
+	"presets": [
+		{
+			"file": "whyEye.org/whyeye.org kirschblüten/yiC1-skupers__kersensmaak.avs",
+			"size": 2009,
+			"checksum": "sha256:ccad666d67342024d0eefe6c2f04b9b1ca949e9de66cabeef24ef5e2bfa19aca"
+		},
+		{
+			"file": "whyEye.org/whyeye.org kirschblüten/yiC2-zamuz__kirscharoma_(pastel_cherry_rmx).avs",
+			"size": 1810,
+			"checksum": "sha256:0e1ff06710d2a1757b06f83d87afa6903edeefc150d909320d04f47064d4955e"
+		},
+		{
+			"file": "whyEye.org/whyeye.org kirschblüten/yiD1-zamuz__kirschblüte_(hard_happiness_rmx).avs",
+			"size": 2561,
+			"checksum": "sha256:7eacb40e4189599c8d169b71683ba0bdb0d77e9a6699c60068b4e93e13658122"
+		},
+		{
+			"file": "whyEye.org/whyeye.org kirschblüten/yiD2-skupers__eet_eens_een_kers.avs",
+			"size": 2845,
+			"checksum": "sha256:63be453f9579707ab4eb1c078ff75a144e2b9a4869141217d666b97f4b0171bf"
+		}
+	],
+	"plugins": []
 }

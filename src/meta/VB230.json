@@ -1,44 +1,37 @@
 {
-    "name": "Tentaclivsm (the Mash-ups)",
-    "id": "VB230",
-    "presets": [
-        {
-            "file": "Dynamic Duo/Tentaclivsm (the Mash-ups)/ddA1__vs zamuz & tuggummi - tentaclism [milky dream mash-up].avs",
-            "size": 2648,
-            "checksum": "sha256:65eb27306cde3b1f632b63d430722adba155dbd55516de2bebbc3a1760aa497f"
-        },
-        {
-            "file": "Dynamic Duo/Tentaclivsm (the Mash-ups)/ddA2__vs pure-krypton - tentaclism [fux0red mash-up].avs",
-            "size": 3047,
-            "checksum": "sha256:9a8577d4d7e580ff6797baac1ff7859e56e9f632eb66093e9abd7db167207a39"
-        },
-        {
-            "file": "Dynamic Duo/Tentaclivsm (the Mash-ups)/ddA3__vs el-vis & frames-of-reality - tentaclism [alpha zone mash-up].avs",
-            "size": 3121,
-            "checksum": "sha256:969c5b8652032a41ef611fe8c7e35babc1cdda2399a340bbb32af966e43b8459"
-        },
-        {
-            "file": "Dynamic Duo/Tentaclivsm (the Mash-ups)/ddB1__vs javs & yathosho - tentaclism [nerve recharge mash-up].avs",
-            "size": 3911,
-            "checksum": "sha256:c2b1a4ec10406da65ebbc1297efd4b7c36396682ba684cb3dc76f411b8ac619c"
-        },
-        {
-            "file": "Dynamic Duo/Tentaclivsm (the Mash-ups)/ddB2__vs unconed - tentaclism [cartoon mash-up].avs",
-            "size": 2682,
-            "checksum": "sha256:e188be4bab5611bf9f917008885c26315dac2d116b9386b4bbd850efddf24a00"
-        },
-        {
-            "file": "Dynamic Duo/Tentaclivsm (the Mash-ups)/ddB3__vs frames-of-reality & zamuz- tentaclism [blackhole mash-up].avs",
-            "size": 5913,
-            "checksum": "sha256:d51a134920a3da62d2a5934c4edc24b15687c36bb1a1c219389b50ab1bc7b3d9"
-        }
-    ],
-    "plugins": [
-        "AddBorder",
-        "BufferBlend",
-        "FramerateLimiter",
-        "Multiplier",
-        "VfxAVIPlayer",
-        "VideoDelay"
-    ]
+	"name": "Tentaclivsm (the Mash-ups)",
+	"id": "VB230",
+	"presets": [
+		{
+			"file": "Dynamic Duo/Tentaclivsm (the Mash-ups)/ddA1__vs zamuz & tuggummi - tentaclism [milky dream mash-up].avs",
+			"size": 2648,
+			"checksum": "sha256:65eb27306cde3b1f632b63d430722adba155dbd55516de2bebbc3a1760aa497f"
+		},
+		{
+			"file": "Dynamic Duo/Tentaclivsm (the Mash-ups)/ddA2__vs pure-krypton - tentaclism [fux0red mash-up].avs",
+			"size": 3047,
+			"checksum": "sha256:9a8577d4d7e580ff6797baac1ff7859e56e9f632eb66093e9abd7db167207a39"
+		},
+		{
+			"file": "Dynamic Duo/Tentaclivsm (the Mash-ups)/ddA3__vs el-vis & frames-of-reality - tentaclism [alpha zone mash-up].avs",
+			"size": 3121,
+			"checksum": "sha256:969c5b8652032a41ef611fe8c7e35babc1cdda2399a340bbb32af966e43b8459"
+		},
+		{
+			"file": "Dynamic Duo/Tentaclivsm (the Mash-ups)/ddB1__vs javs & yathosho - tentaclism [nerve recharge mash-up].avs",
+			"size": 3911,
+			"checksum": "sha256:c2b1a4ec10406da65ebbc1297efd4b7c36396682ba684cb3dc76f411b8ac619c"
+		},
+		{
+			"file": "Dynamic Duo/Tentaclivsm (the Mash-ups)/ddB2__vs unconed - tentaclism [cartoon mash-up].avs",
+			"size": 2682,
+			"checksum": "sha256:e188be4bab5611bf9f917008885c26315dac2d116b9386b4bbd850efddf24a00"
+		},
+		{
+			"file": "Dynamic Duo/Tentaclivsm (the Mash-ups)/ddB3__vs frames-of-reality & zamuz- tentaclism [blackhole mash-up].avs",
+			"size": 5913,
+			"checksum": "sha256:d51a134920a3da62d2a5934c4edc24b15687c36bb1a1c219389b50ab1bc7b3d9"
+		}
+	],
+	"plugins": ["AddBorder", "BufferBlend", "FramerateLimiter", "Multiplier", "VfxAVIPlayer", "VideoDelay"]
 }

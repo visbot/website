@@ -1,25 +1,22 @@
 {
-    "name": "Skreamizm EP",
-    "id": "VB211",
-    "presets": [
-        {
-            "file": "Dynamic Duo/Skreamizm EP/ddA1__skreamizm (original version).avs",
-            "size": 3988,
-            "checksum": "sha256:dbec40b18621077720c00b4580d837d2fbd0d5fc883553e0e3f414300840cb97"
-        },
-        {
-            "file": "Dynamic Duo/Skreamizm EP/ddA2__skreamizm (re-edit).avs",
-            "size": 3662,
-            "checksum": "sha256:8125f6a19526cb397343e605ad28ec988ba2edc9557de559517de3fa892c084f"
-        },
-        {
-            "file": "Dynamic Duo/Skreamizm EP/ddB1__skreamizm (micro.d remix).avs",
-            "size": 3183,
-            "checksum": "sha256:d2a7d3ccdbf498a1da30f3f3d590a91dbd522277ae6a64ea1acbe1b5873e0d7a"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter",
-        "Normalise"
-    ]
+	"name": "Skreamizm EP",
+	"id": "VB211",
+	"presets": [
+		{
+			"file": "Dynamic Duo/Skreamizm EP/ddA1__skreamizm (original version).avs",
+			"size": 3988,
+			"checksum": "sha256:dbec40b18621077720c00b4580d837d2fbd0d5fc883553e0e3f414300840cb97"
+		},
+		{
+			"file": "Dynamic Duo/Skreamizm EP/ddA2__skreamizm (re-edit).avs",
+			"size": 3662,
+			"checksum": "sha256:8125f6a19526cb397343e605ad28ec988ba2edc9557de559517de3fa892c084f"
+		},
+		{
+			"file": "Dynamic Duo/Skreamizm EP/ddB1__skreamizm (micro.d remix).avs",
+			"size": 3183,
+			"checksum": "sha256:d2a7d3ccdbf498a1da30f3f3d590a91dbd522277ae6a64ea1acbe1b5873e0d7a"
+		}
+	],
+	"plugins": ["ConvolutionFilter", "Normalise"]
 }

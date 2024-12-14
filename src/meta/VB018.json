@@ -1,39 +1,34 @@
 {
-    "name": "sk-nvone",
-    "id": "VB018",
-    "presets": [
-        {
-            "file": "S_KuPeRS/sk-nvone/skA1 - nv.avs",
-            "size": 2140,
-            "checksum": "sha256:389a514a510b9527327e97856bb51e8cee9d1a2ab92721a5a9e433f44b85a9b5"
-        },
-        {
-            "file": "S_KuPeRS/sk-nvone/skA2 - vo.avs",
-            "size": 3481,
-            "checksum": "sha256:5d20e61dd51b550c6652df48de3d44b275676e853e33a398c6eaa58dbcaacd16"
-        },
-        {
-            "file": "S_KuPeRS/sk-nvone/skB1 - on.avs",
-            "size": 2953,
-            "checksum": "sha256:5d19d932753c8252d7eba674e7fe269d0071d84647cfa30778a67932ab15c17d"
-        },
-        {
-            "file": "S_KuPeRS/sk-nvone/skB2 - ne (nemoorange remixed).avs",
-            "size": 2019,
-            "checksum": "sha256:efabaab067cb08eb3374edcc88249b5e0b3cc7cbab76b106b3a548ba8e7e2778"
-        }
-    ],
-    "assets": [
-        {
-            "file": "skupers_lp7_02.bmp",
-            "size": 10856,
-            "checksum": "sha256:aaeb13486d7082c888a556012a3ea574dc4c651b01510ae9722a1ce184f8fd03"
-        }
-    ],
-    "plugins": [
-        "ColorMap",
-        "ConvolutionFilter",
-        "Multiplier",
-        "Texer"
-    ]
+	"name": "sk-nvone",
+	"id": "VB018",
+	"presets": [
+		{
+			"file": "S_KuPeRS/sk-nvone/skA1 - nv.avs",
+			"size": 2140,
+			"checksum": "sha256:389a514a510b9527327e97856bb51e8cee9d1a2ab92721a5a9e433f44b85a9b5"
+		},
+		{
+			"file": "S_KuPeRS/sk-nvone/skA2 - vo.avs",
+			"size": 3481,
+			"checksum": "sha256:5d20e61dd51b550c6652df48de3d44b275676e853e33a398c6eaa58dbcaacd16"
+		},
+		{
+			"file": "S_KuPeRS/sk-nvone/skB1 - on.avs",
+			"size": 2953,
+			"checksum": "sha256:5d19d932753c8252d7eba674e7fe269d0071d84647cfa30778a67932ab15c17d"
+		},
+		{
+			"file": "S_KuPeRS/sk-nvone/skB2 - ne (nemoorange remixed).avs",
+			"size": 2019,
+			"checksum": "sha256:efabaab067cb08eb3374edcc88249b5e0b3cc7cbab76b106b3a548ba8e7e2778"
+		}
+	],
+	"assets": [
+		{
+			"file": "skupers_lp7_02.bmp",
+			"size": 10856,
+			"checksum": "sha256:aaeb13486d7082c888a556012a3ea574dc4c651b01510ae9722a1ce184f8fd03"
+		}
+	],
+	"plugins": ["ColorMap", "ConvolutionFilter", "Multiplier", "Texer"]
 }

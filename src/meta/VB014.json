@@ -1,29 +1,27 @@
 {
-    "name": "les Noobiens",
-    "id": "VB014",
-    "presets": [
-        {
-            "file": "les Noobiens/les Noobiens VB014/les Noobiens - autobahnnetz.avs",
-            "size": 655,
-            "checksum": "sha256:2315b84122020a5130edf92cefa4d7c71a790fc4121a8d01c8e528cba2167ed8"
-        },
-        {
-            "file": "les Noobiens/les Noobiens VB014/les Noobiens - back to cursor.avs",
-            "size": 1339,
-            "checksum": "sha256:c2053da8decf024987ef22e775500930ed38d37455e38be762f2d5ee0f3a2b38"
-        },
-        {
-            "file": "les Noobiens/les Noobiens VB014/les Noobiens - cosmic vagina (these noobs remix).avs",
-            "size": 1966,
-            "checksum": "sha256:196fed398247a5e1f012c5e2c588eb0164504cf06471bfbfee5a5590dd41622c"
-        },
-        {
-            "file": "les Noobiens/les Noobiens VB014/les Noobiens - lenor (the birthday arrangement).avs",
-            "size": 1069,
-            "checksum": "sha256:ee755a5e832d322aa05804c4e9174cd58f527c384c719723425598bf69ebc16e"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "les Noobiens",
+	"id": "VB014",
+	"presets": [
+		{
+			"file": "les Noobiens/les Noobiens VB014/les Noobiens - autobahnnetz.avs",
+			"size": 655,
+			"checksum": "sha256:2315b84122020a5130edf92cefa4d7c71a790fc4121a8d01c8e528cba2167ed8"
+		},
+		{
+			"file": "les Noobiens/les Noobiens VB014/les Noobiens - back to cursor.avs",
+			"size": 1339,
+			"checksum": "sha256:c2053da8decf024987ef22e775500930ed38d37455e38be762f2d5ee0f3a2b38"
+		},
+		{
+			"file": "les Noobiens/les Noobiens VB014/les Noobiens - cosmic vagina (these noobs remix).avs",
+			"size": 1966,
+			"checksum": "sha256:196fed398247a5e1f012c5e2c588eb0164504cf06471bfbfee5a5590dd41622c"
+		},
+		{
+			"file": "les Noobiens/les Noobiens VB014/les Noobiens - lenor (the birthday arrangement).avs",
+			"size": 1069,
+			"checksum": "sha256:ee755a5e832d322aa05804c4e9174cd58f527c384c719723425598bf69ebc16e"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

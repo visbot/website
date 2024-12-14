@@ -1,31 +1,27 @@
 {
-    "name": "DMe sampler",
-    "id": "VB240",
-    "presets": [
-        {
-            "file": "Dynamic Duo/DMe sampler/ddA1__tentaclism (v.i.p.).avs",
-            "size": 3510,
-            "checksum": "sha256:f115c4b8e721a4766a3b9be345d77f16604a16142523419de294e4c2d56e6e13"
-        },
-        {
-            "file": "Dynamic Duo/DMe sampler/ddA2__prototype (2011 rework - early version).avs",
-            "size": 6147,
-            "checksum": "sha256:10504c1e401b7bd1106acc3de7aeee42ab4047f22bae46e9f6497c49649ec0d3"
-        },
-        {
-            "file": "Dynamic Duo/DMe sampler/ddB1__make yours look like mine (hurric4ne remix).avs",
-            "size": 3849,
-            "checksum": "sha256:4649b96a53ff2886473efb0f7585e848ac05010d1f77119b1d09f64802136bc5"
-        },
-        {
-            "file": "Dynamic Duo/DMe sampler/ddB2__make yours look like mine (edit).avs",
-            "size": 3078,
-            "checksum": "sha256:a705023ff9fe4265a62dabd41012ea6192b57a66b1c793a69ea4aa342b779e3f"
-        }
-    ],
-    "plugins": [
-        "ColorMap",
-        "ConvolutionFilter",
-        "VideoDelay"
-    ]
+	"name": "DMe sampler",
+	"id": "VB240",
+	"presets": [
+		{
+			"file": "Dynamic Duo/DMe sampler/ddA1__tentaclism (v.i.p.).avs",
+			"size": 3510,
+			"checksum": "sha256:f115c4b8e721a4766a3b9be345d77f16604a16142523419de294e4c2d56e6e13"
+		},
+		{
+			"file": "Dynamic Duo/DMe sampler/ddA2__prototype (2011 rework - early version).avs",
+			"size": 6147,
+			"checksum": "sha256:10504c1e401b7bd1106acc3de7aeee42ab4047f22bae46e9f6497c49649ec0d3"
+		},
+		{
+			"file": "Dynamic Duo/DMe sampler/ddB1__make yours look like mine (hurric4ne remix).avs",
+			"size": 3849,
+			"checksum": "sha256:4649b96a53ff2886473efb0f7585e848ac05010d1f77119b1d09f64802136bc5"
+		},
+		{
+			"file": "Dynamic Duo/DMe sampler/ddB2__make yours look like mine (edit).avs",
+			"size": 3078,
+			"checksum": "sha256:a705023ff9fe4265a62dabd41012ea6192b57a66b1c793a69ea4aa342b779e3f"
+		}
+	],
+	"plugins": ["ColorMap", "ConvolutionFilter", "VideoDelay"]
 }

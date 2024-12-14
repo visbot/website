@@ -1,29 +1,27 @@
 {
-    "name": "les Noobiens rehmix vol 2",
-    "id": "VB139",
-    "presets": [
-        {
-            "file": "les Noobiens/les Noobiens rehmix vol 2/lNa1 asd5a - shangri la (les noobiens edit).avs",
-            "size": 2568,
-            "checksum": "sha256:97f3eebfffcfea189e8ff529ec19c47f27af5649fadbf31a13cd8d39c14ff96a"
-        },
-        {
-            "file": "les Noobiens/les Noobiens rehmix vol 2/lNa2 frames.of.reality - into the chamber of maedvigan (les Noobiens approaching chateau flight).avs",
-            "size": 2845,
-            "checksum": "sha256:b1274e64ce3258f3729b14d3731d88d9ba1063fad752dad3853b218c0e804d78"
-        },
-        {
-            "file": "les Noobiens/les Noobiens rehmix vol 2/lNb1 dasn00b - paint your walls (les Noobiens lo-res rework).avs",
-            "size": 2930,
-            "checksum": "sha256:8b7d16404374ab1b8a2e5fb356f6a40451788b5021a33707f85cd3c00b6a3e0b"
-        },
-        {
-            "file": "les Noobiens/les Noobiens rehmix vol 2/lNb2 unconed - twisting fun (les Noobiens rework).avs",
-            "size": 4202,
-            "checksum": "sha256:52e4dfb439a71f7a3b2f67c64e82b0bc04e47b2cfa7c73c965fa98650f93c70b"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "les Noobiens rehmix vol 2",
+	"id": "VB139",
+	"presets": [
+		{
+			"file": "les Noobiens/les Noobiens rehmix vol 2/lNa1 asd5a - shangri la (les noobiens edit).avs",
+			"size": 2568,
+			"checksum": "sha256:97f3eebfffcfea189e8ff529ec19c47f27af5649fadbf31a13cd8d39c14ff96a"
+		},
+		{
+			"file": "les Noobiens/les Noobiens rehmix vol 2/lNa2 frames.of.reality - into the chamber of maedvigan (les Noobiens approaching chateau flight).avs",
+			"size": 2845,
+			"checksum": "sha256:b1274e64ce3258f3729b14d3731d88d9ba1063fad752dad3853b218c0e804d78"
+		},
+		{
+			"file": "les Noobiens/les Noobiens rehmix vol 2/lNb1 dasn00b - paint your walls (les Noobiens lo-res rework).avs",
+			"size": 2930,
+			"checksum": "sha256:8b7d16404374ab1b8a2e5fb356f6a40451788b5021a33707f85cd3c00b6a3e0b"
+		},
+		{
+			"file": "les Noobiens/les Noobiens rehmix vol 2/lNb2 unconed - twisting fun (les Noobiens rework).avs",
+			"size": 4202,
+			"checksum": "sha256:52e4dfb439a71f7a3b2f67c64e82b0bc04e47b2cfa7c73c965fa98650f93c70b"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

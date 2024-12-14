@@ -1,167 +1,164 @@
 {
-    "name": "VISBOT The Third Season",
-    "id": "VC009",
-    "presets": [
-        {
-            "file": "VISBOT/VC009 The Third Season/01 hboy - fragile (yathosho's ill bill-board intro mix).avs",
-            "size": 5399,
-            "checksum": "sha256:af531393f6805df04d8ac8d3f4cca94c5082160db1941326e395acdfa71b0d9f"
-        },
-        {
-            "file": "VISBOT/VC009 The Third Season/02 frames.of.reality - plots of summer (nemo mix).avs",
-            "size": 3693,
-            "checksum": "sha256:ea99a3e0e64924dca42b7723227a59c33aca502c49af79e077f587cf5f491acc"
-        },
-        {
-            "file": "VISBOT/VC009 The Third Season/03 les Noobiens - blockz (zamuz's decorative remix).avs",
-            "size": 4239,
-            "checksum": "sha256:68106f05589881d047d913de453424266977c83b3f35aa2336129b682413f2e5"
-        },
-        {
-            "file": "VISBOT/VC009 The Third Season/04 a3 - disillusionary2 (blame the blocks remix by frames.of.reality).avs",
-            "size": 2783,
-            "checksum": "sha256:0e6bc9cfe2f28d688cdf8bfa7668826eb053ce8589dc419f60fb82a5544c30f5"
-        },
-        {
-            "file": "VISBOT/VC009 The Third Season/05 hboy - reverie.avs",
-            "size": 3561,
-            "checksum": "sha256:c2bc7d9d3b80c27088fbc74969a1bcac2b6039a5a48080a62f56546e3bf28b87"
-        },
-        {
-            "file": "VISBOT/VC009 The Third Season/06 zamuz - thirdside chain.avs",
-            "size": 15277,
-            "checksum": "sha256:e193b66cb309a4604f6df3a5f675fc3df8059ca84af60621c6eeb0c04d22e041"
-        },
-        {
-            "file": "VISBOT/VC009 The Third Season/07 nemo - to paint with blood (yathosho's age of nuke rework).avs",
-            "size": 3702,
-            "checksum": "sha256:debeb7331b345de042dfd81960e06c417970546e556f60791729afd1f7fb2af1"
-        },
-        {
-            "file": "VISBOT/VC009 The Third Season/08 amphirion - abstractica part deux.avs",
-            "size": 3252,
-            "checksum": "sha256:01e532940d3bd6709f8532fe9e3d7072bf5049fdc109f688878281eb80cccb37"
-        },
-        {
-            "file": "VISBOT/VC009 The Third Season/09 nemo - edit the explode.avs",
-            "size": 70709,
-            "checksum": "sha256:65d19256a29a47bd599411348381310c37bfee62b53a7c52dad6999f9208b02b"
-        },
-        {
-            "file": "VISBOT/VC009 The Third Season/10 synth-c - cool down in hell.avs",
-            "size": 13519,
-            "checksum": "sha256:cca8c819251d0a5abebebf27c6e0ba217a4840b488969a0d9fc4c2169e39d57b"
-        },
-        {
-            "file": "VISBOT/VC009 The Third Season/11 shock value - forces of coherence (frames.of.reality's triwigle edit).avs",
-            "size": 5154,
-            "checksum": "sha256:b1185d7f33d6980d6442dfa9953ca731b9f384f4f01467785b3d871681ef421e"
-        },
-        {
-            "file": "VISBOT/VC009 The Third Season/12 les Noobiens - pullin' out these old bricks (nemo mix).avs",
-            "size": 2830,
-            "checksum": "sha256:dc006559bc303a71af6e1bd3cd86500a7c8eeec3fe522208b0dd00c817c9dcb5"
-        },
-        {
-            "file": "VISBOT/VC009 The Third Season/13 yathosho - braun.avs",
-            "size": 2616,
-            "checksum": "sha256:e2322e9fb2b5d8a1e9eaf904b4ba5749a272b77ac0be20a4f6b54cb850353ade"
-        },
-        {
-            "file": "VISBOT/VC009 The Third Season/14 skupers - calydon (zamuz's blast containment remix).avs",
-            "size": 2887,
-            "checksum": "sha256:5a755f66f0790002fe304186c461c9fd595ff026fdd8bb7b709d34ae1407ff4d"
-        },
-        {
-            "file": "VISBOT/VC009 The Third Season/15 zamuz - flowing glowers.avs",
-            "size": 7901,
-            "checksum": "sha256:902471be0e048bdec0c2bf6572a874aeded8701245e2d7ef3869ea1f5e33f5dd"
-        },
-        {
-            "file": "VISBOT/VC009 The Third Season/16 nemo - ghostdrilt (phirious remix).avs",
-            "size": 7236,
-            "checksum": "sha256:5b13b3e37885df0880573e953bed2ebaacdfc536e76b43e5cad6a458da8e177f"
-        },
-        {
-            "file": "VISBOT/VC009 The Third Season/17 frames.of.reality - intro (yathosho's gif2give high mix).avs",
-            "size": 4244,
-            "checksum": "sha256:730b14b276d9100e27469991726993e4295f6aed939205474268b2d2852b1a56"
-        },
-        {
-            "file": "VISBOT/VC009 The Third Season/18 amphirion - enigma.avs",
-            "size": 5530,
-            "checksum": "sha256:7ef40697609f9a8b6bc77f0eaed7fb71c5c3a45cf38b7c570bed7f14c80d3830"
-        },
-        {
-            "file": "VISBOT/VC009 The Third Season/19 hboy - jewel (synth-c rose remix).avs",
-            "size": 3314,
-            "checksum": "sha256:2c94f93c4d4813b9fd265666a3860d0fc9b492e61a90aa26042068197528a156"
-        },
-        {
-            "file": "VISBOT/VC009 The Third Season/20 frames.of.reality - seturin.avs",
-            "size": 7745,
-            "checksum": "sha256:46ecb7431df5ddb9b36f109946433175676ea907b0a57a7404989b9cf5c775ee"
-        },
-        {
-            "file": "VISBOT/VC009 The Third Season/21 nemo - jaxx.avs",
-            "size": 4606,
-            "checksum": "sha256:a78d00c0729d885bffaf6aeb61eebc43aab4460135f695b078974489e5a6ec31"
-        },
-        {
-            "file": "VISBOT/VC009 The Third Season/22 zamuz - breathe (hboy's toxic lung mix).avs",
-            "size": 19173,
-            "checksum": "sha256:8e11264a6b37354e676ad3c4b2dd805a4264425a51a7a3d1c307336689c111cb"
-        },
-        {
-            "file": "VISBOT/VC009 The Third Season/23 frames.of.reality - tvii scof.avs",
-            "size": 4945,
-            "checksum": "sha256:cabedb6dd4bbc699e9a34253e6da3dc3080d60afecc465f1b96ec3fcbd0482c3"
-        },
-        {
-            "file": "VISBOT/VC009 The Third Season/24 synth-c - vispuddle.avs",
-            "size": 12540,
-            "checksum": "sha256:181425ac5d6c0bd6ecb928cd494cd71fabc12b9fd480b3836df3b04983eed05a"
-        },
-        {
-            "file": "VISBOT/VC009 The Third Season/25 hboy - escalation of geometry.avs",
-            "size": 4883,
-            "checksum": "sha256:7001b555039cd7bf7a68262e88a4fbb23c0041319721fcffb2593018f9bf2434"
-        }
-    ],
-    "assets": [
-        {
-            "file": "v5_circle2.bmp",
-            "size": 4854,
-            "checksum": "sha256:65a9b00fed4552aaac62952a11fdebfcc3f2d98fa1fd61cbf2ce7f0a501f80af"
-        },
-        {
-            "file": "v5_texer2.bmp",
-            "size": 7654,
-            "checksum": "sha256:a72878a14a7f0ea142d39766e37f4c5f2b900a98950d6fd8cb651011e0948ce2"
-        },
-        {
-            "file": "Silkscreen_Bold.ttf",
-            "size": 16172,
-            "checksum": "sha256:cecab42faa04cfc5d5f647ead30d3dbd099468b412300c8a94e5612a76052034"
-        },
-        {
-            "file": "Silkscreen_Expanded_Bold.ttf",
-            "size": 16276,
-            "checksum": "sha256:698eac3062b43638b361660bdb096707b09df13bbf084c4dc95b177a8aa83a7b"
-        },
-        {
-            "file": "Silkscreen_Expanded.ttf",
-            "size": 18444,
-            "checksum": "sha256:1204e736ae72865f861e49396d5313f448357983e9c61d8c0110cd2cdefca9d4"
-        },
-        {
-            "file": "Silkscreen.ttf",
-            "size": 18336,
-            "checksum": "sha256:201df110e8dd8f19da40e5ad953b25bcac34dcb1bd14c7b8e02c9ce0b5ac0ca3"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter",
-        "Triangle"
-    ]
+	"name": "VISBOT The Third Season",
+	"id": "VC009",
+	"presets": [
+		{
+			"file": "VISBOT/VC009 The Third Season/01 hboy - fragile (yathosho's ill bill-board intro mix).avs",
+			"size": 5399,
+			"checksum": "sha256:af531393f6805df04d8ac8d3f4cca94c5082160db1941326e395acdfa71b0d9f"
+		},
+		{
+			"file": "VISBOT/VC009 The Third Season/02 frames.of.reality - plots of summer (nemo mix).avs",
+			"size": 3693,
+			"checksum": "sha256:ea99a3e0e64924dca42b7723227a59c33aca502c49af79e077f587cf5f491acc"
+		},
+		{
+			"file": "VISBOT/VC009 The Third Season/03 les Noobiens - blockz (zamuz's decorative remix).avs",
+			"size": 4239,
+			"checksum": "sha256:68106f05589881d047d913de453424266977c83b3f35aa2336129b682413f2e5"
+		},
+		{
+			"file": "VISBOT/VC009 The Third Season/04 a3 - disillusionary2 (blame the blocks remix by frames.of.reality).avs",
+			"size": 2783,
+			"checksum": "sha256:0e6bc9cfe2f28d688cdf8bfa7668826eb053ce8589dc419f60fb82a5544c30f5"
+		},
+		{
+			"file": "VISBOT/VC009 The Third Season/05 hboy - reverie.avs",
+			"size": 3561,
+			"checksum": "sha256:c2bc7d9d3b80c27088fbc74969a1bcac2b6039a5a48080a62f56546e3bf28b87"
+		},
+		{
+			"file": "VISBOT/VC009 The Third Season/06 zamuz - thirdside chain.avs",
+			"size": 15277,
+			"checksum": "sha256:e193b66cb309a4604f6df3a5f675fc3df8059ca84af60621c6eeb0c04d22e041"
+		},
+		{
+			"file": "VISBOT/VC009 The Third Season/07 nemo - to paint with blood (yathosho's age of nuke rework).avs",
+			"size": 3702,
+			"checksum": "sha256:debeb7331b345de042dfd81960e06c417970546e556f60791729afd1f7fb2af1"
+		},
+		{
+			"file": "VISBOT/VC009 The Third Season/08 amphirion - abstractica part deux.avs",
+			"size": 3252,
+			"checksum": "sha256:01e532940d3bd6709f8532fe9e3d7072bf5049fdc109f688878281eb80cccb37"
+		},
+		{
+			"file": "VISBOT/VC009 The Third Season/09 nemo - edit the explode.avs",
+			"size": 70709,
+			"checksum": "sha256:65d19256a29a47bd599411348381310c37bfee62b53a7c52dad6999f9208b02b"
+		},
+		{
+			"file": "VISBOT/VC009 The Third Season/10 synth-c - cool down in hell.avs",
+			"size": 13519,
+			"checksum": "sha256:cca8c819251d0a5abebebf27c6e0ba217a4840b488969a0d9fc4c2169e39d57b"
+		},
+		{
+			"file": "VISBOT/VC009 The Third Season/11 shock value - forces of coherence (frames.of.reality's triwigle edit).avs",
+			"size": 5154,
+			"checksum": "sha256:b1185d7f33d6980d6442dfa9953ca731b9f384f4f01467785b3d871681ef421e"
+		},
+		{
+			"file": "VISBOT/VC009 The Third Season/12 les Noobiens - pullin' out these old bricks (nemo mix).avs",
+			"size": 2830,
+			"checksum": "sha256:dc006559bc303a71af6e1bd3cd86500a7c8eeec3fe522208b0dd00c817c9dcb5"
+		},
+		{
+			"file": "VISBOT/VC009 The Third Season/13 yathosho - braun.avs",
+			"size": 2616,
+			"checksum": "sha256:e2322e9fb2b5d8a1e9eaf904b4ba5749a272b77ac0be20a4f6b54cb850353ade"
+		},
+		{
+			"file": "VISBOT/VC009 The Third Season/14 skupers - calydon (zamuz's blast containment remix).avs",
+			"size": 2887,
+			"checksum": "sha256:5a755f66f0790002fe304186c461c9fd595ff026fdd8bb7b709d34ae1407ff4d"
+		},
+		{
+			"file": "VISBOT/VC009 The Third Season/15 zamuz - flowing glowers.avs",
+			"size": 7901,
+			"checksum": "sha256:902471be0e048bdec0c2bf6572a874aeded8701245e2d7ef3869ea1f5e33f5dd"
+		},
+		{
+			"file": "VISBOT/VC009 The Third Season/16 nemo - ghostdrilt (phirious remix).avs",
+			"size": 7236,
+			"checksum": "sha256:5b13b3e37885df0880573e953bed2ebaacdfc536e76b43e5cad6a458da8e177f"
+		},
+		{
+			"file": "VISBOT/VC009 The Third Season/17 frames.of.reality - intro (yathosho's gif2give high mix).avs",
+			"size": 4244,
+			"checksum": "sha256:730b14b276d9100e27469991726993e4295f6aed939205474268b2d2852b1a56"
+		},
+		{
+			"file": "VISBOT/VC009 The Third Season/18 amphirion - enigma.avs",
+			"size": 5530,
+			"checksum": "sha256:7ef40697609f9a8b6bc77f0eaed7fb71c5c3a45cf38b7c570bed7f14c80d3830"
+		},
+		{
+			"file": "VISBOT/VC009 The Third Season/19 hboy - jewel (synth-c rose remix).avs",
+			"size": 3314,
+			"checksum": "sha256:2c94f93c4d4813b9fd265666a3860d0fc9b492e61a90aa26042068197528a156"
+		},
+		{
+			"file": "VISBOT/VC009 The Third Season/20 frames.of.reality - seturin.avs",
+			"size": 7745,
+			"checksum": "sha256:46ecb7431df5ddb9b36f109946433175676ea907b0a57a7404989b9cf5c775ee"
+		},
+		{
+			"file": "VISBOT/VC009 The Third Season/21 nemo - jaxx.avs",
+			"size": 4606,
+			"checksum": "sha256:a78d00c0729d885bffaf6aeb61eebc43aab4460135f695b078974489e5a6ec31"
+		},
+		{
+			"file": "VISBOT/VC009 The Third Season/22 zamuz - breathe (hboy's toxic lung mix).avs",
+			"size": 19173,
+			"checksum": "sha256:8e11264a6b37354e676ad3c4b2dd805a4264425a51a7a3d1c307336689c111cb"
+		},
+		{
+			"file": "VISBOT/VC009 The Third Season/23 frames.of.reality - tvii scof.avs",
+			"size": 4945,
+			"checksum": "sha256:cabedb6dd4bbc699e9a34253e6da3dc3080d60afecc465f1b96ec3fcbd0482c3"
+		},
+		{
+			"file": "VISBOT/VC009 The Third Season/24 synth-c - vispuddle.avs",
+			"size": 12540,
+			"checksum": "sha256:181425ac5d6c0bd6ecb928cd494cd71fabc12b9fd480b3836df3b04983eed05a"
+		},
+		{
+			"file": "VISBOT/VC009 The Third Season/25 hboy - escalation of geometry.avs",
+			"size": 4883,
+			"checksum": "sha256:7001b555039cd7bf7a68262e88a4fbb23c0041319721fcffb2593018f9bf2434"
+		}
+	],
+	"assets": [
+		{
+			"file": "v5_circle2.bmp",
+			"size": 4854,
+			"checksum": "sha256:65a9b00fed4552aaac62952a11fdebfcc3f2d98fa1fd61cbf2ce7f0a501f80af"
+		},
+		{
+			"file": "v5_texer2.bmp",
+			"size": 7654,
+			"checksum": "sha256:a72878a14a7f0ea142d39766e37f4c5f2b900a98950d6fd8cb651011e0948ce2"
+		},
+		{
+			"file": "Silkscreen_Bold.ttf",
+			"size": 16172,
+			"checksum": "sha256:cecab42faa04cfc5d5f647ead30d3dbd099468b412300c8a94e5612a76052034"
+		},
+		{
+			"file": "Silkscreen_Expanded_Bold.ttf",
+			"size": 16276,
+			"checksum": "sha256:698eac3062b43638b361660bdb096707b09df13bbf084c4dc95b177a8aa83a7b"
+		},
+		{
+			"file": "Silkscreen_Expanded.ttf",
+			"size": 18444,
+			"checksum": "sha256:1204e736ae72865f861e49396d5313f448357983e9c61d8c0110cd2cdefca9d4"
+		},
+		{
+			"file": "Silkscreen.ttf",
+			"size": 18336,
+			"checksum": "sha256:201df110e8dd8f19da40e5ad953b25bcac34dcb1bd14c7b8e02c9ce0b5ac0ca3"
+		}
+	],
+	"plugins": ["ConvolutionFilter", "Triangle"]
 }

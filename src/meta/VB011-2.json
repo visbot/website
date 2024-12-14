@@ -1,24 +1,22 @@
 {
-    "name": "whyEye.org v2ep",
-    "id": "VB011-2",
-    "presets": [
-        {
-            "file": "whyEye.org/whyEye.org v2ep/yiA1__lichtkörper_(clean_edit)_v2.avs",
-            "size": 1146,
-            "checksum": "sha256:b2ab866810f9c5b31d3960129d1537955bfc20a1f27550e294aeca7f6a5dfb37"
-        },
-        {
-            "file": "whyEye.org/whyEye.org v2ep/yiB1__1970_v2.avs",
-            "size": 1142,
-            "checksum": "sha256:1a21891613c42f2ee30d4d22940a696fd11d8785899df32a95bec76353a9112f"
-        },
-        {
-            "file": "whyEye.org/whyEye.org v2ep/yiB2__sternfrucht_v2.avs",
-            "size": 1141,
-            "checksum": "sha256:48d6df91ffd469bd6149378a0f7c3ee26722346b7025e0e2b28b704ea96916c1"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "whyEye.org v2ep",
+	"id": "VB011-2",
+	"presets": [
+		{
+			"file": "whyEye.org/whyEye.org v2ep/yiA1__lichtkörper_(clean_edit)_v2.avs",
+			"size": 1146,
+			"checksum": "sha256:b2ab866810f9c5b31d3960129d1537955bfc20a1f27550e294aeca7f6a5dfb37"
+		},
+		{
+			"file": "whyEye.org/whyEye.org v2ep/yiB1__1970_v2.avs",
+			"size": 1142,
+			"checksum": "sha256:1a21891613c42f2ee30d4d22940a696fd11d8785899df32a95bec76353a9112f"
+		},
+		{
+			"file": "whyEye.org/whyEye.org v2ep/yiB2__sternfrucht_v2.avs",
+			"size": 1141,
+			"checksum": "sha256:48d6df91ffd469bd6149378a0f7c3ee26722346b7025e0e2b28b704ea96916c1"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

@@ -1,41 +1,39 @@
 {
-    "name": "whyEye.org since when 3",
-    "id": "VB168",
-    "presets": [
-        {
-            "file": "whyEye.org/whyEye.org since when 3/yiA1 mr nudge - bounce (ya-tho-sho cut).avs",
-            "size": 4322,
-            "checksum": "sha256:ea76d0f29c8efa00aa1fd5cb19af542cbf95f6ad492850b2091a81810d5dc1f2"
-        },
-        {
-            "file": "whyEye.org/whyEye.org since when 3/yiA2 zamuz - freeform (raz remix - edit).avs",
-            "size": 5765,
-            "checksum": "sha256:3471a935a5d38eaf3af693795f5208cf5b50dcd278ff71cc2ba25bdeba31d737"
-        },
-        {
-            "file": "whyEye.org/whyEye.org since when 3/yiB1 nic01 - a mere grid (edit).avs",
-            "size": 3803,
-            "checksum": "sha256:16b88714146e799fe267ba91549195f430b5914249411cd1f1bc739bcde8e5dd"
-        },
-        {
-            "file": "whyEye.org/whyEye.org since when 3/yiB2 degnic & zamuz - tipsy triple (yathosho inkjet rework).avs",
-            "size": 3605,
-            "checksum": "sha256:f34befa0d1ff987982a6dc1d809457dd4af2074fd1f5140ba4c41016d12bc351"
-        }
-    ],
-    "assets": [
-        {
-            "file": "avsres_texer_circle_fade_29x29.bmp",
-            "size": 2606,
-            "checksum": "sha256:10bcb870745a117d8cd57e44f60718e278a0e3ae25e3eaa9250e7936c1dc6fba"
-        },
-        {
-            "file": "avsres_texer_circle_sharp_09x09.bmp",
-            "size": 450,
-            "checksum": "sha256:6ff6f86f427968efbd9a21ddce8cf0cd681681f0d7fc772659a86700a9c7d0ac"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "whyEye.org since when 3",
+	"id": "VB168",
+	"presets": [
+		{
+			"file": "whyEye.org/whyEye.org since when 3/yiA1 mr nudge - bounce (ya-tho-sho cut).avs",
+			"size": 4322,
+			"checksum": "sha256:ea76d0f29c8efa00aa1fd5cb19af542cbf95f6ad492850b2091a81810d5dc1f2"
+		},
+		{
+			"file": "whyEye.org/whyEye.org since when 3/yiA2 zamuz - freeform (raz remix - edit).avs",
+			"size": 5765,
+			"checksum": "sha256:3471a935a5d38eaf3af693795f5208cf5b50dcd278ff71cc2ba25bdeba31d737"
+		},
+		{
+			"file": "whyEye.org/whyEye.org since when 3/yiB1 nic01 - a mere grid (edit).avs",
+			"size": 3803,
+			"checksum": "sha256:16b88714146e799fe267ba91549195f430b5914249411cd1f1bc739bcde8e5dd"
+		},
+		{
+			"file": "whyEye.org/whyEye.org since when 3/yiB2 degnic & zamuz - tipsy triple (yathosho inkjet rework).avs",
+			"size": 3605,
+			"checksum": "sha256:f34befa0d1ff987982a6dc1d809457dd4af2074fd1f5140ba4c41016d12bc351"
+		}
+	],
+	"assets": [
+		{
+			"file": "avsres_texer_circle_fade_29x29.bmp",
+			"size": 2606,
+			"checksum": "sha256:10bcb870745a117d8cd57e44f60718e278a0e3ae25e3eaa9250e7936c1dc6fba"
+		},
+		{
+			"file": "avsres_texer_circle_sharp_09x09.bmp",
+			"size": 450,
+			"checksum": "sha256:6ff6f86f427968efbd9a21ddce8cf0cd681681f0d7fc772659a86700a9c7d0ac"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

@@ -1,109 +1,107 @@
 {
-    "name": "Dynamic Duo presents Broker's Insider Volume 4",
-    "id": "VB054",
-    "presets": [
-        {
-            "file": "Broker's Insider/Dynamic Duo presents Broker's Insider Volume 4/01 Dynamic Duo - Zamuzified (Broker's Intro Edit).avs",
-            "size": 3002,
-            "checksum": "sha256:f833b20abec8d9e655341c13576ba73a0c920c378a07eb2d53018bc3f62dab96"
-        },
-        {
-            "file": "Broker's Insider/Dynamic Duo presents Broker's Insider Volume 4/02 Yathosho - Superkombi.avs",
-            "size": 1476,
-            "checksum": "sha256:72522729afe73fec280b558f789dfc81b837c41003e9294062c95d1dc6079a04"
-        },
-        {
-            "file": "Broker's Insider/Dynamic Duo presents Broker's Insider Volume 4/03 Amphirion - Be Square (les Noobiens Formula Rework).avs",
-            "size": 2858,
-            "checksum": "sha256:df2d6a3baddbb1b2d82b3fe6a6a2044bf07bb9a3a274b2b48a33b89a4fa786a6"
-        },
-        {
-            "file": "Broker's Insider/Dynamic Duo presents Broker's Insider Volume 4/04 Dynamic Duo - Dial M for Drugstore (V.I.P.).avs",
-            "size": 2120,
-            "checksum": "sha256:0f5f144fdf76a46e37c69bbfdeb7f983042b1f85dd19a5e0f48cfc9d288e65cf"
-        },
-        {
-            "file": "Broker's Insider/Dynamic Duo presents Broker's Insider Volume 4/05 Dynamic Duo - Retexturized.avs",
-            "size": 3277,
-            "checksum": "sha256:a494c4fdaa66e82c38b21da74356fa9554cb2395f1389ac3fa439eee11ecbeaa"
-        },
-        {
-            "file": "Broker's Insider/Dynamic Duo presents Broker's Insider Volume 4/06 I Cook Coxy Gay - Gold Water (S_KuPeRS Out Fishing Remix).avs",
-            "size": 1888,
-            "checksum": "sha256:cff47e854f4070360cdd5b2fb27364e1d665f9de9bc0dadf72e63418373d34f0"
-        },
-        {
-            "file": "Broker's Insider/Dynamic Duo presents Broker's Insider Volume 4/07 Dynamic Duo - My Gold Teeth.avs",
-            "size": 2886,
-            "checksum": "sha256:6c1f4b59ebc7dd4e2b603c0ac3a982da8c8ed21808947c58d73b955c3f9a8956"
-        },
-        {
-            "file": "Broker's Insider/Dynamic Duo presents Broker's Insider Volume 4/08 Dynamic Duo vs EL-VIS - Urban Breakdown (Alternative Edit).avs",
-            "size": 2185,
-            "checksum": "sha256:72da2ff18adaf2d0b0f8cb1f736a1bf8927e68a762e17cdd0acfd8461eb24617"
-        },
-        {
-            "file": "Broker's Insider/Dynamic Duo presents Broker's Insider Volume 4/09 Dynamic Duo vs Runar - Erazemia Dream (Structuring Remix).avs",
-            "size": 3919,
-            "checksum": "sha256:342f2c2239a089abeada3ea150885dd56f4308239d159ecf15fe3c8fd18319d7"
-        },
-        {
-            "file": "Broker's Insider/Dynamic Duo presents Broker's Insider Volume 4/10 Yathosho - ANJA RUTA(TM).avs",
-            "size": 1428,
-            "checksum": "sha256:7c5c1ca19b0e55995d6f1d5fc92de299cbc23bdaa5a82b91fb8423afbb241f10"
-        },
-        {
-            "file": "Broker's Insider/Dynamic Duo presents Broker's Insider Volume 4/11 Dynamic Duo - It's all square.avs",
-            "size": 2022,
-            "checksum": "sha256:f64f7cfca85ef0acffbb075cf8dc8252077c012702188f8aeb7da9773e688831"
-        },
-        {
-            "file": "Broker's Insider/Dynamic Duo presents Broker's Insider Volume 4/12 Yathosho vs NemoOrange - Honeytek (V.I.P.).avs",
-            "size": 1728,
-            "checksum": "sha256:ec0e8200b4609fb0536a74519f72ab12056117734cca83f6b3b5bbdc54a2dd14"
-        },
-        {
-            "file": "Broker's Insider/Dynamic Duo presents Broker's Insider Volume 4/13 Dynamic Duo vs les Noobiens - Do you copy.avs",
-            "size": 3025,
-            "checksum": "sha256:94da7aab88270f84571de584277d6e1fcf7a5d64dcf2fa523eb07acbce092a8f"
-        },
-        {
-            "file": "Broker's Insider/Dynamic Duo presents Broker's Insider Volume 4/14 Yathosho vs Unripe Lemon - Go-Pad.avs",
-            "size": 1343,
-            "checksum": "sha256:9e5c32c4957d8cb3eb938018a9fb236b6bee97493ec3e88c6e6fdef32ec0fc28"
-        },
-        {
-            "file": "Broker's Insider/Dynamic Duo presents Broker's Insider Volume 4/15 Zamuz - Superkombi (Rebroken Remix).avs",
-            "size": 3010,
-            "checksum": "sha256:c7b5dd636bcb02a2cdf5fa5d48d518c121d1f7c3cfd44718e3e42217c94d9b16"
-        },
-        {
-            "file": "Broker's Insider/Dynamic Duo presents Broker's Insider Volume 4/16 Yathosho vs P-K - Expect the Expected (V.I.P.).avs",
-            "size": 1983,
-            "checksum": "sha256:84fa3776da4070b937b4398594a7e5658b8efa0e698605ab25f9285fa1f85679"
-        },
-        {
-            "file": "Broker's Insider/Dynamic Duo presents Broker's Insider Volume 4/17 Dynamic Duo - Fix up that VISBOT.avs",
-            "size": 1938,
-            "checksum": "sha256:fa4f6393cc985b9af9e74093f592236b223d0a9d500d16983cd87f453a1d0f82"
-        },
-        {
-            "file": "Broker's Insider/Dynamic Duo presents Broker's Insider Volume 4/18 Yathosho - Respiced.avs",
-            "size": 1635,
-            "checksum": "sha256:bd1850d6fed6b7235104c48d3840276537319a0ef5ac5dbc689e10eb26764454"
-        },
-        {
-            "file": "Broker's Insider/Dynamic Duo presents Broker's Insider Volume 4/19 Yathosho - Zuviel davon (the Eighties).avs",
-            "size": 2137,
-            "checksum": "sha256:48c51ebbbd130c93c660a738a8a05a25ad69bc4597001cbe54892fe07c0def78"
-        },
-        {
-            "file": "Broker's Insider/Dynamic Duo presents Broker's Insider Volume 4/20 Dynamic Duo - Kinderschokolade (Ya-tho-sho Treatment).avs",
-            "size": 1146,
-            "checksum": "sha256:a40c9a8c6c3f81761c63ea11625b7e49483f751308b1a2ca181ce19b135e1742"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "Dynamic Duo presents Broker's Insider Volume 4",
+	"id": "VB054",
+	"presets": [
+		{
+			"file": "Broker's Insider/Dynamic Duo presents Broker's Insider Volume 4/01 Dynamic Duo - Zamuzified (Broker's Intro Edit).avs",
+			"size": 3002,
+			"checksum": "sha256:f833b20abec8d9e655341c13576ba73a0c920c378a07eb2d53018bc3f62dab96"
+		},
+		{
+			"file": "Broker's Insider/Dynamic Duo presents Broker's Insider Volume 4/02 Yathosho - Superkombi.avs",
+			"size": 1476,
+			"checksum": "sha256:72522729afe73fec280b558f789dfc81b837c41003e9294062c95d1dc6079a04"
+		},
+		{
+			"file": "Broker's Insider/Dynamic Duo presents Broker's Insider Volume 4/03 Amphirion - Be Square (les Noobiens Formula Rework).avs",
+			"size": 2858,
+			"checksum": "sha256:df2d6a3baddbb1b2d82b3fe6a6a2044bf07bb9a3a274b2b48a33b89a4fa786a6"
+		},
+		{
+			"file": "Broker's Insider/Dynamic Duo presents Broker's Insider Volume 4/04 Dynamic Duo - Dial M for Drugstore (V.I.P.).avs",
+			"size": 2120,
+			"checksum": "sha256:0f5f144fdf76a46e37c69bbfdeb7f983042b1f85dd19a5e0f48cfc9d288e65cf"
+		},
+		{
+			"file": "Broker's Insider/Dynamic Duo presents Broker's Insider Volume 4/05 Dynamic Duo - Retexturized.avs",
+			"size": 3277,
+			"checksum": "sha256:a494c4fdaa66e82c38b21da74356fa9554cb2395f1389ac3fa439eee11ecbeaa"
+		},
+		{
+			"file": "Broker's Insider/Dynamic Duo presents Broker's Insider Volume 4/06 I Cook Coxy Gay - Gold Water (S_KuPeRS Out Fishing Remix).avs",
+			"size": 1888,
+			"checksum": "sha256:cff47e854f4070360cdd5b2fb27364e1d665f9de9bc0dadf72e63418373d34f0"
+		},
+		{
+			"file": "Broker's Insider/Dynamic Duo presents Broker's Insider Volume 4/07 Dynamic Duo - My Gold Teeth.avs",
+			"size": 2886,
+			"checksum": "sha256:6c1f4b59ebc7dd4e2b603c0ac3a982da8c8ed21808947c58d73b955c3f9a8956"
+		},
+		{
+			"file": "Broker's Insider/Dynamic Duo presents Broker's Insider Volume 4/08 Dynamic Duo vs EL-VIS - Urban Breakdown (Alternative Edit).avs",
+			"size": 2185,
+			"checksum": "sha256:72da2ff18adaf2d0b0f8cb1f736a1bf8927e68a762e17cdd0acfd8461eb24617"
+		},
+		{
+			"file": "Broker's Insider/Dynamic Duo presents Broker's Insider Volume 4/09 Dynamic Duo vs Runar - Erazemia Dream (Structuring Remix).avs",
+			"size": 3919,
+			"checksum": "sha256:342f2c2239a089abeada3ea150885dd56f4308239d159ecf15fe3c8fd18319d7"
+		},
+		{
+			"file": "Broker's Insider/Dynamic Duo presents Broker's Insider Volume 4/10 Yathosho - ANJA RUTA(TM).avs",
+			"size": 1428,
+			"checksum": "sha256:7c5c1ca19b0e55995d6f1d5fc92de299cbc23bdaa5a82b91fb8423afbb241f10"
+		},
+		{
+			"file": "Broker's Insider/Dynamic Duo presents Broker's Insider Volume 4/11 Dynamic Duo - It's all square.avs",
+			"size": 2022,
+			"checksum": "sha256:f64f7cfca85ef0acffbb075cf8dc8252077c012702188f8aeb7da9773e688831"
+		},
+		{
+			"file": "Broker's Insider/Dynamic Duo presents Broker's Insider Volume 4/12 Yathosho vs NemoOrange - Honeytek (V.I.P.).avs",
+			"size": 1728,
+			"checksum": "sha256:ec0e8200b4609fb0536a74519f72ab12056117734cca83f6b3b5bbdc54a2dd14"
+		},
+		{
+			"file": "Broker's Insider/Dynamic Duo presents Broker's Insider Volume 4/13 Dynamic Duo vs les Noobiens - Do you copy.avs",
+			"size": 3025,
+			"checksum": "sha256:94da7aab88270f84571de584277d6e1fcf7a5d64dcf2fa523eb07acbce092a8f"
+		},
+		{
+			"file": "Broker's Insider/Dynamic Duo presents Broker's Insider Volume 4/14 Yathosho vs Unripe Lemon - Go-Pad.avs",
+			"size": 1343,
+			"checksum": "sha256:9e5c32c4957d8cb3eb938018a9fb236b6bee97493ec3e88c6e6fdef32ec0fc28"
+		},
+		{
+			"file": "Broker's Insider/Dynamic Duo presents Broker's Insider Volume 4/15 Zamuz - Superkombi (Rebroken Remix).avs",
+			"size": 3010,
+			"checksum": "sha256:c7b5dd636bcb02a2cdf5fa5d48d518c121d1f7c3cfd44718e3e42217c94d9b16"
+		},
+		{
+			"file": "Broker's Insider/Dynamic Duo presents Broker's Insider Volume 4/16 Yathosho vs P-K - Expect the Expected (V.I.P.).avs",
+			"size": 1983,
+			"checksum": "sha256:84fa3776da4070b937b4398594a7e5658b8efa0e698605ab25f9285fa1f85679"
+		},
+		{
+			"file": "Broker's Insider/Dynamic Duo presents Broker's Insider Volume 4/17 Dynamic Duo - Fix up that VISBOT.avs",
+			"size": 1938,
+			"checksum": "sha256:fa4f6393cc985b9af9e74093f592236b223d0a9d500d16983cd87f453a1d0f82"
+		},
+		{
+			"file": "Broker's Insider/Dynamic Duo presents Broker's Insider Volume 4/18 Yathosho - Respiced.avs",
+			"size": 1635,
+			"checksum": "sha256:bd1850d6fed6b7235104c48d3840276537319a0ef5ac5dbc689e10eb26764454"
+		},
+		{
+			"file": "Broker's Insider/Dynamic Duo presents Broker's Insider Volume 4/19 Yathosho - Zuviel davon (the Eighties).avs",
+			"size": 2137,
+			"checksum": "sha256:48c51ebbbd130c93c660a738a8a05a25ad69bc4597001cbe54892fe07c0def78"
+		},
+		{
+			"file": "Broker's Insider/Dynamic Duo presents Broker's Insider Volume 4/20 Dynamic Duo - Kinderschokolade (Ya-tho-sho Treatment).avs",
+			"size": 1146,
+			"checksum": "sha256:a40c9a8c6c3f81761c63ea11625b7e49483f751308b1a2ca181ce19b135e1742"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

@@ -1,69 +1,67 @@
 {
-    "name": "les Noobiens present noobtroop volume 2",
-    "id": "VB084",
-    "presets": [
-        {
-            "file": "les Noobiens/les Noobiens present noobtroop volume 2/01 noobtroop - the embarrassing intro.avs",
-            "size": 1591,
-            "checksum": "sha256:edc260566f7fdda14de1e41d19b43bad1601baf89eaad368d7ad687705ed967b"
-        },
-        {
-            "file": "les Noobiens/les Noobiens present noobtroop volume 2/02 -+dAsN00b+- - sucking brg data.avs",
-            "size": 930,
-            "checksum": "sha256:a772a6841eb5eab3e8da62dd1de4dff210b2aa40a59f76e4420b4cbbb86e0fe2"
-        },
-        {
-            "file": "les Noobiens/les Noobiens present noobtroop volume 2/03 musick - flughafeninformationssystem.avs",
-            "size": 29300,
-            "checksum": "sha256:15f2732ea88f91aee67b71a8008e66eb5d25b95558b124098e95d63a015ec621"
-        },
-        {
-            "file": "les Noobiens/les Noobiens present noobtroop volume 2/04 pan am - this is ground control (les Noobiens rework).avs",
-            "size": 1386,
-            "checksum": "sha256:8af7034b0e2b73ae36e3013f8c4c78627264b224394b9ccd44336038b9fec153"
-        },
-        {
-            "file": "les Noobiens/les Noobiens present noobtroop volume 2/05 guesshimself - snow drift.avs",
-            "size": 1644,
-            "checksum": "sha256:9a912fa472891e8515e7f2fc46c6d2a7a5a8358e068396fe8cca125f0293df29"
-        },
-        {
-            "file": "les Noobiens/les Noobiens present noobtroop volume 2/06 nemo - ascii scene.avs",
-            "size": 7268,
-            "checksum": "sha256:30e03494fd6ed69be2adff713864a72cef3c730d91f67011678cb9626f5d6875"
-        },
-        {
-            "file": "les Noobiens/les Noobiens present noobtroop volume 2/07 onionring - living watercolor (yathosho's fragmentation alpha version).avs",
-            "size": 3221,
-            "checksum": "sha256:732445da81dd9bcc774361b245e179da072e99a9673fd6a0515188e5bd00204a"
-        },
-        {
-            "file": "les Noobiens/les Noobiens present noobtroop volume 2/08 yathosho - pullin out these old tricks (alternative edit).avs",
-            "size": 1794,
-            "checksum": "sha256:8471483f3350ff62b53a123778ab8c7a934ea88600c21d1bbb531a1fb62c46af"
-        },
-        {
-            "file": "les Noobiens/les Noobiens present noobtroop volume 2/09 les Noobiens play unripe lemon - les Noobiens 2 (alpha version).avs",
-            "size": 5273,
-            "checksum": "sha256:bb5744d729e55e7d8835e0aa15a829b3e0cd7ca47e17a622c218d832603a6d93"
-        },
-        {
-            "file": "les Noobiens/les Noobiens present noobtroop volume 2/10 -+dAsN00b+- - c64 squares (nu lesbians rework).avs",
-            "size": 6057,
-            "checksum": "sha256:9a5cb36210ead3ec1904bf197e38c64c833c1560f3f083c5c597ee29f0d39772"
-        },
-        {
-            "file": "les Noobiens/les Noobiens present noobtroop volume 2/11 musick - where in the world is carmen sandiego.avs",
-            "size": 1397,
-            "checksum": "sha256:d6783d48e2363b3d01c23d7e9278fe56d64b936e09118f820509426830e497d6"
-        },
-        {
-            "file": "les Noobiens/les Noobiens present noobtroop volume 2/12 dark matter - ancient.avs",
-            "size": 2323,
-            "checksum": "sha256:66e901d03d60bfc02601b22297bf82391be37b8ae070b005b2d11734e7deac55"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "les Noobiens present noobtroop volume 2",
+	"id": "VB084",
+	"presets": [
+		{
+			"file": "les Noobiens/les Noobiens present noobtroop volume 2/01 noobtroop - the embarrassing intro.avs",
+			"size": 1591,
+			"checksum": "sha256:edc260566f7fdda14de1e41d19b43bad1601baf89eaad368d7ad687705ed967b"
+		},
+		{
+			"file": "les Noobiens/les Noobiens present noobtroop volume 2/02 -+dAsN00b+- - sucking brg data.avs",
+			"size": 930,
+			"checksum": "sha256:a772a6841eb5eab3e8da62dd1de4dff210b2aa40a59f76e4420b4cbbb86e0fe2"
+		},
+		{
+			"file": "les Noobiens/les Noobiens present noobtroop volume 2/03 musick - flughafeninformationssystem.avs",
+			"size": 29300,
+			"checksum": "sha256:15f2732ea88f91aee67b71a8008e66eb5d25b95558b124098e95d63a015ec621"
+		},
+		{
+			"file": "les Noobiens/les Noobiens present noobtroop volume 2/04 pan am - this is ground control (les Noobiens rework).avs",
+			"size": 1386,
+			"checksum": "sha256:8af7034b0e2b73ae36e3013f8c4c78627264b224394b9ccd44336038b9fec153"
+		},
+		{
+			"file": "les Noobiens/les Noobiens present noobtroop volume 2/05 guesshimself - snow drift.avs",
+			"size": 1644,
+			"checksum": "sha256:9a912fa472891e8515e7f2fc46c6d2a7a5a8358e068396fe8cca125f0293df29"
+		},
+		{
+			"file": "les Noobiens/les Noobiens present noobtroop volume 2/06 nemo - ascii scene.avs",
+			"size": 7268,
+			"checksum": "sha256:30e03494fd6ed69be2adff713864a72cef3c730d91f67011678cb9626f5d6875"
+		},
+		{
+			"file": "les Noobiens/les Noobiens present noobtroop volume 2/07 onionring - living watercolor (yathosho's fragmentation alpha version).avs",
+			"size": 3221,
+			"checksum": "sha256:732445da81dd9bcc774361b245e179da072e99a9673fd6a0515188e5bd00204a"
+		},
+		{
+			"file": "les Noobiens/les Noobiens present noobtroop volume 2/08 yathosho - pullin out these old tricks (alternative edit).avs",
+			"size": 1794,
+			"checksum": "sha256:8471483f3350ff62b53a123778ab8c7a934ea88600c21d1bbb531a1fb62c46af"
+		},
+		{
+			"file": "les Noobiens/les Noobiens present noobtroop volume 2/09 les Noobiens play unripe lemon - les Noobiens 2 (alpha version).avs",
+			"size": 5273,
+			"checksum": "sha256:bb5744d729e55e7d8835e0aa15a829b3e0cd7ca47e17a622c218d832603a6d93"
+		},
+		{
+			"file": "les Noobiens/les Noobiens present noobtroop volume 2/10 -+dAsN00b+- - c64 squares (nu lesbians rework).avs",
+			"size": 6057,
+			"checksum": "sha256:9a5cb36210ead3ec1904bf197e38c64c833c1560f3f083c5c597ee29f0d39772"
+		},
+		{
+			"file": "les Noobiens/les Noobiens present noobtroop volume 2/11 musick - where in the world is carmen sandiego.avs",
+			"size": 1397,
+			"checksum": "sha256:d6783d48e2363b3d01c23d7e9278fe56d64b936e09118f820509426830e497d6"
+		},
+		{
+			"file": "les Noobiens/les Noobiens present noobtroop volume 2/12 dark matter - ancient.avs",
+			"size": 2323,
+			"checksum": "sha256:66e901d03d60bfc02601b22297bf82391be37b8ae070b005b2d11734e7deac55"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

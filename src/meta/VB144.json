@@ -1,29 +1,27 @@
 {
-    "name": "DDxo4",
-    "id": "VB144",
-    "presets": [
-        {
-            "file": "Dynamic Duo/DDxo4/ddA1__upachi (drug friendly mix by zamuz).avs",
-            "size": 6628,
-            "checksum": "sha256:08392fb695559ef5c1d375fd6f2d49699ae93203ca7696c9a5164745b19ed4c8"
-        },
-        {
-            "file": "Dynamic Duo/DDxo4/ddA2__tentaclism (the y.m.o. rework #1).avs",
-            "size": 2303,
-            "checksum": "sha256:3a20c53a4015fac1b76764baf3c080b32cfc4c8d0244fd3b01e3fd92edc45f8c"
-        },
-        {
-            "file": "Dynamic Duo/DDxo4/ddB1__tentaclism (bw mix by meaningless-existance).avs",
-            "size": 4444,
-            "checksum": "sha256:98732804792ee597e20221f240606c3f1d3aa4bed4cc7e59de37814114ab6548"
-        },
-        {
-            "file": "Dynamic Duo/DDxo4/ddB2__chromatics (glowy mix by meaningless-existance).avs",
-            "size": 5301,
-            "checksum": "sha256:f70bceb1a522229182079e755250f3d5c56d2013b259ea76bd85d9c09ad52d33"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "DDxo4",
+	"id": "VB144",
+	"presets": [
+		{
+			"file": "Dynamic Duo/DDxo4/ddA1__upachi (drug friendly mix by zamuz).avs",
+			"size": 6628,
+			"checksum": "sha256:08392fb695559ef5c1d375fd6f2d49699ae93203ca7696c9a5164745b19ed4c8"
+		},
+		{
+			"file": "Dynamic Duo/DDxo4/ddA2__tentaclism (the y.m.o. rework #1).avs",
+			"size": 2303,
+			"checksum": "sha256:3a20c53a4015fac1b76764baf3c080b32cfc4c8d0244fd3b01e3fd92edc45f8c"
+		},
+		{
+			"file": "Dynamic Duo/DDxo4/ddB1__tentaclism (bw mix by meaningless-existance).avs",
+			"size": 4444,
+			"checksum": "sha256:98732804792ee597e20221f240606c3f1d3aa4bed4cc7e59de37814114ab6548"
+		},
+		{
+			"file": "Dynamic Duo/DDxo4/ddB2__chromatics (glowy mix by meaningless-existance).avs",
+			"size": 5301,
+			"checksum": "sha256:f70bceb1a522229182079e755250f3d5c56d2013b259ea76bd85d9c09ad52d33"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

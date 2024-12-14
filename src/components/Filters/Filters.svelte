@@ -18,7 +18,10 @@
 	const memberSlugs = members.map((member) => member.slug);
 
 	onMount(() => {
-		searchText = navigator.userAgent.includes('Mac OS') || navigator.userAgent.includes('macOS') ? 'cmd+k to search' : 'ctrl+k to search';
+		searchText =
+			navigator.userAgent.includes('Mac OS') || navigator.userAgent.includes('macOS')
+				? 'cmd+k to search'
+				: 'ctrl+k to search';
 		filterHandler();
 	});
 
@@ -52,7 +55,12 @@
 
 		if (search?.length) {
 			newSearchParams.set('search', search);
-			currentFilter = currentFilter.filter((item) => normalizeName(item.name)?.includes(search) || normalizeName(item.id)?.includes(search) || normalizeName(item.byline)?.includes(search));
+			currentFilter = currentFilter.filter(
+				(item) =>
+					normalizeName(item.name)?.includes(search) ||
+					normalizeName(item.id)?.includes(search) ||
+					normalizeName(item.byline)?.includes(search)
+			);
 		} else {
 			newSearchParams.delete('search');
 		}
@@ -111,7 +119,15 @@
 <svelte:window onkeydown={globalHandler} />
 
 <form class="filters">
-	<input name="search" type="text" placeholder={searchText} aria-label="Search for a release" bind:this={searchInput} bind:value={searchValue} onchange={filterHandler} />
+	<input
+		name="search"
+		type="text"
+		placeholder={searchText}
+		aria-label="Search for a release"
+		bind:this={searchInput}
+		bind:value={searchValue}
+		onchange={filterHandler}
+	/>
 
 	<div class="input-group">
 		<select name="artist" aria-label="Select an artist" bind:value={selectedArtist} onchange={filterHandler}>
@@ -138,7 +154,13 @@
 			<option value="e">E is for External</option>
 		</select>
 
-		<button class="reset-filters" class:has-filters={hasFilters} type="button" aria-label="Reset all filters" onclick={resetHandler}>&times;</button>
+		<button
+			class="reset-filters"
+			class:has-filters={hasFilters}
+			type="button"
+			aria-label="Reset all filters"
+			onclick={resetHandler}>&times;</button
+		>
 	</div>
 </form>
 

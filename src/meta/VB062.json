@@ -1,24 +1,22 @@
 {
-    "name": "whyEye.org shape shifting",
-    "id": "VB062",
-    "presets": [
-        {
-            "file": "whyEye.org/whyEye.org shape shifting/yiA1__nyc_revisited_(day_1).avs",
-            "size": 1764,
-            "checksum": "sha256:378aef5dbddc326e5b69dfa020dd44ba1d48ddcf6988e6ec943f41e73bd75de3"
-        },
-        {
-            "file": "whyEye.org/whyEye.org shape shifting/yiB1__pullin_out_these_old_bricks_(les_Noobiens_rework).avs",
-            "size": 1744,
-            "checksum": "sha256:619e48ac9285cb09408328b2d8aaff8bcd2722365f9a4f7d9386f0cfacb71571"
-        },
-        {
-            "file": "whyEye.org/whyEye.org shape shifting/yiB2__westbahnhof.avs",
-            "size": 2445,
-            "checksum": "sha256:f008abd805e0cadfdee790938f9d557e4c23c7e2058abfccb4fb0285ef38af5a"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "whyEye.org shape shifting",
+	"id": "VB062",
+	"presets": [
+		{
+			"file": "whyEye.org/whyEye.org shape shifting/yiA1__nyc_revisited_(day_1).avs",
+			"size": 1764,
+			"checksum": "sha256:378aef5dbddc326e5b69dfa020dd44ba1d48ddcf6988e6ec943f41e73bd75de3"
+		},
+		{
+			"file": "whyEye.org/whyEye.org shape shifting/yiB1__pullin_out_these_old_bricks_(les_Noobiens_rework).avs",
+			"size": 1744,
+			"checksum": "sha256:619e48ac9285cb09408328b2d8aaff8bcd2722365f9a4f7d9386f0cfacb71571"
+		},
+		{
+			"file": "whyEye.org/whyEye.org shape shifting/yiB2__westbahnhof.avs",
+			"size": 2445,
+			"checksum": "sha256:f008abd805e0cadfdee790938f9d557e4c23c7e2058abfccb4fb0285ef38af5a"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

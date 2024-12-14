@@ -1,160 +1,160 @@
 {
-    "name": "Dynamic Movement Epilogue",
-    "id": "VD008",
-    "presets": [
-        {
-            "file": "Dynamic Duo/Dynamic Movement Epilogue/01 yathosho - fantasy island iii [framey's blutorange edit plus edit].avs",
-            "size": 3250,
-            "checksum": "sha256:6e620b758f5216d9a44a964dc0a0c86b4612b5dcfee38f5ee07e6d6e27722ec5"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement Epilogue/02 zamuz & raz - freeform [yathosho iii rework].avs",
-            "size": 6662,
-            "checksum": "sha256:0fe22b0b12c4281353d24a23b0c647c6ca6b54d0d153b86a14aac9f9d28f019d"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement Epilogue/03 dcc - the offworld.avs",
-            "size": 3977,
-            "checksum": "sha256:9b5838615a5d7f7ee40314d4652a187b97bcb4c9c2af9c3081c459b6dcef5463"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement Epilogue/04 skupers - synaptic highway [yathosho's 2011 v.i.p. mix].avs",
-            "size": 5027,
-            "checksum": "sha256:0526a16832cdc9605a5028655d9aa70a021336322952bf1bb8caefaab456b853"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement Epilogue/05 dynamic duo - chromatics [album version].avs",
-            "size": 5611,
-            "checksum": "sha256:6fb6a64d95a6293b6a10beba06a87cfc643ff533a72c34f1713e0de6de5e78a6"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement Epilogue/06 el-vis & nemo - dreamtime [yathosho's third kind version].avs",
-            "size": 11120,
-            "checksum": "sha256:9548cf64c830da133ebb2d24b062ef3f6dc0d4be637b295f0c69ccb173115543"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement Epilogue/07 yathosho - sail away 2.0 [fake tuggummi nite version].avs",
-            "size": 2364,
-            "checksum": "sha256:3a1d319de1fe7c1267c348af8b2a1b97c66e88e5364cd702c668baa51103c2f9"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement Epilogue/08 yathosho - pillow fight [re-feathered version].avs",
-            "size": 7173,
-            "checksum": "sha256:5d2b9c6503d86f61be8a15f8f16c757d5aad9df4a0e4bfc9fb15fdb704470480"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement Epilogue/09 dynamic duo - make yours look like mine (the heinsbergen syndrome).avs",
-            "size": 3059,
-            "checksum": "sha256:9beab202ac192f7053e82d8d3c4682029cdb8383dd76c5526a828e188ec5bf58"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement Epilogue/10 dynamic duo - hojojutsu [ya-tho-sho rework version].avs",
-            "size": 4916,
-            "checksum": "sha256:11b83a2a9d5f5d959d50b93551836039037d92f521e98bb71cd699917d02ce5f"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement Epilogue/11 grandchild+yathosho - destroy dat! [cmyk version].avs",
-            "size": 11965,
-            "checksum": "sha256:3fcc9b599270984458642ce6821f3a72e08ddf71ded4ad680e6031be3b68695b"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement Epilogue/12 micro.d - blockfucker [pan_am remix (edit)].avs",
-            "size": 7152,
-            "checksum": "sha256:7a748cde87476f1c511119ff313d95b6be6a59afbde6415cf1cd1f605f8c6e2f"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement Epilogue/13 effekthasch - the will to live [yathosho's fierce version #2].avs",
-            "size": 8557,
-            "checksum": "sha256:d160599546cfd2d064eecd1f4b0485379a640b4ee9726bd66ca5662a1d1e4966"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement Epilogue/14 frames-of-reality - the haunt for dreams [fake skupers v.i.p. rmx].avs",
-            "size": 5262,
-            "checksum": "sha256:a14e880c790a6574f9da153f5c4ac2566c26295a71e4cccc2a41654a2d99576e"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement Epilogue/15 effekthasch - you + me [yathosho refix version].avs",
-            "size": 5724,
-            "checksum": "sha256:9f9a6a58a66477985ba70812fcea9ab1f87a6cbcc66280cd3434b0a7d882a756"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement Epilogue/16 zamuz - wonder 'bout [nite version].avs",
-            "size": 36427,
-            "checksum": "sha256:035edda63132da1ec3f773c46a1e65221ce819776f5e0fa7ddb01734f70fef6e"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement Epilogue/17 zamuz - clothing lines [yathosho's drexciyan rework].avs",
-            "size": 4596,
-            "checksum": "sha256:a790d541415aa79fc2d2b026c9643cdbc0cc0c26c84605b04578b855864a1825"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement Epilogue/18 nemo - jaxx [ya-tho-sho edit].avs",
-            "size": 4345,
-            "checksum": "sha256:72510b85770ca68d5ceb1314f164b903ea438871c9f0f128e053cd77b5d4cc77"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement Epilogue/19 yathosho - modular [nite version].avs",
-            "size": 4664,
-            "checksum": "sha256:e37081e74ead5cfb2579859e811fc93e5ce47647126cfab7e0fbb70d87d4142c"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement Epilogue/20 dynamic duo vs el-vis & frames-of-reality - tentaclism [alpha zone mash-up version].avs",
-            "size": 2721,
-            "checksum": "sha256:3b66a7b1508c39d839fc30be833413b9b98cd74019a815dbb7b78256a515bd52"
-        }
-    ],
-    "assets": [
-        {
-            "file": "avsres_texer_square_sharp_36x36.bmp",
-            "size": 2368,
-            "checksum": "sha256:074dfa0fadbfff9e8446e54e6806d7ce53c15cab1c9c2ea1510e1aaca89d5e87"
-        },
-        {
-            "file": "avsres_texer_square_sharp_48x48.bmp",
-            "size": 3200,
-            "checksum": "sha256:bb4e9f6f084e61e1c72e04fcc947d368cc0bae71c96172d2eac64656c486d70a"
-        },
-        {
-            "file": "avsres_texer_square_sharp_60x60.bmp",
-            "size": 4688,
-            "checksum": "sha256:1f04b10b325c77f7a2520dc7da8e4b80f10184df129ccb1600a88e8a8b83c3dc"
-        },
-        {
-            "file": "avsres_texer_square_sharp_64x64.bmp",
-            "size": 6464,
-            "checksum": "sha256:6f7e3fe92089100c02821a23e06a4ec9e683c40400b0aa6fc55629d2388d0808"
-        },
-        {
-            "file": "avsres_texer_square_sharp_72x72.bmp",
-            "size": 7120,
-            "checksum": "sha256:b75c8f2e291fcf254aa02e53148c50e7f7bbf228cdca6d86ae89d37c69ed3826"
-        },
-        {
-            "file": "avsres_texer_square_sharp_90x90.bmp",
-            "size": 10672,
-            "checksum": "sha256:62692c667dc8030a152035eacbd53e4d5ecb312636fbc67ee293ee969c102045"
-        },
-        {
-            "file": "avsres_texer_square_sharp_96x96.bmp",
-            "size": 12608,
-            "checksum": "sha256:d6de9a6d0f47a1864cfc7ada89bcdf7f09924264db301466baaef861260036b3"
-        },
-        {
-            "file": "v5_square.bmp",
-            "size": 1254,
-            "checksum": "sha256:2e3dc3d7cec32c7a2091c638f46cf70b9b01974ebcf0558ba3edc8e67b29b065"
-        }
-    ],
-    "plugins": [
-        "AddBorder",
-        "ChannelShift",
-        "ColorMap",
-        "ColorReduction",
-        "ConvolutionFilter",
-        "Normalise",
-        "Texer2",
-        "TransAuto",
-        "Triangle",
-        "VideoDelay"
-    ]
+	"name": "Dynamic Movement Epilogue",
+	"id": "VD008",
+	"presets": [
+		{
+			"file": "Dynamic Duo/Dynamic Movement Epilogue/01 yathosho - fantasy island iii [framey's blutorange edit plus edit].avs",
+			"size": 3250,
+			"checksum": "sha256:6e620b758f5216d9a44a964dc0a0c86b4612b5dcfee38f5ee07e6d6e27722ec5"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement Epilogue/02 zamuz & raz - freeform [yathosho iii rework].avs",
+			"size": 6662,
+			"checksum": "sha256:0fe22b0b12c4281353d24a23b0c647c6ca6b54d0d153b86a14aac9f9d28f019d"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement Epilogue/03 dcc - the offworld.avs",
+			"size": 3977,
+			"checksum": "sha256:9b5838615a5d7f7ee40314d4652a187b97bcb4c9c2af9c3081c459b6dcef5463"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement Epilogue/04 skupers - synaptic highway [yathosho's 2011 v.i.p. mix].avs",
+			"size": 5027,
+			"checksum": "sha256:0526a16832cdc9605a5028655d9aa70a021336322952bf1bb8caefaab456b853"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement Epilogue/05 dynamic duo - chromatics [album version].avs",
+			"size": 5611,
+			"checksum": "sha256:6fb6a64d95a6293b6a10beba06a87cfc643ff533a72c34f1713e0de6de5e78a6"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement Epilogue/06 el-vis & nemo - dreamtime [yathosho's third kind version].avs",
+			"size": 11120,
+			"checksum": "sha256:9548cf64c830da133ebb2d24b062ef3f6dc0d4be637b295f0c69ccb173115543"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement Epilogue/07 yathosho - sail away 2.0 [fake tuggummi nite version].avs",
+			"size": 2364,
+			"checksum": "sha256:3a1d319de1fe7c1267c348af8b2a1b97c66e88e5364cd702c668baa51103c2f9"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement Epilogue/08 yathosho - pillow fight [re-feathered version].avs",
+			"size": 7173,
+			"checksum": "sha256:5d2b9c6503d86f61be8a15f8f16c757d5aad9df4a0e4bfc9fb15fdb704470480"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement Epilogue/09 dynamic duo - make yours look like mine (the heinsbergen syndrome).avs",
+			"size": 3059,
+			"checksum": "sha256:9beab202ac192f7053e82d8d3c4682029cdb8383dd76c5526a828e188ec5bf58"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement Epilogue/10 dynamic duo - hojojutsu [ya-tho-sho rework version].avs",
+			"size": 4916,
+			"checksum": "sha256:11b83a2a9d5f5d959d50b93551836039037d92f521e98bb71cd699917d02ce5f"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement Epilogue/11 grandchild+yathosho - destroy dat! [cmyk version].avs",
+			"size": 11965,
+			"checksum": "sha256:3fcc9b599270984458642ce6821f3a72e08ddf71ded4ad680e6031be3b68695b"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement Epilogue/12 micro.d - blockfucker [pan_am remix (edit)].avs",
+			"size": 7152,
+			"checksum": "sha256:7a748cde87476f1c511119ff313d95b6be6a59afbde6415cf1cd1f605f8c6e2f"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement Epilogue/13 effekthasch - the will to live [yathosho's fierce version #2].avs",
+			"size": 8557,
+			"checksum": "sha256:d160599546cfd2d064eecd1f4b0485379a640b4ee9726bd66ca5662a1d1e4966"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement Epilogue/14 frames-of-reality - the haunt for dreams [fake skupers v.i.p. rmx].avs",
+			"size": 5262,
+			"checksum": "sha256:a14e880c790a6574f9da153f5c4ac2566c26295a71e4cccc2a41654a2d99576e"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement Epilogue/15 effekthasch - you + me [yathosho refix version].avs",
+			"size": 5724,
+			"checksum": "sha256:9f9a6a58a66477985ba70812fcea9ab1f87a6cbcc66280cd3434b0a7d882a756"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement Epilogue/16 zamuz - wonder 'bout [nite version].avs",
+			"size": 36427,
+			"checksum": "sha256:035edda63132da1ec3f773c46a1e65221ce819776f5e0fa7ddb01734f70fef6e"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement Epilogue/17 zamuz - clothing lines [yathosho's drexciyan rework].avs",
+			"size": 4596,
+			"checksum": "sha256:a790d541415aa79fc2d2b026c9643cdbc0cc0c26c84605b04578b855864a1825"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement Epilogue/18 nemo - jaxx [ya-tho-sho edit].avs",
+			"size": 4345,
+			"checksum": "sha256:72510b85770ca68d5ceb1314f164b903ea438871c9f0f128e053cd77b5d4cc77"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement Epilogue/19 yathosho - modular [nite version].avs",
+			"size": 4664,
+			"checksum": "sha256:e37081e74ead5cfb2579859e811fc93e5ce47647126cfab7e0fbb70d87d4142c"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement Epilogue/20 dynamic duo vs el-vis & frames-of-reality - tentaclism [alpha zone mash-up version].avs",
+			"size": 2721,
+			"checksum": "sha256:3b66a7b1508c39d839fc30be833413b9b98cd74019a815dbb7b78256a515bd52"
+		}
+	],
+	"assets": [
+		{
+			"file": "avsres_texer_square_sharp_36x36.bmp",
+			"size": 2368,
+			"checksum": "sha256:074dfa0fadbfff9e8446e54e6806d7ce53c15cab1c9c2ea1510e1aaca89d5e87"
+		},
+		{
+			"file": "avsres_texer_square_sharp_48x48.bmp",
+			"size": 3200,
+			"checksum": "sha256:bb4e9f6f084e61e1c72e04fcc947d368cc0bae71c96172d2eac64656c486d70a"
+		},
+		{
+			"file": "avsres_texer_square_sharp_60x60.bmp",
+			"size": 4688,
+			"checksum": "sha256:1f04b10b325c77f7a2520dc7da8e4b80f10184df129ccb1600a88e8a8b83c3dc"
+		},
+		{
+			"file": "avsres_texer_square_sharp_64x64.bmp",
+			"size": 6464,
+			"checksum": "sha256:6f7e3fe92089100c02821a23e06a4ec9e683c40400b0aa6fc55629d2388d0808"
+		},
+		{
+			"file": "avsres_texer_square_sharp_72x72.bmp",
+			"size": 7120,
+			"checksum": "sha256:b75c8f2e291fcf254aa02e53148c50e7f7bbf228cdca6d86ae89d37c69ed3826"
+		},
+		{
+			"file": "avsres_texer_square_sharp_90x90.bmp",
+			"size": 10672,
+			"checksum": "sha256:62692c667dc8030a152035eacbd53e4d5ecb312636fbc67ee293ee969c102045"
+		},
+		{
+			"file": "avsres_texer_square_sharp_96x96.bmp",
+			"size": 12608,
+			"checksum": "sha256:d6de9a6d0f47a1864cfc7ada89bcdf7f09924264db301466baaef861260036b3"
+		},
+		{
+			"file": "v5_square.bmp",
+			"size": 1254,
+			"checksum": "sha256:2e3dc3d7cec32c7a2091c638f46cf70b9b01974ebcf0558ba3edc8e67b29b065"
+		}
+	],
+	"plugins": [
+		"AddBorder",
+		"ChannelShift",
+		"ColorMap",
+		"ColorReduction",
+		"ConvolutionFilter",
+		"Normalise",
+		"Texer2",
+		"TransAuto",
+		"Triangle",
+		"VideoDelay"
+	]
 }

@@ -1,307 +1,307 @@
 {
-    "name": "Little Buddy - Halfwayaroundthesun",
-    "id": "VA002",
-    "presets": [
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/Kunsteffekt Mixes/Little Buddy remixes Yathosho - Kunsteffekt 000.avs",
-            "size": 1513,
-            "checksum": "sha256:64864ad4a42e7f1253186ff9af04866cda31605ae59f58f190e3cf51893a084c"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/Kunsteffekt Mixes/Little Buddy remixes Yathosho - Kunsteffekt 001.avs",
-            "size": 1449,
-            "checksum": "sha256:85fe118ce3aa87b0c5f01dbba8a7933a0331b4c19f4025d77d23c44a01a24c8a"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/Kunsteffekt Mixes/Little Buddy remixes Yathosho - Kunsteffekt 010.avs",
-            "size": 1417,
-            "checksum": "sha256:4232e074c3e88b9d9bd986e65908fbea3e9d65905a99a1ca1f26feaf44b38549"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/Kunsteffekt Mixes/Little Buddy remixes Yathosho - Kunsteffekt 011.avs",
-            "size": 1447,
-            "checksum": "sha256:4b841cc17b13a029e6c5a99f2f8073c93790be82b38684bd9eb9308786c83b2c"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/Kunsteffekt Mixes/Little Buddy remixes Yathosho - Kunsteffekt 100.avs",
-            "size": 1570,
-            "checksum": "sha256:d9d620f2df27f59353c786d0f25db1a0920a10247d682ea96f7e8c94396da0a4"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/Kunsteffekt Mixes/Little Buddy remixes Yathosho - Kunsteffekt 101.avs",
-            "size": 2788,
-            "checksum": "sha256:26558a248acb8c09b50f9da12838a459c6583b89083b4096ec625ae4240fcb09"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/Kunsteffekt Mixes/Little Buddy remixes Yathosho - Kunsteffekt 110.avs",
-            "size": 2802,
-            "checksum": "sha256:85697ad0f5e9049ca1d5988b7cf2a9a06754ecfbf025bd1fa4c3ac2632ea5921"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/Kunsteffekt Mixes/Little Buddy remixes Yathosho - Kunsteffekt 111.avs",
-            "size": 1524,
-            "checksum": "sha256:3008269805fd1bab6c51277d5fd18a7c0aad66009c9c265af18b743f780876d6"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/The Cosmic Series 2000-2001/Little Buddy remixes Yathosho - Cosmic (Polaroid Remix).avs",
-            "size": 1390,
-            "checksum": "sha256:fd6c0fe15163190a3c44f4ecf06204cbad727048b17ceafb993df0b4c228a8f2"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/The Cosmic Series 2000-2001/Little Buddy remixes Yathosho - Cosmic Flower.avs",
-            "size": 597,
-            "checksum": "sha256:e57d855582d673e4a933f88987873afade62168ccad60c349d2ef1fc5355d8d3"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/The Cosmic Series 2000-2001/Little Buddy remixes Yathosho - Cosmic Fragrance.avs",
-            "size": 762,
-            "checksum": "sha256:c6991621481a77c80d21ecabfe2be8af6218244fcc900d979c2a7f59b05d54b4"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/The Cosmic Series 2000-2001/Little Buddy remixes Yathosho - Cosmic Honeydew.avs",
-            "size": 539,
-            "checksum": "sha256:9024c4392b8de9c60be13125b8823825a441066e65547a426a584319609a44af"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/The Cosmic Series 2000-2001/Little Buddy remixes Yathosho - Cosmic Lounge (if 60s were 90s).avs",
-            "size": 804,
-            "checksum": "sha256:921bdfb9f17c2386ac78b010aaefc0a6f3656cdf57e921afa72f316aaa5eb956"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/The Cosmic Series 2000-2001/Little Buddy remixes Yathosho - Cosmic Meltdown.avs",
-            "size": 805,
-            "checksum": "sha256:13b51890859464c422bb9b4b8f378b1650d47b67a9952dbfb66ddcd690ee49de"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/The Cosmic Series 2000-2001/Little Buddy remixes Yathosho - Cosmic Peaches.avs",
-            "size": 1608,
-            "checksum": "sha256:5940e2a556a6a4080db44aa683ea8ef6e931055ebfbbff94b5fe450c610e7cb2"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/The Cosmic Series 2000-2001/Little Buddy remixes Yathosho - Cosmic Rita Hayworth.avs",
-            "size": 761,
-            "checksum": "sha256:4f2132301fbb208332e01e1f7c802dd75502f9df74cbc69f3c2979332650cd0b"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/The Cosmic Series 2000-2001/Little Buddy remixes Yathosho - Cosmic Snowflake.avs",
-            "size": 734,
-            "checksum": "sha256:5b8e60b655ac5d070cb5196851db2a142aeee5abaacc99e81d31ca9bbf031f80"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/The Cosmic Series 2000-2001/Little Buddy remixes Yathosho - Cosmic Spectrum.avs",
-            "size": 2604,
-            "checksum": "sha256:3bed49cd56baacb52dd832079bd5e67bcc723aefaa33298a6962c2a63a0fefcf"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/The Cosmic Series 2000-2001/Little Buddy remixes Yathosho - Cosmic State.avs",
-            "size": 782,
-            "checksum": "sha256:dd6ebb099471213ac485df31eaa09e4eed5ce5ccd17db61faf810c20a6eee5c9"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/The Cosmic Series 2000-2001/Little Buddy remixes Yathosho - Cosmic Vagina.avs",
-            "size": 638,
-            "checksum": "sha256:8d1a1f75466502499d69917b2117e76ad7140292b7a2b13384fc5d31043fead0"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - A Clockwork Grey.avs",
-            "size": 2393,
-            "checksum": "sha256:09965de0c801f4df260ec84836ac6cad63fca20ac2d9993de7c864f423f6fafd"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - A Space Odyssey.avs",
-            "size": 477,
-            "checksum": "sha256:96373274dafdb200aa38ce96a9e328f7f14f3938dc931264dd27e19261fa9195"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Altered State.avs",
-            "size": 2398,
-            "checksum": "sha256:6e2a0861bc94abdfd84f2957ea767d54a33a12364c952567a6e140547aba57ac"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Angst 2.avs",
-            "size": 1667,
-            "checksum": "sha256:c17d03bec8000a9df2c55b6a9925acdce154a0a123dd7deb8300e30392dac861"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Angst.avs",
-            "size": 1563,
-            "checksum": "sha256:83bd14b44e40f5afe1ae25734ab62c4653e7e8799db4689f57797b29355a01ec"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Aromatherapy.avs",
-            "size": 1472,
-            "checksum": "sha256:dc6b9554df7e1009fe629216ae2f6b3141df9704bea98406ce4a0ed79656b5e6"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Black Mass.avs",
-            "size": 684,
-            "checksum": "sha256:99b5ab4ce39b5daeb209f157cfa2f3f7815e92ac5d49007d7414d7f256a02097"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Blutkörper.avs",
-            "size": 2371,
-            "checksum": "sha256:590b85c801f21511a4218568e26cca45ee3c34c23cc80a7e4ac9db747cf7593c"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Butterfly.avs",
-            "size": 489,
-            "checksum": "sha256:8510ed388c50e0c949070678d0212510fe2f2a64af85fc3d0c281d974f10bb46"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Carnaval no Brasil.avs",
-            "size": 1450,
-            "checksum": "sha256:c129253469f5f3b91ac5922d538298a30914c8c9138a6996e58327f786246091"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Commodore 64 (10k times faster).avs",
-            "size": 3803,
-            "checksum": "sha256:280b1f9d6689404860c5b3025787af7cf3fee02822bb71a66e1ef6c58f25a0bd"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Cosmic.avs",
-            "size": 529,
-            "checksum": "sha256:b72252ba48dbb26b3677e7c0ac0d584f418e3f5414ae4e33b9de5d21353f8122"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Cow-go-mee.avs",
-            "size": 737,
-            "checksum": "sha256:f2deee15a27a6696bff3f4c8ca6c058c63b16df3665de235575761d501167e0c"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Datenleitung.avs",
-            "size": 1245,
-            "checksum": "sha256:d8d51ab374254cf22f2d4bfae2260b67264d8612b265e2d9ac8fb97219076938"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Decoder.avs",
-            "size": 569,
-            "checksum": "sha256:23f89be55a959bd24865d152773ffed3a8d342d35a629972bb4ca757214c91ec"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Demon.avs",
-            "size": 2362,
-            "checksum": "sha256:dd3d8774b6e7c7ce3034196fc6797299d6b56c184c43f8df2f61c910d75b6fd5"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Didjital Sunset.avs",
-            "size": 473,
-            "checksum": "sha256:ecfab382521312cc0b88fa93a4f1652d8a1b3abf354c7c72ba2d198495cad806"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Die kleine Biene Maja.avs",
-            "size": 498,
-            "checksum": "sha256:1c60d2e8de876c3b9a3e2d7fee88a5f61d00dbac1e3e567efa32a661c7b170d9"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Digital Inferno.avs",
-            "size": 1074,
-            "checksum": "sha256:3238e9eb5ae568a90a10a28d2c0b6b6df4c42b35f8080f677745f04ecb3952f0"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Discosuperstar.avs",
-            "size": 3594,
-            "checksum": "sha256:9598d7f519fe7a2b1196c544c8969d76d52423aa5f25136eefafb54858fe8e8e"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Disk Operating System.avs",
-            "size": 1609,
-            "checksum": "sha256:bf45f4dbff37565913e3fd23a6587146f9bb4fb6e0d5ad1f4d41600bef163d42"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Durch den Weltraum nachhause.avs",
-            "size": 1619,
-            "checksum": "sha256:6db3e212c057299e92b066a11035e7516f039ab356f255bc519757a14b00a7cf"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Feuerkreisel.avs",
-            "size": 1432,
-            "checksum": "sha256:3d5f07515322c12c504f792de44d1aad69d0004ec723e73056275ddb50b8e0f7"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Firestarter.avs",
-            "size": 1651,
-            "checksum": "sha256:9f9c5fcdd8bcd89a09e71af790ddf3a182de2d21fcaa830f7fa42287173348df"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Fluoreszenz.avs",
-            "size": 3504,
-            "checksum": "sha256:e0d266215d6cc2b64299d0591d3c39e6e33ca24370db1bfd6c7ea28fb261d08c"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Fuckmeplastic.avs",
-            "size": 594,
-            "checksum": "sha256:06c6e24abd996573f92982b5f96882c3edbbcacd3853c639aa6013e445912416"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Generation Atari.avs",
-            "size": 804,
-            "checksum": "sha256:d747aa7bb4cc3a698e778f4e0bb6778c2f2af01e09bf2df8cbfc7822fcd25e04"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - I think I'm Polaroid.avs",
-            "size": 2303,
-            "checksum": "sha256:89baa77ee56d1d0c18e67ae815d4d6418289b5955edf6ff318ef907d3fcdd284"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Indra 2.avs",
-            "size": 10854,
-            "checksum": "sha256:073bf4367dfc81d68cdd71348478f12a260278b3f6fa142079ee730a01eda2da"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Indra.avs",
-            "size": 10828,
-            "checksum": "sha256:e48eade327df3415163c701bbb384e8d4e65dc303f977b2de2e15141ff414851"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Jeff Lebowski's Magic Carpet Ride.avs",
-            "size": 612,
-            "checksum": "sha256:660b404fc65fd9f42c714d07e17f8f6f3b54d63785a607f5bf08b5d20c9b1533"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Las Vegas Hyperspace.avs",
-            "size": 454,
-            "checksum": "sha256:17fe237b991bcbe9a01e84c08d6c819f49a44d3328ba80a09c93788ca93b9836"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Moving Shadow.avs",
-            "size": 511,
-            "checksum": "sha256:6018a56e6988d61d9b5c8157c74359960f374295e910ff84b3e37bf1129be18c"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Raumbewegung.avs",
-            "size": 1125,
-            "checksum": "sha256:bd13debe88a6308c4dea607fa9e0e86a464d4302cc2019d8dd4f952dfa7074ac"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Retroleum.avs",
-            "size": 1290,
-            "checksum": "sha256:9d924c0e12cd931e22bb71206a02b836fafd9b5524dd9d4bbec265f5ccef9bd8"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Solaris.avs",
-            "size": 586,
-            "checksum": "sha256:e1ab2d3140ce630df0fe9e5e97a5cdfbad373d8fd4b40614bd4dcb4fc0fdad0b"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Super Famicom.avs",
-            "size": 635,
-            "checksum": "sha256:17fc1d95c9d1d0d08ead54a533c64d6e6decb0b8d1669c693cc556e7ed2d985b"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - The Akira Genom.avs",
-            "size": 2668,
-            "checksum": "sha256:ce213a5b943948165b6a4187f44b5865e131705204a8e85f0805dfd709d68ae9"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Tiefenrausch.avs",
-            "size": 12142,
-            "checksum": "sha256:974f8de721b2b29e0ae08998083687c36d27057289e7fbf2f1fe4a9053b24b29"
-        },
-        {
-            "file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Use the Force.avs",
-            "size": 1675,
-            "checksum": "sha256:ebee294514fe4f3f0c6e841bd274b07a938da4a4128cb65bc08c14a8d481278d"
-        }
-    ],
-    "plugins": []
+	"name": "Little Buddy - Halfwayaroundthesun",
+	"id": "VA002",
+	"presets": [
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/Kunsteffekt Mixes/Little Buddy remixes Yathosho - Kunsteffekt 000.avs",
+			"size": 1513,
+			"checksum": "sha256:64864ad4a42e7f1253186ff9af04866cda31605ae59f58f190e3cf51893a084c"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/Kunsteffekt Mixes/Little Buddy remixes Yathosho - Kunsteffekt 001.avs",
+			"size": 1449,
+			"checksum": "sha256:85fe118ce3aa87b0c5f01dbba8a7933a0331b4c19f4025d77d23c44a01a24c8a"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/Kunsteffekt Mixes/Little Buddy remixes Yathosho - Kunsteffekt 010.avs",
+			"size": 1417,
+			"checksum": "sha256:4232e074c3e88b9d9bd986e65908fbea3e9d65905a99a1ca1f26feaf44b38549"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/Kunsteffekt Mixes/Little Buddy remixes Yathosho - Kunsteffekt 011.avs",
+			"size": 1447,
+			"checksum": "sha256:4b841cc17b13a029e6c5a99f2f8073c93790be82b38684bd9eb9308786c83b2c"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/Kunsteffekt Mixes/Little Buddy remixes Yathosho - Kunsteffekt 100.avs",
+			"size": 1570,
+			"checksum": "sha256:d9d620f2df27f59353c786d0f25db1a0920a10247d682ea96f7e8c94396da0a4"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/Kunsteffekt Mixes/Little Buddy remixes Yathosho - Kunsteffekt 101.avs",
+			"size": 2788,
+			"checksum": "sha256:26558a248acb8c09b50f9da12838a459c6583b89083b4096ec625ae4240fcb09"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/Kunsteffekt Mixes/Little Buddy remixes Yathosho - Kunsteffekt 110.avs",
+			"size": 2802,
+			"checksum": "sha256:85697ad0f5e9049ca1d5988b7cf2a9a06754ecfbf025bd1fa4c3ac2632ea5921"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/Kunsteffekt Mixes/Little Buddy remixes Yathosho - Kunsteffekt 111.avs",
+			"size": 1524,
+			"checksum": "sha256:3008269805fd1bab6c51277d5fd18a7c0aad66009c9c265af18b743f780876d6"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/The Cosmic Series 2000-2001/Little Buddy remixes Yathosho - Cosmic (Polaroid Remix).avs",
+			"size": 1390,
+			"checksum": "sha256:fd6c0fe15163190a3c44f4ecf06204cbad727048b17ceafb993df0b4c228a8f2"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/The Cosmic Series 2000-2001/Little Buddy remixes Yathosho - Cosmic Flower.avs",
+			"size": 597,
+			"checksum": "sha256:e57d855582d673e4a933f88987873afade62168ccad60c349d2ef1fc5355d8d3"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/The Cosmic Series 2000-2001/Little Buddy remixes Yathosho - Cosmic Fragrance.avs",
+			"size": 762,
+			"checksum": "sha256:c6991621481a77c80d21ecabfe2be8af6218244fcc900d979c2a7f59b05d54b4"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/The Cosmic Series 2000-2001/Little Buddy remixes Yathosho - Cosmic Honeydew.avs",
+			"size": 539,
+			"checksum": "sha256:9024c4392b8de9c60be13125b8823825a441066e65547a426a584319609a44af"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/The Cosmic Series 2000-2001/Little Buddy remixes Yathosho - Cosmic Lounge (if 60s were 90s).avs",
+			"size": 804,
+			"checksum": "sha256:921bdfb9f17c2386ac78b010aaefc0a6f3656cdf57e921afa72f316aaa5eb956"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/The Cosmic Series 2000-2001/Little Buddy remixes Yathosho - Cosmic Meltdown.avs",
+			"size": 805,
+			"checksum": "sha256:13b51890859464c422bb9b4b8f378b1650d47b67a9952dbfb66ddcd690ee49de"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/The Cosmic Series 2000-2001/Little Buddy remixes Yathosho - Cosmic Peaches.avs",
+			"size": 1608,
+			"checksum": "sha256:5940e2a556a6a4080db44aa683ea8ef6e931055ebfbbff94b5fe450c610e7cb2"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/The Cosmic Series 2000-2001/Little Buddy remixes Yathosho - Cosmic Rita Hayworth.avs",
+			"size": 761,
+			"checksum": "sha256:4f2132301fbb208332e01e1f7c802dd75502f9df74cbc69f3c2979332650cd0b"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/The Cosmic Series 2000-2001/Little Buddy remixes Yathosho - Cosmic Snowflake.avs",
+			"size": 734,
+			"checksum": "sha256:5b8e60b655ac5d070cb5196851db2a142aeee5abaacc99e81d31ca9bbf031f80"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/The Cosmic Series 2000-2001/Little Buddy remixes Yathosho - Cosmic Spectrum.avs",
+			"size": 2604,
+			"checksum": "sha256:3bed49cd56baacb52dd832079bd5e67bcc723aefaa33298a6962c2a63a0fefcf"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/The Cosmic Series 2000-2001/Little Buddy remixes Yathosho - Cosmic State.avs",
+			"size": 782,
+			"checksum": "sha256:dd6ebb099471213ac485df31eaa09e4eed5ce5ccd17db61faf810c20a6eee5c9"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/The Cosmic Series 2000-2001/Little Buddy remixes Yathosho - Cosmic Vagina.avs",
+			"size": 638,
+			"checksum": "sha256:8d1a1f75466502499d69917b2117e76ad7140292b7a2b13384fc5d31043fead0"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - A Clockwork Grey.avs",
+			"size": 2393,
+			"checksum": "sha256:09965de0c801f4df260ec84836ac6cad63fca20ac2d9993de7c864f423f6fafd"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - A Space Odyssey.avs",
+			"size": 477,
+			"checksum": "sha256:96373274dafdb200aa38ce96a9e328f7f14f3938dc931264dd27e19261fa9195"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Altered State.avs",
+			"size": 2398,
+			"checksum": "sha256:6e2a0861bc94abdfd84f2957ea767d54a33a12364c952567a6e140547aba57ac"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Angst 2.avs",
+			"size": 1667,
+			"checksum": "sha256:c17d03bec8000a9df2c55b6a9925acdce154a0a123dd7deb8300e30392dac861"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Angst.avs",
+			"size": 1563,
+			"checksum": "sha256:83bd14b44e40f5afe1ae25734ab62c4653e7e8799db4689f57797b29355a01ec"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Aromatherapy.avs",
+			"size": 1472,
+			"checksum": "sha256:dc6b9554df7e1009fe629216ae2f6b3141df9704bea98406ce4a0ed79656b5e6"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Black Mass.avs",
+			"size": 684,
+			"checksum": "sha256:99b5ab4ce39b5daeb209f157cfa2f3f7815e92ac5d49007d7414d7f256a02097"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Blutkörper.avs",
+			"size": 2371,
+			"checksum": "sha256:590b85c801f21511a4218568e26cca45ee3c34c23cc80a7e4ac9db747cf7593c"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Butterfly.avs",
+			"size": 489,
+			"checksum": "sha256:8510ed388c50e0c949070678d0212510fe2f2a64af85fc3d0c281d974f10bb46"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Carnaval no Brasil.avs",
+			"size": 1450,
+			"checksum": "sha256:c129253469f5f3b91ac5922d538298a30914c8c9138a6996e58327f786246091"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Commodore 64 (10k times faster).avs",
+			"size": 3803,
+			"checksum": "sha256:280b1f9d6689404860c5b3025787af7cf3fee02822bb71a66e1ef6c58f25a0bd"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Cosmic.avs",
+			"size": 529,
+			"checksum": "sha256:b72252ba48dbb26b3677e7c0ac0d584f418e3f5414ae4e33b9de5d21353f8122"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Cow-go-mee.avs",
+			"size": 737,
+			"checksum": "sha256:f2deee15a27a6696bff3f4c8ca6c058c63b16df3665de235575761d501167e0c"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Datenleitung.avs",
+			"size": 1245,
+			"checksum": "sha256:d8d51ab374254cf22f2d4bfae2260b67264d8612b265e2d9ac8fb97219076938"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Decoder.avs",
+			"size": 569,
+			"checksum": "sha256:23f89be55a959bd24865d152773ffed3a8d342d35a629972bb4ca757214c91ec"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Demon.avs",
+			"size": 2362,
+			"checksum": "sha256:dd3d8774b6e7c7ce3034196fc6797299d6b56c184c43f8df2f61c910d75b6fd5"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Didjital Sunset.avs",
+			"size": 473,
+			"checksum": "sha256:ecfab382521312cc0b88fa93a4f1652d8a1b3abf354c7c72ba2d198495cad806"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Die kleine Biene Maja.avs",
+			"size": 498,
+			"checksum": "sha256:1c60d2e8de876c3b9a3e2d7fee88a5f61d00dbac1e3e567efa32a661c7b170d9"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Digital Inferno.avs",
+			"size": 1074,
+			"checksum": "sha256:3238e9eb5ae568a90a10a28d2c0b6b6df4c42b35f8080f677745f04ecb3952f0"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Discosuperstar.avs",
+			"size": 3594,
+			"checksum": "sha256:9598d7f519fe7a2b1196c544c8969d76d52423aa5f25136eefafb54858fe8e8e"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Disk Operating System.avs",
+			"size": 1609,
+			"checksum": "sha256:bf45f4dbff37565913e3fd23a6587146f9bb4fb6e0d5ad1f4d41600bef163d42"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Durch den Weltraum nachhause.avs",
+			"size": 1619,
+			"checksum": "sha256:6db3e212c057299e92b066a11035e7516f039ab356f255bc519757a14b00a7cf"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Feuerkreisel.avs",
+			"size": 1432,
+			"checksum": "sha256:3d5f07515322c12c504f792de44d1aad69d0004ec723e73056275ddb50b8e0f7"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Firestarter.avs",
+			"size": 1651,
+			"checksum": "sha256:9f9c5fcdd8bcd89a09e71af790ddf3a182de2d21fcaa830f7fa42287173348df"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Fluoreszenz.avs",
+			"size": 3504,
+			"checksum": "sha256:e0d266215d6cc2b64299d0591d3c39e6e33ca24370db1bfd6c7ea28fb261d08c"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Fuckmeplastic.avs",
+			"size": 594,
+			"checksum": "sha256:06c6e24abd996573f92982b5f96882c3edbbcacd3853c639aa6013e445912416"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Generation Atari.avs",
+			"size": 804,
+			"checksum": "sha256:d747aa7bb4cc3a698e778f4e0bb6778c2f2af01e09bf2df8cbfc7822fcd25e04"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - I think I'm Polaroid.avs",
+			"size": 2303,
+			"checksum": "sha256:89baa77ee56d1d0c18e67ae815d4d6418289b5955edf6ff318ef907d3fcdd284"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Indra 2.avs",
+			"size": 10854,
+			"checksum": "sha256:073bf4367dfc81d68cdd71348478f12a260278b3f6fa142079ee730a01eda2da"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Indra.avs",
+			"size": 10828,
+			"checksum": "sha256:e48eade327df3415163c701bbb384e8d4e65dc303f977b2de2e15141ff414851"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Jeff Lebowski's Magic Carpet Ride.avs",
+			"size": 612,
+			"checksum": "sha256:660b404fc65fd9f42c714d07e17f8f6f3b54d63785a607f5bf08b5d20c9b1533"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Las Vegas Hyperspace.avs",
+			"size": 454,
+			"checksum": "sha256:17fe237b991bcbe9a01e84c08d6c819f49a44d3328ba80a09c93788ca93b9836"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Moving Shadow.avs",
+			"size": 511,
+			"checksum": "sha256:6018a56e6988d61d9b5c8157c74359960f374295e910ff84b3e37bf1129be18c"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Raumbewegung.avs",
+			"size": 1125,
+			"checksum": "sha256:bd13debe88a6308c4dea607fa9e0e86a464d4302cc2019d8dd4f952dfa7074ac"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Retroleum.avs",
+			"size": 1290,
+			"checksum": "sha256:9d924c0e12cd931e22bb71206a02b836fafd9b5524dd9d4bbec265f5ccef9bd8"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Solaris.avs",
+			"size": 586,
+			"checksum": "sha256:e1ab2d3140ce630df0fe9e5e97a5cdfbad373d8fd4b40614bd4dcb4fc0fdad0b"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Super Famicom.avs",
+			"size": 635,
+			"checksum": "sha256:17fc1d95c9d1d0d08ead54a533c64d6e6decb0b8d1669c693cc556e7ed2d985b"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - The Akira Genom.avs",
+			"size": 2668,
+			"checksum": "sha256:ce213a5b943948165b6a4187f44b5865e131705204a8e85f0805dfd709d68ae9"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Tiefenrausch.avs",
+			"size": 12142,
+			"checksum": "sha256:974f8de721b2b29e0ae08998083687c36d27057289e7fbf2f1fe4a9053b24b29"
+		},
+		{
+			"file": "Little Buddy - Halfwayaroundthesun/The Presets 2000-2001/Little Buddy remixes Yathosho - Use the Force.avs",
+			"size": 1675,
+			"checksum": "sha256:ebee294514fe4f3f0c6e841bd274b07a938da4a4128cb65bc08c14a8d481278d"
+		}
+	],
+	"plugins": []
 }

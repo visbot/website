@@ -1,29 +1,27 @@
 {
-    "name": "dm6  sampler",
-    "id": "VB129",
-    "presets": [
-        {
-            "file": "Dynamic Duo/dm6 sampler/ddA1 pak-9 & vanish - ninjaisbleeding (dynamic duo's dark traumatization).avs",
-            "size": 5196,
-            "checksum": "sha256:86943c8a67c29781fdd71b039270852b2c2601c7b8212992daba5f8ff494659f"
-        },
-        {
-            "file": "Dynamic Duo/dm6 sampler/ddA2 frames.of.reality - into the chamber of maedvigan (yathosho's flight of the tempest part ii).avs",
-            "size": 3397,
-            "checksum": "sha256:5a91a3ddb7b9f45bcd34b03afd7d899060ba015b03c97d787b51e2200ea507ea"
-        },
-        {
-            "file": "Dynamic Duo/dm6 sampler/ddB1 vanish - fractalbase (dynamic duo keeps-on-rubbing mix).avs",
-            "size": 3693,
-            "checksum": "sha256:f4a81d8b90b389bf55b3786b161732890a99970a77875a25e8ef2305f2b2d5b5"
-        },
-        {
-            "file": "Dynamic Duo/dm6 sampler/ddB2 dynamic duo - hypersonic (ya-tho-sho edit).avs",
-            "size": 3103,
-            "checksum": "sha256:bfe7efffbef8a11b6f34bf8f01c2e2dc30e689f22c31029a836ee941fd9b173e"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "dm6  sampler",
+	"id": "VB129",
+	"presets": [
+		{
+			"file": "Dynamic Duo/dm6 sampler/ddA1 pak-9 & vanish - ninjaisbleeding (dynamic duo's dark traumatization).avs",
+			"size": 5196,
+			"checksum": "sha256:86943c8a67c29781fdd71b039270852b2c2601c7b8212992daba5f8ff494659f"
+		},
+		{
+			"file": "Dynamic Duo/dm6 sampler/ddA2 frames.of.reality - into the chamber of maedvigan (yathosho's flight of the tempest part ii).avs",
+			"size": 3397,
+			"checksum": "sha256:5a91a3ddb7b9f45bcd34b03afd7d899060ba015b03c97d787b51e2200ea507ea"
+		},
+		{
+			"file": "Dynamic Duo/dm6 sampler/ddB1 vanish - fractalbase (dynamic duo keeps-on-rubbing mix).avs",
+			"size": 3693,
+			"checksum": "sha256:f4a81d8b90b389bf55b3786b161732890a99970a77875a25e8ef2305f2b2d5b5"
+		},
+		{
+			"file": "Dynamic Duo/dm6 sampler/ddB2 dynamic duo - hypersonic (ya-tho-sho edit).avs",
+			"size": 3103,
+			"checksum": "sha256:bfe7efffbef8a11b6f34bf8f01c2e2dc30e689f22c31029a836ee941fd9b173e"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

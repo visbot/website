@@ -1,98 +1,92 @@
 {
-    "name": "DD2oo4",
-    "id": "VB094",
-    "presets": [
-        {
-            "file": "Dynamic Duo/DD2oo4/dynamic duo - antikombi.avs",
-            "size": 3326,
-            "checksum": "sha256:e2e1db9ff7ed8242d8efbc45e3b5da33e4851bdbd70203432493c949579eeb85"
-        },
-        {
-            "file": "Dynamic Duo/DD2oo4/dynamic duo - carousel.avs",
-            "size": 1679,
-            "checksum": "sha256:4486ab6fc754f2959c6ede2e30fa2f7458d25ee8032667af54dd59a596d98c69"
-        },
-        {
-            "file": "Dynamic Duo/DD2oo4/dynamic duo - dial m for drugstore (v.i.p.).avs",
-            "size": 2125,
-            "checksum": "sha256:106a752dadd2f1bc86115ee2ae0148e9abf3f58b9e97c8496c50db6ab31a654d"
-        },
-        {
-            "file": "Dynamic Duo/DD2oo4/dynamic duo - do you copy.avs",
-            "size": 3025,
-            "checksum": "sha256:94da7aab88270f84571de584277d6e1fcf7a5d64dcf2fa523eb07acbce092a8f"
-        },
-        {
-            "file": "Dynamic Duo/DD2oo4/dynamic duo - e to the x yi squared.avs",
-            "size": 2911,
-            "checksum": "sha256:9bc0fc7d0d07e8ea7fac7fe5285227a1743064557d4967b880dd11a519650c50"
-        },
-        {
-            "file": "Dynamic Duo/DD2oo4/dynamic duo - elevation.avs",
-            "size": 3661,
-            "checksum": "sha256:fc9172e3b3fcc5bec65f1b81d1968eb409a2ce7d4ad66890be6a932eb886dcc9"
-        },
-        {
-            "file": "Dynamic Duo/DD2oo4/dynamic duo - incessant.avs",
-            "size": 4128,
-            "checksum": "sha256:d8b6c3caa4b41eb111bdf627ab0d38fa0402accfc36f5300f18389791c0336c2"
-        },
-        {
-            "file": "Dynamic Duo/DD2oo4/dynamic duo - it's all square.avs",
-            "size": 2022,
-            "checksum": "sha256:f64f7cfca85ef0acffbb075cf8dc8252077c012702188f8aeb7da9773e688831"
-        },
-        {
-            "file": "Dynamic Duo/DD2oo4/dynamic duo - just blind.avs",
-            "size": 2881,
-            "checksum": "sha256:a902ae258694273d7f05e0719bdc05e3a1da94806b6f633ca4dc0ef1cdc09548"
-        },
-        {
-            "file": "Dynamic Duo/DD2oo4/dynamic duo - kinderschokolade (ya-tho-sho treatment).avs",
-            "size": 1151,
-            "checksum": "sha256:460fdf08bf68470700c91c94e522c39e585b7acfa3b0f279d947f9adfecc2130"
-        },
-        {
-            "file": "Dynamic Duo/DD2oo4/dynamic duo - my gold teeth.avs",
-            "size": 2886,
-            "checksum": "sha256:62ec55728ab4bf42bd94d5db9a1844267ee8bc5257c250552f7aec050fe5cecb"
-        },
-        {
-            "file": "Dynamic Duo/DD2oo4/dynamic duo - neo curvism circa 1983.avs",
-            "size": 1934,
-            "checksum": "sha256:2d38ec92839de1d30e5a469ee9b53a039d60eb01461f8f9e31276e619651b77d"
-        },
-        {
-            "file": "Dynamic Duo/DD2oo4/dynamic duo - night lighter.avs",
-            "size": 2475,
-            "checksum": "sha256:31ac8dca480c36bd9cb72c5c1bb20e3f549ea6da54614749ee0daaaa4115ae7a"
-        },
-        {
-            "file": "Dynamic Duo/DD2oo4/dynamic duo - pit.avs",
-            "size": 2646,
-            "checksum": "sha256:1a8ff4cf71d6a1c4b8451a567a25423dafbe923587bdddf062f4b0b31ff12b56"
-        },
-        {
-            "file": "Dynamic Duo/DD2oo4/dynamic duo - the crossing.avs",
-            "size": 1275,
-            "checksum": "sha256:455028dd437d03cd4de743a9a3600218798d6057593b08fc38cef661532b4333"
-        },
-        {
-            "file": "Dynamic Duo/DD2oo4/dynamic duo - zamuz lt.avs",
-            "size": 8102,
-            "checksum": "sha256:9a1295fd984dd162dc33f2cd3cd4a3cadf7d91b363435308a5b402c536e4bebf"
-        },
-        {
-            "file": "Dynamic Duo/DD2oo4/dynamic duo - zamuzified.avs",
-            "size": 2444,
-            "checksum": "sha256:cdf123d084cda58dec36b4ee57721067eb33e6890464baf5357aedd0a8dd0c1d"
-        }
-    ],
-    "plugins": [
-        "ChannelShift",
-        "ColorMap",
-        "ConvolutionFilter",
-        "Multiplier",
-        "Texer2"
-    ]
+	"name": "DD2oo4",
+	"id": "VB094",
+	"presets": [
+		{
+			"file": "Dynamic Duo/DD2oo4/dynamic duo - antikombi.avs",
+			"size": 3326,
+			"checksum": "sha256:e2e1db9ff7ed8242d8efbc45e3b5da33e4851bdbd70203432493c949579eeb85"
+		},
+		{
+			"file": "Dynamic Duo/DD2oo4/dynamic duo - carousel.avs",
+			"size": 1679,
+			"checksum": "sha256:4486ab6fc754f2959c6ede2e30fa2f7458d25ee8032667af54dd59a596d98c69"
+		},
+		{
+			"file": "Dynamic Duo/DD2oo4/dynamic duo - dial m for drugstore (v.i.p.).avs",
+			"size": 2125,
+			"checksum": "sha256:106a752dadd2f1bc86115ee2ae0148e9abf3f58b9e97c8496c50db6ab31a654d"
+		},
+		{
+			"file": "Dynamic Duo/DD2oo4/dynamic duo - do you copy.avs",
+			"size": 3025,
+			"checksum": "sha256:94da7aab88270f84571de584277d6e1fcf7a5d64dcf2fa523eb07acbce092a8f"
+		},
+		{
+			"file": "Dynamic Duo/DD2oo4/dynamic duo - e to the x yi squared.avs",
+			"size": 2911,
+			"checksum": "sha256:9bc0fc7d0d07e8ea7fac7fe5285227a1743064557d4967b880dd11a519650c50"
+		},
+		{
+			"file": "Dynamic Duo/DD2oo4/dynamic duo - elevation.avs",
+			"size": 3661,
+			"checksum": "sha256:fc9172e3b3fcc5bec65f1b81d1968eb409a2ce7d4ad66890be6a932eb886dcc9"
+		},
+		{
+			"file": "Dynamic Duo/DD2oo4/dynamic duo - incessant.avs",
+			"size": 4128,
+			"checksum": "sha256:d8b6c3caa4b41eb111bdf627ab0d38fa0402accfc36f5300f18389791c0336c2"
+		},
+		{
+			"file": "Dynamic Duo/DD2oo4/dynamic duo - it's all square.avs",
+			"size": 2022,
+			"checksum": "sha256:f64f7cfca85ef0acffbb075cf8dc8252077c012702188f8aeb7da9773e688831"
+		},
+		{
+			"file": "Dynamic Duo/DD2oo4/dynamic duo - just blind.avs",
+			"size": 2881,
+			"checksum": "sha256:a902ae258694273d7f05e0719bdc05e3a1da94806b6f633ca4dc0ef1cdc09548"
+		},
+		{
+			"file": "Dynamic Duo/DD2oo4/dynamic duo - kinderschokolade (ya-tho-sho treatment).avs",
+			"size": 1151,
+			"checksum": "sha256:460fdf08bf68470700c91c94e522c39e585b7acfa3b0f279d947f9adfecc2130"
+		},
+		{
+			"file": "Dynamic Duo/DD2oo4/dynamic duo - my gold teeth.avs",
+			"size": 2886,
+			"checksum": "sha256:62ec55728ab4bf42bd94d5db9a1844267ee8bc5257c250552f7aec050fe5cecb"
+		},
+		{
+			"file": "Dynamic Duo/DD2oo4/dynamic duo - neo curvism circa 1983.avs",
+			"size": 1934,
+			"checksum": "sha256:2d38ec92839de1d30e5a469ee9b53a039d60eb01461f8f9e31276e619651b77d"
+		},
+		{
+			"file": "Dynamic Duo/DD2oo4/dynamic duo - night lighter.avs",
+			"size": 2475,
+			"checksum": "sha256:31ac8dca480c36bd9cb72c5c1bb20e3f549ea6da54614749ee0daaaa4115ae7a"
+		},
+		{
+			"file": "Dynamic Duo/DD2oo4/dynamic duo - pit.avs",
+			"size": 2646,
+			"checksum": "sha256:1a8ff4cf71d6a1c4b8451a567a25423dafbe923587bdddf062f4b0b31ff12b56"
+		},
+		{
+			"file": "Dynamic Duo/DD2oo4/dynamic duo - the crossing.avs",
+			"size": 1275,
+			"checksum": "sha256:455028dd437d03cd4de743a9a3600218798d6057593b08fc38cef661532b4333"
+		},
+		{
+			"file": "Dynamic Duo/DD2oo4/dynamic duo - zamuz lt.avs",
+			"size": 8102,
+			"checksum": "sha256:9a1295fd984dd162dc33f2cd3cd4a3cadf7d91b363435308a5b402c536e4bebf"
+		},
+		{
+			"file": "Dynamic Duo/DD2oo4/dynamic duo - zamuzified.avs",
+			"size": 2444,
+			"checksum": "sha256:cdf123d084cda58dec36b4ee57721067eb33e6890464baf5357aedd0a8dd0c1d"
+		}
+	],
+	"plugins": ["ChannelShift", "ColorMap", "ConvolutionFilter", "Multiplier", "Texer2"]
 }

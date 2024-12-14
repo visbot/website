@@ -1,86 +1,82 @@
 {
-    "name": "screw drew",
-    "id": "VB196",
-    "presets": [
-        {
-            "file": "drew/screw drew/01 drew - sounds of sight.avs",
-            "size": 370,
-            "checksum": "sha256:60f893ca29723edf4a171b227d117263908f796fbfeb023525bdb58b2f224766"
-        },
-        {
-            "file": "drew/screw drew/02 drew - laid to rest.avs",
-            "size": 1623,
-            "checksum": "sha256:2ec808a247f249fa37160c213f219b09d54c55606213fe11187b6b485b934aef"
-        },
-        {
-            "file": "drew/screw drew/03 drew - bad to worse!.avs",
-            "size": 2773,
-            "checksum": "sha256:35c108141361a1da2730617901f873cf93a398819126ad8781793af389395e5a"
-        },
-        {
-            "file": "drew/screw drew/04 drew - clubbed.avs",
-            "size": 3390,
-            "checksum": "sha256:187100d6208b50873070fdb61af64f42af6eaaa0c743c6e9e46a05403da95a47"
-        },
-        {
-            "file": "drew/screw drew/05 drew - downtown detroit.avs",
-            "size": 4421,
-            "checksum": "sha256:a55fcf76559ea67c13e87d464ce1555884faa7ec35db521f8ff3fcfdad38bf1f"
-        },
-        {
-            "file": "drew/screw drew/06 drew - cheapassss..avs",
-            "size": 4946,
-            "checksum": "sha256:f93f9655c5bad43d356e589d9b8496173185cac747eb26b478300d5350f6fcd7"
-        },
-        {
-            "file": "drew/screw drew/07 m-e & drew - sexual refrence (edit).avs",
-            "size": 4852,
-            "checksum": "sha256:d17280753628590061f0375f3d5386ad8247ff386a98c420569c292a63585feb"
-        },
-        {
-            "file": "drew/screw drew/08 drew - vocal test.avs",
-            "size": 2493,
-            "checksum": "sha256:c23e7870e4f524fef91161f1f204a67c24c3ffd9da64cdd92a4aca059c97593b"
-        },
-        {
-            "file": "drew/screw drew/09 drew - free loading.avs",
-            "size": 1934,
-            "checksum": "sha256:a89e8743817bd5e67d25f47d70ee935607d6da04518c7a70d1ed0f4867e188f5"
-        },
-        {
-            "file": "drew/screw drew/10 drew - du hast.avs",
-            "size": 1681,
-            "checksum": "sha256:b81d2a49f397ac44d3c71379326dfd40948eca3e44d0a083135e079cc81dbb68"
-        },
-        {
-            "file": "drew/screw drew/11 drew - hatevibe..avs",
-            "size": 4232,
-            "checksum": "sha256:b12cd5f5061fb2111bb9b53d1e62fb3a21dd711c06577eab840cfd96f8422ce8"
-        },
-        {
-            "file": "drew/screw drew/12 drew - house of flies (yathosho remix).avs",
-            "size": 3850,
-            "checksum": "sha256:8e382e3628a371e81ee41124f4f5ae833cfa11f7279408b578444b45f0b89b6a"
-        },
-        {
-            "file": "drew/screw drew/13 drew - house of flies.avs",
-            "size": 2098,
-            "checksum": "sha256:947ed3e5896457b0bdc572bf4f57ca27d0addad35509bbfc6d6a68a1b904deaf"
-        },
-        {
-            "file": "drew/screw drew/14 drew - curvism (sin and sinners!).avs",
-            "size": 4124,
-            "checksum": "sha256:4229dfd4c50576d2f38df5cce60fb8e128089c929b8ffa940042f8852cfd8754"
-        },
-        {
-            "file": "drew/screw drew/15 drew - spanish caravan.avs",
-            "size": 2094,
-            "checksum": "sha256:91c856d21fbbe9f13390eb5c18ae7502e33ce8ad48481fc43d7789a10dd68618"
-        }
-    ],
-    "plugins": [
-        "AddBorder",
-        "ConvolutionFilter",
-        "MultiFilter"
-    ]
+	"name": "screw drew",
+	"id": "VB196",
+	"presets": [
+		{
+			"file": "drew/screw drew/01 drew - sounds of sight.avs",
+			"size": 370,
+			"checksum": "sha256:60f893ca29723edf4a171b227d117263908f796fbfeb023525bdb58b2f224766"
+		},
+		{
+			"file": "drew/screw drew/02 drew - laid to rest.avs",
+			"size": 1623,
+			"checksum": "sha256:2ec808a247f249fa37160c213f219b09d54c55606213fe11187b6b485b934aef"
+		},
+		{
+			"file": "drew/screw drew/03 drew - bad to worse!.avs",
+			"size": 2773,
+			"checksum": "sha256:35c108141361a1da2730617901f873cf93a398819126ad8781793af389395e5a"
+		},
+		{
+			"file": "drew/screw drew/04 drew - clubbed.avs",
+			"size": 3390,
+			"checksum": "sha256:187100d6208b50873070fdb61af64f42af6eaaa0c743c6e9e46a05403da95a47"
+		},
+		{
+			"file": "drew/screw drew/05 drew - downtown detroit.avs",
+			"size": 4421,
+			"checksum": "sha256:a55fcf76559ea67c13e87d464ce1555884faa7ec35db521f8ff3fcfdad38bf1f"
+		},
+		{
+			"file": "drew/screw drew/06 drew - cheapassss..avs",
+			"size": 4946,
+			"checksum": "sha256:f93f9655c5bad43d356e589d9b8496173185cac747eb26b478300d5350f6fcd7"
+		},
+		{
+			"file": "drew/screw drew/07 m-e & drew - sexual refrence (edit).avs",
+			"size": 4852,
+			"checksum": "sha256:d17280753628590061f0375f3d5386ad8247ff386a98c420569c292a63585feb"
+		},
+		{
+			"file": "drew/screw drew/08 drew - vocal test.avs",
+			"size": 2493,
+			"checksum": "sha256:c23e7870e4f524fef91161f1f204a67c24c3ffd9da64cdd92a4aca059c97593b"
+		},
+		{
+			"file": "drew/screw drew/09 drew - free loading.avs",
+			"size": 1934,
+			"checksum": "sha256:a89e8743817bd5e67d25f47d70ee935607d6da04518c7a70d1ed0f4867e188f5"
+		},
+		{
+			"file": "drew/screw drew/10 drew - du hast.avs",
+			"size": 1681,
+			"checksum": "sha256:b81d2a49f397ac44d3c71379326dfd40948eca3e44d0a083135e079cc81dbb68"
+		},
+		{
+			"file": "drew/screw drew/11 drew - hatevibe..avs",
+			"size": 4232,
+			"checksum": "sha256:b12cd5f5061fb2111bb9b53d1e62fb3a21dd711c06577eab840cfd96f8422ce8"
+		},
+		{
+			"file": "drew/screw drew/12 drew - house of flies (yathosho remix).avs",
+			"size": 3850,
+			"checksum": "sha256:8e382e3628a371e81ee41124f4f5ae833cfa11f7279408b578444b45f0b89b6a"
+		},
+		{
+			"file": "drew/screw drew/13 drew - house of flies.avs",
+			"size": 2098,
+			"checksum": "sha256:947ed3e5896457b0bdc572bf4f57ca27d0addad35509bbfc6d6a68a1b904deaf"
+		},
+		{
+			"file": "drew/screw drew/14 drew - curvism (sin and sinners!).avs",
+			"size": 4124,
+			"checksum": "sha256:4229dfd4c50576d2f38df5cce60fb8e128089c929b8ffa940042f8852cfd8754"
+		},
+		{
+			"file": "drew/screw drew/15 drew - spanish caravan.avs",
+			"size": 2094,
+			"checksum": "sha256:91c856d21fbbe9f13390eb5c18ae7502e33ce8ad48481fc43d7789a10dd68618"
+		}
+	],
+	"plugins": ["AddBorder", "ConvolutionFilter", "MultiFilter"]
 }

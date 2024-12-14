@@ -29,7 +29,9 @@
 				{#each standardAvs as download}
 					<li class="flex space-x-2">
 						<a href={`https://files.visbot.net/avs/${download}.7z`} class="red">{download}.dll</a>
-						{#if download.includes('2.81d')}<span title="AVS Versions that are widely considered to be the most compatible">*</span>{/if}
+						{#if download.includes('2.81d')}<span
+								title="AVS Versions that are widely considered to be the most compatible">*</span
+							>{/if}
 					</li>
 				{/each}
 			</ul>
@@ -40,7 +42,9 @@
 				{#each avsMod as download}
 					<li class="flex space-x-2">
 						<a href={`https://files.visbot.net/avs/${download}.7z`} class="red">{download}.dll</a>
-						{#if download.includes('2.81d')}<span title="AVS Versions that are widely considered to be the most compatible">*</span>{/if}
+						{#if download.includes('2.81d')}<span
+								title="AVS Versions that are widely considered to be the most compatible">*</span
+							>{/if}
 					</li>
 				{/each}
 			</ul>
@@ -59,11 +63,17 @@
 		<span class="m-2">
 			<ul class="m-2 list-disc">
 				<li class="flex space-x-2">
-					<span><a href="https://files.visbot.net/avs/source/vis_avs-2.81d-src.7z" class="red">vis_avs-2.81d-src.7z</a></span>
+					<span
+						><a href="https://files.visbot.net/avs/source/vis_avs-2.81d-src.7z" class="red">vis_avs-2.81d-src.7z</a
+						></span
+					>
 					<span>or <a href="https://github.com/visbot/vis_avs" class="red">github</a></span>
 				</li>
 				<li class="flex space-x-2">
-					<span><a href="https://files.visbot.net/avs/source/vis_chavs-2.9.1-src.7z" class="red">vis_chavs-2.9.1-src.7z</a></span>
+					<span
+						><a href="https://files.visbot.net/avs/source/vis_chavs-2.9.1-src.7z" class="red">vis_chavs-2.9.1-src.7z</a
+						></span
+					>
 					<span>or <a href="https://github.com/visbot/chavs" class="red">github</a></span>
 				</li>
 			</ul>
@@ -81,13 +91,19 @@
 		<span class="m-2">
 			<ul class="m-2 list-disc">
 				<li class="flex space-x-2">
-					<a href="https://files.visbot.net/avs/resources/tuggummi-texer-resources.7z" class="red">Tuggummi's Texer Resources</a>
+					<a href="https://files.visbot.net/avs/resources/tuggummi-texer-resources.7z" class="red"
+						>Tuggummi's Texer Resources</a
+					>
 				</li>
 				<li class="flex space-x-2">
-					<a href="https://files.visbot.net/avs/resources/yathosho-texer-resources-extension-pack.7z" class="red">Yathosho's Texer Resources Extension Pack</a>
+					<a href="https://files.visbot.net/avs/resources/yathosho-texer-resources-extension-pack.7z" class="red"
+						>Yathosho's Texer Resources Extension Pack</a
+					>
 				</li>
 				<li class="flex space-x-2">
-					<a href="https://files.visbot.net/avs/resources/yathosho-mega-texer-pack.7z" class="red">Yathosho's Mega Texer Pack</a>
+					<a href="https://files.visbot.net/avs/resources/yathosho-mega-texer-pack.7z" class="red"
+						>Yathosho's Mega Texer Pack</a
+					>
 				</li>
 			</ul>
 		</span>

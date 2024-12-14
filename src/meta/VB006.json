@@ -1,29 +1,27 @@
 {
-    "name": "whyEye.org since then 5",
-    "id": "VB006",
-    "presets": [
-        {
-            "file": "whyEye.org/whyEye.org since then 5/yiA1__a-pid-ya-tho-sho!_(jdm_remixed).avs",
-            "size": 1739,
-            "checksum": "sha256:5e4f50ef77a8f3f826682dab60f9edc367c5672d7024f1986d16ad5ba787ad54"
-        },
-        {
-            "file": "whyEye.org/whyEye.org since then 5/yiA2__kombi.avs",
-            "size": 625,
-            "checksum": "sha256:7e1c9197fdf2103c106e8cab0b85f417be28904c914b24c0889a357c6000bb5a"
-        },
-        {
-            "file": "whyEye.org/whyEye.org since then 5/yiB1__mantenna_(skupers_remixed).avs",
-            "size": 2502,
-            "checksum": "sha256:c0cbec8bc6fbfb4fe0544eba7fa023f6b1ccb3818873fff42b375ef638e6468b"
-        },
-        {
-            "file": "whyEye.org/whyEye.org since then 5/yiB2__super_constellation_(avs-king_remixed).avs",
-            "size": 852,
-            "checksum": "sha256:9aedf8cf68b6027eabb6e72352c4926942221ec3391a40010dbb4bfff1a5c3a4"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "whyEye.org since then 5",
+	"id": "VB006",
+	"presets": [
+		{
+			"file": "whyEye.org/whyEye.org since then 5/yiA1__a-pid-ya-tho-sho!_(jdm_remixed).avs",
+			"size": 1739,
+			"checksum": "sha256:5e4f50ef77a8f3f826682dab60f9edc367c5672d7024f1986d16ad5ba787ad54"
+		},
+		{
+			"file": "whyEye.org/whyEye.org since then 5/yiA2__kombi.avs",
+			"size": 625,
+			"checksum": "sha256:7e1c9197fdf2103c106e8cab0b85f417be28904c914b24c0889a357c6000bb5a"
+		},
+		{
+			"file": "whyEye.org/whyEye.org since then 5/yiB1__mantenna_(skupers_remixed).avs",
+			"size": 2502,
+			"checksum": "sha256:c0cbec8bc6fbfb4fe0544eba7fa023f6b1ccb3818873fff42b375ef638e6468b"
+		},
+		{
+			"file": "whyEye.org/whyEye.org since then 5/yiB2__super_constellation_(avs-king_remixed).avs",
+			"size": 852,
+			"checksum": "sha256:9aedf8cf68b6027eabb6e72352c4926942221ec3391a40010dbb4bfff1a5c3a4"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

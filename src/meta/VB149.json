@@ -1,91 +1,89 @@
 {
-    "name": "Destroit MI",
-    "id": "VB149",
-    "presets": [
-        {
-            "file": "PAN AM/Destroit MI/01  PAN_AM dstrt.avs",
-            "size": 3784,
-            "checksum": "sha256:7239f2d23fcab31b97550e16c92851b6c34aa11154e65d4cbdc24c89976c2359"
-        },
-        {
-            "file": "PAN AM/Destroit MI/02  PAN_AM mtrpltn.avs",
-            "size": 1852,
-            "checksum": "sha256:ff34c4d9fee114c831f800aed370e9aaa2b5de86b8a08fb6ec351d860f8d52b5"
-        },
-        {
-            "file": "PAN AM/Destroit MI/03  PAN_AM cmprssn.avs",
-            "size": 2097,
-            "checksum": "sha256:c862fdfdf55a627be8adde43d03ff681ba2de19177f5a54a92c445a5054c580d"
-        },
-        {
-            "file": "PAN AM/Destroit MI/04  PAN_AM slkwrm.avs",
-            "size": 1762,
-            "checksum": "sha256:268503377e2fadcc00491538e840606606269f83b32847bd4287b5f3fd8448d1"
-        },
-        {
-            "file": "PAN AM/Destroit MI/05  PAN_AM strsnstrps.avs",
-            "size": 10097,
-            "checksum": "sha256:2fa39baddebbe09d8994a51d505fcf158035fba9ae1c489663ce4148a0edcaff"
-        },
-        {
-            "file": "PAN AM/Destroit MI/06  PAN_AM btchcrck.avs",
-            "size": 2162,
-            "checksum": "sha256:cd92657be03e0d4e5ab62ac2efc210dbcf58876a7f4328aea828bdb7297d2bd2"
-        },
-        {
-            "file": "PAN AM/Destroit MI/07  PAN_AM acdstrb3.avs",
-            "size": 2579,
-            "checksum": "sha256:19395a423cc08288d4266cf0af260a85acb9de7f2202432f22db0d692fd9faf1"
-        },
-        {
-            "file": "PAN AM/Destroit MI/08  PAN_AM mnstck.avs",
-            "size": 4151,
-            "checksum": "sha256:c1f4f7257236dde829febba539ce29d1a5f5cc23572465798f9fc69ecd717d04"
-        },
-        {
-            "file": "PAN AM/Destroit MI/09  PAN_AM mtrcty.avs",
-            "size": 9958,
-            "checksum": "sha256:4fbe5464fdbcf321e94c593f5e67f6ad12d3f6b96099188d836b2db218b386eb"
-        },
-        {
-            "file": "PAN AM/Destroit MI/10  PAN_AM rshhr.avs",
-            "size": 2458,
-            "checksum": "sha256:8664554bfacb9d79becae8870717a6d0b99e8e1aca797978eb889015a4799fef"
-        },
-        {
-            "file": "PAN AM/Destroit MI/11  PAN_AM mnstck (pan am rmx).avs",
-            "size": 4360,
-            "checksum": "sha256:b1908955ff9b72edc269a27b5b66c53b2d65084c551bb4ed11c533c4435fb0c3"
-        },
-        {
-            "file": "PAN AM/Destroit MI/12  PAN_AM slkwrm (yathosho rmx).avs",
-            "size": 3735,
-            "checksum": "sha256:83716d4a64e7891bd5b3d0be749bd0f1f7f72933ce492a8a6461164af489748a"
-        }
-    ],
-    "assets": [
-        {
-            "file": "Silkscreen_Bold.ttf",
-            "size": 16172,
-            "checksum": "sha256:cecab42faa04cfc5d5f647ead30d3dbd099468b412300c8a94e5612a76052034"
-        },
-        {
-            "file": "Silkscreen_Expanded_Bold.ttf",
-            "size": 16276,
-            "checksum": "sha256:698eac3062b43638b361660bdb096707b09df13bbf084c4dc95b177a8aa83a7b"
-        },
-        {
-            "file": "Silkscreen_Expanded.ttf",
-            "size": 18444,
-            "checksum": "sha256:1204e736ae72865f861e49396d5313f448357983e9c61d8c0110cd2cdefca9d4"
-        },
-        {
-            "file": "Silkscreen.ttf",
-            "size": 18336,
-            "checksum": "sha256:201df110e8dd8f19da40e5ad953b25bcac34dcb1bd14c7b8e02c9ce0b5ac0ca3"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "Destroit MI",
+	"id": "VB149",
+	"presets": [
+		{
+			"file": "PAN AM/Destroit MI/01  PAN_AM dstrt.avs",
+			"size": 3784,
+			"checksum": "sha256:7239f2d23fcab31b97550e16c92851b6c34aa11154e65d4cbdc24c89976c2359"
+		},
+		{
+			"file": "PAN AM/Destroit MI/02  PAN_AM mtrpltn.avs",
+			"size": 1852,
+			"checksum": "sha256:ff34c4d9fee114c831f800aed370e9aaa2b5de86b8a08fb6ec351d860f8d52b5"
+		},
+		{
+			"file": "PAN AM/Destroit MI/03  PAN_AM cmprssn.avs",
+			"size": 2097,
+			"checksum": "sha256:c862fdfdf55a627be8adde43d03ff681ba2de19177f5a54a92c445a5054c580d"
+		},
+		{
+			"file": "PAN AM/Destroit MI/04  PAN_AM slkwrm.avs",
+			"size": 1762,
+			"checksum": "sha256:268503377e2fadcc00491538e840606606269f83b32847bd4287b5f3fd8448d1"
+		},
+		{
+			"file": "PAN AM/Destroit MI/05  PAN_AM strsnstrps.avs",
+			"size": 10097,
+			"checksum": "sha256:2fa39baddebbe09d8994a51d505fcf158035fba9ae1c489663ce4148a0edcaff"
+		},
+		{
+			"file": "PAN AM/Destroit MI/06  PAN_AM btchcrck.avs",
+			"size": 2162,
+			"checksum": "sha256:cd92657be03e0d4e5ab62ac2efc210dbcf58876a7f4328aea828bdb7297d2bd2"
+		},
+		{
+			"file": "PAN AM/Destroit MI/07  PAN_AM acdstrb3.avs",
+			"size": 2579,
+			"checksum": "sha256:19395a423cc08288d4266cf0af260a85acb9de7f2202432f22db0d692fd9faf1"
+		},
+		{
+			"file": "PAN AM/Destroit MI/08  PAN_AM mnstck.avs",
+			"size": 4151,
+			"checksum": "sha256:c1f4f7257236dde829febba539ce29d1a5f5cc23572465798f9fc69ecd717d04"
+		},
+		{
+			"file": "PAN AM/Destroit MI/09  PAN_AM mtrcty.avs",
+			"size": 9958,
+			"checksum": "sha256:4fbe5464fdbcf321e94c593f5e67f6ad12d3f6b96099188d836b2db218b386eb"
+		},
+		{
+			"file": "PAN AM/Destroit MI/10  PAN_AM rshhr.avs",
+			"size": 2458,
+			"checksum": "sha256:8664554bfacb9d79becae8870717a6d0b99e8e1aca797978eb889015a4799fef"
+		},
+		{
+			"file": "PAN AM/Destroit MI/11  PAN_AM mnstck (pan am rmx).avs",
+			"size": 4360,
+			"checksum": "sha256:b1908955ff9b72edc269a27b5b66c53b2d65084c551bb4ed11c533c4435fb0c3"
+		},
+		{
+			"file": "PAN AM/Destroit MI/12  PAN_AM slkwrm (yathosho rmx).avs",
+			"size": 3735,
+			"checksum": "sha256:83716d4a64e7891bd5b3d0be749bd0f1f7f72933ce492a8a6461164af489748a"
+		}
+	],
+	"assets": [
+		{
+			"file": "Silkscreen_Bold.ttf",
+			"size": 16172,
+			"checksum": "sha256:cecab42faa04cfc5d5f647ead30d3dbd099468b412300c8a94e5612a76052034"
+		},
+		{
+			"file": "Silkscreen_Expanded_Bold.ttf",
+			"size": 16276,
+			"checksum": "sha256:698eac3062b43638b361660bdb096707b09df13bbf084c4dc95b177a8aa83a7b"
+		},
+		{
+			"file": "Silkscreen_Expanded.ttf",
+			"size": 18444,
+			"checksum": "sha256:1204e736ae72865f861e49396d5313f448357983e9c61d8c0110cd2cdefca9d4"
+		},
+		{
+			"file": "Silkscreen.ttf",
+			"size": 18336,
+			"checksum": "sha256:201df110e8dd8f19da40e5ad953b25bcac34dcb1bd14c7b8e02c9ce0b5ac0ca3"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

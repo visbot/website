@@ -1,29 +1,27 @@
 {
-    "name": "yathosho & frames.of.reality - back2back",
-    "id": "VB107",
-    "presets": [
-        {
-            "file": "yathosho & frames.of.reality - back2back/a1 frames.of.reality - leian (yathosho's raster element).avs",
-            "size": 3370,
-            "checksum": "sha256:da44d4ae044792128c9cd5e395af6e9ac898b92f17d03a1824f0ed2c46dac629"
-        },
-        {
-            "file": "yathosho & frames.of.reality - back2back/a2 yathosho - stadtbild i (frames.of.reality's happy happy joy joy remix).avs",
-            "size": 3218,
-            "checksum": "sha256:ac0ed2d90324219d492fce8313417e28fe5ec6a474c9083c272af3ee5f56c472"
-        },
-        {
-            "file": "yathosho & frames.of.reality - back2back/b1 yathosho - bored of canada (frames.of.reality's flashlights are cheap mix).avs",
-            "size": 5141,
-            "checksum": "sha256:5162782064217f8e6f25a3ce617e1089f341039099262e664237308149db1b1b"
-        },
-        {
-            "file": "yathosho & frames.of.reality - back2back/b2 frames.of.reality - escarte (yathosho's raster scan).avs",
-            "size": 2615,
-            "checksum": "sha256:8d095eb368261ea93fe45c3c36b3cecb84f3d5936ba1d7d616693c26f458fc6f"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "yathosho & frames.of.reality - back2back",
+	"id": "VB107",
+	"presets": [
+		{
+			"file": "yathosho & frames.of.reality - back2back/a1 frames.of.reality - leian (yathosho's raster element).avs",
+			"size": 3370,
+			"checksum": "sha256:da44d4ae044792128c9cd5e395af6e9ac898b92f17d03a1824f0ed2c46dac629"
+		},
+		{
+			"file": "yathosho & frames.of.reality - back2back/a2 yathosho - stadtbild i (frames.of.reality's happy happy joy joy remix).avs",
+			"size": 3218,
+			"checksum": "sha256:ac0ed2d90324219d492fce8313417e28fe5ec6a474c9083c272af3ee5f56c472"
+		},
+		{
+			"file": "yathosho & frames.of.reality - back2back/b1 yathosho - bored of canada (frames.of.reality's flashlights are cheap mix).avs",
+			"size": 5141,
+			"checksum": "sha256:5162782064217f8e6f25a3ce617e1089f341039099262e664237308149db1b1b"
+		},
+		{
+			"file": "yathosho & frames.of.reality - back2back/b2 frames.of.reality - escarte (yathosho's raster scan).avs",
+			"size": 2615,
+			"checksum": "sha256:8d095eb368261ea93fe45c3c36b3cecb84f3d5936ba1d7d616693c26f458fc6f"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

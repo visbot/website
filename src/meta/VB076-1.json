@@ -1,30 +1,27 @@
 {
-    "name": "prelude to L.O.V.E.",
-    "id": "VB076-1",
-    "presets": [
-        {
-            "file": "les Noobiens/prelude to L.O.V.E/lNa1 les Noobiens - olymp-unique.avs",
-            "size": 773,
-            "checksum": "sha256:f0bda693905ed254ecb634e6956783c3fa40716bbb8e2b2ce325b78eb805e5c5"
-        },
-        {
-            "file": "les Noobiens/prelude to L.O.V.E/lNa2 yathosho - neutroleum (les Noobiens rework).avs",
-            "size": 1719,
-            "checksum": "sha256:a12730e5e91f4a8395a55284d2a55acccc667f61c93b7bec42e8f107fe6a6773"
-        },
-        {
-            "file": "les Noobiens/prelude to L.O.V.E/lNb1 les Noobiens - 2-gummi (zamuz too goomy remix).avs",
-            "size": 4516,
-            "checksum": "sha256:570935bb714f80de90add8a5b2bd22501f032db351b2da258bf8938c2711043d"
-        },
-        {
-            "file": "les Noobiens/prelude to L.O.V.E/lNb2 les Noobiens - 2-gummi (pan am remix).avs",
-            "size": 826,
-            "checksum": "sha256:0ba26ee235f201bd4b340ed6ad58d5d517a04d07e4f5d170e6ceb47e8aeedc9f"
-        }
-    ],
-    "plugins": [
-        "AddBorder",
-        "ConvolutionFilter"
-    ]
+	"name": "prelude to L.O.V.E.",
+	"id": "VB076-1",
+	"presets": [
+		{
+			"file": "les Noobiens/prelude to L.O.V.E/lNa1 les Noobiens - olymp-unique.avs",
+			"size": 773,
+			"checksum": "sha256:f0bda693905ed254ecb634e6956783c3fa40716bbb8e2b2ce325b78eb805e5c5"
+		},
+		{
+			"file": "les Noobiens/prelude to L.O.V.E/lNa2 yathosho - neutroleum (les Noobiens rework).avs",
+			"size": 1719,
+			"checksum": "sha256:a12730e5e91f4a8395a55284d2a55acccc667f61c93b7bec42e8f107fe6a6773"
+		},
+		{
+			"file": "les Noobiens/prelude to L.O.V.E/lNb1 les Noobiens - 2-gummi (zamuz too goomy remix).avs",
+			"size": 4516,
+			"checksum": "sha256:570935bb714f80de90add8a5b2bd22501f032db351b2da258bf8938c2711043d"
+		},
+		{
+			"file": "les Noobiens/prelude to L.O.V.E/lNb2 les Noobiens - 2-gummi (pan am remix).avs",
+			"size": 826,
+			"checksum": "sha256:0ba26ee235f201bd4b340ed6ad58d5d517a04d07e4f5d170e6ceb47e8aeedc9f"
+		}
+	],
+	"plugins": ["AddBorder", "ConvolutionFilter"]
 }

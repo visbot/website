@@ -1,19 +1,17 @@
 {
-    "name": "whyEye.org softsex",
-    "id": "V7002",
-    "presets": [
-        {
-            "file": "whyEye.org/whyEye.org softsex/yiA__softsex.avs",
-            "size": 2824,
-            "checksum": "sha256:bc977d845f26444f42457194abad9d769249719430e2efb1168cc5ecde3e1ab2"
-        },
-        {
-            "file": "whyEye.org/whyEye.org softsex/yiB__softsex (remix).avs",
-            "size": 4710,
-            "checksum": "sha256:1065a11282dd10af5d0518c73116e3bfa333a0e13d85d76aa94aae25733df091"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "whyEye.org softsex",
+	"id": "V7002",
+	"presets": [
+		{
+			"file": "whyEye.org/whyEye.org softsex/yiA__softsex.avs",
+			"size": 2824,
+			"checksum": "sha256:bc977d845f26444f42457194abad9d769249719430e2efb1168cc5ecde3e1ab2"
+		},
+		{
+			"file": "whyEye.org/whyEye.org softsex/yiB__softsex (remix).avs",
+			"size": 4710,
+			"checksum": "sha256:1065a11282dd10af5d0518c73116e3bfa333a0e13d85d76aa94aae25733df091"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

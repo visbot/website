@@ -13,9 +13,12 @@
 				{#if release.tba}
 					<span title="To be announced">{release.name?.toLowerCase() || 't.b.a.'}</span>
 				{:else if release.deleted}
-					<del title="This item has been deleted from the catalogue" class="text-red-600 decoration-black">{release.name?.toLowerCase()}</del>
+					<del title="This item has been deleted from the catalogue" class="text-red-600 decoration-black"
+						>{release.name?.toLowerCase()}</del
+					>
 				{:else}
-					<a href="/download?file={release.id}.exe.zip" class="red">{release.name.toLowerCase()}</a>{#if release.geoblock?.length}<span class="cursor-help" title="Formerly a Japan exclusive pack">*</span>{/if}
+					<a href="/download?file={release.id}.exe.zip" class="red">{release.name.toLowerCase()}</a
+					>{#if release.geoblock?.length}<span class="cursor-help" title="Formerly a Japan exclusive pack">*</span>{/if}
 				{/if}
 				{#if release.byline}
 					by

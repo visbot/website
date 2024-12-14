@@ -1,25 +1,22 @@
 {
-    "name": "MNSTCKRMXS",
-    "id": "VB152",
-    "presets": [
-        {
-            "file": "PAN AM/MNSTCKRMXS/01 PAN_AM mnstck (ya-tho-sho rework).avs",
-            "size": 4446,
-            "checksum": "sha256:1d07b757bd32356f12bf80bfacf2896519298661023d06fddf76b18eae676dc1"
-        },
-        {
-            "file": "PAN AM/MNSTCKRMXS/02 PAN_AM mnstck (who's enemies mix by drew).avs",
-            "size": 3437,
-            "checksum": "sha256:dbc061146b35c8fc33a23326b408ff73f79432d450af897a8cec38fbab6b971c"
-        },
-        {
-            "file": "PAN AM/MNSTCKRMXS/03 PAN_AM mnstck (les Noobiens vs yathosho ip-op remash).avs",
-            "size": 4601,
-            "checksum": "sha256:b4a57fe3f09bd8d3d2bd275df03bf6b8fd768413cae1df1f037f9c17edc13b36"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter",
-        "FramerateLimiter"
-    ]
+	"name": "MNSTCKRMXS",
+	"id": "VB152",
+	"presets": [
+		{
+			"file": "PAN AM/MNSTCKRMXS/01 PAN_AM mnstck (ya-tho-sho rework).avs",
+			"size": 4446,
+			"checksum": "sha256:1d07b757bd32356f12bf80bfacf2896519298661023d06fddf76b18eae676dc1"
+		},
+		{
+			"file": "PAN AM/MNSTCKRMXS/02 PAN_AM mnstck (who's enemies mix by drew).avs",
+			"size": 3437,
+			"checksum": "sha256:dbc061146b35c8fc33a23326b408ff73f79432d450af897a8cec38fbab6b971c"
+		},
+		{
+			"file": "PAN AM/MNSTCKRMXS/03 PAN_AM mnstck (les Noobiens vs yathosho ip-op remash).avs",
+			"size": 4601,
+			"checksum": "sha256:b4a57fe3f09bd8d3d2bd275df03bf6b8fd768413cae1df1f037f9c17edc13b36"
+		}
+	],
+	"plugins": ["ConvolutionFilter", "FramerateLimiter"]
 }

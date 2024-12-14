@@ -1,147 +1,144 @@
 {
-    "name": "zamuz - visions 4",
-    "id": "VB068-1",
-    "presets": [
-        {
-            "file": "Zamuz/zamuz - visions 4/00 - previsions/2nd pack - alien art.avs",
-            "size": 606,
-            "checksum": "sha256:353081d78734174f8ece33305a9a719cfee18838ab8a09d572fa887e60bf4956"
-        },
-        {
-            "file": "Zamuz/zamuz - visions 4/00 - previsions/2nd pack - blue geometry.avs",
-            "size": 618,
-            "checksum": "sha256:e814a74da7ef1a94fa9f8b1f15d8e841bf3bf6548a5910bd8988fe89be3e7d7b"
-        },
-        {
-            "file": "Zamuz/zamuz - visions 4/00 - previsions/2nd pack - wicked chess.avs",
-            "size": 572,
-            "checksum": "sha256:09d4f4cd028f7a13c6e96b1c0b2f6ed8a40d462443bf7acf46f616c6752e7ae7"
-        },
-        {
-            "file": "Zamuz/zamuz - visions 4/00 - previsions/3rd pack - green beauty (remix).avs",
-            "size": 1060,
-            "checksum": "sha256:dc8c4cb4310f11eea3752f10b79554f03a2e4ef6f5a00e76670dfdb2dfc29a79"
-        },
-        {
-            "file": "Zamuz/zamuz - visions 4/00 - previsions/3rd pack - neon light party.avs",
-            "size": 536,
-            "checksum": "sha256:aaadda2c175f2d7a04237247b4132cbd664401d07639b6103e88e32113b9b200"
-        },
-        {
-            "file": "Zamuz/zamuz - visions 4/00 - previsions/3rd pack - that pretty shiny thing.avs",
-            "size": 719,
-            "checksum": "sha256:cc6bac8a4da2bc80538e46b2a531e74ec73031793a2ab2fae6077af2388cd7a2"
-        },
-        {
-            "file": "Zamuz/zamuz - visions 4/01 - visions 4.avs",
-            "size": 5501,
-            "checksum": "sha256:b0c97bdfb8ed591a640e6c803b5c7cf461ddec2b146bbb594ac1b6a68734cc4b"
-        },
-        {
-            "file": "Zamuz/zamuz - visions 4/02 - sex (take two).avs",
-            "size": 3241,
-            "checksum": "sha256:8992ab531a309b632d4a90e9995ed5465062bc7e76cae1fa2aeb6a2c65010319"
-        },
-        {
-            "file": "Zamuz/zamuz - visions 4/03 - óleo.avs",
-            "size": 4499,
-            "checksum": "sha256:ec3a1496e381069bbd38f8a6554ec22cb69e757376eb8a93833a9554e0c7a242"
-        },
-        {
-            "file": "Zamuz/zamuz - visions 4/04 - rainbowish.avs",
-            "size": 3321,
-            "checksum": "sha256:6f6a8f3334b897c2ce4626700424ad631823ed4be525e3aef0156c99a1993d9f"
-        },
-        {
-            "file": "Zamuz/zamuz - visions 4/05 - clear.avs",
-            "size": 6026,
-            "checksum": "sha256:0b2d03f8464760ea9768bbd1b2790669d1458db3ba00c2247f45978ecfbd2c24"
-        },
-        {
-            "file": "Zamuz/zamuz - visions 4/06 - happy candy time.avs",
-            "size": 1282,
-            "checksum": "sha256:ca52e5169a68751a978771366f4cda5439a3b668c56d1a4b0885445087e0011f"
-        },
-        {
-            "file": "Zamuz/zamuz - visions 4/07 - my way.avs",
-            "size": 4080,
-            "checksum": "sha256:b23e0cb7fedcaf3b8b4e400b017f8bac903af97d97c3b28eed8455459d54bbac"
-        },
-        {
-            "file": "Zamuz/zamuz - visions 4/08 - spiritual.avs",
-            "size": 2817,
-            "checksum": "sha256:a85bca61ba7874a0290bab004f180fb315d08e6f6ce32313b9f415a59c1a4020"
-        },
-        {
-            "file": "Zamuz/zamuz - visions 4/09 - sangra.avs",
-            "size": 3113,
-            "checksum": "sha256:78f2c04c01adbcd7d3fbc429ff239a52d1c3717bce3da1653364543244103b1c"
-        },
-        {
-            "file": "Zamuz/zamuz - visions 4/10 - sex (take three).avs",
-            "size": 4091,
-            "checksum": "sha256:dc01149a17199401796b216b388712cdf36abf5cedd4434c8f85d6919cb28463"
-        },
-        {
-            "file": "Zamuz/zamuz - visions 4/11 - flor.avs",
-            "size": 4257,
-            "checksum": "sha256:e0ac6bffcde328583565dec5d33ae642d28c8cf7cc9f74ece28b65c847efd3d3"
-        },
-        {
-            "file": "Zamuz/zamuz - visions 4/12 - in between.avs",
-            "size": 8117,
-            "checksum": "sha256:611d58e09fe0f99c1be9fb58d667e4a35dab2e6996ef67f362b35b482ee77e16"
-        },
-        {
-            "file": "Zamuz/zamuz - visions 4/13 - crystal breeze.avs",
-            "size": 8138,
-            "checksum": "sha256:5712386e946466669a4eb02171867630ecb7c630093670f651117c1021988f15"
-        },
-        {
-            "file": "Zamuz/zamuz - visions 4/14 - spines.avs",
-            "size": 4280,
-            "checksum": "sha256:c794599c97ee5cabe4db30dd8fa3dcdd2be98491488b428f86263a65bf4cf2c0"
-        },
-        {
-            "file": "Zamuz/zamuz - visions 4/15 - een b-twin.avs",
-            "size": 8927,
-            "checksum": "sha256:e02f515f7104d8ff1c63c6b5e13cd785db188ab3e7f750497d22c0d0ab38f963"
-        },
-        {
-            "file": "Zamuz/zamuz - visions 4/16 - around the square.avs",
-            "size": 3358,
-            "checksum": "sha256:20b3f66d88db2574255f2c4193ebb9c9b257a27f04ba9de09c889f5051e0e145"
-        }
-    ],
-    "assets": [
-        {
-            "file": "v4_texer.bmp",
-            "size": 4854,
-            "checksum": "sha256:251d34a25555a90b7c49c7fb36899289fae30a95d9daa9feae1f0c5934354570"
-        },
-        {
-            "file": "v4_texer2.bmp",
-            "size": 5430,
-            "checksum": "sha256:693afb60f5532b47099ce70ccbdf18fd1651b93b525994e5ceb66e71aa0ae01e"
-        },
-        {
-            "file": "v4_texer3.bmp",
-            "size": 4854,
-            "checksum": "sha256:77c620edd0df29e8c3fd320cf301022d0fc169b68786781a09e89ce47fdac1d9"
-        },
-        {
-            "file": "v4_texer5.bmp",
-            "size": 4854,
-            "checksum": "sha256:478c1a87ee46108ebda2b866e0db6f715b2a4d6e95b65ef8f7642de94f498a7b"
-        },
-        {
-            "file": "v4_texer7.bmp",
-            "size": 1954,
-            "checksum": "sha256:49b6458d62c8f9687fefe109e1891166da70448e4eba3006067f948662a46a76"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter",
-        "GlobalVarMan"
-    ]
+	"name": "zamuz - visions 4",
+	"id": "VB068-1",
+	"presets": [
+		{
+			"file": "Zamuz/zamuz - visions 4/00 - previsions/2nd pack - alien art.avs",
+			"size": 606,
+			"checksum": "sha256:353081d78734174f8ece33305a9a719cfee18838ab8a09d572fa887e60bf4956"
+		},
+		{
+			"file": "Zamuz/zamuz - visions 4/00 - previsions/2nd pack - blue geometry.avs",
+			"size": 618,
+			"checksum": "sha256:e814a74da7ef1a94fa9f8b1f15d8e841bf3bf6548a5910bd8988fe89be3e7d7b"
+		},
+		{
+			"file": "Zamuz/zamuz - visions 4/00 - previsions/2nd pack - wicked chess.avs",
+			"size": 572,
+			"checksum": "sha256:09d4f4cd028f7a13c6e96b1c0b2f6ed8a40d462443bf7acf46f616c6752e7ae7"
+		},
+		{
+			"file": "Zamuz/zamuz - visions 4/00 - previsions/3rd pack - green beauty (remix).avs",
+			"size": 1060,
+			"checksum": "sha256:dc8c4cb4310f11eea3752f10b79554f03a2e4ef6f5a00e76670dfdb2dfc29a79"
+		},
+		{
+			"file": "Zamuz/zamuz - visions 4/00 - previsions/3rd pack - neon light party.avs",
+			"size": 536,
+			"checksum": "sha256:aaadda2c175f2d7a04237247b4132cbd664401d07639b6103e88e32113b9b200"
+		},
+		{
+			"file": "Zamuz/zamuz - visions 4/00 - previsions/3rd pack - that pretty shiny thing.avs",
+			"size": 719,
+			"checksum": "sha256:cc6bac8a4da2bc80538e46b2a531e74ec73031793a2ab2fae6077af2388cd7a2"
+		},
+		{
+			"file": "Zamuz/zamuz - visions 4/01 - visions 4.avs",
+			"size": 5501,
+			"checksum": "sha256:b0c97bdfb8ed591a640e6c803b5c7cf461ddec2b146bbb594ac1b6a68734cc4b"
+		},
+		{
+			"file": "Zamuz/zamuz - visions 4/02 - sex (take two).avs",
+			"size": 3241,
+			"checksum": "sha256:8992ab531a309b632d4a90e9995ed5465062bc7e76cae1fa2aeb6a2c65010319"
+		},
+		{
+			"file": "Zamuz/zamuz - visions 4/03 - óleo.avs",
+			"size": 4499,
+			"checksum": "sha256:ec3a1496e381069bbd38f8a6554ec22cb69e757376eb8a93833a9554e0c7a242"
+		},
+		{
+			"file": "Zamuz/zamuz - visions 4/04 - rainbowish.avs",
+			"size": 3321,
+			"checksum": "sha256:6f6a8f3334b897c2ce4626700424ad631823ed4be525e3aef0156c99a1993d9f"
+		},
+		{
+			"file": "Zamuz/zamuz - visions 4/05 - clear.avs",
+			"size": 6026,
+			"checksum": "sha256:0b2d03f8464760ea9768bbd1b2790669d1458db3ba00c2247f45978ecfbd2c24"
+		},
+		{
+			"file": "Zamuz/zamuz - visions 4/06 - happy candy time.avs",
+			"size": 1282,
+			"checksum": "sha256:ca52e5169a68751a978771366f4cda5439a3b668c56d1a4b0885445087e0011f"
+		},
+		{
+			"file": "Zamuz/zamuz - visions 4/07 - my way.avs",
+			"size": 4080,
+			"checksum": "sha256:b23e0cb7fedcaf3b8b4e400b017f8bac903af97d97c3b28eed8455459d54bbac"
+		},
+		{
+			"file": "Zamuz/zamuz - visions 4/08 - spiritual.avs",
+			"size": 2817,
+			"checksum": "sha256:a85bca61ba7874a0290bab004f180fb315d08e6f6ce32313b9f415a59c1a4020"
+		},
+		{
+			"file": "Zamuz/zamuz - visions 4/09 - sangra.avs",
+			"size": 3113,
+			"checksum": "sha256:78f2c04c01adbcd7d3fbc429ff239a52d1c3717bce3da1653364543244103b1c"
+		},
+		{
+			"file": "Zamuz/zamuz - visions 4/10 - sex (take three).avs",
+			"size": 4091,
+			"checksum": "sha256:dc01149a17199401796b216b388712cdf36abf5cedd4434c8f85d6919cb28463"
+		},
+		{
+			"file": "Zamuz/zamuz - visions 4/11 - flor.avs",
+			"size": 4257,
+			"checksum": "sha256:e0ac6bffcde328583565dec5d33ae642d28c8cf7cc9f74ece28b65c847efd3d3"
+		},
+		{
+			"file": "Zamuz/zamuz - visions 4/12 - in between.avs",
+			"size": 8117,
+			"checksum": "sha256:611d58e09fe0f99c1be9fb58d667e4a35dab2e6996ef67f362b35b482ee77e16"
+		},
+		{
+			"file": "Zamuz/zamuz - visions 4/13 - crystal breeze.avs",
+			"size": 8138,
+			"checksum": "sha256:5712386e946466669a4eb02171867630ecb7c630093670f651117c1021988f15"
+		},
+		{
+			"file": "Zamuz/zamuz - visions 4/14 - spines.avs",
+			"size": 4280,
+			"checksum": "sha256:c794599c97ee5cabe4db30dd8fa3dcdd2be98491488b428f86263a65bf4cf2c0"
+		},
+		{
+			"file": "Zamuz/zamuz - visions 4/15 - een b-twin.avs",
+			"size": 8927,
+			"checksum": "sha256:e02f515f7104d8ff1c63c6b5e13cd785db188ab3e7f750497d22c0d0ab38f963"
+		},
+		{
+			"file": "Zamuz/zamuz - visions 4/16 - around the square.avs",
+			"size": 3358,
+			"checksum": "sha256:20b3f66d88db2574255f2c4193ebb9c9b257a27f04ba9de09c889f5051e0e145"
+		}
+	],
+	"assets": [
+		{
+			"file": "v4_texer.bmp",
+			"size": 4854,
+			"checksum": "sha256:251d34a25555a90b7c49c7fb36899289fae30a95d9daa9feae1f0c5934354570"
+		},
+		{
+			"file": "v4_texer2.bmp",
+			"size": 5430,
+			"checksum": "sha256:693afb60f5532b47099ce70ccbdf18fd1651b93b525994e5ceb66e71aa0ae01e"
+		},
+		{
+			"file": "v4_texer3.bmp",
+			"size": 4854,
+			"checksum": "sha256:77c620edd0df29e8c3fd320cf301022d0fc169b68786781a09e89ce47fdac1d9"
+		},
+		{
+			"file": "v4_texer5.bmp",
+			"size": 4854,
+			"checksum": "sha256:478c1a87ee46108ebda2b866e0db6f715b2a4d6e95b65ef8f7642de94f498a7b"
+		},
+		{
+			"file": "v4_texer7.bmp",
+			"size": 1954,
+			"checksum": "sha256:49b6458d62c8f9687fefe109e1891166da70448e4eba3006067f948662a46a76"
+		}
+	],
+	"plugins": ["ConvolutionFilter", "GlobalVarMan"]
 }

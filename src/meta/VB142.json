@@ -1,46 +1,44 @@
 {
-    "name": "313 EP",
-    "id": "VB142",
-    "presets": [
-        {
-            "file": "PAN AM/313 EP/01 PAN_AM mtrcty.avs",
-            "size": 9958,
-            "checksum": "sha256:4fbe5464fdbcf321e94c593f5e67f6ad12d3f6b96099188d836b2db218b386eb"
-        },
-        {
-            "file": "PAN AM/313 EP/02 PAN_AM dstrt.avs",
-            "size": 3784,
-            "checksum": "sha256:7239f2d23fcab31b97550e16c92851b6c34aa11154e65d4cbdc24c89976c2359"
-        },
-        {
-            "file": "PAN AM/313 EP/03 PAN_AM mnstck (edit).avs",
-            "size": 2524,
-            "checksum": "sha256:3d43e43374b6a4f5768aa106fbfebcd2a019306baaf05471ebecb489269d832c"
-        }
-    ],
-    "assets": [
-        {
-            "file": "Silkscreen_Bold.ttf",
-            "size": 16172,
-            "checksum": "sha256:cecab42faa04cfc5d5f647ead30d3dbd099468b412300c8a94e5612a76052034"
-        },
-        {
-            "file": "Silkscreen_Expanded_Bold.ttf",
-            "size": 16276,
-            "checksum": "sha256:698eac3062b43638b361660bdb096707b09df13bbf084c4dc95b177a8aa83a7b"
-        },
-        {
-            "file": "Silkscreen_Expanded.ttf",
-            "size": 18444,
-            "checksum": "sha256:1204e736ae72865f861e49396d5313f448357983e9c61d8c0110cd2cdefca9d4"
-        },
-        {
-            "file": "Silkscreen.ttf",
-            "size": 18336,
-            "checksum": "sha256:201df110e8dd8f19da40e5ad953b25bcac34dcb1bd14c7b8e02c9ce0b5ac0ca3"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "313 EP",
+	"id": "VB142",
+	"presets": [
+		{
+			"file": "PAN AM/313 EP/01 PAN_AM mtrcty.avs",
+			"size": 9958,
+			"checksum": "sha256:4fbe5464fdbcf321e94c593f5e67f6ad12d3f6b96099188d836b2db218b386eb"
+		},
+		{
+			"file": "PAN AM/313 EP/02 PAN_AM dstrt.avs",
+			"size": 3784,
+			"checksum": "sha256:7239f2d23fcab31b97550e16c92851b6c34aa11154e65d4cbdc24c89976c2359"
+		},
+		{
+			"file": "PAN AM/313 EP/03 PAN_AM mnstck (edit).avs",
+			"size": 2524,
+			"checksum": "sha256:3d43e43374b6a4f5768aa106fbfebcd2a019306baaf05471ebecb489269d832c"
+		}
+	],
+	"assets": [
+		{
+			"file": "Silkscreen_Bold.ttf",
+			"size": 16172,
+			"checksum": "sha256:cecab42faa04cfc5d5f647ead30d3dbd099468b412300c8a94e5612a76052034"
+		},
+		{
+			"file": "Silkscreen_Expanded_Bold.ttf",
+			"size": 16276,
+			"checksum": "sha256:698eac3062b43638b361660bdb096707b09df13bbf084c4dc95b177a8aa83a7b"
+		},
+		{
+			"file": "Silkscreen_Expanded.ttf",
+			"size": 18444,
+			"checksum": "sha256:1204e736ae72865f861e49396d5313f448357983e9c61d8c0110cd2cdefca9d4"
+		},
+		{
+			"file": "Silkscreen.ttf",
+			"size": 18336,
+			"checksum": "sha256:201df110e8dd8f19da40e5ad953b25bcac34dcb1bd14c7b8e02c9ce0b5ac0ca3"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

@@ -1,69 +1,67 @@
 {
-    "name": "s07. unnatural objects",
-    "id": "VB226",
-    "presets": [
-        {
-            "file": "frames.of.reality/s07 . unnatural objects/001 . phase one.avs",
-            "size": 3929,
-            "checksum": "sha256:86ca83aa01ff77c8c0fe538575f2883785683b0cf420ca9e8ad646598948a892"
-        },
-        {
-            "file": "frames.of.reality/s07 . unnatural objects/002 . phase two.avs",
-            "size": 2288,
-            "checksum": "sha256:0df2cd048e4f3e62341ee8c227b06dccd4df79f951b0761b3152e3791f1d40cf"
-        },
-        {
-            "file": "frames.of.reality/s07 . unnatural objects/003 . phase three.avs",
-            "size": 2142,
-            "checksum": "sha256:dd8058467a77ad6521c43ac463cb4ceba03ba76a9d2b4e0b312925fdda54f3f1"
-        },
-        {
-            "file": "frames.of.reality/s07 . unnatural objects/004 . phase four.avs",
-            "size": 2146,
-            "checksum": "sha256:7bdb7f605dfcf52ec24caf7ad01f1abc5804ea6e23ba533ba210db914f11b6e7"
-        },
-        {
-            "file": "frames.of.reality/s07 . unnatural objects/005 . phase five.avs",
-            "size": 1865,
-            "checksum": "sha256:cb3f0dfdb147993c05c44aa6238ebb14e1972ec47a1c3dc9398258047419b8b0"
-        },
-        {
-            "file": "frames.of.reality/s07 . unnatural objects/006 . phase six.avs",
-            "size": 1933,
-            "checksum": "sha256:65cbb27ee3b0707e5f1faeb2b2fa8b74c7236c831eade75852c07c5abd6aab16"
-        },
-        {
-            "file": "frames.of.reality/s07 . unnatural objects/007 . phase seven.avs",
-            "size": 2008,
-            "checksum": "sha256:b65576490ee6e8d1f47a7fa63ecc8859f865416544409c9f13068bad0797e15c"
-        },
-        {
-            "file": "frames.of.reality/s07 . unnatural objects/008 . phase eight.avs",
-            "size": 2881,
-            "checksum": "sha256:c46b57b719fd9cb8fef4505a2eaf694d0c26b05eeeb67fe23eaca69fee4981b8"
-        },
-        {
-            "file": "frames.of.reality/s07 . unnatural objects/009 . phase nine.avs",
-            "size": 3748,
-            "checksum": "sha256:9893e67846efaff38a4044e27b9ab3a03de4af239cd9ed8a5ce52ccbb92f96e0"
-        },
-        {
-            "file": "frames.of.reality/s07 . unnatural objects/010 . phase ten.avs",
-            "size": 4605,
-            "checksum": "sha256:b11a331310590f269bd0766d81edd36c569ee2bd0a0b8f3420374ddea132a92e"
-        },
-        {
-            "file": "frames.of.reality/s07 . unnatural objects/011 . phase eleven.avs",
-            "size": 4913,
-            "checksum": "sha256:4849ff2425eca97ff9a7288d4e6ac477aabcced064376ec7dac796bda3b7b851"
-        },
-        {
-            "file": "frames.of.reality/s07 . unnatural objects/012 . yathosho - fantasy island iii (for blutorange edit).avs",
-            "size": 3234,
-            "checksum": "sha256:69dc17cbd47f7f1b3c5285cfe8b0e7829fe52f8028e85618b2f6f8ecb55674d8"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "s07. unnatural objects",
+	"id": "VB226",
+	"presets": [
+		{
+			"file": "frames.of.reality/s07 . unnatural objects/001 . phase one.avs",
+			"size": 3929,
+			"checksum": "sha256:86ca83aa01ff77c8c0fe538575f2883785683b0cf420ca9e8ad646598948a892"
+		},
+		{
+			"file": "frames.of.reality/s07 . unnatural objects/002 . phase two.avs",
+			"size": 2288,
+			"checksum": "sha256:0df2cd048e4f3e62341ee8c227b06dccd4df79f951b0761b3152e3791f1d40cf"
+		},
+		{
+			"file": "frames.of.reality/s07 . unnatural objects/003 . phase three.avs",
+			"size": 2142,
+			"checksum": "sha256:dd8058467a77ad6521c43ac463cb4ceba03ba76a9d2b4e0b312925fdda54f3f1"
+		},
+		{
+			"file": "frames.of.reality/s07 . unnatural objects/004 . phase four.avs",
+			"size": 2146,
+			"checksum": "sha256:7bdb7f605dfcf52ec24caf7ad01f1abc5804ea6e23ba533ba210db914f11b6e7"
+		},
+		{
+			"file": "frames.of.reality/s07 . unnatural objects/005 . phase five.avs",
+			"size": 1865,
+			"checksum": "sha256:cb3f0dfdb147993c05c44aa6238ebb14e1972ec47a1c3dc9398258047419b8b0"
+		},
+		{
+			"file": "frames.of.reality/s07 . unnatural objects/006 . phase six.avs",
+			"size": 1933,
+			"checksum": "sha256:65cbb27ee3b0707e5f1faeb2b2fa8b74c7236c831eade75852c07c5abd6aab16"
+		},
+		{
+			"file": "frames.of.reality/s07 . unnatural objects/007 . phase seven.avs",
+			"size": 2008,
+			"checksum": "sha256:b65576490ee6e8d1f47a7fa63ecc8859f865416544409c9f13068bad0797e15c"
+		},
+		{
+			"file": "frames.of.reality/s07 . unnatural objects/008 . phase eight.avs",
+			"size": 2881,
+			"checksum": "sha256:c46b57b719fd9cb8fef4505a2eaf694d0c26b05eeeb67fe23eaca69fee4981b8"
+		},
+		{
+			"file": "frames.of.reality/s07 . unnatural objects/009 . phase nine.avs",
+			"size": 3748,
+			"checksum": "sha256:9893e67846efaff38a4044e27b9ab3a03de4af239cd9ed8a5ce52ccbb92f96e0"
+		},
+		{
+			"file": "frames.of.reality/s07 . unnatural objects/010 . phase ten.avs",
+			"size": 4605,
+			"checksum": "sha256:b11a331310590f269bd0766d81edd36c569ee2bd0a0b8f3420374ddea132a92e"
+		},
+		{
+			"file": "frames.of.reality/s07 . unnatural objects/011 . phase eleven.avs",
+			"size": 4913,
+			"checksum": "sha256:4849ff2425eca97ff9a7288d4e6ac477aabcced064376ec7dac796bda3b7b851"
+		},
+		{
+			"file": "frames.of.reality/s07 . unnatural objects/012 . yathosho - fantasy island iii (for blutorange edit).avs",
+			"size": 3234,
+			"checksum": "sha256:69dc17cbd47f7f1b3c5285cfe8b0e7829fe52f8028e85618b2f6f8ecb55674d8"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

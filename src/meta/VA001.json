@@ -1,415 +1,412 @@
 {
-    "name": "Tonic - Best Of, End Of, No More",
-    "id": "VA001",
-    "presets": [
-        {
-            "file": "Tonic - Best Of, End Of, No More/01 - Tonic - Final Intro.avs",
-            "size": 5309,
-            "checksum": "sha256:865d8f8b3259bbf42f5c7c106398d8241d977ce7ea1cd8b256e9e10a5eea4f30"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/02 - Tonic - Help! I need more beats.avs",
-            "size": 184,
-            "checksum": "sha256:5a9256718d6f6cb1c7112a52bbca88e741a5de1dc81e740ff5c45d1884b683e7"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/03 - Tonic - Disco Area That May Suck You Out.avs",
-            "size": 2917,
-            "checksum": "sha256:8fbe3cdb6148e2a592696af8bb7130eaf19e24972e8b7f63f7a341aee7ee5216"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/04 - Gazirana Voda - 3 okia zviar_INOVATIVE_2.avs",
-            "size": 3678,
-            "checksum": "sha256:8b9d58a7d84921fca66fc91c7f6b6ab48c3686504b7ed28838efd649e09162bb"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/05 - I Cook Coxy Gay - Gold water.avs",
-            "size": 843,
-            "checksum": "sha256:2c3a0e085de249db3960f777ff76327f402e066aa13cd7aec6d9fd2e0c5a3850"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/06 - Tonic - Ruins Of Space Spider.avs",
-            "size": 1992,
-            "checksum": "sha256:136cf3a7925c6b751e87b8777664c09f3687757b3c5cb807b946b4d968f93653"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/07 - Tonic - 3D Light.avs",
-            "size": 1719,
-            "checksum": "sha256:f59f0c51044c1251cd7d2c5c5238251af57bcdb7817617a5565dd928179a7602"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/08 - I Cook Coxy Gay - To One That Really Love Me (simple).avs",
-            "size": 690,
-            "checksum": "sha256:155ce5b993cf11214db00adac7d0bc87185f99df01a6d8b1a0198ee9fbd8474a"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/09 - Indyan Ropeman - Saturn.avs",
-            "size": 4635,
-            "checksum": "sha256:cb1455651da060adf212cb2d4f745d042257f801795d3cf8e6b54fc26ac99bca"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/10 - Tonic - Zoomed Picture from One Insect.avs",
-            "size": 1287,
-            "checksum": "sha256:694fea3d5dbc13b0c5a9ca094bfe6a5b46b5ba393b54d3426b86e8a4d8f082c4"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/11 - Tonic - Stereo Staia.avs",
-            "size": 6373,
-            "checksum": "sha256:f12b0b373f58c0e7705cca3883d54cb4b711df48c3b782a3362a4098ff4bafae"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/12 - Tonic - Yo-Yo_Conceptual No Bump_OLD_2.avs",
-            "size": 3177,
-            "checksum": "sha256:6e8e59a8d24e92e8a2663b36a2867d5d8c6d18c6bb775d5dcb6bedb7a54630a2"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/13 - I Cook Coxy Gay - Green-go v2.avs",
-            "size": 915,
-            "checksum": "sha256:7e0d786693799afc9ae7029a84cdc0a71d9bdf430eba166c2388f8701232e893"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/14 - Tonic - Boost Tunnel.avs",
-            "size": 2147,
-            "checksum": "sha256:e6c1dcc770543aa6c6b5e250a707a285bad2b82c6d0b67d157665e18531b6dca"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/15 - Tonic - Lapanie in dark.avs",
-            "size": 1436,
-            "checksum": "sha256:f6db7694109978113a15d890bb849ad690e0eef76f660d497f2d593a290170b0"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/16 - Indian Ropeman - Perfect AVS.avs",
-            "size": 5365,
-            "checksum": "sha256:a0210bc0e1692ccc57d1ba3b4cadf39066665fe276ed9d7ac5a7d16c52afa478"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/17 - Tonic - Da Mu Se Ne Murda.avs",
-            "size": 723,
-            "checksum": "sha256:2e71bf5ae8c6509bc8499b909a5577457b71f6ed72c5ba689f1253d75f602c5f"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/18 - Tonic - Fractel without VisFrac_new DISCO edition.avs",
-            "size": 3451,
-            "checksum": "sha256:bb53240d4349f9d9665744b39bc488630ce6e352488336dadd6b92a03ed309b9"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/19 - Indian Ropeman - Saiuz 23.avs",
-            "size": 1331,
-            "checksum": "sha256:e38963412849b1c792bf84424eeca316174aeef4071a88579a7d54074baeb3f0"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/20 - Tonic - Face Reality.avs",
-            "size": 2054,
-            "checksum": "sha256:ce6e79b33089f446a8f891e5e5d7ff42f38430aee3ab283e5e39fa19aa3e5ff6"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/21 - Tonic - For Vertical AVS_3.avs",
-            "size": 1410,
-            "checksum": "sha256:f617f1e70b716a8cb13aaec10ded01e4de7c9157cc14d456caae151ff66d94c1"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/22 - Tonic - 3D Disco wall.avs",
-            "size": 1887,
-            "checksum": "sha256:e618e9ffcef71b0137950f5d1e3c3493d535c193f7664200146e5baa433b03b8"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/23 - Gazirana Voda - Ima-nqma mosaika.avs",
-            "size": 886,
-            "checksum": "sha256:a6505ec2d81a953aac8ea41e2475bbab5d2d652024d97640287ccfcfbc97490b"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/24 - Tonic - Cherno vs. Bialo (new).avs",
-            "size": 530,
-            "checksum": "sha256:2b7298fb08229fa82d16ba715785a5247c924e97c48721c3bf689b421f059c87"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/25 - Tonic - Murdaj_AD.avs",
-            "size": 1675,
-            "checksum": "sha256:24841b4c016bd76fcc498084548d0faac6d48bc7e6039311de9410650dcd55ad"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/26 - Tonic - Disco Misco Loves Me.avs",
-            "size": 2407,
-            "checksum": "sha256:bc2db90f3d834d19e5a09aea5523e8089e93765b6efa185fcbc55eafc53f57d4"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/27 - el-vionic - metamorphosis.avs",
-            "size": 1304,
-            "checksum": "sha256:362e60e2a6091308fe7a9462d8807e2cf1f857f2e66abf5bc717b7c212c6781c"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/28 - I Cook Coxy Gay - Spiral Beauty.avs",
-            "size": 1108,
-            "checksum": "sha256:e800135256900a24fe5699a4a3c59519bb51157761185620bd89354b0ab9e3f1"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/29 - Tonic - (LIGHT) Kratuna IN SPACE.avs",
-            "size": 5051,
-            "checksum": "sha256:fc0c21859078d90ad28be82807122cb75d80ca5e011d26d9d41d5025f2741dc1"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/30 - Indian Ropeman - Two in one 3 (Texture) (Invert) (Alpha) v2.avs",
-            "size": 2842,
-            "checksum": "sha256:9c954678646a4e64699520d020cbf4b79ad0b99bded6dd145d37c21296d86fdb"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/31 - Tonic - mess with the mases 7_FINAL_foggy.avs",
-            "size": 902,
-            "checksum": "sha256:3dfeed16ab9fed8ac7e6a6b17632451ab03fb9685fcc1fd16d5255121301df9a"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/32 - Tonic - Movie Tape.avs",
-            "size": 544,
-            "checksum": "sha256:71864ef9baabd70f570f54483eac1a6f024a971e2d53001badc4a450c3cd1bf6"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/33 - Tonic - James Bond 007 - Tomorow Never Die_Cool Edit_3.avs",
-            "size": 1838,
-            "checksum": "sha256:139acb8c0013218c45485d6fc6cf7cfec6760a621ec456d1ec2acc45050088b6"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/34 - Tonic - 4plexiglas.avs",
-            "size": 1281,
-            "checksum": "sha256:1c50470480f05d76d103d677679a9e1e92eff9f9b1ccb139f381ebb06367b6b5"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/35 - Tonic - Yo-Yo_Conceptual No Bump.avs",
-            "size": 759,
-            "checksum": "sha256:811e9979183863ca2f1093ce3941530d386d36cf41a855dd51cc2e9df2bb99f0"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/36 - Tonic - Prison for Donuts.avs",
-            "size": 1703,
-            "checksum": "sha256:aed5c88bb64e9f3eabb016c6bd50ccdcf84f92ba59ee9076305c0302fa23ba5f"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/37 - Tonic - 3D Antre (real go insane).avs",
-            "size": 2073,
-            "checksum": "sha256:604a69d2202a7466c8c9eec07bd46034d789f6dae98efa296867341392f882f8"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/38 - Tonic - nafta.avs",
-            "size": 1042,
-            "checksum": "sha256:bacf2bd48058791bf4cdcf498057b54b325cfa2c934ab33b6e87af415ab6ad67"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/39 - Tonic - New DISCO_new.avs",
-            "size": 2082,
-            "checksum": "sha256:5fce1620b7b17182fa984293d5230a3df5456617bac4baf587ffd198e8eed70d"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/40 - Tonic - The Wall (Tonic in Army RMX of HF)_5.avs",
-            "size": 1116,
-            "checksum": "sha256:584cda5884a43b30721866c32aefce7947c7fff574e5eae8ad4a275d057ba85b"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/41 - I Cook Coxy Gay - Feel So Good....avs",
-            "size": 440,
-            "checksum": "sha256:d391dd352072acf3632b0f6d094a89106d2462b89219ca945c24dd9673f5b342"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/42 - Tonic - 3D Fan.avs",
-            "size": 1215,
-            "checksum": "sha256:6f624549fc8dd2663276062893df9ffe8f413b6a455d449ec672f2a15bbb6977"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/43 - Tonic - Promo_6.avs",
-            "size": 806,
-            "checksum": "sha256:6ff4a74fd9d2d8eba58b47c466eb1e4956cb1898fd86afcddbc0e7480393c5d1"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/44 - Tonic - Sky-scraper.avs",
-            "size": 1590,
-            "checksum": "sha256:ea12cb00e27ed29cf162e16286203585acb9db0d1ac76e52760992b2730ae278"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/45 - Tonic - Lumping.avs",
-            "size": 3284,
-            "checksum": "sha256:8c746afd16ee45c868b3bd027d512c64babe30d146f640d371eaf67893eff1a1"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/46 - Tonic - Inviders attack _2.avs",
-            "size": 856,
-            "checksum": "sha256:998a105bf9e087ba04cfe5f4675a95ea4ce50206bf29f9b339cafa3bebd15bde"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/47 - Tonic - One More (BW Contest).avs",
-            "size": 1120,
-            "checksum": "sha256:482ac97dbcded9e48673ca39499a0fa20aafbbebbbeff750dd65723ec6e90828"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/48 - Gazirana Voda - Ima-nqma mosaika_END.avs",
-            "size": 2606,
-            "checksum": "sha256:16f23aa53080560b42ab6b9383c20b37b44f4f9759f0da03614832c4aa58332a"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/49 - I Cook Coxy Gay - Bad_taste_OPS.avs",
-            "size": 1163,
-            "checksum": "sha256:f453db6b19ed5fe9a664ee984331ea89fec6d1e6db868ab87f4584d743476557"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/50 - Tonic - dootttyyyy.avs",
-            "size": 490,
-            "checksum": "sha256:affb5ee24ba8249a16f0f8f489f3eaadab824a2bb7a6801e386683ebda5571c2"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/51 - Indian Ropeman - Ne-w M-e Nae-m.avs",
-            "size": 1394,
-            "checksum": "sha256:eb6fcebd7c6deae1783b7e4b10daae2faa1773a22e9326a2eb234644216e66bf"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/52 - Tonic - The Renew.avs",
-            "size": 2245,
-            "checksum": "sha256:2d2c0b25b6d2b912d56f5a8ef81778c92905af5dd3fb4bc8351bc051ecebc41c"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/53 - Tonic - ...Without Me (Light RMX) (BW Contest).avs",
-            "size": 4672,
-            "checksum": "sha256:b109fc7ff9af21bd3a5dfeb0ef84183b9fe17b97e8976375fd1688ec855b438a"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/54 - Tonic - Disco-me.avs",
-            "size": 959,
-            "checksum": "sha256:c13834f835a92b2c65fc6aa045510798da3df06f80d1ed721fdcc765e5b817b7"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/55 - Gazirana Voda - 5 side.avs",
-            "size": 1656,
-            "checksum": "sha256:83935e84ffbc3106f989020a618340470d75810a1cec6cab854c73575077998a"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/56 - Tonic - BlueYellow.avs",
-            "size": 1084,
-            "checksum": "sha256:b7cddab5de7e5aa2c3447e7df67f843f631226ca33ee663b05b212d8a6644ba3"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/57 - Tonic - Murdaj.avs",
-            "size": 684,
-            "checksum": "sha256:230b75e18d41bae658f81fc55d674b0ccc9344ec71988ca34c15e40bd6391d4d"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/58 - Tonic - My 3D room.avs",
-            "size": 634,
-            "checksum": "sha256:71945e7d9429971f417852930ff68187472ca9c5b78cc5e02c240d85c9f51ea1"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/59 - Tonic - Lop Lop Lop.avs",
-            "size": 1661,
-            "checksum": "sha256:c8292d582067e5f5cf30411167dc214b7de89aca05aec5a863982358f53436ee"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/60 - Tonic - Light 3_new_6.avs",
-            "size": 1170,
-            "checksum": "sha256:1c84a0c0b4530f9979b3c96b68e69cd06cf46d62eb8eed749a1f826748df692a"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/61 - Tonic - With Me Or ... (BW Contest).avs",
-            "size": 1020,
-            "checksum": "sha256:3f021f8a39e9fc70ae6db301141aafb9dd84ad0c1ce7f9c7b5698e9117cd5aed"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/62 - Gazirana Voda - Looks Like Drawn.avs",
-            "size": 2764,
-            "checksum": "sha256:96618c1a601cd7a6e06729e73edf44e9dd18c62e0fd06446b3dd62726b6d63fb"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/63 - Tonic - Portrait.avs",
-            "size": 2970,
-            "checksum": "sha256:ab2ae5140380b7a10fbbb7e5306b35ae0fde2b582fa82d5923271524592c8779"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/Bonus Remixes/Degnic vs Tonic - Smut (Hypno Remix).avs",
-            "size": 3148,
-            "checksum": "sha256:91bea11dd682f8914a4e16e7f6b8378a40d73d0ed56a51df04e19156cbbdaa98"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/Bonus Remixes/Degnic vs Tonic - Tosho i Qiceto (Sunset Rmx).avs",
-            "size": 2688,
-            "checksum": "sha256:bbe4f7b782ab99445934436939151b337132dc4460fe2c5a401101a04c67f712"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/Bonus Remixes/Horse-Fly vs Tonic - 3D Disco wall.avs",
-            "size": 1397,
-            "checksum": "sha256:5bca8b069ca0a17eab6f9d3a59e5e5f8dfd07c213e35f96df8798d6c83160e00"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/Bonus Remixes/Horse-Fly vs Tonic - Stereo Staia.avs",
-            "size": 6732,
-            "checksum": "sha256:23b6fe74d40b3c9e53e40875447ba9158532bbae0e41aad63d4cee665273b434"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/Bonus Remixes/I Cook Coxy Gay - Bad taste OPS (Yathosho's 1988 Re-Edit).avs",
-            "size": 2078,
-            "checksum": "sha256:2a15c1ebbc894a041bd56b648d7f2c0d6b4b941347044395a7dcfbf22bdf66f5"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/Bonus Remixes/I Cook Coxy Gay - Gold Water (S_KuPeRS Out Fishing Remix).avs",
-            "size": 1888,
-            "checksum": "sha256:cff47e854f4070360cdd5b2fb27364e1d665f9de9bc0dadf72e63418373d34f0"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/Bonus Remixes/JayFB vs Tonic - Magistrala.avs",
-            "size": 2929,
-            "checksum": "sha256:67806932f3085af226345e11f82948cad69c3e3a47e25efa200045ceb7231b9b"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/Bonus Remixes/Stardust vs Gazirana Voda - Ima-nqma mosaika END (Neon Circuits Rmx).avs",
-            "size": 2290,
-            "checksum": "sha256:b2e8f24f84f66b78a1d526c424bcccf3e0b4c48db8114d4811ab9bd72690bd3d"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/Bonus Remixes/Stardust vs Tonic - Cherno vs Bialo (U Boji Rmx).avs",
-            "size": 2173,
-            "checksum": "sha256:f4f0e7335cdd321fa03e780868f07ceec2c77d9cf64d344409a06b9caef30cb3"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/Bonus Remixes/Stardust vs Tonic - Help! I need more beats (Oldie Rmx).avs",
-            "size": 470,
-            "checksum": "sha256:c6d401c289edec93a3b1495dfb3a73e629e3d9a9ae1a3a44a662b508320c44a7"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/Bonus Remixes/Stardust vs Tonic - Yo-Yo Conceptual No Bump OLD 2 (Shaded Mystery Rmx).avs",
-            "size": 2320,
-            "checksum": "sha256:cf600205e1085db83462f948c70db6edc0151e1511d08f035d7c7faca4b3700f"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/Bonus Remixes/Tonic - Cherno vs Bialo (Yathosho's Broken Eco Mix).avs",
-            "size": 1722,
-            "checksum": "sha256:eb8286b03f0e1d1decea72ce6df5493ecf1770d9bc75f19c3abacbd8cd75b391"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/Bonus Remixes/Tonic - Lop Lop Lop (JayFB's View).avs",
-            "size": 3252,
-            "checksum": "sha256:262fa43bcdd9830ba135cd5bc3633d6450d5396e22bd0a957bcf04de32767998"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/Bonus Remixes/Tonic - Square Amazing (Yathosho's Statica Mix).avs",
-            "size": 2226,
-            "checksum": "sha256:3cfd3b2f15ff132fb912de2b37206cb13b5315ca08c2f61e49afda2b22818bcb"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/Bonus Remixes/Yathosho & Tonic - Candyland Decoded.avs",
-            "size": 1240,
-            "checksum": "sha256:b9fffb75c7643efdf29b9c7ae0d4af59d08e790ef3a8f5f7fa2f6416321df8b8"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/Bonus Remixes/Yathosho vs Tonic - 3D Fan (Rebroken).avs",
-            "size": 1933,
-            "checksum": "sha256:45bccbc3a3d74f99dfd34a2df506a211664ef93f02f714660db2016f01dc1640"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/Bonus Remixes/Yathosho vs Tonic - Grater.avs",
-            "size": 858,
-            "checksum": "sha256:f83b81829a311824dcc8743ba85b11ec1e6b19c45e8e1319944e6a245f2d8ed2"
-        },
-        {
-            "file": "Tonic - Best Of, End Of, No More/Bonus Remixes/Zamuz vs Tonic - With me or... (Blueprint Rmx).avs",
-            "size": 2978,
-            "checksum": "sha256:eca5e1b462365cc5da4bd54dc139f55c35b4968c103e9ae86e5d6da1f63c77e1"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter",
-        "Picture2"
-    ]
+	"name": "Tonic - Best Of, End Of, No More",
+	"id": "VA001",
+	"presets": [
+		{
+			"file": "Tonic - Best Of, End Of, No More/01 - Tonic - Final Intro.avs",
+			"size": 5309,
+			"checksum": "sha256:865d8f8b3259bbf42f5c7c106398d8241d977ce7ea1cd8b256e9e10a5eea4f30"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/02 - Tonic - Help! I need more beats.avs",
+			"size": 184,
+			"checksum": "sha256:5a9256718d6f6cb1c7112a52bbca88e741a5de1dc81e740ff5c45d1884b683e7"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/03 - Tonic - Disco Area That May Suck You Out.avs",
+			"size": 2917,
+			"checksum": "sha256:8fbe3cdb6148e2a592696af8bb7130eaf19e24972e8b7f63f7a341aee7ee5216"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/04 - Gazirana Voda - 3 okia zviar_INOVATIVE_2.avs",
+			"size": 3678,
+			"checksum": "sha256:8b9d58a7d84921fca66fc91c7f6b6ab48c3686504b7ed28838efd649e09162bb"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/05 - I Cook Coxy Gay - Gold water.avs",
+			"size": 843,
+			"checksum": "sha256:2c3a0e085de249db3960f777ff76327f402e066aa13cd7aec6d9fd2e0c5a3850"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/06 - Tonic - Ruins Of Space Spider.avs",
+			"size": 1992,
+			"checksum": "sha256:136cf3a7925c6b751e87b8777664c09f3687757b3c5cb807b946b4d968f93653"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/07 - Tonic - 3D Light.avs",
+			"size": 1719,
+			"checksum": "sha256:f59f0c51044c1251cd7d2c5c5238251af57bcdb7817617a5565dd928179a7602"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/08 - I Cook Coxy Gay - To One That Really Love Me (simple).avs",
+			"size": 690,
+			"checksum": "sha256:155ce5b993cf11214db00adac7d0bc87185f99df01a6d8b1a0198ee9fbd8474a"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/09 - Indyan Ropeman - Saturn.avs",
+			"size": 4635,
+			"checksum": "sha256:cb1455651da060adf212cb2d4f745d042257f801795d3cf8e6b54fc26ac99bca"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/10 - Tonic - Zoomed Picture from One Insect.avs",
+			"size": 1287,
+			"checksum": "sha256:694fea3d5dbc13b0c5a9ca094bfe6a5b46b5ba393b54d3426b86e8a4d8f082c4"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/11 - Tonic - Stereo Staia.avs",
+			"size": 6373,
+			"checksum": "sha256:f12b0b373f58c0e7705cca3883d54cb4b711df48c3b782a3362a4098ff4bafae"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/12 - Tonic - Yo-Yo_Conceptual No Bump_OLD_2.avs",
+			"size": 3177,
+			"checksum": "sha256:6e8e59a8d24e92e8a2663b36a2867d5d8c6d18c6bb775d5dcb6bedb7a54630a2"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/13 - I Cook Coxy Gay - Green-go v2.avs",
+			"size": 915,
+			"checksum": "sha256:7e0d786693799afc9ae7029a84cdc0a71d9bdf430eba166c2388f8701232e893"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/14 - Tonic - Boost Tunnel.avs",
+			"size": 2147,
+			"checksum": "sha256:e6c1dcc770543aa6c6b5e250a707a285bad2b82c6d0b67d157665e18531b6dca"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/15 - Tonic - Lapanie in dark.avs",
+			"size": 1436,
+			"checksum": "sha256:f6db7694109978113a15d890bb849ad690e0eef76f660d497f2d593a290170b0"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/16 - Indian Ropeman - Perfect AVS.avs",
+			"size": 5365,
+			"checksum": "sha256:a0210bc0e1692ccc57d1ba3b4cadf39066665fe276ed9d7ac5a7d16c52afa478"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/17 - Tonic - Da Mu Se Ne Murda.avs",
+			"size": 723,
+			"checksum": "sha256:2e71bf5ae8c6509bc8499b909a5577457b71f6ed72c5ba689f1253d75f602c5f"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/18 - Tonic - Fractel without VisFrac_new DISCO edition.avs",
+			"size": 3451,
+			"checksum": "sha256:bb53240d4349f9d9665744b39bc488630ce6e352488336dadd6b92a03ed309b9"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/19 - Indian Ropeman - Saiuz 23.avs",
+			"size": 1331,
+			"checksum": "sha256:e38963412849b1c792bf84424eeca316174aeef4071a88579a7d54074baeb3f0"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/20 - Tonic - Face Reality.avs",
+			"size": 2054,
+			"checksum": "sha256:ce6e79b33089f446a8f891e5e5d7ff42f38430aee3ab283e5e39fa19aa3e5ff6"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/21 - Tonic - For Vertical AVS_3.avs",
+			"size": 1410,
+			"checksum": "sha256:f617f1e70b716a8cb13aaec10ded01e4de7c9157cc14d456caae151ff66d94c1"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/22 - Tonic - 3D Disco wall.avs",
+			"size": 1887,
+			"checksum": "sha256:e618e9ffcef71b0137950f5d1e3c3493d535c193f7664200146e5baa433b03b8"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/23 - Gazirana Voda - Ima-nqma mosaika.avs",
+			"size": 886,
+			"checksum": "sha256:a6505ec2d81a953aac8ea41e2475bbab5d2d652024d97640287ccfcfbc97490b"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/24 - Tonic - Cherno vs. Bialo (new).avs",
+			"size": 530,
+			"checksum": "sha256:2b7298fb08229fa82d16ba715785a5247c924e97c48721c3bf689b421f059c87"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/25 - Tonic - Murdaj_AD.avs",
+			"size": 1675,
+			"checksum": "sha256:24841b4c016bd76fcc498084548d0faac6d48bc7e6039311de9410650dcd55ad"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/26 - Tonic - Disco Misco Loves Me.avs",
+			"size": 2407,
+			"checksum": "sha256:bc2db90f3d834d19e5a09aea5523e8089e93765b6efa185fcbc55eafc53f57d4"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/27 - el-vionic - metamorphosis.avs",
+			"size": 1304,
+			"checksum": "sha256:362e60e2a6091308fe7a9462d8807e2cf1f857f2e66abf5bc717b7c212c6781c"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/28 - I Cook Coxy Gay - Spiral Beauty.avs",
+			"size": 1108,
+			"checksum": "sha256:e800135256900a24fe5699a4a3c59519bb51157761185620bd89354b0ab9e3f1"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/29 - Tonic - (LIGHT) Kratuna IN SPACE.avs",
+			"size": 5051,
+			"checksum": "sha256:fc0c21859078d90ad28be82807122cb75d80ca5e011d26d9d41d5025f2741dc1"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/30 - Indian Ropeman - Two in one 3 (Texture) (Invert) (Alpha) v2.avs",
+			"size": 2842,
+			"checksum": "sha256:9c954678646a4e64699520d020cbf4b79ad0b99bded6dd145d37c21296d86fdb"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/31 - Tonic - mess with the mases 7_FINAL_foggy.avs",
+			"size": 902,
+			"checksum": "sha256:3dfeed16ab9fed8ac7e6a6b17632451ab03fb9685fcc1fd16d5255121301df9a"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/32 - Tonic - Movie Tape.avs",
+			"size": 544,
+			"checksum": "sha256:71864ef9baabd70f570f54483eac1a6f024a971e2d53001badc4a450c3cd1bf6"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/33 - Tonic - James Bond 007 - Tomorow Never Die_Cool Edit_3.avs",
+			"size": 1838,
+			"checksum": "sha256:139acb8c0013218c45485d6fc6cf7cfec6760a621ec456d1ec2acc45050088b6"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/34 - Tonic - 4plexiglas.avs",
+			"size": 1281,
+			"checksum": "sha256:1c50470480f05d76d103d677679a9e1e92eff9f9b1ccb139f381ebb06367b6b5"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/35 - Tonic - Yo-Yo_Conceptual No Bump.avs",
+			"size": 759,
+			"checksum": "sha256:811e9979183863ca2f1093ce3941530d386d36cf41a855dd51cc2e9df2bb99f0"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/36 - Tonic - Prison for Donuts.avs",
+			"size": 1703,
+			"checksum": "sha256:aed5c88bb64e9f3eabb016c6bd50ccdcf84f92ba59ee9076305c0302fa23ba5f"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/37 - Tonic - 3D Antre (real go insane).avs",
+			"size": 2073,
+			"checksum": "sha256:604a69d2202a7466c8c9eec07bd46034d789f6dae98efa296867341392f882f8"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/38 - Tonic - nafta.avs",
+			"size": 1042,
+			"checksum": "sha256:bacf2bd48058791bf4cdcf498057b54b325cfa2c934ab33b6e87af415ab6ad67"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/39 - Tonic - New DISCO_new.avs",
+			"size": 2082,
+			"checksum": "sha256:5fce1620b7b17182fa984293d5230a3df5456617bac4baf587ffd198e8eed70d"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/40 - Tonic - The Wall (Tonic in Army RMX of HF)_5.avs",
+			"size": 1116,
+			"checksum": "sha256:584cda5884a43b30721866c32aefce7947c7fff574e5eae8ad4a275d057ba85b"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/41 - I Cook Coxy Gay - Feel So Good....avs",
+			"size": 440,
+			"checksum": "sha256:d391dd352072acf3632b0f6d094a89106d2462b89219ca945c24dd9673f5b342"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/42 - Tonic - 3D Fan.avs",
+			"size": 1215,
+			"checksum": "sha256:6f624549fc8dd2663276062893df9ffe8f413b6a455d449ec672f2a15bbb6977"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/43 - Tonic - Promo_6.avs",
+			"size": 806,
+			"checksum": "sha256:6ff4a74fd9d2d8eba58b47c466eb1e4956cb1898fd86afcddbc0e7480393c5d1"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/44 - Tonic - Sky-scraper.avs",
+			"size": 1590,
+			"checksum": "sha256:ea12cb00e27ed29cf162e16286203585acb9db0d1ac76e52760992b2730ae278"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/45 - Tonic - Lumping.avs",
+			"size": 3284,
+			"checksum": "sha256:8c746afd16ee45c868b3bd027d512c64babe30d146f640d371eaf67893eff1a1"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/46 - Tonic - Inviders attack _2.avs",
+			"size": 856,
+			"checksum": "sha256:998a105bf9e087ba04cfe5f4675a95ea4ce50206bf29f9b339cafa3bebd15bde"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/47 - Tonic - One More (BW Contest).avs",
+			"size": 1120,
+			"checksum": "sha256:482ac97dbcded9e48673ca39499a0fa20aafbbebbbeff750dd65723ec6e90828"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/48 - Gazirana Voda - Ima-nqma mosaika_END.avs",
+			"size": 2606,
+			"checksum": "sha256:16f23aa53080560b42ab6b9383c20b37b44f4f9759f0da03614832c4aa58332a"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/49 - I Cook Coxy Gay - Bad_taste_OPS.avs",
+			"size": 1163,
+			"checksum": "sha256:f453db6b19ed5fe9a664ee984331ea89fec6d1e6db868ab87f4584d743476557"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/50 - Tonic - dootttyyyy.avs",
+			"size": 490,
+			"checksum": "sha256:affb5ee24ba8249a16f0f8f489f3eaadab824a2bb7a6801e386683ebda5571c2"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/51 - Indian Ropeman - Ne-w M-e Nae-m.avs",
+			"size": 1394,
+			"checksum": "sha256:eb6fcebd7c6deae1783b7e4b10daae2faa1773a22e9326a2eb234644216e66bf"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/52 - Tonic - The Renew.avs",
+			"size": 2245,
+			"checksum": "sha256:2d2c0b25b6d2b912d56f5a8ef81778c92905af5dd3fb4bc8351bc051ecebc41c"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/53 - Tonic - ...Without Me (Light RMX) (BW Contest).avs",
+			"size": 4672,
+			"checksum": "sha256:b109fc7ff9af21bd3a5dfeb0ef84183b9fe17b97e8976375fd1688ec855b438a"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/54 - Tonic - Disco-me.avs",
+			"size": 959,
+			"checksum": "sha256:c13834f835a92b2c65fc6aa045510798da3df06f80d1ed721fdcc765e5b817b7"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/55 - Gazirana Voda - 5 side.avs",
+			"size": 1656,
+			"checksum": "sha256:83935e84ffbc3106f989020a618340470d75810a1cec6cab854c73575077998a"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/56 - Tonic - BlueYellow.avs",
+			"size": 1084,
+			"checksum": "sha256:b7cddab5de7e5aa2c3447e7df67f843f631226ca33ee663b05b212d8a6644ba3"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/57 - Tonic - Murdaj.avs",
+			"size": 684,
+			"checksum": "sha256:230b75e18d41bae658f81fc55d674b0ccc9344ec71988ca34c15e40bd6391d4d"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/58 - Tonic - My 3D room.avs",
+			"size": 634,
+			"checksum": "sha256:71945e7d9429971f417852930ff68187472ca9c5b78cc5e02c240d85c9f51ea1"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/59 - Tonic - Lop Lop Lop.avs",
+			"size": 1661,
+			"checksum": "sha256:c8292d582067e5f5cf30411167dc214b7de89aca05aec5a863982358f53436ee"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/60 - Tonic - Light 3_new_6.avs",
+			"size": 1170,
+			"checksum": "sha256:1c84a0c0b4530f9979b3c96b68e69cd06cf46d62eb8eed749a1f826748df692a"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/61 - Tonic - With Me Or ... (BW Contest).avs",
+			"size": 1020,
+			"checksum": "sha256:3f021f8a39e9fc70ae6db301141aafb9dd84ad0c1ce7f9c7b5698e9117cd5aed"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/62 - Gazirana Voda - Looks Like Drawn.avs",
+			"size": 2764,
+			"checksum": "sha256:96618c1a601cd7a6e06729e73edf44e9dd18c62e0fd06446b3dd62726b6d63fb"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/63 - Tonic - Portrait.avs",
+			"size": 2970,
+			"checksum": "sha256:ab2ae5140380b7a10fbbb7e5306b35ae0fde2b582fa82d5923271524592c8779"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/Bonus Remixes/Degnic vs Tonic - Smut (Hypno Remix).avs",
+			"size": 3148,
+			"checksum": "sha256:91bea11dd682f8914a4e16e7f6b8378a40d73d0ed56a51df04e19156cbbdaa98"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/Bonus Remixes/Degnic vs Tonic - Tosho i Qiceto (Sunset Rmx).avs",
+			"size": 2688,
+			"checksum": "sha256:bbe4f7b782ab99445934436939151b337132dc4460fe2c5a401101a04c67f712"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/Bonus Remixes/Horse-Fly vs Tonic - 3D Disco wall.avs",
+			"size": 1397,
+			"checksum": "sha256:5bca8b069ca0a17eab6f9d3a59e5e5f8dfd07c213e35f96df8798d6c83160e00"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/Bonus Remixes/Horse-Fly vs Tonic - Stereo Staia.avs",
+			"size": 6732,
+			"checksum": "sha256:23b6fe74d40b3c9e53e40875447ba9158532bbae0e41aad63d4cee665273b434"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/Bonus Remixes/I Cook Coxy Gay - Bad taste OPS (Yathosho's 1988 Re-Edit).avs",
+			"size": 2078,
+			"checksum": "sha256:2a15c1ebbc894a041bd56b648d7f2c0d6b4b941347044395a7dcfbf22bdf66f5"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/Bonus Remixes/I Cook Coxy Gay - Gold Water (S_KuPeRS Out Fishing Remix).avs",
+			"size": 1888,
+			"checksum": "sha256:cff47e854f4070360cdd5b2fb27364e1d665f9de9bc0dadf72e63418373d34f0"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/Bonus Remixes/JayFB vs Tonic - Magistrala.avs",
+			"size": 2929,
+			"checksum": "sha256:67806932f3085af226345e11f82948cad69c3e3a47e25efa200045ceb7231b9b"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/Bonus Remixes/Stardust vs Gazirana Voda - Ima-nqma mosaika END (Neon Circuits Rmx).avs",
+			"size": 2290,
+			"checksum": "sha256:b2e8f24f84f66b78a1d526c424bcccf3e0b4c48db8114d4811ab9bd72690bd3d"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/Bonus Remixes/Stardust vs Tonic - Cherno vs Bialo (U Boji Rmx).avs",
+			"size": 2173,
+			"checksum": "sha256:f4f0e7335cdd321fa03e780868f07ceec2c77d9cf64d344409a06b9caef30cb3"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/Bonus Remixes/Stardust vs Tonic - Help! I need more beats (Oldie Rmx).avs",
+			"size": 470,
+			"checksum": "sha256:c6d401c289edec93a3b1495dfb3a73e629e3d9a9ae1a3a44a662b508320c44a7"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/Bonus Remixes/Stardust vs Tonic - Yo-Yo Conceptual No Bump OLD 2 (Shaded Mystery Rmx).avs",
+			"size": 2320,
+			"checksum": "sha256:cf600205e1085db83462f948c70db6edc0151e1511d08f035d7c7faca4b3700f"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/Bonus Remixes/Tonic - Cherno vs Bialo (Yathosho's Broken Eco Mix).avs",
+			"size": 1722,
+			"checksum": "sha256:eb8286b03f0e1d1decea72ce6df5493ecf1770d9bc75f19c3abacbd8cd75b391"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/Bonus Remixes/Tonic - Lop Lop Lop (JayFB's View).avs",
+			"size": 3252,
+			"checksum": "sha256:262fa43bcdd9830ba135cd5bc3633d6450d5396e22bd0a957bcf04de32767998"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/Bonus Remixes/Tonic - Square Amazing (Yathosho's Statica Mix).avs",
+			"size": 2226,
+			"checksum": "sha256:3cfd3b2f15ff132fb912de2b37206cb13b5315ca08c2f61e49afda2b22818bcb"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/Bonus Remixes/Yathosho & Tonic - Candyland Decoded.avs",
+			"size": 1240,
+			"checksum": "sha256:b9fffb75c7643efdf29b9c7ae0d4af59d08e790ef3a8f5f7fa2f6416321df8b8"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/Bonus Remixes/Yathosho vs Tonic - 3D Fan (Rebroken).avs",
+			"size": 1933,
+			"checksum": "sha256:45bccbc3a3d74f99dfd34a2df506a211664ef93f02f714660db2016f01dc1640"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/Bonus Remixes/Yathosho vs Tonic - Grater.avs",
+			"size": 858,
+			"checksum": "sha256:f83b81829a311824dcc8743ba85b11ec1e6b19c45e8e1319944e6a245f2d8ed2"
+		},
+		{
+			"file": "Tonic - Best Of, End Of, No More/Bonus Remixes/Zamuz vs Tonic - With me or... (Blueprint Rmx).avs",
+			"size": 2978,
+			"checksum": "sha256:eca5e1b462365cc5da4bd54dc139f55c35b4968c103e9ae86e5d6da1f63c77e1"
+		}
+	],
+	"plugins": ["ConvolutionFilter", "Picture2"]
 }

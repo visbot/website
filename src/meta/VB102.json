@@ -1,1024 +1,1019 @@
 {
-    "name": "incipience iii",
-    "id": "VB102",
-    "presets": [
-        {
-            "file": "incipience iii/00 - amphirion_______intro.avs",
-            "size": 9963,
-            "checksum": "sha256:930904d75e154b561859ac44e52020e37a0da79c4f421aac0cb676866d6e3844"
-        },
-        {
-            "file": "incipience iii/01 - amphirion_______cubic spectrum.avs",
-            "size": 17052,
-            "checksum": "sha256:420b4889ca35e78530e4669f6885103e8e6582b280d8afdaf99aabcff1b1b512"
-        },
-        {
-            "file": "incipience iii/02 - amphirion_______crater.avs",
-            "size": 2448,
-            "checksum": "sha256:7368850d2be5b533179115debbb389ca0c32006d012fbd232840968509874523"
-        },
-        {
-            "file": "incipience iii/03 - amphirion_______take it and leaf.avs",
-            "size": 13145,
-            "checksum": "sha256:c550beb8905b8c383bd64254a2b76865fd865bbb61b5165ce67900ec4cdc8f4b"
-        },
-        {
-            "file": "incipience iii/04 - amphirion_______something fierce.avs",
-            "size": 22988,
-            "checksum": "sha256:43634d791d49419dfc633aff37b639f6582dde0e79aea655a277df4347b25bc4"
-        },
-        {
-            "file": "incipience iii/05 - amphirion_______string theory.avs",
-            "size": 9051,
-            "checksum": "sha256:e7477e3110faf63a635de63eea2410e5b467eea3dc7353695954f085dea67453"
-        },
-        {
-            "file": "incipience iii/06 - amphirion_______cellulite.avs",
-            "size": 8517,
-            "checksum": "sha256:17494cc4ef3d91ab95f70c203a1c837c16c9532622ce780c37f2bb7ccd661ab7"
-        },
-        {
-            "file": "incipience iii/07 - amphirion_______flow of music.avs",
-            "size": 5551,
-            "checksum": "sha256:11cc1fe3bbd50ca9bfc7b4d3ff6ca2c29a6c0e2ebbe6e7264e79f40441a90762"
-        },
-        {
-            "file": "incipience iii/08 - amphirion_______malevolent shattering.avs",
-            "size": 2259,
-            "checksum": "sha256:13607a1130b694816affc86a05c4f8fc847ae242ea30c41a635790ebda96332a"
-        },
-        {
-            "file": "incipience iii/09 - amphirion_______nebulous ii.avs",
-            "size": 3931,
-            "checksum": "sha256:92540752bdcf73758c59710b1bc2cbfe81b427a3357060ae0005f28fff1e5737"
-        },
-        {
-            "file": "incipience iii/10 - amphirion_______amythest.avs",
-            "size": 4730,
-            "checksum": "sha256:004e8231c999d131d8b43bfd66540b4c82c61461752d951d6af5ea08c4a9b70e"
-        },
-        {
-            "file": "incipience iii/11 - amphirion_______poco animato.avs",
-            "size": 6676,
-            "checksum": "sha256:0a0b084353e18a23df697b747323587cc1c32a4e41487c240388ca7310115e1c"
-        },
-        {
-            "file": "incipience iii/12 - amphirion_______satellite nation.avs",
-            "size": 16277,
-            "checksum": "sha256:add13ddddc71c1290b09895f78708cabd8235cf82054d3966756c7ec75e92b03"
-        },
-        {
-            "file": "incipience iii/13 - amphirion_______chromis.avs",
-            "size": 5060,
-            "checksum": "sha256:28a5f8aa8db01459ffad28623c6f590cfac021bde18473bd3276507211d26a09"
-        },
-        {
-            "file": "incipience iii/14 - amphirion_______demo.avs",
-            "size": 3423,
-            "checksum": "sha256:f57b6ea8da7b48a8a3b36310a1f324487f6c42a051c79b4a9f7da8509a94366e"
-        },
-        {
-            "file": "incipience iii/15 - amphirion_______moonshine.avs",
-            "size": 5290,
-            "checksum": "sha256:d99379b70aafc74315c90a15b0e420d13c4e86077cb3b829e36c2eeedd3cba06"
-        },
-        {
-            "file": "incipience iii/16 - amphirion_______flowers.avs",
-            "size": 7262,
-            "checksum": "sha256:48c23c411c34f9dbd8bb5a8297d472f363a02d4f614b1a9594f619701dcaaa19"
-        },
-        {
-            "file": "incipience iii/17 - amphirion_______rivierra.avs",
-            "size": 14810,
-            "checksum": "sha256:1d9f2be5693717d9157780fb770fd3878da10752cdfc531f08b848e298d7a101"
-        },
-        {
-            "file": "incipience iii/18 - amphirion_______project global ii.avs",
-            "size": 9720,
-            "checksum": "sha256:b2199c7b9fc5aebaeaa4790a2f8d802c8dd9054d5c2aaabd554dcefd84aaec75"
-        },
-        {
-            "file": "incipience iii/19 - denkensiefursich - under my feet (the infection).avs",
-            "size": 5781,
-            "checksum": "sha256:cea8ed22a5bbc2b753e133a99599d426e80904c626c8bd28b9b047ede072817a"
-        },
-        {
-            "file": "incipience iii/20 - dynamic duo - wanlotus (dynamic duo's loot-us rework).avs",
-            "size": 4703,
-            "checksum": "sha256:8db37ea2886ee88e2150ff7f97aece30abd33d25878a5f750a85465055348eee"
-        },
-        {
-            "file": "incipience iii/21 - framesofreality - cryptocoryne (chicque version).avs",
-            "size": 11919,
-            "checksum": "sha256:992cc8b6fe0db9c9ab9796aeaf6a8263110fd0c5fc8770e962d7dd1d0e1b3c5c"
-        },
-        {
-            "file": "incipience iii/22 - framesofreality - it looka like a somethin' (nem rossz version).avs",
-            "size": 4786,
-            "checksum": "sha256:3bda3978b2982d88670e5e11b9a3ea010d882cd1e026c32513c24b725745f456"
-        },
-        {
-            "file": "incipience iii/23 - PAK-9 - Project Global (3-C0RE Remix).avs",
-            "size": 5168,
-            "checksum": "sha256:61d3ebe147270d447b59e93f2c97d37aa838a500a89d627bbd28b26421a68e61"
-        },
-        {
-            "file": "incipience iii/24 - synth-c - In Transit (Synth-C Remix).avs",
-            "size": 10598,
-            "checksum": "sha256:6fc40eaff8138f104de3d4b83c882057ed5e95a0d4a134b551c09f682ba53512"
-        },
-        {
-            "file": "incipience iii/25 - synth-c - Moonshine (Synth-C Remix).avs",
-            "size": 12367,
-            "checksum": "sha256:e40fa376dcccd5be5b27c067462e3e3a13db41d59d05acdc3dafdf384fd2169a"
-        },
-        {
-            "file": "incipience iii/26 - yathosho - necromancer's pot (ya-tho-sho treatment).avs",
-            "size": 3699,
-            "checksum": "sha256:9f9b1c5432cca49e610ea8056028d80b4529225f49a48818e8d770a4159f781a"
-        },
-        {
-            "file": "incipience iii/27 - zamuz - moonshine (daylight remix).avs",
-            "size": 4650,
-            "checksum": "sha256:e050fad7f2ce24380c4ab7b491d94d9b6a9b9b469120a18cf02e4e15666c3804"
-        }
-    ],
-    "assets": [
-        {
-            "file": "amp_leaf five.bmp",
-            "size": 1856,
-            "checksum": "sha256:a08a6e8757686bb5bd9a4099a8695d24a69d34561cf81df7020432bd666b98e8"
-        },
-        {
-            "file": "amp_leaf four.bmp",
-            "size": 1856,
-            "checksum": "sha256:833c33cd49aa9a41d2f1264b77eb8817a79727c93e036e61abe3892e6ffe8491"
-        },
-        {
-            "file": "amp_leaf one.bmp",
-            "size": 1024,
-            "checksum": "sha256:38f519a10edd454b99e28015d12d1278b3025cf58d7719b1b93aff0f430b0f22"
-        },
-        {
-            "file": "amp_leaf six.bmp",
-            "size": 42176,
-            "checksum": "sha256:2e119be575beb6a19f8155555eb9e1d4eb999a9693880af9719b0e7d2bba8ccc"
-        },
-        {
-            "file": "amp_leaf three.bmp",
-            "size": 1024,
-            "checksum": "sha256:2d9a532761db9e7857ca94222af9e5e32e1c5969aa67fec8f0e681299841e856"
-        },
-        {
-            "file": "amp_leaf two.bmp",
-            "size": 1024,
-            "checksum": "sha256:a1c8b093421ec4a9ab283b5951ab101fd96df2e7a5f0699eafbfc4fddf612369"
-        },
-        {
-            "file": "Amp-Texter.bmp",
-            "size": 1226,
-            "checksum": "sha256:5203b05524875c33d358f97593af922a7e140957af15e168822e9b5029c7e65c"
-        },
-        {
-            "file": "amphi v 2.0.bmp",
-            "size": 7656,
-            "checksum": "sha256:bccd8118c58b7ee479082080a1bed41864047dd68a1106a53b1a965fc645e206"
-        },
-        {
-            "file": "ampvisbot.bmp",
-            "size": 6824,
-            "checksum": "sha256:c19cf72990284c2d5993c6494d842b72094bac86cea2893834a85fa0bc8eeea5"
-        },
-        {
-            "file": "avsres_texer_circle_edgeonly_29x29.bmp",
-            "size": 2606,
-            "checksum": "sha256:534c1eb965d3a1df52fa0bc8bdb4977fbf18ac19869417ac8e8d1409f6b203e6"
-        },
-        {
-            "file": "avsres_texer_circle_fade_11x11.bmp",
-            "size": 450,
-            "checksum": "sha256:f23cffc3b62ea97fd3bc32cb7107705a5ccdfe90c1c69ad950744f148b75d13f"
-        },
-        {
-            "file": "avsres_texer_circle_fade_13x13.bmp",
-            "size": 574,
-            "checksum": "sha256:b63bce5ba15b7dbaeedc588fa991c218963d0ed312c865a0d0f36d771b496a37"
-        },
-        {
-            "file": "avsres_texer_circle_fade_15x15.bmp",
-            "size": 774,
-            "checksum": "sha256:e993d9035e0c88999abda7037e81440f63ee87e37709679de1f4416511be4551"
-        },
-        {
-            "file": "avsres_texer_circle_fade_17x17.bmp",
-            "size": 938,
-            "checksum": "sha256:e76a9c0ac6ef5dfa2308908a92f6b54f481c5dafcad8c47dd887b3fab39abd92"
-        },
-        {
-            "file": "avsres_texer_circle_fade_19x19.bmp",
-            "size": 1194,
-            "checksum": "sha256:cc04c68f70e6e055052c17d9acab017f4f8e0124db05422cffeea153073f24d6"
-        },
-        {
-            "file": "avsres_texer_circle_fade_27x27.bmp",
-            "size": 2322,
-            "checksum": "sha256:3cdfe658a7c79b81df990f78ee37b4f358b77b1439579f2c0ca1fa0fe2c86c48"
-        },
-        {
-            "file": "avsres_texer_circle_fade_29x29.bmp",
-            "size": 2606,
-            "checksum": "sha256:10bcb870745a117d8cd57e44f60718e278a0e3ae25e3eaa9250e7936c1dc6fba"
-        },
-        {
-            "file": "avsres_texer_circle_heavyblur_11x11.bmp",
-            "size": 450,
-            "checksum": "sha256:0874f6c0ceae338fed5586458149d51bba71701e376dbccb90f7c7cdb37ef8cd"
-        },
-        {
-            "file": "avsres_texer_circle_heavyblur_19x19.bmp",
-            "size": 1194,
-            "checksum": "sha256:e6a52ec2f27513918744c31b5d10dac12767d426bf7d1709eed5197a86fb33e7"
-        },
-        {
-            "file": "avsres_texer_circle_heavyblur_21x21.bmp",
-            "size": 1398,
-            "checksum": "sha256:f8f868bfc48b2131e08f79a3ccdcdd5487537c1ac1decebee1a5ff5a2edf331b"
-        },
-        {
-            "file": "avsres_texer_circle_heavyblur_29x29.bmp",
-            "size": 2606,
-            "checksum": "sha256:f774cf10d56275d629f321163dbc610fee02b0e892c9065b0931564240bf078d"
-        },
-        {
-            "file": "avsres_texer_circle_sharp_05x05.bmp",
-            "size": 222,
-            "checksum": "sha256:7fed1eba922199994b49288ec476cbffd75aa77c90e664869306e85d9f4196ce"
-        },
-        {
-            "file": "avsres_texer_circle_sharp_09x09.bmp",
-            "size": 450,
-            "checksum": "sha256:6ff6f86f427968efbd9a21ddce8cf0cd681681f0d7fc772659a86700a9c7d0ac"
-        },
-        {
-            "file": "avsres_texer_circle_sharp_11x11.bmp",
-            "size": 574,
-            "checksum": "sha256:834aadff3c131183f1d1fb76010c64317c7f638008d06a769ba29a68a9aed73a"
-        },
-        {
-            "file": "avsres_texer_circle_sharp_13x13.bmp",
-            "size": 774,
-            "checksum": "sha256:7dfb911b3bcceb29b6c6b2386e40f8c7b1af1785e25d5e0310f5537a36cf937a"
-        },
-        {
-            "file": "avsres_texer_circle_sharp_15x15.bmp",
-            "size": 938,
-            "checksum": "sha256:32c61631054ead9b42d17e9b3ea4f3b9d3329d1aff4659bc99d6285c0c771de4"
-        },
-        {
-            "file": "avsres_texer_circle_sharp_27x27.bmp",
-            "size": 2606,
-            "checksum": "sha256:53f96e5f860b7ece905c92aa6253a3445a571f55c9a6ac4a9ee3df6bea56e65a"
-        },
-        {
-            "file": "avsres_texer_circle_sharp_29x29.bmp",
-            "size": 3030,
-            "checksum": "sha256:2d057959257346e2b9a8922504ad51ff7d2608d6bd591659a7fa08d07406366a"
-        },
-        {
-            "file": "avsres_texer_circle_slightblur_17x17.bmp",
-            "size": 938,
-            "checksum": "sha256:eef1c4468c60f28f5c4baa64f2aaf38f71e00e33d7bdaeede58996b530370205"
-        },
-        {
-            "file": "avsres_texer_circle_slightblur_21x21.bmp",
-            "size": 1398,
-            "checksum": "sha256:ddbd3beabf6a2fa1a5385cc5943a1b4a49431902a8e3d461ce7c06a6f6987bb3"
-        },
-        {
-            "file": "avsres_texer_circle_slightblur_29x29.bmp",
-            "size": 2606,
-            "checksum": "sha256:34607b9b3b3f4c4e19cdbba2c2026b01d7834c17061deeb19f2e4d1607b9b814"
-        },
-        {
-            "file": "avsres_texer_square_edgeonly_14x14.bmp",
-            "size": 670,
-            "checksum": "sha256:6d0c3c6121da514e2c95f4db0b596d0c5134011487db5dd42dda5e9aca1d7b45"
-        },
-        {
-            "file": "avsres_texer_square_fade_28x28.bmp",
-            "size": 2406,
-            "checksum": "sha256:5f0c6a2babd0044918587c38523410e641c7951fd626edb99fe528f34bc76345"
-        },
-        {
-            "file": "avsres_texer_square_fade_30x30.bmp",
-            "size": 2814,
-            "checksum": "sha256:12bdc0b6a44fc540c0c84f7e704a6c9bb6885676ba39652b1ef0b1121701e089"
-        },
-        {
-            "file": "avsres_texer_square_sharp_14x14.bmp",
-            "size": 1062,
-            "checksum": "sha256:0b61c799914c245f0978ce3f839d5d1c13bb9b3efbed0a662f1f713fdf6756a3"
-        },
-        {
-            "file": "avsres_texer_square_sharp_28x28.bmp",
-            "size": 3126,
-            "checksum": "sha256:11ec412bcb0bb94f3c925a53aeb2385eac18ad573484b0fc0f86754320a1d0ac"
-        },
-        {
-            "file": "avsres_texer_square_sharp_30x30.bmp",
-            "size": 3590,
-            "checksum": "sha256:e41754b033960b3a5e77252cf1edee71e97c311c2cedafc9b4139a3df51240e6"
-        },
-        {
-            "file": "Cat ²_aII_00.bmp",
-            "size": 19638,
-            "checksum": "sha256:2ee744d41b2a66432795783a3ff0cb35587e16ef0f3fb943bc90432231d1158d"
-        },
-        {
-            "file": "Cat ²_aII_dummyddd.bmp",
-            "size": 10022,
-            "checksum": "sha256:0a6e47988f260ad98441dde112f6e246fd512d5dc40dd07568263c7356bb8535"
-        },
-        {
-            "file": "Cat ²_aII_independant-ii-.bmp",
-            "size": 11226,
-            "checksum": "sha256:1df03cfd12ad86b36364eeaa0e9c9aa9d506c603793e9bab37f59b95a9c7c347"
-        },
-        {
-            "file": "Cat ²_aII_singthehappysong.bmp",
-            "size": 41914,
-            "checksum": "sha256:42c6c858c7ca7a6b221f3097f7bc0b6295899b0018a8add69f3e301e6d6d208e"
-        },
-        {
-            "file": "deskmod.bmp",
-            "size": 40256,
-            "checksum": "sha256:4e13b56432d55547c9eebb65193e7fdd07984987bccf275424f302d56f68f116"
-        },
-        {
-            "file": "e3_01.bmp",
-            "size": 4856,
-            "checksum": "sha256:d98404686955dbae9adc3e726dbeba9666b871f3b359da6406efbfbe9ad0a84f"
-        },
-        {
-            "file": "fragmer_buggy-texer41.bmp",
-            "size": 1126,
-            "checksum": "sha256:80869bbd1c942980d51b671fcf6b51fecb0b83051c9a5f066eb9dc37be3b1a3d"
-        },
-        {
-            "file": "fwhack01.bmp",
-            "size": 3398,
-            "checksum": "sha256:488467a75dbc565e78ed9ffd1fabcfdb274c31bbe9fec15d17ae4f6572d39b69"
-        },
-        {
-            "file": "fwhack02.bmp",
-            "size": 486,
-            "checksum": "sha256:ac0cbe14c357973c854d166e8fbcf44524f5ddfdd067850971006ba7868ac9c3"
-        },
-        {
-            "file": "fwhack03.bmp",
-            "size": 66614,
-            "checksum": "sha256:242f32bef1fe2c64fe2228fe73b93dae30d593f01d166112ea7acf4cb88d13c2"
-        },
-        {
-            "file": "fwhack04.bmp",
-            "size": 2814,
-            "checksum": "sha256:1e271f48ee3807f13bdddd7e738af6e08306ad9241a15e941c1da1a428aade2c"
-        },
-        {
-            "file": "Hboy_nineteen_texer1.bmp",
-            "size": 30054,
-            "checksum": "sha256:15608b6525bcb0f5f79e73de4dd051e02f9a8bb183f6abcad0ddddd1de79393e"
-        },
-        {
-            "file": "Hboy_texer_1.bmp",
-            "size": 17154,
-            "checksum": "sha256:2c13faf386e071d3fe17bc5f2e8f72a4244e085a5a985b249d169fa6c414d27c"
-        },
-        {
-            "file": "Independent-II-Big.bmp",
-            "size": 3942,
-            "checksum": "sha256:60f3bef4e4be12e6240504ed2ee015936aa505e531aba0c4d0b422b0bc7be21e"
-        },
-        {
-            "file": "Independent-II-Car.bmp",
-            "size": 1954,
-            "checksum": "sha256:467fb3493067ff990ae934583c2de93fed9029683d1470daa4cb2ee28750e543"
-        },
-        {
-            "file": "ishan.bmp",
-            "size": 30518,
-            "checksum": "sha256:ef34741dd0c193fae2493689e82997fc8bccd6e5c2e38ca62e9679999d6a1a3e"
-        },
-        {
-            "file": "j_ui_0.bmp",
-            "size": 822,
-            "checksum": "sha256:68d9310baa1e5bde540a6c8d97125432b7ac9708a0fdb65a89dc136f44a551bc"
-        },
-        {
-            "file": "j_ui_1.bmp",
-            "size": 822,
-            "checksum": "sha256:a6f36c00623c478853e28f2b32cd011de86824be1e01a42538d510a9d8055352"
-        },
-        {
-            "file": "j_ui_2.bmp",
-            "size": 822,
-            "checksum": "sha256:735832394dc66200a49ccec9ff071f97ba5e0f3a321350583bc47ba8781934d6"
-        },
-        {
-            "file": "j_ui_3.bmp",
-            "size": 822,
-            "checksum": "sha256:36c73baa093b522dd2dc84b21ac42f728951178d49a7783a17fbed3cd10d52cb"
-        },
-        {
-            "file": "j_ui_4.bmp",
-            "size": 822,
-            "checksum": "sha256:77dd030a93126a1eb12f404be748abadfed06c520ce6ad051b62a83be0cc1dd3"
-        },
-        {
-            "file": "j10_2.bmp",
-            "size": 12342,
-            "checksum": "sha256:a1d806d1e9b91f6585c30636acf39459b9029f5892b1d7c212e24b414d91b68c"
-        },
-        {
-            "file": "jherikoT2.bmp",
-            "size": 1782,
-            "checksum": "sha256:e08a0e28865ec8cd8cfc68a1c5ade29916176fd50550e01b8c919b1cf1f17084"
-        },
-        {
-            "file": "jherikoT3.bmp",
-            "size": 12342,
-            "checksum": "sha256:1a973784c6594de10f4087e8c6ac1e31a4aa388434be27ff70d941cd9c42536d"
-        },
-        {
-            "file": "JjcL237 - Inspire! - 1.bmp",
-            "size": 366,
-            "checksum": "sha256:2bfadde3be0142f569ebdfa757431341fe049b29423a35ecd3831b75185ef72b"
-        },
-        {
-            "file": "musicbass.bmp",
-            "size": 7656,
-            "checksum": "sha256:6af1ffdb8ac03a93d913cfd6b9c377bb41311d6f9268fff81444a0a5f2719795"
-        },
-        {
-            "file": "musiceighth.bmp",
-            "size": 2816,
-            "checksum": "sha256:263160199701fa8b8c44fe1a1772dda009b918ab5e77c8f47adef431ae2169c6"
-        },
-        {
-            "file": "musiceighthlinked.bmp",
-            "size": 2816,
-            "checksum": "sha256:3c61167bf2e429b3e199df82cd1e0caddddb47bc8ede4d446eb04e3042fbf5fb"
-        },
-        {
-            "file": "musicflat.bmp",
-            "size": 2816,
-            "checksum": "sha256:3efa7a720f8dd13a8713bbc8a2b3db7e29c30dde057e4e47c56e42502ea2491b"
-        },
-        {
-            "file": "musichalf.bmp",
-            "size": 2816,
-            "checksum": "sha256:f760b43a2c497a79d622bbbcc9be8bb401eb05b54ad894b2e3fab0007e78cda1"
-        },
-        {
-            "file": "musicquarter.bmp",
-            "size": 2816,
-            "checksum": "sha256:9c6b442d1e4ab2d70b018fceb440acb1ca05a7a9a619f70419bcfbe0caf3ad37"
-        },
-        {
-            "file": "musicsharp.bmp",
-            "size": 2816,
-            "checksum": "sha256:5ba5f2009e0bb56fbfba457c034a2d58ba1a83f97b6c04c16c08d03e21d03bb7"
-        },
-        {
-            "file": "musicsixteenth.bmp",
-            "size": 2816,
-            "checksum": "sha256:6a537899c8fd3832834ace8962346d4267314037bdce141c2167b8f5dcea48ba"
-        },
-        {
-            "file": "musictreble.bmp",
-            "size": 7656,
-            "checksum": "sha256:e0317c90ac7611ea155a17396e1564d97297cebc31b6a4c28bf5b1c29adc1d2a"
-        },
-        {
-            "file": "musicwhole.bmp",
-            "size": 2816,
-            "checksum": "sha256:4001010447b722b12bcee203cfe0dd40188a8684f9f56d2eba391923e46916f6"
-        },
-        {
-            "file": "P9_Tx_1.bmp",
-            "size": 3730,
-            "checksum": "sha256:162a4a41761a76c96bca6ae15c420d9c5553c74e78fb4ea1abc738fb64606397"
-        },
-        {
-            "file": "P9_Tx_2.bmp",
-            "size": 2518,
-            "checksum": "sha256:5dd360beeed26ff917ed70ea502096663da321711323d6b04af7009404f8bc9e"
-        },
-        {
-            "file": "P9_Tx_3.bmp",
-            "size": 3678,
-            "checksum": "sha256:1138148b8abd50ca7a6c67d2f6bc7743739f7039c124641f92d6f810fcbd61ce"
-        },
-        {
-            "file": "P9_Tx_4.bmp",
-            "size": 7654,
-            "checksum": "sha256:c761b0e0cc6ed45b8b4f58b259213de163ef4d9ce32a3f1c3ca7a1bb0c313eef"
-        },
-        {
-            "file": "P9_Tx_5.bmp",
-            "size": 3678,
-            "checksum": "sha256:3d2edce8efe9f07af6345ef93cff2fb4b45c90fdf1bd8b3d85d000ffed0f8db3"
-        },
-        {
-            "file": "P9_Tx_7.bmp",
-            "size": 3730,
-            "checksum": "sha256:071e182e06d52f7826803c5a30f797d6a704e8b7d6d2c0c24f35c542313119dd"
-        },
-        {
-            "file": "P9Ded1.bmp",
-            "size": 2038,
-            "checksum": "sha256:076593769919785da8df3b57cc349a143aa93ef283e9e5e8a264a05f7599d3bb"
-        },
-        {
-            "file": "p9test3.bmp",
-            "size": 66614,
-            "checksum": "sha256:9ef72371e28deaed3b0c1dd72774e2dc8e138ac4f74e7a677008870364398a9f"
-        },
-        {
-            "file": "PAK9_4_1.BMP",
-            "size": 66614,
-            "checksum": "sha256:00dfd816fbc43f8c755620c05a68effa95b91552f6a57c24ee25619bd7526a97"
-        },
-        {
-            "file": "PAK9_4_2.BMP",
-            "size": 111670,
-            "checksum": "sha256:ef8053bae25fd3865b644d517d42a1337cf540bee114aa53e948550ed897e83c"
-        },
-        {
-            "file": "PAK9_4_3.BMP",
-            "size": 17678,
-            "checksum": "sha256:2e05e869337a222fb4e8ea3ee168a02f22c4ab942c140561d833090d32e0b3f8"
-        },
-        {
-            "file": "PAK9_4_4.BMP",
-            "size": 91078,
-            "checksum": "sha256:cd3748f757f077e6a26e88a9c63d24a9e5277d2630b560e0fb079aff3f87eb54"
-        },
-        {
-            "file": "PAK9_6.BMP",
-            "size": 66614,
-            "checksum": "sha256:63e4180110d5ff39062d4ef7e94bf2191d35421a7ff4fe0cdc615301267ac35c"
-        },
-        {
-            "file": "Raz_Two_001.bmp",
-            "size": 1254,
-            "checksum": "sha256:ce272493467b54abd3ff48410574845af5d7fe7eb7fda296e776a5c773a82337"
-        },
-        {
-            "file": "Raz_Two_004.bmp",
-            "size": 3730,
-            "checksum": "sha256:8977d5910f90ed39c671df22da590ddb56319cf62f5b564f4fbdff0bafba2f1e"
-        },
-        {
-            "file": "Schowek10.bmp",
-            "size": 36466,
-            "checksum": "sha256:bb784740e0f09c7d8e2bc05e2a9eb8901f1f29039a63093a5777a080776481cf"
-        },
-        {
-            "file": "Shreyas-IV-01.bmp",
-            "size": 36342,
-            "checksum": "sha256:10bf973044414dbea4dfaf77de57d7de4d3a871f0fc057bda1a3f699e202a411"
-        },
-        {
-            "file": "skupers_cb_auto.bmp",
-            "size": 3656,
-            "checksum": "sha256:2e112f64d85239531d402a8c85aa68810641b13060d77c93c69aa6a254a2e2f5"
-        },
-        {
-            "file": "skupers_cb_gameover.bmp",
-            "size": 18056,
-            "checksum": "sha256:fc535d595b77c9a745e131627b46ae889ce05a6fe2d361e485ee329d59c118f7"
-        },
-        {
-            "file": "skupers_cb_mouse1.bmp",
-            "size": 5456,
-            "checksum": "sha256:ef5a8bd5156e33811ce70fe6711cdbc940a591b79520e6211e5723e3ff28dc5c"
-        },
-        {
-            "file": "skupers_cb_mouse2.bmp",
-            "size": 5456,
-            "checksum": "sha256:7cf69d6f1273e119611bb59a5a333f793cd6c3a2a8fee06d97b13fcccc5b1453"
-        },
-        {
-            "file": "skupers_cb_mouse3.bmp",
-            "size": 5456,
-            "checksum": "sha256:2e950e2534e718b684dbe327217d3859b0a4a432d4042d0f56c771ab85dd4914"
-        },
-        {
-            "file": "skupers_cb_text.bmp",
-            "size": 3656,
-            "checksum": "sha256:e611598ba7e94d39edbbfde59440f57efc038c4943fbbc8ec877aec740ae32bb"
-        },
-        {
-            "file": "skupers_ct_auto.bmp",
-            "size": 1220,
-            "checksum": "sha256:2ea891be7e48ff49863a7c2d29c728378c90daf512dcbf224b7abe33fccd4de9"
-        },
-        {
-            "file": "skupers_lp6_01.bmp",
-            "size": 776,
-            "checksum": "sha256:27bdda462dfec5cea6f702611fdc5df24255ae076c64fd214544b75561771339"
-        },
-        {
-            "file": "skupers_lp6_02.bmp",
-            "size": 10856,
-            "checksum": "sha256:aaeb13486d7082c888a556012a3ea574dc4c651b01510ae9722a1ce184f8fd03"
-        },
-        {
-            "file": "skupers_lp7_01.bmp",
-            "size": 776,
-            "checksum": "sha256:27bdda462dfec5cea6f702611fdc5df24255ae076c64fd214544b75561771339"
-        },
-        {
-            "file": "skupers_lp7_02.bmp",
-            "size": 10856,
-            "checksum": "sha256:aaeb13486d7082c888a556012a3ea574dc4c651b01510ae9722a1ce184f8fd03"
-        },
-        {
-            "file": "skupers_lp7_03.bmp",
-            "size": 774,
-            "checksum": "sha256:b6a3d29fa0ba3a2507b098fefcd58459639c1338b144833ec9ad834f378afb6d"
-        },
-        {
-            "file": "skupers_lp7_04.bmp",
-            "size": 3678,
-            "checksum": "sha256:385d475bda1d0714ac15ceea8fdd096c48f1552ee2bf99b83d5bec44cb75357f"
-        },
-        {
-            "file": "skupers_lp7_05.bmp",
-            "size": 776,
-            "checksum": "sha256:9ffee96d577cdbce33395669601281395112690c7f61e90d63c4273cae7ebc75"
-        },
-        {
-            "file": "skupers_lp7_06.bmp",
-            "size": 776,
-            "checksum": "sha256:2d0cf33c2ffb726b976ebad0c57d1c7a905bd30a9204c44b739a525b1dcc18b8"
-        },
-        {
-            "file": "skupers_lp9_01.bmp",
-            "size": 1480,
-            "checksum": "sha256:308666e137c61483495b97c1061b481e421dbdd55e138047ad20abe43715d19a"
-        },
-        {
-            "file": "sv_architectimage_256.bmp",
-            "size": 74438,
-            "checksum": "sha256:9933f42ec6fce52dd5538999f8b933b6fb70181de1dc37983a21c6f3df4f4c5c"
-        },
-        {
-            "file": "sv_architectimage_buffer.bmp",
-            "size": 9494,
-            "checksum": "sha256:c34c46033ccba9070436cd26ba07d0f9ddd96ae0d11020e1964829c08be47fa8"
-        },
-        {
-            "file": "sv_sound_left.bmp",
-            "size": 98,
-            "checksum": "sha256:7b6d80a0821badabb2fee671c66b95228bb80f6edb1a191ee359fb8f9bf69f73"
-        },
-        {
-            "file": "sv_sound_right.bmp",
-            "size": 98,
-            "checksum": "sha256:de8ded1c37de741c6076b4a6fabdbfa6373f795e6c3c00933fa344af30a8fb7f"
-        },
-        {
-            "file": "sv_speaker_left.bmp",
-            "size": 98,
-            "checksum": "sha256:efc77c8cf615d59302818191cff1bdf7a8f33e20a4d28a0d5f883f85028c40c2"
-        },
-        {
-            "file": "sv_speaker_right.bmp",
-            "size": 98,
-            "checksum": "sha256:b53ae1524daa7ff9fd7f586d1e3537a276119e1092ee80ff8259146856e7c16f"
-        },
-        {
-            "file": "sv_texer_simplefade.bmp",
-            "size": 856,
-            "checksum": "sha256:515005fa95d921531e2a2d5c711145fec12aa739c4fbab498235f5300240a019"
-        },
-        {
-            "file": "sv_winamp_lg.bmp",
-            "size": 5982,
-            "checksum": "sha256:6990f43ca208cc6472738dc92be8175d831c866377cdfc48717a7e941d6a0983"
-        },
-        {
-            "file": "synth_002.bmp",
-            "size": 2814,
-            "checksum": "sha256:0deae1aab291e879184dae6c7a55dbff6abfa91ba35a81045eb86df10d0129bc"
-        },
-        {
-            "file": "synth_control.bmp",
-            "size": 5358,
-            "checksum": "sha256:73605559f57c4bb9274026286f36da79d47c814dcf369b458975983b50974109"
-        },
-        {
-            "file": "tug_3dpack_n3rd.bmp",
-            "size": 40314,
-            "checksum": "sha256:1e22721c81b48a79733796a507142599f9ca29a8560c3ecd92b7c0dd786b7643"
-        },
-        {
-            "file": "tug_3dpack_popstavsers1.bmp",
-            "size": 270054,
-            "checksum": "sha256:225d7d1029f89311c449e9778f253e90e157b61532d457367928c5133a05ca0f"
-        },
-        {
-            "file": "tug_3Dpack_popstavsers2.bmp",
-            "size": 270054,
-            "checksum": "sha256:222c260a8f4bc82d0e128a4ee785c24417750c3b528c1a9e857c19fc02e715b6"
-        },
-        {
-            "file": "tug_3Dpack_popstavsers3.bmp",
-            "size": 270054,
-            "checksum": "sha256:9b964320a7ceae4e144cf6738d91eb69d788ebc1a66abb3a11d36e7dbc7e2494"
-        },
-        {
-            "file": "tug_3Dpack_popstavsers4.bmp",
-            "size": 270054,
-            "checksum": "sha256:0301c13bdb47ad4e14187c7d3923ab9ba2c675d8d9ef81f921ca82a12148965b"
-        },
-        {
-            "file": "tug_3dpack_randspin.bmp",
-            "size": 34250,
-            "checksum": "sha256:1840a7e1d2e6a326bfddabb0ba274341f8568a60c976010c70f5f576b5251ac6"
-        },
-        {
-            "file": "tug_3Dpack_risingstars1.bmp",
-            "size": 24030,
-            "checksum": "sha256:76c3e4007e618df5a794628a2186d04e7e9b57b04fde53eb0545c808b1934232"
-        },
-        {
-            "file": "tug_3Dpack_risingstars2.bmp",
-            "size": 24030,
-            "checksum": "sha256:3e508d7f95238020db098338007e63d6090da7bd91aab4f2b96b1707a930244a"
-        },
-        {
-            "file": "tug_3Dpack_risingstars3.bmp",
-            "size": 68910,
-            "checksum": "sha256:0d2f1a0bd70fd12c0379a9ef1033a601d09283963a51d2dcf81bf0b1fdee4334"
-        },
-        {
-            "file": "tug_3Dpack_risingstars4.bmp",
-            "size": 24030,
-            "checksum": "sha256:280a856d8ddc4a96a24a9a8f252f948ca3883b589ff69b259da1501a8f1badb8"
-        },
-        {
-            "file": "tug_3Dpack_risingstars5.bmp",
-            "size": 68910,
-            "checksum": "sha256:1d55b48414b80d57b02fc5fc31ea231ea39c84de8e7a128bb1ab7eda7e8cee41"
-        },
-        {
-            "file": "tug_3dpack_texer1.bmp",
-            "size": 1974,
-            "checksum": "sha256:307de879419772fac457ab1a1bf9d5e1535eae8e59f36b28ea070fb3ce01797a"
-        },
-        {
-            "file": "tug_3dpack_texer10.bmp",
-            "size": 19014,
-            "checksum": "sha256:ebadbd90c92360405339d6b250dcf93f929acfa3a52f2e406400cc70bfd3b0dc"
-        },
-        {
-            "file": "tug_3dpack_texer2.bmp",
-            "size": 2286,
-            "checksum": "sha256:10dbc036de4be55ff3132b61b61143f00d278c656eac92f3dfba39e960da3191"
-        },
-        {
-            "file": "tug_3dpack_texer3.bmp",
-            "size": 162,
-            "checksum": "sha256:c26e7f47eb254bb0e3714cdd5a9ae1fb46525f8593f85682629611752821bfee"
-        },
-        {
-            "file": "tug_3dpack_texer4.bmp",
-            "size": 20970,
-            "checksum": "sha256:975dde5246126359a99d1ae13859c07f0aaf6b91d1dd1d2602284d2c11a47503"
-        },
-        {
-            "file": "tug_3dpack_texer5.bmp",
-            "size": 4854,
-            "checksum": "sha256:dfbb2b146ff244564d726b9fddbe38bf54f40b4a49921425a489ed1adf3775a3"
-        },
-        {
-            "file": "tug_3dpack_texer6.bmp",
-            "size": 3782,
-            "checksum": "sha256:8e7936c14474199bf09125a41fbf5e98d83661373d43f72a269eabeddc0dc09e"
-        },
-        {
-            "file": "tug_3dpack_texer7.bmp",
-            "size": 1774,
-            "checksum": "sha256:dd882af16461f6d32854206c7dfb56c8b1977a5a7b7f7cc6a223b74927f47b27"
-        },
-        {
-            "file": "tug_3dpack_texer8.bmp",
-            "size": 16082,
-            "checksum": "sha256:3b111a44dbdb7e6ae51885082768804340eebb78d1a5e67f8001f51b4ebaf4b1"
-        },
-        {
-            "file": "tug_3dpack_texer9.bmp",
-            "size": 19014,
-            "checksum": "sha256:0fd2c4e0d1d1a08740451dff284854893e7474378aa82c0f7b2407298cb96002"
-        },
-        {
-            "file": "tug_3dpack_whacko4-01.bmp",
-            "size": 258054,
-            "checksum": "sha256:04391c85e1f7f947bdbb48dab1feb0adf3f7870a563c53aed35acf037480f0da"
-        },
-        {
-            "file": "tug_babyroll.bmp",
-            "size": 54438,
-            "checksum": "sha256:0086f30a513b13c3957a1836c5092a42ed38e55abf006dec5b0d92ae6a7e1595"
-        },
-        {
-            "file": "tug_bit2_skullA.bmp",
-            "size": 91078,
-            "checksum": "sha256:38de2ec2bc41dd7e186c0858b3ee7d3eef79ac86db61229748625fd626809dbf"
-        },
-        {
-            "file": "tug_bit2_skullB.bmp",
-            "size": 91078,
-            "checksum": "sha256:1431e65678e1b64d5c01199df7935072d954d5284a51cc1a0dde3891eb2ec370"
-        },
-        {
-            "file": "tug_bit2_texer5.bmp",
-            "size": 6778,
-            "checksum": "sha256:4cf1a65d0260c22aea56db70fd91122dbf858e2803e230f5ae51e9d9979e99fb"
-        },
-        {
-            "file": "tug_singles_texer1.bmp",
-            "size": 1678,
-            "checksum": "sha256:b25e4207f7b6f5c0c9004d5b4e7e9cafd471d9f677d9e53c9baf0b1e17a3c292"
-        },
-        {
-            "file": "tug_singles_texer2.bmp",
-            "size": 69174,
-            "checksum": "sha256:d2afcd48eb7763953d2b7e86df15601ea49c6444bf28c4d050c126408cb3aee2"
-        },
-        {
-            "file": "tug_soneric_bf.bmp",
-            "size": 4966,
-            "checksum": "sha256:6ac199ef70d4bd737eae1424ca4aa438d83651e93e32ae460c8b16f22ce81fce"
-        },
-        {
-            "file": "tug_soneric_cur.bmp",
-            "size": 1862,
-            "checksum": "sha256:6792f45eab5f26e25c320da2fa916061376411d051e98074f1521d7ffb380240"
-        },
-        {
-            "file": "tug_soneric_gl.bmp",
-            "size": 5782,
-            "checksum": "sha256:7c3d05c73b526b0f535b49348978d37a3bd628cd2e9d7104f16fe91d36d680fa"
-        },
-        {
-            "file": "tug_soneric_logo.bmp",
-            "size": 11246,
-            "checksum": "sha256:4328aee0feb7a0bc1e2f63f3bb8dbb21c53eb10655fc1a343c0eb63ffc67e334"
-        },
-        {
-            "file": "tug_soneric_rz.bmp",
-            "size": 5110,
-            "checksum": "sha256:a27191991935aca319e9c49d5cd2c772b219830e428535f358ca8fa62d7fdd6e"
-        },
-        {
-            "file": "tug_soneric_st.bmp",
-            "size": 4894,
-            "checksum": "sha256:8312d63a4b9865b75c8dcb2cee81d8586f4103b93c5703dbfb7cd83caa446b5b"
-        },
-        {
-            "file": "tug_texer7.bmp",
-            "size": 17078,
-            "checksum": "sha256:49d6941fee2623416e7e78ecf953480004fa3dea0a7f8ce12b3232faab5ac98c"
-        },
-        {
-            "file": "tug_texer9.bmp",
-            "size": 19166,
-            "checksum": "sha256:015692a093e189343c8c3b342368ddadd10bee51aa6599caede9f034eee1c66d"
-        },
-        {
-            "file": "tug_ti_texer2.bmp",
-            "size": 2814,
-            "checksum": "sha256:b26c0b295d55ad7215f7e734dcd0da8e321337de9805eb7f615bf9b09c79d8f2"
-        },
-        {
-            "file": "v4_texer.bmp",
-            "size": 4854,
-            "checksum": "sha256:251d34a25555a90b7c49c7fb36899289fae30a95d9daa9feae1f0c5934354570"
-        },
-        {
-            "file": "v4_texer2.bmp",
-            "size": 4854,
-            "checksum": "sha256:3cbd52611f0afd7250440eda48dacc720994892e7b15ba34da031181aec7b97c"
-        },
-        {
-            "file": "v4_texer3.bmp",
-            "size": 4854,
-            "checksum": "sha256:77c620edd0df29e8c3fd320cf301022d0fc169b68786781a09e89ce47fdac1d9"
-        },
-        {
-            "file": "v4_texer5.bmp",
-            "size": 4854,
-            "checksum": "sha256:478c1a87ee46108ebda2b866e0db6f715b2a4d6e95b65ef8f7642de94f498a7b"
-        },
-        {
-            "file": "v4_texer7.bmp",
-            "size": 1954,
-            "checksum": "sha256:49b6458d62c8f9687fefe109e1891166da70448e4eba3006067f948662a46a76"
-        },
-        {
-            "file": "vb_duo_01.bmp",
-            "size": 2680,
-            "checksum": "sha256:de17e281a17c93e59f7fd0d223f4f3dbca42108095757bbc1692b5ffd8b4023b"
-        },
-        {
-            "file": "vb.bmp",
-            "size": 145254,
-            "checksum": "sha256:92479458ed7967973cccc27666c5192a2cf8a9f5b526dacba4c3fc907a3bdad4"
-        },
-        {
-            "file": "vb2.bmp",
-            "size": 145254,
-            "checksum": "sha256:d35fea78b8e9b0080b4a143e5fee0c1c305d66ff8d53070b692906d063da4374"
-        },
-        {
-            "file": "whacko6-01.bmp",
-            "size": 3678,
-            "checksum": "sha256:fc32951ed95809048e51b4c5760f8fb064d3ae62e2364690d927d1e0d490f89b"
-        },
-        {
-            "file": "whacko6-02.bmp",
-            "size": 3678,
-            "checksum": "sha256:385d475bda1d0714ac15ceea8fdd096c48f1552ee2bf99b83d5bec44cb75357f"
-        },
-        {
-            "file": "whacko6-03.bmp",
-            "size": 2266,
-            "checksum": "sha256:016f2b9bcb992215ae5feba005c54aa00f0d2d43c7a8dae36da903efb0307845"
-        },
-        {
-            "file": "whacko6-04.bmp",
-            "size": 3730,
-            "checksum": "sha256:8977d5910f90ed39c671df22da590ddb56319cf62f5b564f4fbdff0bafba2f1e"
-        },
-        {
-            "file": "whacko6-05.bmp",
-            "size": 1218,
-            "checksum": "sha256:038ee2bbfdaf0069e4e76e66efa72a55f74b4f3f89b1dccdb6c2500b3de5cbf7"
-        },
-        {
-            "file": "whacko6-06.bmp",
-            "size": 1534,
-            "checksum": "sha256:c113d7e723b3616385f77f8bc5cc2aeaae9d451501aa7b1e44fc63d72a768740"
-        },
-        {
-            "file": "whacko6-07.bmp",
-            "size": 3422,
-            "checksum": "sha256:45c2072b0dcffc04ac87199392097c5debefaaac6000997da9f568094278155d"
-        },
-        {
-            "file": "whacko6-08.bmp",
-            "size": 1990,
-            "checksum": "sha256:ebd9539102497cb077de13b933a42097e0514ddd3ab99c9245b9b4bb62e3e168"
-        },
-        {
-            "file": "whacko6-09.bmp",
-            "size": 822,
-            "checksum": "sha256:2085c49c2dbaf5e7120b5156f6ab7d37b73dc2246cb6bfa934d42eb8b1b7e1f7"
-        },
-        {
-            "file": "whacko6-10.bmp",
-            "size": 1438,
-            "checksum": "sha256:0b67a09d80f736c08333f1b0b04732cc8786170fdcd4a94030eb28ef4aa1e0f7"
-        },
-        {
-            "file": "whackorev-eb1.bmp",
-            "size": 1398,
-            "checksum": "sha256:5bdeb86e121ca6763433a7975a745038d7c4503f8ca23152c04de7195403a773"
-        },
-        {
-            "file": "whackorev-soleillevant-mask.bmp",
-            "size": 3874,
-            "checksum": "sha256:bc01eef231cfbbe509b52ebf5ab64d7c0ee7e87c593f5866e27c81d410c5e66c"
-        },
-        {
-            "file": "yi-panton.bmp",
-            "size": 948,
-            "checksum": "sha256:1d4e158a5299389496afee41aece65f023f9483db8782b05252def9705d609f5"
-        },
-        {
-            "file": "Zmzv3_texer.bmp",
-            "size": 9358,
-            "checksum": "sha256:5ad9c1c53613ebab4374722917a99ddcf61bb05b435e95531e4048ed5281eaec"
-        }
-    ],
-    "plugins": [
-        "BufferBlend",
-        "ConvolutionFilter",
-        "GlobalVarMan",
-        "Triangle"
-    ]
+	"name": "incipience iii",
+	"id": "VB102",
+	"presets": [
+		{
+			"file": "incipience iii/00 - amphirion_______intro.avs",
+			"size": 9963,
+			"checksum": "sha256:930904d75e154b561859ac44e52020e37a0da79c4f421aac0cb676866d6e3844"
+		},
+		{
+			"file": "incipience iii/01 - amphirion_______cubic spectrum.avs",
+			"size": 17052,
+			"checksum": "sha256:420b4889ca35e78530e4669f6885103e8e6582b280d8afdaf99aabcff1b1b512"
+		},
+		{
+			"file": "incipience iii/02 - amphirion_______crater.avs",
+			"size": 2448,
+			"checksum": "sha256:7368850d2be5b533179115debbb389ca0c32006d012fbd232840968509874523"
+		},
+		{
+			"file": "incipience iii/03 - amphirion_______take it and leaf.avs",
+			"size": 13145,
+			"checksum": "sha256:c550beb8905b8c383bd64254a2b76865fd865bbb61b5165ce67900ec4cdc8f4b"
+		},
+		{
+			"file": "incipience iii/04 - amphirion_______something fierce.avs",
+			"size": 22988,
+			"checksum": "sha256:43634d791d49419dfc633aff37b639f6582dde0e79aea655a277df4347b25bc4"
+		},
+		{
+			"file": "incipience iii/05 - amphirion_______string theory.avs",
+			"size": 9051,
+			"checksum": "sha256:e7477e3110faf63a635de63eea2410e5b467eea3dc7353695954f085dea67453"
+		},
+		{
+			"file": "incipience iii/06 - amphirion_______cellulite.avs",
+			"size": 8517,
+			"checksum": "sha256:17494cc4ef3d91ab95f70c203a1c837c16c9532622ce780c37f2bb7ccd661ab7"
+		},
+		{
+			"file": "incipience iii/07 - amphirion_______flow of music.avs",
+			"size": 5551,
+			"checksum": "sha256:11cc1fe3bbd50ca9bfc7b4d3ff6ca2c29a6c0e2ebbe6e7264e79f40441a90762"
+		},
+		{
+			"file": "incipience iii/08 - amphirion_______malevolent shattering.avs",
+			"size": 2259,
+			"checksum": "sha256:13607a1130b694816affc86a05c4f8fc847ae242ea30c41a635790ebda96332a"
+		},
+		{
+			"file": "incipience iii/09 - amphirion_______nebulous ii.avs",
+			"size": 3931,
+			"checksum": "sha256:92540752bdcf73758c59710b1bc2cbfe81b427a3357060ae0005f28fff1e5737"
+		},
+		{
+			"file": "incipience iii/10 - amphirion_______amythest.avs",
+			"size": 4730,
+			"checksum": "sha256:004e8231c999d131d8b43bfd66540b4c82c61461752d951d6af5ea08c4a9b70e"
+		},
+		{
+			"file": "incipience iii/11 - amphirion_______poco animato.avs",
+			"size": 6676,
+			"checksum": "sha256:0a0b084353e18a23df697b747323587cc1c32a4e41487c240388ca7310115e1c"
+		},
+		{
+			"file": "incipience iii/12 - amphirion_______satellite nation.avs",
+			"size": 16277,
+			"checksum": "sha256:add13ddddc71c1290b09895f78708cabd8235cf82054d3966756c7ec75e92b03"
+		},
+		{
+			"file": "incipience iii/13 - amphirion_______chromis.avs",
+			"size": 5060,
+			"checksum": "sha256:28a5f8aa8db01459ffad28623c6f590cfac021bde18473bd3276507211d26a09"
+		},
+		{
+			"file": "incipience iii/14 - amphirion_______demo.avs",
+			"size": 3423,
+			"checksum": "sha256:f57b6ea8da7b48a8a3b36310a1f324487f6c42a051c79b4a9f7da8509a94366e"
+		},
+		{
+			"file": "incipience iii/15 - amphirion_______moonshine.avs",
+			"size": 5290,
+			"checksum": "sha256:d99379b70aafc74315c90a15b0e420d13c4e86077cb3b829e36c2eeedd3cba06"
+		},
+		{
+			"file": "incipience iii/16 - amphirion_______flowers.avs",
+			"size": 7262,
+			"checksum": "sha256:48c23c411c34f9dbd8bb5a8297d472f363a02d4f614b1a9594f619701dcaaa19"
+		},
+		{
+			"file": "incipience iii/17 - amphirion_______rivierra.avs",
+			"size": 14810,
+			"checksum": "sha256:1d9f2be5693717d9157780fb770fd3878da10752cdfc531f08b848e298d7a101"
+		},
+		{
+			"file": "incipience iii/18 - amphirion_______project global ii.avs",
+			"size": 9720,
+			"checksum": "sha256:b2199c7b9fc5aebaeaa4790a2f8d802c8dd9054d5c2aaabd554dcefd84aaec75"
+		},
+		{
+			"file": "incipience iii/19 - denkensiefursich - under my feet (the infection).avs",
+			"size": 5781,
+			"checksum": "sha256:cea8ed22a5bbc2b753e133a99599d426e80904c626c8bd28b9b047ede072817a"
+		},
+		{
+			"file": "incipience iii/20 - dynamic duo - wanlotus (dynamic duo's loot-us rework).avs",
+			"size": 4703,
+			"checksum": "sha256:8db37ea2886ee88e2150ff7f97aece30abd33d25878a5f750a85465055348eee"
+		},
+		{
+			"file": "incipience iii/21 - framesofreality - cryptocoryne (chicque version).avs",
+			"size": 11919,
+			"checksum": "sha256:992cc8b6fe0db9c9ab9796aeaf6a8263110fd0c5fc8770e962d7dd1d0e1b3c5c"
+		},
+		{
+			"file": "incipience iii/22 - framesofreality - it looka like a somethin' (nem rossz version).avs",
+			"size": 4786,
+			"checksum": "sha256:3bda3978b2982d88670e5e11b9a3ea010d882cd1e026c32513c24b725745f456"
+		},
+		{
+			"file": "incipience iii/23 - PAK-9 - Project Global (3-C0RE Remix).avs",
+			"size": 5168,
+			"checksum": "sha256:61d3ebe147270d447b59e93f2c97d37aa838a500a89d627bbd28b26421a68e61"
+		},
+		{
+			"file": "incipience iii/24 - synth-c - In Transit (Synth-C Remix).avs",
+			"size": 10598,
+			"checksum": "sha256:6fc40eaff8138f104de3d4b83c882057ed5e95a0d4a134b551c09f682ba53512"
+		},
+		{
+			"file": "incipience iii/25 - synth-c - Moonshine (Synth-C Remix).avs",
+			"size": 12367,
+			"checksum": "sha256:e40fa376dcccd5be5b27c067462e3e3a13db41d59d05acdc3dafdf384fd2169a"
+		},
+		{
+			"file": "incipience iii/26 - yathosho - necromancer's pot (ya-tho-sho treatment).avs",
+			"size": 3699,
+			"checksum": "sha256:9f9b1c5432cca49e610ea8056028d80b4529225f49a48818e8d770a4159f781a"
+		},
+		{
+			"file": "incipience iii/27 - zamuz - moonshine (daylight remix).avs",
+			"size": 4650,
+			"checksum": "sha256:e050fad7f2ce24380c4ab7b491d94d9b6a9b9b469120a18cf02e4e15666c3804"
+		}
+	],
+	"assets": [
+		{
+			"file": "amp_leaf five.bmp",
+			"size": 1856,
+			"checksum": "sha256:a08a6e8757686bb5bd9a4099a8695d24a69d34561cf81df7020432bd666b98e8"
+		},
+		{
+			"file": "amp_leaf four.bmp",
+			"size": 1856,
+			"checksum": "sha256:833c33cd49aa9a41d2f1264b77eb8817a79727c93e036e61abe3892e6ffe8491"
+		},
+		{
+			"file": "amp_leaf one.bmp",
+			"size": 1024,
+			"checksum": "sha256:38f519a10edd454b99e28015d12d1278b3025cf58d7719b1b93aff0f430b0f22"
+		},
+		{
+			"file": "amp_leaf six.bmp",
+			"size": 42176,
+			"checksum": "sha256:2e119be575beb6a19f8155555eb9e1d4eb999a9693880af9719b0e7d2bba8ccc"
+		},
+		{
+			"file": "amp_leaf three.bmp",
+			"size": 1024,
+			"checksum": "sha256:2d9a532761db9e7857ca94222af9e5e32e1c5969aa67fec8f0e681299841e856"
+		},
+		{
+			"file": "amp_leaf two.bmp",
+			"size": 1024,
+			"checksum": "sha256:a1c8b093421ec4a9ab283b5951ab101fd96df2e7a5f0699eafbfc4fddf612369"
+		},
+		{
+			"file": "Amp-Texter.bmp",
+			"size": 1226,
+			"checksum": "sha256:5203b05524875c33d358f97593af922a7e140957af15e168822e9b5029c7e65c"
+		},
+		{
+			"file": "amphi v 2.0.bmp",
+			"size": 7656,
+			"checksum": "sha256:bccd8118c58b7ee479082080a1bed41864047dd68a1106a53b1a965fc645e206"
+		},
+		{
+			"file": "ampvisbot.bmp",
+			"size": 6824,
+			"checksum": "sha256:c19cf72990284c2d5993c6494d842b72094bac86cea2893834a85fa0bc8eeea5"
+		},
+		{
+			"file": "avsres_texer_circle_edgeonly_29x29.bmp",
+			"size": 2606,
+			"checksum": "sha256:534c1eb965d3a1df52fa0bc8bdb4977fbf18ac19869417ac8e8d1409f6b203e6"
+		},
+		{
+			"file": "avsres_texer_circle_fade_11x11.bmp",
+			"size": 450,
+			"checksum": "sha256:f23cffc3b62ea97fd3bc32cb7107705a5ccdfe90c1c69ad950744f148b75d13f"
+		},
+		{
+			"file": "avsres_texer_circle_fade_13x13.bmp",
+			"size": 574,
+			"checksum": "sha256:b63bce5ba15b7dbaeedc588fa991c218963d0ed312c865a0d0f36d771b496a37"
+		},
+		{
+			"file": "avsres_texer_circle_fade_15x15.bmp",
+			"size": 774,
+			"checksum": "sha256:e993d9035e0c88999abda7037e81440f63ee87e37709679de1f4416511be4551"
+		},
+		{
+			"file": "avsres_texer_circle_fade_17x17.bmp",
+			"size": 938,
+			"checksum": "sha256:e76a9c0ac6ef5dfa2308908a92f6b54f481c5dafcad8c47dd887b3fab39abd92"
+		},
+		{
+			"file": "avsres_texer_circle_fade_19x19.bmp",
+			"size": 1194,
+			"checksum": "sha256:cc04c68f70e6e055052c17d9acab017f4f8e0124db05422cffeea153073f24d6"
+		},
+		{
+			"file": "avsres_texer_circle_fade_27x27.bmp",
+			"size": 2322,
+			"checksum": "sha256:3cdfe658a7c79b81df990f78ee37b4f358b77b1439579f2c0ca1fa0fe2c86c48"
+		},
+		{
+			"file": "avsres_texer_circle_fade_29x29.bmp",
+			"size": 2606,
+			"checksum": "sha256:10bcb870745a117d8cd57e44f60718e278a0e3ae25e3eaa9250e7936c1dc6fba"
+		},
+		{
+			"file": "avsres_texer_circle_heavyblur_11x11.bmp",
+			"size": 450,
+			"checksum": "sha256:0874f6c0ceae338fed5586458149d51bba71701e376dbccb90f7c7cdb37ef8cd"
+		},
+		{
+			"file": "avsres_texer_circle_heavyblur_19x19.bmp",
+			"size": 1194,
+			"checksum": "sha256:e6a52ec2f27513918744c31b5d10dac12767d426bf7d1709eed5197a86fb33e7"
+		},
+		{
+			"file": "avsres_texer_circle_heavyblur_21x21.bmp",
+			"size": 1398,
+			"checksum": "sha256:f8f868bfc48b2131e08f79a3ccdcdd5487537c1ac1decebee1a5ff5a2edf331b"
+		},
+		{
+			"file": "avsres_texer_circle_heavyblur_29x29.bmp",
+			"size": 2606,
+			"checksum": "sha256:f774cf10d56275d629f321163dbc610fee02b0e892c9065b0931564240bf078d"
+		},
+		{
+			"file": "avsres_texer_circle_sharp_05x05.bmp",
+			"size": 222,
+			"checksum": "sha256:7fed1eba922199994b49288ec476cbffd75aa77c90e664869306e85d9f4196ce"
+		},
+		{
+			"file": "avsres_texer_circle_sharp_09x09.bmp",
+			"size": 450,
+			"checksum": "sha256:6ff6f86f427968efbd9a21ddce8cf0cd681681f0d7fc772659a86700a9c7d0ac"
+		},
+		{
+			"file": "avsres_texer_circle_sharp_11x11.bmp",
+			"size": 574,
+			"checksum": "sha256:834aadff3c131183f1d1fb76010c64317c7f638008d06a769ba29a68a9aed73a"
+		},
+		{
+			"file": "avsres_texer_circle_sharp_13x13.bmp",
+			"size": 774,
+			"checksum": "sha256:7dfb911b3bcceb29b6c6b2386e40f8c7b1af1785e25d5e0310f5537a36cf937a"
+		},
+		{
+			"file": "avsres_texer_circle_sharp_15x15.bmp",
+			"size": 938,
+			"checksum": "sha256:32c61631054ead9b42d17e9b3ea4f3b9d3329d1aff4659bc99d6285c0c771de4"
+		},
+		{
+			"file": "avsres_texer_circle_sharp_27x27.bmp",
+			"size": 2606,
+			"checksum": "sha256:53f96e5f860b7ece905c92aa6253a3445a571f55c9a6ac4a9ee3df6bea56e65a"
+		},
+		{
+			"file": "avsres_texer_circle_sharp_29x29.bmp",
+			"size": 3030,
+			"checksum": "sha256:2d057959257346e2b9a8922504ad51ff7d2608d6bd591659a7fa08d07406366a"
+		},
+		{
+			"file": "avsres_texer_circle_slightblur_17x17.bmp",
+			"size": 938,
+			"checksum": "sha256:eef1c4468c60f28f5c4baa64f2aaf38f71e00e33d7bdaeede58996b530370205"
+		},
+		{
+			"file": "avsres_texer_circle_slightblur_21x21.bmp",
+			"size": 1398,
+			"checksum": "sha256:ddbd3beabf6a2fa1a5385cc5943a1b4a49431902a8e3d461ce7c06a6f6987bb3"
+		},
+		{
+			"file": "avsres_texer_circle_slightblur_29x29.bmp",
+			"size": 2606,
+			"checksum": "sha256:34607b9b3b3f4c4e19cdbba2c2026b01d7834c17061deeb19f2e4d1607b9b814"
+		},
+		{
+			"file": "avsres_texer_square_edgeonly_14x14.bmp",
+			"size": 670,
+			"checksum": "sha256:6d0c3c6121da514e2c95f4db0b596d0c5134011487db5dd42dda5e9aca1d7b45"
+		},
+		{
+			"file": "avsres_texer_square_fade_28x28.bmp",
+			"size": 2406,
+			"checksum": "sha256:5f0c6a2babd0044918587c38523410e641c7951fd626edb99fe528f34bc76345"
+		},
+		{
+			"file": "avsres_texer_square_fade_30x30.bmp",
+			"size": 2814,
+			"checksum": "sha256:12bdc0b6a44fc540c0c84f7e704a6c9bb6885676ba39652b1ef0b1121701e089"
+		},
+		{
+			"file": "avsres_texer_square_sharp_14x14.bmp",
+			"size": 1062,
+			"checksum": "sha256:0b61c799914c245f0978ce3f839d5d1c13bb9b3efbed0a662f1f713fdf6756a3"
+		},
+		{
+			"file": "avsres_texer_square_sharp_28x28.bmp",
+			"size": 3126,
+			"checksum": "sha256:11ec412bcb0bb94f3c925a53aeb2385eac18ad573484b0fc0f86754320a1d0ac"
+		},
+		{
+			"file": "avsres_texer_square_sharp_30x30.bmp",
+			"size": 3590,
+			"checksum": "sha256:e41754b033960b3a5e77252cf1edee71e97c311c2cedafc9b4139a3df51240e6"
+		},
+		{
+			"file": "Cat ²_aII_00.bmp",
+			"size": 19638,
+			"checksum": "sha256:2ee744d41b2a66432795783a3ff0cb35587e16ef0f3fb943bc90432231d1158d"
+		},
+		{
+			"file": "Cat ²_aII_dummyddd.bmp",
+			"size": 10022,
+			"checksum": "sha256:0a6e47988f260ad98441dde112f6e246fd512d5dc40dd07568263c7356bb8535"
+		},
+		{
+			"file": "Cat ²_aII_independant-ii-.bmp",
+			"size": 11226,
+			"checksum": "sha256:1df03cfd12ad86b36364eeaa0e9c9aa9d506c603793e9bab37f59b95a9c7c347"
+		},
+		{
+			"file": "Cat ²_aII_singthehappysong.bmp",
+			"size": 41914,
+			"checksum": "sha256:42c6c858c7ca7a6b221f3097f7bc0b6295899b0018a8add69f3e301e6d6d208e"
+		},
+		{
+			"file": "deskmod.bmp",
+			"size": 40256,
+			"checksum": "sha256:4e13b56432d55547c9eebb65193e7fdd07984987bccf275424f302d56f68f116"
+		},
+		{
+			"file": "e3_01.bmp",
+			"size": 4856,
+			"checksum": "sha256:d98404686955dbae9adc3e726dbeba9666b871f3b359da6406efbfbe9ad0a84f"
+		},
+		{
+			"file": "fragmer_buggy-texer41.bmp",
+			"size": 1126,
+			"checksum": "sha256:80869bbd1c942980d51b671fcf6b51fecb0b83051c9a5f066eb9dc37be3b1a3d"
+		},
+		{
+			"file": "fwhack01.bmp",
+			"size": 3398,
+			"checksum": "sha256:488467a75dbc565e78ed9ffd1fabcfdb274c31bbe9fec15d17ae4f6572d39b69"
+		},
+		{
+			"file": "fwhack02.bmp",
+			"size": 486,
+			"checksum": "sha256:ac0cbe14c357973c854d166e8fbcf44524f5ddfdd067850971006ba7868ac9c3"
+		},
+		{
+			"file": "fwhack03.bmp",
+			"size": 66614,
+			"checksum": "sha256:242f32bef1fe2c64fe2228fe73b93dae30d593f01d166112ea7acf4cb88d13c2"
+		},
+		{
+			"file": "fwhack04.bmp",
+			"size": 2814,
+			"checksum": "sha256:1e271f48ee3807f13bdddd7e738af6e08306ad9241a15e941c1da1a428aade2c"
+		},
+		{
+			"file": "Hboy_nineteen_texer1.bmp",
+			"size": 30054,
+			"checksum": "sha256:15608b6525bcb0f5f79e73de4dd051e02f9a8bb183f6abcad0ddddd1de79393e"
+		},
+		{
+			"file": "Hboy_texer_1.bmp",
+			"size": 17154,
+			"checksum": "sha256:2c13faf386e071d3fe17bc5f2e8f72a4244e085a5a985b249d169fa6c414d27c"
+		},
+		{
+			"file": "Independent-II-Big.bmp",
+			"size": 3942,
+			"checksum": "sha256:60f3bef4e4be12e6240504ed2ee015936aa505e531aba0c4d0b422b0bc7be21e"
+		},
+		{
+			"file": "Independent-II-Car.bmp",
+			"size": 1954,
+			"checksum": "sha256:467fb3493067ff990ae934583c2de93fed9029683d1470daa4cb2ee28750e543"
+		},
+		{
+			"file": "ishan.bmp",
+			"size": 30518,
+			"checksum": "sha256:ef34741dd0c193fae2493689e82997fc8bccd6e5c2e38ca62e9679999d6a1a3e"
+		},
+		{
+			"file": "j_ui_0.bmp",
+			"size": 822,
+			"checksum": "sha256:68d9310baa1e5bde540a6c8d97125432b7ac9708a0fdb65a89dc136f44a551bc"
+		},
+		{
+			"file": "j_ui_1.bmp",
+			"size": 822,
+			"checksum": "sha256:a6f36c00623c478853e28f2b32cd011de86824be1e01a42538d510a9d8055352"
+		},
+		{
+			"file": "j_ui_2.bmp",
+			"size": 822,
+			"checksum": "sha256:735832394dc66200a49ccec9ff071f97ba5e0f3a321350583bc47ba8781934d6"
+		},
+		{
+			"file": "j_ui_3.bmp",
+			"size": 822,
+			"checksum": "sha256:36c73baa093b522dd2dc84b21ac42f728951178d49a7783a17fbed3cd10d52cb"
+		},
+		{
+			"file": "j_ui_4.bmp",
+			"size": 822,
+			"checksum": "sha256:77dd030a93126a1eb12f404be748abadfed06c520ce6ad051b62a83be0cc1dd3"
+		},
+		{
+			"file": "j10_2.bmp",
+			"size": 12342,
+			"checksum": "sha256:a1d806d1e9b91f6585c30636acf39459b9029f5892b1d7c212e24b414d91b68c"
+		},
+		{
+			"file": "jherikoT2.bmp",
+			"size": 1782,
+			"checksum": "sha256:e08a0e28865ec8cd8cfc68a1c5ade29916176fd50550e01b8c919b1cf1f17084"
+		},
+		{
+			"file": "jherikoT3.bmp",
+			"size": 12342,
+			"checksum": "sha256:1a973784c6594de10f4087e8c6ac1e31a4aa388434be27ff70d941cd9c42536d"
+		},
+		{
+			"file": "JjcL237 - Inspire! - 1.bmp",
+			"size": 366,
+			"checksum": "sha256:2bfadde3be0142f569ebdfa757431341fe049b29423a35ecd3831b75185ef72b"
+		},
+		{
+			"file": "musicbass.bmp",
+			"size": 7656,
+			"checksum": "sha256:6af1ffdb8ac03a93d913cfd6b9c377bb41311d6f9268fff81444a0a5f2719795"
+		},
+		{
+			"file": "musiceighth.bmp",
+			"size": 2816,
+			"checksum": "sha256:263160199701fa8b8c44fe1a1772dda009b918ab5e77c8f47adef431ae2169c6"
+		},
+		{
+			"file": "musiceighthlinked.bmp",
+			"size": 2816,
+			"checksum": "sha256:3c61167bf2e429b3e199df82cd1e0caddddb47bc8ede4d446eb04e3042fbf5fb"
+		},
+		{
+			"file": "musicflat.bmp",
+			"size": 2816,
+			"checksum": "sha256:3efa7a720f8dd13a8713bbc8a2b3db7e29c30dde057e4e47c56e42502ea2491b"
+		},
+		{
+			"file": "musichalf.bmp",
+			"size": 2816,
+			"checksum": "sha256:f760b43a2c497a79d622bbbcc9be8bb401eb05b54ad894b2e3fab0007e78cda1"
+		},
+		{
+			"file": "musicquarter.bmp",
+			"size": 2816,
+			"checksum": "sha256:9c6b442d1e4ab2d70b018fceb440acb1ca05a7a9a619f70419bcfbe0caf3ad37"
+		},
+		{
+			"file": "musicsharp.bmp",
+			"size": 2816,
+			"checksum": "sha256:5ba5f2009e0bb56fbfba457c034a2d58ba1a83f97b6c04c16c08d03e21d03bb7"
+		},
+		{
+			"file": "musicsixteenth.bmp",
+			"size": 2816,
+			"checksum": "sha256:6a537899c8fd3832834ace8962346d4267314037bdce141c2167b8f5dcea48ba"
+		},
+		{
+			"file": "musictreble.bmp",
+			"size": 7656,
+			"checksum": "sha256:e0317c90ac7611ea155a17396e1564d97297cebc31b6a4c28bf5b1c29adc1d2a"
+		},
+		{
+			"file": "musicwhole.bmp",
+			"size": 2816,
+			"checksum": "sha256:4001010447b722b12bcee203cfe0dd40188a8684f9f56d2eba391923e46916f6"
+		},
+		{
+			"file": "P9_Tx_1.bmp",
+			"size": 3730,
+			"checksum": "sha256:162a4a41761a76c96bca6ae15c420d9c5553c74e78fb4ea1abc738fb64606397"
+		},
+		{
+			"file": "P9_Tx_2.bmp",
+			"size": 2518,
+			"checksum": "sha256:5dd360beeed26ff917ed70ea502096663da321711323d6b04af7009404f8bc9e"
+		},
+		{
+			"file": "P9_Tx_3.bmp",
+			"size": 3678,
+			"checksum": "sha256:1138148b8abd50ca7a6c67d2f6bc7743739f7039c124641f92d6f810fcbd61ce"
+		},
+		{
+			"file": "P9_Tx_4.bmp",
+			"size": 7654,
+			"checksum": "sha256:c761b0e0cc6ed45b8b4f58b259213de163ef4d9ce32a3f1c3ca7a1bb0c313eef"
+		},
+		{
+			"file": "P9_Tx_5.bmp",
+			"size": 3678,
+			"checksum": "sha256:3d2edce8efe9f07af6345ef93cff2fb4b45c90fdf1bd8b3d85d000ffed0f8db3"
+		},
+		{
+			"file": "P9_Tx_7.bmp",
+			"size": 3730,
+			"checksum": "sha256:071e182e06d52f7826803c5a30f797d6a704e8b7d6d2c0c24f35c542313119dd"
+		},
+		{
+			"file": "P9Ded1.bmp",
+			"size": 2038,
+			"checksum": "sha256:076593769919785da8df3b57cc349a143aa93ef283e9e5e8a264a05f7599d3bb"
+		},
+		{
+			"file": "p9test3.bmp",
+			"size": 66614,
+			"checksum": "sha256:9ef72371e28deaed3b0c1dd72774e2dc8e138ac4f74e7a677008870364398a9f"
+		},
+		{
+			"file": "PAK9_4_1.BMP",
+			"size": 66614,
+			"checksum": "sha256:00dfd816fbc43f8c755620c05a68effa95b91552f6a57c24ee25619bd7526a97"
+		},
+		{
+			"file": "PAK9_4_2.BMP",
+			"size": 111670,
+			"checksum": "sha256:ef8053bae25fd3865b644d517d42a1337cf540bee114aa53e948550ed897e83c"
+		},
+		{
+			"file": "PAK9_4_3.BMP",
+			"size": 17678,
+			"checksum": "sha256:2e05e869337a222fb4e8ea3ee168a02f22c4ab942c140561d833090d32e0b3f8"
+		},
+		{
+			"file": "PAK9_4_4.BMP",
+			"size": 91078,
+			"checksum": "sha256:cd3748f757f077e6a26e88a9c63d24a9e5277d2630b560e0fb079aff3f87eb54"
+		},
+		{
+			"file": "PAK9_6.BMP",
+			"size": 66614,
+			"checksum": "sha256:63e4180110d5ff39062d4ef7e94bf2191d35421a7ff4fe0cdc615301267ac35c"
+		},
+		{
+			"file": "Raz_Two_001.bmp",
+			"size": 1254,
+			"checksum": "sha256:ce272493467b54abd3ff48410574845af5d7fe7eb7fda296e776a5c773a82337"
+		},
+		{
+			"file": "Raz_Two_004.bmp",
+			"size": 3730,
+			"checksum": "sha256:8977d5910f90ed39c671df22da590ddb56319cf62f5b564f4fbdff0bafba2f1e"
+		},
+		{
+			"file": "Schowek10.bmp",
+			"size": 36466,
+			"checksum": "sha256:bb784740e0f09c7d8e2bc05e2a9eb8901f1f29039a63093a5777a080776481cf"
+		},
+		{
+			"file": "Shreyas-IV-01.bmp",
+			"size": 36342,
+			"checksum": "sha256:10bf973044414dbea4dfaf77de57d7de4d3a871f0fc057bda1a3f699e202a411"
+		},
+		{
+			"file": "skupers_cb_auto.bmp",
+			"size": 3656,
+			"checksum": "sha256:2e112f64d85239531d402a8c85aa68810641b13060d77c93c69aa6a254a2e2f5"
+		},
+		{
+			"file": "skupers_cb_gameover.bmp",
+			"size": 18056,
+			"checksum": "sha256:fc535d595b77c9a745e131627b46ae889ce05a6fe2d361e485ee329d59c118f7"
+		},
+		{
+			"file": "skupers_cb_mouse1.bmp",
+			"size": 5456,
+			"checksum": "sha256:ef5a8bd5156e33811ce70fe6711cdbc940a591b79520e6211e5723e3ff28dc5c"
+		},
+		{
+			"file": "skupers_cb_mouse2.bmp",
+			"size": 5456,
+			"checksum": "sha256:7cf69d6f1273e119611bb59a5a333f793cd6c3a2a8fee06d97b13fcccc5b1453"
+		},
+		{
+			"file": "skupers_cb_mouse3.bmp",
+			"size": 5456,
+			"checksum": "sha256:2e950e2534e718b684dbe327217d3859b0a4a432d4042d0f56c771ab85dd4914"
+		},
+		{
+			"file": "skupers_cb_text.bmp",
+			"size": 3656,
+			"checksum": "sha256:e611598ba7e94d39edbbfde59440f57efc038c4943fbbc8ec877aec740ae32bb"
+		},
+		{
+			"file": "skupers_ct_auto.bmp",
+			"size": 1220,
+			"checksum": "sha256:2ea891be7e48ff49863a7c2d29c728378c90daf512dcbf224b7abe33fccd4de9"
+		},
+		{
+			"file": "skupers_lp6_01.bmp",
+			"size": 776,
+			"checksum": "sha256:27bdda462dfec5cea6f702611fdc5df24255ae076c64fd214544b75561771339"
+		},
+		{
+			"file": "skupers_lp6_02.bmp",
+			"size": 10856,
+			"checksum": "sha256:aaeb13486d7082c888a556012a3ea574dc4c651b01510ae9722a1ce184f8fd03"
+		},
+		{
+			"file": "skupers_lp7_01.bmp",
+			"size": 776,
+			"checksum": "sha256:27bdda462dfec5cea6f702611fdc5df24255ae076c64fd214544b75561771339"
+		},
+		{
+			"file": "skupers_lp7_02.bmp",
+			"size": 10856,
+			"checksum": "sha256:aaeb13486d7082c888a556012a3ea574dc4c651b01510ae9722a1ce184f8fd03"
+		},
+		{
+			"file": "skupers_lp7_03.bmp",
+			"size": 774,
+			"checksum": "sha256:b6a3d29fa0ba3a2507b098fefcd58459639c1338b144833ec9ad834f378afb6d"
+		},
+		{
+			"file": "skupers_lp7_04.bmp",
+			"size": 3678,
+			"checksum": "sha256:385d475bda1d0714ac15ceea8fdd096c48f1552ee2bf99b83d5bec44cb75357f"
+		},
+		{
+			"file": "skupers_lp7_05.bmp",
+			"size": 776,
+			"checksum": "sha256:9ffee96d577cdbce33395669601281395112690c7f61e90d63c4273cae7ebc75"
+		},
+		{
+			"file": "skupers_lp7_06.bmp",
+			"size": 776,
+			"checksum": "sha256:2d0cf33c2ffb726b976ebad0c57d1c7a905bd30a9204c44b739a525b1dcc18b8"
+		},
+		{
+			"file": "skupers_lp9_01.bmp",
+			"size": 1480,
+			"checksum": "sha256:308666e137c61483495b97c1061b481e421dbdd55e138047ad20abe43715d19a"
+		},
+		{
+			"file": "sv_architectimage_256.bmp",
+			"size": 74438,
+			"checksum": "sha256:9933f42ec6fce52dd5538999f8b933b6fb70181de1dc37983a21c6f3df4f4c5c"
+		},
+		{
+			"file": "sv_architectimage_buffer.bmp",
+			"size": 9494,
+			"checksum": "sha256:c34c46033ccba9070436cd26ba07d0f9ddd96ae0d11020e1964829c08be47fa8"
+		},
+		{
+			"file": "sv_sound_left.bmp",
+			"size": 98,
+			"checksum": "sha256:7b6d80a0821badabb2fee671c66b95228bb80f6edb1a191ee359fb8f9bf69f73"
+		},
+		{
+			"file": "sv_sound_right.bmp",
+			"size": 98,
+			"checksum": "sha256:de8ded1c37de741c6076b4a6fabdbfa6373f795e6c3c00933fa344af30a8fb7f"
+		},
+		{
+			"file": "sv_speaker_left.bmp",
+			"size": 98,
+			"checksum": "sha256:efc77c8cf615d59302818191cff1bdf7a8f33e20a4d28a0d5f883f85028c40c2"
+		},
+		{
+			"file": "sv_speaker_right.bmp",
+			"size": 98,
+			"checksum": "sha256:b53ae1524daa7ff9fd7f586d1e3537a276119e1092ee80ff8259146856e7c16f"
+		},
+		{
+			"file": "sv_texer_simplefade.bmp",
+			"size": 856,
+			"checksum": "sha256:515005fa95d921531e2a2d5c711145fec12aa739c4fbab498235f5300240a019"
+		},
+		{
+			"file": "sv_winamp_lg.bmp",
+			"size": 5982,
+			"checksum": "sha256:6990f43ca208cc6472738dc92be8175d831c866377cdfc48717a7e941d6a0983"
+		},
+		{
+			"file": "synth_002.bmp",
+			"size": 2814,
+			"checksum": "sha256:0deae1aab291e879184dae6c7a55dbff6abfa91ba35a81045eb86df10d0129bc"
+		},
+		{
+			"file": "synth_control.bmp",
+			"size": 5358,
+			"checksum": "sha256:73605559f57c4bb9274026286f36da79d47c814dcf369b458975983b50974109"
+		},
+		{
+			"file": "tug_3dpack_n3rd.bmp",
+			"size": 40314,
+			"checksum": "sha256:1e22721c81b48a79733796a507142599f9ca29a8560c3ecd92b7c0dd786b7643"
+		},
+		{
+			"file": "tug_3dpack_popstavsers1.bmp",
+			"size": 270054,
+			"checksum": "sha256:225d7d1029f89311c449e9778f253e90e157b61532d457367928c5133a05ca0f"
+		},
+		{
+			"file": "tug_3Dpack_popstavsers2.bmp",
+			"size": 270054,
+			"checksum": "sha256:222c260a8f4bc82d0e128a4ee785c24417750c3b528c1a9e857c19fc02e715b6"
+		},
+		{
+			"file": "tug_3Dpack_popstavsers3.bmp",
+			"size": 270054,
+			"checksum": "sha256:9b964320a7ceae4e144cf6738d91eb69d788ebc1a66abb3a11d36e7dbc7e2494"
+		},
+		{
+			"file": "tug_3Dpack_popstavsers4.bmp",
+			"size": 270054,
+			"checksum": "sha256:0301c13bdb47ad4e14187c7d3923ab9ba2c675d8d9ef81f921ca82a12148965b"
+		},
+		{
+			"file": "tug_3dpack_randspin.bmp",
+			"size": 34250,
+			"checksum": "sha256:1840a7e1d2e6a326bfddabb0ba274341f8568a60c976010c70f5f576b5251ac6"
+		},
+		{
+			"file": "tug_3Dpack_risingstars1.bmp",
+			"size": 24030,
+			"checksum": "sha256:76c3e4007e618df5a794628a2186d04e7e9b57b04fde53eb0545c808b1934232"
+		},
+		{
+			"file": "tug_3Dpack_risingstars2.bmp",
+			"size": 24030,
+			"checksum": "sha256:3e508d7f95238020db098338007e63d6090da7bd91aab4f2b96b1707a930244a"
+		},
+		{
+			"file": "tug_3Dpack_risingstars3.bmp",
+			"size": 68910,
+			"checksum": "sha256:0d2f1a0bd70fd12c0379a9ef1033a601d09283963a51d2dcf81bf0b1fdee4334"
+		},
+		{
+			"file": "tug_3Dpack_risingstars4.bmp",
+			"size": 24030,
+			"checksum": "sha256:280a856d8ddc4a96a24a9a8f252f948ca3883b589ff69b259da1501a8f1badb8"
+		},
+		{
+			"file": "tug_3Dpack_risingstars5.bmp",
+			"size": 68910,
+			"checksum": "sha256:1d55b48414b80d57b02fc5fc31ea231ea39c84de8e7a128bb1ab7eda7e8cee41"
+		},
+		{
+			"file": "tug_3dpack_texer1.bmp",
+			"size": 1974,
+			"checksum": "sha256:307de879419772fac457ab1a1bf9d5e1535eae8e59f36b28ea070fb3ce01797a"
+		},
+		{
+			"file": "tug_3dpack_texer10.bmp",
+			"size": 19014,
+			"checksum": "sha256:ebadbd90c92360405339d6b250dcf93f929acfa3a52f2e406400cc70bfd3b0dc"
+		},
+		{
+			"file": "tug_3dpack_texer2.bmp",
+			"size": 2286,
+			"checksum": "sha256:10dbc036de4be55ff3132b61b61143f00d278c656eac92f3dfba39e960da3191"
+		},
+		{
+			"file": "tug_3dpack_texer3.bmp",
+			"size": 162,
+			"checksum": "sha256:c26e7f47eb254bb0e3714cdd5a9ae1fb46525f8593f85682629611752821bfee"
+		},
+		{
+			"file": "tug_3dpack_texer4.bmp",
+			"size": 20970,
+			"checksum": "sha256:975dde5246126359a99d1ae13859c07f0aaf6b91d1dd1d2602284d2c11a47503"
+		},
+		{
+			"file": "tug_3dpack_texer5.bmp",
+			"size": 4854,
+			"checksum": "sha256:dfbb2b146ff244564d726b9fddbe38bf54f40b4a49921425a489ed1adf3775a3"
+		},
+		{
+			"file": "tug_3dpack_texer6.bmp",
+			"size": 3782,
+			"checksum": "sha256:8e7936c14474199bf09125a41fbf5e98d83661373d43f72a269eabeddc0dc09e"
+		},
+		{
+			"file": "tug_3dpack_texer7.bmp",
+			"size": 1774,
+			"checksum": "sha256:dd882af16461f6d32854206c7dfb56c8b1977a5a7b7f7cc6a223b74927f47b27"
+		},
+		{
+			"file": "tug_3dpack_texer8.bmp",
+			"size": 16082,
+			"checksum": "sha256:3b111a44dbdb7e6ae51885082768804340eebb78d1a5e67f8001f51b4ebaf4b1"
+		},
+		{
+			"file": "tug_3dpack_texer9.bmp",
+			"size": 19014,
+			"checksum": "sha256:0fd2c4e0d1d1a08740451dff284854893e7474378aa82c0f7b2407298cb96002"
+		},
+		{
+			"file": "tug_3dpack_whacko4-01.bmp",
+			"size": 258054,
+			"checksum": "sha256:04391c85e1f7f947bdbb48dab1feb0adf3f7870a563c53aed35acf037480f0da"
+		},
+		{
+			"file": "tug_babyroll.bmp",
+			"size": 54438,
+			"checksum": "sha256:0086f30a513b13c3957a1836c5092a42ed38e55abf006dec5b0d92ae6a7e1595"
+		},
+		{
+			"file": "tug_bit2_skullA.bmp",
+			"size": 91078,
+			"checksum": "sha256:38de2ec2bc41dd7e186c0858b3ee7d3eef79ac86db61229748625fd626809dbf"
+		},
+		{
+			"file": "tug_bit2_skullB.bmp",
+			"size": 91078,
+			"checksum": "sha256:1431e65678e1b64d5c01199df7935072d954d5284a51cc1a0dde3891eb2ec370"
+		},
+		{
+			"file": "tug_bit2_texer5.bmp",
+			"size": 6778,
+			"checksum": "sha256:4cf1a65d0260c22aea56db70fd91122dbf858e2803e230f5ae51e9d9979e99fb"
+		},
+		{
+			"file": "tug_singles_texer1.bmp",
+			"size": 1678,
+			"checksum": "sha256:b25e4207f7b6f5c0c9004d5b4e7e9cafd471d9f677d9e53c9baf0b1e17a3c292"
+		},
+		{
+			"file": "tug_singles_texer2.bmp",
+			"size": 69174,
+			"checksum": "sha256:d2afcd48eb7763953d2b7e86df15601ea49c6444bf28c4d050c126408cb3aee2"
+		},
+		{
+			"file": "tug_soneric_bf.bmp",
+			"size": 4966,
+			"checksum": "sha256:6ac199ef70d4bd737eae1424ca4aa438d83651e93e32ae460c8b16f22ce81fce"
+		},
+		{
+			"file": "tug_soneric_cur.bmp",
+			"size": 1862,
+			"checksum": "sha256:6792f45eab5f26e25c320da2fa916061376411d051e98074f1521d7ffb380240"
+		},
+		{
+			"file": "tug_soneric_gl.bmp",
+			"size": 5782,
+			"checksum": "sha256:7c3d05c73b526b0f535b49348978d37a3bd628cd2e9d7104f16fe91d36d680fa"
+		},
+		{
+			"file": "tug_soneric_logo.bmp",
+			"size": 11246,
+			"checksum": "sha256:4328aee0feb7a0bc1e2f63f3bb8dbb21c53eb10655fc1a343c0eb63ffc67e334"
+		},
+		{
+			"file": "tug_soneric_rz.bmp",
+			"size": 5110,
+			"checksum": "sha256:a27191991935aca319e9c49d5cd2c772b219830e428535f358ca8fa62d7fdd6e"
+		},
+		{
+			"file": "tug_soneric_st.bmp",
+			"size": 4894,
+			"checksum": "sha256:8312d63a4b9865b75c8dcb2cee81d8586f4103b93c5703dbfb7cd83caa446b5b"
+		},
+		{
+			"file": "tug_texer7.bmp",
+			"size": 17078,
+			"checksum": "sha256:49d6941fee2623416e7e78ecf953480004fa3dea0a7f8ce12b3232faab5ac98c"
+		},
+		{
+			"file": "tug_texer9.bmp",
+			"size": 19166,
+			"checksum": "sha256:015692a093e189343c8c3b342368ddadd10bee51aa6599caede9f034eee1c66d"
+		},
+		{
+			"file": "tug_ti_texer2.bmp",
+			"size": 2814,
+			"checksum": "sha256:b26c0b295d55ad7215f7e734dcd0da8e321337de9805eb7f615bf9b09c79d8f2"
+		},
+		{
+			"file": "v4_texer.bmp",
+			"size": 4854,
+			"checksum": "sha256:251d34a25555a90b7c49c7fb36899289fae30a95d9daa9feae1f0c5934354570"
+		},
+		{
+			"file": "v4_texer2.bmp",
+			"size": 4854,
+			"checksum": "sha256:3cbd52611f0afd7250440eda48dacc720994892e7b15ba34da031181aec7b97c"
+		},
+		{
+			"file": "v4_texer3.bmp",
+			"size": 4854,
+			"checksum": "sha256:77c620edd0df29e8c3fd320cf301022d0fc169b68786781a09e89ce47fdac1d9"
+		},
+		{
+			"file": "v4_texer5.bmp",
+			"size": 4854,
+			"checksum": "sha256:478c1a87ee46108ebda2b866e0db6f715b2a4d6e95b65ef8f7642de94f498a7b"
+		},
+		{
+			"file": "v4_texer7.bmp",
+			"size": 1954,
+			"checksum": "sha256:49b6458d62c8f9687fefe109e1891166da70448e4eba3006067f948662a46a76"
+		},
+		{
+			"file": "vb_duo_01.bmp",
+			"size": 2680,
+			"checksum": "sha256:de17e281a17c93e59f7fd0d223f4f3dbca42108095757bbc1692b5ffd8b4023b"
+		},
+		{
+			"file": "vb.bmp",
+			"size": 145254,
+			"checksum": "sha256:92479458ed7967973cccc27666c5192a2cf8a9f5b526dacba4c3fc907a3bdad4"
+		},
+		{
+			"file": "vb2.bmp",
+			"size": 145254,
+			"checksum": "sha256:d35fea78b8e9b0080b4a143e5fee0c1c305d66ff8d53070b692906d063da4374"
+		},
+		{
+			"file": "whacko6-01.bmp",
+			"size": 3678,
+			"checksum": "sha256:fc32951ed95809048e51b4c5760f8fb064d3ae62e2364690d927d1e0d490f89b"
+		},
+		{
+			"file": "whacko6-02.bmp",
+			"size": 3678,
+			"checksum": "sha256:385d475bda1d0714ac15ceea8fdd096c48f1552ee2bf99b83d5bec44cb75357f"
+		},
+		{
+			"file": "whacko6-03.bmp",
+			"size": 2266,
+			"checksum": "sha256:016f2b9bcb992215ae5feba005c54aa00f0d2d43c7a8dae36da903efb0307845"
+		},
+		{
+			"file": "whacko6-04.bmp",
+			"size": 3730,
+			"checksum": "sha256:8977d5910f90ed39c671df22da590ddb56319cf62f5b564f4fbdff0bafba2f1e"
+		},
+		{
+			"file": "whacko6-05.bmp",
+			"size": 1218,
+			"checksum": "sha256:038ee2bbfdaf0069e4e76e66efa72a55f74b4f3f89b1dccdb6c2500b3de5cbf7"
+		},
+		{
+			"file": "whacko6-06.bmp",
+			"size": 1534,
+			"checksum": "sha256:c113d7e723b3616385f77f8bc5cc2aeaae9d451501aa7b1e44fc63d72a768740"
+		},
+		{
+			"file": "whacko6-07.bmp",
+			"size": 3422,
+			"checksum": "sha256:45c2072b0dcffc04ac87199392097c5debefaaac6000997da9f568094278155d"
+		},
+		{
+			"file": "whacko6-08.bmp",
+			"size": 1990,
+			"checksum": "sha256:ebd9539102497cb077de13b933a42097e0514ddd3ab99c9245b9b4bb62e3e168"
+		},
+		{
+			"file": "whacko6-09.bmp",
+			"size": 822,
+			"checksum": "sha256:2085c49c2dbaf5e7120b5156f6ab7d37b73dc2246cb6bfa934d42eb8b1b7e1f7"
+		},
+		{
+			"file": "whacko6-10.bmp",
+			"size": 1438,
+			"checksum": "sha256:0b67a09d80f736c08333f1b0b04732cc8786170fdcd4a94030eb28ef4aa1e0f7"
+		},
+		{
+			"file": "whackorev-eb1.bmp",
+			"size": 1398,
+			"checksum": "sha256:5bdeb86e121ca6763433a7975a745038d7c4503f8ca23152c04de7195403a773"
+		},
+		{
+			"file": "whackorev-soleillevant-mask.bmp",
+			"size": 3874,
+			"checksum": "sha256:bc01eef231cfbbe509b52ebf5ab64d7c0ee7e87c593f5866e27c81d410c5e66c"
+		},
+		{
+			"file": "yi-panton.bmp",
+			"size": 948,
+			"checksum": "sha256:1d4e158a5299389496afee41aece65f023f9483db8782b05252def9705d609f5"
+		},
+		{
+			"file": "Zmzv3_texer.bmp",
+			"size": 9358,
+			"checksum": "sha256:5ad9c1c53613ebab4374722917a99ddcf61bb05b435e95531e4048ed5281eaec"
+		}
+	],
+	"plugins": ["BufferBlend", "ConvolutionFilter", "GlobalVarMan", "Triangle"]
 }

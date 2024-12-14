@@ -1,111 +1,107 @@
 {
-    "name": "VISBOT New People Selection Vol 1",
-    "id": "VB049",
-    "presets": [
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 1/01 a3 - dr worm.avs",
-            "size": 2235,
-            "checksum": "sha256:533832e509920dbeb8b26e36eeef78f00e996de5ded74b4d42cc4784c66e4c32"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 1/02 p-k - preset love.avs",
-            "size": 2672,
-            "checksum": "sha256:15f7ce6e7ad1a09ab46088ae93a7537c8be39ece99c926fab12768fc5956ba4a"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 1/03 oussy - burning rays.avs",
-            "size": 1475,
-            "checksum": "sha256:4c869b2d8353e4f7d0d33b681459cf100776c61cf0c167e67ee1c4e1278cecb8"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 1/04 montana - space monkey (2004 re-edit).avs",
-            "size": 11750,
-            "checksum": "sha256:1b675df6c8dde27fab9eedc403c53d22662981d1332083cf8fdcad442d7895a6"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 1/05 jjcl237 - sweet roll.avs",
-            "size": 2350,
-            "checksum": "sha256:33bf2ecf9796977a8f419ad798412b1adb545f34df8dc288d448fce3348819c8"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 1/06 amphirion - in transit.avs",
-            "size": 3789,
-            "checksum": "sha256:6dc2fe0410728b3ecfc84bee8ea34865bcdc7272f9bd2c87bd16bfe878adac41"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 1/07 a3 - fuk dms.avs",
-            "size": 562,
-            "checksum": "sha256:a912918ae85fbb7996424d6390cbb5d4edf1ec7179b43b0c83e769a59a56e513"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 1/08 les noobiens - pünktchen und anton.avs",
-            "size": 1636,
-            "checksum": "sha256:b8c47cbab3db9f7f0315eb2379f03c13770a0ce6c8ba0d85e6998c3ec7acd189"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 1/09 unripelemon - hypno chess.avs",
-            "size": 931,
-            "checksum": "sha256:bab23617ad5243c0fc6b4d157fe5dd489022700079928f2ea059fd82c457ee98"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 1/10 zxe - hallucination.avs",
-            "size": 650,
-            "checksum": "sha256:08b7596b1aba642ea68557e8c59a55cbc6a3eca44e90436f74b1c47a8529eb4e"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 1/11 synth-c - the construct.avs",
-            "size": 3850,
-            "checksum": "sha256:03e020978fe8df5837d6253946c2f95cca72d4718e29a30aafdd5b1e6a7e5116"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 1/12 musick - ready (yathosho remixed).avs",
-            "size": 651,
-            "checksum": "sha256:f633702110f0804b250f407ebd19d9110f2a14ec68bb183d35979751b950d6c0"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 1/13 p-k - montana tribute.avs",
-            "size": 3063,
-            "checksum": "sha256:830193232b5d54d19aa4077c6c875cab91a0a1df425fc3a0ac84f59bb8f5f6e2"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 1/14 a3 - liposuction.avs",
-            "size": 1548,
-            "checksum": "sha256:c2ff9b17ffd958326c0e0c5e87d37a3134651e7f8a8ff60d91234e7fa1087544"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 1/15 zamuz - explosive virus (infected candies rmx).avs",
-            "size": 3318,
-            "checksum": "sha256:b6664777511e9cb8b1070321abd35ba8fe5d2fb98d45b1a429b7e04ce5ae9617"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 1/16 montana - shibuya109.avs",
-            "size": 1894,
-            "checksum": "sha256:25756ea513dfd916bc6a727bc50d09c8af8cbffe18b1a35415051cc455be5769"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 1/17 skupers - curvsmus (unripelemons sludge remix).avs",
-            "size": 3385,
-            "checksum": "sha256:072b119e9e4f81ca331ec6ff80121859039d4d667600120a916eef23f92870e8"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 1/18 jjcl237 -  the surreal.avs",
-            "size": 2537,
-            "checksum": "sha256:c55900a30ccc31be7debd054f54363f74d972d594829fae200f67bde0c82e1b3"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 1/19 p-k - circles are cool.avs",
-            "size": 2189,
-            "checksum": "sha256:46b4aca1c546191a3a9138589d5acee00cf571a527446203ff41aabd47f3a179"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 1/20 jaak - smoooth (yathosho saku).avs",
-            "size": 3573,
-            "checksum": "sha256:bd34e51edbf46aef9cc82dacd28a4a9a5b23f872e3fa1b848ea466267ab4219f"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter",
-        "GlobalVarMan",
-        "MultiFilter"
-    ]
+	"name": "VISBOT New People Selection Vol 1",
+	"id": "VB049",
+	"presets": [
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 1/01 a3 - dr worm.avs",
+			"size": 2235,
+			"checksum": "sha256:533832e509920dbeb8b26e36eeef78f00e996de5ded74b4d42cc4784c66e4c32"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 1/02 p-k - preset love.avs",
+			"size": 2672,
+			"checksum": "sha256:15f7ce6e7ad1a09ab46088ae93a7537c8be39ece99c926fab12768fc5956ba4a"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 1/03 oussy - burning rays.avs",
+			"size": 1475,
+			"checksum": "sha256:4c869b2d8353e4f7d0d33b681459cf100776c61cf0c167e67ee1c4e1278cecb8"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 1/04 montana - space monkey (2004 re-edit).avs",
+			"size": 11750,
+			"checksum": "sha256:1b675df6c8dde27fab9eedc403c53d22662981d1332083cf8fdcad442d7895a6"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 1/05 jjcl237 - sweet roll.avs",
+			"size": 2350,
+			"checksum": "sha256:33bf2ecf9796977a8f419ad798412b1adb545f34df8dc288d448fce3348819c8"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 1/06 amphirion - in transit.avs",
+			"size": 3789,
+			"checksum": "sha256:6dc2fe0410728b3ecfc84bee8ea34865bcdc7272f9bd2c87bd16bfe878adac41"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 1/07 a3 - fuk dms.avs",
+			"size": 562,
+			"checksum": "sha256:a912918ae85fbb7996424d6390cbb5d4edf1ec7179b43b0c83e769a59a56e513"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 1/08 les noobiens - pünktchen und anton.avs",
+			"size": 1636,
+			"checksum": "sha256:b8c47cbab3db9f7f0315eb2379f03c13770a0ce6c8ba0d85e6998c3ec7acd189"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 1/09 unripelemon - hypno chess.avs",
+			"size": 931,
+			"checksum": "sha256:bab23617ad5243c0fc6b4d157fe5dd489022700079928f2ea059fd82c457ee98"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 1/10 zxe - hallucination.avs",
+			"size": 650,
+			"checksum": "sha256:08b7596b1aba642ea68557e8c59a55cbc6a3eca44e90436f74b1c47a8529eb4e"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 1/11 synth-c - the construct.avs",
+			"size": 3850,
+			"checksum": "sha256:03e020978fe8df5837d6253946c2f95cca72d4718e29a30aafdd5b1e6a7e5116"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 1/12 musick - ready (yathosho remixed).avs",
+			"size": 651,
+			"checksum": "sha256:f633702110f0804b250f407ebd19d9110f2a14ec68bb183d35979751b950d6c0"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 1/13 p-k - montana tribute.avs",
+			"size": 3063,
+			"checksum": "sha256:830193232b5d54d19aa4077c6c875cab91a0a1df425fc3a0ac84f59bb8f5f6e2"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 1/14 a3 - liposuction.avs",
+			"size": 1548,
+			"checksum": "sha256:c2ff9b17ffd958326c0e0c5e87d37a3134651e7f8a8ff60d91234e7fa1087544"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 1/15 zamuz - explosive virus (infected candies rmx).avs",
+			"size": 3318,
+			"checksum": "sha256:b6664777511e9cb8b1070321abd35ba8fe5d2fb98d45b1a429b7e04ce5ae9617"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 1/16 montana - shibuya109.avs",
+			"size": 1894,
+			"checksum": "sha256:25756ea513dfd916bc6a727bc50d09c8af8cbffe18b1a35415051cc455be5769"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 1/17 skupers - curvsmus (unripelemons sludge remix).avs",
+			"size": 3385,
+			"checksum": "sha256:072b119e9e4f81ca331ec6ff80121859039d4d667600120a916eef23f92870e8"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 1/18 jjcl237 -  the surreal.avs",
+			"size": 2537,
+			"checksum": "sha256:c55900a30ccc31be7debd054f54363f74d972d594829fae200f67bde0c82e1b3"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 1/19 p-k - circles are cool.avs",
+			"size": 2189,
+			"checksum": "sha256:46b4aca1c546191a3a9138589d5acee00cf571a527446203ff41aabd47f3a179"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 1/20 jaak - smoooth (yathosho saku).avs",
+			"size": 3573,
+			"checksum": "sha256:bd34e51edbf46aef9cc82dacd28a4a9a5b23f872e3fa1b848ea466267ab4219f"
+		}
+	],
+	"plugins": ["ConvolutionFilter", "GlobalVarMan", "MultiFilter"]
 }

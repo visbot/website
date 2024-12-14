@@ -1,117 +1,114 @@
 {
-    "name": "les Noobiens DIY",
-    "id": "VB114",
-    "presets": [
-        {
-            "file": "les Noobiens/les Noobiens DIY/01 i am a noob.avs",
-            "size": 3130,
-            "checksum": "sha256:6a466327f40cf44d1971a81326923a6871c9c739792957be3933c3adf76e9f9e"
-        },
-        {
-            "file": "les Noobiens/les Noobiens DIY/02 cosmic vagina.avs",
-            "size": 3385,
-            "checksum": "sha256:92460627ad640f417fb9a47e258eb973f997cecd37b9736152263d70b578c0f2"
-        },
-        {
-            "file": "les Noobiens/les Noobiens DIY/03 bumm bumm bumm.avs",
-            "size": 2293,
-            "checksum": "sha256:b6d077f79a63a0151b8460f6932dd83e3d36e5d968f36fce450f79960464cd76"
-        },
-        {
-            "file": "les Noobiens/les Noobiens DIY/04 back to cccp (edit).avs",
-            "size": 1950,
-            "checksum": "sha256:10494116e6c5139ff1f3633939771ad7cb31ce2a8caa1053c2af6c7d495fedb5"
-        },
-        {
-            "file": "les Noobiens/les Noobiens DIY/05 weebly.avs",
-            "size": 2225,
-            "checksum": "sha256:e7dbe7cc8726a365bbc93e2febd1b7f897d2ae0ae47493ee6a45a352af3f7ce6"
-        },
-        {
-            "file": "les Noobiens/les Noobiens DIY/06 x-o-thèque.avs",
-            "size": 2050,
-            "checksum": "sha256:e9a5bd294e634074f424da6c540305b5d8795bc287ef404e79fc3621c0601daa"
-        },
-        {
-            "file": "les Noobiens/les Noobiens DIY/07 2-gummi.avs",
-            "size": 5425,
-            "checksum": "sha256:cbcb2524bf067da669eba00af81bb98a66f5dbc7070c122e4087ccf0481eb0c8"
-        },
-        {
-            "file": "les Noobiens/les Noobiens DIY/08 pünktchen & anton.avs",
-            "size": 2869,
-            "checksum": "sha256:d5c6f2800999fa50f9b01ef4f4d09c8deb551b4c23dc512794e9c51106bc991c"
-        },
-        {
-            "file": "les Noobiens/les Noobiens DIY/09 autobahnnetz.avs",
-            "size": 2477,
-            "checksum": "sha256:e0d82448d789215995a3b589cc5921a5648818e3a44ad74c8f74dd553a00b799"
-        },
-        {
-            "file": "les Noobiens/les Noobiens DIY/10 2-gummi (your remix).avs",
-            "size": 5445,
-            "checksum": "sha256:7d9cbde0c3d563a69e5a910c182cc7b71201747f0b890c467e0ded994d40a437"
-        }
-    ],
-    "assets": [
-        {
-            "file": "2-gummi.clm",
-            "size": 56,
-            "checksum": "sha256:50fe6a3ae35f75d9977b038156509bcb01de48ccb49040cc1ee4907b84afd411"
-        },
-        {
-            "file": "blur_3x3.cff",
-            "size": 297,
-            "checksum": "sha256:9d546b2d4b61217f170e8f2b03db344ef21d6fe7c0903838cabcd5cc7761cb9b"
-        },
-        {
-            "file": "blur_5x5.cff",
-            "size": 297,
-            "checksum": "sha256:215cf1aee49606a0d34aab65781b3df69eb134e9f4376ff960b15c6b3ceca975"
-        },
-        {
-            "file": "blur_7x7.cff",
-            "size": 297,
-            "checksum": "sha256:392f4e403fe90e2b79c52b2e2b5f46218fe9b7ef10ea080fcd3526ffd7775531"
-        },
-        {
-            "file": "mahjongg.clm",
-            "size": 56,
-            "checksum": "sha256:7a07e18a1802414f3871c80016d50025b4d925839b8007d3fcd2eef8d5c41d3b"
-        },
-        {
-            "file": "relief_3x3.cff",
-            "size": 281,
-            "checksum": "sha256:03c7ddc967390f5a0402e45049b6fefe7e2620993c21c023610aee500f180743"
-        },
-        {
-            "file": "visbot.cff",
-            "size": 295,
-            "checksum": "sha256:1240b19185f81786f542ea8e6ca685439a571602fced7a1264e827c778d175ae"
-        },
-        {
-            "file": "Silkscreen_Bold.ttf",
-            "size": 16172,
-            "checksum": "sha256:cecab42faa04cfc5d5f647ead30d3dbd099468b412300c8a94e5612a76052034"
-        },
-        {
-            "file": "Silkscreen_Expanded_Bold.ttf",
-            "size": 16276,
-            "checksum": "sha256:698eac3062b43638b361660bdb096707b09df13bbf084c4dc95b177a8aa83a7b"
-        },
-        {
-            "file": "Silkscreen_Expanded.ttf",
-            "size": 18444,
-            "checksum": "sha256:1204e736ae72865f861e49396d5313f448357983e9c61d8c0110cd2cdefca9d4"
-        },
-        {
-            "file": "Silkscreen.ttf",
-            "size": 18336,
-            "checksum": "sha256:201df110e8dd8f19da40e5ad953b25bcac34dcb1bd14c7b8e02c9ce0b5ac0ca3"
-        }
-    ],
-    "plugins": [
-        "ChannelShift",
-        "ConvolutionFilter"
-    ]
+	"name": "les Noobiens DIY",
+	"id": "VB114",
+	"presets": [
+		{
+			"file": "les Noobiens/les Noobiens DIY/01 i am a noob.avs",
+			"size": 3130,
+			"checksum": "sha256:6a466327f40cf44d1971a81326923a6871c9c739792957be3933c3adf76e9f9e"
+		},
+		{
+			"file": "les Noobiens/les Noobiens DIY/02 cosmic vagina.avs",
+			"size": 3385,
+			"checksum": "sha256:92460627ad640f417fb9a47e258eb973f997cecd37b9736152263d70b578c0f2"
+		},
+		{
+			"file": "les Noobiens/les Noobiens DIY/03 bumm bumm bumm.avs",
+			"size": 2293,
+			"checksum": "sha256:b6d077f79a63a0151b8460f6932dd83e3d36e5d968f36fce450f79960464cd76"
+		},
+		{
+			"file": "les Noobiens/les Noobiens DIY/04 back to cccp (edit).avs",
+			"size": 1950,
+			"checksum": "sha256:10494116e6c5139ff1f3633939771ad7cb31ce2a8caa1053c2af6c7d495fedb5"
+		},
+		{
+			"file": "les Noobiens/les Noobiens DIY/05 weebly.avs",
+			"size": 2225,
+			"checksum": "sha256:e7dbe7cc8726a365bbc93e2febd1b7f897d2ae0ae47493ee6a45a352af3f7ce6"
+		},
+		{
+			"file": "les Noobiens/les Noobiens DIY/06 x-o-thèque.avs",
+			"size": 2050,
+			"checksum": "sha256:e9a5bd294e634074f424da6c540305b5d8795bc287ef404e79fc3621c0601daa"
+		},
+		{
+			"file": "les Noobiens/les Noobiens DIY/07 2-gummi.avs",
+			"size": 5425,
+			"checksum": "sha256:cbcb2524bf067da669eba00af81bb98a66f5dbc7070c122e4087ccf0481eb0c8"
+		},
+		{
+			"file": "les Noobiens/les Noobiens DIY/08 pünktchen & anton.avs",
+			"size": 2869,
+			"checksum": "sha256:d5c6f2800999fa50f9b01ef4f4d09c8deb551b4c23dc512794e9c51106bc991c"
+		},
+		{
+			"file": "les Noobiens/les Noobiens DIY/09 autobahnnetz.avs",
+			"size": 2477,
+			"checksum": "sha256:e0d82448d789215995a3b589cc5921a5648818e3a44ad74c8f74dd553a00b799"
+		},
+		{
+			"file": "les Noobiens/les Noobiens DIY/10 2-gummi (your remix).avs",
+			"size": 5445,
+			"checksum": "sha256:7d9cbde0c3d563a69e5a910c182cc7b71201747f0b890c467e0ded994d40a437"
+		}
+	],
+	"assets": [
+		{
+			"file": "2-gummi.clm",
+			"size": 56,
+			"checksum": "sha256:50fe6a3ae35f75d9977b038156509bcb01de48ccb49040cc1ee4907b84afd411"
+		},
+		{
+			"file": "blur_3x3.cff",
+			"size": 297,
+			"checksum": "sha256:9d546b2d4b61217f170e8f2b03db344ef21d6fe7c0903838cabcd5cc7761cb9b"
+		},
+		{
+			"file": "blur_5x5.cff",
+			"size": 297,
+			"checksum": "sha256:215cf1aee49606a0d34aab65781b3df69eb134e9f4376ff960b15c6b3ceca975"
+		},
+		{
+			"file": "blur_7x7.cff",
+			"size": 297,
+			"checksum": "sha256:392f4e403fe90e2b79c52b2e2b5f46218fe9b7ef10ea080fcd3526ffd7775531"
+		},
+		{
+			"file": "mahjongg.clm",
+			"size": 56,
+			"checksum": "sha256:7a07e18a1802414f3871c80016d50025b4d925839b8007d3fcd2eef8d5c41d3b"
+		},
+		{
+			"file": "relief_3x3.cff",
+			"size": 281,
+			"checksum": "sha256:03c7ddc967390f5a0402e45049b6fefe7e2620993c21c023610aee500f180743"
+		},
+		{
+			"file": "visbot.cff",
+			"size": 295,
+			"checksum": "sha256:1240b19185f81786f542ea8e6ca685439a571602fced7a1264e827c778d175ae"
+		},
+		{
+			"file": "Silkscreen_Bold.ttf",
+			"size": 16172,
+			"checksum": "sha256:cecab42faa04cfc5d5f647ead30d3dbd099468b412300c8a94e5612a76052034"
+		},
+		{
+			"file": "Silkscreen_Expanded_Bold.ttf",
+			"size": 16276,
+			"checksum": "sha256:698eac3062b43638b361660bdb096707b09df13bbf084c4dc95b177a8aa83a7b"
+		},
+		{
+			"file": "Silkscreen_Expanded.ttf",
+			"size": 18444,
+			"checksum": "sha256:1204e736ae72865f861e49396d5313f448357983e9c61d8c0110cd2cdefca9d4"
+		},
+		{
+			"file": "Silkscreen.ttf",
+			"size": 18336,
+			"checksum": "sha256:201df110e8dd8f19da40e5ad953b25bcac34dcb1bd14c7b8e02c9ce0b5ac0ca3"
+		}
+	],
+	"plugins": ["ChannelShift", "ConvolutionFilter"]
 }

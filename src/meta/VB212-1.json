@@ -1,24 +1,22 @@
 {
-    "name": "R2EP",
-    "id": "VB212-1",
-    "presets": [
-        {
-            "file": "Dynamic Duo/R2/R2.0 Prelude/ddo1__amphirion - in the burning [dynamic duo firewalkwithme rework].avs",
-            "size": 4965,
-            "checksum": "sha256:0c1e1f0d37494a2d8b3e1113e0025cc209ec519379dd319d3fd74fe4a97e7a76"
-        },
-        {
-            "file": "Dynamic Duo/R2/R2.0 Prelude/ddo2__dynamic duo - kinematics [ya-tho-sho alternate treatment].avs",
-            "size": 3757,
-            "checksum": "sha256:02a52807983051b86e37e5db98f805584baeb48c638777d4da7f35f83d18e479"
-        },
-        {
-            "file": "Dynamic Duo/R2/R2.0 Prelude/ddo3__zamuz - spiritual [dynamic duo's in-to-the-abyss mix].avs",
-            "size": 3667,
-            "checksum": "sha256:0d8e87aef97a2e702ce732a9cff133d5e781bf089750259b0d4c67fcb73fbec2"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "R2EP",
+	"id": "VB212-1",
+	"presets": [
+		{
+			"file": "Dynamic Duo/R2/R2.0 Prelude/ddo1__amphirion - in the burning [dynamic duo firewalkwithme rework].avs",
+			"size": 4965,
+			"checksum": "sha256:0c1e1f0d37494a2d8b3e1113e0025cc209ec519379dd319d3fd74fe4a97e7a76"
+		},
+		{
+			"file": "Dynamic Duo/R2/R2.0 Prelude/ddo2__dynamic duo - kinematics [ya-tho-sho alternate treatment].avs",
+			"size": 3757,
+			"checksum": "sha256:02a52807983051b86e37e5db98f805584baeb48c638777d4da7f35f83d18e479"
+		},
+		{
+			"file": "Dynamic Duo/R2/R2.0 Prelude/ddo3__zamuz - spiritual [dynamic duo's in-to-the-abyss mix].avs",
+			"size": 3667,
+			"checksum": "sha256:0d8e87aef97a2e702ce732a9cff133d5e781bf089750259b0d4c67fcb73fbec2"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

@@ -1,160 +1,154 @@
 {
-    "name": "mindscapes",
-    "id": "VB112",
-    "presets": [
-        {
-            "file": "Hboy/mindscapes/01 . hboy - hyperlink.avs",
-            "size": 5614,
-            "checksum": "sha256:ac8ae18e5e23d92189a7266616f94ba9cbc3725e678dc056568a1fbb2eb88323"
-        },
-        {
-            "file": "Hboy/mindscapes/02 . hboy - extraterrestrial.avs",
-            "size": 2593,
-            "checksum": "sha256:e1bc2f97f3bb9a4a735e1f1b464bbe6010513b1ca47b31a7fe2bf7e3c95ce52f"
-        },
-        {
-            "file": "Hboy/mindscapes/03 . hboy - jewel.avs",
-            "size": 2722,
-            "checksum": "sha256:6e7838cb6ef9f387e15971f2455f386bf04175b0db6e5893da96ac6b6ee9720f"
-        },
-        {
-            "file": "Hboy/mindscapes/04 . hboy - evasion.avs",
-            "size": 4746,
-            "checksum": "sha256:8a916e6cb6ad7b84fbd83708e3ac7050f2e46f441e1f8eedde6a7dbbbcaee62d"
-        },
-        {
-            "file": "Hboy/mindscapes/05 . hboy - quadrinity.avs",
-            "size": 4319,
-            "checksum": "sha256:0b76cfb88d8a8426fc39378e83df6e38c4f40c5f019d1dd53b7b0df784b3f45e"
-        },
-        {
-            "file": "Hboy/mindscapes/06 . hboy - makeawish.avs",
-            "size": 4029,
-            "checksum": "sha256:2130c4f92360935e467ad6b0e741945dfb4d06f68e7a7727ae125922acb6a6f8"
-        },
-        {
-            "file": "Hboy/mindscapes/07 . hboy - cubus.avs",
-            "size": 4280,
-            "checksum": "sha256:80ed74560d0b7e9fa53d31ba0b66eb193a28ebfea3a6d3c73565ddf0079f5869"
-        },
-        {
-            "file": "Hboy/mindscapes/08 . hboy - orifice.avs",
-            "size": 15571,
-            "checksum": "sha256:e6210b142b2ba0b45730a98aaf7896bb4e7c78f1a268e3d25303256186e074fd"
-        },
-        {
-            "file": "Hboy/mindscapes/09 . hboy - the inner galaxy.avs",
-            "size": 8284,
-            "checksum": "sha256:05b89cd6a0bba5166b99be6ddbe81faedc142b9477f566c7927560902f091275"
-        },
-        {
-            "file": "Hboy/mindscapes/10 . hboy - nonfigurative (fire).avs",
-            "size": 24942,
-            "checksum": "sha256:4cbe4465c83ee07ac6f5a909d383c8e4b1b873b1f7722185a6e1faf5e84a0f19"
-        },
-        {
-            "file": "Hboy/mindscapes/11 . hboy - nonfigurative (blobs).avs",
-            "size": 33173,
-            "checksum": "sha256:ea3b3aa08e95cc6f918618b16aad27e8183dff5db1f6aa7697ee5cc4a154ae14"
-        },
-        {
-            "file": "Hboy/mindscapes/12 . hboy - angel.avs",
-            "size": 9050,
-            "checksum": "sha256:215fe55b4dacb56ed561ad69dbdd3cae589b64f0cb5876d094069b4577e23651"
-        },
-        {
-            "file": "Hboy/mindscapes/13 . hboy - lights of eternity.avs",
-            "size": 2202,
-            "checksum": "sha256:20e3b8c0ddd21f5f53ed3d8e706e449115ae8c38e32cb2e1b4dcbede64d52ffd"
-        },
-        {
-            "file": "Hboy/mindscapes/14 . hboy - processor.avs",
-            "size": 22666,
-            "checksum": "sha256:9d4828e1c98ef4b84cc5884e9437a69087df902c93e35280f703cb69201c272c"
-        },
-        {
-            "file": "Hboy/mindscapes/15 . hboy - satin.avs",
-            "size": 7434,
-            "checksum": "sha256:d5f68ccf68e2e14e506c9e830a14ab4fd0e4d05e789268aa1b0a7e5c588acc7a"
-        },
-        {
-            "file": "Hboy/mindscapes/16 . nemo - Superscape.avs",
-            "size": 1330,
-            "checksum": "sha256:1d09bf835244682c2f46a175bb75a7957c81385632282c572b71a0b049f35856"
-        },
-        {
-            "file": "Hboy/mindscapes/17 . nemo - Conceptual dream.avs",
-            "size": 2810,
-            "checksum": "sha256:400e8609f4fc7c8c24741d87996a2771ccebc1747c068d9a7bc02ccf3a489084"
-        },
-        {
-            "file": "Hboy/mindscapes/18 . hboy - jewel (hboy's brillance mix).avs",
-            "size": 2657,
-            "checksum": "sha256:b51dbddf2343eedf73470445a62937ceb0d5293a52ec91839ddfdbc8dbc50cb4"
-        },
-        {
-            "file": "Hboy/mindscapes/19 . hboy - memoire.avs",
-            "size": 4960,
-            "checksum": "sha256:e9218634decaa1a0e6b098b10cfd27aa58f9272dfab755e1a9a479410c9058ac"
-        },
-        {
-            "file": "Hboy/mindscapes/20 . yathosho - fragile (yathosho's broken fractions mix).avs",
-            "size": 4823,
-            "checksum": "sha256:694e7cba0c57f064ff00e2e0aa0b985f29c1782925a8a3b42ae03d0b72dd0e0a"
-        }
-    ],
-    "assets": [
-        {
-            "file": "avsres_texer_circle_heavyblur_29x29.bmp",
-            "size": 2606,
-            "checksum": "sha256:f774cf10d56275d629f321163dbc610fee02b0e892c9065b0931564240bf078d"
-        },
-        {
-            "file": "avsres_texer_circle_sharp_11x11.bmp",
-            "size": 574,
-            "checksum": "sha256:834aadff3c131183f1d1fb76010c64317c7f638008d06a769ba29a68a9aed73a"
-        },
-        {
-            "file": "avsres_texer_circle_sharp_27x27.bmp",
-            "size": 2606,
-            "checksum": "sha256:53f96e5f860b7ece905c92aa6253a3445a571f55c9a6ac4a9ee3df6bea56e65a"
-        },
-        {
-            "file": "avsres_texer_square_fade_30x30.bmp",
-            "size": 2814,
-            "checksum": "sha256:12bdc0b6a44fc540c0c84f7e704a6c9bb6885676ba39652b1ef0b1121701e089"
-        },
-        {
-            "file": "avsres_texer_square_sharp_28x28.bmp",
-            "size": 3126,
-            "checksum": "sha256:11ec412bcb0bb94f3c925a53aeb2385eac18ad573484b0fc0f86754320a1d0ac"
-        },
-        {
-            "file": "Hboy_nineteen_texer1.bmp",
-            "size": 30054,
-            "checksum": "sha256:15608b6525bcb0f5f79e73de4dd051e02f9a8bb183f6abcad0ddddd1de79393e"
-        },
-        {
-            "file": "hboy_texer_2.bmp",
-            "size": 30054,
-            "checksum": "sha256:15608b6525bcb0f5f79e73de4dd051e02f9a8bb183f6abcad0ddddd1de79393e"
-        },
-        {
-            "file": "Shreyas-IV-01 resized.bmp",
-            "size": 17156,
-            "checksum": "sha256:3382c771e3d3a376253a849684de6a299dbfe67ae96c84e236bbb8269db416f7"
-        },
-        {
-            "file": "Shreyas-IV-01.bmp",
-            "size": 36342,
-            "checksum": "sha256:10bf973044414dbea4dfaf77de57d7de4d3a871f0fc057bda1a3f699e202a411"
-        }
-    ],
-    "plugins": [
-        "AddBorder",
-        "ConvolutionFilter",
-        "GlobalVarMan",
-        "MultiFilter",
-        "Triangle"
-    ]
+	"name": "mindscapes",
+	"id": "VB112",
+	"presets": [
+		{
+			"file": "Hboy/mindscapes/01 . hboy - hyperlink.avs",
+			"size": 5614,
+			"checksum": "sha256:ac8ae18e5e23d92189a7266616f94ba9cbc3725e678dc056568a1fbb2eb88323"
+		},
+		{
+			"file": "Hboy/mindscapes/02 . hboy - extraterrestrial.avs",
+			"size": 2593,
+			"checksum": "sha256:e1bc2f97f3bb9a4a735e1f1b464bbe6010513b1ca47b31a7fe2bf7e3c95ce52f"
+		},
+		{
+			"file": "Hboy/mindscapes/03 . hboy - jewel.avs",
+			"size": 2722,
+			"checksum": "sha256:6e7838cb6ef9f387e15971f2455f386bf04175b0db6e5893da96ac6b6ee9720f"
+		},
+		{
+			"file": "Hboy/mindscapes/04 . hboy - evasion.avs",
+			"size": 4746,
+			"checksum": "sha256:8a916e6cb6ad7b84fbd83708e3ac7050f2e46f441e1f8eedde6a7dbbbcaee62d"
+		},
+		{
+			"file": "Hboy/mindscapes/05 . hboy - quadrinity.avs",
+			"size": 4319,
+			"checksum": "sha256:0b76cfb88d8a8426fc39378e83df6e38c4f40c5f019d1dd53b7b0df784b3f45e"
+		},
+		{
+			"file": "Hboy/mindscapes/06 . hboy - makeawish.avs",
+			"size": 4029,
+			"checksum": "sha256:2130c4f92360935e467ad6b0e741945dfb4d06f68e7a7727ae125922acb6a6f8"
+		},
+		{
+			"file": "Hboy/mindscapes/07 . hboy - cubus.avs",
+			"size": 4280,
+			"checksum": "sha256:80ed74560d0b7e9fa53d31ba0b66eb193a28ebfea3a6d3c73565ddf0079f5869"
+		},
+		{
+			"file": "Hboy/mindscapes/08 . hboy - orifice.avs",
+			"size": 15571,
+			"checksum": "sha256:e6210b142b2ba0b45730a98aaf7896bb4e7c78f1a268e3d25303256186e074fd"
+		},
+		{
+			"file": "Hboy/mindscapes/09 . hboy - the inner galaxy.avs",
+			"size": 8284,
+			"checksum": "sha256:05b89cd6a0bba5166b99be6ddbe81faedc142b9477f566c7927560902f091275"
+		},
+		{
+			"file": "Hboy/mindscapes/10 . hboy - nonfigurative (fire).avs",
+			"size": 24942,
+			"checksum": "sha256:4cbe4465c83ee07ac6f5a909d383c8e4b1b873b1f7722185a6e1faf5e84a0f19"
+		},
+		{
+			"file": "Hboy/mindscapes/11 . hboy - nonfigurative (blobs).avs",
+			"size": 33173,
+			"checksum": "sha256:ea3b3aa08e95cc6f918618b16aad27e8183dff5db1f6aa7697ee5cc4a154ae14"
+		},
+		{
+			"file": "Hboy/mindscapes/12 . hboy - angel.avs",
+			"size": 9050,
+			"checksum": "sha256:215fe55b4dacb56ed561ad69dbdd3cae589b64f0cb5876d094069b4577e23651"
+		},
+		{
+			"file": "Hboy/mindscapes/13 . hboy - lights of eternity.avs",
+			"size": 2202,
+			"checksum": "sha256:20e3b8c0ddd21f5f53ed3d8e706e449115ae8c38e32cb2e1b4dcbede64d52ffd"
+		},
+		{
+			"file": "Hboy/mindscapes/14 . hboy - processor.avs",
+			"size": 22666,
+			"checksum": "sha256:9d4828e1c98ef4b84cc5884e9437a69087df902c93e35280f703cb69201c272c"
+		},
+		{
+			"file": "Hboy/mindscapes/15 . hboy - satin.avs",
+			"size": 7434,
+			"checksum": "sha256:d5f68ccf68e2e14e506c9e830a14ab4fd0e4d05e789268aa1b0a7e5c588acc7a"
+		},
+		{
+			"file": "Hboy/mindscapes/16 . nemo - Superscape.avs",
+			"size": 1330,
+			"checksum": "sha256:1d09bf835244682c2f46a175bb75a7957c81385632282c572b71a0b049f35856"
+		},
+		{
+			"file": "Hboy/mindscapes/17 . nemo - Conceptual dream.avs",
+			"size": 2810,
+			"checksum": "sha256:400e8609f4fc7c8c24741d87996a2771ccebc1747c068d9a7bc02ccf3a489084"
+		},
+		{
+			"file": "Hboy/mindscapes/18 . hboy - jewel (hboy's brillance mix).avs",
+			"size": 2657,
+			"checksum": "sha256:b51dbddf2343eedf73470445a62937ceb0d5293a52ec91839ddfdbc8dbc50cb4"
+		},
+		{
+			"file": "Hboy/mindscapes/19 . hboy - memoire.avs",
+			"size": 4960,
+			"checksum": "sha256:e9218634decaa1a0e6b098b10cfd27aa58f9272dfab755e1a9a479410c9058ac"
+		},
+		{
+			"file": "Hboy/mindscapes/20 . yathosho - fragile (yathosho's broken fractions mix).avs",
+			"size": 4823,
+			"checksum": "sha256:694e7cba0c57f064ff00e2e0aa0b985f29c1782925a8a3b42ae03d0b72dd0e0a"
+		}
+	],
+	"assets": [
+		{
+			"file": "avsres_texer_circle_heavyblur_29x29.bmp",
+			"size": 2606,
+			"checksum": "sha256:f774cf10d56275d629f321163dbc610fee02b0e892c9065b0931564240bf078d"
+		},
+		{
+			"file": "avsres_texer_circle_sharp_11x11.bmp",
+			"size": 574,
+			"checksum": "sha256:834aadff3c131183f1d1fb76010c64317c7f638008d06a769ba29a68a9aed73a"
+		},
+		{
+			"file": "avsres_texer_circle_sharp_27x27.bmp",
+			"size": 2606,
+			"checksum": "sha256:53f96e5f860b7ece905c92aa6253a3445a571f55c9a6ac4a9ee3df6bea56e65a"
+		},
+		{
+			"file": "avsres_texer_square_fade_30x30.bmp",
+			"size": 2814,
+			"checksum": "sha256:12bdc0b6a44fc540c0c84f7e704a6c9bb6885676ba39652b1ef0b1121701e089"
+		},
+		{
+			"file": "avsres_texer_square_sharp_28x28.bmp",
+			"size": 3126,
+			"checksum": "sha256:11ec412bcb0bb94f3c925a53aeb2385eac18ad573484b0fc0f86754320a1d0ac"
+		},
+		{
+			"file": "Hboy_nineteen_texer1.bmp",
+			"size": 30054,
+			"checksum": "sha256:15608b6525bcb0f5f79e73de4dd051e02f9a8bb183f6abcad0ddddd1de79393e"
+		},
+		{
+			"file": "hboy_texer_2.bmp",
+			"size": 30054,
+			"checksum": "sha256:15608b6525bcb0f5f79e73de4dd051e02f9a8bb183f6abcad0ddddd1de79393e"
+		},
+		{
+			"file": "Shreyas-IV-01 resized.bmp",
+			"size": 17156,
+			"checksum": "sha256:3382c771e3d3a376253a849684de6a299dbfe67ae96c84e236bbb8269db416f7"
+		},
+		{
+			"file": "Shreyas-IV-01.bmp",
+			"size": 36342,
+			"checksum": "sha256:10bf973044414dbea4dfaf77de57d7de4d3a871f0fc057bda1a3f699e202a411"
+		}
+	],
+	"plugins": ["AddBorder", "ConvolutionFilter", "GlobalVarMan", "MultiFilter", "Triangle"]
 }

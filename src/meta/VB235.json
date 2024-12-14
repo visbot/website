@@ -1,76 +1,76 @@
 {
-    "name": "sEP . hentes",
-    "id": "VB235",
-    "presets": [
-        {
-            "file": "frames.of.reality/sEP . hentes/001 . grandchild . trizoid zebras retouch phase one.avs",
-            "size": 9683,
-            "checksum": "sha256:e1e6cea0b2732bc2efacd9aed15e6ddf263de6937f2633d05047866bf4af20f9"
-        },
-        {
-            "file": "frames.of.reality/sEP . hentes/002 . amphirion . egotrip retouch.avs",
-            "size": 9086,
-            "checksum": "sha256:3d48e9eb4ebca91c791711e370457c703fa071592af961c3b692570b72c96c0e"
-        },
-        {
-            "file": "frames.of.reality/sEP . hentes/003 . effekthasch - theory of pretty much everything retouch phase two.avs",
-            "size": 7329,
-            "checksum": "sha256:39787eb60e5bd9fd6e4fe875b9787089b47765f9ed3a63a0c8d6c4d6aff60b98"
-        },
-        {
-            "file": "frames.of.reality/sEP . hentes/004 . rainbow unicorn demo.avs",
-            "size": 2544,
-            "checksum": "sha256:ed5b32d6e0a683a33c6f623fbcd06367daa9969fdcc4201c7854cda403194ebf"
-        },
-        {
-            "file": "frames.of.reality/sEP . hentes/005 . micro.d . blaha lujza hajnali egy.avs",
-            "size": 7681,
-            "checksum": "sha256:0eccf84cf1fe02b9dfb955c72523d01264113dcf6f5f8083dbcb3714fc6eefff"
-        },
-        {
-            "file": "frames.of.reality/sEP . hentes/006 . grandchild . trizoid zebras retouch phase three.avs",
-            "size": 9695,
-            "checksum": "sha256:29d265e1aab52c123b85c508daf837a5585fe0694a5de9a95d1f924c6c21cb69"
-        }
-    ],
-    "assets": [
-        {
-            "file": "avsres_texer_circle_heavyblur_29x29.bmp",
-            "size": 2606,
-            "checksum": "sha256:f774cf10d56275d629f321163dbc610fee02b0e892c9065b0931564240bf078d"
-        },
-        {
-            "file": "avsres_texer_circle_sharp_17x17.bmp",
-            "size": 1194,
-            "checksum": "sha256:31d52f73c76abfe7928248f3531a8eb77fdcbc48e398797d16ec183d0389c5db"
-        },
-        {
-            "file": "avsres_texer_circle_sharp_25x25.bmp",
-            "size": 2322,
-            "checksum": "sha256:e8d6d4c06b831887f398c7b8a59bec494f4806aec5f568dff3fb3f771e3d3ea7"
-        },
-        {
-            "file": "avsres_texer_circle_sharp_29x29.bmp",
-            "size": 3030,
-            "checksum": "sha256:2d057959257346e2b9a8922504ad51ff7d2608d6bd591659a7fa08d07406366a"
-        },
-        {
-            "file": "gc - angel beam 14x14.bmp",
-            "size": 672,
-            "checksum": "sha256:768cf472e40c54b3d57faa79c37ab29b8bcaf3b6d33db9b3741523ea9d31f783"
-        }
-    ],
-    "plugins": [
-        "AddBorder",
-        "BufferBlend",
-        "ChannelShift",
-        "ColorMap",
-        "ColorReduction",
-        "ConvolutionFilter",
-        "Multiplier",
-        "Texer2",
-        "TransAuto",
-        "Triangle",
-        "VideoDelay"
-    ]
+	"name": "sEP . hentes",
+	"id": "VB235",
+	"presets": [
+		{
+			"file": "frames.of.reality/sEP . hentes/001 . grandchild . trizoid zebras retouch phase one.avs",
+			"size": 9683,
+			"checksum": "sha256:e1e6cea0b2732bc2efacd9aed15e6ddf263de6937f2633d05047866bf4af20f9"
+		},
+		{
+			"file": "frames.of.reality/sEP . hentes/002 . amphirion . egotrip retouch.avs",
+			"size": 9086,
+			"checksum": "sha256:3d48e9eb4ebca91c791711e370457c703fa071592af961c3b692570b72c96c0e"
+		},
+		{
+			"file": "frames.of.reality/sEP . hentes/003 . effekthasch - theory of pretty much everything retouch phase two.avs",
+			"size": 7329,
+			"checksum": "sha256:39787eb60e5bd9fd6e4fe875b9787089b47765f9ed3a63a0c8d6c4d6aff60b98"
+		},
+		{
+			"file": "frames.of.reality/sEP . hentes/004 . rainbow unicorn demo.avs",
+			"size": 2544,
+			"checksum": "sha256:ed5b32d6e0a683a33c6f623fbcd06367daa9969fdcc4201c7854cda403194ebf"
+		},
+		{
+			"file": "frames.of.reality/sEP . hentes/005 . micro.d . blaha lujza hajnali egy.avs",
+			"size": 7681,
+			"checksum": "sha256:0eccf84cf1fe02b9dfb955c72523d01264113dcf6f5f8083dbcb3714fc6eefff"
+		},
+		{
+			"file": "frames.of.reality/sEP . hentes/006 . grandchild . trizoid zebras retouch phase three.avs",
+			"size": 9695,
+			"checksum": "sha256:29d265e1aab52c123b85c508daf837a5585fe0694a5de9a95d1f924c6c21cb69"
+		}
+	],
+	"assets": [
+		{
+			"file": "avsres_texer_circle_heavyblur_29x29.bmp",
+			"size": 2606,
+			"checksum": "sha256:f774cf10d56275d629f321163dbc610fee02b0e892c9065b0931564240bf078d"
+		},
+		{
+			"file": "avsres_texer_circle_sharp_17x17.bmp",
+			"size": 1194,
+			"checksum": "sha256:31d52f73c76abfe7928248f3531a8eb77fdcbc48e398797d16ec183d0389c5db"
+		},
+		{
+			"file": "avsres_texer_circle_sharp_25x25.bmp",
+			"size": 2322,
+			"checksum": "sha256:e8d6d4c06b831887f398c7b8a59bec494f4806aec5f568dff3fb3f771e3d3ea7"
+		},
+		{
+			"file": "avsres_texer_circle_sharp_29x29.bmp",
+			"size": 3030,
+			"checksum": "sha256:2d057959257346e2b9a8922504ad51ff7d2608d6bd591659a7fa08d07406366a"
+		},
+		{
+			"file": "gc - angel beam 14x14.bmp",
+			"size": 672,
+			"checksum": "sha256:768cf472e40c54b3d57faa79c37ab29b8bcaf3b6d33db9b3741523ea9d31f783"
+		}
+	],
+	"plugins": [
+		"AddBorder",
+		"BufferBlend",
+		"ChannelShift",
+		"ColorMap",
+		"ColorReduction",
+		"ConvolutionFilter",
+		"Multiplier",
+		"Texer2",
+		"TransAuto",
+		"Triangle",
+		"VideoDelay"
+	]
 }

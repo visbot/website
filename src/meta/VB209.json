@@ -1,46 +1,44 @@
 {
-    "name": "Dx 3x3",
-    "id": "VB209",
-    "presets": [
-        {
-            "file": "Dynamic Duo/Dx 3x3/ddA1__victoria's secret (ya-tho-sho treatment).avs",
-            "size": 4166,
-            "checksum": "sha256:13041ee37a2558601c19c3b498f06d866b92672eb7b552db67403cc24a7590bd"
-        },
-        {
-            "file": "Dynamic Duo/Dx 3x3/ddA2__tentaclism (da vinci's sketchbook remix by grandchild & hurricane).avs",
-            "size": 4813,
-            "checksum": "sha256:6bd37039faf9e620c4492f10be54e2317d9a764f07e990a181d9afd15bcbbc41"
-        },
-        {
-            "file": "Dynamic Duo/Dx 3x3/ddA3__skreamizm (5ifth mix by drew).avs",
-            "size": 4695,
-            "checksum": "sha256:69553c31099562849a5030bec019104d7633cf5f6ae27f4b307820267280f788"
-        },
-        {
-            "file": "Dynamic Duo/Dx 3x3/ddB1__hentai (ritalian remix by frames-of-reality).avs",
-            "size": 7293,
-            "checksum": "sha256:ce203259006ca3dd1dbcdabc0d22b537d26690ed8a78a4b63a871f887c588f62"
-        },
-        {
-            "file": "Dynamic Duo/Dx 3x3/ddB2__liquid (pan am rephix).avs",
-            "size": 11183,
-            "checksum": "sha256:a510aff847a37511d6f161458370d1c945d91587c6ce4965da9e50b62d32aa17"
-        },
-        {
-            "file": "Dynamic Duo/Dx 3x3/ddB3__hypersonic ii (fake onionring rmx).avs",
-            "size": 4877,
-            "checksum": "sha256:2bfcdac5c79df0da4a67fef7c0db1a8c5998652db9c229fbba6bf2ad7b4b1fac"
-        }
-    ],
-    "assets": [
-        {
-            "file": "skupers_lp6_02.bmp",
-            "size": 10856,
-            "checksum": "sha256:aaeb13486d7082c888a556012a3ea574dc4c651b01510ae9722a1ce184f8fd03"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "Dx 3x3",
+	"id": "VB209",
+	"presets": [
+		{
+			"file": "Dynamic Duo/Dx 3x3/ddA1__victoria's secret (ya-tho-sho treatment).avs",
+			"size": 4166,
+			"checksum": "sha256:13041ee37a2558601c19c3b498f06d866b92672eb7b552db67403cc24a7590bd"
+		},
+		{
+			"file": "Dynamic Duo/Dx 3x3/ddA2__tentaclism (da vinci's sketchbook remix by grandchild & hurricane).avs",
+			"size": 4813,
+			"checksum": "sha256:6bd37039faf9e620c4492f10be54e2317d9a764f07e990a181d9afd15bcbbc41"
+		},
+		{
+			"file": "Dynamic Duo/Dx 3x3/ddA3__skreamizm (5ifth mix by drew).avs",
+			"size": 4695,
+			"checksum": "sha256:69553c31099562849a5030bec019104d7633cf5f6ae27f4b307820267280f788"
+		},
+		{
+			"file": "Dynamic Duo/Dx 3x3/ddB1__hentai (ritalian remix by frames-of-reality).avs",
+			"size": 7293,
+			"checksum": "sha256:ce203259006ca3dd1dbcdabc0d22b537d26690ed8a78a4b63a871f887c588f62"
+		},
+		{
+			"file": "Dynamic Duo/Dx 3x3/ddB2__liquid (pan am rephix).avs",
+			"size": 11183,
+			"checksum": "sha256:a510aff847a37511d6f161458370d1c945d91587c6ce4965da9e50b62d32aa17"
+		},
+		{
+			"file": "Dynamic Duo/Dx 3x3/ddB3__hypersonic ii (fake onionring rmx).avs",
+			"size": 4877,
+			"checksum": "sha256:2bfcdac5c79df0da4a67fef7c0db1a8c5998652db9c229fbba6bf2ad7b4b1fac"
+		}
+	],
+	"assets": [
+		{
+			"file": "skupers_lp6_02.bmp",
+			"size": 10856,
+			"checksum": "sha256:aaeb13486d7082c888a556012a3ea574dc4c651b01510ae9722a1ce184f8fd03"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

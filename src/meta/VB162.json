@@ -1,34 +1,32 @@
 {
-    "name": "les Noobiens scrapper's delight",
-    "id": "VB162",
-    "presets": [
-        {
-            "file": "les Noobiens/les Noobiens scrapper's delight/lNa1 les Noobiens - mad cow disease.avs",
-            "size": 1737,
-            "checksum": "sha256:99665ca10154fd410c035294e96581da5283c450ef3f3ca6d189f097dec44ba4"
-        },
-        {
-            "file": "les Noobiens/les Noobiens scrapper's delight/lNa2 les Noobiens - enter the noobcore (pan am remix).avs",
-            "size": 4142,
-            "checksum": "sha256:45ff2c3a87af75bf409609e9647314c8075a0476fc4e221eb72a7ab003680469"
-        },
-        {
-            "file": "les Noobiens/les Noobiens scrapper's delight/lNa3 marco - mora (les Noobiens µx).avs",
-            "size": 3056,
-            "checksum": "sha256:784c3b290b60d41a8f47517b75594b78447dea498735841a55f845696b8f6403"
-        },
-        {
-            "file": "les Noobiens/les Noobiens scrapper's delight/lNb1 onionring - color trends (les noobiens summer vibes mix #2).avs",
-            "size": 2507,
-            "checksum": "sha256:6c2c6dc7eeb79c3990cd57ab5fccf74be884cdc09f510d195f5dd12479f4a811"
-        },
-        {
-            "file": "les Noobiens/les Noobiens scrapper's delight/lNb2 onionring - color trends (les noobiens summer vibes edit).avs",
-            "size": 2505,
-            "checksum": "sha256:4d1b0f9b44382d4bb29378fef6b5742ec226fc05effbae36a3f4d7593067378b"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "les Noobiens scrapper's delight",
+	"id": "VB162",
+	"presets": [
+		{
+			"file": "les Noobiens/les Noobiens scrapper's delight/lNa1 les Noobiens - mad cow disease.avs",
+			"size": 1737,
+			"checksum": "sha256:99665ca10154fd410c035294e96581da5283c450ef3f3ca6d189f097dec44ba4"
+		},
+		{
+			"file": "les Noobiens/les Noobiens scrapper's delight/lNa2 les Noobiens - enter the noobcore (pan am remix).avs",
+			"size": 4142,
+			"checksum": "sha256:45ff2c3a87af75bf409609e9647314c8075a0476fc4e221eb72a7ab003680469"
+		},
+		{
+			"file": "les Noobiens/les Noobiens scrapper's delight/lNa3 marco - mora (les Noobiens µx).avs",
+			"size": 3056,
+			"checksum": "sha256:784c3b290b60d41a8f47517b75594b78447dea498735841a55f845696b8f6403"
+		},
+		{
+			"file": "les Noobiens/les Noobiens scrapper's delight/lNb1 onionring - color trends (les noobiens summer vibes mix #2).avs",
+			"size": 2507,
+			"checksum": "sha256:6c2c6dc7eeb79c3990cd57ab5fccf74be884cdc09f510d195f5dd12479f4a811"
+		},
+		{
+			"file": "les Noobiens/les Noobiens scrapper's delight/lNb2 onionring - color trends (les noobiens summer vibes edit).avs",
+			"size": 2505,
+			"checksum": "sha256:4d1b0f9b44382d4bb29378fef6b5742ec226fc05effbae36a3f4d7593067378b"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

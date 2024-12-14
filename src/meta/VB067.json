@@ -1,81 +1,77 @@
 {
-    "name": "Scenery",
-    "id": "VB067",
-    "presets": [
-        {
-            "file": "NemoOrange/ascii_scene.avs",
-            "size": 14281,
-            "checksum": "sha256:621c72d6cc22cc0f9864cbb557166c36743950dbeb669658d568c7335cec029c"
-        },
-        {
-            "file": "NemoOrange/Scenery/45.avs",
-            "size": 124835,
-            "checksum": "sha256:d725684de36b4f02f8f4ecbaa7219264ae59ccceea01b603ab0175f28b14c46a"
-        },
-        {
-            "file": "NemoOrange/Scenery/amc.avs",
-            "size": 23429,
-            "checksum": "sha256:bba384398605cda4b06d9b12b67a311becf47aadf63a817e1cc0c45604cebabb"
-        },
-        {
-            "file": "NemoOrange/Scenery/balloons.avs",
-            "size": 40903,
-            "checksum": "sha256:f0c9bc0c1c57ebcdf85d5efdf6d1360394c3e309ef721bc5d47e1cc1fdbf2a09"
-        },
-        {
-            "file": "NemoOrange/Scenery/blossom.avs",
-            "size": 15818,
-            "checksum": "sha256:74dd468304d1860bbe06c3070288722de367ea5bc3042f165a37f092645d3901"
-        },
-        {
-            "file": "NemoOrange/Scenery/fabric.avs",
-            "size": 8763,
-            "checksum": "sha256:ce992a6cbb2c1165ac1d48f65d169a6ec16c8005abb52010b8c73ab13f771a68"
-        },
-        {
-            "file": "NemoOrange/Scenery/floors.avs",
-            "size": 1849,
-            "checksum": "sha256:842208d4c9ddfd2b5d26f43575b630968b3db787cf5f584fe48de55677d94e8c"
-        },
-        {
-            "file": "NemoOrange/Scenery/isotimescope.avs",
-            "size": 954,
-            "checksum": "sha256:3b9ca65aa74e413722ea2e1eb18ff9408cc9b3a097f5a3fe76353ee6ebb91542"
-        },
-        {
-            "file": "NemoOrange/Scenery/ivy.avs",
-            "size": 12662,
-            "checksum": "sha256:1d966236ac78d7320418bc572ce9a0fc48f9b3b8c0375efe8adad8d7bdcbeada"
-        },
-        {
-            "file": "NemoOrange/Scenery/mizaik.avs",
-            "size": 6323,
-            "checksum": "sha256:5010c43d85a6d67e057f8460ab2dcf481103d1a0c1cff016fa9e69a8712eb1d2"
-        },
-        {
-            "file": "NemoOrange/Scenery/pipedream.avs",
-            "size": 8374,
-            "checksum": "sha256:1da794a150b7a71d113376a1630d5022557031c4c3379d78249e82e14bd5d530"
-        },
-        {
-            "file": "NemoOrange/Scenery/popples.avs",
-            "size": 19017,
-            "checksum": "sha256:afea9e895cf8216ac26619643f773402306902608dccb7c284ae08020401aec1"
-        },
-        {
-            "file": "NemoOrange/Scenery/shadowplay.avs",
-            "size": 4307,
-            "checksum": "sha256:8e651a9d89f1d3c6b1417d5833cbb38040d4b114b447cd23166997e06e481120"
-        },
-        {
-            "file": "NemoOrange/Scenery/symphony.avs",
-            "size": 87872,
-            "checksum": "sha256:306b3de30d50706655c9eb6a7f573d29182adceb6b8a5f1b1616ab5c83ef7a89"
-        }
-    ],
-    "plugins": [
-        "BufferBlend",
-        "ConvolutionFilter",
-        "GlobalVarMan"
-    ]
+	"name": "Scenery",
+	"id": "VB067",
+	"presets": [
+		{
+			"file": "NemoOrange/ascii_scene.avs",
+			"size": 14281,
+			"checksum": "sha256:621c72d6cc22cc0f9864cbb557166c36743950dbeb669658d568c7335cec029c"
+		},
+		{
+			"file": "NemoOrange/Scenery/45.avs",
+			"size": 124835,
+			"checksum": "sha256:d725684de36b4f02f8f4ecbaa7219264ae59ccceea01b603ab0175f28b14c46a"
+		},
+		{
+			"file": "NemoOrange/Scenery/amc.avs",
+			"size": 23429,
+			"checksum": "sha256:bba384398605cda4b06d9b12b67a311becf47aadf63a817e1cc0c45604cebabb"
+		},
+		{
+			"file": "NemoOrange/Scenery/balloons.avs",
+			"size": 40903,
+			"checksum": "sha256:f0c9bc0c1c57ebcdf85d5efdf6d1360394c3e309ef721bc5d47e1cc1fdbf2a09"
+		},
+		{
+			"file": "NemoOrange/Scenery/blossom.avs",
+			"size": 15818,
+			"checksum": "sha256:74dd468304d1860bbe06c3070288722de367ea5bc3042f165a37f092645d3901"
+		},
+		{
+			"file": "NemoOrange/Scenery/fabric.avs",
+			"size": 8763,
+			"checksum": "sha256:ce992a6cbb2c1165ac1d48f65d169a6ec16c8005abb52010b8c73ab13f771a68"
+		},
+		{
+			"file": "NemoOrange/Scenery/floors.avs",
+			"size": 1849,
+			"checksum": "sha256:842208d4c9ddfd2b5d26f43575b630968b3db787cf5f584fe48de55677d94e8c"
+		},
+		{
+			"file": "NemoOrange/Scenery/isotimescope.avs",
+			"size": 954,
+			"checksum": "sha256:3b9ca65aa74e413722ea2e1eb18ff9408cc9b3a097f5a3fe76353ee6ebb91542"
+		},
+		{
+			"file": "NemoOrange/Scenery/ivy.avs",
+			"size": 12662,
+			"checksum": "sha256:1d966236ac78d7320418bc572ce9a0fc48f9b3b8c0375efe8adad8d7bdcbeada"
+		},
+		{
+			"file": "NemoOrange/Scenery/mizaik.avs",
+			"size": 6323,
+			"checksum": "sha256:5010c43d85a6d67e057f8460ab2dcf481103d1a0c1cff016fa9e69a8712eb1d2"
+		},
+		{
+			"file": "NemoOrange/Scenery/pipedream.avs",
+			"size": 8374,
+			"checksum": "sha256:1da794a150b7a71d113376a1630d5022557031c4c3379d78249e82e14bd5d530"
+		},
+		{
+			"file": "NemoOrange/Scenery/popples.avs",
+			"size": 19017,
+			"checksum": "sha256:afea9e895cf8216ac26619643f773402306902608dccb7c284ae08020401aec1"
+		},
+		{
+			"file": "NemoOrange/Scenery/shadowplay.avs",
+			"size": 4307,
+			"checksum": "sha256:8e651a9d89f1d3c6b1417d5833cbb38040d4b114b447cd23166997e06e481120"
+		},
+		{
+			"file": "NemoOrange/Scenery/symphony.avs",
+			"size": 87872,
+			"checksum": "sha256:306b3de30d50706655c9eb6a7f573d29182adceb6b8a5f1b1616ab5c83ef7a89"
+		}
+	],
+	"plugins": ["BufferBlend", "ConvolutionFilter", "GlobalVarMan"]
 }

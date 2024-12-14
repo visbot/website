@@ -1,144 +1,139 @@
 {
-    "name": "VISBOT Fifteen",
-    "id": "VC015",
-    "presets": [
-        {
-            "file": "VISBOT/VC015 Fifteen/01 synth-c - relaxplosion [ouverture].avs",
-            "size": 8349,
-            "checksum": "sha256:622f61e21740a2f6fd51884aaadcf91a6e1c50227b8def91f35ec8484dd1fc72"
-        },
-        {
-            "file": "VISBOT/VC015 Fifteen/02 zamuz - visbot fifteen.avs",
-            "size": 11133,
-            "checksum": "sha256:24902359a66b652bf762a0afb52a13fdc5c24d5f2c8729f0ff2d47bc60102b3d"
-        },
-        {
-            "file": "VISBOT/VC015 Fifteen/03 vanish - 10.532.64.36.avs",
-            "size": 4613,
-            "checksum": "sha256:d8e447d3160509467c875f70a3d5f53d14bd162a7a6e434a7a03d8c6df8cf473"
-        },
-        {
-            "file": "VISBOT/VC015 Fifteen/04 amphirion - just for today.avs",
-            "size": 1618,
-            "checksum": "sha256:4da595c6037cf7de2cc319dfaa4bd81d3d9d0eea5d6f0cf8e9bd9c58f125a30c"
-        },
-        {
-            "file": "VISBOT/VC015 Fifteen/05 zamuz - urban metallic (the spanish remix).avs",
-            "size": 6465,
-            "checksum": "sha256:a7fbe464a54ee264444ec5c7b827eaf256c42bad988cf67ac36aef979077ebdf"
-        },
-        {
-            "file": "VISBOT/VC015 Fifteen/06 onionring - 51.avs",
-            "size": 10915,
-            "checksum": "sha256:190aa4152d4a26435585437fe955a3e35f08b94e73f2c2516b9c4be4c4a5eea1"
-        },
-        {
-            "file": "VISBOT/VC015 Fifteen/07 nemo - lyric (amphirion's victor vector remix).avs",
-            "size": 3822,
-            "checksum": "sha256:263b73e79c3f8255283ebfb598d32da427a53bd0e75600ce3490da824f8b80fb"
-        },
-        {
-            "file": "VISBOT/VC015 Fifteen/08 dynamic duo - random anja (vanish's sm'x2zero'th remix).avs",
-            "size": 1872,
-            "checksum": "sha256:c228da21b0eace862fb386129fed5a5e7d06ad5071c424330634fec46e932ceb"
-        },
-        {
-            "file": "VISBOT/VC015 Fifteen/09 amphirion - gaia.avs",
-            "size": 4159,
-            "checksum": "sha256:65079e12b048fee8517c78980472886db29c4410e7d1bc34b0aeb2706db1426e"
-        },
-        {
-            "file": "VISBOT/VC015 Fifteen/10 zamuz - energy v3.avs",
-            "size": 5752,
-            "checksum": "sha256:c533fb4c669a3920edeb9e6235f047cb0cf2f56bf8dce52b4bbfb4cf9579fd2c"
-        },
-        {
-            "file": "VISBOT/VC015 Fifteen/11 framey - vycomat.avs",
-            "size": 5045,
-            "checksum": "sha256:b7675c807fe5a97cc88fb92f9d9dfb04c888e4cd41a0717e9f2ab1eb18bd4caf"
-        },
-        {
-            "file": "VISBOT/VC015 Fifteen/12 onionring - smooth sailing.avs",
-            "size": 5095,
-            "checksum": "sha256:42d1960f25ac30bdd7f11d6047cee3c5f0028c39f2dca97fa5dd3bbaf0c83678"
-        },
-        {
-            "file": "VISBOT/VC015 Fifteen/13 nemo - lyric (zamuz's amusement park remix).avs",
-            "size": 7115,
-            "checksum": "sha256:73a7fc49fae61eaa930bfeddd57af09618952f789572587f910d5c161af0375e"
-        },
-        {
-            "file": "VISBOT/VC015 Fifteen/14 zamuz - engine v2.avs",
-            "size": 5549,
-            "checksum": "sha256:0cfabd4895eef2e58885da35213bd134c4dfe7122e1518c54b9d7b03f32e8aca"
-        },
-        {
-            "file": "VISBOT/VC015 Fifteen/15 amphirion - abstrkt fundamentals (mod op redux by framey).avs",
-            "size": 8710,
-            "checksum": "sha256:c463d246ca2e766acb3fdd320acdccfdfc04835c6ece7b2fe879c483dc88670d"
-        },
-        {
-            "file": "VISBOT/VC015 Fifteen/16 synth-c - mealstorm [finale].avs",
-            "size": 10098,
-            "checksum": "sha256:78ee6c118ea6a0af341d11c03b7c70c51895e39727f30b34f90af03b13313258"
-        }
-    ],
-    "assets": [
-        {
-            "file": "_synth_dotfog.bmp",
-            "size": 2102,
-            "checksum": "sha256:243472a814289858ef6d69d73dee3fdb1d7d71c087220a69f29101c4ac7de7dc"
-        },
-        {
-            "file": "amphirion wood.bmp",
-            "size": 208904,
-            "checksum": "sha256:88c081138e4550ac9a84da6b2fd1269871ff287d4d71e2e63b6f593a76d98023"
-        },
-        {
-            "file": "avsres_texer_circle_sharp_29x29.bmp",
-            "size": 3030,
-            "checksum": "sha256:2d057959257346e2b9a8922504ad51ff7d2608d6bd591659a7fa08d07406366a"
-        },
-        {
-            "file": "avsres_texer_square_edgeonly_28x28.bmp",
-            "size": 2406,
-            "checksum": "sha256:92562607c279b3b13fa87bd48960f15b4380d4fdc1a9595f9a90d3915b0cbe12"
-        },
-        {
-            "file": "avsres_texer_square_sharp_30x30.bmp",
-            "size": 3590,
-            "checksum": "sha256:e41754b033960b3a5e77252cf1edee71e97c311c2cedafc9b4139a3df51240e6"
-        },
-        {
-            "file": "skupers_lp7_06.bmp",
-            "size": 776,
-            "checksum": "sha256:2d0cf33c2ffb726b976ebad0c57d1c7a905bd30a9204c44b739a525b1dcc18b8"
-        },
-        {
-            "file": "v4_texer7.bmp",
-            "size": 1954,
-            "checksum": "sha256:49b6458d62c8f9687fefe109e1891166da70448e4eba3006067f948662a46a76"
-        },
-        {
-            "file": "vb11_vb.bmp",
-            "size": 55950,
-            "checksum": "sha256:166a4b4ada72ceb1b6066b13af2ee0a439feb14547e7b12f10df017cb6d2d480"
-        },
-        {
-            "file": "vb15intro_b.bmp",
-            "size": 21174,
-            "checksum": "sha256:9f62a0ec69b913db9ebe34ec24810943b5ef7117f3fcada04d9350461aefea84"
-        },
-        {
-            "file": "vb15intro.bmp",
-            "size": 49478,
-            "checksum": "sha256:f8367cce0dde6b01111a7f0315155db88c5b2a12487d67e7de45371317f35ac1"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter",
-        "GlobalVarMan",
-        "TransAuto",
-        "Triangle"
-    ]
+	"name": "VISBOT Fifteen",
+	"id": "VC015",
+	"presets": [
+		{
+			"file": "VISBOT/VC015 Fifteen/01 synth-c - relaxplosion [ouverture].avs",
+			"size": 8349,
+			"checksum": "sha256:622f61e21740a2f6fd51884aaadcf91a6e1c50227b8def91f35ec8484dd1fc72"
+		},
+		{
+			"file": "VISBOT/VC015 Fifteen/02 zamuz - visbot fifteen.avs",
+			"size": 11133,
+			"checksum": "sha256:24902359a66b652bf762a0afb52a13fdc5c24d5f2c8729f0ff2d47bc60102b3d"
+		},
+		{
+			"file": "VISBOT/VC015 Fifteen/03 vanish - 10.532.64.36.avs",
+			"size": 4613,
+			"checksum": "sha256:d8e447d3160509467c875f70a3d5f53d14bd162a7a6e434a7a03d8c6df8cf473"
+		},
+		{
+			"file": "VISBOT/VC015 Fifteen/04 amphirion - just for today.avs",
+			"size": 1618,
+			"checksum": "sha256:4da595c6037cf7de2cc319dfaa4bd81d3d9d0eea5d6f0cf8e9bd9c58f125a30c"
+		},
+		{
+			"file": "VISBOT/VC015 Fifteen/05 zamuz - urban metallic (the spanish remix).avs",
+			"size": 6465,
+			"checksum": "sha256:a7fbe464a54ee264444ec5c7b827eaf256c42bad988cf67ac36aef979077ebdf"
+		},
+		{
+			"file": "VISBOT/VC015 Fifteen/06 onionring - 51.avs",
+			"size": 10915,
+			"checksum": "sha256:190aa4152d4a26435585437fe955a3e35f08b94e73f2c2516b9c4be4c4a5eea1"
+		},
+		{
+			"file": "VISBOT/VC015 Fifteen/07 nemo - lyric (amphirion's victor vector remix).avs",
+			"size": 3822,
+			"checksum": "sha256:263b73e79c3f8255283ebfb598d32da427a53bd0e75600ce3490da824f8b80fb"
+		},
+		{
+			"file": "VISBOT/VC015 Fifteen/08 dynamic duo - random anja (vanish's sm'x2zero'th remix).avs",
+			"size": 1872,
+			"checksum": "sha256:c228da21b0eace862fb386129fed5a5e7d06ad5071c424330634fec46e932ceb"
+		},
+		{
+			"file": "VISBOT/VC015 Fifteen/09 amphirion - gaia.avs",
+			"size": 4159,
+			"checksum": "sha256:65079e12b048fee8517c78980472886db29c4410e7d1bc34b0aeb2706db1426e"
+		},
+		{
+			"file": "VISBOT/VC015 Fifteen/10 zamuz - energy v3.avs",
+			"size": 5752,
+			"checksum": "sha256:c533fb4c669a3920edeb9e6235f047cb0cf2f56bf8dce52b4bbfb4cf9579fd2c"
+		},
+		{
+			"file": "VISBOT/VC015 Fifteen/11 framey - vycomat.avs",
+			"size": 5045,
+			"checksum": "sha256:b7675c807fe5a97cc88fb92f9d9dfb04c888e4cd41a0717e9f2ab1eb18bd4caf"
+		},
+		{
+			"file": "VISBOT/VC015 Fifteen/12 onionring - smooth sailing.avs",
+			"size": 5095,
+			"checksum": "sha256:42d1960f25ac30bdd7f11d6047cee3c5f0028c39f2dca97fa5dd3bbaf0c83678"
+		},
+		{
+			"file": "VISBOT/VC015 Fifteen/13 nemo - lyric (zamuz's amusement park remix).avs",
+			"size": 7115,
+			"checksum": "sha256:73a7fc49fae61eaa930bfeddd57af09618952f789572587f910d5c161af0375e"
+		},
+		{
+			"file": "VISBOT/VC015 Fifteen/14 zamuz - engine v2.avs",
+			"size": 5549,
+			"checksum": "sha256:0cfabd4895eef2e58885da35213bd134c4dfe7122e1518c54b9d7b03f32e8aca"
+		},
+		{
+			"file": "VISBOT/VC015 Fifteen/15 amphirion - abstrkt fundamentals (mod op redux by framey).avs",
+			"size": 8710,
+			"checksum": "sha256:c463d246ca2e766acb3fdd320acdccfdfc04835c6ece7b2fe879c483dc88670d"
+		},
+		{
+			"file": "VISBOT/VC015 Fifteen/16 synth-c - mealstorm [finale].avs",
+			"size": 10098,
+			"checksum": "sha256:78ee6c118ea6a0af341d11c03b7c70c51895e39727f30b34f90af03b13313258"
+		}
+	],
+	"assets": [
+		{
+			"file": "_synth_dotfog.bmp",
+			"size": 2102,
+			"checksum": "sha256:243472a814289858ef6d69d73dee3fdb1d7d71c087220a69f29101c4ac7de7dc"
+		},
+		{
+			"file": "amphirion wood.bmp",
+			"size": 208904,
+			"checksum": "sha256:88c081138e4550ac9a84da6b2fd1269871ff287d4d71e2e63b6f593a76d98023"
+		},
+		{
+			"file": "avsres_texer_circle_sharp_29x29.bmp",
+			"size": 3030,
+			"checksum": "sha256:2d057959257346e2b9a8922504ad51ff7d2608d6bd591659a7fa08d07406366a"
+		},
+		{
+			"file": "avsres_texer_square_edgeonly_28x28.bmp",
+			"size": 2406,
+			"checksum": "sha256:92562607c279b3b13fa87bd48960f15b4380d4fdc1a9595f9a90d3915b0cbe12"
+		},
+		{
+			"file": "avsres_texer_square_sharp_30x30.bmp",
+			"size": 3590,
+			"checksum": "sha256:e41754b033960b3a5e77252cf1edee71e97c311c2cedafc9b4139a3df51240e6"
+		},
+		{
+			"file": "skupers_lp7_06.bmp",
+			"size": 776,
+			"checksum": "sha256:2d0cf33c2ffb726b976ebad0c57d1c7a905bd30a9204c44b739a525b1dcc18b8"
+		},
+		{
+			"file": "v4_texer7.bmp",
+			"size": 1954,
+			"checksum": "sha256:49b6458d62c8f9687fefe109e1891166da70448e4eba3006067f948662a46a76"
+		},
+		{
+			"file": "vb11_vb.bmp",
+			"size": 55950,
+			"checksum": "sha256:166a4b4ada72ceb1b6066b13af2ee0a439feb14547e7b12f10df017cb6d2d480"
+		},
+		{
+			"file": "vb15intro_b.bmp",
+			"size": 21174,
+			"checksum": "sha256:9f62a0ec69b913db9ebe34ec24810943b5ef7117f3fcada04d9350461aefea84"
+		},
+		{
+			"file": "vb15intro.bmp",
+			"size": 49478,
+			"checksum": "sha256:f8367cce0dde6b01111a7f0315155db88c5b2a12487d67e7de45371317f35ac1"
+		}
+	],
+	"plugins": ["ConvolutionFilter", "GlobalVarMan", "TransAuto", "Triangle"]
 }

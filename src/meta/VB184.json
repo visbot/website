@@ -1,86 +1,79 @@
 {
-    "name": "iii - sing. less retro. spectate",
-    "id": "VB184",
-    "presets": [
-        {
-            "file": "vanish/iii - sing. less retro. spectate/b.viiv.d.avs",
-            "size": 3259,
-            "checksum": "sha256:4bcf3e80af63e6bcf5f6e5107e5ba1386e57ffda5bded4103c68b3034d7c247b"
-        },
-        {
-            "file": "vanish/iii - sing. less retro. spectate/golden (edit) (remix of duo's ''cafe de duo'').avs",
-            "size": 3811,
-            "checksum": "sha256:9a5af4db945db9dffe2ae090c1959cc5614d6fe43edf7ac95a90fa2d0767234c"
-        },
-        {
-            "file": "vanish/iii - sing. less retro. spectate/hurt (optimized).avs",
-            "size": 3321,
-            "checksum": "sha256:6681a3471fa841d770f28a8aa24207b069832f1534a65a268ca61d21d9f0e299"
-        },
-        {
-            "file": "vanish/iii - sing. less retro. spectate/i am your oracle (visbot 14-th version).avs",
-            "size": 3819,
-            "checksum": "sha256:3414a0b938874d64967440ae28867fc30f5bab8fd6c8d412748570b6a0d92701"
-        },
-        {
-            "file": "vanish/iii - sing. less retro. spectate/mario overkill (remix of dynamic duo's ''carousel'').avs",
-            "size": 4468,
-            "checksum": "sha256:1ca8b3bb09c16281048b156d9a5c9f7674a2f7754354a449edbe569bf7ad8e1a"
-        },
-        {
-            "file": "vanish/iii - sing. less retro. spectate/nuclear sky of summer ten thousands and seven  (visbot 12-th version).avs",
-            "size": 5124,
-            "checksum": "sha256:68d639437fccd37019e090e819d5dcd1e7c8d1b58ac19c4d8c6ed9d486b5241e"
-        },
-        {
-            "file": "vanish/iii - sing. less retro. spectate/optiñal (visbot 12-th version).avs",
-            "size": 2419,
-            "checksum": "sha256:4c914f659519d508f0b73f489e20dfd2d0995a1801f456686769ff4257f46348"
-        },
-        {
-            "file": "vanish/iii - sing. less retro. spectate/seasons collapse (remix of dynamic duo's ''kirschblüte zwei'').avs",
-            "size": 2127,
-            "checksum": "sha256:591bc862ed9a825a70b2f751a941748b50cc822fbaad18f12f538c2960ec76dc"
-        },
-        {
-            "file": "vanish/iii - sing. less retro. spectate/shadow of 718.avs",
-            "size": 4157,
-            "checksum": "sha256:1788606d86a5fcf2affda9cc98162c98828433a5df5221ebd1d1c8fb7a37ca0f"
-        },
-        {
-            "file": "vanish/iii - sing. less retro. spectate/shadow of 719 (visbot 12-th version).avs",
-            "size": 4401,
-            "checksum": "sha256:71d6c9fa8bf570169e915b0e9b78facf85202ada9cbb15f4cda621f86d5d15ce"
-        },
-        {
-            "file": "vanish/iii - sing. less retro. spectate/sorry, we've been fcuked (''combustion burn'' eidt).avs",
-            "size": 3945,
-            "checksum": "sha256:82ed213e44cb660bacdfa590c9fd1b2118ed7ab99507402f03d259fe40d79843"
-        },
-        {
-            "file": "vanish/iii - sing. less retro. spectate/squared static iteration (minor colormap edit).avs",
-            "size": 1961,
-            "checksum": "sha256:8d65b099598102dcfdfa5a4c3b03aba1b0a8f84ee26eea087479d42540109814"
-        },
-        {
-            "file": "vanish/iii - sing. less retro. spectate/tiled layers (visbot 14-th version).avs",
-            "size": 1892,
-            "checksum": "sha256:5d1c4317992c9ac7e8515e19d838cbc1248c3778f5be5a9b3735ee21361256aa"
-        }
-    ],
-    "assets": [
-        {
-            "file": "vanish_hurt_screenshot.bmp",
-            "size": 196662,
-            "checksum": "sha256:260ac18d1dd6f772b75bcc8312eab07ef7e8b8191cc520521f0d9ef780a6df3b"
-        }
-    ],
-    "plugins": [
-        "AddBorder",
-        "ChannelShift",
-        "ColorMap",
-        "ConvolutionFilter",
-        "Picture2",
-        "VideoDelay"
-    ]
+	"name": "iii - sing. less retro. spectate",
+	"id": "VB184",
+	"presets": [
+		{
+			"file": "vanish/iii - sing. less retro. spectate/b.viiv.d.avs",
+			"size": 3259,
+			"checksum": "sha256:4bcf3e80af63e6bcf5f6e5107e5ba1386e57ffda5bded4103c68b3034d7c247b"
+		},
+		{
+			"file": "vanish/iii - sing. less retro. spectate/golden (edit) (remix of duo's ''cafe de duo'').avs",
+			"size": 3811,
+			"checksum": "sha256:9a5af4db945db9dffe2ae090c1959cc5614d6fe43edf7ac95a90fa2d0767234c"
+		},
+		{
+			"file": "vanish/iii - sing. less retro. spectate/hurt (optimized).avs",
+			"size": 3321,
+			"checksum": "sha256:6681a3471fa841d770f28a8aa24207b069832f1534a65a268ca61d21d9f0e299"
+		},
+		{
+			"file": "vanish/iii - sing. less retro. spectate/i am your oracle (visbot 14-th version).avs",
+			"size": 3819,
+			"checksum": "sha256:3414a0b938874d64967440ae28867fc30f5bab8fd6c8d412748570b6a0d92701"
+		},
+		{
+			"file": "vanish/iii - sing. less retro. spectate/mario overkill (remix of dynamic duo's ''carousel'').avs",
+			"size": 4468,
+			"checksum": "sha256:1ca8b3bb09c16281048b156d9a5c9f7674a2f7754354a449edbe569bf7ad8e1a"
+		},
+		{
+			"file": "vanish/iii - sing. less retro. spectate/nuclear sky of summer ten thousands and seven  (visbot 12-th version).avs",
+			"size": 5124,
+			"checksum": "sha256:68d639437fccd37019e090e819d5dcd1e7c8d1b58ac19c4d8c6ed9d486b5241e"
+		},
+		{
+			"file": "vanish/iii - sing. less retro. spectate/optiñal (visbot 12-th version).avs",
+			"size": 2419,
+			"checksum": "sha256:4c914f659519d508f0b73f489e20dfd2d0995a1801f456686769ff4257f46348"
+		},
+		{
+			"file": "vanish/iii - sing. less retro. spectate/seasons collapse (remix of dynamic duo's ''kirschblüte zwei'').avs",
+			"size": 2127,
+			"checksum": "sha256:591bc862ed9a825a70b2f751a941748b50cc822fbaad18f12f538c2960ec76dc"
+		},
+		{
+			"file": "vanish/iii - sing. less retro. spectate/shadow of 718.avs",
+			"size": 4157,
+			"checksum": "sha256:1788606d86a5fcf2affda9cc98162c98828433a5df5221ebd1d1c8fb7a37ca0f"
+		},
+		{
+			"file": "vanish/iii - sing. less retro. spectate/shadow of 719 (visbot 12-th version).avs",
+			"size": 4401,
+			"checksum": "sha256:71d6c9fa8bf570169e915b0e9b78facf85202ada9cbb15f4cda621f86d5d15ce"
+		},
+		{
+			"file": "vanish/iii - sing. less retro. spectate/sorry, we've been fcuked (''combustion burn'' eidt).avs",
+			"size": 3945,
+			"checksum": "sha256:82ed213e44cb660bacdfa590c9fd1b2118ed7ab99507402f03d259fe40d79843"
+		},
+		{
+			"file": "vanish/iii - sing. less retro. spectate/squared static iteration (minor colormap edit).avs",
+			"size": 1961,
+			"checksum": "sha256:8d65b099598102dcfdfa5a4c3b03aba1b0a8f84ee26eea087479d42540109814"
+		},
+		{
+			"file": "vanish/iii - sing. less retro. spectate/tiled layers (visbot 14-th version).avs",
+			"size": 1892,
+			"checksum": "sha256:5d1c4317992c9ac7e8515e19d838cbc1248c3778f5be5a9b3735ee21361256aa"
+		}
+	],
+	"assets": [
+		{
+			"file": "vanish_hurt_screenshot.bmp",
+			"size": 196662,
+			"checksum": "sha256:260ac18d1dd6f772b75bcc8312eab07ef7e8b8191cc520521f0d9ef780a6df3b"
+		}
+	],
+	"plugins": ["AddBorder", "ChannelShift", "ColorMap", "ConvolutionFilter", "Picture2", "VideoDelay"]
 }

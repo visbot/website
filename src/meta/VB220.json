@@ -1,176 +1,174 @@
 {
-    "name": "whyEye.org u.g.l.y.",
-    "id": "VB220",
-    "presets": [
-        {
-            "file": "whyEye.org/whyEye.org u.g.l.y/01 dynamic duo - kinematics (ugly edit).avs",
-            "size": 4092,
-            "checksum": "sha256:1a48d75f80e0d7aedf05ff6386abacb5e90998f96d5b88815c59d58121f503c7"
-        },
-        {
-            "file": "whyEye.org/whyEye.org u.g.l.y/02 yathosho - black milk.avs",
-            "size": 2708,
-            "checksum": "sha256:458dea2c71df00a0ae9c22d15f876637ed62ca66c62a462e262acdd229d13dd0"
-        },
-        {
-            "file": "whyEye.org/whyEye.org u.g.l.y/03 yathosho - ps pussla (ugly edit).avs",
-            "size": 1732,
-            "checksum": "sha256:f319eaf4b5217f60090b29f5455ad6a225cb466650e6ac1b4089d7055c9cf47f"
-        },
-        {
-            "file": "whyEye.org/whyEye.org u.g.l.y/04 yathosho & nemo - 1970 (the full ugly edit).avs",
-            "size": 1481,
-            "checksum": "sha256:64204c13ca83b4580505e7b93d06f7d683b15d5eab24eac89b4bc377d5bb7a67"
-        },
-        {
-            "file": "whyEye.org/whyEye.org u.g.l.y/05 zamuz & yathosho - blooming nuskool shit (ugly edit).avs",
-            "size": 3137,
-            "checksum": "sha256:f0e746b82f5efc83e3326bf641e762c8d43b4d981a21d41c4dc0fe5bfc83457e"
-        },
-        {
-            "file": "whyEye.org/whyEye.org u.g.l.y/06 el-vis - alpenveilchen (ugly edit).avs",
-            "size": 1673,
-            "checksum": "sha256:a7c886fcd87c4fb8eabd0f0bf93088bc0cce4ff25dd505e4c2672d4bd8d9215a"
-        },
-        {
-            "file": "whyEye.org/whyEye.org u.g.l.y/07 yathosho - touristica (ugly edit).avs",
-            "size": 2025,
-            "checksum": "sha256:f107bca7c1cf780cc08a5df60731a815f0a91a6ae94ca9200b8a8ab2c95d1a7f"
-        },
-        {
-            "file": "whyEye.org/whyEye.org u.g.l.y/08 el-vis & nemo - multivitamin (ugly edit #2).avs",
-            "size": 11345,
-            "checksum": "sha256:d51c7a442776770c3f738b03696542557c4b3363958164e2a3428e9d58af2770"
-        },
-        {
-            "file": "whyEye.org/whyEye.org u.g.l.y/09 yathosho - sensorama zwei (ugly edit #2).avs",
-            "size": 1950,
-            "checksum": "sha256:43401f338e7d7d13610b1f907ff8c770869f497edbdf76eec6e8aabb961c8d19"
-        },
-        {
-            "file": "whyEye.org/whyEye.org u.g.l.y/10 tuggummi - converting your thoughts to rgb (ugly edit #2).avs",
-            "size": 3245,
-            "checksum": "sha256:7372e0d492f0a2790a46917a4e97616153065ff995a18821131a751369d7bc1a"
-        },
-        {
-            "file": "whyEye.org/whyEye.org u.g.l.y/11 yathosho - beautifully nothing (ugly edit).avs",
-            "size": 2681,
-            "checksum": "sha256:5cbea1575452368351588953d17c38e439bf671bcd43813f6ccc7c2f7a758e13"
-        },
-        {
-            "file": "whyEye.org/whyEye.org u.g.l.y/12 tuggummi & fyehroq fugue - easy go (ugly edit).avs",
-            "size": 13191,
-            "checksum": "sha256:58d3ab9eb9bd76f5bfd5d2839791a6fbaad1807867cae5d61ed47934849a4f26"
-        },
-        {
-            "file": "whyEye.org/whyEye.org u.g.l.y/13 yathosho - beyond beyond (ugly edit).avs",
-            "size": 2298,
-            "checksum": "sha256:e8d9f684abe2800b64cf2072d1ff8a747059f3ce723f0e6ba1d51ef038c9eff5"
-        },
-        {
-            "file": "whyEye.org/whyEye.org u.g.l.y/14 skupers - graphitex macau (ugly edit).avs",
-            "size": 2570,
-            "checksum": "sha256:aa10f452b761d0239887a07943a67dd28a805eab2c34bfccef340b2b4795ca05"
-        },
-        {
-            "file": "whyEye.org/whyEye.org u.g.l.y/15 zamuz - blockbuster (ugly edit).avs",
-            "size": 3068,
-            "checksum": "sha256:919a4720fb37ace1ea1a4a38c8450980008f75c07673505dddb2ea96d0845fcf"
-        },
-        {
-            "file": "whyEye.org/whyEye.org u.g.l.y/16 yathosho - anja ruta (ugly edit #2).avs",
-            "size": 3062,
-            "checksum": "sha256:1669581f6c2e9970f5dc624ae3e9ab082150eb20eeb75cbc85c90c6fcdead423"
-        },
-        {
-            "file": "whyEye.org/whyEye.org u.g.l.y/17 yathosho - new sector movements (ugly edit #1).avs",
-            "size": 1997,
-            "checksum": "sha256:71516b2eb61191031084a9589f1f30684c9d2be8e936cc85c4f3e8146349091c"
-        },
-        {
-            "file": "whyEye.org/whyEye.org u.g.l.y/18 les Noobiens - blockz (ugly edit).avs",
-            "size": 2500,
-            "checksum": "sha256:c057b9e41ac190bfc866686a816c2e9cfaa65d49285d58eadbb7d87907362b9b"
-        },
-        {
-            "file": "whyEye.org/whyEye.org u.g.l.y/19 skupers - mädchenland (ugly edit).avs",
-            "size": 1895,
-            "checksum": "sha256:b99fa281b3b21f70692c8f1880c75281dff22f21a4024533d4a7d24a9c09965f"
-        },
-        {
-            "file": "whyEye.org/whyEye.org u.g.l.y/20 viskey - analysing flow (ugly edit).avs",
-            "size": 4189,
-            "checksum": "sha256:605abb99c31f9e6dc1f289f9ec2b92fb043d257fde8b25277e3eee14a2f7e1dd"
-        },
-        {
-            "file": "whyEye.org/whyEye.org u.g.l.y/21 el-vis - agent dragonfly (ugly edit).avs",
-            "size": 2843,
-            "checksum": "sha256:a0c3e29eb8e1cd338afcc0f42b253a76ba72025cc141ad24a5c49d2d0c319da2"
-        },
-        {
-            "file": "whyEye.org/whyEye.org u.g.l.y/22 yathosho - sokoban (ugly edit #2).avs",
-            "size": 2571,
-            "checksum": "sha256:8312f62921d22d60963b02205a5e3192ecaf2164e0258b0073b69ea212352551"
-        },
-        {
-            "file": "whyEye.org/whyEye.org u.g.l.y/23 nemo - balloons (ugly edit).avs",
-            "size": 41084,
-            "checksum": "sha256:6c609a96262b633d5f856772865f797663e6e60b0bcb309888e8fe77d3bcee55"
-        },
-        {
-            "file": "whyEye.org/whyEye.org u.g.l.y/24 yathosho - sensorama eins (ugly edit #1).avs",
-            "size": 1913,
-            "checksum": "sha256:61121603895d2073231bf0f7524209d3ce7db14311d680b5ff567af6afdad89b"
-        },
-        {
-            "file": "whyEye.org/whyEye.org u.g.l.y/25 yathosho - i-7a (ugly treatment).avs",
-            "size": 2488,
-            "checksum": "sha256:f10b8e228e445ce00331c8af568fc01a344c7f7fa006259888a27d8c169306ec"
-        },
-        {
-            "file": "whyEye.org/whyEye.org u.g.l.y/26 yathosho - rosali (ugly edit).avs",
-            "size": 2614,
-            "checksum": "sha256:47e8fb56bcf54faaab7e266aad8f81a3822dc33036fd68c4c36bbee6a59565c3"
-        },
-        {
-            "file": "whyEye.org/whyEye.org u.g.l.y/27 yathosho - respiced (ugly edit).avs",
-            "size": 2300,
-            "checksum": "sha256:2035d073aed079f07b08b8589222c944378a37908b97e40e6f78069fcae6272d"
-        },
-        {
-            "file": "whyEye.org/whyEye.org u.g.l.y/28 yathosho - gasoline (ugly edit).avs",
-            "size": 3403,
-            "checksum": "sha256:aa96349ac535a81fc9306de2baa10a9f38f8a533e742c46f1227272909a5400d"
-        },
-        {
-            "file": "whyEye.org/whyEye.org u.g.l.y/29 amphirion & les Noobiens - formula square (ugly edit).avs",
-            "size": 3042,
-            "checksum": "sha256:e128167f1fafc29a5719aa4c5bef9b85e0aaf81b946e4613de3bcd9c8bf6455a"
-        },
-        {
-            "file": "whyEye.org/whyEye.org u.g.l.y/30 yathosho - bebop (ugly edit).avs",
-            "size": 2780,
-            "checksum": "sha256:5474888654d7b5d1c820da6dbe1a23655068afc0539972eeb3ef49d5946f5b47"
-        },
-        {
-            "file": "whyEye.org/whyEye.org u.g.l.y/31 yathosho - op b2 (ugly edit #2).avs",
-            "size": 2527,
-            "checksum": "sha256:a6b8f0c8861eeb67a201d545c06ef3ae07a11ee9a484a3bb1f99a3796539dff2"
-        },
-        {
-            "file": "whyEye.org/whyEye.org u.g.l.y/32 dynamic duo - tentaclism (ugly edit).avs",
-            "size": 3317,
-            "checksum": "sha256:e5b6c8739e0d764a6bf91c872cae2f349481f0d04759fd1fa111acb0b3ae0d15"
-        }
-    ],
-    "assets": [
-        {
-            "file": "tug_texer7.bmp",
-            "size": 17078,
-            "checksum": "sha256:49d6941fee2623416e7e78ecf953480004fa3dea0a7f8ce12b3232faab5ac98c"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "whyEye.org u.g.l.y.",
+	"id": "VB220",
+	"presets": [
+		{
+			"file": "whyEye.org/whyEye.org u.g.l.y/01 dynamic duo - kinematics (ugly edit).avs",
+			"size": 4092,
+			"checksum": "sha256:1a48d75f80e0d7aedf05ff6386abacb5e90998f96d5b88815c59d58121f503c7"
+		},
+		{
+			"file": "whyEye.org/whyEye.org u.g.l.y/02 yathosho - black milk.avs",
+			"size": 2708,
+			"checksum": "sha256:458dea2c71df00a0ae9c22d15f876637ed62ca66c62a462e262acdd229d13dd0"
+		},
+		{
+			"file": "whyEye.org/whyEye.org u.g.l.y/03 yathosho - ps pussla (ugly edit).avs",
+			"size": 1732,
+			"checksum": "sha256:f319eaf4b5217f60090b29f5455ad6a225cb466650e6ac1b4089d7055c9cf47f"
+		},
+		{
+			"file": "whyEye.org/whyEye.org u.g.l.y/04 yathosho & nemo - 1970 (the full ugly edit).avs",
+			"size": 1481,
+			"checksum": "sha256:64204c13ca83b4580505e7b93d06f7d683b15d5eab24eac89b4bc377d5bb7a67"
+		},
+		{
+			"file": "whyEye.org/whyEye.org u.g.l.y/05 zamuz & yathosho - blooming nuskool shit (ugly edit).avs",
+			"size": 3137,
+			"checksum": "sha256:f0e746b82f5efc83e3326bf641e762c8d43b4d981a21d41c4dc0fe5bfc83457e"
+		},
+		{
+			"file": "whyEye.org/whyEye.org u.g.l.y/06 el-vis - alpenveilchen (ugly edit).avs",
+			"size": 1673,
+			"checksum": "sha256:a7c886fcd87c4fb8eabd0f0bf93088bc0cce4ff25dd505e4c2672d4bd8d9215a"
+		},
+		{
+			"file": "whyEye.org/whyEye.org u.g.l.y/07 yathosho - touristica (ugly edit).avs",
+			"size": 2025,
+			"checksum": "sha256:f107bca7c1cf780cc08a5df60731a815f0a91a6ae94ca9200b8a8ab2c95d1a7f"
+		},
+		{
+			"file": "whyEye.org/whyEye.org u.g.l.y/08 el-vis & nemo - multivitamin (ugly edit #2).avs",
+			"size": 11345,
+			"checksum": "sha256:d51c7a442776770c3f738b03696542557c4b3363958164e2a3428e9d58af2770"
+		},
+		{
+			"file": "whyEye.org/whyEye.org u.g.l.y/09 yathosho - sensorama zwei (ugly edit #2).avs",
+			"size": 1950,
+			"checksum": "sha256:43401f338e7d7d13610b1f907ff8c770869f497edbdf76eec6e8aabb961c8d19"
+		},
+		{
+			"file": "whyEye.org/whyEye.org u.g.l.y/10 tuggummi - converting your thoughts to rgb (ugly edit #2).avs",
+			"size": 3245,
+			"checksum": "sha256:7372e0d492f0a2790a46917a4e97616153065ff995a18821131a751369d7bc1a"
+		},
+		{
+			"file": "whyEye.org/whyEye.org u.g.l.y/11 yathosho - beautifully nothing (ugly edit).avs",
+			"size": 2681,
+			"checksum": "sha256:5cbea1575452368351588953d17c38e439bf671bcd43813f6ccc7c2f7a758e13"
+		},
+		{
+			"file": "whyEye.org/whyEye.org u.g.l.y/12 tuggummi & fyehroq fugue - easy go (ugly edit).avs",
+			"size": 13191,
+			"checksum": "sha256:58d3ab9eb9bd76f5bfd5d2839791a6fbaad1807867cae5d61ed47934849a4f26"
+		},
+		{
+			"file": "whyEye.org/whyEye.org u.g.l.y/13 yathosho - beyond beyond (ugly edit).avs",
+			"size": 2298,
+			"checksum": "sha256:e8d9f684abe2800b64cf2072d1ff8a747059f3ce723f0e6ba1d51ef038c9eff5"
+		},
+		{
+			"file": "whyEye.org/whyEye.org u.g.l.y/14 skupers - graphitex macau (ugly edit).avs",
+			"size": 2570,
+			"checksum": "sha256:aa10f452b761d0239887a07943a67dd28a805eab2c34bfccef340b2b4795ca05"
+		},
+		{
+			"file": "whyEye.org/whyEye.org u.g.l.y/15 zamuz - blockbuster (ugly edit).avs",
+			"size": 3068,
+			"checksum": "sha256:919a4720fb37ace1ea1a4a38c8450980008f75c07673505dddb2ea96d0845fcf"
+		},
+		{
+			"file": "whyEye.org/whyEye.org u.g.l.y/16 yathosho - anja ruta (ugly edit #2).avs",
+			"size": 3062,
+			"checksum": "sha256:1669581f6c2e9970f5dc624ae3e9ab082150eb20eeb75cbc85c90c6fcdead423"
+		},
+		{
+			"file": "whyEye.org/whyEye.org u.g.l.y/17 yathosho - new sector movements (ugly edit #1).avs",
+			"size": 1997,
+			"checksum": "sha256:71516b2eb61191031084a9589f1f30684c9d2be8e936cc85c4f3e8146349091c"
+		},
+		{
+			"file": "whyEye.org/whyEye.org u.g.l.y/18 les Noobiens - blockz (ugly edit).avs",
+			"size": 2500,
+			"checksum": "sha256:c057b9e41ac190bfc866686a816c2e9cfaa65d49285d58eadbb7d87907362b9b"
+		},
+		{
+			"file": "whyEye.org/whyEye.org u.g.l.y/19 skupers - mädchenland (ugly edit).avs",
+			"size": 1895,
+			"checksum": "sha256:b99fa281b3b21f70692c8f1880c75281dff22f21a4024533d4a7d24a9c09965f"
+		},
+		{
+			"file": "whyEye.org/whyEye.org u.g.l.y/20 viskey - analysing flow (ugly edit).avs",
+			"size": 4189,
+			"checksum": "sha256:605abb99c31f9e6dc1f289f9ec2b92fb043d257fde8b25277e3eee14a2f7e1dd"
+		},
+		{
+			"file": "whyEye.org/whyEye.org u.g.l.y/21 el-vis - agent dragonfly (ugly edit).avs",
+			"size": 2843,
+			"checksum": "sha256:a0c3e29eb8e1cd338afcc0f42b253a76ba72025cc141ad24a5c49d2d0c319da2"
+		},
+		{
+			"file": "whyEye.org/whyEye.org u.g.l.y/22 yathosho - sokoban (ugly edit #2).avs",
+			"size": 2571,
+			"checksum": "sha256:8312f62921d22d60963b02205a5e3192ecaf2164e0258b0073b69ea212352551"
+		},
+		{
+			"file": "whyEye.org/whyEye.org u.g.l.y/23 nemo - balloons (ugly edit).avs",
+			"size": 41084,
+			"checksum": "sha256:6c609a96262b633d5f856772865f797663e6e60b0bcb309888e8fe77d3bcee55"
+		},
+		{
+			"file": "whyEye.org/whyEye.org u.g.l.y/24 yathosho - sensorama eins (ugly edit #1).avs",
+			"size": 1913,
+			"checksum": "sha256:61121603895d2073231bf0f7524209d3ce7db14311d680b5ff567af6afdad89b"
+		},
+		{
+			"file": "whyEye.org/whyEye.org u.g.l.y/25 yathosho - i-7a (ugly treatment).avs",
+			"size": 2488,
+			"checksum": "sha256:f10b8e228e445ce00331c8af568fc01a344c7f7fa006259888a27d8c169306ec"
+		},
+		{
+			"file": "whyEye.org/whyEye.org u.g.l.y/26 yathosho - rosali (ugly edit).avs",
+			"size": 2614,
+			"checksum": "sha256:47e8fb56bcf54faaab7e266aad8f81a3822dc33036fd68c4c36bbee6a59565c3"
+		},
+		{
+			"file": "whyEye.org/whyEye.org u.g.l.y/27 yathosho - respiced (ugly edit).avs",
+			"size": 2300,
+			"checksum": "sha256:2035d073aed079f07b08b8589222c944378a37908b97e40e6f78069fcae6272d"
+		},
+		{
+			"file": "whyEye.org/whyEye.org u.g.l.y/28 yathosho - gasoline (ugly edit).avs",
+			"size": 3403,
+			"checksum": "sha256:aa96349ac535a81fc9306de2baa10a9f38f8a533e742c46f1227272909a5400d"
+		},
+		{
+			"file": "whyEye.org/whyEye.org u.g.l.y/29 amphirion & les Noobiens - formula square (ugly edit).avs",
+			"size": 3042,
+			"checksum": "sha256:e128167f1fafc29a5719aa4c5bef9b85e0aaf81b946e4613de3bcd9c8bf6455a"
+		},
+		{
+			"file": "whyEye.org/whyEye.org u.g.l.y/30 yathosho - bebop (ugly edit).avs",
+			"size": 2780,
+			"checksum": "sha256:5474888654d7b5d1c820da6dbe1a23655068afc0539972eeb3ef49d5946f5b47"
+		},
+		{
+			"file": "whyEye.org/whyEye.org u.g.l.y/31 yathosho - op b2 (ugly edit #2).avs",
+			"size": 2527,
+			"checksum": "sha256:a6b8f0c8861eeb67a201d545c06ef3ae07a11ee9a484a3bb1f99a3796539dff2"
+		},
+		{
+			"file": "whyEye.org/whyEye.org u.g.l.y/32 dynamic duo - tentaclism (ugly edit).avs",
+			"size": 3317,
+			"checksum": "sha256:e5b6c8739e0d764a6bf91c872cae2f349481f0d04759fd1fa111acb0b3ae0d15"
+		}
+	],
+	"assets": [
+		{
+			"file": "tug_texer7.bmp",
+			"size": 17078,
+			"checksum": "sha256:49d6941fee2623416e7e78ecf953480004fa3dea0a7f8ce12b3232faab5ac98c"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

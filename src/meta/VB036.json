@@ -1,29 +1,27 @@
 {
-    "name": "PAN AM Detroit IX-XII",
-    "id": "VB036",
-    "presets": [
-        {
-            "file": "PAN AM Detroit IX-XII/01_Pan_Am__Pan_Am.avs",
-            "size": 1131,
-            "checksum": "sha256:923ecb9f169be3876c7f1e0d5d32d8d44c9331605532b313aece31025cd5499a"
-        },
-        {
-            "file": "PAN AM Detroit IX-XII/02_Pan_Am_vs_I_Cook_Coxy_Gay__Detroit_Eleven.avs",
-            "size": 1621,
-            "checksum": "sha256:36c306acf708edb5b6f5173029ca83adf65e37d2e3c2b8673a19cef9dbe03a01"
-        },
-        {
-            "file": "PAN AM Detroit IX-XII/03_Pan_Am_vs_S_KuPeRS__Detroit_IX.avs",
-            "size": 2995,
-            "checksum": "sha256:51f88ec6a32a8c9c255f7798c30cc925aa79a665f648ed48b10e7210c892cfcf"
-        },
-        {
-            "file": "PAN AM Detroit IX-XII/04_Pan_Am__Aspirin_X.avs",
-            "size": 1837,
-            "checksum": "sha256:f1641950d8be80bdc3cd687488d67030f94dd6f75764483f2de4f42c921ebf6a"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "PAN AM Detroit IX-XII",
+	"id": "VB036",
+	"presets": [
+		{
+			"file": "PAN AM Detroit IX-XII/01_Pan_Am__Pan_Am.avs",
+			"size": 1131,
+			"checksum": "sha256:923ecb9f169be3876c7f1e0d5d32d8d44c9331605532b313aece31025cd5499a"
+		},
+		{
+			"file": "PAN AM Detroit IX-XII/02_Pan_Am_vs_I_Cook_Coxy_Gay__Detroit_Eleven.avs",
+			"size": 1621,
+			"checksum": "sha256:36c306acf708edb5b6f5173029ca83adf65e37d2e3c2b8673a19cef9dbe03a01"
+		},
+		{
+			"file": "PAN AM Detroit IX-XII/03_Pan_Am_vs_S_KuPeRS__Detroit_IX.avs",
+			"size": 2995,
+			"checksum": "sha256:51f88ec6a32a8c9c255f7798c30cc925aa79a665f648ed48b10e7210c892cfcf"
+		},
+		{
+			"file": "PAN AM Detroit IX-XII/04_Pan_Am__Aspirin_X.avs",
+			"size": 1837,
+			"checksum": "sha256:f1641950d8be80bdc3cd687488d67030f94dd6f75764483f2de4f42c921ebf6a"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

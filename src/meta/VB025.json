@@ -1,29 +1,27 @@
 {
-    "name": "whyEye.org in between e.p",
-    "id": "VB025",
-    "presets": [
-        {
-            "file": "whyEye.org/whyEye.org in between e.p/yiA1__fabric_(cadbury_flavor).avs",
-            "size": 1306,
-            "checksum": "sha256:5c4a75cb1bbfd15c6b2d54649e16b83a96a1a59c14cfd977115e8dad2870b08e"
-        },
-        {
-            "file": "whyEye.org/whyEye.org in between e.p/yiA2__penguin.avs",
-            "size": 1531,
-            "checksum": "sha256:f26d14b1ed3370cad3ec5b86dac9a2fd519943dd58c7723f81c038e7d1edd254"
-        },
-        {
-            "file": "whyEye.org/whyEye.org in between e.p/yiB1__hapag_lloyd.avs",
-            "size": 1571,
-            "checksum": "sha256:8bb9dde13e233a4e8b971ab68396ff7a63df43be651ed5901521b2c10f5ad56d"
-        },
-        {
-            "file": "whyEye.org/whyEye.org in between e.p/yiB2__spicy_fabric.avs",
-            "size": 1295,
-            "checksum": "sha256:d69b391225af480fbcecf6b46f1cd47888d4222732c0e8087937406cb9d4f681"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "whyEye.org in between e.p",
+	"id": "VB025",
+	"presets": [
+		{
+			"file": "whyEye.org/whyEye.org in between e.p/yiA1__fabric_(cadbury_flavor).avs",
+			"size": 1306,
+			"checksum": "sha256:5c4a75cb1bbfd15c6b2d54649e16b83a96a1a59c14cfd977115e8dad2870b08e"
+		},
+		{
+			"file": "whyEye.org/whyEye.org in between e.p/yiA2__penguin.avs",
+			"size": 1531,
+			"checksum": "sha256:f26d14b1ed3370cad3ec5b86dac9a2fd519943dd58c7723f81c038e7d1edd254"
+		},
+		{
+			"file": "whyEye.org/whyEye.org in between e.p/yiB1__hapag_lloyd.avs",
+			"size": 1571,
+			"checksum": "sha256:8bb9dde13e233a4e8b971ab68396ff7a63df43be651ed5901521b2c10f5ad56d"
+		},
+		{
+			"file": "whyEye.org/whyEye.org in between e.p/yiB2__spicy_fabric.avs",
+			"size": 1295,
+			"checksum": "sha256:d69b391225af480fbcecf6b46f1cd47888d4222732c0e8087937406cb9d4f681"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

@@ -1,40 +1,34 @@
 {
-    "name": "Untitled EP",
-    "id": "VB208",
-    "presets": [
-        {
-            "file": "PAN AM/Untitled EP/01 oNioRinG vs PAN_AM - ziyan ii (fake M-E - alternate version).avs",
-            "size": 15185,
-            "checksum": "sha256:32f5723edc8ce23a6add109ae231427a2e555251a64c2b4e396a1bf8fad9e8ca"
-        },
-        {
-            "file": "PAN AM/Untitled EP/02 miCrO.D - stripe 2-4 (PAN_AM vs YaTHoSHo edit).avs",
-            "size": 4737,
-            "checksum": "sha256:a91997ba3c4f035c35c0ca82d84083ad6bee769d356a2ce5c32b37f93eaf2918"
-        },
-        {
-            "file": "PAN AM/Untitled EP/03 miCrO.D vs PuRE-k - tv-store (PAN_AM remix).avs",
-            "size": 9716,
-            "checksum": "sha256:0a3c0f72640c628728cc17197b1df34ceb260875f0ffbd9d67f6f9d5398fbe51"
-        },
-        {
-            "file": "PAN AM/Untitled EP/04 PAN_AM - mnstck (YaTHoSHo uncut edit).avs",
-            "size": 4172,
-            "checksum": "sha256:f6c1561f41ff3b47cc4365c51aec7bd68aa6bceb721d9499c35890e7c0c7e11c"
-        }
-    ],
-    "assets": [
-        {
-            "file": "avsres_texer_circle_edgeonly_25x25.bmp",
-            "size": 1954,
-            "checksum": "sha256:d4cdad41bf5da63e0d560babcc22cd07665f6e7d2d23d5ac5b4ce66d0542bbfa"
-        }
-    ],
-    "plugins": [
-        "AddBorder",
-        "BufferBlend",
-        "ConvolutionFilter",
-        "TransAuto",
-        "Triangle"
-    ]
+	"name": "Untitled EP",
+	"id": "VB208",
+	"presets": [
+		{
+			"file": "PAN AM/Untitled EP/01 oNioRinG vs PAN_AM - ziyan ii (fake M-E - alternate version).avs",
+			"size": 15185,
+			"checksum": "sha256:32f5723edc8ce23a6add109ae231427a2e555251a64c2b4e396a1bf8fad9e8ca"
+		},
+		{
+			"file": "PAN AM/Untitled EP/02 miCrO.D - stripe 2-4 (PAN_AM vs YaTHoSHo edit).avs",
+			"size": 4737,
+			"checksum": "sha256:a91997ba3c4f035c35c0ca82d84083ad6bee769d356a2ce5c32b37f93eaf2918"
+		},
+		{
+			"file": "PAN AM/Untitled EP/03 miCrO.D vs PuRE-k - tv-store (PAN_AM remix).avs",
+			"size": 9716,
+			"checksum": "sha256:0a3c0f72640c628728cc17197b1df34ceb260875f0ffbd9d67f6f9d5398fbe51"
+		},
+		{
+			"file": "PAN AM/Untitled EP/04 PAN_AM - mnstck (YaTHoSHo uncut edit).avs",
+			"size": 4172,
+			"checksum": "sha256:f6c1561f41ff3b47cc4365c51aec7bd68aa6bceb721d9499c35890e7c0c7e11c"
+		}
+	],
+	"assets": [
+		{
+			"file": "avsres_texer_circle_edgeonly_25x25.bmp",
+			"size": 1954,
+			"checksum": "sha256:d4cdad41bf5da63e0d560babcc22cd07665f6e7d2d23d5ac5b4ce66d0542bbfa"
+		}
+	],
+	"plugins": ["AddBorder", "BufferBlend", "ConvolutionFilter", "TransAuto", "Triangle"]
 }

@@ -1,123 +1,117 @@
 {
-    "name": "s05 . entertainment for the blind",
-    "id": "VB110",
-    "presets": [
-        {
-            "file": "frames.of.reality/s05 . entertainment for the blind/000 . intro.avs",
-            "size": 9998,
-            "checksum": "sha256:015931b9c187b0e5331d88df82eb316ea9718f0bab5ed96f54e83982ffd83565"
-        },
-        {
-            "file": "frames.of.reality/s05 . entertainment for the blind/001 . noise detection 2005.avs",
-            "size": 5308,
-            "checksum": "sha256:0c0c9363aef253b3aa9f2bec102a2074f9262d3f0a5340afbbd994ab8210c780"
-        },
-        {
-            "file": "frames.of.reality/s05 . entertainment for the blind/002 . jewelry.avs",
-            "size": 5178,
-            "checksum": "sha256:ec30c40d05d3897d7f46d7e76f04d99526177de0f347eaa743ce0092647c1add"
-        },
-        {
-            "file": "frames.of.reality/s05 . entertainment for the blind/003 . climbing heat.avs",
-            "size": 3507,
-            "checksum": "sha256:42440ecf4a39a3fd63ec9417ffcee41336df32fcc3bab17c62730400da9e0d5b"
-        },
-        {
-            "file": "frames.of.reality/s05 . entertainment for the blind/004 . bleache.avs",
-            "size": 2897,
-            "checksum": "sha256:a97e5d4221343332ef5d130a6fbc5d10f31bf47ab9a2fbdf78a030d720df047f"
-        },
-        {
-            "file": "frames.of.reality/s05 . entertainment for the blind/005 . deep inside the eyes of the furniture.avs",
-            "size": 2794,
-            "checksum": "sha256:933d5478c72ab5be91074b685c7068b5179d55c9c2c336ba0bac82ad1e8b83ef"
-        },
-        {
-            "file": "frames.of.reality/s05 . entertainment for the blind/006 . niov.avs",
-            "size": 3995,
-            "checksum": "sha256:58b7902dcea2fa84d0964e6790ee8afad4c142cf9b5103e0fdf32a01f3beb584"
-        },
-        {
-            "file": "frames.of.reality/s05 . entertainment for the blind/007 . biomass.avs",
-            "size": 4406,
-            "checksum": "sha256:08b1cc2f6a90b34e502e4d555ad2c8af2c7ba43fa95690b4bf81ca41c32e7834"
-        },
-        {
-            "file": "frames.of.reality/s05 . entertainment for the blind/008 . asfgs.avs",
-            "size": 5248,
-            "checksum": "sha256:379592431b3ad7ac2ef405f5221683b581b2848d401c0b00f89089dbb67bb158"
-        },
-        {
-            "file": "frames.of.reality/s05 . entertainment for the blind/009 . pantomin.avs",
-            "size": 5106,
-            "checksum": "sha256:f90284ad4b87ce3812a618db9c91d8ede68cf739678fa7539735f7a55f37cca9"
-        },
-        {
-            "file": "frames.of.reality/s05 . entertainment for the blind/010 . qviex.avs",
-            "size": 2480,
-            "checksum": "sha256:b800ece10dadf8c09eb2ebf76afc7bd13913b32486f8da5d37605967201636ae"
-        },
-        {
-            "file": "frames.of.reality/s05 . entertainment for the blind/011 . interslash.avs",
-            "size": 3656,
-            "checksum": "sha256:750b6500857e0b6363b69c09b38c67574c1a712051ceb9188d4d5a2531e619e9"
-        },
-        {
-            "file": "frames.of.reality/s05 . entertainment for the blind/012 . akvaneoph.avs",
-            "size": 2914,
-            "checksum": "sha256:ddb6238ebc756d2ad4b99fafb9d805bab05b135692745d4c9ad23f5496027be8"
-        },
-        {
-            "file": "frames.of.reality/s05 . entertainment for the blind/013 . tackternaom bb.avs",
-            "size": 3389,
-            "checksum": "sha256:436b84153f1ababbcff7cd49684b01abab1c96e93c4878b249b42040a79ecf45"
-        },
-        {
-            "file": "frames.of.reality/s05 . entertainment for the blind/014 . visques.avs",
-            "size": 3074,
-            "checksum": "sha256:9ebaa934c7ce9a17faa282517fcdf915a4f8d40405be642e9631fb7e5fa263b0"
-        },
-        {
-            "file": "frames.of.reality/s05 . entertainment for the blind/015 . vob.avs",
-            "size": 4219,
-            "checksum": "sha256:072303b0641c79636860690481a13edd78e2fbc49ecc705f8e80d949cc9a3034"
-        },
-        {
-            "file": "frames.of.reality/s05 . entertainment for the blind/016 . newspaper blues.avs",
-            "size": 3640,
-            "checksum": "sha256:6f09f1f8e11c6e2b030ddb69844304ce3aa156eb0d512d11cdd3c1eae607978c"
-        },
-        {
-            "file": "frames.of.reality/s05 . entertainment for the blind/017 . showcase.avs",
-            "size": 4433,
-            "checksum": "sha256:0e652fe7a308d5bd15e7daa56ba7c9e59794110d9bc03852aa2058f8aa96409d"
-        },
-        {
-            "file": "frames.of.reality/s05 . entertainment for the blind/018 . voniq.avs",
-            "size": 7625,
-            "checksum": "sha256:31e51d49abd7556ec374cac5ea7f88198296ab1565305b037970bc34242c6f5d"
-        },
-        {
-            "file": "frames.of.reality/s05 . entertainment for the blind/019 . comatose.avs",
-            "size": 4794,
-            "checksum": "sha256:6a9011ce30137401ac6cfcb26bfe9a492f8757a14d1beb5415806dbfaadb35da"
-        },
-        {
-            "file": "frames.of.reality/s05 . entertainment for the blind/020 . q-wark.avs",
-            "size": 4255,
-            "checksum": "sha256:90608540608aecee456c63b1be54529e22d91696b036958fad6e2fb7733ae6c3"
-        },
-        {
-            "file": "frames.of.reality/s05 . entertainment for the blind/021 . climbing heat v1.2.avs",
-            "size": 6697,
-            "checksum": "sha256:2a7473f089898a7bd73148669913aa8b16087c64d7af0c0ff5972f0e8284f91f"
-        }
-    ],
-    "plugins": [
-        "AddBorder",
-        "BufferBlend",
-        "ConvolutionFilter",
-        "GlobalVarMan",
-        "MultiFilter"
-    ]
+	"name": "s05 . entertainment for the blind",
+	"id": "VB110",
+	"presets": [
+		{
+			"file": "frames.of.reality/s05 . entertainment for the blind/000 . intro.avs",
+			"size": 9998,
+			"checksum": "sha256:015931b9c187b0e5331d88df82eb316ea9718f0bab5ed96f54e83982ffd83565"
+		},
+		{
+			"file": "frames.of.reality/s05 . entertainment for the blind/001 . noise detection 2005.avs",
+			"size": 5308,
+			"checksum": "sha256:0c0c9363aef253b3aa9f2bec102a2074f9262d3f0a5340afbbd994ab8210c780"
+		},
+		{
+			"file": "frames.of.reality/s05 . entertainment for the blind/002 . jewelry.avs",
+			"size": 5178,
+			"checksum": "sha256:ec30c40d05d3897d7f46d7e76f04d99526177de0f347eaa743ce0092647c1add"
+		},
+		{
+			"file": "frames.of.reality/s05 . entertainment for the blind/003 . climbing heat.avs",
+			"size": 3507,
+			"checksum": "sha256:42440ecf4a39a3fd63ec9417ffcee41336df32fcc3bab17c62730400da9e0d5b"
+		},
+		{
+			"file": "frames.of.reality/s05 . entertainment for the blind/004 . bleache.avs",
+			"size": 2897,
+			"checksum": "sha256:a97e5d4221343332ef5d130a6fbc5d10f31bf47ab9a2fbdf78a030d720df047f"
+		},
+		{
+			"file": "frames.of.reality/s05 . entertainment for the blind/005 . deep inside the eyes of the furniture.avs",
+			"size": 2794,
+			"checksum": "sha256:933d5478c72ab5be91074b685c7068b5179d55c9c2c336ba0bac82ad1e8b83ef"
+		},
+		{
+			"file": "frames.of.reality/s05 . entertainment for the blind/006 . niov.avs",
+			"size": 3995,
+			"checksum": "sha256:58b7902dcea2fa84d0964e6790ee8afad4c142cf9b5103e0fdf32a01f3beb584"
+		},
+		{
+			"file": "frames.of.reality/s05 . entertainment for the blind/007 . biomass.avs",
+			"size": 4406,
+			"checksum": "sha256:08b1cc2f6a90b34e502e4d555ad2c8af2c7ba43fa95690b4bf81ca41c32e7834"
+		},
+		{
+			"file": "frames.of.reality/s05 . entertainment for the blind/008 . asfgs.avs",
+			"size": 5248,
+			"checksum": "sha256:379592431b3ad7ac2ef405f5221683b581b2848d401c0b00f89089dbb67bb158"
+		},
+		{
+			"file": "frames.of.reality/s05 . entertainment for the blind/009 . pantomin.avs",
+			"size": 5106,
+			"checksum": "sha256:f90284ad4b87ce3812a618db9c91d8ede68cf739678fa7539735f7a55f37cca9"
+		},
+		{
+			"file": "frames.of.reality/s05 . entertainment for the blind/010 . qviex.avs",
+			"size": 2480,
+			"checksum": "sha256:b800ece10dadf8c09eb2ebf76afc7bd13913b32486f8da5d37605967201636ae"
+		},
+		{
+			"file": "frames.of.reality/s05 . entertainment for the blind/011 . interslash.avs",
+			"size": 3656,
+			"checksum": "sha256:750b6500857e0b6363b69c09b38c67574c1a712051ceb9188d4d5a2531e619e9"
+		},
+		{
+			"file": "frames.of.reality/s05 . entertainment for the blind/012 . akvaneoph.avs",
+			"size": 2914,
+			"checksum": "sha256:ddb6238ebc756d2ad4b99fafb9d805bab05b135692745d4c9ad23f5496027be8"
+		},
+		{
+			"file": "frames.of.reality/s05 . entertainment for the blind/013 . tackternaom bb.avs",
+			"size": 3389,
+			"checksum": "sha256:436b84153f1ababbcff7cd49684b01abab1c96e93c4878b249b42040a79ecf45"
+		},
+		{
+			"file": "frames.of.reality/s05 . entertainment for the blind/014 . visques.avs",
+			"size": 3074,
+			"checksum": "sha256:9ebaa934c7ce9a17faa282517fcdf915a4f8d40405be642e9631fb7e5fa263b0"
+		},
+		{
+			"file": "frames.of.reality/s05 . entertainment for the blind/015 . vob.avs",
+			"size": 4219,
+			"checksum": "sha256:072303b0641c79636860690481a13edd78e2fbc49ecc705f8e80d949cc9a3034"
+		},
+		{
+			"file": "frames.of.reality/s05 . entertainment for the blind/016 . newspaper blues.avs",
+			"size": 3640,
+			"checksum": "sha256:6f09f1f8e11c6e2b030ddb69844304ce3aa156eb0d512d11cdd3c1eae607978c"
+		},
+		{
+			"file": "frames.of.reality/s05 . entertainment for the blind/017 . showcase.avs",
+			"size": 4433,
+			"checksum": "sha256:0e652fe7a308d5bd15e7daa56ba7c9e59794110d9bc03852aa2058f8aa96409d"
+		},
+		{
+			"file": "frames.of.reality/s05 . entertainment for the blind/018 . voniq.avs",
+			"size": 7625,
+			"checksum": "sha256:31e51d49abd7556ec374cac5ea7f88198296ab1565305b037970bc34242c6f5d"
+		},
+		{
+			"file": "frames.of.reality/s05 . entertainment for the blind/019 . comatose.avs",
+			"size": 4794,
+			"checksum": "sha256:6a9011ce30137401ac6cfcb26bfe9a492f8757a14d1beb5415806dbfaadb35da"
+		},
+		{
+			"file": "frames.of.reality/s05 . entertainment for the blind/020 . q-wark.avs",
+			"size": 4255,
+			"checksum": "sha256:90608540608aecee456c63b1be54529e22d91696b036958fad6e2fb7733ae6c3"
+		},
+		{
+			"file": "frames.of.reality/s05 . entertainment for the blind/021 . climbing heat v1.2.avs",
+			"size": 6697,
+			"checksum": "sha256:2a7473f089898a7bd73148669913aa8b16087c64d7af0c0ff5972f0e8284f91f"
+		}
+	],
+	"plugins": ["AddBorder", "BufferBlend", "ConvolutionFilter", "GlobalVarMan", "MultiFilter"]
 }

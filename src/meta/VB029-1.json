@@ -1,41 +1,39 @@
 {
-    "name": "skupers - lp8p - �tatula",
-    "id": "VB029-1",
-    "presets": [
-        {
-            "file": "S_KuPeRS/s_kupers - lp8p - ætatula/01 - i'm breathing from my head down to my feet.avs",
-            "size": 2358,
-            "checksum": "sha256:436adbe17dc1502fe98535ffea529be1726b4b4d561ea27549e7dbdfff01fd9b"
-        },
-        {
-            "file": "S_KuPeRS/s_kupers - lp8p - ætatula/02 - music to travel on.avs",
-            "size": 1498,
-            "checksum": "sha256:b4cb4a4d106d8852dd450dafa6e5010627808776fbef22b0e2eda03a8439c49f"
-        },
-        {
-            "file": "S_KuPeRS/s_kupers - lp8p - ætatula/03 - styles that fade away.avs",
-            "size": 5841,
-            "checksum": "sha256:f95746c7866bd1239c95884e3718f67d516823ff2f45020bc3b991c66c184ad9"
-        },
-        {
-            "file": "S_KuPeRS/s_kupers - lp8p - ætatula/04 - d x i x x i .avs",
-            "size": 4744,
-            "checksum": "sha256:183e15bf20b9ae80af6aa547d57a68a9a712d6532d0b1cf05dbf00afb878d8cb"
-        }
-    ],
-    "assets": [
-        {
-            "file": "skupers_lp7_01.bmp",
-            "size": 776,
-            "checksum": "sha256:27bdda462dfec5cea6f702611fdc5df24255ae076c64fd214544b75561771339"
-        },
-        {
-            "file": "whacko6-06.bmp",
-            "size": 1534,
-            "checksum": "sha256:c113d7e723b3616385f77f8bc5cc2aeaae9d451501aa7b1e44fc63d72a768740"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "skupers - lp8p - �tatula",
+	"id": "VB029-1",
+	"presets": [
+		{
+			"file": "S_KuPeRS/s_kupers - lp8p - ætatula/01 - i'm breathing from my head down to my feet.avs",
+			"size": 2358,
+			"checksum": "sha256:436adbe17dc1502fe98535ffea529be1726b4b4d561ea27549e7dbdfff01fd9b"
+		},
+		{
+			"file": "S_KuPeRS/s_kupers - lp8p - ætatula/02 - music to travel on.avs",
+			"size": 1498,
+			"checksum": "sha256:b4cb4a4d106d8852dd450dafa6e5010627808776fbef22b0e2eda03a8439c49f"
+		},
+		{
+			"file": "S_KuPeRS/s_kupers - lp8p - ætatula/03 - styles that fade away.avs",
+			"size": 5841,
+			"checksum": "sha256:f95746c7866bd1239c95884e3718f67d516823ff2f45020bc3b991c66c184ad9"
+		},
+		{
+			"file": "S_KuPeRS/s_kupers - lp8p - ætatula/04 - d x i x x i .avs",
+			"size": 4744,
+			"checksum": "sha256:183e15bf20b9ae80af6aa547d57a68a9a712d6532d0b1cf05dbf00afb878d8cb"
+		}
+	],
+	"assets": [
+		{
+			"file": "skupers_lp7_01.bmp",
+			"size": 776,
+			"checksum": "sha256:27bdda462dfec5cea6f702611fdc5df24255ae076c64fd214544b75561771339"
+		},
+		{
+			"file": "whacko6-06.bmp",
+			"size": 1534,
+			"checksum": "sha256:c113d7e723b3616385f77f8bc5cc2aeaae9d451501aa7b1e44fc63d72a768740"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

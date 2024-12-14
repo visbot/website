@@ -1,52 +1,49 @@
 {
-    "name": "whyEye.org x4ep",
-    "id": "VB150-1",
-    "presets": [
-        {
-            "file": "whyEye.org/whyEye.org x4ep/yiA1 degnic - worms (yathosho's frogsblocks rework).avs",
-            "size": 4221,
-            "checksum": "sha256:4e658037ccc1174e1bb9bf842774a6ccd6148be805eb26e4b1a94c7cc396a5c0"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x4ep/yiA2 grandchild - onebitspasm (ya-tho-sho refreak #2).avs",
-            "size": 16958,
-            "checksum": "sha256:ad0764efa63c95720cbdf94fa08c05f9f94cf5884fec20a2e62c20379d4939ce"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x4ep/yiB1 jjcl237 - oil spill (yathosho's re-paint).avs",
-            "size": 3923,
-            "checksum": "sha256:bda99510a1fb5f0a1f8539f23a5b3cf63987379640a75deee077303e749bbcf5"
-        },
-        {
-            "file": "whyEye.org/whyEye.org x4ep/yiB2 pure-krypton - random explosions (yathosho's persian nights dub).avs",
-            "size": 3928,
-            "checksum": "sha256:aca885a205fdc6ca2d0c5da569e775af0c811d93c66a3c36381579778db2e76d"
-        }
-    ],
-    "assets": [
-        {
-            "file": "avsres_texer_circle_heavyblur_29x29.bmp",
-            "size": 2606,
-            "checksum": "sha256:f774cf10d56275d629f321163dbc610fee02b0e892c9065b0931564240bf078d"
-        },
-        {
-            "file": "avsres_texer_square_sharp_20x20.bmp",
-            "size": 1782,
-            "checksum": "sha256:bcf774b1520e3314da459eb50c9b597531d783c20b48abd5f1ba91641f3169c6"
-        },
-        {
-            "file": "avsres_texer_square_sharp_30x30.bmp",
-            "size": 3590,
-            "checksum": "sha256:e41754b033960b3a5e77252cf1edee71e97c311c2cedafc9b4139a3df51240e6"
-        },
-        {
-            "file": "hboy_texer_2.bmp",
-            "size": 30054,
-            "checksum": "sha256:15608b6525bcb0f5f79e73de4dd051e02f9a8bb183f6abcad0ddddd1de79393e"
-        }
-    ],
-    "plugins": [
-        "BufferBlend",
-        "ConvolutionFilter"
-    ]
+	"name": "whyEye.org x4ep",
+	"id": "VB150-1",
+	"presets": [
+		{
+			"file": "whyEye.org/whyEye.org x4ep/yiA1 degnic - worms (yathosho's frogsblocks rework).avs",
+			"size": 4221,
+			"checksum": "sha256:4e658037ccc1174e1bb9bf842774a6ccd6148be805eb26e4b1a94c7cc396a5c0"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x4ep/yiA2 grandchild - onebitspasm (ya-tho-sho refreak #2).avs",
+			"size": 16958,
+			"checksum": "sha256:ad0764efa63c95720cbdf94fa08c05f9f94cf5884fec20a2e62c20379d4939ce"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x4ep/yiB1 jjcl237 - oil spill (yathosho's re-paint).avs",
+			"size": 3923,
+			"checksum": "sha256:bda99510a1fb5f0a1f8539f23a5b3cf63987379640a75deee077303e749bbcf5"
+		},
+		{
+			"file": "whyEye.org/whyEye.org x4ep/yiB2 pure-krypton - random explosions (yathosho's persian nights dub).avs",
+			"size": 3928,
+			"checksum": "sha256:aca885a205fdc6ca2d0c5da569e775af0c811d93c66a3c36381579778db2e76d"
+		}
+	],
+	"assets": [
+		{
+			"file": "avsres_texer_circle_heavyblur_29x29.bmp",
+			"size": 2606,
+			"checksum": "sha256:f774cf10d56275d629f321163dbc610fee02b0e892c9065b0931564240bf078d"
+		},
+		{
+			"file": "avsres_texer_square_sharp_20x20.bmp",
+			"size": 1782,
+			"checksum": "sha256:bcf774b1520e3314da459eb50c9b597531d783c20b48abd5f1ba91641f3169c6"
+		},
+		{
+			"file": "avsres_texer_square_sharp_30x30.bmp",
+			"size": 3590,
+			"checksum": "sha256:e41754b033960b3a5e77252cf1edee71e97c311c2cedafc9b4139a3df51240e6"
+		},
+		{
+			"file": "hboy_texer_2.bmp",
+			"size": 30054,
+			"checksum": "sha256:15608b6525bcb0f5f79e73de4dd051e02f9a8bb183f6abcad0ddddd1de79393e"
+		}
+	],
+	"plugins": ["BufferBlend", "ConvolutionFilter"]
 }

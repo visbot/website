@@ -1,126 +1,124 @@
 {
-    "name": "zamuz - visions five",
-    "id": "VB105",
-    "presets": [
-        {
-            "file": "Zamuz/zamuz - visions five/01 - visions five.avs",
-            "size": 6103,
-            "checksum": "sha256:393682e1dece77ef611ceec8a10f491bf878d54e840ae77acbb67b08ae829324"
-        },
-        {
-            "file": "Zamuz/zamuz - visions five/02 - garden.avs",
-            "size": 3671,
-            "checksum": "sha256:3a75d8a2a684413e9d76cb89f17793bdda51060894a884727fcdebd3161414ba"
-        },
-        {
-            "file": "Zamuz/zamuz - visions five/03 - can't swallow these circles.avs",
-            "size": 6560,
-            "checksum": "sha256:e19aea4fb761790c5c65aaec037664318d070acdafddd304a2c9f12a16318ccd"
-        },
-        {
-            "file": "Zamuz/zamuz - visions five/04 - modern happiness.avs",
-            "size": 5071,
-            "checksum": "sha256:097a81e5477026226996035aea03bc6371d350327303d56e60e717e843bf4810"
-        },
-        {
-            "file": "Zamuz/zamuz - visions five/05 - bones.avs",
-            "size": 5999,
-            "checksum": "sha256:1b289e01328f1c04dbf9d50276c318310125b41d85f81a51d6de5149657f6121"
-        },
-        {
-            "file": "Zamuz/zamuz - visions five/06 - flame concept.avs",
-            "size": 4636,
-            "checksum": "sha256:23dbb82e8106f5f4e12b0e7c31672b6068921a31f8f8585fbb2876348117d64b"
-        },
-        {
-            "file": "Zamuz/zamuz - visions five/07 - fluffy candy time.avs",
-            "size": 4357,
-            "checksum": "sha256:a4c5e9cabba5dcb81a619cf9b1267071ee91f39595dbfae72bcb902bcf1ab26f"
-        },
-        {
-            "file": "Zamuz/zamuz - visions five/08 - tower.avs",
-            "size": 5177,
-            "checksum": "sha256:e813bbdc847f4d23b2643cca98df846fb01e145ace44568ac9c670e3e17d1f62"
-        },
-        {
-            "file": "Zamuz/zamuz - visions five/09 - hot wheels.avs",
-            "size": 3055,
-            "checksum": "sha256:843c658865fe4727a5983705191537293ff539ef24fbc4c2b5fb14e9c2671afd"
-        },
-        {
-            "file": "Zamuz/zamuz - visions five/10 - mechanic feedback.avs",
-            "size": 5320,
-            "checksum": "sha256:07b8fe396bd152b771ba013af14b08c064631eef62b5c4df30e3ce2467967f04"
-        },
-        {
-            "file": "Zamuz/zamuz - visions five/11 - noon cycles.avs",
-            "size": 6820,
-            "checksum": "sha256:09936e4e520182a10d812d6a8b1e117873eff17043e13b81edaaae3dc60358df"
-        },
-        {
-            "file": "Zamuz/zamuz - visions five/12 - freeform.avs",
-            "size": 4425,
-            "checksum": "sha256:1381385f7fdf2b8415fa907791815b08ed4be0a0481ff57cb361d1a6604fc3e2"
-        },
-        {
-            "file": "Zamuz/zamuz - visions five/13 - engine.avs",
-            "size": 2765,
-            "checksum": "sha256:cf154495c0720aa5ec11d3d59f97b8732cb55cfece256109bd63689b8055432f"
-        },
-        {
-            "file": "Zamuz/zamuz - visions five/14 - greed.avs",
-            "size": 3169,
-            "checksum": "sha256:8885ccbbbc28285273fbf9f481d55094217f3bb9246ae26abd1b45531aa1c44f"
-        },
-        {
-            "file": "Zamuz/zamuz - visions five/15 - bar code.avs",
-            "size": 2440,
-            "checksum": "sha256:95657602340852ae9be6a1de4aa522468eded07f6554d3174a7d552285deda35"
-        },
-        {
-            "file": "Zamuz/zamuz - visions five/16 - roses (color flush remix).avs",
-            "size": 3485,
-            "checksum": "sha256:3a1fc277a78562e2f106691fcc17eb1f795b653c7f4237fc6a6d930483a86a0f"
-        }
-    ],
-    "assets": [
-        {
-            "file": "v4_texer7.bmp",
-            "size": 1954,
-            "checksum": "sha256:49b6458d62c8f9687fefe109e1891166da70448e4eba3006067f948662a46a76"
-        },
-        {
-            "file": "v5_circle.bmp",
-            "size": 4854,
-            "checksum": "sha256:cebc9a03181dd184fecbba1d09290f11c70f1aaea28b8e5520d0e276267fec40"
-        },
-        {
-            "file": "v5_circle2.bmp",
-            "size": 4854,
-            "checksum": "sha256:65a9b00fed4552aaac62952a11fdebfcc3f2d98fa1fd61cbf2ce7f0a501f80af"
-        },
-        {
-            "file": "v5_intro2.bmp",
-            "size": 8254,
-            "checksum": "sha256:f9501fcb0c838cca81f3da3f7d6d7b2350113b8eda83c477a3a7f5040acdf183"
-        },
-        {
-            "file": "V5_intro4.bmp",
-            "size": 7878,
-            "checksum": "sha256:381ef6cc802bd8a69fa6748506711050438e256ef704017c3e4ca33dac1b88a6"
-        },
-        {
-            "file": "v5_square.bmp",
-            "size": 1254,
-            "checksum": "sha256:2e3dc3d7cec32c7a2091c638f46cf70b9b01974ebcf0558ba3edc8e67b29b065"
-        },
-        {
-            "file": "v5_texer1.bmp",
-            "size": 7654,
-            "checksum": "sha256:a3479f02cd8b7257efb9f07839f6e022c06638c87ded2d3517619125222331d9"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "zamuz - visions five",
+	"id": "VB105",
+	"presets": [
+		{
+			"file": "Zamuz/zamuz - visions five/01 - visions five.avs",
+			"size": 6103,
+			"checksum": "sha256:393682e1dece77ef611ceec8a10f491bf878d54e840ae77acbb67b08ae829324"
+		},
+		{
+			"file": "Zamuz/zamuz - visions five/02 - garden.avs",
+			"size": 3671,
+			"checksum": "sha256:3a75d8a2a684413e9d76cb89f17793bdda51060894a884727fcdebd3161414ba"
+		},
+		{
+			"file": "Zamuz/zamuz - visions five/03 - can't swallow these circles.avs",
+			"size": 6560,
+			"checksum": "sha256:e19aea4fb761790c5c65aaec037664318d070acdafddd304a2c9f12a16318ccd"
+		},
+		{
+			"file": "Zamuz/zamuz - visions five/04 - modern happiness.avs",
+			"size": 5071,
+			"checksum": "sha256:097a81e5477026226996035aea03bc6371d350327303d56e60e717e843bf4810"
+		},
+		{
+			"file": "Zamuz/zamuz - visions five/05 - bones.avs",
+			"size": 5999,
+			"checksum": "sha256:1b289e01328f1c04dbf9d50276c318310125b41d85f81a51d6de5149657f6121"
+		},
+		{
+			"file": "Zamuz/zamuz - visions five/06 - flame concept.avs",
+			"size": 4636,
+			"checksum": "sha256:23dbb82e8106f5f4e12b0e7c31672b6068921a31f8f8585fbb2876348117d64b"
+		},
+		{
+			"file": "Zamuz/zamuz - visions five/07 - fluffy candy time.avs",
+			"size": 4357,
+			"checksum": "sha256:a4c5e9cabba5dcb81a619cf9b1267071ee91f39595dbfae72bcb902bcf1ab26f"
+		},
+		{
+			"file": "Zamuz/zamuz - visions five/08 - tower.avs",
+			"size": 5177,
+			"checksum": "sha256:e813bbdc847f4d23b2643cca98df846fb01e145ace44568ac9c670e3e17d1f62"
+		},
+		{
+			"file": "Zamuz/zamuz - visions five/09 - hot wheels.avs",
+			"size": 3055,
+			"checksum": "sha256:843c658865fe4727a5983705191537293ff539ef24fbc4c2b5fb14e9c2671afd"
+		},
+		{
+			"file": "Zamuz/zamuz - visions five/10 - mechanic feedback.avs",
+			"size": 5320,
+			"checksum": "sha256:07b8fe396bd152b771ba013af14b08c064631eef62b5c4df30e3ce2467967f04"
+		},
+		{
+			"file": "Zamuz/zamuz - visions five/11 - noon cycles.avs",
+			"size": 6820,
+			"checksum": "sha256:09936e4e520182a10d812d6a8b1e117873eff17043e13b81edaaae3dc60358df"
+		},
+		{
+			"file": "Zamuz/zamuz - visions five/12 - freeform.avs",
+			"size": 4425,
+			"checksum": "sha256:1381385f7fdf2b8415fa907791815b08ed4be0a0481ff57cb361d1a6604fc3e2"
+		},
+		{
+			"file": "Zamuz/zamuz - visions five/13 - engine.avs",
+			"size": 2765,
+			"checksum": "sha256:cf154495c0720aa5ec11d3d59f97b8732cb55cfece256109bd63689b8055432f"
+		},
+		{
+			"file": "Zamuz/zamuz - visions five/14 - greed.avs",
+			"size": 3169,
+			"checksum": "sha256:8885ccbbbc28285273fbf9f481d55094217f3bb9246ae26abd1b45531aa1c44f"
+		},
+		{
+			"file": "Zamuz/zamuz - visions five/15 - bar code.avs",
+			"size": 2440,
+			"checksum": "sha256:95657602340852ae9be6a1de4aa522468eded07f6554d3174a7d552285deda35"
+		},
+		{
+			"file": "Zamuz/zamuz - visions five/16 - roses (color flush remix).avs",
+			"size": 3485,
+			"checksum": "sha256:3a1fc277a78562e2f106691fcc17eb1f795b653c7f4237fc6a6d930483a86a0f"
+		}
+	],
+	"assets": [
+		{
+			"file": "v4_texer7.bmp",
+			"size": 1954,
+			"checksum": "sha256:49b6458d62c8f9687fefe109e1891166da70448e4eba3006067f948662a46a76"
+		},
+		{
+			"file": "v5_circle.bmp",
+			"size": 4854,
+			"checksum": "sha256:cebc9a03181dd184fecbba1d09290f11c70f1aaea28b8e5520d0e276267fec40"
+		},
+		{
+			"file": "v5_circle2.bmp",
+			"size": 4854,
+			"checksum": "sha256:65a9b00fed4552aaac62952a11fdebfcc3f2d98fa1fd61cbf2ce7f0a501f80af"
+		},
+		{
+			"file": "v5_intro2.bmp",
+			"size": 8254,
+			"checksum": "sha256:f9501fcb0c838cca81f3da3f7d6d7b2350113b8eda83c477a3a7f5040acdf183"
+		},
+		{
+			"file": "V5_intro4.bmp",
+			"size": 7878,
+			"checksum": "sha256:381ef6cc802bd8a69fa6748506711050438e256ef704017c3e4ca33dac1b88a6"
+		},
+		{
+			"file": "v5_square.bmp",
+			"size": 1254,
+			"checksum": "sha256:2e3dc3d7cec32c7a2091c638f46cf70b9b01974ebcf0558ba3edc8e67b29b065"
+		},
+		{
+			"file": "v5_texer1.bmp",
+			"size": 7654,
+			"checksum": "sha256:a3479f02cd8b7257efb9f07839f6e022c06638c87ded2d3517619125222331d9"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

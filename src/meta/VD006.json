@@ -1,160 +1,154 @@
 {
-    "name": "Dynamic Movement 6",
-    "id": "VD006",
-    "presets": [
-        {
-            "file": "Dynamic Duo/Dynamic Movement 6/01 dynamic duo - introit six.avs",
-            "size": 4154,
-            "checksum": "sha256:8bf9f0cd4b3d56d355fbf30b60b5e9d39142bf4a8d798f9afeccc2793deabe39"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 6/02 dynamic duo - tentaclism.avs",
-            "size": 3284,
-            "checksum": "sha256:dcff0a643dab951d36269ddefb03d2a3fb4792adbe84280c2e656e207a8f0348"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 6/03 elvis - dreamtime (yathosho vs zamuz classy mix).avs",
-            "size": 13192,
-            "checksum": "sha256:efb43aafdfaa7bef45f5881ca82f300fa29266812672827db4f9daf140a895d6"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 6/04 alchemist - just like el-vis taught me (yathosho's summer lick).avs",
-            "size": 5425,
-            "checksum": "sha256:858d1a024125c8156217b1dd9d5b036dac584595521aef84f6b1f59d22fdb1d6"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 6/05 synth-c - clusterfuck (ya-tho-sho alternate treatment).avs",
-            "size": 12871,
-            "checksum": "sha256:becad56598acee653c2d772d42f3eddb0caff919818a6534a8e2ff1f0ea3b87b"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 6/06 pak-9 - mysticchrome (vanish's ninjaisbleeding rmx).avs",
-            "size": 5175,
-            "checksum": "sha256:453eb0cc7c63d6a49768924851992d4bd1a801c82e4cfa7ce814257951a349b8"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 6/07 frames.of.reality - into the chamber of maedvigan (yathosho's flight of the tempest part i).avs",
-            "size": 3159,
-            "checksum": "sha256:31398b91b77b39b911d1685277bfc7f04ddd5f0a185c76efed9a0bf1802cda77"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 6/08 tuggummi - converting your thoughts to rgb (dynamic duo's body to bass remix).avs",
-            "size": 3060,
-            "checksum": "sha256:5ee42a49af20bff315209efaa21c7dd80e80a63f4828e785ed3eb79c4b5985de"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 6/09 duo & vanish - wickedjunglesmassive (yathosho's cartographic re-rub).avs",
-            "size": 4302,
-            "checksum": "sha256:e7085723a8a54a386525232a9971fbfbf1ba8050e514150798322ec8a6082d85"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 6/10 frames.of.reality vs elvis & vanish - novae (ya-tho-sho allstar birthday treatment).avs",
-            "size": 6193,
-            "checksum": "sha256:df725b1f2ac84d33aa24626b381099630e81f4d258275b960340589756d1a47a"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 6/11 zamuz - urban metallic (skupers remix).avs",
-            "size": 4160,
-            "checksum": "sha256:2fe8b550b8a9d89fe80552c23c809c519279adf4fc903c9f3769486158b547aa"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 6/12 dynamic duo - contraction (sunfraction mix by grandchild).avs",
-            "size": 4468,
-            "checksum": "sha256:98503c1da04dd07f0dc2433df22b4ada4587276e4d1d356d25fd9b8f5f55c933"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 6/13 kar-ma - dither (yathosho's alien breed rework).avs",
-            "size": 9015,
-            "checksum": "sha256:18a770d3e01be7b6696d4619eadae7e57eac57de082c9da2bf7e06c46c929a6f"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 6/14 yathosho - lifecycles (dub #2).avs",
-            "size": 3800,
-            "checksum": "sha256:eec9a339ce331482c84db463c9b5a4d4c03f95134e6d7af73bf89d6dec19b4a2"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 6/15 zamuz - fluffy candy time (dynamic duo re-edit #8).avs",
-            "size": 4442,
-            "checksum": "sha256:6bd12b1f3500a87daedc73c9861158fc5dc1ef5db1279ae289cdc8be03789f63"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 6/16 dynamic duo - hypersonic (ya-tho-sho treatment).avs",
-            "size": 3848,
-            "checksum": "sha256:482e9589678d47e5ba1d759162c9c168ccb29581fa2efc86278e3cf3a97c2b34"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 6/17 dynamic duo - get sick (777minus111 mix by vanish).avs",
-            "size": 2597,
-            "checksum": "sha256:0a5faecc5bcf5c71a8792907c6e839e705edcce3a20b904f04d904b472122a31"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 6/18 elvis - dreamtime (dynamic duo's harry-bo rework #1).avs",
-            "size": 13175,
-            "checksum": "sha256:2cfbe5396136dab4bb4e60b1cc9a01e7c6df94b3deee664b920a48381cebfadf"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 6/19 hboy - fiery caramel (ya-tho-sho treatment #2).avs",
-            "size": 3463,
-            "checksum": "sha256:df9d0ebe53f056c8894887f1cb6b5354b2916b41f0e6548581856547dea41b6f"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 6/20 pure-krypton - skin (yathosho's closer-closer mix).avs",
-            "size": 7724,
-            "checksum": "sha256:9fc5218ce1c49861291e030caaa8f81b242c5e610efd873cce3b1295a5a2ea9f"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 6/21 yathosho - sokoban (2006 re-edit).avs",
-            "size": 2697,
-            "checksum": "sha256:63c464b0f03d3cf19fd6228c288e003f938753e769a143c3c595e6b14e4fb5d3"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 6/22 jjcl237 - oil spill (yathosho's itoons mix).avs",
-            "size": 3383,
-            "checksum": "sha256:85cad1435031cd3d04887e6a72c8a7e45df3df26c73a587ba660c2ab115b8f77"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 6/23 synth-c - fluid drive (fake nixa rmx).avs",
-            "size": 7531,
-            "checksum": "sha256:16d088cc9b9350d8a9ec9560bea628cf3ba6a2abc8782938f2538a452ea41459"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 6/24 nemo - bouquet (yathosho's sweet june rework).avs",
-            "size": 11434,
-            "checksum": "sha256:d91a3473349346cf98576476c8ee2dadc87848796eed9e79d14d5381a4419503"
-        }
-    ],
-    "assets": [
-        {
-            "file": "avsres_texer_circle_fade_19x19.bmp",
-            "size": 1194,
-            "checksum": "sha256:cc04c68f70e6e055052c17d9acab017f4f8e0124db05422cffeea153073f24d6"
-        },
-        {
-            "file": "avsres_texer_circle_slightblur_23x23.bmp",
-            "size": 1710,
-            "checksum": "sha256:f422d35cde6b401866dbf5f43184a1effb3cedc599e912af1b8e9b17ca1af37e"
-        },
-        {
-            "file": "avsres_texer_square_sharp_04x04.bmp",
-            "size": 246,
-            "checksum": "sha256:2e3156b4b05df497d7450b7869f6b547799d8799e9a23c7ba736fd4ff3bc8717"
-        },
-        {
-            "file": "vb.bmp",
-            "size": 145254,
-            "checksum": "sha256:92479458ed7967973cccc27666c5192a2cf8a9f5b526dacba4c3fc907a3bdad4"
-        },
-        {
-            "file": "Silkscreen.ttf",
-            "size": 18336,
-            "checksum": "sha256:201df110e8dd8f19da40e5ad953b25bcac34dcb1bd14c7b8e02c9ce0b5ac0ca3"
-        }
-    ],
-    "plugins": [
-        "AddBorder",
-        "BufferBlend",
-        "ConvolutionFilter",
-        "GlobalVarMan",
-        "TransAuto"
-    ]
+	"name": "Dynamic Movement 6",
+	"id": "VD006",
+	"presets": [
+		{
+			"file": "Dynamic Duo/Dynamic Movement 6/01 dynamic duo - introit six.avs",
+			"size": 4154,
+			"checksum": "sha256:8bf9f0cd4b3d56d355fbf30b60b5e9d39142bf4a8d798f9afeccc2793deabe39"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 6/02 dynamic duo - tentaclism.avs",
+			"size": 3284,
+			"checksum": "sha256:dcff0a643dab951d36269ddefb03d2a3fb4792adbe84280c2e656e207a8f0348"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 6/03 elvis - dreamtime (yathosho vs zamuz classy mix).avs",
+			"size": 13192,
+			"checksum": "sha256:efb43aafdfaa7bef45f5881ca82f300fa29266812672827db4f9daf140a895d6"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 6/04 alchemist - just like el-vis taught me (yathosho's summer lick).avs",
+			"size": 5425,
+			"checksum": "sha256:858d1a024125c8156217b1dd9d5b036dac584595521aef84f6b1f59d22fdb1d6"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 6/05 synth-c - clusterfuck (ya-tho-sho alternate treatment).avs",
+			"size": 12871,
+			"checksum": "sha256:becad56598acee653c2d772d42f3eddb0caff919818a6534a8e2ff1f0ea3b87b"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 6/06 pak-9 - mysticchrome (vanish's ninjaisbleeding rmx).avs",
+			"size": 5175,
+			"checksum": "sha256:453eb0cc7c63d6a49768924851992d4bd1a801c82e4cfa7ce814257951a349b8"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 6/07 frames.of.reality - into the chamber of maedvigan (yathosho's flight of the tempest part i).avs",
+			"size": 3159,
+			"checksum": "sha256:31398b91b77b39b911d1685277bfc7f04ddd5f0a185c76efed9a0bf1802cda77"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 6/08 tuggummi - converting your thoughts to rgb (dynamic duo's body to bass remix).avs",
+			"size": 3060,
+			"checksum": "sha256:5ee42a49af20bff315209efaa21c7dd80e80a63f4828e785ed3eb79c4b5985de"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 6/09 duo & vanish - wickedjunglesmassive (yathosho's cartographic re-rub).avs",
+			"size": 4302,
+			"checksum": "sha256:e7085723a8a54a386525232a9971fbfbf1ba8050e514150798322ec8a6082d85"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 6/10 frames.of.reality vs elvis & vanish - novae (ya-tho-sho allstar birthday treatment).avs",
+			"size": 6193,
+			"checksum": "sha256:df725b1f2ac84d33aa24626b381099630e81f4d258275b960340589756d1a47a"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 6/11 zamuz - urban metallic (skupers remix).avs",
+			"size": 4160,
+			"checksum": "sha256:2fe8b550b8a9d89fe80552c23c809c519279adf4fc903c9f3769486158b547aa"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 6/12 dynamic duo - contraction (sunfraction mix by grandchild).avs",
+			"size": 4468,
+			"checksum": "sha256:98503c1da04dd07f0dc2433df22b4ada4587276e4d1d356d25fd9b8f5f55c933"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 6/13 kar-ma - dither (yathosho's alien breed rework).avs",
+			"size": 9015,
+			"checksum": "sha256:18a770d3e01be7b6696d4619eadae7e57eac57de082c9da2bf7e06c46c929a6f"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 6/14 yathosho - lifecycles (dub #2).avs",
+			"size": 3800,
+			"checksum": "sha256:eec9a339ce331482c84db463c9b5a4d4c03f95134e6d7af73bf89d6dec19b4a2"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 6/15 zamuz - fluffy candy time (dynamic duo re-edit #8).avs",
+			"size": 4442,
+			"checksum": "sha256:6bd12b1f3500a87daedc73c9861158fc5dc1ef5db1279ae289cdc8be03789f63"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 6/16 dynamic duo - hypersonic (ya-tho-sho treatment).avs",
+			"size": 3848,
+			"checksum": "sha256:482e9589678d47e5ba1d759162c9c168ccb29581fa2efc86278e3cf3a97c2b34"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 6/17 dynamic duo - get sick (777minus111 mix by vanish).avs",
+			"size": 2597,
+			"checksum": "sha256:0a5faecc5bcf5c71a8792907c6e839e705edcce3a20b904f04d904b472122a31"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 6/18 elvis - dreamtime (dynamic duo's harry-bo rework #1).avs",
+			"size": 13175,
+			"checksum": "sha256:2cfbe5396136dab4bb4e60b1cc9a01e7c6df94b3deee664b920a48381cebfadf"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 6/19 hboy - fiery caramel (ya-tho-sho treatment #2).avs",
+			"size": 3463,
+			"checksum": "sha256:df9d0ebe53f056c8894887f1cb6b5354b2916b41f0e6548581856547dea41b6f"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 6/20 pure-krypton - skin (yathosho's closer-closer mix).avs",
+			"size": 7724,
+			"checksum": "sha256:9fc5218ce1c49861291e030caaa8f81b242c5e610efd873cce3b1295a5a2ea9f"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 6/21 yathosho - sokoban (2006 re-edit).avs",
+			"size": 2697,
+			"checksum": "sha256:63c464b0f03d3cf19fd6228c288e003f938753e769a143c3c595e6b14e4fb5d3"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 6/22 jjcl237 - oil spill (yathosho's itoons mix).avs",
+			"size": 3383,
+			"checksum": "sha256:85cad1435031cd3d04887e6a72c8a7e45df3df26c73a587ba660c2ab115b8f77"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 6/23 synth-c - fluid drive (fake nixa rmx).avs",
+			"size": 7531,
+			"checksum": "sha256:16d088cc9b9350d8a9ec9560bea628cf3ba6a2abc8782938f2538a452ea41459"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 6/24 nemo - bouquet (yathosho's sweet june rework).avs",
+			"size": 11434,
+			"checksum": "sha256:d91a3473349346cf98576476c8ee2dadc87848796eed9e79d14d5381a4419503"
+		}
+	],
+	"assets": [
+		{
+			"file": "avsres_texer_circle_fade_19x19.bmp",
+			"size": 1194,
+			"checksum": "sha256:cc04c68f70e6e055052c17d9acab017f4f8e0124db05422cffeea153073f24d6"
+		},
+		{
+			"file": "avsres_texer_circle_slightblur_23x23.bmp",
+			"size": 1710,
+			"checksum": "sha256:f422d35cde6b401866dbf5f43184a1effb3cedc599e912af1b8e9b17ca1af37e"
+		},
+		{
+			"file": "avsres_texer_square_sharp_04x04.bmp",
+			"size": 246,
+			"checksum": "sha256:2e3156b4b05df497d7450b7869f6b547799d8799e9a23c7ba736fd4ff3bc8717"
+		},
+		{
+			"file": "vb.bmp",
+			"size": 145254,
+			"checksum": "sha256:92479458ed7967973cccc27666c5192a2cf8a9f5b526dacba4c3fc907a3bdad4"
+		},
+		{
+			"file": "Silkscreen.ttf",
+			"size": 18336,
+			"checksum": "sha256:201df110e8dd8f19da40e5ad953b25bcac34dcb1bd14c7b8e02c9ce0b5ac0ca3"
+		}
+	],
+	"plugins": ["AddBorder", "BufferBlend", "ConvolutionFilter", "GlobalVarMan", "TransAuto"]
 }

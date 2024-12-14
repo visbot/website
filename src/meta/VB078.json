@@ -1,29 +1,27 @@
 {
-    "name": "zamuz - dreams",
-    "id": "VB078",
-    "presets": [
-        {
-            "file": "Zamuz/zamuz - dreams/01 - candy dream.avs",
-            "size": 3596,
-            "checksum": "sha256:a1ca67f1010fa387e96d9f881cb0e8f269a1a793151d66649da3796d44b31d7c"
-        },
-        {
-            "file": "Zamuz/zamuz - dreams/02 - blood twisters.avs",
-            "size": 2870,
-            "checksum": "sha256:725e80a937592f9803813ee7178ee1ab3cab20e244e18d73c29a4410b0d71460"
-        },
-        {
-            "file": "Zamuz/zamuz - dreams/03 - flowing art.avs",
-            "size": 2340,
-            "checksum": "sha256:6ef840ef67b8f35ce87ae63148a701faaee6a1f6b824126892b4c5b2a201915d"
-        },
-        {
-            "file": "Zamuz/zamuz - dreams/04 - milky dream.avs",
-            "size": 2260,
-            "checksum": "sha256:cba7a60a23964f291eb9594143e814dd62a311ae6aee137f492cf850474e5301"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "zamuz - dreams",
+	"id": "VB078",
+	"presets": [
+		{
+			"file": "Zamuz/zamuz - dreams/01 - candy dream.avs",
+			"size": 3596,
+			"checksum": "sha256:a1ca67f1010fa387e96d9f881cb0e8f269a1a793151d66649da3796d44b31d7c"
+		},
+		{
+			"file": "Zamuz/zamuz - dreams/02 - blood twisters.avs",
+			"size": 2870,
+			"checksum": "sha256:725e80a937592f9803813ee7178ee1ab3cab20e244e18d73c29a4410b0d71460"
+		},
+		{
+			"file": "Zamuz/zamuz - dreams/03 - flowing art.avs",
+			"size": 2340,
+			"checksum": "sha256:6ef840ef67b8f35ce87ae63148a701faaee6a1f6b824126892b4c5b2a201915d"
+		},
+		{
+			"file": "Zamuz/zamuz - dreams/04 - milky dream.avs",
+			"size": 2260,
+			"checksum": "sha256:cba7a60a23964f291eb9594143e814dd62a311ae6aee137f492cf850474e5301"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

@@ -1,29 +1,27 @@
 {
-    "name": "PAN AM Detroit V-VIII",
-    "id": "VB009",
-    "presets": [
-        {
-            "file": "PAN AM Detroit V-VIII/Pan Am - Detroit V.avs",
-            "size": 1018,
-            "checksum": "sha256:b8a8c874a3c62f358a5f82bfec938d1f6bdee9a8ca0defc8d3b982b9ba028956"
-        },
-        {
-            "file": "PAN AM Detroit V-VIII/Pan Am - Detroit VI.avs",
-            "size": 952,
-            "checksum": "sha256:19ab68c0bd93c3111da2f573cb260be34d5c09cf509f406ce53530bb09d5c4f0"
-        },
-        {
-            "file": "PAN AM Detroit V-VIII/Pan Am - Detroit VII.avs",
-            "size": 2188,
-            "checksum": "sha256:c1e84d44b134639bf760d71034c13176f19b4be6288b864e90e75f29c11fe463"
-        },
-        {
-            "file": "PAN AM Detroit V-VIII/Pan Am - Detroit VIII.avs",
-            "size": 1285,
-            "checksum": "sha256:b919f9d55d3ba1ac5cad0f1d24a767cb8d3a8268f37c9b915fc3fa583159ad68"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "PAN AM Detroit V-VIII",
+	"id": "VB009",
+	"presets": [
+		{
+			"file": "PAN AM Detroit V-VIII/Pan Am - Detroit V.avs",
+			"size": 1018,
+			"checksum": "sha256:b8a8c874a3c62f358a5f82bfec938d1f6bdee9a8ca0defc8d3b982b9ba028956"
+		},
+		{
+			"file": "PAN AM Detroit V-VIII/Pan Am - Detroit VI.avs",
+			"size": 952,
+			"checksum": "sha256:19ab68c0bd93c3111da2f573cb260be34d5c09cf509f406ce53530bb09d5c4f0"
+		},
+		{
+			"file": "PAN AM Detroit V-VIII/Pan Am - Detroit VII.avs",
+			"size": 2188,
+			"checksum": "sha256:c1e84d44b134639bf760d71034c13176f19b4be6288b864e90e75f29c11fe463"
+		},
+		{
+			"file": "PAN AM Detroit V-VIII/Pan Am - Detroit VIII.avs",
+			"size": 1285,
+			"checksum": "sha256:b919f9d55d3ba1ac5cad0f1d24a767cb8d3a8268f37c9b915fc3fa583159ad68"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

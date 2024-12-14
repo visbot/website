@@ -1,199 +1,199 @@
 {
-    "name": "Effekthasch",
-    "id": "VB234",
-    "presets": [
-        {
-            "file": "Effekthasch/01 - Effekthasch/EH - 1-01 - Effekthasch Intro.avs",
-            "size": 21463,
-            "checksum": "sha256:0add083fb08858650df0f4c53e06549c47ddd8a769f6551812b997fe182df819"
-        },
-        {
-            "file": "Effekthasch/01 - Effekthasch/EH - 1-02 - The Will To Live.avs",
-            "size": 6074,
-            "checksum": "sha256:e9b9570d32df9837bc1e43a9f824f01b8d1ad63317e959881260572a82c0b483"
-        },
-        {
-            "file": "Effekthasch/01 - Effekthasch/EH - 1-03 - Femme Fatale.avs",
-            "size": 5761,
-            "checksum": "sha256:f1a07a8c8e18843628b88f347d318c65bdd46f9361be9c873dd357fe9dfa9b4a"
-        },
-        {
-            "file": "Effekthasch/01 - Effekthasch/EH - 1-04 - Bumper Bump (Chinese Lamps version).avs",
-            "size": 4316,
-            "checksum": "sha256:e4a4be5df1909b50159c99353191c35ac2a5fa5a9f198f59aba1cf94dba7d9d3"
-        },
-        {
-            "file": "Effekthasch/01 - Effekthasch/EH - 1-05 - My Wildest Dreams.avs",
-            "size": 10551,
-            "checksum": "sha256:6d35ae144ea34ce0c67183a54252456e7795c7e5a6d033722ed4a44118d750df"
-        },
-        {
-            "file": "Effekthasch/01 - Effekthasch/EH - 1-06 - Theory Of Pretty Much Everything.avs",
-            "size": 5431,
-            "checksum": "sha256:d0c3905553e559031679e2c270ab4c2f975b2ddd58ffc11f066db7c13e888805"
-        },
-        {
-            "file": "Effekthasch/01 - Effekthasch/EH - 1-07 - Circle Action.avs",
-            "size": 5613,
-            "checksum": "sha256:9e191cb8eaf41865900c03e3703ffc197b94334df34684141ceeceec37df09b8"
-        },
-        {
-            "file": "Effekthasch/01 - Effekthasch/EH - 1-08 - Ohnehin.avs",
-            "size": 4322,
-            "checksum": "sha256:a12580d02fd4f4e90c5fb7bd5b10cfdb49c3f5d3c5587634ac13ce18bfc9f398"
-        },
-        {
-            "file": "Effekthasch/01 - Effekthasch/EH - 1-09 - Diskostu (fast and colourful).avs",
-            "size": 175424,
-            "checksum": "sha256:10291b7de0f72903637148bbe27bfa5eb79bbad6b48e5897196e0378c5f935d7"
-        },
-        {
-            "file": "Effekthasch/01 - Effekthasch/EH - 1-10 - New Life.avs",
-            "size": 7018,
-            "checksum": "sha256:0a97d79b681e37c6daf79f8f874327c70c2bf2026b2e028e52322ce5efe7aeba"
-        },
-        {
-            "file": "Effekthasch/01 - Effekthasch/EH - 1-11 - Blue Ghost.avs",
-            "size": 4687,
-            "checksum": "sha256:00661c5aae62f57970391a54aa5ff7b999a57f866781c3e5df722b81c5844318"
-        },
-        {
-            "file": "Effekthasch/01 - Effekthasch/EH - 1-12 - You And Me (Edit).avs",
-            "size": 7593,
-            "checksum": "sha256:b08da4b5595eb5ad343a6cdc92de1eb5b14485708679d9e8cf0a548dcfe94702"
-        },
-        {
-            "file": "Effekthasch/01 - Effekthasch/EH - 1-13 - Yathosho - i-7a (dark lounge mix).avs",
-            "size": 3666,
-            "checksum": "sha256:cb4369bf0b631c7a074f957592099881eb4469e44a57eb3b46c7c596290a21d9"
-        },
-        {
-            "file": "Effekthasch/01 - Effekthasch/EH - 1-14 - Antenna.avs",
-            "size": 8785,
-            "checksum": "sha256:d62e5a4667343b0feccf4ab4e0bc9530587419066380f9fa6bae06ea4a6c4a8c"
-        },
-        {
-            "file": "Effekthasch/01 - Effekthasch/EH - 1-15 - Dynamic Duo - Tentaclism (daVinci's sketchbook remix).avs",
-            "size": 8153,
-            "checksum": "sha256:34b1c92a9fb6fb3de1462cbd7f3ba8038316ee5f2bec622ca234f3212ff08278"
-        },
-        {
-            "file": "Effekthasch/01 - Effekthasch/EH - 1-16 - Quicksand.avs",
-            "size": 3492,
-            "checksum": "sha256:481f3fc27f49ea053ba8578d9f3f181d3d88227e5d1465ba0b75fc40b966a76c"
-        },
-        {
-            "file": "Effekthasch/01 - Effekthasch/EH - 1-17 - Diskostu (high quality).avs",
-            "size": 176040,
-            "checksum": "sha256:3226b76b83e6750a7e23879da1281745c3ac329092db41612cc30daaf02bba11"
-        }
-    ],
-    "assets": [
-        {
-            "file": "avsres_texer_circle_fade_13x13.bmp",
-            "size": 574,
-            "checksum": "sha256:b63bce5ba15b7dbaeedc588fa991c218963d0ed312c865a0d0f36d771b496a37"
-        },
-        {
-            "file": "avsres_texer_circle_sharp_09x09.bmp",
-            "size": 450,
-            "checksum": "sha256:6ff6f86f427968efbd9a21ddce8cf0cd681681f0d7fc772659a86700a9c7d0ac"
-        },
-        {
-            "file": "avsres_texer_circle_slightblur_13x13.bmp",
-            "size": 574,
-            "checksum": "sha256:f26cdcfd72f313040335a5aef83d7302c6efea241b3b88b463bd6a66a6c685d0"
-        },
-        {
-            "file": "avsres_texer_circle_slightblur_21x21.bmp",
-            "size": 1398,
-            "checksum": "sha256:ddbd3beabf6a2fa1a5385cc5943a1b4a49431902a8e3d461ce7c06a6f6987bb3"
-        },
-        {
-            "file": "avsres_texer_hexagon-h_blur_123x123.bmp",
-            "size": 7990,
-            "checksum": "sha256:3837dee6e0d667703d694736ceda0bafbb012d72c37deefa3748941aa4cf23aa"
-        },
-        {
-            "file": "avsres_texer_square_sharp_20x20.bmp",
-            "size": 1782,
-            "checksum": "sha256:bcf774b1520e3314da459eb50c9b597531d783c20b48abd5f1ba91641f3169c6"
-        },
-        {
-            "file": "EH-01-a_production.bmp",
-            "size": 151254,
-            "checksum": "sha256:fab77d1c597de61b69ace85a1ae9df77e54696f25ba5818680a130308b4786c2"
-        },
-        {
-            "file": "EH-01-and.bmp",
-            "size": 20654,
-            "checksum": "sha256:85b4ae2fc3d7f7777453595da0ac5a2d18551f714a18774862c1608a16fa3797"
-        },
-        {
-            "file": "EH-01-effekthasch.bmp",
-            "size": 58520,
-            "checksum": "sha256:f9f23a170e01ad3e932bd5da9b9545b69c9cd9ec9d55dfa2d5d9ed507e6da901"
-        },
-        {
-            "file": "EH-01-effekthasch2.bmp",
-            "size": 59694,
-            "checksum": "sha256:a265e1945fc6455e7a579fbb9850e0648872a3b04de25683f96ccd1f22d89a86"
-        },
-        {
-            "file": "EH-01-featuring.bmp",
-            "size": 70454,
-            "checksum": "sha256:0529beca6b16e7b64042ae5618b293b978441164d04fe07377c7662f6b2168ea"
-        },
-        {
-            "file": "EH-01-Grandchild.bmp",
-            "size": 109254,
-            "checksum": "sha256:58440a960007482e37bc3770feb78fbc0a064c388b3ab49c90d40f587178c2a9"
-        },
-        {
-            "file": "EH-01-Hurricane.bmp",
-            "size": 138654,
-            "checksum": "sha256:bcf1c8488b104d06adbeb87a96b3e85f1ce11ec3ffa9c4388ecf25b361021c09"
-        },
-        {
-            "file": "EH-01-in.bmp",
-            "size": 14454,
-            "checksum": "sha256:64d165a70b984315c35324e7524a2af422abdf2935e119eade361296d60e5d66"
-        },
-        {
-            "file": "EH-01-presents.bmp",
-            "size": 59222,
-            "checksum": "sha256:22446fdf113322a7e7cd199f1ab8067a05f4bc5895eced17ca2f348fc0b13369"
-        },
-        {
-            "file": "EH-01-visbot.bmp",
-            "size": 60942,
-            "checksum": "sha256:2755edd915cddc91c116f2ea342059e7b78825f00b09a2460c340230474842ad"
-        },
-        {
-            "file": "EH-01-Your_Mom.bmp",
-            "size": 94338,
-            "checksum": "sha256:d9f25f50426b236e889cbdebc9a835e19d10a3c2f6ee6055fbc3ea935990ba75"
-        },
-        {
-            "file": "gc - angel beam 14x14.bmp",
-            "size": 672,
-            "checksum": "sha256:768cf472e40c54b3d57faa79c37ab29b8bcaf3b6d33db9b3741523ea9d31f783"
-        },
-        {
-            "file": "vb11_vb.bmp",
-            "size": 55950,
-            "checksum": "sha256:166a4b4ada72ceb1b6066b13af2ee0a439feb14547e7b12f10df017cb6d2d480"
-        }
-    ],
-    "plugins": [
-        "AddBorder",
-        "ChannelShift",
-        "ColorMap",
-        "ConvolutionFilter",
-        "FramerateLimiter",
-        "Normalise",
-        "Texer2",
-        "TransAuto",
-        "Triangle"
-    ]
+	"name": "Effekthasch",
+	"id": "VB234",
+	"presets": [
+		{
+			"file": "Effekthasch/01 - Effekthasch/EH - 1-01 - Effekthasch Intro.avs",
+			"size": 21463,
+			"checksum": "sha256:0add083fb08858650df0f4c53e06549c47ddd8a769f6551812b997fe182df819"
+		},
+		{
+			"file": "Effekthasch/01 - Effekthasch/EH - 1-02 - The Will To Live.avs",
+			"size": 6074,
+			"checksum": "sha256:e9b9570d32df9837bc1e43a9f824f01b8d1ad63317e959881260572a82c0b483"
+		},
+		{
+			"file": "Effekthasch/01 - Effekthasch/EH - 1-03 - Femme Fatale.avs",
+			"size": 5761,
+			"checksum": "sha256:f1a07a8c8e18843628b88f347d318c65bdd46f9361be9c873dd357fe9dfa9b4a"
+		},
+		{
+			"file": "Effekthasch/01 - Effekthasch/EH - 1-04 - Bumper Bump (Chinese Lamps version).avs",
+			"size": 4316,
+			"checksum": "sha256:e4a4be5df1909b50159c99353191c35ac2a5fa5a9f198f59aba1cf94dba7d9d3"
+		},
+		{
+			"file": "Effekthasch/01 - Effekthasch/EH - 1-05 - My Wildest Dreams.avs",
+			"size": 10551,
+			"checksum": "sha256:6d35ae144ea34ce0c67183a54252456e7795c7e5a6d033722ed4a44118d750df"
+		},
+		{
+			"file": "Effekthasch/01 - Effekthasch/EH - 1-06 - Theory Of Pretty Much Everything.avs",
+			"size": 5431,
+			"checksum": "sha256:d0c3905553e559031679e2c270ab4c2f975b2ddd58ffc11f066db7c13e888805"
+		},
+		{
+			"file": "Effekthasch/01 - Effekthasch/EH - 1-07 - Circle Action.avs",
+			"size": 5613,
+			"checksum": "sha256:9e191cb8eaf41865900c03e3703ffc197b94334df34684141ceeceec37df09b8"
+		},
+		{
+			"file": "Effekthasch/01 - Effekthasch/EH - 1-08 - Ohnehin.avs",
+			"size": 4322,
+			"checksum": "sha256:a12580d02fd4f4e90c5fb7bd5b10cfdb49c3f5d3c5587634ac13ce18bfc9f398"
+		},
+		{
+			"file": "Effekthasch/01 - Effekthasch/EH - 1-09 - Diskostu (fast and colourful).avs",
+			"size": 175424,
+			"checksum": "sha256:10291b7de0f72903637148bbe27bfa5eb79bbad6b48e5897196e0378c5f935d7"
+		},
+		{
+			"file": "Effekthasch/01 - Effekthasch/EH - 1-10 - New Life.avs",
+			"size": 7018,
+			"checksum": "sha256:0a97d79b681e37c6daf79f8f874327c70c2bf2026b2e028e52322ce5efe7aeba"
+		},
+		{
+			"file": "Effekthasch/01 - Effekthasch/EH - 1-11 - Blue Ghost.avs",
+			"size": 4687,
+			"checksum": "sha256:00661c5aae62f57970391a54aa5ff7b999a57f866781c3e5df722b81c5844318"
+		},
+		{
+			"file": "Effekthasch/01 - Effekthasch/EH - 1-12 - You And Me (Edit).avs",
+			"size": 7593,
+			"checksum": "sha256:b08da4b5595eb5ad343a6cdc92de1eb5b14485708679d9e8cf0a548dcfe94702"
+		},
+		{
+			"file": "Effekthasch/01 - Effekthasch/EH - 1-13 - Yathosho - i-7a (dark lounge mix).avs",
+			"size": 3666,
+			"checksum": "sha256:cb4369bf0b631c7a074f957592099881eb4469e44a57eb3b46c7c596290a21d9"
+		},
+		{
+			"file": "Effekthasch/01 - Effekthasch/EH - 1-14 - Antenna.avs",
+			"size": 8785,
+			"checksum": "sha256:d62e5a4667343b0feccf4ab4e0bc9530587419066380f9fa6bae06ea4a6c4a8c"
+		},
+		{
+			"file": "Effekthasch/01 - Effekthasch/EH - 1-15 - Dynamic Duo - Tentaclism (daVinci's sketchbook remix).avs",
+			"size": 8153,
+			"checksum": "sha256:34b1c92a9fb6fb3de1462cbd7f3ba8038316ee5f2bec622ca234f3212ff08278"
+		},
+		{
+			"file": "Effekthasch/01 - Effekthasch/EH - 1-16 - Quicksand.avs",
+			"size": 3492,
+			"checksum": "sha256:481f3fc27f49ea053ba8578d9f3f181d3d88227e5d1465ba0b75fc40b966a76c"
+		},
+		{
+			"file": "Effekthasch/01 - Effekthasch/EH - 1-17 - Diskostu (high quality).avs",
+			"size": 176040,
+			"checksum": "sha256:3226b76b83e6750a7e23879da1281745c3ac329092db41612cc30daaf02bba11"
+		}
+	],
+	"assets": [
+		{
+			"file": "avsres_texer_circle_fade_13x13.bmp",
+			"size": 574,
+			"checksum": "sha256:b63bce5ba15b7dbaeedc588fa991c218963d0ed312c865a0d0f36d771b496a37"
+		},
+		{
+			"file": "avsres_texer_circle_sharp_09x09.bmp",
+			"size": 450,
+			"checksum": "sha256:6ff6f86f427968efbd9a21ddce8cf0cd681681f0d7fc772659a86700a9c7d0ac"
+		},
+		{
+			"file": "avsres_texer_circle_slightblur_13x13.bmp",
+			"size": 574,
+			"checksum": "sha256:f26cdcfd72f313040335a5aef83d7302c6efea241b3b88b463bd6a66a6c685d0"
+		},
+		{
+			"file": "avsres_texer_circle_slightblur_21x21.bmp",
+			"size": 1398,
+			"checksum": "sha256:ddbd3beabf6a2fa1a5385cc5943a1b4a49431902a8e3d461ce7c06a6f6987bb3"
+		},
+		{
+			"file": "avsres_texer_hexagon-h_blur_123x123.bmp",
+			"size": 7990,
+			"checksum": "sha256:3837dee6e0d667703d694736ceda0bafbb012d72c37deefa3748941aa4cf23aa"
+		},
+		{
+			"file": "avsres_texer_square_sharp_20x20.bmp",
+			"size": 1782,
+			"checksum": "sha256:bcf774b1520e3314da459eb50c9b597531d783c20b48abd5f1ba91641f3169c6"
+		},
+		{
+			"file": "EH-01-a_production.bmp",
+			"size": 151254,
+			"checksum": "sha256:fab77d1c597de61b69ace85a1ae9df77e54696f25ba5818680a130308b4786c2"
+		},
+		{
+			"file": "EH-01-and.bmp",
+			"size": 20654,
+			"checksum": "sha256:85b4ae2fc3d7f7777453595da0ac5a2d18551f714a18774862c1608a16fa3797"
+		},
+		{
+			"file": "EH-01-effekthasch.bmp",
+			"size": 58520,
+			"checksum": "sha256:f9f23a170e01ad3e932bd5da9b9545b69c9cd9ec9d55dfa2d5d9ed507e6da901"
+		},
+		{
+			"file": "EH-01-effekthasch2.bmp",
+			"size": 59694,
+			"checksum": "sha256:a265e1945fc6455e7a579fbb9850e0648872a3b04de25683f96ccd1f22d89a86"
+		},
+		{
+			"file": "EH-01-featuring.bmp",
+			"size": 70454,
+			"checksum": "sha256:0529beca6b16e7b64042ae5618b293b978441164d04fe07377c7662f6b2168ea"
+		},
+		{
+			"file": "EH-01-Grandchild.bmp",
+			"size": 109254,
+			"checksum": "sha256:58440a960007482e37bc3770feb78fbc0a064c388b3ab49c90d40f587178c2a9"
+		},
+		{
+			"file": "EH-01-Hurricane.bmp",
+			"size": 138654,
+			"checksum": "sha256:bcf1c8488b104d06adbeb87a96b3e85f1ce11ec3ffa9c4388ecf25b361021c09"
+		},
+		{
+			"file": "EH-01-in.bmp",
+			"size": 14454,
+			"checksum": "sha256:64d165a70b984315c35324e7524a2af422abdf2935e119eade361296d60e5d66"
+		},
+		{
+			"file": "EH-01-presents.bmp",
+			"size": 59222,
+			"checksum": "sha256:22446fdf113322a7e7cd199f1ab8067a05f4bc5895eced17ca2f348fc0b13369"
+		},
+		{
+			"file": "EH-01-visbot.bmp",
+			"size": 60942,
+			"checksum": "sha256:2755edd915cddc91c116f2ea342059e7b78825f00b09a2460c340230474842ad"
+		},
+		{
+			"file": "EH-01-Your_Mom.bmp",
+			"size": 94338,
+			"checksum": "sha256:d9f25f50426b236e889cbdebc9a835e19d10a3c2f6ee6055fbc3ea935990ba75"
+		},
+		{
+			"file": "gc - angel beam 14x14.bmp",
+			"size": 672,
+			"checksum": "sha256:768cf472e40c54b3d57faa79c37ab29b8bcaf3b6d33db9b3741523ea9d31f783"
+		},
+		{
+			"file": "vb11_vb.bmp",
+			"size": 55950,
+			"checksum": "sha256:166a4b4ada72ceb1b6066b13af2ee0a439feb14547e7b12f10df017cb6d2d480"
+		}
+	],
+	"plugins": [
+		"AddBorder",
+		"ChannelShift",
+		"ColorMap",
+		"ConvolutionFilter",
+		"FramerateLimiter",
+		"Normalise",
+		"Texer2",
+		"TransAuto",
+		"Triangle"
+	]
 }

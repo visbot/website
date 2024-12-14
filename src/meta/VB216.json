@@ -1,100 +1,94 @@
 {
-    "name": "whyEye.org remixed",
-    "id": "VB216",
-    "presets": [
-        {
-            "file": "whyEye.org/whyEye.org remixed/01 yathosho - beyondbeyond (rusty remix by danjoe).avs",
-            "size": 1066,
-            "checksum": "sha256:8f623c7e156f0fefde060d9ba925a1c86e2292c814f8f8bbcbe9305aa23f93a4"
-        },
-        {
-            "file": "whyEye.org/whyEye.org remixed/02 yathosho - electronique (boxique mix by pak-9).avs",
-            "size": 7982,
-            "checksum": "sha256:fd075f60a2a554de160ab854caa1e1fa363ed633447c245bb45c182cf15bc476"
-        },
-        {
-            "file": "whyEye.org/whyEye.org remixed/03 yathosho - the oasis (nemo remix).avs",
-            "size": 1553,
-            "checksum": "sha256:33417a9ab5a099c830ca10f18ed8ea43dfbb07151f699a0350fc70de40d25b22"
-        },
-        {
-            "file": "whyEye.org/whyEye.org remixed/04 yathosho - krankheitsbild (avs-ike remix).avs",
-            "size": 1008,
-            "checksum": "sha256:377756ac124bf59091fd965565fa63c641d5d81b52a9ed4ac77cb67da8f08efa"
-        },
-        {
-            "file": "whyEye.org/whyEye.org remixed/05 yathosho - kirscharoma (pastel cherry remix by zamuz).avs",
-            "size": 1810,
-            "checksum": "sha256:0e1ff06710d2a1757b06f83d87afa6903edeefc150d909320d04f47064d4955e"
-        },
-        {
-            "file": "whyEye.org/whyEye.org remixed/06 yathosho - mathmos (teensex remix by el-vis).avs",
-            "size": 818,
-            "checksum": "sha256:aebeb996e3f88f47f9d8f00f09ad9eb25762f2153e044a2701b8b3a7f573bca5"
-        },
-        {
-            "file": "whyEye.org/whyEye.org remixed/07 yathosho - plastic wrap (plasticwrecx ii remix by skupers).avs",
-            "size": 3014,
-            "checksum": "sha256:77c8ec8df548fa14fad8e3866d507c843b4e9cd0b4b43c18a3b14b124c38fbcb"
-        },
-        {
-            "file": "whyEye.org/whyEye.org remixed/08 yathosho - minidisko (nipple blanket mix by unconed).avs",
-            "size": 3898,
-            "checksum": "sha256:422ee28155a42a59bf7268e96979671c44de2e1bfb9db4416ac9ad3f9d58b501"
-        },
-        {
-            "file": "whyEye.org/whyEye.org remixed/09 yathosho - new sector movements (iiriel remix by skupers).avs",
-            "size": 3566,
-            "checksum": "sha256:9a95714de254d3c448b936d144880df6037ee0cea6c59f1e42ff47a9b911a0fc"
-        },
-        {
-            "file": "whyEye.org/whyEye.org remixed/10 yathosho - penguin design (puzzled remix by zamuz).avs",
-            "size": 2196,
-            "checksum": "sha256:cbb5d3066c2fc888e2824bb574c9fdc10f951a1dfffb67edb182867711fce237"
-        },
-        {
-            "file": "whyEye.org/whyEye.org remixed/11 yathosho - mobilee (les Noobiens rework).avs",
-            "size": 2615,
-            "checksum": "sha256:b7fceee08525e89282a135a685c4db7e575271cf68036f54e70cbb4fb6765468"
-        },
-        {
-            "file": "whyEye.org/whyEye.org remixed/12 yathosho - verywikiwiki (me luv juh long time suksuky five dollar remix by frames-of-reality).avs",
-            "size": 3362,
-            "checksum": "sha256:cf560b1453b3883e90a7ca437c0fc7b2c9df40deab90b3c2c05e38ee87c0f29f"
-        }
-    ],
-    "assets": [
-        {
-            "file": "avsres_texer_circle_sharp_29x29.bmp",
-            "size": 3030,
-            "checksum": "sha256:2d057959257346e2b9a8922504ad51ff7d2608d6bd591659a7fa08d07406366a"
-        },
-        {
-            "file": "avsres_texer_square_sharp_24x24.bmp",
-            "size": 2406,
-            "checksum": "sha256:21b38fa90fdbe2b1884505f9bbe3a022914d6e15e2c1365f5c17a4219d1ef247"
-        },
-        {
-            "file": "avsres_texer_square_sharp_30x30.bmp",
-            "size": 3590,
-            "checksum": "sha256:e41754b033960b3a5e77252cf1edee71e97c311c2cedafc9b4139a3df51240e6"
-        },
-        {
-            "file": "v5_circle2.bmp",
-            "size": 4854,
-            "checksum": "sha256:65a9b00fed4552aaac62952a11fdebfcc3f2d98fa1fd61cbf2ce7f0a501f80af"
-        },
-        {
-            "file": "Voronoi.svp",
-            "size": 45056,
-            "checksum": "sha256:83223f55b1ce791a4a0ed5fbb89e9b14ce3577a4106bf1dd3f9f1bc1267ed5f9"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter",
-        "GlobalVarMan",
-        "Normalise",
-        "TransAuto",
-        "Triangle"
-    ]
+	"name": "whyEye.org remixed",
+	"id": "VB216",
+	"presets": [
+		{
+			"file": "whyEye.org/whyEye.org remixed/01 yathosho - beyondbeyond (rusty remix by danjoe).avs",
+			"size": 1066,
+			"checksum": "sha256:8f623c7e156f0fefde060d9ba925a1c86e2292c814f8f8bbcbe9305aa23f93a4"
+		},
+		{
+			"file": "whyEye.org/whyEye.org remixed/02 yathosho - electronique (boxique mix by pak-9).avs",
+			"size": 7982,
+			"checksum": "sha256:fd075f60a2a554de160ab854caa1e1fa363ed633447c245bb45c182cf15bc476"
+		},
+		{
+			"file": "whyEye.org/whyEye.org remixed/03 yathosho - the oasis (nemo remix).avs",
+			"size": 1553,
+			"checksum": "sha256:33417a9ab5a099c830ca10f18ed8ea43dfbb07151f699a0350fc70de40d25b22"
+		},
+		{
+			"file": "whyEye.org/whyEye.org remixed/04 yathosho - krankheitsbild (avs-ike remix).avs",
+			"size": 1008,
+			"checksum": "sha256:377756ac124bf59091fd965565fa63c641d5d81b52a9ed4ac77cb67da8f08efa"
+		},
+		{
+			"file": "whyEye.org/whyEye.org remixed/05 yathosho - kirscharoma (pastel cherry remix by zamuz).avs",
+			"size": 1810,
+			"checksum": "sha256:0e1ff06710d2a1757b06f83d87afa6903edeefc150d909320d04f47064d4955e"
+		},
+		{
+			"file": "whyEye.org/whyEye.org remixed/06 yathosho - mathmos (teensex remix by el-vis).avs",
+			"size": 818,
+			"checksum": "sha256:aebeb996e3f88f47f9d8f00f09ad9eb25762f2153e044a2701b8b3a7f573bca5"
+		},
+		{
+			"file": "whyEye.org/whyEye.org remixed/07 yathosho - plastic wrap (plasticwrecx ii remix by skupers).avs",
+			"size": 3014,
+			"checksum": "sha256:77c8ec8df548fa14fad8e3866d507c843b4e9cd0b4b43c18a3b14b124c38fbcb"
+		},
+		{
+			"file": "whyEye.org/whyEye.org remixed/08 yathosho - minidisko (nipple blanket mix by unconed).avs",
+			"size": 3898,
+			"checksum": "sha256:422ee28155a42a59bf7268e96979671c44de2e1bfb9db4416ac9ad3f9d58b501"
+		},
+		{
+			"file": "whyEye.org/whyEye.org remixed/09 yathosho - new sector movements (iiriel remix by skupers).avs",
+			"size": 3566,
+			"checksum": "sha256:9a95714de254d3c448b936d144880df6037ee0cea6c59f1e42ff47a9b911a0fc"
+		},
+		{
+			"file": "whyEye.org/whyEye.org remixed/10 yathosho - penguin design (puzzled remix by zamuz).avs",
+			"size": 2196,
+			"checksum": "sha256:cbb5d3066c2fc888e2824bb574c9fdc10f951a1dfffb67edb182867711fce237"
+		},
+		{
+			"file": "whyEye.org/whyEye.org remixed/11 yathosho - mobilee (les Noobiens rework).avs",
+			"size": 2615,
+			"checksum": "sha256:b7fceee08525e89282a135a685c4db7e575271cf68036f54e70cbb4fb6765468"
+		},
+		{
+			"file": "whyEye.org/whyEye.org remixed/12 yathosho - verywikiwiki (me luv juh long time suksuky five dollar remix by frames-of-reality).avs",
+			"size": 3362,
+			"checksum": "sha256:cf560b1453b3883e90a7ca437c0fc7b2c9df40deab90b3c2c05e38ee87c0f29f"
+		}
+	],
+	"assets": [
+		{
+			"file": "avsres_texer_circle_sharp_29x29.bmp",
+			"size": 3030,
+			"checksum": "sha256:2d057959257346e2b9a8922504ad51ff7d2608d6bd591659a7fa08d07406366a"
+		},
+		{
+			"file": "avsres_texer_square_sharp_24x24.bmp",
+			"size": 2406,
+			"checksum": "sha256:21b38fa90fdbe2b1884505f9bbe3a022914d6e15e2c1365f5c17a4219d1ef247"
+		},
+		{
+			"file": "avsres_texer_square_sharp_30x30.bmp",
+			"size": 3590,
+			"checksum": "sha256:e41754b033960b3a5e77252cf1edee71e97c311c2cedafc9b4139a3df51240e6"
+		},
+		{
+			"file": "v5_circle2.bmp",
+			"size": 4854,
+			"checksum": "sha256:65a9b00fed4552aaac62952a11fdebfcc3f2d98fa1fd61cbf2ce7f0a501f80af"
+		},
+		{
+			"file": "Voronoi.svp",
+			"size": 45056,
+			"checksum": "sha256:83223f55b1ce791a4a0ed5fbb89e9b14ce3577a4106bf1dd3f9f1bc1267ed5f9"
+		}
+	],
+	"plugins": ["ConvolutionFilter", "GlobalVarMan", "Normalise", "TransAuto", "Triangle"]
 }

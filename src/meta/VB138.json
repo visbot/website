@@ -1,31 +1,27 @@
 {
-    "name": "DDxo2",
-    "id": "VB138",
-    "presets": [
-        {
-            "file": "Dynamic Duo/DDxo2/ddA1__tentaclism (sky of contempt mix by drew).avs",
-            "size": 3942,
-            "checksum": "sha256:2ad8ceda3c7c9a3c4700e9910f975ef064168c2a965625f1030634677bd37384"
-        },
-        {
-            "file": "Dynamic Duo/DDxo2/ddA2__carousel (mario overkill mix by vanish).avs",
-            "size": 4623,
-            "checksum": "sha256:37cc813d5501b1b88a2612bce8a8ea1c2c9eb294ceee7d7c1bc7d73106461597"
-        },
-        {
-            "file": "Dynamic Duo/DDxo2/ddB1__get sick (777minus111 mix by vanish).avs",
-            "size": 2597,
-            "checksum": "sha256:0a5faecc5bcf5c71a8792907c6e839e705edcce3a20b904f04d904b472122a31"
-        },
-        {
-            "file": "Dynamic Duo/DDxo2/ddB2__chromatics (attempted misery mix by wotl).avs",
-            "size": 3166,
-            "checksum": "sha256:4b13b1bff843e9f5be234aec81d189959e73b899cb878848461d274d8f1fff47"
-        }
-    ],
-    "plugins": [
-        "AddBorder",
-        "BufferBlend",
-        "ConvolutionFilter"
-    ]
+	"name": "DDxo2",
+	"id": "VB138",
+	"presets": [
+		{
+			"file": "Dynamic Duo/DDxo2/ddA1__tentaclism (sky of contempt mix by drew).avs",
+			"size": 3942,
+			"checksum": "sha256:2ad8ceda3c7c9a3c4700e9910f975ef064168c2a965625f1030634677bd37384"
+		},
+		{
+			"file": "Dynamic Duo/DDxo2/ddA2__carousel (mario overkill mix by vanish).avs",
+			"size": 4623,
+			"checksum": "sha256:37cc813d5501b1b88a2612bce8a8ea1c2c9eb294ceee7d7c1bc7d73106461597"
+		},
+		{
+			"file": "Dynamic Duo/DDxo2/ddB1__get sick (777minus111 mix by vanish).avs",
+			"size": 2597,
+			"checksum": "sha256:0a5faecc5bcf5c71a8792907c6e839e705edcce3a20b904f04d904b472122a31"
+		},
+		{
+			"file": "Dynamic Duo/DDxo2/ddB2__chromatics (attempted misery mix by wotl).avs",
+			"size": 3166,
+			"checksum": "sha256:4b13b1bff843e9f5be234aec81d189959e73b899cb878848461d274d8f1fff47"
+		}
+	],
+	"plugins": ["AddBorder", "BufferBlend", "ConvolutionFilter"]
 }

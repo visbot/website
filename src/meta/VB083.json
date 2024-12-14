@@ -1,25 +1,22 @@
 {
-    "name": "danaughty1 - it's da naughty loose",
-    "id": "VB083",
-    "presets": [
-        {
-            "file": "danaughty1/danaughty1 - it's da naughty loose/a1 danaughty1 - it's da naughty loose.avs",
-            "size": 3351,
-            "checksum": "sha256:82bd2e657bb09f11ff79ba814fdfa847d23566be34eb71de14aea4a0f78ddffa"
-        },
-        {
-            "file": "danaughty1/danaughty1 - it's da naughty loose/a2 danaughty1 - it's da naughtilus.avs",
-            "size": 2262,
-            "checksum": "sha256:b0fd892379269ce2171436dd5326705f61f54742fad90027f4061d14962f10c0"
-        },
-        {
-            "file": "danaughty1/danaughty1 - it's da naughty loose/b1 danaughty1 - nightride kawasaki.avs",
-            "size": 2619,
-            "checksum": "sha256:7b46731678d2c211d905d7cd5a861d1c0341f39199a90ed669388a85341d6786"
-        }
-    ],
-    "plugins": [
-        "ColorMap",
-        "ConvolutionFilter"
-    ]
+	"name": "danaughty1 - it's da naughty loose",
+	"id": "VB083",
+	"presets": [
+		{
+			"file": "danaughty1/danaughty1 - it's da naughty loose/a1 danaughty1 - it's da naughty loose.avs",
+			"size": 3351,
+			"checksum": "sha256:82bd2e657bb09f11ff79ba814fdfa847d23566be34eb71de14aea4a0f78ddffa"
+		},
+		{
+			"file": "danaughty1/danaughty1 - it's da naughty loose/a2 danaughty1 - it's da naughtilus.avs",
+			"size": 2262,
+			"checksum": "sha256:b0fd892379269ce2171436dd5326705f61f54742fad90027f4061d14962f10c0"
+		},
+		{
+			"file": "danaughty1/danaughty1 - it's da naughty loose/b1 danaughty1 - nightride kawasaki.avs",
+			"size": 2619,
+			"checksum": "sha256:7b46731678d2c211d905d7cd5a861d1c0341f39199a90ed669388a85341d6786"
+		}
+	],
+	"plugins": ["ColorMap", "ConvolutionFilter"]
 }

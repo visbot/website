@@ -1,157 +1,154 @@
 {
-    "name": "VISBOT Four",
-    "id": "VC003",
-    "presets": [
-        {
-            "file": "VISBOT/VC003 Four/01 zamuz - intro.avs",
-            "size": 1818,
-            "checksum": "sha256:9991dc1b2b10a6600e9195163999ec18e6b0e1ea45b1d86d1614b521f169b7f7"
-        },
-        {
-            "file": "VISBOT/VC003 Four/02 duo - stellarphonic.avs",
-            "size": 9279,
-            "checksum": "sha256:9a9891ebf16c4dcbdad77d2547ca45b7928ecb31039eb23ffe4c243c3a6fb71c"
-        },
-        {
-            "file": "VISBOT/VC003 Four/03 skupers - under my bed.avs",
-            "size": 2519,
-            "checksum": "sha256:874de759f74af192aed4885a96d07bf1cb2d91a58a2610335ffb0b7cd142d4b5"
-        },
-        {
-            "file": "VISBOT/VC003 Four/04 nemo - roll-on mojo.avs",
-            "size": 1708,
-            "checksum": "sha256:0aa6b7795d9eefad431fc4b013fe73b0e0011e1035d52f25a832f2f4a7a6eac4"
-        },
-        {
-            "file": "VISBOT/VC003 Four/05 yathosho - plastica (a3 rmx).avs",
-            "size": 1489,
-            "checksum": "sha256:27b7ccb24792a60d6629797a0ec0e6fc66232f47dababe5b6b728176904e79b7"
-        },
-        {
-            "file": "VISBOT/VC003 Four/06 zamuz - kaleidoscopic architecture.avs",
-            "size": 1977,
-            "checksum": "sha256:bfe572a36fc6f23654c4e13d3826f04dfea74eaa7818a8220861721505edaac5"
-        },
-        {
-            "file": "VISBOT/VC003 Four/07 les Noobiens - weebly (edit).avs",
-            "size": 1945,
-            "checksum": "sha256:d089ec9a6452f83a1ece6d5bbd77146252c5d6dca2243106ed72a2aa02f2c9ae"
-        },
-        {
-            "file": "VISBOT/VC003 Four/08 a3 - binaryNfluence.avs",
-            "size": 1393,
-            "checksum": "sha256:10ef6b13dbe28c4dcb6635aea24101ff6dfa18b746ba3ca167a2b37caca7febf"
-        },
-        {
-            "file": "VISBOT/VC003 Four/09 duo vs nemo - we build here (building blocks remix).avs",
-            "size": 3386,
-            "checksum": "sha256:2e0e5079f0b4f6ad0abf3e3334a81e706c623b8152825fb57d3058cde5bb9205"
-        },
-        {
-            "file": "VISBOT/VC003 Four/10 yathosho - go (one last look).avs",
-            "size": 1642,
-            "checksum": "sha256:7b4cc085450a93a27e1e31a4b24266a0b566c2955714a90e6ca5df19ecc61995"
-        },
-        {
-            "file": "VISBOT/VC003 Four/11 zamuz - milky flow.avs",
-            "size": 2102,
-            "checksum": "sha256:ceab5afb15edefcda5eb5fe841dfb9f7142371b6ac4633f5c4c1ce6a636fc6d2"
-        },
-        {
-            "file": "VISBOT/VC003 Four/12 duo - cafe d'duo.avs",
-            "size": 2130,
-            "checksum": "sha256:17f7a1536cf8df780f9fdff0345b5fca29c67616eaea6d053717a636b2ec8cce"
-        },
-        {
-            "file": "VISBOT/VC003 Four/13 skupers - angelic orifice.avs",
-            "size": 11338,
-            "checksum": "sha256:277ff455e1f75ac99af789fd411b3802078d076f4be7ec8321f11491c4aaef16"
-        },
-        {
-            "file": "VISBOT/VC003 Four/14 nemo - building by design.avs",
-            "size": 5908,
-            "checksum": "sha256:3dc133c3bc95ad5241525168b717f68c57e781676cbf0c4162c7cfbe372ce276"
-        },
-        {
-            "file": "VISBOT/VC003 Four/15 les Noobiens vs zamuz - this is not ikea (yathosho's heavier than it seems re-edit).avs",
-            "size": 2040,
-            "checksum": "sha256:670b4508c7fc331f86996d8f76a064a6b24f191cbf138721f2a96755276b87c7"
-        },
-        {
-            "file": "VISBOT/VC003 Four/16 zamuz vs skupers - coffee curves.avs",
-            "size": 4628,
-            "checksum": "sha256:61b1e1b0e38781c856b3664c59cd3bf10a603e36b94b1f831cb7d1dad6fd0138"
-        },
-        {
-            "file": "VISBOT/VC003 Four/17 skupers vs duo - conjuring sands.avs",
-            "size": 3846,
-            "checksum": "sha256:6c8d8e1a4f9e4d339ea2fa84e3010dea0e265bdaadce011004bc555a48b138cf"
-        },
-        {
-            "file": "VISBOT/VC003 Four/18 nemo - clockwork.avs",
-            "size": 1947,
-            "checksum": "sha256:340285d068ce9cc7ac336db6aa8ecc468db7db31eb3fe5c4b1a9c9ceec2081c9"
-        },
-        {
-            "file": "VISBOT/VC003 Four/19 yathosho - untitled.avs",
-            "size": 1539,
-            "checksum": "sha256:b125fd228ced95f46eaee178f9572f74aa68fd9c0f27b2d611a2cfb739135df7"
-        },
-        {
-            "file": "VISBOT/VC003 Four/20 dynamic duo vs zamuz - milk, snow and sky.avs",
-            "size": 1836,
-            "checksum": "sha256:8c0948929d61e1d7723c4c00dc2e2588626877d91d7a1ba30b4a438c52502296"
-        },
-        {
-            "file": "VISBOT/VC003 Four/21 zamuz - blooming (yathosho's oldskool shit).avs",
-            "size": 2309,
-            "checksum": "sha256:5e2b5cda404b041727232238afb1936e75bc895009fa4289a25eaabd1eff882f"
-        },
-        {
-            "file": "VISBOT/VC003 Four/22 les Noobiens - back to CCCP.avs",
-            "size": 545,
-            "checksum": "sha256:8ebed0c55e93db731bb1da5ce82520d81a82867df8574427adbf710e86d28ea5"
-        }
-    ],
-    "assets": [
-        {
-            "file": "e3_01.bmp",
-            "size": 4856,
-            "checksum": "sha256:d98404686955dbae9adc3e726dbeba9666b871f3b359da6406efbfbe9ad0a84f"
-        },
-        {
-            "file": "skupers_cb_auto.bmp",
-            "size": 3656,
-            "checksum": "sha256:2e112f64d85239531d402a8c85aa68810641b13060d77c93c69aa6a254a2e2f5"
-        },
-        {
-            "file": "skupers_cb_mouse1.bmp",
-            "size": 5456,
-            "checksum": "sha256:ef5a8bd5156e33811ce70fe6711cdbc940a591b79520e6211e5723e3ff28dc5c"
-        },
-        {
-            "file": "skupers_lp7_01.bmp",
-            "size": 776,
-            "checksum": "sha256:27bdda462dfec5cea6f702611fdc5df24255ae076c64fd214544b75561771339"
-        },
-        {
-            "file": "skupers_lp7_02.bmp",
-            "size": 10856,
-            "checksum": "sha256:aaeb13486d7082c888a556012a3ea574dc4c651b01510ae9722a1ce184f8fd03"
-        },
-        {
-            "file": "vb_duo_01.bmp",
-            "size": 2680,
-            "checksum": "sha256:de17e281a17c93e59f7fd0d223f4f3dbca42108095757bbc1692b5ffd8b4023b"
-        },
-        {
-            "file": "vb.bmp",
-            "size": 145254,
-            "checksum": "sha256:92479458ed7967973cccc27666c5192a2cf8a9f5b526dacba4c3fc907a3bdad4"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter",
-        "Picture2"
-    ]
+	"name": "VISBOT Four",
+	"id": "VC003",
+	"presets": [
+		{
+			"file": "VISBOT/VC003 Four/01 zamuz - intro.avs",
+			"size": 1818,
+			"checksum": "sha256:9991dc1b2b10a6600e9195163999ec18e6b0e1ea45b1d86d1614b521f169b7f7"
+		},
+		{
+			"file": "VISBOT/VC003 Four/02 duo - stellarphonic.avs",
+			"size": 9279,
+			"checksum": "sha256:9a9891ebf16c4dcbdad77d2547ca45b7928ecb31039eb23ffe4c243c3a6fb71c"
+		},
+		{
+			"file": "VISBOT/VC003 Four/03 skupers - under my bed.avs",
+			"size": 2519,
+			"checksum": "sha256:874de759f74af192aed4885a96d07bf1cb2d91a58a2610335ffb0b7cd142d4b5"
+		},
+		{
+			"file": "VISBOT/VC003 Four/04 nemo - roll-on mojo.avs",
+			"size": 1708,
+			"checksum": "sha256:0aa6b7795d9eefad431fc4b013fe73b0e0011e1035d52f25a832f2f4a7a6eac4"
+		},
+		{
+			"file": "VISBOT/VC003 Four/05 yathosho - plastica (a3 rmx).avs",
+			"size": 1489,
+			"checksum": "sha256:27b7ccb24792a60d6629797a0ec0e6fc66232f47dababe5b6b728176904e79b7"
+		},
+		{
+			"file": "VISBOT/VC003 Four/06 zamuz - kaleidoscopic architecture.avs",
+			"size": 1977,
+			"checksum": "sha256:bfe572a36fc6f23654c4e13d3826f04dfea74eaa7818a8220861721505edaac5"
+		},
+		{
+			"file": "VISBOT/VC003 Four/07 les Noobiens - weebly (edit).avs",
+			"size": 1945,
+			"checksum": "sha256:d089ec9a6452f83a1ece6d5bbd77146252c5d6dca2243106ed72a2aa02f2c9ae"
+		},
+		{
+			"file": "VISBOT/VC003 Four/08 a3 - binaryNfluence.avs",
+			"size": 1393,
+			"checksum": "sha256:10ef6b13dbe28c4dcb6635aea24101ff6dfa18b746ba3ca167a2b37caca7febf"
+		},
+		{
+			"file": "VISBOT/VC003 Four/09 duo vs nemo - we build here (building blocks remix).avs",
+			"size": 3386,
+			"checksum": "sha256:2e0e5079f0b4f6ad0abf3e3334a81e706c623b8152825fb57d3058cde5bb9205"
+		},
+		{
+			"file": "VISBOT/VC003 Four/10 yathosho - go (one last look).avs",
+			"size": 1642,
+			"checksum": "sha256:7b4cc085450a93a27e1e31a4b24266a0b566c2955714a90e6ca5df19ecc61995"
+		},
+		{
+			"file": "VISBOT/VC003 Four/11 zamuz - milky flow.avs",
+			"size": 2102,
+			"checksum": "sha256:ceab5afb15edefcda5eb5fe841dfb9f7142371b6ac4633f5c4c1ce6a636fc6d2"
+		},
+		{
+			"file": "VISBOT/VC003 Four/12 duo - cafe d'duo.avs",
+			"size": 2130,
+			"checksum": "sha256:17f7a1536cf8df780f9fdff0345b5fca29c67616eaea6d053717a636b2ec8cce"
+		},
+		{
+			"file": "VISBOT/VC003 Four/13 skupers - angelic orifice.avs",
+			"size": 11338,
+			"checksum": "sha256:277ff455e1f75ac99af789fd411b3802078d076f4be7ec8321f11491c4aaef16"
+		},
+		{
+			"file": "VISBOT/VC003 Four/14 nemo - building by design.avs",
+			"size": 5908,
+			"checksum": "sha256:3dc133c3bc95ad5241525168b717f68c57e781676cbf0c4162c7cfbe372ce276"
+		},
+		{
+			"file": "VISBOT/VC003 Four/15 les Noobiens vs zamuz - this is not ikea (yathosho's heavier than it seems re-edit).avs",
+			"size": 2040,
+			"checksum": "sha256:670b4508c7fc331f86996d8f76a064a6b24f191cbf138721f2a96755276b87c7"
+		},
+		{
+			"file": "VISBOT/VC003 Four/16 zamuz vs skupers - coffee curves.avs",
+			"size": 4628,
+			"checksum": "sha256:61b1e1b0e38781c856b3664c59cd3bf10a603e36b94b1f831cb7d1dad6fd0138"
+		},
+		{
+			"file": "VISBOT/VC003 Four/17 skupers vs duo - conjuring sands.avs",
+			"size": 3846,
+			"checksum": "sha256:6c8d8e1a4f9e4d339ea2fa84e3010dea0e265bdaadce011004bc555a48b138cf"
+		},
+		{
+			"file": "VISBOT/VC003 Four/18 nemo - clockwork.avs",
+			"size": 1947,
+			"checksum": "sha256:340285d068ce9cc7ac336db6aa8ecc468db7db31eb3fe5c4b1a9c9ceec2081c9"
+		},
+		{
+			"file": "VISBOT/VC003 Four/19 yathosho - untitled.avs",
+			"size": 1539,
+			"checksum": "sha256:b125fd228ced95f46eaee178f9572f74aa68fd9c0f27b2d611a2cfb739135df7"
+		},
+		{
+			"file": "VISBOT/VC003 Four/20 dynamic duo vs zamuz - milk, snow and sky.avs",
+			"size": 1836,
+			"checksum": "sha256:8c0948929d61e1d7723c4c00dc2e2588626877d91d7a1ba30b4a438c52502296"
+		},
+		{
+			"file": "VISBOT/VC003 Four/21 zamuz - blooming (yathosho's oldskool shit).avs",
+			"size": 2309,
+			"checksum": "sha256:5e2b5cda404b041727232238afb1936e75bc895009fa4289a25eaabd1eff882f"
+		},
+		{
+			"file": "VISBOT/VC003 Four/22 les Noobiens - back to CCCP.avs",
+			"size": 545,
+			"checksum": "sha256:8ebed0c55e93db731bb1da5ce82520d81a82867df8574427adbf710e86d28ea5"
+		}
+	],
+	"assets": [
+		{
+			"file": "e3_01.bmp",
+			"size": 4856,
+			"checksum": "sha256:d98404686955dbae9adc3e726dbeba9666b871f3b359da6406efbfbe9ad0a84f"
+		},
+		{
+			"file": "skupers_cb_auto.bmp",
+			"size": 3656,
+			"checksum": "sha256:2e112f64d85239531d402a8c85aa68810641b13060d77c93c69aa6a254a2e2f5"
+		},
+		{
+			"file": "skupers_cb_mouse1.bmp",
+			"size": 5456,
+			"checksum": "sha256:ef5a8bd5156e33811ce70fe6711cdbc940a591b79520e6211e5723e3ff28dc5c"
+		},
+		{
+			"file": "skupers_lp7_01.bmp",
+			"size": 776,
+			"checksum": "sha256:27bdda462dfec5cea6f702611fdc5df24255ae076c64fd214544b75561771339"
+		},
+		{
+			"file": "skupers_lp7_02.bmp",
+			"size": 10856,
+			"checksum": "sha256:aaeb13486d7082c888a556012a3ea574dc4c651b01510ae9722a1ce184f8fd03"
+		},
+		{
+			"file": "vb_duo_01.bmp",
+			"size": 2680,
+			"checksum": "sha256:de17e281a17c93e59f7fd0d223f4f3dbca42108095757bbc1692b5ffd8b4023b"
+		},
+		{
+			"file": "vb.bmp",
+			"size": 145254,
+			"checksum": "sha256:92479458ed7967973cccc27666c5192a2cf8a9f5b526dacba4c3fc907a3bdad4"
+		}
+	],
+	"plugins": ["ConvolutionFilter", "Picture2"]
 }

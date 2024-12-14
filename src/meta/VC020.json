@@ -1,127 +1,127 @@
 {
-    "name": "VISBOT 20/10 vision",
-    "id": "VC020",
-    "presets": [
-        {
-            "file": "VISBOT/VC020 20_10 vision/01 hurricane - a master's brush stoke (yathosho's sun ra dedication).avs",
-            "size": 7345,
-            "checksum": "sha256:54700d431ef5898c8253dcee04c8ff16ae82c1b54bcfc8b57f8baa2693aa96a0"
-        },
-        {
-            "file": "VISBOT/VC020 20_10 vision/02 dynamic duo - hojojutsu ($211 remix by onionring).avs",
-            "size": 4280,
-            "checksum": "sha256:344e6e35257b732ec7309f84b8aa81783ece597052bc3f2c5585044c45a5aa31"
-        },
-        {
-            "file": "VISBOT/VC020 20_10 vision/03 amphirion - pulse (rgb remix by frames-of-reality).avs",
-            "size": 5723,
-            "checksum": "sha256:f4354d26f48552bcb0e2370f1d02a2e3d7ed247cf234cf0fd968eb67e77eeab3"
-        },
-        {
-            "file": "VISBOT/VC020 20_10 vision/04 amphirion - inversed kinetics (synth-c remix).avs",
-            "size": 10054,
-            "checksum": "sha256:2472e7d0b34a9dd2595123a029366a03aa363c394a9810ffbf4e015bdf6e6cb2"
-        },
-        {
-            "file": "VISBOT/VC020 20_10 vision/05 hboy - delirium (pan am remix).avs",
-            "size": 11273,
-            "checksum": "sha256:d4823c3c0f811fccc2b8c6854f8360549d8dd47620b9dedb4db29c96122351e3"
-        },
-        {
-            "file": "VISBOT/VC020 20_10 vision/06 micro.d - sphrs2452g-998240 (modus operandi remix).avs",
-            "size": 10808,
-            "checksum": "sha256:31dfd6b198ea9cffd99b4f75fb183d42fd7ba82f030b44394e9c15f158d19d28"
-        },
-        {
-            "file": "VISBOT/VC020 20_10 vision/07 hboy - the synergy of sound and vision (... and microdee's nuclear earl grey).avs",
-            "size": 62577,
-            "checksum": "sha256:b456f588277dcee287c7f37caba6d85c828ec815813526f1d678014159528f28"
-        },
-        {
-            "file": "VISBOT/VC020 20_10 vision/08 grandchild - havoc on ice (synth-c remix).avs",
-            "size": 10030,
-            "checksum": "sha256:d2b2c0a9bcae2c8e2c7c5f4ee86aa05822e88e162b47a5e3b325feb5d7ddecc6"
-        },
-        {
-            "file": "VISBOT/VC020 20_10 vision/09 hboy - the synergy of sound and vision (recolored by frames-of-reality).avs",
-            "size": 54842,
-            "checksum": "sha256:1a9dd24ef960c8988187dba2075a821f08ea7f9a4290a77832fe2a8532ab300f"
-        },
-        {
-            "file": "VISBOT/VC020 20_10 vision/10 yathosho - 2phuture (amphirious bleached remix).avs",
-            "size": 3284,
-            "checksum": "sha256:320e6b4677ec1427c42c97aef0f72350096ce81728f9174fd6fc5514d0f320ed"
-        },
-        {
-            "file": "VISBOT/VC020 20_10 vision/11 yathosho & zamuz - sail away 2.0 (grandchild's havoc on ice mashup).avs",
-            "size": 12661,
-            "checksum": "sha256:3382a4d876c14dcd0a079a87eaebc1ae5950901cba1e7a415fe7ff21bfd32c16"
-        },
-        {
-            "file": "VISBOT/VC020 20_10 vision/12 zamuz - wonder 'bout (yathosho re-rub).avs",
-            "size": 34528,
-            "checksum": "sha256:5589598facaf0f78b1d8a08d73e8230f25b8b434fe3163eda451d3ae2ec11a9f"
-        }
-    ],
-    "assets": [
-        {
-            "file": "_synth_dotfog24.bmp",
-            "size": 1654,
-            "checksum": "sha256:f80976c68c9f6092d5392941592b5c40dbb3027b0f71ff566148290e06702cdb"
-        },
-        {
-            "file": "avsres_texer_circle_fade_25x25.bmp",
-            "size": 1954,
-            "checksum": "sha256:e4f85455ec309a1ea3e8aab2ad5ab3256ca230dae80b2de38efe3101f90bc945"
-        },
-        {
-            "file": "avsres_texer_circle_heavyblur_29x29.bmp",
-            "size": 2606,
-            "checksum": "sha256:f774cf10d56275d629f321163dbc610fee02b0e892c9065b0931564240bf078d"
-        },
-        {
-            "file": "avsres_texer_circle_sharp_29x29.bmp",
-            "size": 3030,
-            "checksum": "sha256:2d057959257346e2b9a8922504ad51ff7d2608d6bd591659a7fa08d07406366a"
-        },
-        {
-            "file": "avsres_texer_square_sharp_20x20.bmp",
-            "size": 1782,
-            "checksum": "sha256:bcf774b1520e3314da459eb50c9b597531d783c20b48abd5f1ba91641f3169c6"
-        },
-        {
-            "file": "avsres_texer_square_sharp_30x30.bmp",
-            "size": 3590,
-            "checksum": "sha256:e41754b033960b3a5e77252cf1edee71e97c311c2cedafc9b4139a3df51240e6"
-        },
-        {
-            "file": "gc - angel beam 28x28.bmp",
-            "size": 2408,
-            "checksum": "sha256:7f846f685ca9353849c596d3aa875e8d3732bf2eb315ada496d4f2d50e0885e6"
-        },
-        {
-            "file": "Hboy_texer_1.bmp",
-            "size": 17154,
-            "checksum": "sha256:2c13faf386e071d3fe17bc5f2e8f72a4244e085a5a985b249d169fa6c414d27c"
-        },
-        {
-            "file": "v5_square.bmp",
-            "size": 1254,
-            "checksum": "sha256:2e3dc3d7cec32c7a2091c638f46cf70b9b01974ebcf0558ba3edc8e67b29b065"
-        }
-    ],
-    "plugins": [
-        "AddBorder",
-        "BufferBlend",
-        "ChannelShift",
-        "ColorMap",
-        "ColorReduction",
-        "ConvolutionFilter",
-        "GlobalVarMan",
-        "Multiplier",
-        "Texer2",
-        "TransAuto",
-        "Triangle",
-        "VideoDelay"
-    ]
+	"name": "VISBOT 20/10 vision",
+	"id": "VC020",
+	"presets": [
+		{
+			"file": "VISBOT/VC020 20_10 vision/01 hurricane - a master's brush stoke (yathosho's sun ra dedication).avs",
+			"size": 7345,
+			"checksum": "sha256:54700d431ef5898c8253dcee04c8ff16ae82c1b54bcfc8b57f8baa2693aa96a0"
+		},
+		{
+			"file": "VISBOT/VC020 20_10 vision/02 dynamic duo - hojojutsu ($211 remix by onionring).avs",
+			"size": 4280,
+			"checksum": "sha256:344e6e35257b732ec7309f84b8aa81783ece597052bc3f2c5585044c45a5aa31"
+		},
+		{
+			"file": "VISBOT/VC020 20_10 vision/03 amphirion - pulse (rgb remix by frames-of-reality).avs",
+			"size": 5723,
+			"checksum": "sha256:f4354d26f48552bcb0e2370f1d02a2e3d7ed247cf234cf0fd968eb67e77eeab3"
+		},
+		{
+			"file": "VISBOT/VC020 20_10 vision/04 amphirion - inversed kinetics (synth-c remix).avs",
+			"size": 10054,
+			"checksum": "sha256:2472e7d0b34a9dd2595123a029366a03aa363c394a9810ffbf4e015bdf6e6cb2"
+		},
+		{
+			"file": "VISBOT/VC020 20_10 vision/05 hboy - delirium (pan am remix).avs",
+			"size": 11273,
+			"checksum": "sha256:d4823c3c0f811fccc2b8c6854f8360549d8dd47620b9dedb4db29c96122351e3"
+		},
+		{
+			"file": "VISBOT/VC020 20_10 vision/06 micro.d - sphrs2452g-998240 (modus operandi remix).avs",
+			"size": 10808,
+			"checksum": "sha256:31dfd6b198ea9cffd99b4f75fb183d42fd7ba82f030b44394e9c15f158d19d28"
+		},
+		{
+			"file": "VISBOT/VC020 20_10 vision/07 hboy - the synergy of sound and vision (... and microdee's nuclear earl grey).avs",
+			"size": 62577,
+			"checksum": "sha256:b456f588277dcee287c7f37caba6d85c828ec815813526f1d678014159528f28"
+		},
+		{
+			"file": "VISBOT/VC020 20_10 vision/08 grandchild - havoc on ice (synth-c remix).avs",
+			"size": 10030,
+			"checksum": "sha256:d2b2c0a9bcae2c8e2c7c5f4ee86aa05822e88e162b47a5e3b325feb5d7ddecc6"
+		},
+		{
+			"file": "VISBOT/VC020 20_10 vision/09 hboy - the synergy of sound and vision (recolored by frames-of-reality).avs",
+			"size": 54842,
+			"checksum": "sha256:1a9dd24ef960c8988187dba2075a821f08ea7f9a4290a77832fe2a8532ab300f"
+		},
+		{
+			"file": "VISBOT/VC020 20_10 vision/10 yathosho - 2phuture (amphirious bleached remix).avs",
+			"size": 3284,
+			"checksum": "sha256:320e6b4677ec1427c42c97aef0f72350096ce81728f9174fd6fc5514d0f320ed"
+		},
+		{
+			"file": "VISBOT/VC020 20_10 vision/11 yathosho & zamuz - sail away 2.0 (grandchild's havoc on ice mashup).avs",
+			"size": 12661,
+			"checksum": "sha256:3382a4d876c14dcd0a079a87eaebc1ae5950901cba1e7a415fe7ff21bfd32c16"
+		},
+		{
+			"file": "VISBOT/VC020 20_10 vision/12 zamuz - wonder 'bout (yathosho re-rub).avs",
+			"size": 34528,
+			"checksum": "sha256:5589598facaf0f78b1d8a08d73e8230f25b8b434fe3163eda451d3ae2ec11a9f"
+		}
+	],
+	"assets": [
+		{
+			"file": "_synth_dotfog24.bmp",
+			"size": 1654,
+			"checksum": "sha256:f80976c68c9f6092d5392941592b5c40dbb3027b0f71ff566148290e06702cdb"
+		},
+		{
+			"file": "avsres_texer_circle_fade_25x25.bmp",
+			"size": 1954,
+			"checksum": "sha256:e4f85455ec309a1ea3e8aab2ad5ab3256ca230dae80b2de38efe3101f90bc945"
+		},
+		{
+			"file": "avsres_texer_circle_heavyblur_29x29.bmp",
+			"size": 2606,
+			"checksum": "sha256:f774cf10d56275d629f321163dbc610fee02b0e892c9065b0931564240bf078d"
+		},
+		{
+			"file": "avsres_texer_circle_sharp_29x29.bmp",
+			"size": 3030,
+			"checksum": "sha256:2d057959257346e2b9a8922504ad51ff7d2608d6bd591659a7fa08d07406366a"
+		},
+		{
+			"file": "avsres_texer_square_sharp_20x20.bmp",
+			"size": 1782,
+			"checksum": "sha256:bcf774b1520e3314da459eb50c9b597531d783c20b48abd5f1ba91641f3169c6"
+		},
+		{
+			"file": "avsres_texer_square_sharp_30x30.bmp",
+			"size": 3590,
+			"checksum": "sha256:e41754b033960b3a5e77252cf1edee71e97c311c2cedafc9b4139a3df51240e6"
+		},
+		{
+			"file": "gc - angel beam 28x28.bmp",
+			"size": 2408,
+			"checksum": "sha256:7f846f685ca9353849c596d3aa875e8d3732bf2eb315ada496d4f2d50e0885e6"
+		},
+		{
+			"file": "Hboy_texer_1.bmp",
+			"size": 17154,
+			"checksum": "sha256:2c13faf386e071d3fe17bc5f2e8f72a4244e085a5a985b249d169fa6c414d27c"
+		},
+		{
+			"file": "v5_square.bmp",
+			"size": 1254,
+			"checksum": "sha256:2e3dc3d7cec32c7a2091c638f46cf70b9b01974ebcf0558ba3edc8e67b29b065"
+		}
+	],
+	"plugins": [
+		"AddBorder",
+		"BufferBlend",
+		"ChannelShift",
+		"ColorMap",
+		"ColorReduction",
+		"ConvolutionFilter",
+		"GlobalVarMan",
+		"Multiplier",
+		"Texer2",
+		"TransAuto",
+		"Triangle",
+		"VideoDelay"
+	]
 }

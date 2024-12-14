@@ -1,479 +1,477 @@
 {
-    "name": "halfwayaroundthesun",
-    "id": "VA010",
-    "presets": [
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- a clockwork grey.avs",
-            "size": 2341,
-            "checksum": "sha256:d7f6fe7e011144712355cf9f71da05b1247a9468dde398c6e811839e44e61cd2"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- a space odyssey (re-drugged).avs",
-            "size": 384,
-            "checksum": "sha256:8fb8bc7010e195e44820d251adcc63139a4a19bfd80cc5c924da0756e969ec12"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- altered state.avs",
-            "size": 1338,
-            "checksum": "sha256:d21f1d5dfdc4c451a5f32d4f99e03f1be85d84dfcc9d72beb49f9cef1302cae0"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- amon ra (biene maja remixed).avs",
-            "size": 631,
-            "checksum": "sha256:5a80766a470a13570cb3ca1e05a224feefc8781714225ccca97788f6752a0781"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- angst 2.avs",
-            "size": 1623,
-            "checksum": "sha256:b7afeabf720de6bf30fa8418aa6b71c97ca6a95f70847980ae86c84e2dec5c5a"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- aromatherapy.avs",
-            "size": 1428,
-            "checksum": "sha256:d608ef3c3478bde3c88ec44cca96009101a697988ff61f0dfb48d7cd4acbe8fc"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- blutkörper.avs",
-            "size": 2079,
-            "checksum": "sha256:080dad3db8a0bfa15063849e2f6cd347422b5512be016acb3d6ff0fe509193e8"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- butterfly.avs",
-            "size": 437,
-            "checksum": "sha256:62b77dde079d6f247764f710ee5e2d38aca18f2ba38ddd5a7d6280d2347cc624"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- c64.avs",
-            "size": 1322,
-            "checksum": "sha256:431f08377925b52548ab160fb41b8d7ee2bd6fcb49a7535ca685110169b310bd"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- candyland decoded.avs",
-            "size": 547,
-            "checksum": "sha256:22e1a8c7ceb5fe4919c47308160121edb5e714d25dd2c975aac84fa531ab5c1e"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- carnaval no brasil (deep into something remix).avs",
-            "size": 1422,
-            "checksum": "sha256:373aaf8ce42158279879e701f34f032d68cdc0572e6ab73a3d115fa7e6c697ef"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- carnaval no brasil.avs",
-            "size": 1414,
-            "checksum": "sha256:3264dc5072b428c6943175e962e77917b9319afce4ec290edaaa90c3fddaa023"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- cow-goo-me! (purity remix).avs",
-            "size": 396,
-            "checksum": "sha256:b9e63ea9eb85a243bcb17586344a63f7cc25c1e756b7808d35d17033028a2fd1"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- cow-goo-me!.avs",
-            "size": 381,
-            "checksum": "sha256:be5b52ad9751c632d8cb0bf32ac9bb40c49a9d5488339a87dd5d6d9643490f1a"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- datenleitung.avs",
-            "size": 1149,
-            "checksum": "sha256:39756f9a9d3b2474a939a9415785dd063879d881713564e0c6c9391c9cfdbcd5"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- decoder.avs",
-            "size": 493,
-            "checksum": "sha256:3505557a73b8369919fd805018515859d33a8f6f123a43540096f6d52d041901"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- demon.avs",
-            "size": 2310,
-            "checksum": "sha256:90e03c320ef07bb5f9a6aa2166bff7fa69e5e8d49a08f7bd5311cb4e9c82f87b"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- die kleine biene maja.avs",
-            "size": 466,
-            "checksum": "sha256:8775600b0467ed6e7313aa057f53bfc1e4056b7ecf3a0dee4215e767caaf3efa"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- disk operating system (alteration).avs",
-            "size": 503,
-            "checksum": "sha256:386d38907f0b13f3f6cf93d487dd8433c00882746c6e84f0a2cfc6357f5477cc"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- durch den weltraum nach hause.avs",
-            "size": 1575,
-            "checksum": "sha256:e9ea1090492c5a83435526ee24953b393194c8d1d1ca38fd489283727c16d2b5"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- feuerkreisel.avs",
-            "size": 1330,
-            "checksum": "sha256:f67f31518086679a4050879b12dc35091645f1a0f021f37ae110b35ca32f6a96"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- fuckmeplastic (underwater love remix).avs",
-            "size": 576,
-            "checksum": "sha256:dd63cf5d850027cfbe6675996e46afc127cbafdce27ef47716fb5e55dfc6fd51"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- fuckmeplastic.avs",
-            "size": 546,
-            "checksum": "sha256:7e99194d620bfa485bb5461e1e4dec2df4b3902f12e3882ba5d8de2edd7b3f78"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- generation atari.avs",
-            "size": 764,
-            "checksum": "sha256:fcf5a66acdecb74061b59504924fb53e5132a58e7bf9dfa1ea831896e6d55be9"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- jeff lebowski's magic carpet ride (alteration).avs",
-            "size": 591,
-            "checksum": "sha256:4223480c16843ac6c97c3b5964c49a58af94b5aa5aa15853175cd9c96012f0fb"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- jeff lebowski's magic carpet ride.avs",
-            "size": 550,
-            "checksum": "sha256:b2b148346d4acee22917af5883b0fc796cc0c2da19da3f909ca907b3aa7a2fb9"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- legoland decoded (total blockout).avs",
-            "size": 595,
-            "checksum": "sha256:1d13f52dcd90ed010abfa70ae40e1953424670b9f2018a5eafd2dd9b08338bab"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- legoland decoded.avs",
-            "size": 578,
-            "checksum": "sha256:152a6b30b28324d9455eac9cfaea8ba99edb206b95f478ad5891e9f22e82736e"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- raumbewegung (4 flavors remix).avs",
-            "size": 1095,
-            "checksum": "sha256:a3d7361f9b406227b943c2b137b3f848e31f3094e7eee3bdc6db58396e4fa6be"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- raumbewegung.avs",
-            "size": 1065,
-            "checksum": "sha256:4097c0b17afb3b1876746bbd4a5eb7f170dc5cbe1d7d1f599216f4a1a92cdf8f"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- snowblind (solaris remixed).avs",
-            "size": 556,
-            "checksum": "sha256:27b6cc30f45451daae5327984800ad7a998ba1f2e69631a9ce087edeca001d0a"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- solaris.avs",
-            "size": 405,
-            "checksum": "sha256:6b9e60c271fc68ab5ed6fd213716ccdf6f3e8c146e93c6b6e215c058d335f30c"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- super famicom (16-bit drum and bass).avs",
-            "size": 562,
-            "checksum": "sha256:8d5c4b6663f9948831f94aac069294cb01133e98ed406582a4a506b16b44384b"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/guesshimself -- die kleine biene maja (guess rmx).avs",
-            "size": 616,
-            "checksum": "sha256:bbc6baea60acef374de7c9ef98e9359716826efe28ebd396d81af1c307245e05"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/guesshimself -- durch den weltraum nach hause (guess rmx).avs",
-            "size": 2676,
-            "checksum": "sha256:bdb0301961578bf436b12e3e92c865d6f327090609497187fa3c1e5050dfc50c"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/guesshimself -- feuerkreisel (guess eruption rmx).avs",
-            "size": 1672,
-            "checksum": "sha256:53dd4306fc694c32ba3c75e2155266fe1cae5b6a750568216b1fcd56a84e6d4b"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/guesshimself -- raumbewegung (guess rmx).avs",
-            "size": 1175,
-            "checksum": "sha256:b3aec2de1b0fa34a339775f0506f9e6a7a122d27b18e96561dd6fbdba863627f"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/horse-fly -- (blood) demon (horse-fly remix).avs",
-            "size": 3512,
-            "checksum": "sha256:9c17d213aee2ffe86079e8fd6695c62bce4f068d077d414a1e43d6c2b84c720f"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/horse-fly -- a clockwork grey (hf remix).avs",
-            "size": 2623,
-            "checksum": "sha256:bb40a3d07de4b6b758afcf6738f7a7df60d7314d885f02e3dc0301a66cbaeb4c"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/horse-fly -- a space odyssey (hf remix).avs",
-            "size": 494,
-            "checksum": "sha256:598731ba8005bafcdb26407f2b8e1b9c1715cd387f98749e21b1644010e77edf"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/horse-fly -- blutkörper (hf shifter).avs",
-            "size": 2070,
-            "checksum": "sha256:573392f3dd70d1e78c85a2831bf5b2bdf130b4e2d4128b54adf938ac3b6d2136"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/horse-fly -- super famicom (16-bit drum and bass).avs",
-            "size": 516,
-            "checksum": "sha256:e33254181f65ebceb0670ef1f5ee6f0a3fd93270dbf3660907491f20fdbb40ba"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/littly buddy -- altered state.avs",
-            "size": 2398,
-            "checksum": "sha256:6e2a0861bc94abdfd84f2957ea767d54a33a12364c952567a6e140547aba57ac"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/littly buddy -- angst.avs",
-            "size": 1563,
-            "checksum": "sha256:83bd14b44e40f5afe1ae25734ab62c4653e7e8799db4689f57797b29355a01ec"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/littly buddy -- blutkörper.avs",
-            "size": 2371,
-            "checksum": "sha256:590b85c801f21511a4218568e26cca45ee3c34c23cc80a7e4ac9db747cf7593c"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/littly buddy -- carnaval no brasil.avs",
-            "size": 1450,
-            "checksum": "sha256:c129253469f5f3b91ac5922d538298a30914c8c9138a6996e58327f786246091"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/littly buddy -- commodore 64 (10k times faster).avs",
-            "size": 3803,
-            "checksum": "sha256:280b1f9d6689404860c5b3025787af7cf3fee02822bb71a66e1ef6c58f25a0bd"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/littly buddy -- cow-go-mee.avs",
-            "size": 737,
-            "checksum": "sha256:f2deee15a27a6696bff3f4c8ca6c058c63b16df3665de235575761d501167e0c"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/littly buddy -- decoder.avs",
-            "size": 569,
-            "checksum": "sha256:23f89be55a959bd24865d152773ffed3a8d342d35a629972bb4ca757214c91ec"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/littly buddy -- demon.avs",
-            "size": 2362,
-            "checksum": "sha256:dd3d8774b6e7c7ce3034196fc6797299d6b56c184c43f8df2f61c910d75b6fd5"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/littly buddy -- disk operating system.avs",
-            "size": 1609,
-            "checksum": "sha256:bf45f4dbff37565913e3fd23a6587146f9bb4fb6e0d5ad1f4d41600bef163d42"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/littly buddy -- feuerkreisel.avs",
-            "size": 1432,
-            "checksum": "sha256:3d5f07515322c12c504f792de44d1aad69d0004ec723e73056275ddb50b8e0f7"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/littly buddy -- fluoreszenz.avs",
-            "size": 3504,
-            "checksum": "sha256:e0d266215d6cc2b64299d0591d3c39e6e33ca24370db1bfd6c7ea28fb261d08c"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/littly buddy -- fuckmeplastic.avs",
-            "size": 594,
-            "checksum": "sha256:06c6e24abd996573f92982b5f96882c3edbbcacd3853c639aa6013e445912416"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/littly buddy -- i think i'm polaroid.avs",
-            "size": 2303,
-            "checksum": "sha256:89baa77ee56d1d0c18e67ae815d4d6418289b5955edf6ff318ef907d3fcdd284"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/littly buddy -- jeff lebowski's magic carpet ride.avs",
-            "size": 612,
-            "checksum": "sha256:660b404fc65fd9f42c714d07e17f8f6f3b54d63785a607f5bf08b5d20c9b1533"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/littly buddy -- kunsteffekt 000.avs",
-            "size": 1513,
-            "checksum": "sha256:64864ad4a42e7f1253186ff9af04866cda31605ae59f58f190e3cf51893a084c"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/littly buddy -- kunsteffekt 010.avs",
-            "size": 1417,
-            "checksum": "sha256:4232e074c3e88b9d9bd986e65908fbea3e9d65905a99a1ca1f26feaf44b38549"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/littly buddy -- kunsteffekt 101.avs",
-            "size": 2788,
-            "checksum": "sha256:26558a248acb8c09b50f9da12838a459c6583b89083b4096ec625ae4240fcb09"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/littly buddy -- moving shadow.avs",
-            "size": 511,
-            "checksum": "sha256:6018a56e6988d61d9b5c8157c74359960f374295e910ff84b3e37bf1129be18c"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/littly buddy -- tiefenrausch.avs",
-            "size": 12142,
-            "checksum": "sha256:974f8de721b2b29e0ae08998083687c36d27057289e7fbf2f1fe4a9053b24b29"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/neo lithic -- retroleum (lith-mix).avs",
-            "size": 1561,
-            "checksum": "sha256:614c89aa075a7da3bc985e4fbafbdce773e3c77eea00c123d0f652cacfb13115"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/paranoya -- die kleine biene maja (paranoya rmx).avs",
-            "size": 1850,
-            "checksum": "sha256:eb29d3cc8eeab6e7718962a38aa063ea26a4c540b8a4e28aaf4db82c7070ac57"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/paranoya -- fuckmeplastic (paranoya rmx).avs",
-            "size": 1090,
-            "checksum": "sha256:456bd4a7fb6e64fd39902d85c8dff6776fdcb7fadb4ce2aa826d9ff72fa2e9f1"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/tonic -- candyland decoded (tonic trio remix).avs",
-            "size": 1048,
-            "checksum": "sha256:d1ba268933c19eb616b361c49354d79dccf2552fc9cdd258c461d00bc8f2b5a7"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/tonic -- disk operating system (tonic trio format).avs",
-            "size": 1829,
-            "checksum": "sha256:32a7a014b5fc5fdb3aa3ad5cb149a36c15e5420b15849689147df63c9d7d9783"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/tonic -- fuckmeplastic (tonic x-space remix ).avs",
-            "size": 854,
-            "checksum": "sha256:40e17e0cb0348d0569690a00e7a79424a62f8ac3fca6cdd15cdf35ae71dfac98"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/zen-x -- fuckmeplastic (zen-x bloody rmx).avs",
-            "size": 611,
-            "checksum": "sha256:da6a43a53ce16223fd65c54ddef7350db6dcd7cac10ea89da741e05f31c427e6"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o3.halfwayaroundthecosmos/guesshimself -- cosmic fragrance (guess rmx).avs",
-            "size": 1544,
-            "checksum": "sha256:00deb43ac1e41a1ae527df4b9583dec5a2bf4478b88ec5751e632410734538fd"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o3.halfwayaroundthecosmos/guesshimself -- cosmic state (guess flash rmx).avs",
-            "size": 737,
-            "checksum": "sha256:23a0688b2c60bf6b797c373aaeff6e65e37de87c008e61b2895725edb8f4060a"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o3.halfwayaroundthecosmos/horse-fly -- cosmic meltdown (horse-fly remix).avs",
-            "size": 634,
-            "checksum": "sha256:1020570660f4b6db1434d702a339d9f7fa140d2636eb109b10a97d28fd8652e9"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o3.halfwayaroundthecosmos/littly buddy -- cosmic flower.avs",
-            "size": 597,
-            "checksum": "sha256:e57d855582d673e4a933f88987873afade62168ccad60c349d2ef1fc5355d8d3"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o3.halfwayaroundthecosmos/littly buddy -- cosmic fragrance.avs",
-            "size": 762,
-            "checksum": "sha256:c6991621481a77c80d21ecabfe2be8af6218244fcc900d979c2a7f59b05d54b4"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o3.halfwayaroundthecosmos/littly buddy -- cosmic honeydew.avs",
-            "size": 539,
-            "checksum": "sha256:9024c4392b8de9c60be13125b8823825a441066e65547a426a584319609a44af"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o3.halfwayaroundthecosmos/littly buddy -- cosmic lounge (if 60s were 90s).avs",
-            "size": 804,
-            "checksum": "sha256:921bdfb9f17c2386ac78b010aaefc0a6f3656cdf57e921afa72f316aaa5eb956"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o3.halfwayaroundthecosmos/littly buddy -- cosmic meltdown.avs",
-            "size": 805,
-            "checksum": "sha256:13b51890859464c422bb9b4b8f378b1650d47b67a9952dbfb66ddcd690ee49de"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o3.halfwayaroundthecosmos/littly buddy -- cosmic peaches.avs",
-            "size": 1608,
-            "checksum": "sha256:5940e2a556a6a4080db44aa683ea8ef6e931055ebfbbff94b5fe450c610e7cb2"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o3.halfwayaroundthecosmos/littly buddy -- cosmic rita hayworth.avs",
-            "size": 761,
-            "checksum": "sha256:4f2132301fbb208332e01e1f7c802dd75502f9df74cbc69f3c2979332650cd0b"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o3.halfwayaroundthecosmos/littly buddy -- cosmic snowflake.avs",
-            "size": 734,
-            "checksum": "sha256:5b8e60b655ac5d070cb5196851db2a142aeee5abaacc99e81d31ca9bbf031f80"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o3.halfwayaroundthecosmos/littly buddy -- cosmic spectrum.avs",
-            "size": 2604,
-            "checksum": "sha256:3bed49cd56baacb52dd832079bd5e67bcc723aefaa33298a6962c2a63a0fefcf"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o3.halfwayaroundthecosmos/littly buddy -- cosmic vagina.avs",
-            "size": 638,
-            "checksum": "sha256:8d1a1f75466502499d69917b2117e76ad7140292b7a2b13384fc5d31043fead0"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o3.halfwayaroundthecosmos/neo lithic -- cosmic (lith-mix).avs",
-            "size": 1880,
-            "checksum": "sha256:d2d4ac3c5d61442a4d4e1a87f88c17cdd2c7b80b2b4f0dc46234b40359281e60"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o3.halfwayaroundthecosmos/neo lithic -- cosmic meltdown (lith-mix).avs",
-            "size": 1857,
-            "checksum": "sha256:69c2992a922bd5c4dd11c36e1da90fe0e1611dc45c2e68bd9d77e07c01038ae9"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o3.halfwayaroundthecosmos/neo lithic -- cosmic spectrum (lith-mix).avs",
-            "size": 2707,
-            "checksum": "sha256:5a854b4c68b52c43474465783a87496f9029133a38a6956b19b96fbc1408370e"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o3.halfwayaroundthecosmos/yathosho -- cosmic flower.avs",
-            "size": 434,
-            "checksum": "sha256:b4d3863988560d1072b8761ab3786637df206282b7edf6d27a4e964f2a559c55"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o3.halfwayaroundthecosmos/yathosho -- cosmic fragrance.avs",
-            "size": 462,
-            "checksum": "sha256:d471e251806fb0f02bd67a48a33f4f5845cebff443df88983c471b7af82cf76a"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o3.halfwayaroundthecosmos/yathosho -- cosmic honeydew.avs",
-            "size": 527,
-            "checksum": "sha256:143bba04f624a804291e11990b41462e53071a5ac4195873f058f3681d6a1fdc"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o3.halfwayaroundthecosmos/yathosho -- cosmic lounge (if 60s were 90s).avs",
-            "size": 576,
-            "checksum": "sha256:d941e748ea16a6e6b2ebcecc5ded0b3c367c60de5b6c40f09f515e32e871bee9"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o3.halfwayaroundthecosmos/yathosho -- cosmic peaches.avs",
-            "size": 1292,
-            "checksum": "sha256:770dca79a50b84c33a33d4ffc97d536cac6d0fddb587a7eb212fbaf0e366d681"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o3.halfwayaroundthecosmos/yathosho -- cosmic rita hayworth.avs",
-            "size": 473,
-            "checksum": "sha256:f0a37f9e0388397ca92f768fe0a466b96f367b90c6c61297232eb61ad4fc15e5"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o3.halfwayaroundthecosmos/yathosho -- cosmic snowflake.avs",
-            "size": 489,
-            "checksum": "sha256:5b9e1183f9a500838cf5a0130f41083a8654bf24b9a781cef21079051d42465f"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o3.halfwayaroundthecosmos/yathosho -- cosmic vagina.avs",
-            "size": 502,
-            "checksum": "sha256:e5d5be9c1fb073db0ed5f575e1f01d19431b4b59dadb54d4dc3c5b55696a061f"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o3.halfwayaroundthecosmos/zen-x -- cosmic lounge (zen-x lavalamp rmx).avs",
-            "size": 674,
-            "checksum": "sha256:ac8a61d9fcf6133017d6b59ebf7348e7df4b2dcb6daeafbd37c0a6fb1f37bda8"
-        },
-        {
-            "file": "whyEye.org/whyEye.org halfwayaroundthesun/o3.halfwayaroundthecosmos/zen-x -- cosmic rita hayworth (strains & explodes zen-x rmx).avs",
-            "size": 761,
-            "checksum": "sha256:bfd0f31e3a4fed482a1a2192d66ec51e2aafb7f04fbd3e63f0ccae745cd0a0f2"
-        }
-    ],
-    "plugins": [
-        "AddBorder"
-    ]
+	"name": "halfwayaroundthesun",
+	"id": "VA010",
+	"presets": [
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- a clockwork grey.avs",
+			"size": 2341,
+			"checksum": "sha256:d7f6fe7e011144712355cf9f71da05b1247a9468dde398c6e811839e44e61cd2"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- a space odyssey (re-drugged).avs",
+			"size": 384,
+			"checksum": "sha256:8fb8bc7010e195e44820d251adcc63139a4a19bfd80cc5c924da0756e969ec12"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- altered state.avs",
+			"size": 1338,
+			"checksum": "sha256:d21f1d5dfdc4c451a5f32d4f99e03f1be85d84dfcc9d72beb49f9cef1302cae0"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- amon ra (biene maja remixed).avs",
+			"size": 631,
+			"checksum": "sha256:5a80766a470a13570cb3ca1e05a224feefc8781714225ccca97788f6752a0781"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- angst 2.avs",
+			"size": 1623,
+			"checksum": "sha256:b7afeabf720de6bf30fa8418aa6b71c97ca6a95f70847980ae86c84e2dec5c5a"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- aromatherapy.avs",
+			"size": 1428,
+			"checksum": "sha256:d608ef3c3478bde3c88ec44cca96009101a697988ff61f0dfb48d7cd4acbe8fc"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- blutkörper.avs",
+			"size": 2079,
+			"checksum": "sha256:080dad3db8a0bfa15063849e2f6cd347422b5512be016acb3d6ff0fe509193e8"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- butterfly.avs",
+			"size": 437,
+			"checksum": "sha256:62b77dde079d6f247764f710ee5e2d38aca18f2ba38ddd5a7d6280d2347cc624"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- c64.avs",
+			"size": 1322,
+			"checksum": "sha256:431f08377925b52548ab160fb41b8d7ee2bd6fcb49a7535ca685110169b310bd"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- candyland decoded.avs",
+			"size": 547,
+			"checksum": "sha256:22e1a8c7ceb5fe4919c47308160121edb5e714d25dd2c975aac84fa531ab5c1e"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- carnaval no brasil (deep into something remix).avs",
+			"size": 1422,
+			"checksum": "sha256:373aaf8ce42158279879e701f34f032d68cdc0572e6ab73a3d115fa7e6c697ef"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- carnaval no brasil.avs",
+			"size": 1414,
+			"checksum": "sha256:3264dc5072b428c6943175e962e77917b9319afce4ec290edaaa90c3fddaa023"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- cow-goo-me! (purity remix).avs",
+			"size": 396,
+			"checksum": "sha256:b9e63ea9eb85a243bcb17586344a63f7cc25c1e756b7808d35d17033028a2fd1"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- cow-goo-me!.avs",
+			"size": 381,
+			"checksum": "sha256:be5b52ad9751c632d8cb0bf32ac9bb40c49a9d5488339a87dd5d6d9643490f1a"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- datenleitung.avs",
+			"size": 1149,
+			"checksum": "sha256:39756f9a9d3b2474a939a9415785dd063879d881713564e0c6c9391c9cfdbcd5"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- decoder.avs",
+			"size": 493,
+			"checksum": "sha256:3505557a73b8369919fd805018515859d33a8f6f123a43540096f6d52d041901"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- demon.avs",
+			"size": 2310,
+			"checksum": "sha256:90e03c320ef07bb5f9a6aa2166bff7fa69e5e8d49a08f7bd5311cb4e9c82f87b"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- die kleine biene maja.avs",
+			"size": 466,
+			"checksum": "sha256:8775600b0467ed6e7313aa057f53bfc1e4056b7ecf3a0dee4215e767caaf3efa"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- disk operating system (alteration).avs",
+			"size": 503,
+			"checksum": "sha256:386d38907f0b13f3f6cf93d487dd8433c00882746c6e84f0a2cfc6357f5477cc"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- durch den weltraum nach hause.avs",
+			"size": 1575,
+			"checksum": "sha256:e9ea1090492c5a83435526ee24953b393194c8d1d1ca38fd489283727c16d2b5"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- feuerkreisel.avs",
+			"size": 1330,
+			"checksum": "sha256:f67f31518086679a4050879b12dc35091645f1a0f021f37ae110b35ca32f6a96"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- fuckmeplastic (underwater love remix).avs",
+			"size": 576,
+			"checksum": "sha256:dd63cf5d850027cfbe6675996e46afc127cbafdce27ef47716fb5e55dfc6fd51"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- fuckmeplastic.avs",
+			"size": 546,
+			"checksum": "sha256:7e99194d620bfa485bb5461e1e4dec2df4b3902f12e3882ba5d8de2edd7b3f78"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- generation atari.avs",
+			"size": 764,
+			"checksum": "sha256:fcf5a66acdecb74061b59504924fb53e5132a58e7bf9dfa1ea831896e6d55be9"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- jeff lebowski's magic carpet ride (alteration).avs",
+			"size": 591,
+			"checksum": "sha256:4223480c16843ac6c97c3b5964c49a58af94b5aa5aa15853175cd9c96012f0fb"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- jeff lebowski's magic carpet ride.avs",
+			"size": 550,
+			"checksum": "sha256:b2b148346d4acee22917af5883b0fc796cc0c2da19da3f909ca907b3aa7a2fb9"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- legoland decoded (total blockout).avs",
+			"size": 595,
+			"checksum": "sha256:1d13f52dcd90ed010abfa70ae40e1953424670b9f2018a5eafd2dd9b08338bab"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- legoland decoded.avs",
+			"size": 578,
+			"checksum": "sha256:152a6b30b28324d9455eac9cfaea8ba99edb206b95f478ad5891e9f22e82736e"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- raumbewegung (4 flavors remix).avs",
+			"size": 1095,
+			"checksum": "sha256:a3d7361f9b406227b943c2b137b3f848e31f3094e7eee3bdc6db58396e4fa6be"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- raumbewegung.avs",
+			"size": 1065,
+			"checksum": "sha256:4097c0b17afb3b1876746bbd4a5eb7f170dc5cbe1d7d1f599216f4a1a92cdf8f"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- snowblind (solaris remixed).avs",
+			"size": 556,
+			"checksum": "sha256:27b6cc30f45451daae5327984800ad7a998ba1f2e69631a9ce087edeca001d0a"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- solaris.avs",
+			"size": 405,
+			"checksum": "sha256:6b9e60c271fc68ab5ed6fd213716ccdf6f3e8c146e93c6b6e215c058d335f30c"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o1.PR3S3TS/yathosho -- super famicom (16-bit drum and bass).avs",
+			"size": 562,
+			"checksum": "sha256:8d5c4b6663f9948831f94aac069294cb01133e98ed406582a4a506b16b44384b"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/guesshimself -- die kleine biene maja (guess rmx).avs",
+			"size": 616,
+			"checksum": "sha256:bbc6baea60acef374de7c9ef98e9359716826efe28ebd396d81af1c307245e05"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/guesshimself -- durch den weltraum nach hause (guess rmx).avs",
+			"size": 2676,
+			"checksum": "sha256:bdb0301961578bf436b12e3e92c865d6f327090609497187fa3c1e5050dfc50c"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/guesshimself -- feuerkreisel (guess eruption rmx).avs",
+			"size": 1672,
+			"checksum": "sha256:53dd4306fc694c32ba3c75e2155266fe1cae5b6a750568216b1fcd56a84e6d4b"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/guesshimself -- raumbewegung (guess rmx).avs",
+			"size": 1175,
+			"checksum": "sha256:b3aec2de1b0fa34a339775f0506f9e6a7a122d27b18e96561dd6fbdba863627f"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/horse-fly -- (blood) demon (horse-fly remix).avs",
+			"size": 3512,
+			"checksum": "sha256:9c17d213aee2ffe86079e8fd6695c62bce4f068d077d414a1e43d6c2b84c720f"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/horse-fly -- a clockwork grey (hf remix).avs",
+			"size": 2623,
+			"checksum": "sha256:bb40a3d07de4b6b758afcf6738f7a7df60d7314d885f02e3dc0301a66cbaeb4c"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/horse-fly -- a space odyssey (hf remix).avs",
+			"size": 494,
+			"checksum": "sha256:598731ba8005bafcdb26407f2b8e1b9c1715cd387f98749e21b1644010e77edf"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/horse-fly -- blutkörper (hf shifter).avs",
+			"size": 2070,
+			"checksum": "sha256:573392f3dd70d1e78c85a2831bf5b2bdf130b4e2d4128b54adf938ac3b6d2136"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/horse-fly -- super famicom (16-bit drum and bass).avs",
+			"size": 516,
+			"checksum": "sha256:e33254181f65ebceb0670ef1f5ee6f0a3fd93270dbf3660907491f20fdbb40ba"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/littly buddy -- altered state.avs",
+			"size": 2398,
+			"checksum": "sha256:6e2a0861bc94abdfd84f2957ea767d54a33a12364c952567a6e140547aba57ac"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/littly buddy -- angst.avs",
+			"size": 1563,
+			"checksum": "sha256:83bd14b44e40f5afe1ae25734ab62c4653e7e8799db4689f57797b29355a01ec"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/littly buddy -- blutkörper.avs",
+			"size": 2371,
+			"checksum": "sha256:590b85c801f21511a4218568e26cca45ee3c34c23cc80a7e4ac9db747cf7593c"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/littly buddy -- carnaval no brasil.avs",
+			"size": 1450,
+			"checksum": "sha256:c129253469f5f3b91ac5922d538298a30914c8c9138a6996e58327f786246091"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/littly buddy -- commodore 64 (10k times faster).avs",
+			"size": 3803,
+			"checksum": "sha256:280b1f9d6689404860c5b3025787af7cf3fee02822bb71a66e1ef6c58f25a0bd"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/littly buddy -- cow-go-mee.avs",
+			"size": 737,
+			"checksum": "sha256:f2deee15a27a6696bff3f4c8ca6c058c63b16df3665de235575761d501167e0c"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/littly buddy -- decoder.avs",
+			"size": 569,
+			"checksum": "sha256:23f89be55a959bd24865d152773ffed3a8d342d35a629972bb4ca757214c91ec"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/littly buddy -- demon.avs",
+			"size": 2362,
+			"checksum": "sha256:dd3d8774b6e7c7ce3034196fc6797299d6b56c184c43f8df2f61c910d75b6fd5"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/littly buddy -- disk operating system.avs",
+			"size": 1609,
+			"checksum": "sha256:bf45f4dbff37565913e3fd23a6587146f9bb4fb6e0d5ad1f4d41600bef163d42"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/littly buddy -- feuerkreisel.avs",
+			"size": 1432,
+			"checksum": "sha256:3d5f07515322c12c504f792de44d1aad69d0004ec723e73056275ddb50b8e0f7"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/littly buddy -- fluoreszenz.avs",
+			"size": 3504,
+			"checksum": "sha256:e0d266215d6cc2b64299d0591d3c39e6e33ca24370db1bfd6c7ea28fb261d08c"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/littly buddy -- fuckmeplastic.avs",
+			"size": 594,
+			"checksum": "sha256:06c6e24abd996573f92982b5f96882c3edbbcacd3853c639aa6013e445912416"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/littly buddy -- i think i'm polaroid.avs",
+			"size": 2303,
+			"checksum": "sha256:89baa77ee56d1d0c18e67ae815d4d6418289b5955edf6ff318ef907d3fcdd284"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/littly buddy -- jeff lebowski's magic carpet ride.avs",
+			"size": 612,
+			"checksum": "sha256:660b404fc65fd9f42c714d07e17f8f6f3b54d63785a607f5bf08b5d20c9b1533"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/littly buddy -- kunsteffekt 000.avs",
+			"size": 1513,
+			"checksum": "sha256:64864ad4a42e7f1253186ff9af04866cda31605ae59f58f190e3cf51893a084c"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/littly buddy -- kunsteffekt 010.avs",
+			"size": 1417,
+			"checksum": "sha256:4232e074c3e88b9d9bd986e65908fbea3e9d65905a99a1ca1f26feaf44b38549"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/littly buddy -- kunsteffekt 101.avs",
+			"size": 2788,
+			"checksum": "sha256:26558a248acb8c09b50f9da12838a459c6583b89083b4096ec625ae4240fcb09"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/littly buddy -- moving shadow.avs",
+			"size": 511,
+			"checksum": "sha256:6018a56e6988d61d9b5c8157c74359960f374295e910ff84b3e37bf1129be18c"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/littly buddy -- tiefenrausch.avs",
+			"size": 12142,
+			"checksum": "sha256:974f8de721b2b29e0ae08998083687c36d27057289e7fbf2f1fe4a9053b24b29"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/neo lithic -- retroleum (lith-mix).avs",
+			"size": 1561,
+			"checksum": "sha256:614c89aa075a7da3bc985e4fbafbdce773e3c77eea00c123d0f652cacfb13115"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/paranoya -- die kleine biene maja (paranoya rmx).avs",
+			"size": 1850,
+			"checksum": "sha256:eb29d3cc8eeab6e7718962a38aa063ea26a4c540b8a4e28aaf4db82c7070ac57"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/paranoya -- fuckmeplastic (paranoya rmx).avs",
+			"size": 1090,
+			"checksum": "sha256:456bd4a7fb6e64fd39902d85c8dff6776fdcb7fadb4ce2aa826d9ff72fa2e9f1"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/tonic -- candyland decoded (tonic trio remix).avs",
+			"size": 1048,
+			"checksum": "sha256:d1ba268933c19eb616b361c49354d79dccf2552fc9cdd258c461d00bc8f2b5a7"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/tonic -- disk operating system (tonic trio format).avs",
+			"size": 1829,
+			"checksum": "sha256:32a7a014b5fc5fdb3aa3ad5cb149a36c15e5420b15849689147df63c9d7d9783"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/tonic -- fuckmeplastic (tonic x-space remix ).avs",
+			"size": 854,
+			"checksum": "sha256:40e17e0cb0348d0569690a00e7a79424a62f8ac3fca6cdd15cdf35ae71dfac98"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o2.R3M1X3S/zen-x -- fuckmeplastic (zen-x bloody rmx).avs",
+			"size": 611,
+			"checksum": "sha256:da6a43a53ce16223fd65c54ddef7350db6dcd7cac10ea89da741e05f31c427e6"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o3.halfwayaroundthecosmos/guesshimself -- cosmic fragrance (guess rmx).avs",
+			"size": 1544,
+			"checksum": "sha256:00deb43ac1e41a1ae527df4b9583dec5a2bf4478b88ec5751e632410734538fd"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o3.halfwayaroundthecosmos/guesshimself -- cosmic state (guess flash rmx).avs",
+			"size": 737,
+			"checksum": "sha256:23a0688b2c60bf6b797c373aaeff6e65e37de87c008e61b2895725edb8f4060a"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o3.halfwayaroundthecosmos/horse-fly -- cosmic meltdown (horse-fly remix).avs",
+			"size": 634,
+			"checksum": "sha256:1020570660f4b6db1434d702a339d9f7fa140d2636eb109b10a97d28fd8652e9"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o3.halfwayaroundthecosmos/littly buddy -- cosmic flower.avs",
+			"size": 597,
+			"checksum": "sha256:e57d855582d673e4a933f88987873afade62168ccad60c349d2ef1fc5355d8d3"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o3.halfwayaroundthecosmos/littly buddy -- cosmic fragrance.avs",
+			"size": 762,
+			"checksum": "sha256:c6991621481a77c80d21ecabfe2be8af6218244fcc900d979c2a7f59b05d54b4"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o3.halfwayaroundthecosmos/littly buddy -- cosmic honeydew.avs",
+			"size": 539,
+			"checksum": "sha256:9024c4392b8de9c60be13125b8823825a441066e65547a426a584319609a44af"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o3.halfwayaroundthecosmos/littly buddy -- cosmic lounge (if 60s were 90s).avs",
+			"size": 804,
+			"checksum": "sha256:921bdfb9f17c2386ac78b010aaefc0a6f3656cdf57e921afa72f316aaa5eb956"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o3.halfwayaroundthecosmos/littly buddy -- cosmic meltdown.avs",
+			"size": 805,
+			"checksum": "sha256:13b51890859464c422bb9b4b8f378b1650d47b67a9952dbfb66ddcd690ee49de"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o3.halfwayaroundthecosmos/littly buddy -- cosmic peaches.avs",
+			"size": 1608,
+			"checksum": "sha256:5940e2a556a6a4080db44aa683ea8ef6e931055ebfbbff94b5fe450c610e7cb2"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o3.halfwayaroundthecosmos/littly buddy -- cosmic rita hayworth.avs",
+			"size": 761,
+			"checksum": "sha256:4f2132301fbb208332e01e1f7c802dd75502f9df74cbc69f3c2979332650cd0b"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o3.halfwayaroundthecosmos/littly buddy -- cosmic snowflake.avs",
+			"size": 734,
+			"checksum": "sha256:5b8e60b655ac5d070cb5196851db2a142aeee5abaacc99e81d31ca9bbf031f80"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o3.halfwayaroundthecosmos/littly buddy -- cosmic spectrum.avs",
+			"size": 2604,
+			"checksum": "sha256:3bed49cd56baacb52dd832079bd5e67bcc723aefaa33298a6962c2a63a0fefcf"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o3.halfwayaroundthecosmos/littly buddy -- cosmic vagina.avs",
+			"size": 638,
+			"checksum": "sha256:8d1a1f75466502499d69917b2117e76ad7140292b7a2b13384fc5d31043fead0"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o3.halfwayaroundthecosmos/neo lithic -- cosmic (lith-mix).avs",
+			"size": 1880,
+			"checksum": "sha256:d2d4ac3c5d61442a4d4e1a87f88c17cdd2c7b80b2b4f0dc46234b40359281e60"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o3.halfwayaroundthecosmos/neo lithic -- cosmic meltdown (lith-mix).avs",
+			"size": 1857,
+			"checksum": "sha256:69c2992a922bd5c4dd11c36e1da90fe0e1611dc45c2e68bd9d77e07c01038ae9"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o3.halfwayaroundthecosmos/neo lithic -- cosmic spectrum (lith-mix).avs",
+			"size": 2707,
+			"checksum": "sha256:5a854b4c68b52c43474465783a87496f9029133a38a6956b19b96fbc1408370e"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o3.halfwayaroundthecosmos/yathosho -- cosmic flower.avs",
+			"size": 434,
+			"checksum": "sha256:b4d3863988560d1072b8761ab3786637df206282b7edf6d27a4e964f2a559c55"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o3.halfwayaroundthecosmos/yathosho -- cosmic fragrance.avs",
+			"size": 462,
+			"checksum": "sha256:d471e251806fb0f02bd67a48a33f4f5845cebff443df88983c471b7af82cf76a"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o3.halfwayaroundthecosmos/yathosho -- cosmic honeydew.avs",
+			"size": 527,
+			"checksum": "sha256:143bba04f624a804291e11990b41462e53071a5ac4195873f058f3681d6a1fdc"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o3.halfwayaroundthecosmos/yathosho -- cosmic lounge (if 60s were 90s).avs",
+			"size": 576,
+			"checksum": "sha256:d941e748ea16a6e6b2ebcecc5ded0b3c367c60de5b6c40f09f515e32e871bee9"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o3.halfwayaroundthecosmos/yathosho -- cosmic peaches.avs",
+			"size": 1292,
+			"checksum": "sha256:770dca79a50b84c33a33d4ffc97d536cac6d0fddb587a7eb212fbaf0e366d681"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o3.halfwayaroundthecosmos/yathosho -- cosmic rita hayworth.avs",
+			"size": 473,
+			"checksum": "sha256:f0a37f9e0388397ca92f768fe0a466b96f367b90c6c61297232eb61ad4fc15e5"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o3.halfwayaroundthecosmos/yathosho -- cosmic snowflake.avs",
+			"size": 489,
+			"checksum": "sha256:5b9e1183f9a500838cf5a0130f41083a8654bf24b9a781cef21079051d42465f"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o3.halfwayaroundthecosmos/yathosho -- cosmic vagina.avs",
+			"size": 502,
+			"checksum": "sha256:e5d5be9c1fb073db0ed5f575e1f01d19431b4b59dadb54d4dc3c5b55696a061f"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o3.halfwayaroundthecosmos/zen-x -- cosmic lounge (zen-x lavalamp rmx).avs",
+			"size": 674,
+			"checksum": "sha256:ac8a61d9fcf6133017d6b59ebf7348e7df4b2dcb6daeafbd37c0a6fb1f37bda8"
+		},
+		{
+			"file": "whyEye.org/whyEye.org halfwayaroundthesun/o3.halfwayaroundthecosmos/zen-x -- cosmic rita hayworth (strains & explodes zen-x rmx).avs",
+			"size": 761,
+			"checksum": "sha256:bfd0f31e3a4fed482a1a2192d66ec51e2aafb7f04fbd3e63f0ccae745cd0a0f2"
+		}
+	],
+	"plugins": ["AddBorder"]
 }

@@ -1,126 +1,124 @@
 {
-    "name": "Singles",
-    "id": "VA007",
-    "presets": [
-        {
-            "file": "Dynamic Duo/Singles/01 dynamic duo - tentaclism.avs",
-            "size": 3284,
-            "checksum": "sha256:dcff0a643dab951d36269ddefb03d2a3fb4792adbe84280c2e656e207a8f0348"
-        },
-        {
-            "file": "Dynamic Duo/Singles/02 dynamic duo - do you copy.avs",
-            "size": 3025,
-            "checksum": "sha256:94da7aab88270f84571de584277d6e1fcf7a5d64dcf2fa523eb07acbce092a8f"
-        },
-        {
-            "file": "Dynamic Duo/Singles/03 dynamic duo - european future (revisited).avs",
-            "size": 3456,
-            "checksum": "sha256:644d367478e313f959391683fc84fa485e00b6b4c9c2a25e3020ccb4ac17a7ac"
-        },
-        {
-            "file": "Dynamic Duo/Singles/04 dynamic duo - who doesn't love wood.avs",
-            "size": 2264,
-            "checksum": "sha256:b2b55af1332958d18beac8dbe39c43a783fc2a7e08e59a130509d38e6aa4ec99"
-        },
-        {
-            "file": "Dynamic Duo/Singles/05 dynamic duo - contraction.avs",
-            "size": 3204,
-            "checksum": "sha256:85de21b3d8e8f8da578d1fed2053c309517801b7514eafa2acbb797702cb731f"
-        },
-        {
-            "file": "Dynamic Duo/Singles/06 dynamic duo - pit.avs",
-            "size": 2691,
-            "checksum": "sha256:77176d2685a3eb4204de2c76de8f73e7f9fafc15d650158429e1ed6ae66b58df"
-        },
-        {
-            "file": "Dynamic Duo/Singles/07 dynamic duo - random anja.avs",
-            "size": 4583,
-            "checksum": "sha256:330ff3036cb6a3dcc22f6d1ae35e22d6b1909dd9f08d0d816ae63e22d1179ad5"
-        },
-        {
-            "file": "Dynamic Duo/Singles/08 dynamic duo - kinematics (ya-tho-sho treatment).avs",
-            "size": 4066,
-            "checksum": "sha256:7c1c74ac264cee0ef22b9a1483af7f519c0ba09fc414bfa245ec6fbb01b6f60a"
-        },
-        {
-            "file": "Dynamic Duo/Singles/09 dynamic duo - incessant.avs",
-            "size": 4128,
-            "checksum": "sha256:d8b6c3caa4b41eb111bdf627ab0d38fa0402accfc36f5300f18389791c0336c2"
-        },
-        {
-            "file": "Dynamic Duo/Singles/10 dynamic duo - zamuz lt.avs",
-            "size": 8102,
-            "checksum": "sha256:9a1295fd984dd162dc33f2cd3cd4a3cadf7d91b363435308a5b402c536e4bebf"
-        },
-        {
-            "file": "Dynamic Duo/Singles/11 dynamic duo - dial m for drugstore (v.i.p.).avs",
-            "size": 2125,
-            "checksum": "sha256:106a752dadd2f1bc86115ee2ae0148e9abf3f58b9e97c8496c50db6ab31a654d"
-        },
-        {
-            "file": "Dynamic Duo/Singles/12 dynamic duo - flickermood.avs",
-            "size": 7879,
-            "checksum": "sha256:799a2e241155f8b83dcb342753837bfdd2faaff0ac0f2eabfce4afc2fca822ff"
-        },
-        {
-            "file": "Dynamic Duo/Singles/13 dynamic duo - the crossing.avs",
-            "size": 1275,
-            "checksum": "sha256:455028dd437d03cd4de743a9a3600218798d6057593b08fc38cef661532b4333"
-        },
-        {
-            "file": "Dynamic Duo/Singles/14 dynamic duo - in movement.avs",
-            "size": 3066,
-            "checksum": "sha256:93910d9b18d27ff308f74fa96c0da315513cc0813f5e2890bb78d7c3bb355ed7"
-        },
-        {
-            "file": "Dynamic Duo/Singles/15 dynamic duo - elevation.avs",
-            "size": 3661,
-            "checksum": "sha256:fc9172e3b3fcc5bec65f1b81d1968eb409a2ce7d4ad66890be6a932eb886dcc9"
-        },
-        {
-            "file": "Dynamic Duo/Singles/16 dynamic duo - upachi.avs",
-            "size": 3537,
-            "checksum": "sha256:a2c1b8a10a86c6e9db3ad8e9ad5c8bdf3f60022903465ec5ebcdbc4282fa3d90"
-        },
-        {
-            "file": "Dynamic Duo/Singles/17 dynamic duo - it's all square.avs",
-            "size": 2022,
-            "checksum": "sha256:f64f7cfca85ef0acffbb075cf8dc8252077c012702188f8aeb7da9773e688831"
-        },
-        {
-            "file": "Dynamic Duo/Singles/18 dynamic duo - get sick (revisited).avs",
-            "size": 915,
-            "checksum": "sha256:fc8b9b6f88985cdecbdc38f1aab114aa26e2158ccfb4503b1b678ff3100e686c"
-        },
-        {
-            "file": "Dynamic Duo/Singles/19 dynamic duo - kinderschokolade (ya-tho-sho treatment).avs",
-            "size": 1151,
-            "checksum": "sha256:460fdf08bf68470700c91c94e522c39e585b7acfa3b0f279d947f9adfecc2130"
-        },
-        {
-            "file": "Dynamic Duo/Singles/20 dynamic duo - untitled031 (unconed's original tweak).avs",
-            "size": 2293,
-            "checksum": "sha256:357eb9ea78ed06ac25dafb17f23b0d1c829edecae7bf53fe2a07a8b7a3a49e32"
-        }
-    ],
-    "assets": [
-        {
-            "file": "avsres_texer_square_edgeonly_28x28.bmp",
-            "size": 2406,
-            "checksum": "sha256:92562607c279b3b13fa87bd48960f15b4380d4fdc1a9595f9a90d3915b0cbe12"
-        },
-        {
-            "file": "dynduo-star.bmp",
-            "size": 856,
-            "checksum": "sha256:a5a1ae4a2cad1eff6d5f323b09d7184977ea74621fe8c7be8d7e779d737cc013"
-        },
-        {
-            "file": "vb.bmp",
-            "size": 145254,
-            "checksum": "sha256:92479458ed7967973cccc27666c5192a2cf8a9f5b526dacba4c3fc907a3bdad4"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "Singles",
+	"id": "VA007",
+	"presets": [
+		{
+			"file": "Dynamic Duo/Singles/01 dynamic duo - tentaclism.avs",
+			"size": 3284,
+			"checksum": "sha256:dcff0a643dab951d36269ddefb03d2a3fb4792adbe84280c2e656e207a8f0348"
+		},
+		{
+			"file": "Dynamic Duo/Singles/02 dynamic duo - do you copy.avs",
+			"size": 3025,
+			"checksum": "sha256:94da7aab88270f84571de584277d6e1fcf7a5d64dcf2fa523eb07acbce092a8f"
+		},
+		{
+			"file": "Dynamic Duo/Singles/03 dynamic duo - european future (revisited).avs",
+			"size": 3456,
+			"checksum": "sha256:644d367478e313f959391683fc84fa485e00b6b4c9c2a25e3020ccb4ac17a7ac"
+		},
+		{
+			"file": "Dynamic Duo/Singles/04 dynamic duo - who doesn't love wood.avs",
+			"size": 2264,
+			"checksum": "sha256:b2b55af1332958d18beac8dbe39c43a783fc2a7e08e59a130509d38e6aa4ec99"
+		},
+		{
+			"file": "Dynamic Duo/Singles/05 dynamic duo - contraction.avs",
+			"size": 3204,
+			"checksum": "sha256:85de21b3d8e8f8da578d1fed2053c309517801b7514eafa2acbb797702cb731f"
+		},
+		{
+			"file": "Dynamic Duo/Singles/06 dynamic duo - pit.avs",
+			"size": 2691,
+			"checksum": "sha256:77176d2685a3eb4204de2c76de8f73e7f9fafc15d650158429e1ed6ae66b58df"
+		},
+		{
+			"file": "Dynamic Duo/Singles/07 dynamic duo - random anja.avs",
+			"size": 4583,
+			"checksum": "sha256:330ff3036cb6a3dcc22f6d1ae35e22d6b1909dd9f08d0d816ae63e22d1179ad5"
+		},
+		{
+			"file": "Dynamic Duo/Singles/08 dynamic duo - kinematics (ya-tho-sho treatment).avs",
+			"size": 4066,
+			"checksum": "sha256:7c1c74ac264cee0ef22b9a1483af7f519c0ba09fc414bfa245ec6fbb01b6f60a"
+		},
+		{
+			"file": "Dynamic Duo/Singles/09 dynamic duo - incessant.avs",
+			"size": 4128,
+			"checksum": "sha256:d8b6c3caa4b41eb111bdf627ab0d38fa0402accfc36f5300f18389791c0336c2"
+		},
+		{
+			"file": "Dynamic Duo/Singles/10 dynamic duo - zamuz lt.avs",
+			"size": 8102,
+			"checksum": "sha256:9a1295fd984dd162dc33f2cd3cd4a3cadf7d91b363435308a5b402c536e4bebf"
+		},
+		{
+			"file": "Dynamic Duo/Singles/11 dynamic duo - dial m for drugstore (v.i.p.).avs",
+			"size": 2125,
+			"checksum": "sha256:106a752dadd2f1bc86115ee2ae0148e9abf3f58b9e97c8496c50db6ab31a654d"
+		},
+		{
+			"file": "Dynamic Duo/Singles/12 dynamic duo - flickermood.avs",
+			"size": 7879,
+			"checksum": "sha256:799a2e241155f8b83dcb342753837bfdd2faaff0ac0f2eabfce4afc2fca822ff"
+		},
+		{
+			"file": "Dynamic Duo/Singles/13 dynamic duo - the crossing.avs",
+			"size": 1275,
+			"checksum": "sha256:455028dd437d03cd4de743a9a3600218798d6057593b08fc38cef661532b4333"
+		},
+		{
+			"file": "Dynamic Duo/Singles/14 dynamic duo - in movement.avs",
+			"size": 3066,
+			"checksum": "sha256:93910d9b18d27ff308f74fa96c0da315513cc0813f5e2890bb78d7c3bb355ed7"
+		},
+		{
+			"file": "Dynamic Duo/Singles/15 dynamic duo - elevation.avs",
+			"size": 3661,
+			"checksum": "sha256:fc9172e3b3fcc5bec65f1b81d1968eb409a2ce7d4ad66890be6a932eb886dcc9"
+		},
+		{
+			"file": "Dynamic Duo/Singles/16 dynamic duo - upachi.avs",
+			"size": 3537,
+			"checksum": "sha256:a2c1b8a10a86c6e9db3ad8e9ad5c8bdf3f60022903465ec5ebcdbc4282fa3d90"
+		},
+		{
+			"file": "Dynamic Duo/Singles/17 dynamic duo - it's all square.avs",
+			"size": 2022,
+			"checksum": "sha256:f64f7cfca85ef0acffbb075cf8dc8252077c012702188f8aeb7da9773e688831"
+		},
+		{
+			"file": "Dynamic Duo/Singles/18 dynamic duo - get sick (revisited).avs",
+			"size": 915,
+			"checksum": "sha256:fc8b9b6f88985cdecbdc38f1aab114aa26e2158ccfb4503b1b678ff3100e686c"
+		},
+		{
+			"file": "Dynamic Duo/Singles/19 dynamic duo - kinderschokolade (ya-tho-sho treatment).avs",
+			"size": 1151,
+			"checksum": "sha256:460fdf08bf68470700c91c94e522c39e585b7acfa3b0f279d947f9adfecc2130"
+		},
+		{
+			"file": "Dynamic Duo/Singles/20 dynamic duo - untitled031 (unconed's original tweak).avs",
+			"size": 2293,
+			"checksum": "sha256:357eb9ea78ed06ac25dafb17f23b0d1c829edecae7bf53fe2a07a8b7a3a49e32"
+		}
+	],
+	"assets": [
+		{
+			"file": "avsres_texer_square_edgeonly_28x28.bmp",
+			"size": 2406,
+			"checksum": "sha256:92562607c279b3b13fa87bd48960f15b4380d4fdc1a9595f9a90d3915b0cbe12"
+		},
+		{
+			"file": "dynduo-star.bmp",
+			"size": 856,
+			"checksum": "sha256:a5a1ae4a2cad1eff6d5f323b09d7184977ea74621fe8c7be8d7e779d737cc013"
+		},
+		{
+			"file": "vb.bmp",
+			"size": 145254,
+			"checksum": "sha256:92479458ed7967973cccc27666c5192a2cf8a9f5b526dacba4c3fc907a3bdad4"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

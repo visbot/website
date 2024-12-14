@@ -1,41 +1,37 @@
 {
-    "name": "sEP . different sights",
-    "id": "VB134-2",
-    "presets": [
-        {
-            "file": "frames.of.reality/sEP . different sights/001 . vanish . lightmate deconstrukt.avs",
-            "size": 4361,
-            "checksum": "sha256:5f6d6a46f5fcd0c572b3fee5f3bc6e41edd975655a3c3cfbb38754aeffe51d86"
-        },
-        {
-            "file": "frames.of.reality/sEP . different sights/002 . shock value . writhing in two colors.avs",
-            "size": 6431,
-            "checksum": "sha256:7eb65fa9a7d530fd11179eeb541ca28dc4e003f2b413558d1fbbfb97904f8dd5"
-        },
-        {
-            "file": "frames.of.reality/sEP . different sights/003 . vos.avs",
-            "size": 3590,
-            "checksum": "sha256:9917087aebdc0618d819c87d8711cd69e254822ff1835a07814bbf958289dcc1"
-        },
-        {
-            "file": "frames.of.reality/sEP . different sights/004 . zamuz . liver scope.avs",
-            "size": 4279,
-            "checksum": "sha256:fd7ccc1ec6c545e8355da9127e203694f5a855bbf6bfdaaf3764908b464f13d2"
-        },
-        {
-            "file": "frames.of.reality/sEP . different sights/005 . goomba.avs",
-            "size": 3709,
-            "checksum": "sha256:1ea127d1a1a53540ecae026977f037e8d5c6d2db4c70f59d7b8a6f9b7259bc26"
-        },
-        {
-            "file": "frames.of.reality/sEP . different sights/006 . duo . alien trickery.avs",
-            "size": 4987,
-            "checksum": "sha256:ea212f50a1af451e4014722290de4e8653723ff7a291d26c51953d22d77b0a56"
-        }
-    ],
-    "plugins": [
-        "AddBorder",
-        "BufferBlend",
-        "ConvolutionFilter"
-    ]
+	"name": "sEP . different sights",
+	"id": "VB134-2",
+	"presets": [
+		{
+			"file": "frames.of.reality/sEP . different sights/001 . vanish . lightmate deconstrukt.avs",
+			"size": 4361,
+			"checksum": "sha256:5f6d6a46f5fcd0c572b3fee5f3bc6e41edd975655a3c3cfbb38754aeffe51d86"
+		},
+		{
+			"file": "frames.of.reality/sEP . different sights/002 . shock value . writhing in two colors.avs",
+			"size": 6431,
+			"checksum": "sha256:7eb65fa9a7d530fd11179eeb541ca28dc4e003f2b413558d1fbbfb97904f8dd5"
+		},
+		{
+			"file": "frames.of.reality/sEP . different sights/003 . vos.avs",
+			"size": 3590,
+			"checksum": "sha256:9917087aebdc0618d819c87d8711cd69e254822ff1835a07814bbf958289dcc1"
+		},
+		{
+			"file": "frames.of.reality/sEP . different sights/004 . zamuz . liver scope.avs",
+			"size": 4279,
+			"checksum": "sha256:fd7ccc1ec6c545e8355da9127e203694f5a855bbf6bfdaaf3764908b464f13d2"
+		},
+		{
+			"file": "frames.of.reality/sEP . different sights/005 . goomba.avs",
+			"size": 3709,
+			"checksum": "sha256:1ea127d1a1a53540ecae026977f037e8d5c6d2db4c70f59d7b8a6f9b7259bc26"
+		},
+		{
+			"file": "frames.of.reality/sEP . different sights/006 . duo . alien trickery.avs",
+			"size": 4987,
+			"checksum": "sha256:ea212f50a1af451e4014722290de4e8653723ff7a291d26c51953d22d77b0a56"
+		}
+	],
+	"plugins": ["AddBorder", "BufferBlend", "ConvolutionFilter"]
 }

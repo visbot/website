@@ -1,29 +1,27 @@
 {
-    "name": "whyEye.org since then 7",
-    "id": "VB021",
-    "presets": [
-        {
-            "file": "whyEye.org/whyEye.org since then 7/yiA1-yathosho__gasoline_(1st_attempt).avs",
-            "size": 1651,
-            "checksum": "sha256:a60454474b7f243aa45e4143e713fc55dd59aa286a250acae43abe375ccbc44f"
-        },
-        {
-            "file": "whyEye.org/whyEye.org since then 7/yiA2-skupers__curvism_(yathosho's_bernstein_flow).avs",
-            "size": 2302,
-            "checksum": "sha256:b002dc2f5853c38b0707625e9f523a25d882f13d9b7713ef1df8170470efdaa6"
-        },
-        {
-            "file": "whyEye.org/whyEye.org since then 7/yiB1-yathosho__beyondbeyond_(danjoe's_rusty_remix).avs",
-            "size": 1066,
-            "checksum": "sha256:8f623c7e156f0fefde060d9ba925a1c86e2292c814f8f8bbcbe9305aa23f93a4"
-        },
-        {
-            "file": "whyEye.org/whyEye.org since then 7/yiB2-yathosho__carpet_biology.avs",
-            "size": 1732,
-            "checksum": "sha256:160b6ba0bcfee595deda610e33f0393d0389020842ec5963baee6863a8ee8177"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "whyEye.org since then 7",
+	"id": "VB021",
+	"presets": [
+		{
+			"file": "whyEye.org/whyEye.org since then 7/yiA1-yathosho__gasoline_(1st_attempt).avs",
+			"size": 1651,
+			"checksum": "sha256:a60454474b7f243aa45e4143e713fc55dd59aa286a250acae43abe375ccbc44f"
+		},
+		{
+			"file": "whyEye.org/whyEye.org since then 7/yiA2-skupers__curvism_(yathosho's_bernstein_flow).avs",
+			"size": 2302,
+			"checksum": "sha256:b002dc2f5853c38b0707625e9f523a25d882f13d9b7713ef1df8170470efdaa6"
+		},
+		{
+			"file": "whyEye.org/whyEye.org since then 7/yiB1-yathosho__beyondbeyond_(danjoe's_rusty_remix).avs",
+			"size": 1066,
+			"checksum": "sha256:8f623c7e156f0fefde060d9ba925a1c86e2292c814f8f8bbcbe9305aa23f93a4"
+		},
+		{
+			"file": "whyEye.org/whyEye.org since then 7/yiB2-yathosho__carpet_biology.avs",
+			"size": 1732,
+			"checksum": "sha256:160b6ba0bcfee595deda610e33f0393d0389020842ec5963baee6863a8ee8177"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

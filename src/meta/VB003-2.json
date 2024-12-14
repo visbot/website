@@ -1,212 +1,209 @@
 {
-    "name": "S_KuPeRS - LP7 - Viima",
-    "id": "VB003-2",
-    "presets": [
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/000 - Intro.avs",
-            "size": 10778,
-            "checksum": "sha256:1c4e1f041ae104cc29874501092f0830382902c00e81c5a41207e012bd8f9aef"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/001 - Inverse Kinetics.avs",
-            "size": 5305,
-            "checksum": "sha256:7e24e972dc02a041c072ef8756a840a8aba242e4a18f2ac2942ecc6bb1bde2b1"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/002 - Inverse Kinetics 002.avs",
-            "size": 5132,
-            "checksum": "sha256:61d666113fcaa645f129a1f5022a679c56da4e36624f03ebd1a08d07135c5bba"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/003 - With Your Fear.avs",
-            "size": 4592,
-            "checksum": "sha256:4e87b5538d786077c005a3c8724640e9e1029f3f5fd745e4e1728d5ddc775f51"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/004 - Spirit Realm.avs",
-            "size": 5466,
-            "checksum": "sha256:6d79b02286988fc3c851c6a1f241b21cf4569c8fa2b932869a986e6c18091745"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/005 - Arctic Rainbow.avs",
-            "size": 4167,
-            "checksum": "sha256:4902fde29f365288152df91c6e44cdd6f1931694854fe4ae94c19662dbd49bae"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/006 - Noir du Temps.avs",
-            "size": 6786,
-            "checksum": "sha256:1aca7772fe5b4a76b8e2bf7826d60c6012620e3150f1c018ea2d772917f08cfd"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/007 - Not Mt. Doom.avs",
-            "size": 5124,
-            "checksum": "sha256:ef4f79408d71032a7e4cf5372f0a8caea4cf0730e8cf778fb0bebaeeef64dbd5"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/008 - Not Mt. Doom (Instrumental Version).avs",
-            "size": 3167,
-            "checksum": "sha256:c244e97b7c2416e9b586b1d87d038dbba21d7742a014e39f895a3492a153c8c7"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/009 - Magsun.avs",
-            "size": 5012,
-            "checksum": "sha256:077e6514b9c091224ea5937d8ceec14f603973d3a8bcc1841d99573a958a2f9e"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/010 - Much More.avs",
-            "size": 4033,
-            "checksum": "sha256:295d836171a89606724b3ffa7dbdbd0747783ad77071be97ea28fb658e4fd70b"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/011 - Appliance Metallic Funk.avs",
-            "size": 4315,
-            "checksum": "sha256:d40c5e0eb1bafc92b36669a363fcd83857489d70882459c9a48ead8af35be2ef"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/012 - Carnival.avs",
-            "size": 4739,
-            "checksum": "sha256:146d9bf3b790e45573d8f8e36b324f37c0463f2691d178ead497c9bc365c2c15"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/013 - Disthereal.avs",
-            "size": 4107,
-            "checksum": "sha256:5a9b33a717f91f575d03ca672bdd4f691b1ad88d33cf8e8471e7cfb52adb15ac"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/014 - Taking Control 002.avs",
-            "size": 6268,
-            "checksum": "sha256:af2cae03413e0ab3488c81e084c6c7ed8a2c773f1af1f8d307c1f3dc457fa429"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/015 - Inspired by Degnic.avs",
-            "size": 4789,
-            "checksum": "sha256:827521dd7ae221e33a1419a339ad7c16b673e2b950bdbc89631b7f241bbdabcb"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/016 - Chinook.avs",
-            "size": 2872,
-            "checksum": "sha256:ee8ece107c47728969aaa3b45df3c2c5809e70962233fe5515a82f518791a7dc"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/017 - A Word of Caution.avs",
-            "size": 5749,
-            "checksum": "sha256:e45d7ce971213d0976f75fd59eb92d30b97a81bd1f5c6cc52ec018df88b38355"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/018 - Spacecubed.avs",
-            "size": 10620,
-            "checksum": "sha256:6545576f667458f4206416c7750e20391f6bc3bdf5a05ffd6612912893987acc"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/019 - Hexual Healing.avs",
-            "size": 5178,
-            "checksum": "sha256:74eab2d3c5e22155a373e3c6a0cd9536a4a9f43bea59b7d0d8a9e855561bd319"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/020 - Kiani Industries.avs",
-            "size": 5566,
-            "checksum": "sha256:009ede3305a2285efa8f2822753595476c8f6e7609fc17c3e3e17c78d990843a"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/021 - A Tribute To FSK.avs",
-            "size": 5762,
-            "checksum": "sha256:6e6615ee30cbaf75146a8f222437c753b0a1573df6fe3b9f7fe41a21cbce45c3"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/022 - Semicube.avs",
-            "size": 4445,
-            "checksum": "sha256:2f0da5e22ea383dc3007c632451e94cd34db33fb7ffe998c69468e8964db34fd"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/023 - Caged 002.avs",
-            "size": 6224,
-            "checksum": "sha256:c59d3b7b33b19e33516f93e7885cb8a456cc7a34ef138f99325b9ea63ba3aaf0"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/024 - Caged 002 (Fuat Version) (Tuggummi Remixed).avs",
-            "size": 8364,
-            "checksum": "sha256:0635ea7e79d3f7a52dc2c8bb876da0dbaaa7502ec2cb2f7cc9a2e101e2220dcc"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/025 - In Effect.avs",
-            "size": 5501,
-            "checksum": "sha256:343fe19fd5a4f52547d26abd76c30671fc8f1b46c7059db9b56b94d74fe4fdf1"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/026 - Smoking the Edge.avs",
-            "size": 4232,
-            "checksum": "sha256:da5774b128440a44b2d83e3a0fb7ea8e539e9c52a600a310feb335fee00456d4"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/027 - Trisomie.avs",
-            "size": 4369,
-            "checksum": "sha256:d707c13eb51b4a67cd9669be2d82bc0c4d8f2586a66372a61f8f2a68398c48ea"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/028 - Curvism 002.avs",
-            "size": 4775,
-            "checksum": "sha256:46d543b8cb9f1cb27ea37692b0759d8d34bc8688ed9110d64ba76823698f9411"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/029 - Art Retro.avs",
-            "size": 5536,
-            "checksum": "sha256:ccefa4bfa5c2158b794dd8ac4983bb96f4857e258e7cce3ebcec707e8a26ff49"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/029.5 - Why I Love You (Interlude).avs",
-            "size": 3628,
-            "checksum": "sha256:dd257824f71468a9faf9b546281c0a1776c4f2582d6bde01f0d468bdf7dfc51b"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/030 - Untitled 031.avs",
-            "size": 3406,
-            "checksum": "sha256:ae145eb297eadf56ad34414e8538b7de9870f2038bed3a37cb6a689f41e9516b"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/031 - Someday My Rays Will Cover The Earth.avs",
-            "size": 5946,
-            "checksum": "sha256:b870b6dd2709c388e2ffdbd824b764295901dbb13e4da502e9763981e9fff60c"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/032 - ...hiddmn track....avs",
-            "size": 3788,
-            "checksum": "sha256:c17ca8befe4e6a006150643b6c5a7361b48320c3124f33f64b20a792e8a95ca4"
-        }
-    ],
-    "assets": [
-        {
-            "file": "skupers_lp7_01.bmp",
-            "size": 776,
-            "checksum": "sha256:27bdda462dfec5cea6f702611fdc5df24255ae076c64fd214544b75561771339"
-        },
-        {
-            "file": "skupers_lp7_02.bmp",
-            "size": 10856,
-            "checksum": "sha256:aaeb13486d7082c888a556012a3ea574dc4c651b01510ae9722a1ce184f8fd03"
-        },
-        {
-            "file": "skupers_lp7_03.bmp",
-            "size": 774,
-            "checksum": "sha256:b6a3d29fa0ba3a2507b098fefcd58459639c1338b144833ec9ad834f378afb6d"
-        },
-        {
-            "file": "skupers_lp7_04.bmp",
-            "size": 3678,
-            "checksum": "sha256:385d475bda1d0714ac15ceea8fdd096c48f1552ee2bf99b83d5bec44cb75357f"
-        },
-        {
-            "file": "skupers_lp7_05.bmp",
-            "size": 776,
-            "checksum": "sha256:9ffee96d577cdbce33395669601281395112690c7f61e90d63c4273cae7ebc75"
-        },
-        {
-            "file": "skupers_lp7_06.bmp",
-            "size": 776,
-            "checksum": "sha256:2d0cf33c2ffb726b976ebad0c57d1c7a905bd30a9204c44b739a525b1dcc18b8"
-        }
-    ],
-    "plugins": [
-        "BufferBlend",
-        "ConvolutionFilter"
-    ]
+	"name": "S_KuPeRS - LP7 - Viima",
+	"id": "VB003-2",
+	"presets": [
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/000 - Intro.avs",
+			"size": 10778,
+			"checksum": "sha256:1c4e1f041ae104cc29874501092f0830382902c00e81c5a41207e012bd8f9aef"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/001 - Inverse Kinetics.avs",
+			"size": 5305,
+			"checksum": "sha256:7e24e972dc02a041c072ef8756a840a8aba242e4a18f2ac2942ecc6bb1bde2b1"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/002 - Inverse Kinetics 002.avs",
+			"size": 5132,
+			"checksum": "sha256:61d666113fcaa645f129a1f5022a679c56da4e36624f03ebd1a08d07135c5bba"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/003 - With Your Fear.avs",
+			"size": 4592,
+			"checksum": "sha256:4e87b5538d786077c005a3c8724640e9e1029f3f5fd745e4e1728d5ddc775f51"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/004 - Spirit Realm.avs",
+			"size": 5466,
+			"checksum": "sha256:6d79b02286988fc3c851c6a1f241b21cf4569c8fa2b932869a986e6c18091745"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/005 - Arctic Rainbow.avs",
+			"size": 4167,
+			"checksum": "sha256:4902fde29f365288152df91c6e44cdd6f1931694854fe4ae94c19662dbd49bae"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/006 - Noir du Temps.avs",
+			"size": 6786,
+			"checksum": "sha256:1aca7772fe5b4a76b8e2bf7826d60c6012620e3150f1c018ea2d772917f08cfd"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/007 - Not Mt. Doom.avs",
+			"size": 5124,
+			"checksum": "sha256:ef4f79408d71032a7e4cf5372f0a8caea4cf0730e8cf778fb0bebaeeef64dbd5"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/008 - Not Mt. Doom (Instrumental Version).avs",
+			"size": 3167,
+			"checksum": "sha256:c244e97b7c2416e9b586b1d87d038dbba21d7742a014e39f895a3492a153c8c7"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/009 - Magsun.avs",
+			"size": 5012,
+			"checksum": "sha256:077e6514b9c091224ea5937d8ceec14f603973d3a8bcc1841d99573a958a2f9e"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/010 - Much More.avs",
+			"size": 4033,
+			"checksum": "sha256:295d836171a89606724b3ffa7dbdbd0747783ad77071be97ea28fb658e4fd70b"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/011 - Appliance Metallic Funk.avs",
+			"size": 4315,
+			"checksum": "sha256:d40c5e0eb1bafc92b36669a363fcd83857489d70882459c9a48ead8af35be2ef"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/012 - Carnival.avs",
+			"size": 4739,
+			"checksum": "sha256:146d9bf3b790e45573d8f8e36b324f37c0463f2691d178ead497c9bc365c2c15"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/013 - Disthereal.avs",
+			"size": 4107,
+			"checksum": "sha256:5a9b33a717f91f575d03ca672bdd4f691b1ad88d33cf8e8471e7cfb52adb15ac"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/014 - Taking Control 002.avs",
+			"size": 6268,
+			"checksum": "sha256:af2cae03413e0ab3488c81e084c6c7ed8a2c773f1af1f8d307c1f3dc457fa429"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/015 - Inspired by Degnic.avs",
+			"size": 4789,
+			"checksum": "sha256:827521dd7ae221e33a1419a339ad7c16b673e2b950bdbc89631b7f241bbdabcb"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/016 - Chinook.avs",
+			"size": 2872,
+			"checksum": "sha256:ee8ece107c47728969aaa3b45df3c2c5809e70962233fe5515a82f518791a7dc"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/017 - A Word of Caution.avs",
+			"size": 5749,
+			"checksum": "sha256:e45d7ce971213d0976f75fd59eb92d30b97a81bd1f5c6cc52ec018df88b38355"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/018 - Spacecubed.avs",
+			"size": 10620,
+			"checksum": "sha256:6545576f667458f4206416c7750e20391f6bc3bdf5a05ffd6612912893987acc"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/019 - Hexual Healing.avs",
+			"size": 5178,
+			"checksum": "sha256:74eab2d3c5e22155a373e3c6a0cd9536a4a9f43bea59b7d0d8a9e855561bd319"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/020 - Kiani Industries.avs",
+			"size": 5566,
+			"checksum": "sha256:009ede3305a2285efa8f2822753595476c8f6e7609fc17c3e3e17c78d990843a"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/021 - A Tribute To FSK.avs",
+			"size": 5762,
+			"checksum": "sha256:6e6615ee30cbaf75146a8f222437c753b0a1573df6fe3b9f7fe41a21cbce45c3"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/022 - Semicube.avs",
+			"size": 4445,
+			"checksum": "sha256:2f0da5e22ea383dc3007c632451e94cd34db33fb7ffe998c69468e8964db34fd"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/023 - Caged 002.avs",
+			"size": 6224,
+			"checksum": "sha256:c59d3b7b33b19e33516f93e7885cb8a456cc7a34ef138f99325b9ea63ba3aaf0"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/024 - Caged 002 (Fuat Version) (Tuggummi Remixed).avs",
+			"size": 8364,
+			"checksum": "sha256:0635ea7e79d3f7a52dc2c8bb876da0dbaaa7502ec2cb2f7cc9a2e101e2220dcc"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/025 - In Effect.avs",
+			"size": 5501,
+			"checksum": "sha256:343fe19fd5a4f52547d26abd76c30671fc8f1b46c7059db9b56b94d74fe4fdf1"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/026 - Smoking the Edge.avs",
+			"size": 4232,
+			"checksum": "sha256:da5774b128440a44b2d83e3a0fb7ea8e539e9c52a600a310feb335fee00456d4"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/027 - Trisomie.avs",
+			"size": 4369,
+			"checksum": "sha256:d707c13eb51b4a67cd9669be2d82bc0c4d8f2586a66372a61f8f2a68398c48ea"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/028 - Curvism 002.avs",
+			"size": 4775,
+			"checksum": "sha256:46d543b8cb9f1cb27ea37692b0759d8d34bc8688ed9110d64ba76823698f9411"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/029 - Art Retro.avs",
+			"size": 5536,
+			"checksum": "sha256:ccefa4bfa5c2158b794dd8ac4983bb96f4857e258e7cce3ebcec707e8a26ff49"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/029.5 - Why I Love You (Interlude).avs",
+			"size": 3628,
+			"checksum": "sha256:dd257824f71468a9faf9b546281c0a1776c4f2582d6bde01f0d468bdf7dfc51b"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/030 - Untitled 031.avs",
+			"size": 3406,
+			"checksum": "sha256:ae145eb297eadf56ad34414e8538b7de9870f2038bed3a37cb6a689f41e9516b"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/031 - Someday My Rays Will Cover The Earth.avs",
+			"size": 5946,
+			"checksum": "sha256:b870b6dd2709c388e2ffdbd824b764295901dbb13e4da502e9763981e9fff60c"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP7 - Viima/032 - ...hiddmn track....avs",
+			"size": 3788,
+			"checksum": "sha256:c17ca8befe4e6a006150643b6c5a7361b48320c3124f33f64b20a792e8a95ca4"
+		}
+	],
+	"assets": [
+		{
+			"file": "skupers_lp7_01.bmp",
+			"size": 776,
+			"checksum": "sha256:27bdda462dfec5cea6f702611fdc5df24255ae076c64fd214544b75561771339"
+		},
+		{
+			"file": "skupers_lp7_02.bmp",
+			"size": 10856,
+			"checksum": "sha256:aaeb13486d7082c888a556012a3ea574dc4c651b01510ae9722a1ce184f8fd03"
+		},
+		{
+			"file": "skupers_lp7_03.bmp",
+			"size": 774,
+			"checksum": "sha256:b6a3d29fa0ba3a2507b098fefcd58459639c1338b144833ec9ad834f378afb6d"
+		},
+		{
+			"file": "skupers_lp7_04.bmp",
+			"size": 3678,
+			"checksum": "sha256:385d475bda1d0714ac15ceea8fdd096c48f1552ee2bf99b83d5bec44cb75357f"
+		},
+		{
+			"file": "skupers_lp7_05.bmp",
+			"size": 776,
+			"checksum": "sha256:9ffee96d577cdbce33395669601281395112690c7f61e90d63c4273cae7ebc75"
+		},
+		{
+			"file": "skupers_lp7_06.bmp",
+			"size": 776,
+			"checksum": "sha256:2d0cf33c2ffb726b976ebad0c57d1c7a905bd30a9204c44b739a525b1dcc18b8"
+		}
+	],
+	"plugins": ["BufferBlend", "ConvolutionFilter"]
 }

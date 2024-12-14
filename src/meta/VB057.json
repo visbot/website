@@ -1,124 +1,122 @@
 {
-    "name": "whyEye.org the unreleases",
-    "id": "VB057",
-    "presets": [
-        {
-            "file": "whyEye.org/whyEye.org the unreleases/degnic__ locator (untitled mix by yathosho).avs",
-            "size": 1688,
-            "checksum": "sha256:3cc033ab91f7664a39a045c9f3905d4429c0c286ee829bf0288084434fe4b7cb"
-        },
-        {
-            "file": "whyEye.org/whyEye.org the unreleases/el-vis__liquids (untitled mix by yathosho).avs",
-            "size": 2220,
-            "checksum": "sha256:fb7d156f7d44773f04e6a7264c124e9172987ce4bf5a96ce8c86178193f05869"
-        },
-        {
-            "file": "whyEye.org/whyEye.org the unreleases/indian ropeman__two in one (one in two mix by yathosho).avs",
-            "size": 1865,
-            "checksum": "sha256:7dde111c4c9f26dc67946dcb1b99c2a8025fb8f110a8475ad0cef1dd79ff3a20"
-        },
-        {
-            "file": "whyEye.org/whyEye.org the unreleases/nemo__softer blue (yathosho's butterfly mix).avs",
-            "size": 1797,
-            "checksum": "sha256:729e662d250462ea5d75481f406abd297c3c7a73ac1e5ac1c9d9034933e2814c"
-        },
-        {
-            "file": "whyEye.org/whyEye.org the unreleases/skupers__metallic funk appliance (dematerialized by yathosho).avs",
-            "size": 1737,
-            "checksum": "sha256:df75a6a0c6c5e8abab4a27d865d6eb029eb76fdb513fea8f15518ab847b34c4e"
-        },
-        {
-            "file": "whyEye.org/whyEye.org the unreleases/yathosho__alpinestars.avs",
-            "size": 898,
-            "checksum": "sha256:215577de1429abc99101da157492ec663832dfd7f05e44ee6e5bf9add43e0a92"
-        },
-        {
-            "file": "whyEye.org/whyEye.org the unreleases/yathosho__amen sister (skupers' fire remix).avs",
-            "size": 854,
-            "checksum": "sha256:10570938af4629a37397796af6a0b51857c1f37c440df5944569a59bed6214e8"
-        },
-        {
-            "file": "whyEye.org/whyEye.org the unreleases/yathosho__chainreaction.avs",
-            "size": 1375,
-            "checksum": "sha256:9a6f40a1701ebfef5e2024429c168a44a424c667446af2472256953f80751be0"
-        },
-        {
-            "file": "whyEye.org/whyEye.org the unreleases/yathosho__cinemascoped (nemo remixed).avs",
-            "size": 1941,
-            "checksum": "sha256:f80b906b35ff4c93b9975c4a7f9b7dfba0e746b9e56485e86496a6ea2ec985e4"
-        },
-        {
-            "file": "whyEye.org/whyEye.org the unreleases/yathosho__do the escalator.avs",
-            "size": 1434,
-            "checksum": "sha256:88881b4b4cdf595a33e251f90fa5615a4d013977df3034ffbd6a12f7abf48d2d"
-        },
-        {
-            "file": "whyEye.org/whyEye.org the unreleases/yathosho__infinite.avs",
-            "size": 570,
-            "checksum": "sha256:ec35e0f63a271d0726c1975dbf0a71a71a059f5396435ef7ca5c2e4bc483a50e"
-        },
-        {
-            "file": "whyEye.org/whyEye.org the unreleases/yathosho__just my electric fork (jheriko remixed).avs",
-            "size": 5961,
-            "checksum": "sha256:ca30beebe782652aa0ab524f6d68057d569ba3c2b4f99068ebedc5b40c2f5816"
-        },
-        {
-            "file": "whyEye.org/whyEye.org the unreleases/yathosho__klipping.avs",
-            "size": 534,
-            "checksum": "sha256:eb3ddbd29375c364b1b09f36430535694dc14b388e7e7eb5894b598555513a97"
-        },
-        {
-            "file": "whyEye.org/whyEye.org the unreleases/yathosho__my broken amiga.avs",
-            "size": 1517,
-            "checksum": "sha256:ed2717de7c13250a07ff8a5c3c18166450eb5d79556ca9bdeb9d81e113a49f51"
-        },
-        {
-            "file": "whyEye.org/whyEye.org the unreleases/yathosho__plastica (widescreen).avs",
-            "size": 2030,
-            "checksum": "sha256:5cfee3bc3067bb0b784f7568dadcee294a304290bed6484cec6d9775da6483dc"
-        },
-        {
-            "file": "whyEye.org/whyEye.org the unreleases/yathosho__radium.avs",
-            "size": 649,
-            "checksum": "sha256:359a05115ee042b402d6f8f937f756e45d742a198480e6bd6004f048ac42c3d2"
-        },
-        {
-            "file": "whyEye.org/whyEye.org the unreleases/yathosho__raging hal.avs",
-            "size": 722,
-            "checksum": "sha256:c0f480f2adba502c6539862d29651eadf96e63b2cca1627046ecd8fff2c97f3e"
-        },
-        {
-            "file": "whyEye.org/whyEye.org the unreleases/yathosho__rosali (skupers' benni remix).avs",
-            "size": 1300,
-            "checksum": "sha256:8d31b8db3de5498abcfdc1a6102d2d615eef0f37496744a79e49f713cd52dadb"
-        },
-        {
-            "file": "whyEye.org/whyEye.org the unreleases/yathosho__stadtbild i.avs",
-            "size": 1728,
-            "checksum": "sha256:05816f76c5789166ede1b96f629913a68beb77e90fc78b454ec15bc34ff1f0f4"
-        },
-        {
-            "file": "whyEye.org/whyEye.org the unreleases/yathosho__sunahara.avs",
-            "size": 2353,
-            "checksum": "sha256:417faa1ec05f87924ec9e15814321de6ce46bc20aebde6e96bf76e3d3edd2e4b"
-        },
-        {
-            "file": "whyEye.org/whyEye.org the unreleases/yathosho__useless.avs",
-            "size": 597,
-            "checksum": "sha256:003edbeb38b7eb9087d7b8b68138dac5006acd0ea6859521011c4f263e87275e"
-        },
-        {
-            "file": "whyEye.org/whyEye.org the unreleases/yathosho__w00zy.avs",
-            "size": 1240,
-            "checksum": "sha256:027daa6963da59794dfb05d0af56ee8d3317dce34fdf1294c53c201a6ef43531"
-        },
-        {
-            "file": "whyEye.org/whyEye.org the unreleases/yathosho__wobbler.avs",
-            "size": 682,
-            "checksum": "sha256:bff7a8d7378ee582888f71ebe26b11b2780d8409267600e1c76e28eaea748240"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "whyEye.org the unreleases",
+	"id": "VB057",
+	"presets": [
+		{
+			"file": "whyEye.org/whyEye.org the unreleases/degnic__ locator (untitled mix by yathosho).avs",
+			"size": 1688,
+			"checksum": "sha256:3cc033ab91f7664a39a045c9f3905d4429c0c286ee829bf0288084434fe4b7cb"
+		},
+		{
+			"file": "whyEye.org/whyEye.org the unreleases/el-vis__liquids (untitled mix by yathosho).avs",
+			"size": 2220,
+			"checksum": "sha256:fb7d156f7d44773f04e6a7264c124e9172987ce4bf5a96ce8c86178193f05869"
+		},
+		{
+			"file": "whyEye.org/whyEye.org the unreleases/indian ropeman__two in one (one in two mix by yathosho).avs",
+			"size": 1865,
+			"checksum": "sha256:7dde111c4c9f26dc67946dcb1b99c2a8025fb8f110a8475ad0cef1dd79ff3a20"
+		},
+		{
+			"file": "whyEye.org/whyEye.org the unreleases/nemo__softer blue (yathosho's butterfly mix).avs",
+			"size": 1797,
+			"checksum": "sha256:729e662d250462ea5d75481f406abd297c3c7a73ac1e5ac1c9d9034933e2814c"
+		},
+		{
+			"file": "whyEye.org/whyEye.org the unreleases/skupers__metallic funk appliance (dematerialized by yathosho).avs",
+			"size": 1737,
+			"checksum": "sha256:df75a6a0c6c5e8abab4a27d865d6eb029eb76fdb513fea8f15518ab847b34c4e"
+		},
+		{
+			"file": "whyEye.org/whyEye.org the unreleases/yathosho__alpinestars.avs",
+			"size": 898,
+			"checksum": "sha256:215577de1429abc99101da157492ec663832dfd7f05e44ee6e5bf9add43e0a92"
+		},
+		{
+			"file": "whyEye.org/whyEye.org the unreleases/yathosho__amen sister (skupers' fire remix).avs",
+			"size": 854,
+			"checksum": "sha256:10570938af4629a37397796af6a0b51857c1f37c440df5944569a59bed6214e8"
+		},
+		{
+			"file": "whyEye.org/whyEye.org the unreleases/yathosho__chainreaction.avs",
+			"size": 1375,
+			"checksum": "sha256:9a6f40a1701ebfef5e2024429c168a44a424c667446af2472256953f80751be0"
+		},
+		{
+			"file": "whyEye.org/whyEye.org the unreleases/yathosho__cinemascoped (nemo remixed).avs",
+			"size": 1941,
+			"checksum": "sha256:f80b906b35ff4c93b9975c4a7f9b7dfba0e746b9e56485e86496a6ea2ec985e4"
+		},
+		{
+			"file": "whyEye.org/whyEye.org the unreleases/yathosho__do the escalator.avs",
+			"size": 1434,
+			"checksum": "sha256:88881b4b4cdf595a33e251f90fa5615a4d013977df3034ffbd6a12f7abf48d2d"
+		},
+		{
+			"file": "whyEye.org/whyEye.org the unreleases/yathosho__infinite.avs",
+			"size": 570,
+			"checksum": "sha256:ec35e0f63a271d0726c1975dbf0a71a71a059f5396435ef7ca5c2e4bc483a50e"
+		},
+		{
+			"file": "whyEye.org/whyEye.org the unreleases/yathosho__just my electric fork (jheriko remixed).avs",
+			"size": 5961,
+			"checksum": "sha256:ca30beebe782652aa0ab524f6d68057d569ba3c2b4f99068ebedc5b40c2f5816"
+		},
+		{
+			"file": "whyEye.org/whyEye.org the unreleases/yathosho__klipping.avs",
+			"size": 534,
+			"checksum": "sha256:eb3ddbd29375c364b1b09f36430535694dc14b388e7e7eb5894b598555513a97"
+		},
+		{
+			"file": "whyEye.org/whyEye.org the unreleases/yathosho__my broken amiga.avs",
+			"size": 1517,
+			"checksum": "sha256:ed2717de7c13250a07ff8a5c3c18166450eb5d79556ca9bdeb9d81e113a49f51"
+		},
+		{
+			"file": "whyEye.org/whyEye.org the unreleases/yathosho__plastica (widescreen).avs",
+			"size": 2030,
+			"checksum": "sha256:5cfee3bc3067bb0b784f7568dadcee294a304290bed6484cec6d9775da6483dc"
+		},
+		{
+			"file": "whyEye.org/whyEye.org the unreleases/yathosho__radium.avs",
+			"size": 649,
+			"checksum": "sha256:359a05115ee042b402d6f8f937f756e45d742a198480e6bd6004f048ac42c3d2"
+		},
+		{
+			"file": "whyEye.org/whyEye.org the unreleases/yathosho__raging hal.avs",
+			"size": 722,
+			"checksum": "sha256:c0f480f2adba502c6539862d29651eadf96e63b2cca1627046ecd8fff2c97f3e"
+		},
+		{
+			"file": "whyEye.org/whyEye.org the unreleases/yathosho__rosali (skupers' benni remix).avs",
+			"size": 1300,
+			"checksum": "sha256:8d31b8db3de5498abcfdc1a6102d2d615eef0f37496744a79e49f713cd52dadb"
+		},
+		{
+			"file": "whyEye.org/whyEye.org the unreleases/yathosho__stadtbild i.avs",
+			"size": 1728,
+			"checksum": "sha256:05816f76c5789166ede1b96f629913a68beb77e90fc78b454ec15bc34ff1f0f4"
+		},
+		{
+			"file": "whyEye.org/whyEye.org the unreleases/yathosho__sunahara.avs",
+			"size": 2353,
+			"checksum": "sha256:417faa1ec05f87924ec9e15814321de6ce46bc20aebde6e96bf76e3d3edd2e4b"
+		},
+		{
+			"file": "whyEye.org/whyEye.org the unreleases/yathosho__useless.avs",
+			"size": 597,
+			"checksum": "sha256:003edbeb38b7eb9087d7b8b68138dac5006acd0ea6859521011c4f263e87275e"
+		},
+		{
+			"file": "whyEye.org/whyEye.org the unreleases/yathosho__w00zy.avs",
+			"size": 1240,
+			"checksum": "sha256:027daa6963da59794dfb05d0af56ee8d3317dce34fdf1294c53c201a6ef43531"
+		},
+		{
+			"file": "whyEye.org/whyEye.org the unreleases/yathosho__wobbler.avs",
+			"size": 682,
+			"checksum": "sha256:bff7a8d7378ee582888f71ebe26b11b2780d8409267600e1c76e28eaea748240"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

@@ -1,182 +1,179 @@
 {
-    "name": "Dynamic Movement 1",
-    "id": "VD001",
-    "presets": [
-        {
-            "file": "Dynamic Duo/Dynamic Movement 1/01 nemo orange - underwater scene.avs",
-            "size": 2706,
-            "checksum": "sha256:806e4afc962080e1f609a71e3355e01edadc93c391787ac964f4e66770b0d30a"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 1/02 s_kupers - ex-klusive.avs",
-            "size": 2166,
-            "checksum": "sha256:a856abb2ea1df681c6ef0887f7f7a69be000452a34bb87468c563de9fdcc2639"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 1/03 el-vis - black celebration 003.avs",
-            "size": 31991,
-            "checksum": "sha256:0bfaadb899b89496079689834c461deecdcf1dc8f957e17e2c72b5ade3919e79"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 1/04 yathosho - alpenmilch vip.avs",
-            "size": 881,
-            "checksum": "sha256:878800ead224e6e1b40950193eb009b7e0a3ec376774aa550150b70a16c682e8"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 1/05 jheriko - glossy.avs",
-            "size": 2370,
-            "checksum": "sha256:309e0efb0093f4479da8aa3362004d57acdbc46adfa81a8307e1e93a3b0559b6"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 1/06 nemo orange - angel cover fire (s_kupers remix).avs",
-            "size": 2535,
-            "checksum": "sha256:5e1caa4b5cd5ab743820281bd5adde9f6d4355ab9791bc6a7bcec99d88fcfe2d"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 1/07 dynamic duo - knitting.avs",
-            "size": 1294,
-            "checksum": "sha256:adf82249e9a5ee51321022cfd816ca88cf3a53055203131a7bb70e591cf0f7ee"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 1/08 s_kupers - breathfirer (s_kupers remix).avs",
-            "size": 3573,
-            "checksum": "sha256:b10122e786b1aa828b6cc389f2556eefc3b066b8ff277b5c1b351d5f89a78ba6"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 1/09 nemo orange -  pink ribbon scars (s_kupers remix).avs",
-            "size": 3167,
-            "checksum": "sha256:2c0bb1d070aab470799a1594a4051435314ce6be8a2f4e3e1bda89d655396aa0"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 1/10 pan am - detroit i.avs",
-            "size": 1217,
-            "checksum": "sha256:72cb6cffcc1496954debdbc6424f488d06b99cd9bf4bb5272bebe54bd6a7ffad"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 1/11 nemo orange vs el-vis - dreamtime (multivitamin remix by yathosho).avs",
-            "size": 10206,
-            "checksum": "sha256:485e15ef1e72ef26cbd282953620995ba09a0d38d414745b2b669299913e1f04"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 1/12 duo - alien heart.avs",
-            "size": 1436,
-            "checksum": "sha256:80655ffa1c5e6ba7b3b8e2865249bb8c04cc506a4257da1e4d58609deb361b6e"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 1/13 nixa - snowflake with wintersky.avs",
-            "size": 2971,
-            "checksum": "sha256:2c94fbc97c681274b53e50dd54916f060b31f890f512281741e84ea53e0822cf"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 1/14 s_kupers- coffee like before.avs",
-            "size": 1745,
-            "checksum": "sha256:930cd098ab9c931f2adaba5751d44891a6a0946f5762b20fe1a945e36d69e1ac"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 1/15 dynamic duo - kinderschokolade.avs",
-            "size": 632,
-            "checksum": "sha256:b346b1fbaca4b2aaf2d0c4780fd00baf05ceedb4481386ca945856f47319226f"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 1/16 danjoe -stargazer.avs",
-            "size": 1660,
-            "checksum": "sha256:98a4bb97a24e7956ea3c7ecc8d76ceba29dc04eaa0e2e099f97e8f30e9bdfe2b"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 1/17 duo - brainstorm.avs",
-            "size": 2141,
-            "checksum": "sha256:92c3dc022350ab9b5fd89f792078e30bbac7f4cc959080f29b9a43450c3360f5"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 1/18 nemo orange - the blueprint speaks.avs",
-            "size": 1822,
-            "checksum": "sha256:c7244e22f6a7832867763e78d3a20639a8018da945061ae2f35a903ce75f9b00"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 1/19 jheriko - the klein bottle (fibreglass remix by yathosho).avs",
-            "size": 2051,
-            "checksum": "sha256:3dab3789485f2482e9656264b8ec134b7c21a16b4be7c4a1137cecaf6ca0a593"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 1/20 yathosho - les fleur.avs",
-            "size": 967,
-            "checksum": "sha256:c3ebd24a17495ecdcc82bf72b5200560adf40d143bdbb78244a21ff63f6fb3fc"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 1/21 duo - creative toxin.avs",
-            "size": 1874,
-            "checksum": "sha256:7f2a134e522d92316a64f2b9e44091d1d81bd1fa227e332915a4bb48243efc58"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 1/22 s_kupers - disthereal.avs",
-            "size": 2313,
-            "checksum": "sha256:1cbb36eb30eb167294ebe88f8a32560aa98fa28d9d48923f571b8d352548922d"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 1/23 unconed - retrosquare (s_kupers remix).avs",
-            "size": 3288,
-            "checksum": "sha256:10f9854bd55c84158f92b6d8a613c573c81bdd687cc0792ab2577cdecfc9e65d"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 1/24 dynamic duo - get sick.avs",
-            "size": 888,
-            "checksum": "sha256:fa66373febf738acbe79656856076ce17e9988852c18ca69e91ef82779e0c771"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 1/25 s_kupers - the prophecies of alchemist.avs",
-            "size": 1763,
-            "checksum": "sha256:b64dc6cd06a963c661b7b8c8501fb547b013a83ac2715a80dc68487dcade2cb4"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 1/26 dynamic duo - exotherm drei.avs",
-            "size": 2501,
-            "checksum": "sha256:359d77b1e0da8f727a16637b8900266f97d63a5bfa03011c7c9461498846f249"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 1/27 dynamic duo - kirschblüte zwei.avs",
-            "size": 1227,
-            "checksum": "sha256:79dd483b2a9a50a7151214741894d52f4ced408f6b151788dcad2afdf244410b"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 1/28 duo - life as a cube (s_kupers remix).avs",
-            "size": 8078,
-            "checksum": "sha256:37106f023441e1d5f9ee6a4c1c350c7a9e3dd7107366483962d9ec517e74ba4a"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 1/29 s_kupers - restylized.avs",
-            "size": 3396,
-            "checksum": "sha256:5da94f1f147382a7d8085ebdf69b932d95f035c84cc28bf79f37b8abd56144ad"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 1/30 degnic - retrowall (yathosho's supermicrocosm).avs",
-            "size": 1747,
-            "checksum": "sha256:91fbee54acfa0b9c915b2a3003bdae8dff58803bc8ab559b6568045686564699"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 1/31 yathosho - mind the vip.avs",
-            "size": 831,
-            "checksum": "sha256:0f237d16845d714e61a4e8fc3899db6865040e8eae1f8aa59ff3392d755af0ef"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 1/32 duo - after the pills.avs",
-            "size": 1336,
-            "checksum": "sha256:004a0e2babf9391f7ee8a80f598893d2b1aea44a384bd0d0c7be830efc7f85f2"
-        }
-    ],
-    "assets": [
-        {
-            "file": "deskmod.bmp",
-            "size": 40256,
-            "checksum": "sha256:4e13b56432d55547c9eebb65193e7fdd07984987bccf275424f302d56f68f116"
-        },
-        {
-            "file": "flowers.avi",
-            "size": 27648,
-            "checksum": "sha256:80eb213c71dd90a18b31dc41089d6e8f886ade94aecb442a76b3b3642c43e30b"
-        }
-    ],
-    "plugins": [
-        "BufferBlend",
-        "ConvolutionFilter"
-    ]
+	"name": "Dynamic Movement 1",
+	"id": "VD001",
+	"presets": [
+		{
+			"file": "Dynamic Duo/Dynamic Movement 1/01 nemo orange - underwater scene.avs",
+			"size": 2706,
+			"checksum": "sha256:806e4afc962080e1f609a71e3355e01edadc93c391787ac964f4e66770b0d30a"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 1/02 s_kupers - ex-klusive.avs",
+			"size": 2166,
+			"checksum": "sha256:a856abb2ea1df681c6ef0887f7f7a69be000452a34bb87468c563de9fdcc2639"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 1/03 el-vis - black celebration 003.avs",
+			"size": 31991,
+			"checksum": "sha256:0bfaadb899b89496079689834c461deecdcf1dc8f957e17e2c72b5ade3919e79"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 1/04 yathosho - alpenmilch vip.avs",
+			"size": 881,
+			"checksum": "sha256:878800ead224e6e1b40950193eb009b7e0a3ec376774aa550150b70a16c682e8"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 1/05 jheriko - glossy.avs",
+			"size": 2370,
+			"checksum": "sha256:309e0efb0093f4479da8aa3362004d57acdbc46adfa81a8307e1e93a3b0559b6"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 1/06 nemo orange - angel cover fire (s_kupers remix).avs",
+			"size": 2535,
+			"checksum": "sha256:5e1caa4b5cd5ab743820281bd5adde9f6d4355ab9791bc6a7bcec99d88fcfe2d"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 1/07 dynamic duo - knitting.avs",
+			"size": 1294,
+			"checksum": "sha256:adf82249e9a5ee51321022cfd816ca88cf3a53055203131a7bb70e591cf0f7ee"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 1/08 s_kupers - breathfirer (s_kupers remix).avs",
+			"size": 3573,
+			"checksum": "sha256:b10122e786b1aa828b6cc389f2556eefc3b066b8ff277b5c1b351d5f89a78ba6"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 1/09 nemo orange -  pink ribbon scars (s_kupers remix).avs",
+			"size": 3167,
+			"checksum": "sha256:2c0bb1d070aab470799a1594a4051435314ce6be8a2f4e3e1bda89d655396aa0"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 1/10 pan am - detroit i.avs",
+			"size": 1217,
+			"checksum": "sha256:72cb6cffcc1496954debdbc6424f488d06b99cd9bf4bb5272bebe54bd6a7ffad"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 1/11 nemo orange vs el-vis - dreamtime (multivitamin remix by yathosho).avs",
+			"size": 10206,
+			"checksum": "sha256:485e15ef1e72ef26cbd282953620995ba09a0d38d414745b2b669299913e1f04"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 1/12 duo - alien heart.avs",
+			"size": 1436,
+			"checksum": "sha256:80655ffa1c5e6ba7b3b8e2865249bb8c04cc506a4257da1e4d58609deb361b6e"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 1/13 nixa - snowflake with wintersky.avs",
+			"size": 2971,
+			"checksum": "sha256:2c94fbc97c681274b53e50dd54916f060b31f890f512281741e84ea53e0822cf"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 1/14 s_kupers- coffee like before.avs",
+			"size": 1745,
+			"checksum": "sha256:930cd098ab9c931f2adaba5751d44891a6a0946f5762b20fe1a945e36d69e1ac"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 1/15 dynamic duo - kinderschokolade.avs",
+			"size": 632,
+			"checksum": "sha256:b346b1fbaca4b2aaf2d0c4780fd00baf05ceedb4481386ca945856f47319226f"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 1/16 danjoe -stargazer.avs",
+			"size": 1660,
+			"checksum": "sha256:98a4bb97a24e7956ea3c7ecc8d76ceba29dc04eaa0e2e099f97e8f30e9bdfe2b"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 1/17 duo - brainstorm.avs",
+			"size": 2141,
+			"checksum": "sha256:92c3dc022350ab9b5fd89f792078e30bbac7f4cc959080f29b9a43450c3360f5"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 1/18 nemo orange - the blueprint speaks.avs",
+			"size": 1822,
+			"checksum": "sha256:c7244e22f6a7832867763e78d3a20639a8018da945061ae2f35a903ce75f9b00"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 1/19 jheriko - the klein bottle (fibreglass remix by yathosho).avs",
+			"size": 2051,
+			"checksum": "sha256:3dab3789485f2482e9656264b8ec134b7c21a16b4be7c4a1137cecaf6ca0a593"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 1/20 yathosho - les fleur.avs",
+			"size": 967,
+			"checksum": "sha256:c3ebd24a17495ecdcc82bf72b5200560adf40d143bdbb78244a21ff63f6fb3fc"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 1/21 duo - creative toxin.avs",
+			"size": 1874,
+			"checksum": "sha256:7f2a134e522d92316a64f2b9e44091d1d81bd1fa227e332915a4bb48243efc58"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 1/22 s_kupers - disthereal.avs",
+			"size": 2313,
+			"checksum": "sha256:1cbb36eb30eb167294ebe88f8a32560aa98fa28d9d48923f571b8d352548922d"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 1/23 unconed - retrosquare (s_kupers remix).avs",
+			"size": 3288,
+			"checksum": "sha256:10f9854bd55c84158f92b6d8a613c573c81bdd687cc0792ab2577cdecfc9e65d"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 1/24 dynamic duo - get sick.avs",
+			"size": 888,
+			"checksum": "sha256:fa66373febf738acbe79656856076ce17e9988852c18ca69e91ef82779e0c771"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 1/25 s_kupers - the prophecies of alchemist.avs",
+			"size": 1763,
+			"checksum": "sha256:b64dc6cd06a963c661b7b8c8501fb547b013a83ac2715a80dc68487dcade2cb4"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 1/26 dynamic duo - exotherm drei.avs",
+			"size": 2501,
+			"checksum": "sha256:359d77b1e0da8f727a16637b8900266f97d63a5bfa03011c7c9461498846f249"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 1/27 dynamic duo - kirschblüte zwei.avs",
+			"size": 1227,
+			"checksum": "sha256:79dd483b2a9a50a7151214741894d52f4ced408f6b151788dcad2afdf244410b"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 1/28 duo - life as a cube (s_kupers remix).avs",
+			"size": 8078,
+			"checksum": "sha256:37106f023441e1d5f9ee6a4c1c350c7a9e3dd7107366483962d9ec517e74ba4a"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 1/29 s_kupers - restylized.avs",
+			"size": 3396,
+			"checksum": "sha256:5da94f1f147382a7d8085ebdf69b932d95f035c84cc28bf79f37b8abd56144ad"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 1/30 degnic - retrowall (yathosho's supermicrocosm).avs",
+			"size": 1747,
+			"checksum": "sha256:91fbee54acfa0b9c915b2a3003bdae8dff58803bc8ab559b6568045686564699"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 1/31 yathosho - mind the vip.avs",
+			"size": 831,
+			"checksum": "sha256:0f237d16845d714e61a4e8fc3899db6865040e8eae1f8aa59ff3392d755af0ef"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 1/32 duo - after the pills.avs",
+			"size": 1336,
+			"checksum": "sha256:004a0e2babf9391f7ee8a80f598893d2b1aea44a384bd0d0c7be830efc7f85f2"
+		}
+	],
+	"assets": [
+		{
+			"file": "deskmod.bmp",
+			"size": 40256,
+			"checksum": "sha256:4e13b56432d55547c9eebb65193e7fdd07984987bccf275424f302d56f68f116"
+		},
+		{
+			"file": "flowers.avi",
+			"size": 27648,
+			"checksum": "sha256:80eb213c71dd90a18b31dc41089d6e8f886ade94aecb442a76b3b3642c43e30b"
+		}
+	],
+	"plugins": ["BufferBlend", "ConvolutionFilter"]
 }

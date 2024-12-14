@@ -101,7 +101,20 @@ export const members = [
 	}
 ];
 
-export const standardAvs = ['vis_avs-2.2', 'vis_avs-2.5.1', 'vis_avs-2.5', 'vis_avs-2.6.0', 'vis_avs-2.6.1', 'vis_avs-2.7pre8', 'vis_avs-2.70a', 'vis_avs-2.80', 'vis_avs-2.81b', 'vis_avs-2.81d', 'vis_avs-2.82', 'vis_avs-2.83'];
+export const standardAvs = [
+	'vis_avs-2.2',
+	'vis_avs-2.5.1',
+	'vis_avs-2.5',
+	'vis_avs-2.6.0',
+	'vis_avs-2.6.1',
+	'vis_avs-2.7pre8',
+	'vis_avs-2.70a',
+	'vis_avs-2.80',
+	'vis_avs-2.81b',
+	'vis_avs-2.81d',
+	'vis_avs-2.82',
+	'vis_avs-2.83'
+];
 export const avsMod = ['vis_avsmod-2.81b', 'vis_avsmod-2.81d'];
 export const cockosAvs = ['vis_chavs-2.9', 'vis_chavsmod-2.9.1', 'vis_chavsmod-2.9'];
 export const apes = [

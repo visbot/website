@@ -1,44 +1,39 @@
 {
-    "name": "CO-OP Session 14",
-    "id": "VB193",
-    "presets": [
-        {
-            "file": "CO-OP Sessions/CO-OP Session 14/a1 synth-c - two elements.avs",
-            "size": 8970,
-            "checksum": "sha256:02fc1eea5c87b8b342823905d5a85d3e51dd4926316dcafdc4b579fd188b8940"
-        },
-        {
-            "file": "CO-OP Sessions/CO-OP Session 14/a2 zamuz - booze and love.avs",
-            "size": 10339,
-            "checksum": "sha256:3a3be52fc9f89f84df08ad3979dd508126238ac80dd32027661e26a6092a848f"
-        },
-        {
-            "file": "CO-OP Sessions/CO-OP Session 14/b1 zamuz - heart station.avs",
-            "size": 22146,
-            "checksum": "sha256:e1c560f8e525fac84c28f2c9e481d2de97f0dd1ee003279c937c3c803ee2a20d"
-        },
-        {
-            "file": "CO-OP Sessions/CO-OP Session 14/b2 synth-c - stripe state.avs",
-            "size": 14066,
-            "checksum": "sha256:f5156eff846b0df3a087f638eb30ea20e48b7e3ca7215b075d672fb213410d20"
-        }
-    ],
-    "assets": [
-        {
-            "file": "avsres_texer_circle_sharp_19x19.bmp",
-            "size": 1398,
-            "checksum": "sha256:31b87b361b89e60a8052e1c27af6a158a6e0ba4ba136076f2b98afe9958da848"
-        },
-        {
-            "file": "v5_square.bmp",
-            "size": 1254,
-            "checksum": "sha256:2e3dc3d7cec32c7a2091c638f46cf70b9b01974ebcf0558ba3edc8e67b29b065"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter",
-        "GlobalVarMan",
-        "TransAuto",
-        "Triangle"
-    ]
+	"name": "CO-OP Session 14",
+	"id": "VB193",
+	"presets": [
+		{
+			"file": "CO-OP Sessions/CO-OP Session 14/a1 synth-c - two elements.avs",
+			"size": 8970,
+			"checksum": "sha256:02fc1eea5c87b8b342823905d5a85d3e51dd4926316dcafdc4b579fd188b8940"
+		},
+		{
+			"file": "CO-OP Sessions/CO-OP Session 14/a2 zamuz - booze and love.avs",
+			"size": 10339,
+			"checksum": "sha256:3a3be52fc9f89f84df08ad3979dd508126238ac80dd32027661e26a6092a848f"
+		},
+		{
+			"file": "CO-OP Sessions/CO-OP Session 14/b1 zamuz - heart station.avs",
+			"size": 22146,
+			"checksum": "sha256:e1c560f8e525fac84c28f2c9e481d2de97f0dd1ee003279c937c3c803ee2a20d"
+		},
+		{
+			"file": "CO-OP Sessions/CO-OP Session 14/b2 synth-c - stripe state.avs",
+			"size": 14066,
+			"checksum": "sha256:f5156eff846b0df3a087f638eb30ea20e48b7e3ca7215b075d672fb213410d20"
+		}
+	],
+	"assets": [
+		{
+			"file": "avsres_texer_circle_sharp_19x19.bmp",
+			"size": 1398,
+			"checksum": "sha256:31b87b361b89e60a8052e1c27af6a158a6e0ba4ba136076f2b98afe9958da848"
+		},
+		{
+			"file": "v5_square.bmp",
+			"size": 1254,
+			"checksum": "sha256:2e3dc3d7cec32c7a2091c638f46cf70b9b01974ebcf0558ba3edc8e67b29b065"
+		}
+	],
+	"plugins": ["ConvolutionFilter", "GlobalVarMan", "TransAuto", "Triangle"]
 }

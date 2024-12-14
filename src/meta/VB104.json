@@ -1,66 +1,64 @@
 {
-    "name": "zamuz - facelifts",
-    "id": "VB104",
-    "presets": [
-        {
-            "file": "Zamuz/zamuz - facelifts/01 zamuz - energy.avs",
-            "size": 3752,
-            "checksum": "sha256:58948212a27aa2a4c6a9cd647acaf9d547fc910a852bf08e6e7f263d60d15eaf"
-        },
-        {
-            "file": "Zamuz/zamuz - facelifts/02 zamuz - intwo.avs",
-            "size": 4954,
-            "checksum": "sha256:875a4d1b1350bc3b6ddeb01ba2feff619f2cec975fed92c32cb967c0eba0114a"
-        },
-        {
-            "file": "Zamuz/zamuz - facelifts/03 zamuz - blooming.avs",
-            "size": 3135,
-            "checksum": "sha256:f903c2da6ef31ffaf24b7d858074923cdba5c80bdfe9dd1af48460f0f916e162"
-        },
-        {
-            "file": "Zamuz/zamuz - facelifts/04 zamuz - flower abstraction.avs",
-            "size": 5616,
-            "checksum": "sha256:d71512759e194d0231d742e3a489494d5d25c58bd87b8a2ad89f0432881ece6c"
-        },
-        {
-            "file": "Zamuz/zamuz - facelifts/05 yathosho - crimson (yathosho's stolen hour rework).avs",
-            "size": 2931,
-            "checksum": "sha256:e1cccd2031bbb2fc0af338707bdd07818ffa3f770bed0254713ad016caacd866"
-        },
-        {
-            "file": "Zamuz/zamuz - facelifts/06 yathosho - metallic shades (ya-tho-sho treatment).avs",
-            "size": 3308,
-            "checksum": "sha256:c090ac87fd9914eb3512521ca8331b5df74ba0c82390c19c500d53fe259c3e04"
-        },
-        {
-            "file": "Zamuz/zamuz - facelifts/07 amphirion - flower abstraction (amphirion's facet flower remix).avs",
-            "size": 5528,
-            "checksum": "sha256:4812970cab113be6fe374e787d016126e51ce720833ff0717c00a08cb94b9bdc"
-        },
-        {
-            "file": "Zamuz/zamuz - facelifts/08 les noobiens - tiled waterdrops (les Noobiens rework).avs",
-            "size": 4138,
-            "checksum": "sha256:726a9dd2546abf16467b22ba2e03fb5cab26383caef9cd0550568ac381f73019"
-        },
-        {
-            "file": "Zamuz/zamuz - facelifts/09 hboy - energy (dark energy remix).avs",
-            "size": 4748,
-            "checksum": "sha256:f5072208c842549d84d2b276980d25d90c816fa69c01dcafdb9f4c62c5c45f7e"
-        },
-        {
-            "file": "Zamuz/zamuz - facelifts/10 hboy - flower abstraction (inabstracted remix).avs",
-            "size": 5630,
-            "checksum": "sha256:8beb859243249276e3f5685c85e7d9c3cca6a838207504ee66c4eeb3e577e05e"
-        }
-    ],
-    "assets": [
-        {
-            "file": "v5_circle2.bmp",
-            "size": 4854,
-            "checksum": "sha256:65a9b00fed4552aaac62952a11fdebfcc3f2d98fa1fd61cbf2ce7f0a501f80af"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "zamuz - facelifts",
+	"id": "VB104",
+	"presets": [
+		{
+			"file": "Zamuz/zamuz - facelifts/01 zamuz - energy.avs",
+			"size": 3752,
+			"checksum": "sha256:58948212a27aa2a4c6a9cd647acaf9d547fc910a852bf08e6e7f263d60d15eaf"
+		},
+		{
+			"file": "Zamuz/zamuz - facelifts/02 zamuz - intwo.avs",
+			"size": 4954,
+			"checksum": "sha256:875a4d1b1350bc3b6ddeb01ba2feff619f2cec975fed92c32cb967c0eba0114a"
+		},
+		{
+			"file": "Zamuz/zamuz - facelifts/03 zamuz - blooming.avs",
+			"size": 3135,
+			"checksum": "sha256:f903c2da6ef31ffaf24b7d858074923cdba5c80bdfe9dd1af48460f0f916e162"
+		},
+		{
+			"file": "Zamuz/zamuz - facelifts/04 zamuz - flower abstraction.avs",
+			"size": 5616,
+			"checksum": "sha256:d71512759e194d0231d742e3a489494d5d25c58bd87b8a2ad89f0432881ece6c"
+		},
+		{
+			"file": "Zamuz/zamuz - facelifts/05 yathosho - crimson (yathosho's stolen hour rework).avs",
+			"size": 2931,
+			"checksum": "sha256:e1cccd2031bbb2fc0af338707bdd07818ffa3f770bed0254713ad016caacd866"
+		},
+		{
+			"file": "Zamuz/zamuz - facelifts/06 yathosho - metallic shades (ya-tho-sho treatment).avs",
+			"size": 3308,
+			"checksum": "sha256:c090ac87fd9914eb3512521ca8331b5df74ba0c82390c19c500d53fe259c3e04"
+		},
+		{
+			"file": "Zamuz/zamuz - facelifts/07 amphirion - flower abstraction (amphirion's facet flower remix).avs",
+			"size": 5528,
+			"checksum": "sha256:4812970cab113be6fe374e787d016126e51ce720833ff0717c00a08cb94b9bdc"
+		},
+		{
+			"file": "Zamuz/zamuz - facelifts/08 les noobiens - tiled waterdrops (les Noobiens rework).avs",
+			"size": 4138,
+			"checksum": "sha256:726a9dd2546abf16467b22ba2e03fb5cab26383caef9cd0550568ac381f73019"
+		},
+		{
+			"file": "Zamuz/zamuz - facelifts/09 hboy - energy (dark energy remix).avs",
+			"size": 4748,
+			"checksum": "sha256:f5072208c842549d84d2b276980d25d90c816fa69c01dcafdb9f4c62c5c45f7e"
+		},
+		{
+			"file": "Zamuz/zamuz - facelifts/10 hboy - flower abstraction (inabstracted remix).avs",
+			"size": 5630,
+			"checksum": "sha256:8beb859243249276e3f5685c85e7d9c3cca6a838207504ee66c4eeb3e577e05e"
+		}
+	],
+	"assets": [
+		{
+			"file": "v5_circle2.bmp",
+			"size": 4854,
+			"checksum": "sha256:65a9b00fed4552aaac62952a11fdebfcc3f2d98fa1fd61cbf2ce7f0a501f80af"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

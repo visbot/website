@@ -1,39 +1,34 @@
 {
-    "name": "Manic (Why Edits)",
-    "id": "VB207-2",
-    "presets": [
-        {
-            "file": "Drew/Manic (Why Edits)/Cavum (Why edit).avs",
-            "size": 4160,
-            "checksum": "sha256:19e09dc451fbe2a2fdef3af7e2f0559e033dd6d2dc9ac1fbba867f9e219f1e73"
-        },
-        {
-            "file": "Drew/Manic (Why Edits)/Destorbiun (Why edit).avs",
-            "size": 3676,
-            "checksum": "sha256:561e222ca1c73d12d637a6fc95d5120cae4a9ac70672f35499d80afe31469753"
-        },
-        {
-            "file": "Drew/Manic (Why Edits)/Deyotor (Why edit).avs",
-            "size": 4424,
-            "checksum": "sha256:741fe38995c1aff2d3747c9a365b5431116f2913a2497c1effb943dcab9f5536"
-        },
-        {
-            "file": "Drew/Manic (Why Edits)/Invidia (Why edit).avs",
-            "size": 6138,
-            "checksum": "sha256:960f8ad020387e36a7cfe064b918566b4d3a034930e994486257dd828c2159f4"
-        }
-    ],
-    "assets": [
-        {
-            "file": "avsres_texer_circle_heavyblur_29x29.bmp",
-            "size": 2606,
-            "checksum": "sha256:f774cf10d56275d629f321163dbc610fee02b0e892c9065b0931564240bf078d"
-        }
-    ],
-    "plugins": [
-        "ColorMap",
-        "ConvolutionFilter",
-        "Texer2",
-        "VideoDelay"
-    ]
+	"name": "Manic (Why Edits)",
+	"id": "VB207-2",
+	"presets": [
+		{
+			"file": "Drew/Manic (Why Edits)/Cavum (Why edit).avs",
+			"size": 4160,
+			"checksum": "sha256:19e09dc451fbe2a2fdef3af7e2f0559e033dd6d2dc9ac1fbba867f9e219f1e73"
+		},
+		{
+			"file": "Drew/Manic (Why Edits)/Destorbiun (Why edit).avs",
+			"size": 3676,
+			"checksum": "sha256:561e222ca1c73d12d637a6fc95d5120cae4a9ac70672f35499d80afe31469753"
+		},
+		{
+			"file": "Drew/Manic (Why Edits)/Deyotor (Why edit).avs",
+			"size": 4424,
+			"checksum": "sha256:741fe38995c1aff2d3747c9a365b5431116f2913a2497c1effb943dcab9f5536"
+		},
+		{
+			"file": "Drew/Manic (Why Edits)/Invidia (Why edit).avs",
+			"size": 6138,
+			"checksum": "sha256:960f8ad020387e36a7cfe064b918566b4d3a034930e994486257dd828c2159f4"
+		}
+	],
+	"assets": [
+		{
+			"file": "avsres_texer_circle_heavyblur_29x29.bmp",
+			"size": 2606,
+			"checksum": "sha256:f774cf10d56275d629f321163dbc610fee02b0e892c9065b0931564240bf078d"
+		}
+	],
+	"plugins": ["ColorMap", "ConvolutionFilter", "Texer2", "VideoDelay"]
 }

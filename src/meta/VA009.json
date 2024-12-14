@@ -1,1406 +1,1399 @@
 {
-    "name": "S_KuPeRS LP1-LP6",
-    "id": "VA009",
-    "presets": [
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP1 - Broken Mirror/S_KuPeRS - Broken Mirror.avs",
-            "size": 655,
-            "checksum": "sha256:2dad8622a79e91654694da472e2ffc75f6293f4a5d00aa2ca34d05e4777c2c55"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP1 - Broken Mirror/S_KuPeRS - Dynamic Iris.avs",
-            "size": 879,
-            "checksum": "sha256:c0f21a8a38e4a8683b15627fee6288639fbaa0c00b2441dee7c8f4777b892f5f"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP1 - Broken Mirror/S_KuPeRS - Isildurs Eye (Disco Da Cubism Remix).avs",
-            "size": 1346,
-            "checksum": "sha256:55e448b0650b2c69fa9e2d50271c4ef833e6e739d7b4d7a4d6c9ae91cbc78bf2"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP1 - Broken Mirror/S_KuPeRS - Isildurs Eye.avs",
-            "size": 1435,
-            "checksum": "sha256:2f34bf147963792a3135b224706b4457fefa3671221a59f2ef296ba027ea4b1e"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP1 - Broken Mirror/S_KuPeRS - Metropolis.avs",
-            "size": 919,
-            "checksum": "sha256:268c36118dc50e5232cc75805b6b850ced9c4694b19f1fd59ecd7d8b84065ce8"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP1 - Broken Mirror/S_KuPeRS - Micky Mouse.avs",
-            "size": 2052,
-            "checksum": "sha256:ef19ae50600356f8d83d7a69e86014a1d46aee6bac363e5731a1fccb9836a3db"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP1 - Broken Mirror/S_KuPeRS - Quantum Synthesysis.avs",
-            "size": 653,
-            "checksum": "sha256:bd74053ce59f92bfe5912c4edf7ee58c2f179396891d6c9c8cb568ee77beccb6"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP1 - Broken Mirror/S_KuPeRS - Scanner.avs",
-            "size": 1029,
-            "checksum": "sha256:7f817d1f4c9e9bf0883c999c602827f3e4db31550ce72c0ebbc49c3d9f08568e"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP1 - Broken Mirror/S_KuPeRS - Spectrum (Another Time Remix).avs",
-            "size": 974,
-            "checksum": "sha256:f21243e061c930be3cda6cbbecf56448249e0e49717d5a84dce80af3e0bbd08f"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP1 - Broken Mirror/S_KuPeRS - Spectrum.avs",
-            "size": 913,
-            "checksum": "sha256:c7ce64a39a348123b5689aaa904507a70d6378d0f67f57c2fbf30278009c953d"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP1 - Broken Mirror/S_KuPeRS - Stereo Second.avs",
-            "size": 440,
-            "checksum": "sha256:e5401762ae390837ae0ebb4e744dddf8395a8c2a376603ad8e8daf83f9942e35"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP1 - Broken Mirror/S_KuPeRS - UR101.avs",
-            "size": 796,
-            "checksum": "sha256:8660881e165e5b8c88a1814cb52908ea61a1e7750ed4c44ba8a1fac469e7811c"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP1 - Broken Mirror/S_KuPeRS - XXX (The End Remix).avs",
-            "size": 2783,
-            "checksum": "sha256:43a87bca0ab1c6cc7647d3cc703f0325c35f67343971896ffda7c042dbf304de"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP1 - Broken Mirror/S_KuPeRS - XXX.avs",
-            "size": 2395,
-            "checksum": "sha256:f2dd509c945924f6086f1ecdbfbc1794f56a94bd333ead0cbd0626543c3822ca"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP1R - Broken Mirror (The B-Sides)/S_KuPeRS - Dynamic Iris (Alien Remix).avs",
-            "size": 1125,
-            "checksum": "sha256:7c9a51e00a78a509b50e781fa9d32a54050844c4932177f19b99baf2152ce11f"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP1R - Broken Mirror (The B-Sides)/S_KuPeRS - Dynamic Iris (Expressway To Heaven Remix).avs",
-            "size": 1336,
-            "checksum": "sha256:4920107e909c7662754f6e3b2eea7e79f1b5ab6dfec9bdef4679f496a95792c0"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP1R - Broken Mirror (The B-Sides)/S_KuPeRS - Dynamic Iris (Expressway To Hell Remix).avs",
-            "size": 1126,
-            "checksum": "sha256:4fdc1a3c9b641aa6f2a6128c999da99a0c5b403d765c794b5cc4f5423e9b71cf"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP1R - Broken Mirror (The B-Sides)/S_KuPeRS - Dynamic Iris (In The Secret Cloud Remix).avs",
-            "size": 1372,
-            "checksum": "sha256:3177ba18edf9f8ecb0187f182b915de2416732cfbaee24c7c228c3ca757f05a9"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP1R - Broken Mirror (The B-Sides)/S_KuPeRS - Micky Mouse (Evil Remix).avs",
-            "size": 2544,
-            "checksum": "sha256:a33968777cda35e43e0da4278a1842e25a62d91139d05a47b26dd4cd70216368"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP1R - Broken Mirror (The B-Sides)/S_KuPeRS - Rings Of Fire (Set Fire To Flames Remix).avs",
-            "size": 481,
-            "checksum": "sha256:397ee96fc4def1552f08a3ead32a02c8261fe2fc8621ee5ffdd39a5b65b35894"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP1R - Broken Mirror (The B-Sides)/S_KuPeRS - Rings Of Fire.avs",
-            "size": 726,
-            "checksum": "sha256:25db820404b64dbd7d097a77c22ffc239a0aab2f50a204e3c0caf20a4653e5ed"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP1R - Broken Mirror (The B-Sides)/S_KuPeRS - Scanner (C12 Remix).avs",
-            "size": 907,
-            "checksum": "sha256:afadaf57eca9c7c551212275fe2a503c95d3172157a32fd0318cb2e4d47d18b4"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP1R - Broken Mirror (The B-Sides)/S_KuPeRS - Sun Flower (Infinity Remix).avs",
-            "size": 1103,
-            "checksum": "sha256:8311a59daa1064c11dfcad7681c9f7682eb95dc0fde5ae2598aa0383659ed76d"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP1R - Broken Mirror (The B-Sides)/S_KuPeRS - Sun Flower (Sun Remix).avs",
-            "size": 850,
-            "checksum": "sha256:1621f72c48373840ae6978ba82aa1e334290a6381ef20cb548d6f41839225db1"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP1R - Broken Mirror (The B-Sides)/S_KuPeRS - Sun Flower (Wormhole Remix).avs",
-            "size": 670,
-            "checksum": "sha256:744420d72aa4471614c719f902dcb18c6053ecce6c64a758afcf1e5d1cffc80f"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP1R - Broken Mirror (The B-Sides)/S_KuPeRS - Sun Flower.avs",
-            "size": 918,
-            "checksum": "sha256:6fd458a9353bf767b871b672b5cd6978f40f1fc13061c4db9e8687b9bb757e45"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP1R - Broken Mirror (The B-Sides)/S_KuPeRS - UR101 (Energetic Remix).avs",
-            "size": 663,
-            "checksum": "sha256:6d31b67bf31d50bb93b375dd5fc090ace094429327a9ab552e7d2cd9f3f2b725"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP2 - Static/S_KuPeRS - A Tribute To Warp (Amber).avs",
-            "size": 706,
-            "checksum": "sha256:a055a0c56bf13160c718816a852d9845bbbc55d5a8e00ca0a1b8dd82ec31d200"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP2 - Static/S_KuPeRS - A Tribute To Warp (Green Calx).avs",
-            "size": 787,
-            "checksum": "sha256:8ed1e8dd4a567e0df233797f1fa907e67b458fe8b581dec0e397101afebca9a4"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP2 - Static/S_KuPeRS - Citaten (Inside Remix).avs",
-            "size": 2255,
-            "checksum": "sha256:aadfc62f2c22897357bf2d90834d2247e7b0f24c9d321472dd727b1d794c0d5d"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP2 - Static/S_KuPeRS - Color Intensity.avs",
-            "size": 782,
-            "checksum": "sha256:c3941fa0364640172f25dd8a0b6352b0dc7da4a8e3f0005ee7c7ba5e10a93f06"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP2 - Static/S_KuPeRS - Cosmic Static (Acid 11B Remix).avs",
-            "size": 1094,
-            "checksum": "sha256:8557cb365e7bee620b6f732e4e68a118e314b5832168ee3f6397c61b3cb39f4e"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP2 - Static/S_KuPeRS - Cosmic Static (Gamma-Ray Remix).avs",
-            "size": 788,
-            "checksum": "sha256:2d58049d96294464ed9e05341042f131d31854f6b357217a0f9f123baf2c8727"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP2 - Static/S_KuPeRS - Egon (Year 1).avs",
-            "size": 507,
-            "checksum": "sha256:259c8166e94c6b5d01853dc53adfd3cdecf164aa407ef348407e9229f88b0b64"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP2 - Static/S_KuPeRS - Egon (Year 2).avs",
-            "size": 551,
-            "checksum": "sha256:12a9d2dbe239a33c65186b0057b340863b7cbccd3c6d800755fb7b68fef57ca6"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP2 - Static/S_KuPeRS - Egon (Year 3).avs",
-            "size": 1051,
-            "checksum": "sha256:180680d21f7054740421d7de487ca993b1c3b41c7c217519b4b5409a6967cd02"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP2 - Static/S_KuPeRS - Head In Y-Axis.avs",
-            "size": 891,
-            "checksum": "sha256:c551e96531e9a1ce26b16623930a68fb10fdcbec9906799fff38861627a0e542"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP2 - Static/S_KuPeRS - Intro.avs",
-            "size": 1739,
-            "checksum": "sha256:31c2df44abcaac1a185d81ce31128bb5db00a104a54ce842d098d07f3f82a29e"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP2 - Static/S_KuPeRS - MDMA v1 (Acid 10B Remix).avs",
-            "size": 1526,
-            "checksum": "sha256:add0bedb710ab3f752b5c0fee3ee7ef76182a86fd908bebb2248a157fc394af0"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP2 - Static/S_KuPeRS - MDMA v1.avs",
-            "size": 1327,
-            "checksum": "sha256:396c07e6c18e8f5a88250f047539a9d8ea40adb111bc9c88d7617a3eabdd89e0"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP2 - Static/S_KuPeRS - Second Von (Spectrum Remix).avs",
-            "size": 1650,
-            "checksum": "sha256:659b4b99d0b4d212c397a5ad02470c88124a981fee1c665e3de89b76e1c503cf"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP2 - Static/S_KuPeRS - Seizoen (Lente).avs",
-            "size": 374,
-            "checksum": "sha256:32969ab533158ccbd4329a39edb689004d8226785ea389e757520546b740dc9f"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP2 - Static/S_KuPeRS - Serial Static.avs",
-            "size": 1077,
-            "checksum": "sha256:79b31bff14a14de3ec9ae6880f4a1d2e5d51addf26ddde86441277374eb0bfa2"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP2 - Static/S_KuPeRS - Tempo (Black and White).avs",
-            "size": 810,
-            "checksum": "sha256:96e02f1f3c6d4bc0966b44326306b4800b068b37e6acf76c8dfe1c004af02702"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP2 - Static/S_KuPeRS - Tempo (Colorful Disco Da Cubism Remix).avs",
-            "size": 1471,
-            "checksum": "sha256:8416089759b822294e36458a7b8d4ce5c7d96c1601af380c2692493a6c8b944f"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP2 - Static/S_KuPeRS - Volcano.avs",
-            "size": 783,
-            "checksum": "sha256:670fba498184ca12817726179d7a5ede465e50a119896bc561d89e1916c6b2ec"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP2 - Static/S_KuPeRS - Vorgbiv.avs",
-            "size": 1169,
-            "checksum": "sha256:73f0640ad1cb7c0012ed88a5ab43a9b5f0ee5a329e3610da2d3114f347376375"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - A Tribute To Warp (IZ-US).avs",
-            "size": 682,
-            "checksum": "sha256:31b4d3111987b815b78748fe5a5000909fdd98967c6a8150ec7895b956b16c0e"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - Citaten.avs",
-            "size": 1174,
-            "checksum": "sha256:4ecda8bb15832d4cd2bb3296f9900a0b5131720757fe9f36edd3f3eb413a71d7"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - Cosmic Static (Distortion nr2 Remix).avs",
-            "size": 645,
-            "checksum": "sha256:9a2cbc316e1eaf9d982fdc5fc950f09dd3b9b65fdc6fd19fdef282b2253f7733"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - Cosmic Static (Distortion Remix).avs",
-            "size": 616,
-            "checksum": "sha256:75d22b6401b7ddc8f327e8502c07db5304ce28198317043c12c8620eae8d0253"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - Cosmic Static.avs",
-            "size": 509,
-            "checksum": "sha256:4fe4bb55b2960b93909db8887fcfb9ce77c0ccc3200fa2a5d02c7ed328f396e0"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - Experiment IV (Static Zero Two Remix).avs",
-            "size": 897,
-            "checksum": "sha256:6b83232f4f83391bedea44c207cee68d78a05510b930b4b9febbceff14915212"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - Experiment IV.avs",
-            "size": 787,
-            "checksum": "sha256:63b2739a7e6c1b91923c7ed339a281dbc34b0a3a23e3b62b2aa4edc43cc6085b"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - Experiment V (Osc Variation).avs",
-            "size": 369,
-            "checksum": "sha256:15fb48c9ef392ebf2117db82e3c8516b97ffd94ada4424dd313dd7b0a2cfdc9f"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - Experiment V.avs",
-            "size": 335,
-            "checksum": "sha256:7b01a12a07c608314eceeead95153829a147de127dc1b01e7b45a69586c20c2c"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - Fire Static (Timescope Remix).avs",
-            "size": 459,
-            "checksum": "sha256:beeb508d1f61a1f9a742bdb72fabcc8ae0ff7076f3bf5d174592df59a32f9bd5"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - Fire Static.avs",
-            "size": 435,
-            "checksum": "sha256:3cc736e8c348b976261e8a804cc6916cb397407d8eb22d42f0153ffa2d02d4ad"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - Iesope.avs",
-            "size": 820,
-            "checksum": "sha256:d7127318e15f2612d339074358bff78eaeacfed0cec021a394b14d4ac9d2db1f"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - MDMA v1 (3 AM Remix).avs",
-            "size": 1366,
-            "checksum": "sha256:f011a47650709b4e3717a26a950d25741319257758bb0d9af42c5c39d8cd07ba"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - MDMA v2.avs",
-            "size": 1413,
-            "checksum": "sha256:1023c1503f91ee50c9f77b7b913d351621d5bc8e4d9cd8b5c90cb0f50198b3f8"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - nr 60403-9192.avs",
-            "size": 762,
-            "checksum": "sha256:de8dfe71e26358c27673c6243340747a46c615b46c16dd3ac66083667e2336a2"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - Rainbow Static (Cosmic Headlights Remix).avs",
-            "size": 983,
-            "checksum": "sha256:0514e439d58e6e5060b3a4e3e918e302428439eee3be92693116231ab52280cc"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - Rainbow Static (Vose In Remix).avs",
-            "size": 1195,
-            "checksum": "sha256:e96117c539929c9079fa56a5d792ae5e0768bb5162ce1a42acf9da9afafc000f"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - Rainbow Static.avs",
-            "size": 1111,
-            "checksum": "sha256:da03ab6d5d1f9562c1aedc49036d6ca59375281a25053d0c0afb9f0abaf3596a"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - Second Von (Hexagon Remix).avs",
-            "size": 1174,
-            "checksum": "sha256:d42c196167faa00e6a2ee84fb869e9db1a13e48bb406078371665dfd6b0b164d"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - Second Von (Inverted Spectrum Remix).avs",
-            "size": 1564,
-            "checksum": "sha256:0ed85203b3cd3f924afb2559d1f8342ef95b043470f5c34b2f7d2a3a189e8c5a"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - Second Von.avs",
-            "size": 1002,
-            "checksum": "sha256:23a47262a318febcb0f86a7280c96a163f5763f3099a8f98cfdfea9a231729f6"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - Seizoen (Herfst).avs",
-            "size": 669,
-            "checksum": "sha256:1b617ecaa32f6ae7a712fdd5f131b2bfefa700e8164adba9a39e1aa7bde692af"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - Serial Static (AX L Remix).avs",
-            "size": 1123,
-            "checksum": "sha256:68f5becceada225eeb13d4d0e8f9d53a0100750665bcd4463cc05c5ad7296904"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - Slide Window (Acid 12B Remix).avs",
-            "size": 1207,
-            "checksum": "sha256:d09c53c622d5013797620f9a1ccbc3f4d80bf8342aa4b1833907e076f3b1955b"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - Slide Window.avs",
-            "size": 1087,
-            "checksum": "sha256:00ddbfb7808d736a549d9619ec8e6ea8d89e07725aa0b2996ea266fc82701fbc"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - Tempo (Colorful).avs",
-            "size": 711,
-            "checksum": "sha256:1aefba985c4676986f1d9681ce4097c642842e8de68300b7d7a8e31e8cbfb68f"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - Vorgbiv (3400 Gigahertz Remix).avs",
-            "size": 1107,
-            "checksum": "sha256:61c3cb48bc224e6aee59ef6e59aa72b48d6e96f972f3c5a2c4fdef472610af3a"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3 - Storm (Unreleased Presets)/S_KuPeRS - 1969.avs",
-            "size": 1969,
-            "checksum": "sha256:eca954d62b03dbf2a6addedef20a36f72220b5c7600dd590d7cd1424ddaa0825"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3 - Storm (Unreleased Presets)/S_KuPeRS - Conquer the Solid.avs",
-            "size": 5647,
-            "checksum": "sha256:176c0c1ed6fb3cec9341939628c6e87a783792c10e7c84bce78735a84546d030"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3 - Storm (Unreleased Presets)/S_KuPeRS - Counterpart (Argo2mx Remix).avs",
-            "size": 4161,
-            "checksum": "sha256:34b10248268ae4d8422278ada65f1745dc5695efd06207f67005cd20d3c1136f"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3 - Storm (Unreleased Presets)/S_KuPeRS - Counterpart.avs",
-            "size": 4151,
-            "checksum": "sha256:78fbe183bde2e2a2ad8fc213a1f21e5d9e3f93bf7d295ffe6dd7d54f518b93e7"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3 - Storm (Unreleased Presets)/S_KuPeRS - Fractal Space.avs",
-            "size": 2551,
-            "checksum": "sha256:92cf7fb15970f8923fd644cfb59fbfc0b400c8c803fb825554f59803f9109caa"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3 - Storm (Unreleased Presets)/S_KuPeRS - Glorynights (EL-VIS Remixed).avs",
-            "size": 676,
-            "checksum": "sha256:68139baf47c7b22f0f3ddb2b03ea10223719061ecf386e199cdf0e4af4ad5ee0"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3 - Storm (Unreleased Presets)/S_KuPeRS - Inside A Fractal (Bubble Remix).avs",
-            "size": 316,
-            "checksum": "sha256:d58d204c3afc7db8cc322a3cc7facfe4c8e988728113b8a72b8ff6176638249a"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3 - Storm (Unreleased Presets)/S_KuPeRS - Inside A Fractal (E1 Remix).avs",
-            "size": 526,
-            "checksum": "sha256:4f3bae9a90ee9ef24435436b0c04c136fb16004989112e38e4fa221d8faef3ca"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3 - Storm (Unreleased Presets)/S_KuPeRS - Inside A Fractal (E2 Remix).avs",
-            "size": 843,
-            "checksum": "sha256:d59d359274cbdd4110777c5efa7d13576c77513a1e105d2cec5eaea917a5c176"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3 - Storm (Unreleased Presets)/S_KuPeRS - Inside A Fractal.avs",
-            "size": 307,
-            "checksum": "sha256:b930e1bbe5596841319a5404b4ed01334f90133396331e113354a4099ed4e749"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3 - Storm (Unreleased Presets)/S_KuPeRS - K9.avs",
-            "size": 4795,
-            "checksum": "sha256:67238483eac589b28cb3524e465a94a285c45609c6969c0ddf17185cd45f2470"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3 - Storm (Unreleased Presets)/S_KuPeRS - Leteral (Clipped Remix).avs",
-            "size": 2196,
-            "checksum": "sha256:5109d1df1ecf89269fdd4362a929f6c1603143de442ae8bf5a0570441683a732"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3 - Storm (Unreleased Presets)/S_KuPeRS - Macroscope Window (Fluidic Space Remix).avs",
-            "size": 1197,
-            "checksum": "sha256:85690c08d0334e1c0b6ee1001f17d0f8cf1e97dfb8d761b8ab7d84886638db68"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3 - Storm (Unreleased Presets)/S_KuPeRS - Olsen.avs",
-            "size": 809,
-            "checksum": "sha256:5752b1f1b4149e6dc055794c815e7994883ce84a25f5eb2ba6a4a45dbedbb2eb"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3 - Storm (Unreleased Presets)/S_KuPeRS - Pancreas Leaf (Second Dawn Remix).avs",
-            "size": 786,
-            "checksum": "sha256:6957c23a143eecbc7786c5cbf1ca80d082d9fd89a82bf33c6580e16824596c49"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3 - Storm (Unreleased Presets)/S_KuPeRS - Pancreas Leaf.avs",
-            "size": 799,
-            "checksum": "sha256:ba52e9ad43280529492fe614e2bad1cf136fabe1a254f735c0e6373cdeb710d3"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3 - Storm (Unreleased Presets)/S_KuPeRS - Prepare to Dance (End).avs",
-            "size": 4998,
-            "checksum": "sha256:b857858135779ff241e0908ae90b0f1319afd338b8a6dcde18f96eed73cc173d"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3 - Storm (Unreleased Presets)/S_KuPeRS - Prepare to Dance (Middle Remix).avs",
-            "size": 5563,
-            "checksum": "sha256:633f6d4662089a683ffdf67b555098e7a61f99e738f3c1eae68578320f5ab411"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3 - Storm (Unreleased Presets)/S_KuPeRS - Prepare to Dance.avs",
-            "size": 5640,
-            "checksum": "sha256:0d1912ade096f49476a3a407661c1b51f8021fd4648b316e6d0b70fa7f44b3e2"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3 - Storm (Unreleased Presets)/S_KuPeRS - Recursion.avs",
-            "size": 854,
-            "checksum": "sha256:38347f5e9ab05478ad7492aaaa7e5a156f39c73f3f042bad87ca5e729fb4b8a5"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3 - Storm (Unreleased Presets)/S_KuPeRS - Waterdrop (Midnight Remix).avs",
-            "size": 634,
-            "checksum": "sha256:0b6a2c6093684f345b51927372ccbbdacf91e311dd6364d72bc8eeb3eb3ff86a"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3 - Storm (Unreleased Presets)/S_KuPeRS - Waterdrop.avs",
-            "size": 470,
-            "checksum": "sha256:49caef670d82e37e14e81b3bdcf584a478c9df1ee3019efe396e23fc69c42536"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3 - Storm/S_KuPeRS - bubbleLands (NemoOrange Remixed).avs",
-            "size": 4084,
-            "checksum": "sha256:c01a3750cd5da51951960178f2681cb89ab2c8a1528012dd05a23ddbe1d908b2"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3 - Storm/S_KuPeRS - Counterpart (Argo2mx Remix).avs",
-            "size": 4161,
-            "checksum": "sha256:34b10248268ae4d8422278ada65f1745dc5695efd06207f67005cd20d3c1136f"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3 - Storm/S_KuPeRS - Counterpart.avs",
-            "size": 4151,
-            "checksum": "sha256:78fbe183bde2e2a2ad8fc213a1f21e5d9e3f93bf7d295ffe6dd7d54f518b93e7"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3 - Storm/S_KuPeRS - FX.avs",
-            "size": 1322,
-            "checksum": "sha256:669a8227013a80b777efcba8cc654fdcc06b9ec0fd5fda7e863e8103b8c33565"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3 - Storm/S_KuPeRS - Generation (Cncrte4mx Remix).avs",
-            "size": 1559,
-            "checksum": "sha256:936dec147965a9d584a312dad50480b6f7edf3638117e535e2f0aa5360a13a6f"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3 - Storm/S_KuPeRS - Generation.avs",
-            "size": 1839,
-            "checksum": "sha256:9027b515b48709651c8ebdc8e8af83322fb309eb10efdc5da555a2581a4ff416"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3 - Storm/S_KuPeRS - Intro.avs",
-            "size": 3266,
-            "checksum": "sha256:f143a3fa02ca7b3d0e91fe16be94577a64275a773e72afbb6449b3929f792bee"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3 - Storm/S_KuPeRS - Leteral.avs",
-            "size": 2587,
-            "checksum": "sha256:2747665126175992a64cfa09e11afda6ab5b8f9be4e4d88f7656cdf06dd1ab9b"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3 - Storm/S_KuPeRS - Liquid Paint.avs",
-            "size": 1849,
-            "checksum": "sha256:36570c55873fd323c538144aa64f6ab77610304e77acdeb47102d0fb16c5b3a5"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3 - Storm/S_KuPeRS - Macroscope Window.avs",
-            "size": 2099,
-            "checksum": "sha256:d1222c050d91eefd26fcbc49d8684d33c75944dcc98dfb9aee83c06a8a61c561"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3 - Storm/S_KuPeRS - Prepare to Dance (Solid Remix).avs",
-            "size": 9447,
-            "checksum": "sha256:f4506dbffef378a6d70b401c4d3e4edd787e1e6546b892d768a3135a5fe527cc"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3 - Storm/S_KuPeRS - Semi-Strange Attractor.avs",
-            "size": 7159,
-            "checksum": "sha256:3041552178df19701f3a5f33348ba6838f170f37bbf93e82073ac1a06a027a18"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3 - Storm/S_KuPeRS - Synaptic Highway.avs",
-            "size": 1889,
-            "checksum": "sha256:5484be588cf48c97ff33cd1a2f83ed136f945d13156ed0c8494a5c1d7ce1d119"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3R - Storm (Remixes)/Alt3 - Interpolum(ALT3BaklitChampagneRMX).avs",
-            "size": 3058,
-            "checksum": "sha256:8fa0c3158bf16358e7a334b9e8db44b6ccccdd8b4820fdad1096b1db12855f49"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3R - Storm (Remixes)/Alt3 - Macroscope Window(Alt3CharredEmbersRMX).avs",
-            "size": 1991,
-            "checksum": "sha256:0b064dfdce5901bc64af675fabe15f0206791d0a5828823994ff3534906cd8d8"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3R - Storm (Remixes)/Alt3 - Semi-Strange Attractor(Alt3organicRMX).avs",
-            "size": 7249,
-            "checksum": "sha256:9d842c87d735e9c05e93ca7ef449311e9b7cd1208b77c54d16ef9070d939e413"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3R - Storm (Remixes)/Alt3 - Train (ALT3RMX).avs",
-            "size": 1550,
-            "checksum": "sha256:c07348443b236fcc846ae69b0a2d16277b21d1c11bbbb56f5b39fe94a316c8b9"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3R - Storm (Remixes)/Alt3 - Triangular (Alt3RMX).avs",
-            "size": 1763,
-            "checksum": "sha256:a1829893adac9621ee1bdcd3de06c03dd35ea5e7be725085858369e293b0404b"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3R - Storm (Remixes)/Q3a - Counterpart (x4 Remix).avs",
-            "size": 3575,
-            "checksum": "sha256:89f5152fb403b76c6c91b2bda89f85a78199ec4ad92aae06bb72ed3a6d409767"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3R - Storm (Remixes)/Q3a - FX (Kazon Remix).avs",
-            "size": 797,
-            "checksum": "sha256:5b55b604c929fd6763ae5ca104219e20737c947714a3263aab0625b7e36e7cf9"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3R - Storm (Remixes)/Q3a - Leteral (Clipped Remix).avs",
-            "size": 2253,
-            "checksum": "sha256:27d93d855e6376a6bbf77fb26c85482367f96ed70ee527d2a506af9af79e8cbd"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3R - Storm (Remixes)/S_KuPeRS - Cylindrical (Squared Remix).avs",
-            "size": 3288,
-            "checksum": "sha256:af51b7e02fa9596bbf20b4f535a646a86ce8d4514e5b1b08ce446d8c60451b2c"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3R - Storm (Remixes)/S_KuPeRS - FX (Monologue Remix).avs",
-            "size": 1298,
-            "checksum": "sha256:2d33cb64f65d0c95868ffe803ff4aac38af6e13a1ab0486b28d2c1d92afc5dfd"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3R - Storm (Remixes)/S_KuPeRS - Generation (3deon Remix).avs",
-            "size": 2196,
-            "checksum": "sha256:1cc32b07b655464ecc6b43038d68ec0607baa5a3128af20d0132c979366fd204"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3R - Storm (Remixes)/S_KuPeRS - Macroscope Window (Fluidic Space Remix).avs",
-            "size": 1197,
-            "checksum": "sha256:4b029c161203de4e4bdd134fe771c6538e547d4b6169b5babe28bb01fa5f1980"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3R - Storm (Remixes)/S_KuPeRS - Prepare to Dance (Dark Solid Remix).avs",
-            "size": 9408,
-            "checksum": "sha256:cc4b1cf948995dd5c459c008fb739b34a23e0bf7bb567bc7bed3871ae88313d4"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3R - Storm (Remixes)/S_KuPeRS - Prepare to Dance (Early Version).avs",
-            "size": 5563,
-            "checksum": "sha256:633f6d4662089a683ffdf67b555098e7a61f99e738f3c1eae68578320f5ab411"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3R - Storm (Remixes)/S_KuPeRS - Prepare to Dance (White Solid Remix).avs",
-            "size": 9396,
-            "checksum": "sha256:c1688c48b1fdcb70214b41a31bebe8a62cd51ef5faa1d22cf6c6720d4991118c"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3R - Storm (Remixes)/S_KuPeRS - Synaptic Highway (Diseased Remix).avs",
-            "size": 1998,
-            "checksum": "sha256:9ffeff7e67a3b5c61f745a8a8b40c8e506af2f9a6324b20870e94089d0bb1e94"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3R - Storm (Remixes)/S_KuPeRS - Synaptic Highway (Party Remix).avs",
-            "size": 1029,
-            "checksum": "sha256:6eabc08ad022a0b8da16b47f2c37f7fc55da7385427158274cefe54aaceaa269"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3R - Storm (Remixes)/Yathosho - Generation (Yathosho im Mädchenland Remix).avs",
-            "size": 794,
-            "checksum": "sha256:f31b2b0cc1bada92f58aab41c6482c8bc305d0cbd3a68e6641a643eb4229b466"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP3R - Storm (Remixes)/Yathosho - Generation (Yathosho's Girl in Havanna Remix).avs",
-            "size": 767,
-            "checksum": "sha256:f563b431f7470d60d1ba6784150c6707aa56cc501fcdd618ce622c2e40dfee1f"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP4 - Digital (Unreleased Presets)/S_KuPeRS - 1969 (Dacenio Remix).avs",
-            "size": 3619,
-            "checksum": "sha256:ecefd03e01311983699fea900333c87607b80b31df315bacb063255c05ef3128"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP4 - Digital (Unreleased Presets)/S_KuPeRS - A Tribute To Warp (3d Spiro Fun Remix).avs",
-            "size": 2129,
-            "checksum": "sha256:eee35f7652a7762e54f9a0df7144a8ea38cc69dbab3173ba3c8bc91fd7a592a3"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP4 - Digital (Unreleased Presets)/S_KuPeRS - Centerfold (Leak Remix).avs",
-            "size": 1049,
-            "checksum": "sha256:27a0e558335d2ef2240d40c6f59e26e3c54bdd203b97a59300663378e45aca3e"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP4 - Digital (Unreleased Presets)/S_KuPeRS - Cubular (St Patrick Remix).avs",
-            "size": 3035,
-            "checksum": "sha256:b3393fc5ceaefd098015c2144c65c2460a4d8c3e8b6086a94337c068b35d36ee"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP4 - Digital (Unreleased Presets)/S_KuPeRS - Formation.avs",
-            "size": 2231,
-            "checksum": "sha256:3ad76a605b091afc04bed29defc2db901e787303d4609fb4c032d8bf6366e2f2"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP4 - Digital (Unreleased Presets)/S_KuPeRS - Geogaddi (UnconeD Remixed) (Degauss Remix).avs",
-            "size": 1395,
-            "checksum": "sha256:8a8255fa43ce5d68a225f271f024960623166806f3e3787034cf9e263d40a7e3"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP4 - Digital (Unreleased Presets)/S_KuPeRS - Geogaddi (UnconeD Remixed).avs",
-            "size": 1674,
-            "checksum": "sha256:89523d9075a2eb667464d8945471ef01c58c7454c3d7ddb1129d5333f8647244"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP4 - Digital (Unreleased Presets)/S_KuPeRS - Mexican.avs",
-            "size": 2570,
-            "checksum": "sha256:218c6225cfe856b784190e1b77a4a3ea0539521e6c9ed5fc53ef8a28c617a2be"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP4 - Digital (Unreleased Presets)/S_KuPeRS - Train (Squared Remix).avs",
-            "size": 3312,
-            "checksum": "sha256:16eae8a9fd611a58846afb7308a976cfdd3c8d6ae9bd4e3aec599027e44cec83"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 01 - Intro.avs",
-            "size": 17612,
-            "checksum": "sha256:bac46330d524e5c44b915fbbd400d82d7da20db9081602c418463cd8793704ba"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 02 - Fractal Tunnel.avs",
-            "size": 3250,
-            "checksum": "sha256:e297aaa40209f544b4f968ca73f9233af426611bd294507838aac7f2e1ef6595"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 03 - Dancefloor In Heaven.avs",
-            "size": 6119,
-            "checksum": "sha256:9941a440869b3818537d3cb5d0f3ccd4d353476fffd12d16b96a02f7834fa401"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 04 - Orb nr2.avs",
-            "size": 5634,
-            "checksum": "sha256:7864730f57021e2dd828fc6b9950760b1150e9b6032f95a2639edc39a0ac7fca"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 05 - Edgywingsetacid.avs",
-            "size": 4818,
-            "checksum": "sha256:240d8bbea19ea626a034dd47fcb3e76f1e6273ab5a727b664abf518e7e522db1"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 06 - SiOX.avs",
-            "size": 3106,
-            "checksum": "sha256:7ac5fcf4ef1e8edd36e103dd9745dafd31e82bd84a5ca0760a1de0f966fc641f"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 07 - XTT.avs",
-            "size": 1522,
-            "checksum": "sha256:c5fd7598a7a29ea0d0830561ab3a69e5e8d1f7df148924e0d1aeacb493729a25"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 08 - Cylindrical.avs",
-            "size": 2945,
-            "checksum": "sha256:7f3e738336935334ba951783c54191d2f99743cc352cbd8f502a393c1d401a6a"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 09 - Cylindrical (Squared Remix).avs",
-            "size": 3129,
-            "checksum": "sha256:05d3c35aa430e8283ef8004e0158b8d664f8af6b0bbdec63113023b08f28a088"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 10 - 128-bit.avs",
-            "size": 2174,
-            "checksum": "sha256:60186cd32acdc645b4e7827ceb3130f36cc4c9587b155ae6233e4ff1f225f594"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 11 - Triangular.avs",
-            "size": 1823,
-            "checksum": "sha256:7a50bf55fca46bb9ef17d992dd82e362cfc86991e3349fd08f703e6da2a3dbe6"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 12 - Triangular (Gor4mx Remix).avs",
-            "size": 2357,
-            "checksum": "sha256:642d22b64a308c36abaf92833e8d7e8efeda474f3dcbdbf46a7ae49f5b723e2e"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 13 - Train.avs",
-            "size": 3935,
-            "checksum": "sha256:069ec0af8ba76e6e901f916c7e47326ba55144058efd3bde12df4c64a9e570ae"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 14 - Amoebic Force.avs",
-            "size": 2325,
-            "checksum": "sha256:316da6febbdd2d1b946f47d592479f35fa27b8b9988e820188e5ef00d4a1ec9a"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 15 - The Olympics.avs",
-            "size": 2303,
-            "checksum": "sha256:4bf27e1d0ce5bd8870e10063f289488154750a52d5016828f981a7c3bfd947bb"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 16 - Caged.avs",
-            "size": 7140,
-            "checksum": "sha256:81239b4f9a0da1052db27c32d62db7b424a1baa8eaaccbd90b33bb8610dffedd"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 17 - Caged (Teensex Remix).avs",
-            "size": 6311,
-            "checksum": "sha256:0ce8d41438cc3d1143538e61621319fc63d33a1ed34efd89cea7c8329a0cea64"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 18 - Netlon.avs",
-            "size": 2335,
-            "checksum": "sha256:864951f662d5f3673ee07d2573e3f346d8677241ad8de509aee53051264c071b"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 19 - Centerfold.avs",
-            "size": 2440,
-            "checksum": "sha256:8a72cbf6d9b31fc8efc54a448664a3449744dc0bb4d1790d6704aa6b01424471"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 20 - Royal Astronomy.avs",
-            "size": 1529,
-            "checksum": "sha256:6c2689c0432d973e25ac57103be72c9f36129f36f32808eaf291c20702ec979c"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 21 - Cubular.avs",
-            "size": 3177,
-            "checksum": "sha256:e3fcd25a00efdf6c559aa5cd2d939cd4cb5c5d3e2e104a023d6d8f59fb3d8b88"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 22 - Cubular (Two Revelations Remix).avs",
-            "size": 3039,
-            "checksum": "sha256:f83f4b0f42cedda6d9d32027829e97fc845cfcc9126320a286972eb3a8f82cdd"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 23 - Interpolum.avs",
-            "size": 3247,
-            "checksum": "sha256:cdd811c190e1aef0db6b4d2ec9c926c75592fe9843dcefe1958359f8119c4a62"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 24 - Fireform.avs",
-            "size": 8008,
-            "checksum": "sha256:6e169161e017942f44ed97515a0a947e65d6c3f1cc76816b8dd9dc5bccdfe36b"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 25 - 1969.avs",
-            "size": 3445,
-            "checksum": "sha256:f6cd1c68b7b3f477ab49fe180dcc3204df7be255617f806f48afb13c81b5db54"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 26 - Afterburner (EL-VIS Remixed).avs",
-            "size": 5956,
-            "checksum": "sha256:e6f94563327f7d63b31368742e3c69bf81cbdfe214988e55275b0e945c9762fd"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 27 - Purple is the neue Black.avs",
-            "size": 3311,
-            "checksum": "sha256:3311f0a14cb73868eea8d2c4187418baab29fc8f02ab3667b2cfb1cda9c30148"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 28 - Purple is the neue black (Corsair Remix).avs",
-            "size": 3858,
-            "checksum": "sha256:d75e16052762f8fc496753c233fde22f9b10574e1fa3b6d48678d0cdbd0f137b"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 29 - Birdcage.avs",
-            "size": 4359,
-            "checksum": "sha256:20dc62e0d86331c4c77078a7b653daf168e4dbb4a09e7fc8909364e2a1733827"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 30 - Gez 7.avs",
-            "size": 3674,
-            "checksum": "sha256:66ebb5bf7ee4d5fc153ef229a830b8957798717826fed85cb5c7e691a68b443c"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 00 - Intro (Updated Version).avs",
-            "size": 5544,
-            "checksum": "sha256:a2dd459263164559addedf346eeb65a5f77e0d491a64ae71e4db2c095c0c09b9"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 01 - Channelling.avs",
-            "size": 4544,
-            "checksum": "sha256:a73de68747658bfcfd39894cb11f191c62081519f45eca91696ef47d70fe5df9"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 02 - Cubist Spectrum.avs",
-            "size": 43401,
-            "checksum": "sha256:69f5a584c2c47a6fe761f19799d2b3bd1ad6a1fa75802882a1ba0a8836e86716"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 03 - Wavelength.avs",
-            "size": 3638,
-            "checksum": "sha256:4d1bf5f756e081ee48c50bb1cb32a7cd3b369ffeccd61f934bb73d7a4960fd51"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 04 - Speaker System.avs",
-            "size": 7311,
-            "checksum": "sha256:b2a29416055a6831ac4757af55b37fb6f38cc8b779b4850a6d8fcc031ab905f8"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 05 - Go With The Flow.avs",
-            "size": 3583,
-            "checksum": "sha256:b072986ea2c8455abbb86a9b1a4e8a7a9948b5c9ef6dd699470479382bab4536"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 06 - A Tribute to Alt-iii.avs",
-            "size": 3710,
-            "checksum": "sha256:a3d89b7faad756e4a64439e38d16e14d99e03250a00fb42d407a8671cf548e61"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 07 - A Tribute To AVS-King.avs",
-            "size": 4673,
-            "checksum": "sha256:42e3cee2c90a462d05032bbfc674c9d71ec9ad35a8aa340d6f07a75dc67db979"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 08 - A Tribute to Duo.avs",
-            "size": 3837,
-            "checksum": "sha256:ce1d24f285115980adce2934af2e3de1403a1f224ad468d2150190fbc4847013"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 09 - A Tribute to Duo 002.avs",
-            "size": 3897,
-            "checksum": "sha256:1f351197bca8a4b90393b120cb1b1ccb666a719ac42d47eb8ebda51509444c51"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 10 - A Tribute To Tuggummi.avs",
-            "size": 4138,
-            "checksum": "sha256:731f661ac0d8150a4f7193c5b56b85dcb2d26b6c9bfecbd85129922d1de91c25"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 11 - To the third.avs",
-            "size": 9271,
-            "checksum": "sha256:3ec028e9b42aeaee942f4875212133fee95e17c8976bdf938232352e746cd30e"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 12 - The Milkyworm.avs",
-            "size": 4132,
-            "checksum": "sha256:d66086708e55efe8541735da5b250a5804c622c75f92d6d775d6bd049349fdd7"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 13 - The Milkyworm (DanJoe Remix).avs",
-            "size": 2736,
-            "checksum": "sha256:4a6e2b48822f58b7b05f1f316a023e8b3c8af7d2e75c2e53974b59193c68e9e9"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 14 - Follow The Light.avs",
-            "size": 14396,
-            "checksum": "sha256:d8e401b48d95a3926f4b873ed359c79e8f14ca1c91968087b817c3887c5be88f"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 15 - Under The Rainbow (NemoOrange Remixed).avs",
-            "size": 3793,
-            "checksum": "sha256:f5994bf6251e2053aa90e17d39279c1eec733a9dec5167954f0de62b3e6d28c4"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 16 - X-Ray Highway.avs",
-            "size": 3176,
-            "checksum": "sha256:50ce6e39bbf6420c2f660c7448bcb41c417a2dd07fbcc4edf8b26881eab19108"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 17 - CCCP 002 (Yathosho Remixed).avs",
-            "size": 2499,
-            "checksum": "sha256:29f40468244b34eb739d2e77eb110f78bcaddd9ca7b03e7b46b1fafc53b62101"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 18 - Interforce.avs",
-            "size": 3127,
-            "checksum": "sha256:a14d7aad35bfb89622536b631c94b0b8686207c06a22eed3bfe20d33776aa767"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 19 - Iterated (AVS-King Remixed).avs",
-            "size": 5503,
-            "checksum": "sha256:3de3e8d3c2fdc3306c2a384e705470348cf1358ddee111a68415258927e9ab30"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 20 - Iterated (AVS-King Remixed) (Lux Remix).avs",
-            "size": 5133,
-            "checksum": "sha256:2c202b24babb097b00287ba18873605502f529038b6b8930e8868b5202c489ae"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 21 - Jellyfish.avs",
-            "size": 5888,
-            "checksum": "sha256:ddb46c6538859721e72401b41b0ced4cda1bdeb7f1cb705aad6f4c895499c496"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 22 - Embossed Earth (Tuggummmi Remixed).avs",
-            "size": 3903,
-            "checksum": "sha256:4d5285da87d31f89a86d23323867e29c8c8b752b46649b120e73632be0f8898a"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 23 - Mono.avs",
-            "size": 3709,
-            "checksum": "sha256:4efa1d52ece320f8b98fb052e2fb3dff0567f1c56f7c55e4dad36992ff7eb4e9"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 24 - Racing.avs",
-            "size": 3891,
-            "checksum": "sha256:3450ca3c35327c3fc410b2353bc1542437537bbf04c4a6da7aa384362eb9bcd8"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 25 - Bacteria (Tuggummi Remixed).avs",
-            "size": 5750,
-            "checksum": "sha256:773251500a775fae9c5787b1fe602e94814e18693513b5f8e782f51fb21f6517"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 26 - Bacteria 002 (Tuggummi Remixed).avs",
-            "size": 5604,
-            "checksum": "sha256:d1981fa97b802f4a3021de1c4dda4705dc9f537e8275aa10c0e9eb6b56868833"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 27 - Fader Session.avs",
-            "size": 4324,
-            "checksum": "sha256:aea53b7d89c25a8da8694bc961899378ebd95772d927f36a15de37741e2fdc40"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 28 - Fader Session 002.avs",
-            "size": 5982,
-            "checksum": "sha256:5933101d87064e6f2fc17b135420e36edf77637b6fef59211f88fada70ba9b36"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 29 - Lens.avs",
-            "size": 4189,
-            "checksum": "sha256:32e7e40374ace80dfa2c57f84b33b211d90d3348a74246632c49538da6380e55"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 30 - Datastream (DanJoe Remix).avs",
-            "size": 4193,
-            "checksum": "sha256:ef3ea6ad33e1e50afd651f93098124d7aee017c2cb6a18b8a941439648502152"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 31 - Loch Ness.avs",
-            "size": 7280,
-            "checksum": "sha256:c1bdcd353e434bcc1738957c7d1802a613127f25c7d841aa12e12c63ac4f3209"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 35 - Deconstruction (Evilrice Remixed).avs",
-            "size": 5125,
-            "checksum": "sha256:85882922129e67c0a1925209ad2a5b86b15e88a26d07da9803e220344c064d0b"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 36 - Real Driving.avs",
-            "size": 16872,
-            "checksum": "sha256:e388d36791d594f19d31d86781151e7cf9dfe174b0da44486416366c64b9a1d9"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 37 - Neon Driving.avs",
-            "size": 16298,
-            "checksum": "sha256:69bbfe72d4a17aa2e8fb9be651a6602f60a9436eb7c05a8d7e125eaf713c8372"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 38 - Dye In The Water (Duo Remixed).avs",
-            "size": 4818,
-            "checksum": "sha256:b3fe81142a90184f6776f296b218e07d4ef94e46a445cf2cd53b8aa575f3eb59"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 38 - Dye In The Water (Duo Remixed)x.avs",
-            "size": 5458,
-            "checksum": "sha256:08ad04fe29c87ea2c7c16b381ee3dd0219faf8f8916027b7ae10681a57369fc9"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 39 - Fishies (High Voltage Remix).avs",
-            "size": 4948,
-            "checksum": "sha256:f07ab15c1621d01ad6a682a6f7a9bbe86ebf54e22b55905a97c4e759fca2ee28"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 40 - Slipstream.avs",
-            "size": 3655,
-            "checksum": "sha256:e470e58ad2484bed4d9586090f949938faa0da64974d4614d147c76488a4da1b"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 41 - Smooth.avs",
-            "size": 3685,
-            "checksum": "sha256:45f3355f7eae08ca045101503dc8649d8425d2c3204fe57404dd4b6ef996e8f7"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 42 - Rejunct.avs",
-            "size": 8489,
-            "checksum": "sha256:24115b3010b048c398ce602a86e3050e7fee1f21ca278ba7420044b32d705e95"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 43 - Music Hazard.avs",
-            "size": 3868,
-            "checksum": "sha256:b1467123c7e3d7d1b12dc93a96c65e4ea3b28b207046cc26f9bc0dce1a449b08"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - Bonus - Solar System Journey.avs",
-            "size": 16303,
-            "checksum": "sha256:7ca8630f172836469d2592368f91d8996cb3ef40944316ee4c3e20c2b3bbc8d2"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5R - Recycled Logic/Danjoe - Cubist Spectrum (Rmx - Danjoe).avs",
-            "size": 43532,
-            "checksum": "sha256:dce5c0f5c57f9d77bf18256f76779a78e9447a911a07dbaebd754ea08aafc66a"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5R - Recycled Logic/Danjoe - Interforce (Rmx - Danjoe).avs",
-            "size": 3175,
-            "checksum": "sha256:77c8630a07fd294861405714980d70a6e04e06a15b0972672374d16c84c6f5ce"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5R - Recycled Logic/Danjoe - Interforce (Rmx2 - Danjoe).avs",
-            "size": 3158,
-            "checksum": "sha256:6bbfb9125725b66cc3901d77db0381e9a3309ebbf3825e63f3ba71f31b0bb63b"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5R - Recycled Logic/Danjoe - Mono(Rmx - Danjoe).avs",
-            "size": 3725,
-            "checksum": "sha256:a70c96568fae4c8a9819018a27117a00cc1fae2f4d6ae6601c40bab1017657ba"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5R - Recycled Logic/Danjoe - Racing(Rmx -Danjoe).avs",
-            "size": 3879,
-            "checksum": "sha256:44881b8a7522f2c3c4b994a5493456ab5b327897beb80e25cdca4dc16ec3ed2a"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5R - Recycled Logic/Danny - Lens (DAz Review).avs",
-            "size": 4600,
-            "checksum": "sha256:241c095eee319294192ed8aaf403b2a55ade7fd04900709e29d95525f2dacbc5"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5R - Recycled Logic/Danny - Slipstream (DAz Review).avs",
-            "size": 4287,
-            "checksum": "sha256:8e42c7bfa22d8363c8aa89832e85633871a40ded9f075cff1dea6e97829072c3"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5R - Recycled Logic/Danny - UFO Attack (DAz Review).avs",
-            "size": 12176,
-            "checksum": "sha256:1e54a6690ecee08f636ffdc51861cf076c365bc51ec9711a8d11d95b127d9447"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5R - Recycled Logic/Degnic - Lens (New age rmx).avs",
-            "size": 4914,
-            "checksum": "sha256:7fb6a4e4383b6519e89ee985f0102978ed6379b568358fe5cd1cfa6d420b0c31"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5R - Recycled Logic/Degnic - The Milkyworm (a real bughole rmx v2).avs",
-            "size": 3727,
-            "checksum": "sha256:9da6873fa3262f1f3bfb2de5f1053389522d516d03975ab4ab50c9a6f383504d"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5R - Recycled Logic/Degnic - The Milkyworm (a real bughole rmx).avs",
-            "size": 3276,
-            "checksum": "sha256:b67fd97894ba961b728ceab63ec50286da29a1e5b84c17a720099264a717fbf5"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5R - Recycled Logic/Evilrice - Rejunct (evilrice hidden lines remix).avs",
-            "size": 7092,
-            "checksum": "sha256:e5e6b62d343e6d9895f43bcb19325077815a74a226cce8de27a0e59edfae4a24"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5R - Recycled Logic/Evilrice - Smooth (evilrice rock candy remix).avs",
-            "size": 5438,
-            "checksum": "sha256:ade649958e4611be10abdbd910fe1d59134a2b0241fb690cc6bd3d484c7bbd6c"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5R - Recycled Logic/Horse-Fly - Lens (Horse-Fly Mix).avs",
-            "size": 1298,
-            "checksum": "sha256:750e8cee871a4ad065984efcba346a52efdc7755533448c562c16db89b689201"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5R - Recycled Logic/Horse-Fly - Smooth (Horse-Fly Mix).avs",
-            "size": 4042,
-            "checksum": "sha256:f3b4f095e6bf022819baf551865464aa5a35525413750c099ea8a138e624c532"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5R - Recycled Logic/Horse-Fly - To the third (Horse-Fly Mix).avs",
-            "size": 9310,
-            "checksum": "sha256:693a782cf0444053356576c4a7d0e025e438be5d67b34e5739439dfebee00630"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5R - Recycled Logic/jDm - Follow The Light (jDm NolightRMX.avs",
-            "size": 14659,
-            "checksum": "sha256:f3b79cf25b5c01ebb3f06fd6a36db7a983a21ce7b0b86d8a27dfe007cfa4d087"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5R - Recycled Logic/jDm - Interforce (jDm STC-RMX).avs",
-            "size": 3361,
-            "checksum": "sha256:d9eeb4f5ec7333c1e616b79c9c95fe4ed7bfdaad547d482413d1ecf5a8d8d9d8"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5R - Recycled Logic/jDm - To the third (jDm HyperRMX).avs",
-            "size": 9617,
-            "checksum": "sha256:487ade356e1d34fde2b68806e3586e6a2363a623fe0ac78c3d1e8c5d4f5128a5"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5R - Recycled Logic/Montana - gowiththeflow(montana_remix).avs",
-            "size": 4096,
-            "checksum": "sha256:9ef43b35fb13d2629e74b03292e58992fe8aa0e9d10118209df2b2883c367e5a"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5R - Recycled Logic/Montana - mono(montana_remix).avs",
-            "size": 3796,
-            "checksum": "sha256:a19f4e50beb06fd88f7ac7f69c12949e8ffe45aea00bd291ad470dbbf5e2d804"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5R - Recycled Logic/S_KuPeRS - Smooth (Dreamtime Remix).avs",
-            "size": 2819,
-            "checksum": "sha256:c073e343bad16baba3505a506d24f2fcae5de14f7a058f9da84e69a4658057bd"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5R - Recycled Logic/S_KuPeRS - Unreleased - Rainbow City.avs",
-            "size": 6839,
-            "checksum": "sha256:89631611bd4a07db37c377bbefe0aebbc17874130d3b33bc13baa3e75d3d53a4"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5R - Recycled Logic/S_KuPeRS - Unreleased - Rise of the Phoenix.avs",
-            "size": 3253,
-            "checksum": "sha256:0e827e9afc5447bfdba1fda3858f8124feb0fb464239629e713935e87be5c3b7"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP5R - Recycled Logic/Yathosho - Mono Returnz.avs",
-            "size": 1379,
-            "checksum": "sha256:1907e31c6868bf619bfcbc4d614dcaa4ed1fc22fc243d878c339e94dc270ee4e"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP6/00 - Intro.avs",
-            "size": 6783,
-            "checksum": "sha256:9b4c222fdc27da22c8d27b5e2e4fb5faf5be9784c066cd83de7d88d8e71fe2a3"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP6/01 - Curvism.avs",
-            "size": 3418,
-            "checksum": "sha256:89495dd353e7ca4d49699aa0338ef5365cb70badca709a373824de3471ecb61b"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP6/02 - Rainbow Curvism.avs",
-            "size": 3496,
-            "checksum": "sha256:c51d1020380221bf1abf09a35554b4287b1360f041f69efe1a42dd725bb4f964"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP6/03 - X-Ray Curvism.avs",
-            "size": 3430,
-            "checksum": "sha256:487c33d5566f6e2ee722ef1b652b226c91926619f7a10370124fe1162dacf881"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP6/04 - Magstar 002.avs",
-            "size": 4130,
-            "checksum": "sha256:b9c57be6648c96278812d8cbd3c11b42e8d6a609b79a342a395a7700ec26c58c"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP6/05 - Gravity.avs",
-            "size": 12309,
-            "checksum": "sha256:f2be36604791870c5b4e7f9d260d8177225a2cb625c88e0f9b723a57c842d064"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP6/06 - Human Rights (Lens Version).avs",
-            "size": 9139,
-            "checksum": "sha256:aea052ccbfb1b63208f95acd07509c5e437e5be38616e59f1fde8038d885860b"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP6/07 - Starstreaming.avs",
-            "size": 3078,
-            "checksum": "sha256:bc1b7f82684fc460e11ace7ff896db59fc5235e353393f38ec3b1b61f34248fe"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP6/08 - Ad Misericordiam.avs",
-            "size": 2646,
-            "checksum": "sha256:628eac4d6363757764a7ecd2d1d638ae53e9a3f091d5b7882ce4719b33633b8a"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP6/09 - Conceptual 002.avs",
-            "size": 4615,
-            "checksum": "sha256:6b46ff251bf412dd7d23910e13f98c35b971290e72dfba9d03ef1c5e74ca1e99"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP6/10 - Deload.avs",
-            "size": 3333,
-            "checksum": "sha256:9577f0fe3bbeacc496309f403b3f324586b85aaefabdfb581a48bad4a183496c"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP6/11 - Extra Kings.avs",
-            "size": 3198,
-            "checksum": "sha256:743edd67b0785d744a864642299131c348a50527b4449e20864b840ae03032d9"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP6/12 - Metafractal 002.avs",
-            "size": 3385,
-            "checksum": "sha256:529dafed84bc0234afac437623225722b5877388e7b5ca162939182d76adddf9"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP6/13 - Bacterial Flow.avs",
-            "size": 3748,
-            "checksum": "sha256:f14d97a788fd04f8e1548fdbf83e2f3ea86a9edca4ade3d42550b7d0031b0af4"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP6/14 - Firebreather.avs",
-            "size": 3085,
-            "checksum": "sha256:d5012b24959cd31cb262b4990c033ea1fd05ba30572afe70c5ca91b50aef5a35"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP6/15 - Quadralicious 002.avs",
-            "size": 8434,
-            "checksum": "sha256:186516616638597b82deca24feb709832691e9b236d904d053dbccb40b6cf9ed"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP6/16 - Olson.avs",
-            "size": 3405,
-            "checksum": "sha256:90a5bbba67d5967573e757294c90ffe490c799cc939833b61197f7fb50b53525"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP6/17 - Sixtet 002.avs",
-            "size": 3349,
-            "checksum": "sha256:0562ccea913c81ea97b4ed23b63d5b5d24767d9fba7cd0bb078bfec69b162707"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP6/18 - AVS-Kingish.avs",
-            "size": 3125,
-            "checksum": "sha256:2ed5970c07b53cd868a7017ec07c4f1bef90666cc8214520142ae79833eed4da"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP6/19 - Cubist Spectrum 002.avs",
-            "size": 14799,
-            "checksum": "sha256:185f8997d8c6b079b044ce4f863bd85e82f691318fd17db9d52162b3d8aaa5e1"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP6/20 - Riptide.avs",
-            "size": 3496,
-            "checksum": "sha256:9420e02dc72c9e3e1d652b4a3ddcbb57e18e7378662f6f83479f17252e5e5418"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP6/21 - Jherikolicious 002.avs",
-            "size": 3512,
-            "checksum": "sha256:f68fe2ea6af3e670348c75fe92413d3f1c3029a3528cd3d71300b35c09317163"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP6/22 - Vortex.avs",
-            "size": 4340,
-            "checksum": "sha256:80f91dbb151c4c9bfe6bb8681d209fc7d516dd1ac9687cee9d233050620db1e7"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP6/23 - Vortex (Lacris Version).avs",
-            "size": 3938,
-            "checksum": "sha256:cc71a672084fd6bd2b8cc464211ab4d367f7a0c0f5c6a941e8cd94cd6a4775ae"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP6/24 - A Tribute To Degnic.avs",
-            "size": 3598,
-            "checksum": "sha256:bf54491a8781c786ba2664c947285195a1332b70076018d49ab6dbf530ed282b"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP6/25 - Community 002.avs",
-            "size": 3752,
-            "checksum": "sha256:95abdbf8d857948ae77b4a52e23b76a9d0d50e67621f3ead05b99d1705701ed5"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP6/26 - Spiralesque (Atero Remixed).avs",
-            "size": 8943,
-            "checksum": "sha256:559ac63d770c65012815429748acfc0ebce9fd7fdbef719223bd21dc6604d888"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP6/27 - Lastonic Redo (Tonic Remixed).avs",
-            "size": 3325,
-            "checksum": "sha256:c6af921ff3fb40a8e90c3c49cd66dcc7919da3a281d54e74ddee0f3f0bbf77fc"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP6/28 - Iconoclasmic.avs",
-            "size": 3467,
-            "checksum": "sha256:6103da5f688e48b7b374c5e16ea8253724f81222f56d5f34236b8236646a7037"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP6/29 - Genome Travel.avs",
-            "size": 4489,
-            "checksum": "sha256:2e4bdff1f691345fda3b979fed6edad4eeb79508923132ead59bdef56a2b69c3"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP6/30 - Stylized.avs",
-            "size": 3092,
-            "checksum": "sha256:38fb9e5fe9d9b849230cdfb4fa2cb4af21a6512d738fc910ab510aa3cdc5abcb"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP6/31 - Destylized.avs",
-            "size": 3456,
-            "checksum": "sha256:c8e194d5b3c30e25ce2362dbb18c5a9460ab410dccfd0b916b29f99b934904cc"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP6/32 - Restylized.avs",
-            "size": 3396,
-            "checksum": "sha256:5da94f1f147382a7d8085ebdf69b932d95f035c84cc28bf79f37b8abd56144ad"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP6/33 - Electricity Like Before.avs",
-            "size": 4810,
-            "checksum": "sha256:8075eb7c155633c8549fc975c7e5cb18f6de8ccec6073a3f8dd8546c0a962b7a"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP6/34 - Texering 002.avs",
-            "size": 6562,
-            "checksum": "sha256:049ebabf91ff23deeceb30e3ae261a8389e04860d5eca9639be2818256df6245"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP6/35 - Endotherm (Fire).avs",
-            "size": 8499,
-            "checksum": "sha256:317d840e28f24978e5de07bcc91e7ec786e913eb2a8597b973e2e82d84ecd611"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP6/36 - Endotherm (Ice).avs",
-            "size": 8152,
-            "checksum": "sha256:b92aaadc72de503355663e89b93f64c8bf42ff33a333f715dc67af8fe0dc9812"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP6/37 - Endotherm (Rainbow).avs",
-            "size": 8616,
-            "checksum": "sha256:ca5e603eec08f8f5430b3f3aebae78babfff4d3ae53d5c0ad45aeb011a8852cc"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP6/38 - Endotherm (BW).avs",
-            "size": 3745,
-            "checksum": "sha256:85a9ecaa7e586a42fc997981cb675b45894a49bc6f93e8793818bba6737782c0"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP6/39 - Au Revoir et Bon Voyage.avs",
-            "size": 4927,
-            "checksum": "sha256:28e1e7eb1ab5ff99a5a061a8c4e26f4a1df9f17d5d7ccc1e2e31c74427c4cdf2"
-        }
-    ],
-    "assets": [
-        {
-            "file": "skupers_lp6_01.bmp",
-            "size": 776,
-            "checksum": "sha256:27bdda462dfec5cea6f702611fdc5df24255ae076c64fd214544b75561771339"
-        },
-        {
-            "file": "skupers_lp6_02.bmp",
-            "size": 10856,
-            "checksum": "sha256:aaeb13486d7082c888a556012a3ea574dc4c651b01510ae9722a1ce184f8fd03"
-        },
-        {
-            "file": "bitdust2.ttf",
-            "size": 39352,
-            "checksum": "sha256:7f16108d1943d4063cd4499598139ae72e926e2934c565474c59b69641bd23ae"
-        }
-    ],
-    "plugins": [
-        "ChannelShift",
-        "ColorMap",
-        "ColorReduction",
-        "ConvolutionFilter",
-        "Multiplier",
-        "Texer"
-    ]
+	"name": "S_KuPeRS LP1-LP6",
+	"id": "VA009",
+	"presets": [
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP1 - Broken Mirror/S_KuPeRS - Broken Mirror.avs",
+			"size": 655,
+			"checksum": "sha256:2dad8622a79e91654694da472e2ffc75f6293f4a5d00aa2ca34d05e4777c2c55"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP1 - Broken Mirror/S_KuPeRS - Dynamic Iris.avs",
+			"size": 879,
+			"checksum": "sha256:c0f21a8a38e4a8683b15627fee6288639fbaa0c00b2441dee7c8f4777b892f5f"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP1 - Broken Mirror/S_KuPeRS - Isildurs Eye (Disco Da Cubism Remix).avs",
+			"size": 1346,
+			"checksum": "sha256:55e448b0650b2c69fa9e2d50271c4ef833e6e739d7b4d7a4d6c9ae91cbc78bf2"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP1 - Broken Mirror/S_KuPeRS - Isildurs Eye.avs",
+			"size": 1435,
+			"checksum": "sha256:2f34bf147963792a3135b224706b4457fefa3671221a59f2ef296ba027ea4b1e"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP1 - Broken Mirror/S_KuPeRS - Metropolis.avs",
+			"size": 919,
+			"checksum": "sha256:268c36118dc50e5232cc75805b6b850ced9c4694b19f1fd59ecd7d8b84065ce8"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP1 - Broken Mirror/S_KuPeRS - Micky Mouse.avs",
+			"size": 2052,
+			"checksum": "sha256:ef19ae50600356f8d83d7a69e86014a1d46aee6bac363e5731a1fccb9836a3db"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP1 - Broken Mirror/S_KuPeRS - Quantum Synthesysis.avs",
+			"size": 653,
+			"checksum": "sha256:bd74053ce59f92bfe5912c4edf7ee58c2f179396891d6c9c8cb568ee77beccb6"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP1 - Broken Mirror/S_KuPeRS - Scanner.avs",
+			"size": 1029,
+			"checksum": "sha256:7f817d1f4c9e9bf0883c999c602827f3e4db31550ce72c0ebbc49c3d9f08568e"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP1 - Broken Mirror/S_KuPeRS - Spectrum (Another Time Remix).avs",
+			"size": 974,
+			"checksum": "sha256:f21243e061c930be3cda6cbbecf56448249e0e49717d5a84dce80af3e0bbd08f"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP1 - Broken Mirror/S_KuPeRS - Spectrum.avs",
+			"size": 913,
+			"checksum": "sha256:c7ce64a39a348123b5689aaa904507a70d6378d0f67f57c2fbf30278009c953d"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP1 - Broken Mirror/S_KuPeRS - Stereo Second.avs",
+			"size": 440,
+			"checksum": "sha256:e5401762ae390837ae0ebb4e744dddf8395a8c2a376603ad8e8daf83f9942e35"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP1 - Broken Mirror/S_KuPeRS - UR101.avs",
+			"size": 796,
+			"checksum": "sha256:8660881e165e5b8c88a1814cb52908ea61a1e7750ed4c44ba8a1fac469e7811c"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP1 - Broken Mirror/S_KuPeRS - XXX (The End Remix).avs",
+			"size": 2783,
+			"checksum": "sha256:43a87bca0ab1c6cc7647d3cc703f0325c35f67343971896ffda7c042dbf304de"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP1 - Broken Mirror/S_KuPeRS - XXX.avs",
+			"size": 2395,
+			"checksum": "sha256:f2dd509c945924f6086f1ecdbfbc1794f56a94bd333ead0cbd0626543c3822ca"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP1R - Broken Mirror (The B-Sides)/S_KuPeRS - Dynamic Iris (Alien Remix).avs",
+			"size": 1125,
+			"checksum": "sha256:7c9a51e00a78a509b50e781fa9d32a54050844c4932177f19b99baf2152ce11f"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP1R - Broken Mirror (The B-Sides)/S_KuPeRS - Dynamic Iris (Expressway To Heaven Remix).avs",
+			"size": 1336,
+			"checksum": "sha256:4920107e909c7662754f6e3b2eea7e79f1b5ab6dfec9bdef4679f496a95792c0"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP1R - Broken Mirror (The B-Sides)/S_KuPeRS - Dynamic Iris (Expressway To Hell Remix).avs",
+			"size": 1126,
+			"checksum": "sha256:4fdc1a3c9b641aa6f2a6128c999da99a0c5b403d765c794b5cc4f5423e9b71cf"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP1R - Broken Mirror (The B-Sides)/S_KuPeRS - Dynamic Iris (In The Secret Cloud Remix).avs",
+			"size": 1372,
+			"checksum": "sha256:3177ba18edf9f8ecb0187f182b915de2416732cfbaee24c7c228c3ca757f05a9"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP1R - Broken Mirror (The B-Sides)/S_KuPeRS - Micky Mouse (Evil Remix).avs",
+			"size": 2544,
+			"checksum": "sha256:a33968777cda35e43e0da4278a1842e25a62d91139d05a47b26dd4cd70216368"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP1R - Broken Mirror (The B-Sides)/S_KuPeRS - Rings Of Fire (Set Fire To Flames Remix).avs",
+			"size": 481,
+			"checksum": "sha256:397ee96fc4def1552f08a3ead32a02c8261fe2fc8621ee5ffdd39a5b65b35894"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP1R - Broken Mirror (The B-Sides)/S_KuPeRS - Rings Of Fire.avs",
+			"size": 726,
+			"checksum": "sha256:25db820404b64dbd7d097a77c22ffc239a0aab2f50a204e3c0caf20a4653e5ed"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP1R - Broken Mirror (The B-Sides)/S_KuPeRS - Scanner (C12 Remix).avs",
+			"size": 907,
+			"checksum": "sha256:afadaf57eca9c7c551212275fe2a503c95d3172157a32fd0318cb2e4d47d18b4"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP1R - Broken Mirror (The B-Sides)/S_KuPeRS - Sun Flower (Infinity Remix).avs",
+			"size": 1103,
+			"checksum": "sha256:8311a59daa1064c11dfcad7681c9f7682eb95dc0fde5ae2598aa0383659ed76d"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP1R - Broken Mirror (The B-Sides)/S_KuPeRS - Sun Flower (Sun Remix).avs",
+			"size": 850,
+			"checksum": "sha256:1621f72c48373840ae6978ba82aa1e334290a6381ef20cb548d6f41839225db1"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP1R - Broken Mirror (The B-Sides)/S_KuPeRS - Sun Flower (Wormhole Remix).avs",
+			"size": 670,
+			"checksum": "sha256:744420d72aa4471614c719f902dcb18c6053ecce6c64a758afcf1e5d1cffc80f"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP1R - Broken Mirror (The B-Sides)/S_KuPeRS - Sun Flower.avs",
+			"size": 918,
+			"checksum": "sha256:6fd458a9353bf767b871b672b5cd6978f40f1fc13061c4db9e8687b9bb757e45"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP1R - Broken Mirror (The B-Sides)/S_KuPeRS - UR101 (Energetic Remix).avs",
+			"size": 663,
+			"checksum": "sha256:6d31b67bf31d50bb93b375dd5fc090ace094429327a9ab552e7d2cd9f3f2b725"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP2 - Static/S_KuPeRS - A Tribute To Warp (Amber).avs",
+			"size": 706,
+			"checksum": "sha256:a055a0c56bf13160c718816a852d9845bbbc55d5a8e00ca0a1b8dd82ec31d200"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP2 - Static/S_KuPeRS - A Tribute To Warp (Green Calx).avs",
+			"size": 787,
+			"checksum": "sha256:8ed1e8dd4a567e0df233797f1fa907e67b458fe8b581dec0e397101afebca9a4"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP2 - Static/S_KuPeRS - Citaten (Inside Remix).avs",
+			"size": 2255,
+			"checksum": "sha256:aadfc62f2c22897357bf2d90834d2247e7b0f24c9d321472dd727b1d794c0d5d"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP2 - Static/S_KuPeRS - Color Intensity.avs",
+			"size": 782,
+			"checksum": "sha256:c3941fa0364640172f25dd8a0b6352b0dc7da4a8e3f0005ee7c7ba5e10a93f06"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP2 - Static/S_KuPeRS - Cosmic Static (Acid 11B Remix).avs",
+			"size": 1094,
+			"checksum": "sha256:8557cb365e7bee620b6f732e4e68a118e314b5832168ee3f6397c61b3cb39f4e"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP2 - Static/S_KuPeRS - Cosmic Static (Gamma-Ray Remix).avs",
+			"size": 788,
+			"checksum": "sha256:2d58049d96294464ed9e05341042f131d31854f6b357217a0f9f123baf2c8727"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP2 - Static/S_KuPeRS - Egon (Year 1).avs",
+			"size": 507,
+			"checksum": "sha256:259c8166e94c6b5d01853dc53adfd3cdecf164aa407ef348407e9229f88b0b64"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP2 - Static/S_KuPeRS - Egon (Year 2).avs",
+			"size": 551,
+			"checksum": "sha256:12a9d2dbe239a33c65186b0057b340863b7cbccd3c6d800755fb7b68fef57ca6"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP2 - Static/S_KuPeRS - Egon (Year 3).avs",
+			"size": 1051,
+			"checksum": "sha256:180680d21f7054740421d7de487ca993b1c3b41c7c217519b4b5409a6967cd02"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP2 - Static/S_KuPeRS - Head In Y-Axis.avs",
+			"size": 891,
+			"checksum": "sha256:c551e96531e9a1ce26b16623930a68fb10fdcbec9906799fff38861627a0e542"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP2 - Static/S_KuPeRS - Intro.avs",
+			"size": 1739,
+			"checksum": "sha256:31c2df44abcaac1a185d81ce31128bb5db00a104a54ce842d098d07f3f82a29e"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP2 - Static/S_KuPeRS - MDMA v1 (Acid 10B Remix).avs",
+			"size": 1526,
+			"checksum": "sha256:add0bedb710ab3f752b5c0fee3ee7ef76182a86fd908bebb2248a157fc394af0"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP2 - Static/S_KuPeRS - MDMA v1.avs",
+			"size": 1327,
+			"checksum": "sha256:396c07e6c18e8f5a88250f047539a9d8ea40adb111bc9c88d7617a3eabdd89e0"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP2 - Static/S_KuPeRS - Second Von (Spectrum Remix).avs",
+			"size": 1650,
+			"checksum": "sha256:659b4b99d0b4d212c397a5ad02470c88124a981fee1c665e3de89b76e1c503cf"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP2 - Static/S_KuPeRS - Seizoen (Lente).avs",
+			"size": 374,
+			"checksum": "sha256:32969ab533158ccbd4329a39edb689004d8226785ea389e757520546b740dc9f"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP2 - Static/S_KuPeRS - Serial Static.avs",
+			"size": 1077,
+			"checksum": "sha256:79b31bff14a14de3ec9ae6880f4a1d2e5d51addf26ddde86441277374eb0bfa2"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP2 - Static/S_KuPeRS - Tempo (Black and White).avs",
+			"size": 810,
+			"checksum": "sha256:96e02f1f3c6d4bc0966b44326306b4800b068b37e6acf76c8dfe1c004af02702"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP2 - Static/S_KuPeRS - Tempo (Colorful Disco Da Cubism Remix).avs",
+			"size": 1471,
+			"checksum": "sha256:8416089759b822294e36458a7b8d4ce5c7d96c1601af380c2692493a6c8b944f"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP2 - Static/S_KuPeRS - Volcano.avs",
+			"size": 783,
+			"checksum": "sha256:670fba498184ca12817726179d7a5ede465e50a119896bc561d89e1916c6b2ec"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP2 - Static/S_KuPeRS - Vorgbiv.avs",
+			"size": 1169,
+			"checksum": "sha256:73f0640ad1cb7c0012ed88a5ab43a9b5f0ee5a329e3610da2d3114f347376375"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - A Tribute To Warp (IZ-US).avs",
+			"size": 682,
+			"checksum": "sha256:31b4d3111987b815b78748fe5a5000909fdd98967c6a8150ec7895b956b16c0e"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - Citaten.avs",
+			"size": 1174,
+			"checksum": "sha256:4ecda8bb15832d4cd2bb3296f9900a0b5131720757fe9f36edd3f3eb413a71d7"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - Cosmic Static (Distortion nr2 Remix).avs",
+			"size": 645,
+			"checksum": "sha256:9a2cbc316e1eaf9d982fdc5fc950f09dd3b9b65fdc6fd19fdef282b2253f7733"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - Cosmic Static (Distortion Remix).avs",
+			"size": 616,
+			"checksum": "sha256:75d22b6401b7ddc8f327e8502c07db5304ce28198317043c12c8620eae8d0253"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - Cosmic Static.avs",
+			"size": 509,
+			"checksum": "sha256:4fe4bb55b2960b93909db8887fcfb9ce77c0ccc3200fa2a5d02c7ed328f396e0"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - Experiment IV (Static Zero Two Remix).avs",
+			"size": 897,
+			"checksum": "sha256:6b83232f4f83391bedea44c207cee68d78a05510b930b4b9febbceff14915212"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - Experiment IV.avs",
+			"size": 787,
+			"checksum": "sha256:63b2739a7e6c1b91923c7ed339a281dbc34b0a3a23e3b62b2aa4edc43cc6085b"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - Experiment V (Osc Variation).avs",
+			"size": 369,
+			"checksum": "sha256:15fb48c9ef392ebf2117db82e3c8516b97ffd94ada4424dd313dd7b0a2cfdc9f"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - Experiment V.avs",
+			"size": 335,
+			"checksum": "sha256:7b01a12a07c608314eceeead95153829a147de127dc1b01e7b45a69586c20c2c"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - Fire Static (Timescope Remix).avs",
+			"size": 459,
+			"checksum": "sha256:beeb508d1f61a1f9a742bdb72fabcc8ae0ff7076f3bf5d174592df59a32f9bd5"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - Fire Static.avs",
+			"size": 435,
+			"checksum": "sha256:3cc736e8c348b976261e8a804cc6916cb397407d8eb22d42f0153ffa2d02d4ad"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - Iesope.avs",
+			"size": 820,
+			"checksum": "sha256:d7127318e15f2612d339074358bff78eaeacfed0cec021a394b14d4ac9d2db1f"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - MDMA v1 (3 AM Remix).avs",
+			"size": 1366,
+			"checksum": "sha256:f011a47650709b4e3717a26a950d25741319257758bb0d9af42c5c39d8cd07ba"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - MDMA v2.avs",
+			"size": 1413,
+			"checksum": "sha256:1023c1503f91ee50c9f77b7b913d351621d5bc8e4d9cd8b5c90cb0f50198b3f8"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - nr 60403-9192.avs",
+			"size": 762,
+			"checksum": "sha256:de8dfe71e26358c27673c6243340747a46c615b46c16dd3ac66083667e2336a2"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - Rainbow Static (Cosmic Headlights Remix).avs",
+			"size": 983,
+			"checksum": "sha256:0514e439d58e6e5060b3a4e3e918e302428439eee3be92693116231ab52280cc"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - Rainbow Static (Vose In Remix).avs",
+			"size": 1195,
+			"checksum": "sha256:e96117c539929c9079fa56a5d792ae5e0768bb5162ce1a42acf9da9afafc000f"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - Rainbow Static.avs",
+			"size": 1111,
+			"checksum": "sha256:da03ab6d5d1f9562c1aedc49036d6ca59375281a25053d0c0afb9f0abaf3596a"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - Second Von (Hexagon Remix).avs",
+			"size": 1174,
+			"checksum": "sha256:d42c196167faa00e6a2ee84fb869e9db1a13e48bb406078371665dfd6b0b164d"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - Second Von (Inverted Spectrum Remix).avs",
+			"size": 1564,
+			"checksum": "sha256:0ed85203b3cd3f924afb2559d1f8342ef95b043470f5c34b2f7d2a3a189e8c5a"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - Second Von.avs",
+			"size": 1002,
+			"checksum": "sha256:23a47262a318febcb0f86a7280c96a163f5763f3099a8f98cfdfea9a231729f6"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - Seizoen (Herfst).avs",
+			"size": 669,
+			"checksum": "sha256:1b617ecaa32f6ae7a712fdd5f131b2bfefa700e8164adba9a39e1aa7bde692af"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - Serial Static (AX L Remix).avs",
+			"size": 1123,
+			"checksum": "sha256:68f5becceada225eeb13d4d0e8f9d53a0100750665bcd4463cc05c5ad7296904"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - Slide Window (Acid 12B Remix).avs",
+			"size": 1207,
+			"checksum": "sha256:d09c53c622d5013797620f9a1ccbc3f4d80bf8342aa4b1833907e076f3b1955b"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - Slide Window.avs",
+			"size": 1087,
+			"checksum": "sha256:00ddbfb7808d736a549d9619ec8e6ea8d89e07725aa0b2996ea266fc82701fbc"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - Tempo (Colorful).avs",
+			"size": 711,
+			"checksum": "sha256:1aefba985c4676986f1d9681ce4097c642842e8de68300b7d7a8e31e8cbfb68f"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP2R - Static (The B-Sides)/S_KuPeRS - Vorgbiv (3400 Gigahertz Remix).avs",
+			"size": 1107,
+			"checksum": "sha256:61c3cb48bc224e6aee59ef6e59aa72b48d6e96f972f3c5a2c4fdef472610af3a"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3 - Storm (Unreleased Presets)/S_KuPeRS - 1969.avs",
+			"size": 1969,
+			"checksum": "sha256:eca954d62b03dbf2a6addedef20a36f72220b5c7600dd590d7cd1424ddaa0825"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3 - Storm (Unreleased Presets)/S_KuPeRS - Conquer the Solid.avs",
+			"size": 5647,
+			"checksum": "sha256:176c0c1ed6fb3cec9341939628c6e87a783792c10e7c84bce78735a84546d030"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3 - Storm (Unreleased Presets)/S_KuPeRS - Counterpart (Argo2mx Remix).avs",
+			"size": 4161,
+			"checksum": "sha256:34b10248268ae4d8422278ada65f1745dc5695efd06207f67005cd20d3c1136f"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3 - Storm (Unreleased Presets)/S_KuPeRS - Counterpart.avs",
+			"size": 4151,
+			"checksum": "sha256:78fbe183bde2e2a2ad8fc213a1f21e5d9e3f93bf7d295ffe6dd7d54f518b93e7"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3 - Storm (Unreleased Presets)/S_KuPeRS - Fractal Space.avs",
+			"size": 2551,
+			"checksum": "sha256:92cf7fb15970f8923fd644cfb59fbfc0b400c8c803fb825554f59803f9109caa"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3 - Storm (Unreleased Presets)/S_KuPeRS - Glorynights (EL-VIS Remixed).avs",
+			"size": 676,
+			"checksum": "sha256:68139baf47c7b22f0f3ddb2b03ea10223719061ecf386e199cdf0e4af4ad5ee0"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3 - Storm (Unreleased Presets)/S_KuPeRS - Inside A Fractal (Bubble Remix).avs",
+			"size": 316,
+			"checksum": "sha256:d58d204c3afc7db8cc322a3cc7facfe4c8e988728113b8a72b8ff6176638249a"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3 - Storm (Unreleased Presets)/S_KuPeRS - Inside A Fractal (E1 Remix).avs",
+			"size": 526,
+			"checksum": "sha256:4f3bae9a90ee9ef24435436b0c04c136fb16004989112e38e4fa221d8faef3ca"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3 - Storm (Unreleased Presets)/S_KuPeRS - Inside A Fractal (E2 Remix).avs",
+			"size": 843,
+			"checksum": "sha256:d59d359274cbdd4110777c5efa7d13576c77513a1e105d2cec5eaea917a5c176"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3 - Storm (Unreleased Presets)/S_KuPeRS - Inside A Fractal.avs",
+			"size": 307,
+			"checksum": "sha256:b930e1bbe5596841319a5404b4ed01334f90133396331e113354a4099ed4e749"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3 - Storm (Unreleased Presets)/S_KuPeRS - K9.avs",
+			"size": 4795,
+			"checksum": "sha256:67238483eac589b28cb3524e465a94a285c45609c6969c0ddf17185cd45f2470"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3 - Storm (Unreleased Presets)/S_KuPeRS - Leteral (Clipped Remix).avs",
+			"size": 2196,
+			"checksum": "sha256:5109d1df1ecf89269fdd4362a929f6c1603143de442ae8bf5a0570441683a732"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3 - Storm (Unreleased Presets)/S_KuPeRS - Macroscope Window (Fluidic Space Remix).avs",
+			"size": 1197,
+			"checksum": "sha256:85690c08d0334e1c0b6ee1001f17d0f8cf1e97dfb8d761b8ab7d84886638db68"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3 - Storm (Unreleased Presets)/S_KuPeRS - Olsen.avs",
+			"size": 809,
+			"checksum": "sha256:5752b1f1b4149e6dc055794c815e7994883ce84a25f5eb2ba6a4a45dbedbb2eb"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3 - Storm (Unreleased Presets)/S_KuPeRS - Pancreas Leaf (Second Dawn Remix).avs",
+			"size": 786,
+			"checksum": "sha256:6957c23a143eecbc7786c5cbf1ca80d082d9fd89a82bf33c6580e16824596c49"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3 - Storm (Unreleased Presets)/S_KuPeRS - Pancreas Leaf.avs",
+			"size": 799,
+			"checksum": "sha256:ba52e9ad43280529492fe614e2bad1cf136fabe1a254f735c0e6373cdeb710d3"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3 - Storm (Unreleased Presets)/S_KuPeRS - Prepare to Dance (End).avs",
+			"size": 4998,
+			"checksum": "sha256:b857858135779ff241e0908ae90b0f1319afd338b8a6dcde18f96eed73cc173d"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3 - Storm (Unreleased Presets)/S_KuPeRS - Prepare to Dance (Middle Remix).avs",
+			"size": 5563,
+			"checksum": "sha256:633f6d4662089a683ffdf67b555098e7a61f99e738f3c1eae68578320f5ab411"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3 - Storm (Unreleased Presets)/S_KuPeRS - Prepare to Dance.avs",
+			"size": 5640,
+			"checksum": "sha256:0d1912ade096f49476a3a407661c1b51f8021fd4648b316e6d0b70fa7f44b3e2"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3 - Storm (Unreleased Presets)/S_KuPeRS - Recursion.avs",
+			"size": 854,
+			"checksum": "sha256:38347f5e9ab05478ad7492aaaa7e5a156f39c73f3f042bad87ca5e729fb4b8a5"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3 - Storm (Unreleased Presets)/S_KuPeRS - Waterdrop (Midnight Remix).avs",
+			"size": 634,
+			"checksum": "sha256:0b6a2c6093684f345b51927372ccbbdacf91e311dd6364d72bc8eeb3eb3ff86a"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3 - Storm (Unreleased Presets)/S_KuPeRS - Waterdrop.avs",
+			"size": 470,
+			"checksum": "sha256:49caef670d82e37e14e81b3bdcf584a478c9df1ee3019efe396e23fc69c42536"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3 - Storm/S_KuPeRS - bubbleLands (NemoOrange Remixed).avs",
+			"size": 4084,
+			"checksum": "sha256:c01a3750cd5da51951960178f2681cb89ab2c8a1528012dd05a23ddbe1d908b2"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3 - Storm/S_KuPeRS - Counterpart (Argo2mx Remix).avs",
+			"size": 4161,
+			"checksum": "sha256:34b10248268ae4d8422278ada65f1745dc5695efd06207f67005cd20d3c1136f"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3 - Storm/S_KuPeRS - Counterpart.avs",
+			"size": 4151,
+			"checksum": "sha256:78fbe183bde2e2a2ad8fc213a1f21e5d9e3f93bf7d295ffe6dd7d54f518b93e7"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3 - Storm/S_KuPeRS - FX.avs",
+			"size": 1322,
+			"checksum": "sha256:669a8227013a80b777efcba8cc654fdcc06b9ec0fd5fda7e863e8103b8c33565"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3 - Storm/S_KuPeRS - Generation (Cncrte4mx Remix).avs",
+			"size": 1559,
+			"checksum": "sha256:936dec147965a9d584a312dad50480b6f7edf3638117e535e2f0aa5360a13a6f"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3 - Storm/S_KuPeRS - Generation.avs",
+			"size": 1839,
+			"checksum": "sha256:9027b515b48709651c8ebdc8e8af83322fb309eb10efdc5da555a2581a4ff416"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3 - Storm/S_KuPeRS - Intro.avs",
+			"size": 3266,
+			"checksum": "sha256:f143a3fa02ca7b3d0e91fe16be94577a64275a773e72afbb6449b3929f792bee"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3 - Storm/S_KuPeRS - Leteral.avs",
+			"size": 2587,
+			"checksum": "sha256:2747665126175992a64cfa09e11afda6ab5b8f9be4e4d88f7656cdf06dd1ab9b"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3 - Storm/S_KuPeRS - Liquid Paint.avs",
+			"size": 1849,
+			"checksum": "sha256:36570c55873fd323c538144aa64f6ab77610304e77acdeb47102d0fb16c5b3a5"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3 - Storm/S_KuPeRS - Macroscope Window.avs",
+			"size": 2099,
+			"checksum": "sha256:d1222c050d91eefd26fcbc49d8684d33c75944dcc98dfb9aee83c06a8a61c561"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3 - Storm/S_KuPeRS - Prepare to Dance (Solid Remix).avs",
+			"size": 9447,
+			"checksum": "sha256:f4506dbffef378a6d70b401c4d3e4edd787e1e6546b892d768a3135a5fe527cc"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3 - Storm/S_KuPeRS - Semi-Strange Attractor.avs",
+			"size": 7159,
+			"checksum": "sha256:3041552178df19701f3a5f33348ba6838f170f37bbf93e82073ac1a06a027a18"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3 - Storm/S_KuPeRS - Synaptic Highway.avs",
+			"size": 1889,
+			"checksum": "sha256:5484be588cf48c97ff33cd1a2f83ed136f945d13156ed0c8494a5c1d7ce1d119"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3R - Storm (Remixes)/Alt3 - Interpolum(ALT3BaklitChampagneRMX).avs",
+			"size": 3058,
+			"checksum": "sha256:8fa0c3158bf16358e7a334b9e8db44b6ccccdd8b4820fdad1096b1db12855f49"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3R - Storm (Remixes)/Alt3 - Macroscope Window(Alt3CharredEmbersRMX).avs",
+			"size": 1991,
+			"checksum": "sha256:0b064dfdce5901bc64af675fabe15f0206791d0a5828823994ff3534906cd8d8"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3R - Storm (Remixes)/Alt3 - Semi-Strange Attractor(Alt3organicRMX).avs",
+			"size": 7249,
+			"checksum": "sha256:9d842c87d735e9c05e93ca7ef449311e9b7cd1208b77c54d16ef9070d939e413"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3R - Storm (Remixes)/Alt3 - Train (ALT3RMX).avs",
+			"size": 1550,
+			"checksum": "sha256:c07348443b236fcc846ae69b0a2d16277b21d1c11bbbb56f5b39fe94a316c8b9"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3R - Storm (Remixes)/Alt3 - Triangular (Alt3RMX).avs",
+			"size": 1763,
+			"checksum": "sha256:a1829893adac9621ee1bdcd3de06c03dd35ea5e7be725085858369e293b0404b"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3R - Storm (Remixes)/Q3a - Counterpart (x4 Remix).avs",
+			"size": 3575,
+			"checksum": "sha256:89f5152fb403b76c6c91b2bda89f85a78199ec4ad92aae06bb72ed3a6d409767"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3R - Storm (Remixes)/Q3a - FX (Kazon Remix).avs",
+			"size": 797,
+			"checksum": "sha256:5b55b604c929fd6763ae5ca104219e20737c947714a3263aab0625b7e36e7cf9"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3R - Storm (Remixes)/Q3a - Leteral (Clipped Remix).avs",
+			"size": 2253,
+			"checksum": "sha256:27d93d855e6376a6bbf77fb26c85482367f96ed70ee527d2a506af9af79e8cbd"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3R - Storm (Remixes)/S_KuPeRS - Cylindrical (Squared Remix).avs",
+			"size": 3288,
+			"checksum": "sha256:af51b7e02fa9596bbf20b4f535a646a86ce8d4514e5b1b08ce446d8c60451b2c"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3R - Storm (Remixes)/S_KuPeRS - FX (Monologue Remix).avs",
+			"size": 1298,
+			"checksum": "sha256:2d33cb64f65d0c95868ffe803ff4aac38af6e13a1ab0486b28d2c1d92afc5dfd"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3R - Storm (Remixes)/S_KuPeRS - Generation (3deon Remix).avs",
+			"size": 2196,
+			"checksum": "sha256:1cc32b07b655464ecc6b43038d68ec0607baa5a3128af20d0132c979366fd204"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3R - Storm (Remixes)/S_KuPeRS - Macroscope Window (Fluidic Space Remix).avs",
+			"size": 1197,
+			"checksum": "sha256:4b029c161203de4e4bdd134fe771c6538e547d4b6169b5babe28bb01fa5f1980"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3R - Storm (Remixes)/S_KuPeRS - Prepare to Dance (Dark Solid Remix).avs",
+			"size": 9408,
+			"checksum": "sha256:cc4b1cf948995dd5c459c008fb739b34a23e0bf7bb567bc7bed3871ae88313d4"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3R - Storm (Remixes)/S_KuPeRS - Prepare to Dance (Early Version).avs",
+			"size": 5563,
+			"checksum": "sha256:633f6d4662089a683ffdf67b555098e7a61f99e738f3c1eae68578320f5ab411"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3R - Storm (Remixes)/S_KuPeRS - Prepare to Dance (White Solid Remix).avs",
+			"size": 9396,
+			"checksum": "sha256:c1688c48b1fdcb70214b41a31bebe8a62cd51ef5faa1d22cf6c6720d4991118c"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3R - Storm (Remixes)/S_KuPeRS - Synaptic Highway (Diseased Remix).avs",
+			"size": 1998,
+			"checksum": "sha256:9ffeff7e67a3b5c61f745a8a8b40c8e506af2f9a6324b20870e94089d0bb1e94"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3R - Storm (Remixes)/S_KuPeRS - Synaptic Highway (Party Remix).avs",
+			"size": 1029,
+			"checksum": "sha256:6eabc08ad022a0b8da16b47f2c37f7fc55da7385427158274cefe54aaceaa269"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3R - Storm (Remixes)/Yathosho - Generation (Yathosho im Mädchenland Remix).avs",
+			"size": 794,
+			"checksum": "sha256:f31b2b0cc1bada92f58aab41c6482c8bc305d0cbd3a68e6641a643eb4229b466"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP3R - Storm (Remixes)/Yathosho - Generation (Yathosho's Girl in Havanna Remix).avs",
+			"size": 767,
+			"checksum": "sha256:f563b431f7470d60d1ba6784150c6707aa56cc501fcdd618ce622c2e40dfee1f"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP4 - Digital (Unreleased Presets)/S_KuPeRS - 1969 (Dacenio Remix).avs",
+			"size": 3619,
+			"checksum": "sha256:ecefd03e01311983699fea900333c87607b80b31df315bacb063255c05ef3128"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP4 - Digital (Unreleased Presets)/S_KuPeRS - A Tribute To Warp (3d Spiro Fun Remix).avs",
+			"size": 2129,
+			"checksum": "sha256:eee35f7652a7762e54f9a0df7144a8ea38cc69dbab3173ba3c8bc91fd7a592a3"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP4 - Digital (Unreleased Presets)/S_KuPeRS - Centerfold (Leak Remix).avs",
+			"size": 1049,
+			"checksum": "sha256:27a0e558335d2ef2240d40c6f59e26e3c54bdd203b97a59300663378e45aca3e"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP4 - Digital (Unreleased Presets)/S_KuPeRS - Cubular (St Patrick Remix).avs",
+			"size": 3035,
+			"checksum": "sha256:b3393fc5ceaefd098015c2144c65c2460a4d8c3e8b6086a94337c068b35d36ee"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP4 - Digital (Unreleased Presets)/S_KuPeRS - Formation.avs",
+			"size": 2231,
+			"checksum": "sha256:3ad76a605b091afc04bed29defc2db901e787303d4609fb4c032d8bf6366e2f2"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP4 - Digital (Unreleased Presets)/S_KuPeRS - Geogaddi (UnconeD Remixed) (Degauss Remix).avs",
+			"size": 1395,
+			"checksum": "sha256:8a8255fa43ce5d68a225f271f024960623166806f3e3787034cf9e263d40a7e3"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP4 - Digital (Unreleased Presets)/S_KuPeRS - Geogaddi (UnconeD Remixed).avs",
+			"size": 1674,
+			"checksum": "sha256:89523d9075a2eb667464d8945471ef01c58c7454c3d7ddb1129d5333f8647244"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP4 - Digital (Unreleased Presets)/S_KuPeRS - Mexican.avs",
+			"size": 2570,
+			"checksum": "sha256:218c6225cfe856b784190e1b77a4a3ea0539521e6c9ed5fc53ef8a28c617a2be"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP4 - Digital (Unreleased Presets)/S_KuPeRS - Train (Squared Remix).avs",
+			"size": 3312,
+			"checksum": "sha256:16eae8a9fd611a58846afb7308a976cfdd3c8d6ae9bd4e3aec599027e44cec83"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 01 - Intro.avs",
+			"size": 17612,
+			"checksum": "sha256:bac46330d524e5c44b915fbbd400d82d7da20db9081602c418463cd8793704ba"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 02 - Fractal Tunnel.avs",
+			"size": 3250,
+			"checksum": "sha256:e297aaa40209f544b4f968ca73f9233af426611bd294507838aac7f2e1ef6595"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 03 - Dancefloor In Heaven.avs",
+			"size": 6119,
+			"checksum": "sha256:9941a440869b3818537d3cb5d0f3ccd4d353476fffd12d16b96a02f7834fa401"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 04 - Orb nr2.avs",
+			"size": 5634,
+			"checksum": "sha256:7864730f57021e2dd828fc6b9950760b1150e9b6032f95a2639edc39a0ac7fca"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 05 - Edgywingsetacid.avs",
+			"size": 4818,
+			"checksum": "sha256:240d8bbea19ea626a034dd47fcb3e76f1e6273ab5a727b664abf518e7e522db1"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 06 - SiOX.avs",
+			"size": 3106,
+			"checksum": "sha256:7ac5fcf4ef1e8edd36e103dd9745dafd31e82bd84a5ca0760a1de0f966fc641f"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 07 - XTT.avs",
+			"size": 1522,
+			"checksum": "sha256:c5fd7598a7a29ea0d0830561ab3a69e5e8d1f7df148924e0d1aeacb493729a25"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 08 - Cylindrical.avs",
+			"size": 2945,
+			"checksum": "sha256:7f3e738336935334ba951783c54191d2f99743cc352cbd8f502a393c1d401a6a"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 09 - Cylindrical (Squared Remix).avs",
+			"size": 3129,
+			"checksum": "sha256:05d3c35aa430e8283ef8004e0158b8d664f8af6b0bbdec63113023b08f28a088"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 10 - 128-bit.avs",
+			"size": 2174,
+			"checksum": "sha256:60186cd32acdc645b4e7827ceb3130f36cc4c9587b155ae6233e4ff1f225f594"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 11 - Triangular.avs",
+			"size": 1823,
+			"checksum": "sha256:7a50bf55fca46bb9ef17d992dd82e362cfc86991e3349fd08f703e6da2a3dbe6"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 12 - Triangular (Gor4mx Remix).avs",
+			"size": 2357,
+			"checksum": "sha256:642d22b64a308c36abaf92833e8d7e8efeda474f3dcbdbf46a7ae49f5b723e2e"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 13 - Train.avs",
+			"size": 3935,
+			"checksum": "sha256:069ec0af8ba76e6e901f916c7e47326ba55144058efd3bde12df4c64a9e570ae"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 14 - Amoebic Force.avs",
+			"size": 2325,
+			"checksum": "sha256:316da6febbdd2d1b946f47d592479f35fa27b8b9988e820188e5ef00d4a1ec9a"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 15 - The Olympics.avs",
+			"size": 2303,
+			"checksum": "sha256:4bf27e1d0ce5bd8870e10063f289488154750a52d5016828f981a7c3bfd947bb"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 16 - Caged.avs",
+			"size": 7140,
+			"checksum": "sha256:81239b4f9a0da1052db27c32d62db7b424a1baa8eaaccbd90b33bb8610dffedd"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 17 - Caged (Teensex Remix).avs",
+			"size": 6311,
+			"checksum": "sha256:0ce8d41438cc3d1143538e61621319fc63d33a1ed34efd89cea7c8329a0cea64"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 18 - Netlon.avs",
+			"size": 2335,
+			"checksum": "sha256:864951f662d5f3673ee07d2573e3f346d8677241ad8de509aee53051264c071b"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 19 - Centerfold.avs",
+			"size": 2440,
+			"checksum": "sha256:8a72cbf6d9b31fc8efc54a448664a3449744dc0bb4d1790d6704aa6b01424471"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 20 - Royal Astronomy.avs",
+			"size": 1529,
+			"checksum": "sha256:6c2689c0432d973e25ac57103be72c9f36129f36f32808eaf291c20702ec979c"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 21 - Cubular.avs",
+			"size": 3177,
+			"checksum": "sha256:e3fcd25a00efdf6c559aa5cd2d939cd4cb5c5d3e2e104a023d6d8f59fb3d8b88"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 22 - Cubular (Two Revelations Remix).avs",
+			"size": 3039,
+			"checksum": "sha256:f83f4b0f42cedda6d9d32027829e97fc845cfcc9126320a286972eb3a8f82cdd"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 23 - Interpolum.avs",
+			"size": 3247,
+			"checksum": "sha256:cdd811c190e1aef0db6b4d2ec9c926c75592fe9843dcefe1958359f8119c4a62"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 24 - Fireform.avs",
+			"size": 8008,
+			"checksum": "sha256:6e169161e017942f44ed97515a0a947e65d6c3f1cc76816b8dd9dc5bccdfe36b"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 25 - 1969.avs",
+			"size": 3445,
+			"checksum": "sha256:f6cd1c68b7b3f477ab49fe180dcc3204df7be255617f806f48afb13c81b5db54"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 26 - Afterburner (EL-VIS Remixed).avs",
+			"size": 5956,
+			"checksum": "sha256:e6f94563327f7d63b31368742e3c69bf81cbdfe214988e55275b0e945c9762fd"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 27 - Purple is the neue Black.avs",
+			"size": 3311,
+			"checksum": "sha256:3311f0a14cb73868eea8d2c4187418baab29fc8f02ab3667b2cfb1cda9c30148"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 28 - Purple is the neue black (Corsair Remix).avs",
+			"size": 3858,
+			"checksum": "sha256:d75e16052762f8fc496753c233fde22f9b10574e1fa3b6d48678d0cdbd0f137b"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 29 - Birdcage.avs",
+			"size": 4359,
+			"checksum": "sha256:20dc62e0d86331c4c77078a7b653daf168e4dbb4a09e7fc8909364e2a1733827"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP4 - Digital/S_KuPeRS - 30 - Gez 7.avs",
+			"size": 3674,
+			"checksum": "sha256:66ebb5bf7ee4d5fc153ef229a830b8957798717826fed85cb5c7e691a68b443c"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 00 - Intro (Updated Version).avs",
+			"size": 5544,
+			"checksum": "sha256:a2dd459263164559addedf346eeb65a5f77e0d491a64ae71e4db2c095c0c09b9"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 01 - Channelling.avs",
+			"size": 4544,
+			"checksum": "sha256:a73de68747658bfcfd39894cb11f191c62081519f45eca91696ef47d70fe5df9"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 02 - Cubist Spectrum.avs",
+			"size": 43401,
+			"checksum": "sha256:69f5a584c2c47a6fe761f19799d2b3bd1ad6a1fa75802882a1ba0a8836e86716"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 03 - Wavelength.avs",
+			"size": 3638,
+			"checksum": "sha256:4d1bf5f756e081ee48c50bb1cb32a7cd3b369ffeccd61f934bb73d7a4960fd51"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 04 - Speaker System.avs",
+			"size": 7311,
+			"checksum": "sha256:b2a29416055a6831ac4757af55b37fb6f38cc8b779b4850a6d8fcc031ab905f8"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 05 - Go With The Flow.avs",
+			"size": 3583,
+			"checksum": "sha256:b072986ea2c8455abbb86a9b1a4e8a7a9948b5c9ef6dd699470479382bab4536"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 06 - A Tribute to Alt-iii.avs",
+			"size": 3710,
+			"checksum": "sha256:a3d89b7faad756e4a64439e38d16e14d99e03250a00fb42d407a8671cf548e61"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 07 - A Tribute To AVS-King.avs",
+			"size": 4673,
+			"checksum": "sha256:42e3cee2c90a462d05032bbfc674c9d71ec9ad35a8aa340d6f07a75dc67db979"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 08 - A Tribute to Duo.avs",
+			"size": 3837,
+			"checksum": "sha256:ce1d24f285115980adce2934af2e3de1403a1f224ad468d2150190fbc4847013"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 09 - A Tribute to Duo 002.avs",
+			"size": 3897,
+			"checksum": "sha256:1f351197bca8a4b90393b120cb1b1ccb666a719ac42d47eb8ebda51509444c51"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 10 - A Tribute To Tuggummi.avs",
+			"size": 4138,
+			"checksum": "sha256:731f661ac0d8150a4f7193c5b56b85dcb2d26b6c9bfecbd85129922d1de91c25"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 11 - To the third.avs",
+			"size": 9271,
+			"checksum": "sha256:3ec028e9b42aeaee942f4875212133fee95e17c8976bdf938232352e746cd30e"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 12 - The Milkyworm.avs",
+			"size": 4132,
+			"checksum": "sha256:d66086708e55efe8541735da5b250a5804c622c75f92d6d775d6bd049349fdd7"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 13 - The Milkyworm (DanJoe Remix).avs",
+			"size": 2736,
+			"checksum": "sha256:4a6e2b48822f58b7b05f1f316a023e8b3c8af7d2e75c2e53974b59193c68e9e9"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 14 - Follow The Light.avs",
+			"size": 14396,
+			"checksum": "sha256:d8e401b48d95a3926f4b873ed359c79e8f14ca1c91968087b817c3887c5be88f"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 15 - Under The Rainbow (NemoOrange Remixed).avs",
+			"size": 3793,
+			"checksum": "sha256:f5994bf6251e2053aa90e17d39279c1eec733a9dec5167954f0de62b3e6d28c4"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 16 - X-Ray Highway.avs",
+			"size": 3176,
+			"checksum": "sha256:50ce6e39bbf6420c2f660c7448bcb41c417a2dd07fbcc4edf8b26881eab19108"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 17 - CCCP 002 (Yathosho Remixed).avs",
+			"size": 2499,
+			"checksum": "sha256:29f40468244b34eb739d2e77eb110f78bcaddd9ca7b03e7b46b1fafc53b62101"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 18 - Interforce.avs",
+			"size": 3127,
+			"checksum": "sha256:a14d7aad35bfb89622536b631c94b0b8686207c06a22eed3bfe20d33776aa767"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 19 - Iterated (AVS-King Remixed).avs",
+			"size": 5503,
+			"checksum": "sha256:3de3e8d3c2fdc3306c2a384e705470348cf1358ddee111a68415258927e9ab30"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 20 - Iterated (AVS-King Remixed) (Lux Remix).avs",
+			"size": 5133,
+			"checksum": "sha256:2c202b24babb097b00287ba18873605502f529038b6b8930e8868b5202c489ae"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 21 - Jellyfish.avs",
+			"size": 5888,
+			"checksum": "sha256:ddb46c6538859721e72401b41b0ced4cda1bdeb7f1cb705aad6f4c895499c496"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 22 - Embossed Earth (Tuggummmi Remixed).avs",
+			"size": 3903,
+			"checksum": "sha256:4d5285da87d31f89a86d23323867e29c8c8b752b46649b120e73632be0f8898a"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 23 - Mono.avs",
+			"size": 3709,
+			"checksum": "sha256:4efa1d52ece320f8b98fb052e2fb3dff0567f1c56f7c55e4dad36992ff7eb4e9"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 24 - Racing.avs",
+			"size": 3891,
+			"checksum": "sha256:3450ca3c35327c3fc410b2353bc1542437537bbf04c4a6da7aa384362eb9bcd8"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 25 - Bacteria (Tuggummi Remixed).avs",
+			"size": 5750,
+			"checksum": "sha256:773251500a775fae9c5787b1fe602e94814e18693513b5f8e782f51fb21f6517"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 26 - Bacteria 002 (Tuggummi Remixed).avs",
+			"size": 5604,
+			"checksum": "sha256:d1981fa97b802f4a3021de1c4dda4705dc9f537e8275aa10c0e9eb6b56868833"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 27 - Fader Session.avs",
+			"size": 4324,
+			"checksum": "sha256:aea53b7d89c25a8da8694bc961899378ebd95772d927f36a15de37741e2fdc40"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 28 - Fader Session 002.avs",
+			"size": 5982,
+			"checksum": "sha256:5933101d87064e6f2fc17b135420e36edf77637b6fef59211f88fada70ba9b36"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 29 - Lens.avs",
+			"size": 4189,
+			"checksum": "sha256:32e7e40374ace80dfa2c57f84b33b211d90d3348a74246632c49538da6380e55"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 30 - Datastream (DanJoe Remix).avs",
+			"size": 4193,
+			"checksum": "sha256:ef3ea6ad33e1e50afd651f93098124d7aee017c2cb6a18b8a941439648502152"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 31 - Loch Ness.avs",
+			"size": 7280,
+			"checksum": "sha256:c1bdcd353e434bcc1738957c7d1802a613127f25c7d841aa12e12c63ac4f3209"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 35 - Deconstruction (Evilrice Remixed).avs",
+			"size": 5125,
+			"checksum": "sha256:85882922129e67c0a1925209ad2a5b86b15e88a26d07da9803e220344c064d0b"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 36 - Real Driving.avs",
+			"size": 16872,
+			"checksum": "sha256:e388d36791d594f19d31d86781151e7cf9dfe174b0da44486416366c64b9a1d9"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 37 - Neon Driving.avs",
+			"size": 16298,
+			"checksum": "sha256:69bbfe72d4a17aa2e8fb9be651a6602f60a9436eb7c05a8d7e125eaf713c8372"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 38 - Dye In The Water (Duo Remixed).avs",
+			"size": 4818,
+			"checksum": "sha256:b3fe81142a90184f6776f296b218e07d4ef94e46a445cf2cd53b8aa575f3eb59"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 38 - Dye In The Water (Duo Remixed)x.avs",
+			"size": 5458,
+			"checksum": "sha256:08ad04fe29c87ea2c7c16b381ee3dd0219faf8f8916027b7ae10681a57369fc9"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 39 - Fishies (High Voltage Remix).avs",
+			"size": 4948,
+			"checksum": "sha256:f07ab15c1621d01ad6a682a6f7a9bbe86ebf54e22b55905a97c4e759fca2ee28"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 40 - Slipstream.avs",
+			"size": 3655,
+			"checksum": "sha256:e470e58ad2484bed4d9586090f949938faa0da64974d4614d147c76488a4da1b"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 41 - Smooth.avs",
+			"size": 3685,
+			"checksum": "sha256:45f3355f7eae08ca045101503dc8649d8425d2c3204fe57404dd4b6ef996e8f7"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 42 - Rejunct.avs",
+			"size": 8489,
+			"checksum": "sha256:24115b3010b048c398ce602a86e3050e7fee1f21ca278ba7420044b32d705e95"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - 43 - Music Hazard.avs",
+			"size": 3868,
+			"checksum": "sha256:b1467123c7e3d7d1b12dc93a96c65e4ea3b28b207046cc26f9bc0dce1a449b08"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5 - Logical/S_KuPeRS - Bonus - Solar System Journey.avs",
+			"size": 16303,
+			"checksum": "sha256:7ca8630f172836469d2592368f91d8996cb3ef40944316ee4c3e20c2b3bbc8d2"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5R - Recycled Logic/Danjoe - Cubist Spectrum (Rmx - Danjoe).avs",
+			"size": 43532,
+			"checksum": "sha256:dce5c0f5c57f9d77bf18256f76779a78e9447a911a07dbaebd754ea08aafc66a"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5R - Recycled Logic/Danjoe - Interforce (Rmx - Danjoe).avs",
+			"size": 3175,
+			"checksum": "sha256:77c8630a07fd294861405714980d70a6e04e06a15b0972672374d16c84c6f5ce"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5R - Recycled Logic/Danjoe - Interforce (Rmx2 - Danjoe).avs",
+			"size": 3158,
+			"checksum": "sha256:6bbfb9125725b66cc3901d77db0381e9a3309ebbf3825e63f3ba71f31b0bb63b"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5R - Recycled Logic/Danjoe - Mono(Rmx - Danjoe).avs",
+			"size": 3725,
+			"checksum": "sha256:a70c96568fae4c8a9819018a27117a00cc1fae2f4d6ae6601c40bab1017657ba"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5R - Recycled Logic/Danjoe - Racing(Rmx -Danjoe).avs",
+			"size": 3879,
+			"checksum": "sha256:44881b8a7522f2c3c4b994a5493456ab5b327897beb80e25cdca4dc16ec3ed2a"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5R - Recycled Logic/Danny - Lens (DAz Review).avs",
+			"size": 4600,
+			"checksum": "sha256:241c095eee319294192ed8aaf403b2a55ade7fd04900709e29d95525f2dacbc5"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5R - Recycled Logic/Danny - Slipstream (DAz Review).avs",
+			"size": 4287,
+			"checksum": "sha256:8e42c7bfa22d8363c8aa89832e85633871a40ded9f075cff1dea6e97829072c3"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5R - Recycled Logic/Danny - UFO Attack (DAz Review).avs",
+			"size": 12176,
+			"checksum": "sha256:1e54a6690ecee08f636ffdc51861cf076c365bc51ec9711a8d11d95b127d9447"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5R - Recycled Logic/Degnic - Lens (New age rmx).avs",
+			"size": 4914,
+			"checksum": "sha256:7fb6a4e4383b6519e89ee985f0102978ed6379b568358fe5cd1cfa6d420b0c31"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5R - Recycled Logic/Degnic - The Milkyworm (a real bughole rmx v2).avs",
+			"size": 3727,
+			"checksum": "sha256:9da6873fa3262f1f3bfb2de5f1053389522d516d03975ab4ab50c9a6f383504d"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5R - Recycled Logic/Degnic - The Milkyworm (a real bughole rmx).avs",
+			"size": 3276,
+			"checksum": "sha256:b67fd97894ba961b728ceab63ec50286da29a1e5b84c17a720099264a717fbf5"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5R - Recycled Logic/Evilrice - Rejunct (evilrice hidden lines remix).avs",
+			"size": 7092,
+			"checksum": "sha256:e5e6b62d343e6d9895f43bcb19325077815a74a226cce8de27a0e59edfae4a24"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5R - Recycled Logic/Evilrice - Smooth (evilrice rock candy remix).avs",
+			"size": 5438,
+			"checksum": "sha256:ade649958e4611be10abdbd910fe1d59134a2b0241fb690cc6bd3d484c7bbd6c"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5R - Recycled Logic/Horse-Fly - Lens (Horse-Fly Mix).avs",
+			"size": 1298,
+			"checksum": "sha256:750e8cee871a4ad065984efcba346a52efdc7755533448c562c16db89b689201"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5R - Recycled Logic/Horse-Fly - Smooth (Horse-Fly Mix).avs",
+			"size": 4042,
+			"checksum": "sha256:f3b4f095e6bf022819baf551865464aa5a35525413750c099ea8a138e624c532"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5R - Recycled Logic/Horse-Fly - To the third (Horse-Fly Mix).avs",
+			"size": 9310,
+			"checksum": "sha256:693a782cf0444053356576c4a7d0e025e438be5d67b34e5739439dfebee00630"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5R - Recycled Logic/jDm - Follow The Light (jDm NolightRMX.avs",
+			"size": 14659,
+			"checksum": "sha256:f3b79cf25b5c01ebb3f06fd6a36db7a983a21ce7b0b86d8a27dfe007cfa4d087"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5R - Recycled Logic/jDm - Interforce (jDm STC-RMX).avs",
+			"size": 3361,
+			"checksum": "sha256:d9eeb4f5ec7333c1e616b79c9c95fe4ed7bfdaad547d482413d1ecf5a8d8d9d8"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5R - Recycled Logic/jDm - To the third (jDm HyperRMX).avs",
+			"size": 9617,
+			"checksum": "sha256:487ade356e1d34fde2b68806e3586e6a2363a623fe0ac78c3d1e8c5d4f5128a5"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5R - Recycled Logic/Montana - gowiththeflow(montana_remix).avs",
+			"size": 4096,
+			"checksum": "sha256:9ef43b35fb13d2629e74b03292e58992fe8aa0e9d10118209df2b2883c367e5a"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5R - Recycled Logic/Montana - mono(montana_remix).avs",
+			"size": 3796,
+			"checksum": "sha256:a19f4e50beb06fd88f7ac7f69c12949e8ffe45aea00bd291ad470dbbf5e2d804"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5R - Recycled Logic/S_KuPeRS - Smooth (Dreamtime Remix).avs",
+			"size": 2819,
+			"checksum": "sha256:c073e343bad16baba3505a506d24f2fcae5de14f7a058f9da84e69a4658057bd"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5R - Recycled Logic/S_KuPeRS - Unreleased - Rainbow City.avs",
+			"size": 6839,
+			"checksum": "sha256:89631611bd4a07db37c377bbefe0aebbc17874130d3b33bc13baa3e75d3d53a4"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5R - Recycled Logic/S_KuPeRS - Unreleased - Rise of the Phoenix.avs",
+			"size": 3253,
+			"checksum": "sha256:0e827e9afc5447bfdba1fda3858f8124feb0fb464239629e713935e87be5c3b7"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP5R - Recycled Logic/Yathosho - Mono Returnz.avs",
+			"size": 1379,
+			"checksum": "sha256:1907e31c6868bf619bfcbc4d614dcaa4ed1fc22fc243d878c339e94dc270ee4e"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP6/00 - Intro.avs",
+			"size": 6783,
+			"checksum": "sha256:9b4c222fdc27da22c8d27b5e2e4fb5faf5be9784c066cd83de7d88d8e71fe2a3"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP6/01 - Curvism.avs",
+			"size": 3418,
+			"checksum": "sha256:89495dd353e7ca4d49699aa0338ef5365cb70badca709a373824de3471ecb61b"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP6/02 - Rainbow Curvism.avs",
+			"size": 3496,
+			"checksum": "sha256:c51d1020380221bf1abf09a35554b4287b1360f041f69efe1a42dd725bb4f964"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP6/03 - X-Ray Curvism.avs",
+			"size": 3430,
+			"checksum": "sha256:487c33d5566f6e2ee722ef1b652b226c91926619f7a10370124fe1162dacf881"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP6/04 - Magstar 002.avs",
+			"size": 4130,
+			"checksum": "sha256:b9c57be6648c96278812d8cbd3c11b42e8d6a609b79a342a395a7700ec26c58c"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP6/05 - Gravity.avs",
+			"size": 12309,
+			"checksum": "sha256:f2be36604791870c5b4e7f9d260d8177225a2cb625c88e0f9b723a57c842d064"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP6/06 - Human Rights (Lens Version).avs",
+			"size": 9139,
+			"checksum": "sha256:aea052ccbfb1b63208f95acd07509c5e437e5be38616e59f1fde8038d885860b"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP6/07 - Starstreaming.avs",
+			"size": 3078,
+			"checksum": "sha256:bc1b7f82684fc460e11ace7ff896db59fc5235e353393f38ec3b1b61f34248fe"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP6/08 - Ad Misericordiam.avs",
+			"size": 2646,
+			"checksum": "sha256:628eac4d6363757764a7ecd2d1d638ae53e9a3f091d5b7882ce4719b33633b8a"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP6/09 - Conceptual 002.avs",
+			"size": 4615,
+			"checksum": "sha256:6b46ff251bf412dd7d23910e13f98c35b971290e72dfba9d03ef1c5e74ca1e99"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP6/10 - Deload.avs",
+			"size": 3333,
+			"checksum": "sha256:9577f0fe3bbeacc496309f403b3f324586b85aaefabdfb581a48bad4a183496c"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP6/11 - Extra Kings.avs",
+			"size": 3198,
+			"checksum": "sha256:743edd67b0785d744a864642299131c348a50527b4449e20864b840ae03032d9"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP6/12 - Metafractal 002.avs",
+			"size": 3385,
+			"checksum": "sha256:529dafed84bc0234afac437623225722b5877388e7b5ca162939182d76adddf9"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP6/13 - Bacterial Flow.avs",
+			"size": 3748,
+			"checksum": "sha256:f14d97a788fd04f8e1548fdbf83e2f3ea86a9edca4ade3d42550b7d0031b0af4"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP6/14 - Firebreather.avs",
+			"size": 3085,
+			"checksum": "sha256:d5012b24959cd31cb262b4990c033ea1fd05ba30572afe70c5ca91b50aef5a35"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP6/15 - Quadralicious 002.avs",
+			"size": 8434,
+			"checksum": "sha256:186516616638597b82deca24feb709832691e9b236d904d053dbccb40b6cf9ed"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP6/16 - Olson.avs",
+			"size": 3405,
+			"checksum": "sha256:90a5bbba67d5967573e757294c90ffe490c799cc939833b61197f7fb50b53525"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP6/17 - Sixtet 002.avs",
+			"size": 3349,
+			"checksum": "sha256:0562ccea913c81ea97b4ed23b63d5b5d24767d9fba7cd0bb078bfec69b162707"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP6/18 - AVS-Kingish.avs",
+			"size": 3125,
+			"checksum": "sha256:2ed5970c07b53cd868a7017ec07c4f1bef90666cc8214520142ae79833eed4da"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP6/19 - Cubist Spectrum 002.avs",
+			"size": 14799,
+			"checksum": "sha256:185f8997d8c6b079b044ce4f863bd85e82f691318fd17db9d52162b3d8aaa5e1"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP6/20 - Riptide.avs",
+			"size": 3496,
+			"checksum": "sha256:9420e02dc72c9e3e1d652b4a3ddcbb57e18e7378662f6f83479f17252e5e5418"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP6/21 - Jherikolicious 002.avs",
+			"size": 3512,
+			"checksum": "sha256:f68fe2ea6af3e670348c75fe92413d3f1c3029a3528cd3d71300b35c09317163"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP6/22 - Vortex.avs",
+			"size": 4340,
+			"checksum": "sha256:80f91dbb151c4c9bfe6bb8681d209fc7d516dd1ac9687cee9d233050620db1e7"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP6/23 - Vortex (Lacris Version).avs",
+			"size": 3938,
+			"checksum": "sha256:cc71a672084fd6bd2b8cc464211ab4d367f7a0c0f5c6a941e8cd94cd6a4775ae"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP6/24 - A Tribute To Degnic.avs",
+			"size": 3598,
+			"checksum": "sha256:bf54491a8781c786ba2664c947285195a1332b70076018d49ab6dbf530ed282b"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP6/25 - Community 002.avs",
+			"size": 3752,
+			"checksum": "sha256:95abdbf8d857948ae77b4a52e23b76a9d0d50e67621f3ead05b99d1705701ed5"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP6/26 - Spiralesque (Atero Remixed).avs",
+			"size": 8943,
+			"checksum": "sha256:559ac63d770c65012815429748acfc0ebce9fd7fdbef719223bd21dc6604d888"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP6/27 - Lastonic Redo (Tonic Remixed).avs",
+			"size": 3325,
+			"checksum": "sha256:c6af921ff3fb40a8e90c3c49cd66dcc7919da3a281d54e74ddee0f3f0bbf77fc"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP6/28 - Iconoclasmic.avs",
+			"size": 3467,
+			"checksum": "sha256:6103da5f688e48b7b374c5e16ea8253724f81222f56d5f34236b8236646a7037"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP6/29 - Genome Travel.avs",
+			"size": 4489,
+			"checksum": "sha256:2e4bdff1f691345fda3b979fed6edad4eeb79508923132ead59bdef56a2b69c3"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP6/30 - Stylized.avs",
+			"size": 3092,
+			"checksum": "sha256:38fb9e5fe9d9b849230cdfb4fa2cb4af21a6512d738fc910ab510aa3cdc5abcb"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP6/31 - Destylized.avs",
+			"size": 3456,
+			"checksum": "sha256:c8e194d5b3c30e25ce2362dbb18c5a9460ab410dccfd0b916b29f99b934904cc"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP6/32 - Restylized.avs",
+			"size": 3396,
+			"checksum": "sha256:5da94f1f147382a7d8085ebdf69b932d95f035c84cc28bf79f37b8abd56144ad"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP6/33 - Electricity Like Before.avs",
+			"size": 4810,
+			"checksum": "sha256:8075eb7c155633c8549fc975c7e5cb18f6de8ccec6073a3f8dd8546c0a962b7a"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP6/34 - Texering 002.avs",
+			"size": 6562,
+			"checksum": "sha256:049ebabf91ff23deeceb30e3ae261a8389e04860d5eca9639be2818256df6245"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP6/35 - Endotherm (Fire).avs",
+			"size": 8499,
+			"checksum": "sha256:317d840e28f24978e5de07bcc91e7ec786e913eb2a8597b973e2e82d84ecd611"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP6/36 - Endotherm (Ice).avs",
+			"size": 8152,
+			"checksum": "sha256:b92aaadc72de503355663e89b93f64c8bf42ff33a333f715dc67af8fe0dc9812"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP6/37 - Endotherm (Rainbow).avs",
+			"size": 8616,
+			"checksum": "sha256:ca5e603eec08f8f5430b3f3aebae78babfff4d3ae53d5c0ad45aeb011a8852cc"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP6/38 - Endotherm (BW).avs",
+			"size": 3745,
+			"checksum": "sha256:85a9ecaa7e586a42fc997981cb675b45894a49bc6f93e8793818bba6737782c0"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP6/39 - Au Revoir et Bon Voyage.avs",
+			"size": 4927,
+			"checksum": "sha256:28e1e7eb1ab5ff99a5a061a8c4e26f4a1df9f17d5d7ccc1e2e31c74427c4cdf2"
+		}
+	],
+	"assets": [
+		{
+			"file": "skupers_lp6_01.bmp",
+			"size": 776,
+			"checksum": "sha256:27bdda462dfec5cea6f702611fdc5df24255ae076c64fd214544b75561771339"
+		},
+		{
+			"file": "skupers_lp6_02.bmp",
+			"size": 10856,
+			"checksum": "sha256:aaeb13486d7082c888a556012a3ea574dc4c651b01510ae9722a1ce184f8fd03"
+		},
+		{
+			"file": "bitdust2.ttf",
+			"size": 39352,
+			"checksum": "sha256:7f16108d1943d4063cd4499598139ae72e926e2934c565474c59b69641bd23ae"
+		}
+	],
+	"plugins": ["ChannelShift", "ColorMap", "ColorReduction", "ConvolutionFilter", "Multiplier", "Texer"]
 }

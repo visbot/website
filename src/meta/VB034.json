@@ -1,29 +1,27 @@
 {
-    "name": "CO-OP Session 02",
-    "id": "VB034",
-    "presets": [
-        {
-            "file": "CO-OP Sessions/CO-OP Session 02/a1 yathosho - my crown jewels, show me yours!.avs",
-            "size": 1603,
-            "checksum": "sha256:5465ec608aa371cff49fdc298e9305def0d858ce70a3eaeaa5c2293d940481f8"
-        },
-        {
-            "file": "CO-OP Sessions/CO-OP Session 02/a2 zamuz - my alien jewels.avs",
-            "size": 2154,
-            "checksum": "sha256:f74683d13a1f83acbbc8f4622da7fbd02bda542417745784cfbaf26a4d32952a"
-        },
-        {
-            "file": "CO-OP Sessions/CO-OP Session 02/b1 zamuz - blooming.avs",
-            "size": 2765,
-            "checksum": "sha256:fe3d44f3c5f72f7feb420424910a886762a476f353549cc6cc1ff8cc2a35f6cd"
-        },
-        {
-            "file": "CO-OP Sessions/CO-OP Session 02/b2 yathosho - where the deuce did the flowers go.avs",
-            "size": 1405,
-            "checksum": "sha256:780ff53e8fd7ef1d5e65c20de5e6c0c8f3a3b98c4caa31a1609838ffb7121976"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "CO-OP Session 02",
+	"id": "VB034",
+	"presets": [
+		{
+			"file": "CO-OP Sessions/CO-OP Session 02/a1 yathosho - my crown jewels, show me yours!.avs",
+			"size": 1603,
+			"checksum": "sha256:5465ec608aa371cff49fdc298e9305def0d858ce70a3eaeaa5c2293d940481f8"
+		},
+		{
+			"file": "CO-OP Sessions/CO-OP Session 02/a2 zamuz - my alien jewels.avs",
+			"size": 2154,
+			"checksum": "sha256:f74683d13a1f83acbbc8f4622da7fbd02bda542417745784cfbaf26a4d32952a"
+		},
+		{
+			"file": "CO-OP Sessions/CO-OP Session 02/b1 zamuz - blooming.avs",
+			"size": 2765,
+			"checksum": "sha256:fe3d44f3c5f72f7feb420424910a886762a476f353549cc6cc1ff8cc2a35f6cd"
+		},
+		{
+			"file": "CO-OP Sessions/CO-OP Session 02/b2 yathosho - where the deuce did the flowers go.avs",
+			"size": 1405,
+			"checksum": "sha256:780ff53e8fd7ef1d5e65c20de5e6c0c8f3a3b98c4caa31a1609838ffb7121976"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

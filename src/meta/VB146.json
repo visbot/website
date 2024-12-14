@@ -1,111 +1,107 @@
 {
-    "name": "VISBOT New People Selection Vol 5",
-    "id": "VB146",
-    "presets": [
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 5/01 denkensiefursich - music television.avs",
-            "size": 3963,
-            "checksum": "sha256:e8749c90aadaef9b21519552de083103dad92170e9c796524fb15e06695dd2af"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 5/02 duo - warm freeform (mykal remix).avs",
-            "size": 2429,
-            "checksum": "sha256:46ad6e11131d0e7ad959155d000c3cd974e52d1f3097e4b6ee2eed36d897997a"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 5/03 meaningless existance - supermwork.avs",
-            "size": 2436,
-            "checksum": "sha256:ead78550ebeec972fe883ee1847c039d3cc538a37748a866f63bb0508be8a863"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 5/04 pure-krypton - skin (edit).avs",
-            "size": 2520,
-            "checksum": "sha256:5d75f3efd1465ee9a45f4d9cdcd47bd2b566130a3de88129d6303c9f18b0b155"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 5/05 javs - the x flavour.avs",
-            "size": 3286,
-            "checksum": "sha256:4706a314b3474387d0987dd97e16b14294d3e1ef67553788e7695a3e11142d95"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 5/06 mykal -  ...then let go.avs",
-            "size": 1923,
-            "checksum": "sha256:1bc7608842640c4c4e9b601a670142bcb01a08afa2047092f0e4ef9028ebf7f7"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 5/07 viskey - cloned 2.avs",
-            "size": 2123,
-            "checksum": "sha256:aaaf1c3748b88d6b0ea182c9fc34f044e553054de1fe92f4cc76d150d1df4603"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 5/08 drew - downtown detroit (degnic remix).avs",
-            "size": 5232,
-            "checksum": "sha256:d1490a5357a75ea9baf31eb270b7573a145dd81a6dec742849901177bcc4db0d"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 5/09 dynamic duo - carousel (tooblai's twin flower mix).avs",
-            "size": 6114,
-            "checksum": "sha256:8a45b8a461e7012ef876c67523a3ed8edeff9d7b93c8ccbb0e599704b7d79e6f"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 5/10 tuggummi & zamuz - tricked happiness (denkensiefursich mash-up).avs",
-            "size": 6467,
-            "checksum": "sha256:58a6b61d0daf911df122947b4d174ead33103deabd733d3d050e7f7657761995"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 5/11 pan am - silkworm (pan am remix).avs",
-            "size": 2895,
-            "checksum": "sha256:580840c657a3db5f06ee48c0f7e1d34dcb757b553120348fb50f7313d6bafa01"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 5/12 drew - spanish caravan.avs",
-            "size": 2094,
-            "checksum": "sha256:91c856d21fbbe9f13390eb5c18ae7502e33ce8ad48481fc43d7789a10dd68618"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 5/13 javs - dark mixed ink.avs",
-            "size": 3217,
-            "checksum": "sha256:eec5cc7a0a3affb0c5d21892e0f227157b611cbf5fbec5e39f844a6c18877203"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 5/14 mykal - blossom (pay your respect to the vultures remix by frames.of.reality).avs",
-            "size": 5314,
-            "checksum": "sha256:0dbed032be4afd3d539b545d754df4364bdb0e89f7a28ed45f34f46d14f49b9f"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 5/15 meaningless existance - cough e.avs",
-            "size": 3716,
-            "checksum": "sha256:ad6592afcaa0175681b99a5d35bc525bdab4cd004e08cfe6ee9a30e813c76934"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 5/16 asd5a - ambiente (bayrisch blau remix by ^..^).avs",
-            "size": 6372,
-            "checksum": "sha256:218d66cd3b53602f2e38859f4e16d5d5594b17532202811e7306c52c20d3d580"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 5/17 viskey - let's build a scope.avs",
-            "size": 20953,
-            "checksum": "sha256:36769dd0442a376d429d575dc3bd1ca80a857b729b5f78d645acbceedabdd3aa"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 5/18 duo - cafe de duo (vanish's wicked jungle massive remix).avs",
-            "size": 3832,
-            "checksum": "sha256:73456e3353873197fdec51054c5de2ac9176d9eff0a3c51e26c0f6eb7f0cf2d4"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 5/19 mr nudge - ikineth.avs",
-            "size": 3797,
-            "checksum": "sha256:1937752c5e7a19367841574799418dfa5cb0cf02b0a8586c6f8c9c7f77d5d28e"
-        },
-        {
-            "file": "VISBOT/VISBOT New People Selection Vol 5/20 helioz - kasparov's bumpin' (les Noobiens ip-op mix).avs",
-            "size": 7587,
-            "checksum": "sha256:4b1ca75b7a76496c50b741232f037cdc4329e937f7ff2b3897362255e7ee5ac6"
-        }
-    ],
-    "plugins": [
-        "AddBorder",
-        "ConvolutionFilter",
-        "GlobalVarMan"
-    ]
+	"name": "VISBOT New People Selection Vol 5",
+	"id": "VB146",
+	"presets": [
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 5/01 denkensiefursich - music television.avs",
+			"size": 3963,
+			"checksum": "sha256:e8749c90aadaef9b21519552de083103dad92170e9c796524fb15e06695dd2af"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 5/02 duo - warm freeform (mykal remix).avs",
+			"size": 2429,
+			"checksum": "sha256:46ad6e11131d0e7ad959155d000c3cd974e52d1f3097e4b6ee2eed36d897997a"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 5/03 meaningless existance - supermwork.avs",
+			"size": 2436,
+			"checksum": "sha256:ead78550ebeec972fe883ee1847c039d3cc538a37748a866f63bb0508be8a863"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 5/04 pure-krypton - skin (edit).avs",
+			"size": 2520,
+			"checksum": "sha256:5d75f3efd1465ee9a45f4d9cdcd47bd2b566130a3de88129d6303c9f18b0b155"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 5/05 javs - the x flavour.avs",
+			"size": 3286,
+			"checksum": "sha256:4706a314b3474387d0987dd97e16b14294d3e1ef67553788e7695a3e11142d95"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 5/06 mykal -  ...then let go.avs",
+			"size": 1923,
+			"checksum": "sha256:1bc7608842640c4c4e9b601a670142bcb01a08afa2047092f0e4ef9028ebf7f7"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 5/07 viskey - cloned 2.avs",
+			"size": 2123,
+			"checksum": "sha256:aaaf1c3748b88d6b0ea182c9fc34f044e553054de1fe92f4cc76d150d1df4603"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 5/08 drew - downtown detroit (degnic remix).avs",
+			"size": 5232,
+			"checksum": "sha256:d1490a5357a75ea9baf31eb270b7573a145dd81a6dec742849901177bcc4db0d"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 5/09 dynamic duo - carousel (tooblai's twin flower mix).avs",
+			"size": 6114,
+			"checksum": "sha256:8a45b8a461e7012ef876c67523a3ed8edeff9d7b93c8ccbb0e599704b7d79e6f"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 5/10 tuggummi & zamuz - tricked happiness (denkensiefursich mash-up).avs",
+			"size": 6467,
+			"checksum": "sha256:58a6b61d0daf911df122947b4d174ead33103deabd733d3d050e7f7657761995"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 5/11 pan am - silkworm (pan am remix).avs",
+			"size": 2895,
+			"checksum": "sha256:580840c657a3db5f06ee48c0f7e1d34dcb757b553120348fb50f7313d6bafa01"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 5/12 drew - spanish caravan.avs",
+			"size": 2094,
+			"checksum": "sha256:91c856d21fbbe9f13390eb5c18ae7502e33ce8ad48481fc43d7789a10dd68618"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 5/13 javs - dark mixed ink.avs",
+			"size": 3217,
+			"checksum": "sha256:eec5cc7a0a3affb0c5d21892e0f227157b611cbf5fbec5e39f844a6c18877203"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 5/14 mykal - blossom (pay your respect to the vultures remix by frames.of.reality).avs",
+			"size": 5314,
+			"checksum": "sha256:0dbed032be4afd3d539b545d754df4364bdb0e89f7a28ed45f34f46d14f49b9f"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 5/15 meaningless existance - cough e.avs",
+			"size": 3716,
+			"checksum": "sha256:ad6592afcaa0175681b99a5d35bc525bdab4cd004e08cfe6ee9a30e813c76934"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 5/16 asd5a - ambiente (bayrisch blau remix by ^..^).avs",
+			"size": 6372,
+			"checksum": "sha256:218d66cd3b53602f2e38859f4e16d5d5594b17532202811e7306c52c20d3d580"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 5/17 viskey - let's build a scope.avs",
+			"size": 20953,
+			"checksum": "sha256:36769dd0442a376d429d575dc3bd1ca80a857b729b5f78d645acbceedabdd3aa"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 5/18 duo - cafe de duo (vanish's wicked jungle massive remix).avs",
+			"size": 3832,
+			"checksum": "sha256:73456e3353873197fdec51054c5de2ac9176d9eff0a3c51e26c0f6eb7f0cf2d4"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 5/19 mr nudge - ikineth.avs",
+			"size": 3797,
+			"checksum": "sha256:1937752c5e7a19367841574799418dfa5cb0cf02b0a8586c6f8c9c7f77d5d28e"
+		},
+		{
+			"file": "VISBOT/VISBOT New People Selection Vol 5/20 helioz - kasparov's bumpin' (les Noobiens ip-op mix).avs",
+			"size": 7587,
+			"checksum": "sha256:4b1ca75b7a76496c50b741232f037cdc4329e937f7ff2b3897362255e7ee5ac6"
+		}
+	],
+	"plugins": ["AddBorder", "ConvolutionFilter", "GlobalVarMan"]
 }

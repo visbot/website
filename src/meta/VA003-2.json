@@ -1,160 +1,154 @@
 {
-    "name": "I wanna be Frank Nagel too",
-    "id": "VA003-2",
-    "presets": [
-        {
-            "file": "I wanna be Frank Nagel too/amphirion - picasso force.avs",
-            "size": 2681,
-            "checksum": "sha256:31680aa6c14d95c1ffcca6f0685e9bc5904f480b8f077b3a8da0aafe7c1896f8"
-        },
-        {
-            "file": "I wanna be Frank Nagel too/amphirion - radicals strike.avs",
-            "size": 5752,
-            "checksum": "sha256:df9dcdc1475fef4e9a2e60dda042c921ecab659f6d320b5ef2d4dd53482ae12a"
-        },
-        {
-            "file": "I wanna be Frank Nagel too/dynamic duo - all that hippie shit.avs",
-            "size": 2362,
-            "checksum": "sha256:581ae33e35cbf0da665579ff64c422572d24343403969ebaf94cf0bfd64f2723"
-        },
-        {
-            "file": "I wanna be Frank Nagel too/dynamic duo - german tv (urban breakdown remix).avs",
-            "size": 3024,
-            "checksum": "sha256:25334429c3d3eb6990fd6798887b19274cf0de3bc3b84c65d089b1f62ea210bb"
-        },
-        {
-            "file": "I wanna be Frank Nagel too/fragmer -  modern living ii (storm mix).avs",
-            "size": 13759,
-            "checksum": "sha256:c3ac43a3e2543d0661c35651e11601d55676d7e8887ed9977899b0f1fb83f951"
-        },
-        {
-            "file": "I wanna be Frank Nagel too/fragmer - galaxy (nebula edit).avs",
-            "size": 4480,
-            "checksum": "sha256:df54ffed743824b6d32e1427e9059ec26216ecfee4ebd0cb477b9c3a51986e9b"
-        },
-        {
-            "file": "I wanna be Frank Nagel too/frames of reality - if you want blood (reign in blood).avs",
-            "size": 6258,
-            "checksum": "sha256:a3e1a40e4a4fbb12a3b3dc2a3a50691df5df38aa80940e56d4979b6bf1d056c9"
-        },
-        {
-            "file": "I wanna be Frank Nagel too/frames of reality - neoncube (shadows of the past).avs",
-            "size": 7489,
-            "checksum": "sha256:3017187150390a4e37f8d2a381eca7fb0169a1d88420af78ae88d8b266d7ef4a"
-        },
-        {
-            "file": "I wanna be Frank Nagel too/fsk - afterburner remix.avs",
-            "size": 23727,
-            "checksum": "sha256:6dcd381c8562efc73b1f01578f15ded43acfb6e2e36aa77595cc7b5744221827"
-        },
-        {
-            "file": "I wanna be Frank Nagel too/hboy - molecules (rocky remix).avs",
-            "size": 6134,
-            "checksum": "sha256:a38334c870fc810f153b6b61c98e3682226c89e4bd901f28c9d78a230cecb628"
-        },
-        {
-            "file": "I wanna be Frank Nagel too/hboy - the fog (mystical remix).avs",
-            "size": 1460,
-            "checksum": "sha256:5f17ad25c85213a9eb8c430446b7f3fac914bda5c106e5549791153d557337c6"
-        },
-        {
-            "file": "I wanna be Frank Nagel too/les Noobiens - give 'em enough scope.avs",
-            "size": 29528,
-            "checksum": "sha256:6b3a7896cd0d20be9706f1819cb4be01da623b968902f4194d44a1f773f04b03"
-        },
-        {
-            "file": "I wanna be Frank Nagel too/les Noobiens - virus002 (rework).avs",
-            "size": 3030,
-            "checksum": "sha256:f5eac67952de7ff9c88350a1e589e7e8639b800a0ccb08a3e8cebd130fb11b87"
-        },
-        {
-            "file": "I wanna be Frank Nagel too/montana - goingdown (update mix).avs",
-            "size": 2500,
-            "checksum": "sha256:c1746456b658516725656a13a60baec97e57aadf9e9b2155b2d811ab4466488a"
-        },
-        {
-            "file": "I wanna be Frank Nagel too/montana - gradientspectrum (neon acid mix).avs",
-            "size": 3629,
-            "checksum": "sha256:0c06d239cec0f9dc1f8e6a680c270568b61b37db1d6250da0125bd2e1f7a98d0"
-        },
-        {
-            "file": "I wanna be Frank Nagel too/p-k - going down.avs",
-            "size": 2873,
-            "checksum": "sha256:0717f0cb4d7431c44892b2d79168e84f43cc1a2d83be9151b60dc6c46c6a9471"
-        },
-        {
-            "file": "I wanna be Frank Nagel too/p-k - liquids.avs",
-            "size": 2395,
-            "checksum": "sha256:42c53b0711c9bcd13021d7b196a3ca005a83255c40402aa30a8140c3b0d6d2e5"
-        },
-        {
-            "file": "I wanna be Frank Nagel too/pishiru - giger k.avs",
-            "size": 4061,
-            "checksum": "sha256:928ac777691d7bfbae158b6933221f7db9420b288b6835a3fe88aac4a7a189c6"
-        },
-        {
-            "file": "I wanna be Frank Nagel too/pishiru - painting soundscapes.avs",
-            "size": 3224,
-            "checksum": "sha256:4d35975a0188d2ef71582738502a5e5cb75130590ab13473c26a1518366f8d6d"
-        },
-        {
-            "file": "I wanna be Frank Nagel too/s_kupers - burn (baby burn remix).avs",
-            "size": 5113,
-            "checksum": "sha256:193afc0fa03cc71f8fb41a2eb64f8263bb9f9f5fffc4feb54f79569306072c92"
-        },
-        {
-            "file": "I wanna be Frank Nagel too/s_kupers - orb (fm science remix).avs",
-            "size": 3311,
-            "checksum": "sha256:1eb164f578d436057716080b94f4d449013e360373ddc881adff3daca12f04ee"
-        },
-        {
-            "file": "I wanna be Frank Nagel too/synth-c - going down.avs",
-            "size": 6717,
-            "checksum": "sha256:9f2648106bf0d32d44ffa3169cb5553a13f600c7fad543b344c2375b25dffc9e"
-        },
-        {
-            "file": "I wanna be Frank Nagel too/synth-c - orbits.avs",
-            "size": 48269,
-            "checksum": "sha256:61bd9cda2551ecb932e57bd360b8b8c8d518d67cc57107d819df0684a600aee0"
-        },
-        {
-            "file": "I wanna be Frank Nagel too/yathosho - ..as life goes on (v.i.p.).avs",
-            "size": 11229,
-            "checksum": "sha256:04fa437b0c75b3d1abce02930e581a7ff6bf6e11cb1bcdd06002c76910ff89d7"
-        },
-        {
-            "file": "I wanna be Frank Nagel too/yathosho - drowning on your tongue.avs",
-            "size": 2359,
-            "checksum": "sha256:87db76b293e2dd8e08e2ba9e78746b28e4d1e6d0aaa84adb79769f4ddf332b01"
-        },
-        {
-            "file": "I wanna be Frank Nagel too/zamuz - oriental (south american remix).avs",
-            "size": 10895,
-            "checksum": "sha256:79228cbd58d0d505d5ea60d3da404c0b0418d05efbad0ce1d94c8fbf50f11ada"
-        },
-        {
-            "file": "I wanna be Frank Nagel too/zamuz - the fog (modern art remix).avs",
-            "size": 2847,
-            "checksum": "sha256:0a65c3f69a6bc953360a34465d51826e85a3c42f4c0f05289e25dbc5e1716d23"
-        }
-    ],
-    "assets": [
-        {
-            "file": "synth_001.bmp",
-            "size": 2678,
-            "checksum": "sha256:1300798c72afe1189e60e579f3a5d0b5ebefdc2e8e19c15f68acd393a82f5b8c"
-        },
-        {
-            "file": "synth_control.bmp",
-            "size": 5358,
-            "checksum": "sha256:73605559f57c4bb9274026286f36da79d47c814dcf369b458975983b50974109"
-        }
-    ],
-    "plugins": [
-        "BufferBlend",
-        "ConvolutionFilter",
-        "GlobalVarMan",
-        "MultiFilter",
-        "Triangle"
-    ]
+	"name": "I wanna be Frank Nagel too",
+	"id": "VA003-2",
+	"presets": [
+		{
+			"file": "I wanna be Frank Nagel too/amphirion - picasso force.avs",
+			"size": 2681,
+			"checksum": "sha256:31680aa6c14d95c1ffcca6f0685e9bc5904f480b8f077b3a8da0aafe7c1896f8"
+		},
+		{
+			"file": "I wanna be Frank Nagel too/amphirion - radicals strike.avs",
+			"size": 5752,
+			"checksum": "sha256:df9dcdc1475fef4e9a2e60dda042c921ecab659f6d320b5ef2d4dd53482ae12a"
+		},
+		{
+			"file": "I wanna be Frank Nagel too/dynamic duo - all that hippie shit.avs",
+			"size": 2362,
+			"checksum": "sha256:581ae33e35cbf0da665579ff64c422572d24343403969ebaf94cf0bfd64f2723"
+		},
+		{
+			"file": "I wanna be Frank Nagel too/dynamic duo - german tv (urban breakdown remix).avs",
+			"size": 3024,
+			"checksum": "sha256:25334429c3d3eb6990fd6798887b19274cf0de3bc3b84c65d089b1f62ea210bb"
+		},
+		{
+			"file": "I wanna be Frank Nagel too/fragmer -  modern living ii (storm mix).avs",
+			"size": 13759,
+			"checksum": "sha256:c3ac43a3e2543d0661c35651e11601d55676d7e8887ed9977899b0f1fb83f951"
+		},
+		{
+			"file": "I wanna be Frank Nagel too/fragmer - galaxy (nebula edit).avs",
+			"size": 4480,
+			"checksum": "sha256:df54ffed743824b6d32e1427e9059ec26216ecfee4ebd0cb477b9c3a51986e9b"
+		},
+		{
+			"file": "I wanna be Frank Nagel too/frames of reality - if you want blood (reign in blood).avs",
+			"size": 6258,
+			"checksum": "sha256:a3e1a40e4a4fbb12a3b3dc2a3a50691df5df38aa80940e56d4979b6bf1d056c9"
+		},
+		{
+			"file": "I wanna be Frank Nagel too/frames of reality - neoncube (shadows of the past).avs",
+			"size": 7489,
+			"checksum": "sha256:3017187150390a4e37f8d2a381eca7fb0169a1d88420af78ae88d8b266d7ef4a"
+		},
+		{
+			"file": "I wanna be Frank Nagel too/fsk - afterburner remix.avs",
+			"size": 23727,
+			"checksum": "sha256:6dcd381c8562efc73b1f01578f15ded43acfb6e2e36aa77595cc7b5744221827"
+		},
+		{
+			"file": "I wanna be Frank Nagel too/hboy - molecules (rocky remix).avs",
+			"size": 6134,
+			"checksum": "sha256:a38334c870fc810f153b6b61c98e3682226c89e4bd901f28c9d78a230cecb628"
+		},
+		{
+			"file": "I wanna be Frank Nagel too/hboy - the fog (mystical remix).avs",
+			"size": 1460,
+			"checksum": "sha256:5f17ad25c85213a9eb8c430446b7f3fac914bda5c106e5549791153d557337c6"
+		},
+		{
+			"file": "I wanna be Frank Nagel too/les Noobiens - give 'em enough scope.avs",
+			"size": 29528,
+			"checksum": "sha256:6b3a7896cd0d20be9706f1819cb4be01da623b968902f4194d44a1f773f04b03"
+		},
+		{
+			"file": "I wanna be Frank Nagel too/les Noobiens - virus002 (rework).avs",
+			"size": 3030,
+			"checksum": "sha256:f5eac67952de7ff9c88350a1e589e7e8639b800a0ccb08a3e8cebd130fb11b87"
+		},
+		{
+			"file": "I wanna be Frank Nagel too/montana - goingdown (update mix).avs",
+			"size": 2500,
+			"checksum": "sha256:c1746456b658516725656a13a60baec97e57aadf9e9b2155b2d811ab4466488a"
+		},
+		{
+			"file": "I wanna be Frank Nagel too/montana - gradientspectrum (neon acid mix).avs",
+			"size": 3629,
+			"checksum": "sha256:0c06d239cec0f9dc1f8e6a680c270568b61b37db1d6250da0125bd2e1f7a98d0"
+		},
+		{
+			"file": "I wanna be Frank Nagel too/p-k - going down.avs",
+			"size": 2873,
+			"checksum": "sha256:0717f0cb4d7431c44892b2d79168e84f43cc1a2d83be9151b60dc6c46c6a9471"
+		},
+		{
+			"file": "I wanna be Frank Nagel too/p-k - liquids.avs",
+			"size": 2395,
+			"checksum": "sha256:42c53b0711c9bcd13021d7b196a3ca005a83255c40402aa30a8140c3b0d6d2e5"
+		},
+		{
+			"file": "I wanna be Frank Nagel too/pishiru - giger k.avs",
+			"size": 4061,
+			"checksum": "sha256:928ac777691d7bfbae158b6933221f7db9420b288b6835a3fe88aac4a7a189c6"
+		},
+		{
+			"file": "I wanna be Frank Nagel too/pishiru - painting soundscapes.avs",
+			"size": 3224,
+			"checksum": "sha256:4d35975a0188d2ef71582738502a5e5cb75130590ab13473c26a1518366f8d6d"
+		},
+		{
+			"file": "I wanna be Frank Nagel too/s_kupers - burn (baby burn remix).avs",
+			"size": 5113,
+			"checksum": "sha256:193afc0fa03cc71f8fb41a2eb64f8263bb9f9f5fffc4feb54f79569306072c92"
+		},
+		{
+			"file": "I wanna be Frank Nagel too/s_kupers - orb (fm science remix).avs",
+			"size": 3311,
+			"checksum": "sha256:1eb164f578d436057716080b94f4d449013e360373ddc881adff3daca12f04ee"
+		},
+		{
+			"file": "I wanna be Frank Nagel too/synth-c - going down.avs",
+			"size": 6717,
+			"checksum": "sha256:9f2648106bf0d32d44ffa3169cb5553a13f600c7fad543b344c2375b25dffc9e"
+		},
+		{
+			"file": "I wanna be Frank Nagel too/synth-c - orbits.avs",
+			"size": 48269,
+			"checksum": "sha256:61bd9cda2551ecb932e57bd360b8b8c8d518d67cc57107d819df0684a600aee0"
+		},
+		{
+			"file": "I wanna be Frank Nagel too/yathosho - ..as life goes on (v.i.p.).avs",
+			"size": 11229,
+			"checksum": "sha256:04fa437b0c75b3d1abce02930e581a7ff6bf6e11cb1bcdd06002c76910ff89d7"
+		},
+		{
+			"file": "I wanna be Frank Nagel too/yathosho - drowning on your tongue.avs",
+			"size": 2359,
+			"checksum": "sha256:87db76b293e2dd8e08e2ba9e78746b28e4d1e6d0aaa84adb79769f4ddf332b01"
+		},
+		{
+			"file": "I wanna be Frank Nagel too/zamuz - oriental (south american remix).avs",
+			"size": 10895,
+			"checksum": "sha256:79228cbd58d0d505d5ea60d3da404c0b0418d05efbad0ce1d94c8fbf50f11ada"
+		},
+		{
+			"file": "I wanna be Frank Nagel too/zamuz - the fog (modern art remix).avs",
+			"size": 2847,
+			"checksum": "sha256:0a65c3f69a6bc953360a34465d51826e85a3c42f4c0f05289e25dbc5e1716d23"
+		}
+	],
+	"assets": [
+		{
+			"file": "synth_001.bmp",
+			"size": 2678,
+			"checksum": "sha256:1300798c72afe1189e60e579f3a5d0b5ebefdc2e8e19c15f68acd393a82f5b8c"
+		},
+		{
+			"file": "synth_control.bmp",
+			"size": 5358,
+			"checksum": "sha256:73605559f57c4bb9274026286f36da79d47c814dcf369b458975983b50974109"
+		}
+	],
+	"plugins": ["BufferBlend", "ConvolutionFilter", "GlobalVarMan", "MultiFilter", "Triangle"]
 }

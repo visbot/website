@@ -1,39 +1,37 @@
 {
-    "name": "whyEye.org grim3",
-    "id": "VB167",
-    "presets": [
-        {
-            "file": "whyEye.org/whyEye.org grim3/yiA1 dynamic duo - chromatics (yathoshos -himmel über moskau- arrangement).avs",
-            "size": 6365,
-            "checksum": "sha256:07f3ebe5a45d23efe99f78139b305303f89e48a07dd57d1d2e7de9dec258e6cb"
-        },
-        {
-            "file": "whyEye.org/whyEye.org grim3/yiA2 yathosho  - plastica (dub).avs",
-            "size": 3711,
-            "checksum": "sha256:055feea6b8a80153b4e5a61b7c1329b989f97e2f639cda65b3aa214bc24ba9a1"
-        },
-        {
-            "file": "whyEye.org/whyEye.org grim3/yiA3 hboy - constellation (yathosho's -where the toad sits- rework).avs",
-            "size": 9649,
-            "checksum": "sha256:e5a119875663cac5fe241e9eebb6cb567ad120707158dfc82ad7f0657e352a57"
-        },
-        {
-            "file": "whyEye.org/whyEye.org grim3/yiB1 elvis - dreamtime (yathosho's 2nd time rework).avs",
-            "size": 13116,
-            "checksum": "sha256:dbf131d69c9ff51c35715ee854759a6270d56aba5b60740583ea3631eebc58e3"
-        },
-        {
-            "file": "whyEye.org/whyEye.org grim3/yiB2 dynamic duo - jet down to it (yathosho's smoke lung).avs",
-            "size": 5565,
-            "checksum": "sha256:12e1cf521f9884246b5ac2b10452a03440e2ee31be8847a81188e0dd3209f851"
-        },
-        {
-            "file": "whyEye.org/whyEye.org grim3/yiB3 frames.of.reality - softness (yathosho's nostromo-ii rework).avs",
-            "size": 3982,
-            "checksum": "sha256:e93b6a8a1e284b05ba63f9db1515444fb3cd3b865ffcf2301731c019579f9247"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "whyEye.org grim3",
+	"id": "VB167",
+	"presets": [
+		{
+			"file": "whyEye.org/whyEye.org grim3/yiA1 dynamic duo - chromatics (yathoshos -himmel über moskau- arrangement).avs",
+			"size": 6365,
+			"checksum": "sha256:07f3ebe5a45d23efe99f78139b305303f89e48a07dd57d1d2e7de9dec258e6cb"
+		},
+		{
+			"file": "whyEye.org/whyEye.org grim3/yiA2 yathosho  - plastica (dub).avs",
+			"size": 3711,
+			"checksum": "sha256:055feea6b8a80153b4e5a61b7c1329b989f97e2f639cda65b3aa214bc24ba9a1"
+		},
+		{
+			"file": "whyEye.org/whyEye.org grim3/yiA3 hboy - constellation (yathosho's -where the toad sits- rework).avs",
+			"size": 9649,
+			"checksum": "sha256:e5a119875663cac5fe241e9eebb6cb567ad120707158dfc82ad7f0657e352a57"
+		},
+		{
+			"file": "whyEye.org/whyEye.org grim3/yiB1 elvis - dreamtime (yathosho's 2nd time rework).avs",
+			"size": 13116,
+			"checksum": "sha256:dbf131d69c9ff51c35715ee854759a6270d56aba5b60740583ea3631eebc58e3"
+		},
+		{
+			"file": "whyEye.org/whyEye.org grim3/yiB2 dynamic duo - jet down to it (yathosho's smoke lung).avs",
+			"size": 5565,
+			"checksum": "sha256:12e1cf521f9884246b5ac2b10452a03440e2ee31be8847a81188e0dd3209f851"
+		},
+		{
+			"file": "whyEye.org/whyEye.org grim3/yiB3 frames.of.reality - softness (yathosho's nostromo-ii rework).avs",
+			"size": 3982,
+			"checksum": "sha256:e93b6a8a1e284b05ba63f9db1515444fb3cd3b865ffcf2301731c019579f9247"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

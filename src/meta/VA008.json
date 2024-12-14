@@ -1,268 +1,268 @@
 {
-    "name": "Seramony",
-    "id": "VA008",
-    "presets": [
-        {
-            "file": "NemoOrange/Seramony/01 - The Originals/01 nemo - en la primavera.avs",
-            "size": 2368,
-            "checksum": "sha256:c0f0ded369533ae468c47b1bd18c23ebf13f8645021066de41083723b9870e27"
-        },
-        {
-            "file": "NemoOrange/Seramony/01 - The Originals/02 nemo - building blocks.avs",
-            "size": 2468,
-            "checksum": "sha256:ff088eed56eb64762cf3e8e59b75bd0742aa1cdf5c7b81b99e2322a654a9559f"
-        },
-        {
-            "file": "NemoOrange/Seramony/01 - The Originals/03 nemo - downtown.avs",
-            "size": 7192,
-            "checksum": "sha256:a1c5b513278af531f9d7150f74f1416d36ea2f5407584901eacc5084a590630c"
-        },
-        {
-            "file": "NemoOrange/Seramony/01 - The Originals/04 nemo - thinking of july.avs",
-            "size": 1904,
-            "checksum": "sha256:273e735053fe72c0cde62d24b559f418595b69aa8ec924e8ee287dfea0f644e1"
-        },
-        {
-            "file": "NemoOrange/Seramony/01 - The Originals/05 nemo - xhale skysail.avs",
-            "size": 2607,
-            "checksum": "sha256:6f428e0e51224ef470972e6c089841dc769b218820515f3aed4ab072d64f3c7f"
-        },
-        {
-            "file": "NemoOrange/Seramony/01 - The Originals/06 nemo - roll-on mojo.avs",
-            "size": 1708,
-            "checksum": "sha256:0aa6b7795d9eefad431fc4b013fe73b0e0011e1035d52f25a832f2f4a7a6eac4"
-        },
-        {
-            "file": "NemoOrange/Seramony/01 - The Originals/07 nemo - clockwork.avs",
-            "size": 1947,
-            "checksum": "sha256:340285d068ce9cc7ac336db6aa8ecc468db7db31eb3fe5c4b1a9c9ceec2081c9"
-        },
-        {
-            "file": "NemoOrange/Seramony/01 - The Originals/08 nemo - building by design.avs",
-            "size": 5908,
-            "checksum": "sha256:3dc133c3bc95ad5241525168b717f68c57e781676cbf0c4162c7cfbe372ce276"
-        },
-        {
-            "file": "NemoOrange/Seramony/01 - The Originals/09 nemo - not pikasso.avs",
-            "size": 2988,
-            "checksum": "sha256:2327ea31138dfcec6468286ac204cc01d2ddd900c248c5f28964dfa95040cc54"
-        },
-        {
-            "file": "NemoOrange/Seramony/01 - The Originals/10 nemo - sputnik homeland.avs",
-            "size": 4133,
-            "checksum": "sha256:68f104c8f3fda088bd2f8a34f10dbc8c074cadcfb13b1740123686ac47b7a31a"
-        },
-        {
-            "file": "NemoOrange/Seramony/01 - The Originals/11 nemo - ghostdrilt.avs",
-            "size": 83202,
-            "checksum": "sha256:72170888748030e45e1b34e2f88e3e4fbe029a720065c23b04a97fdf00e832f1"
-        },
-        {
-            "file": "NemoOrange/Seramony/01 - The Originals/12 nemo - inner workings.avs",
-            "size": 24931,
-            "checksum": "sha256:d1d79bab2e966e29cfa88c4cf1d3e6d49a425f2dd31692426b59f81c5d179ab0"
-        },
-        {
-            "file": "NemoOrange/Seramony/01 - The Originals/13 nemo - habitat.avs",
-            "size": 11855,
-            "checksum": "sha256:1f00991c430716255559dcfce21809d3a79108378fd1567a57fdb46f7095357f"
-        },
-        {
-            "file": "NemoOrange/Seramony/01 - The Originals/14 nemo - over the hills.avs",
-            "size": 3484,
-            "checksum": "sha256:dc7908bcc8ce5de28ae4db2125988dc9e19f23a16753b0c9a6f632add26e1bac"
-        },
-        {
-            "file": "NemoOrange/Seramony/01 - The Originals/15 nemo - jaxx.avs",
-            "size": 4606,
-            "checksum": "sha256:a78d00c0729d885bffaf6aeb61eebc43aab4460135f695b078974489e5a6ec31"
-        },
-        {
-            "file": "NemoOrange/Seramony/01 - The Originals/16 nemo - edit the explode.avs",
-            "size": 70709,
-            "checksum": "sha256:65d19256a29a47bd599411348381310c37bfee62b53a7c52dad6999f9208b02b"
-        },
-        {
-            "file": "NemoOrange/Seramony/01 - The Originals/17 nemo - bouquet.avs",
-            "size": 9800,
-            "checksum": "sha256:cab57e8a4192448d0a0cf5c80c6579ac1c4233cf8e10454b80469bd41db3df1f"
-        },
-        {
-            "file": "NemoOrange/Seramony/01 - The Originals/18 nemo - scent.avs",
-            "size": 4742,
-            "checksum": "sha256:d4a476022c06c953861eb66ecc24102720559d8f1254afd266878af154db85e7"
-        },
-        {
-            "file": "NemoOrange/Seramony/01 - The Originals/19 nemo - focus.avs",
-            "size": 4545,
-            "checksum": "sha256:ef7a60aeb595b9937ead7281ec5ab389db8a80a1b59274489567fac8424a31cc"
-        },
-        {
-            "file": "NemoOrange/Seramony/01 - The Originals/20 nemo - lyric.avs",
-            "size": 3527,
-            "checksum": "sha256:c6c53b645d50fbfa31e35fe0c0a782f6fff85568bec9d3adc2aaf021b026e096"
-        },
-        {
-            "file": "NemoOrange/Seramony/01 - The Originals/21 nemo - the blueprint speaks (edit).avs",
-            "size": 2262,
-            "checksum": "sha256:92a063bbfec28a2271f41493868fcc31bde9a528a3adbc39bee44e2522d345c7"
-        },
-        {
-            "file": "NemoOrange/Seramony/02 - The Remixes/01 nemo - roll-on mojo (duo remix).avs",
-            "size": 3392,
-            "checksum": "sha256:76f5512117e84ce331d764c825797a7a90c9f20f278234c612cca3a24f376fc3"
-        },
-        {
-            "file": "NemoOrange/Seramony/02 - The Remixes/02 duo - biofeedback (nemo maps mix).avs",
-            "size": 5526,
-            "checksum": "sha256:b06532fdf124dae63521283d3c61e897ff19850633394a9e71132da4c39b42d9"
-        },
-        {
-            "file": "NemoOrange/Seramony/02 - The Remixes/03 nemo - ghostdrilt (phirious remix).avs",
-            "size": 7236,
-            "checksum": "sha256:5b13b3e37885df0880573e953bed2ebaacdfc536e76b43e5cad6a458da8e177f"
-        },
-        {
-            "file": "NemoOrange/Seramony/02 - The Remixes/04 dynamic duo - tentaclism (nemo mix).avs",
-            "size": 4963,
-            "checksum": "sha256:2784ab8276b4cf02ee0ad5db25162e151f78697240895f27a0dbd28f7a26fb43"
-        },
-        {
-            "file": "NemoOrange/Seramony/02 - The Remixes/05 nemo - lyric (victor vector remix by amphirion).avs",
-            "size": 3822,
-            "checksum": "sha256:263b73e79c3f8255283ebfb598d32da427a53bd0e75600ce3490da824f8b80fb"
-        },
-        {
-            "file": "NemoOrange/Seramony/02 - The Remixes/06 tuggummi - let me out! (distant attic remix by nemo).avs",
-            "size": 2125,
-            "checksum": "sha256:f9483c8b3f8d5ff33687c92d57a57d618edf1b123a09144d7702de3e5380f1c1"
-        },
-        {
-            "file": "NemoOrange/Seramony/02 - The Remixes/07 nemo - euphoria smokes (oops my fishtank is on fire remix by frames.of.reality).avs",
-            "size": 5743,
-            "checksum": "sha256:965e6e9b8003449eeefca10b9ed67a8a2f7d29c1cbdd80222b92a1766d326b7b"
-        },
-        {
-            "file": "NemoOrange/Seramony/02 - The Remixes/08 les Noobiens - pullin' out these old bricks (nemo mix).avs",
-            "size": 2830,
-            "checksum": "sha256:dc006559bc303a71af6e1bd3cd86500a7c8eeec3fe522208b0dd00c817c9dcb5"
-        },
-        {
-            "file": "NemoOrange/Seramony/02 - The Remixes/09 nemo - crescent moon craze (satellite remix by degnic).avs",
-            "size": 4692,
-            "checksum": "sha256:ee073ab205a0c8c5f9c4e0578c2adb19a5f40b9fbe284663f6b2108ca68cb481"
-        },
-        {
-            "file": "NemoOrange/Seramony/02 - The Remixes/10 skupers - silkyworm (nemo remix).avs",
-            "size": 2034,
-            "checksum": "sha256:52b2c8e2fd6bf4e6181c5a4151be7415f4a0b397cb2e09535225058bcd577419"
-        },
-        {
-            "file": "NemoOrange/Seramony/02 - The Remixes/11 nemo - inner workings (a pair of dimensions remix by zamuz).avs",
-            "size": 28708,
-            "checksum": "sha256:dc3969210f0c3ffb85247e96bca9a19acd2b3fd8c5f102f35a058d3cf3002fdb"
-        },
-        {
-            "file": "NemoOrange/Seramony/02 - The Remixes/12 frames.of.reality - plots of summer (nemo mix).avs",
-            "size": 3693,
-            "checksum": "sha256:ea99a3e0e64924dca42b7723227a59c33aca502c49af79e077f587cf5f491acc"
-        },
-        {
-            "file": "NemoOrange/Seramony/02 - The Remixes/13 nemo - roll-on mojo (surrounded remix by zamuz).avs",
-            "size": 1907,
-            "checksum": "sha256:022cd9df70c47e9dab3ba700a64b1cd339c6e0df3a16bbe004036c65671a4416"
-        },
-        {
-            "file": "NemoOrange/Seramony/02 - The Remixes/14 amphirion - can't touch this (oh yes i can mix by nemo).avs",
-            "size": 4596,
-            "checksum": "sha256:93a0ededb45dee0acfb117ac4359ff585e80b25cc9c8c53b2f843a9ba6fa73ca"
-        },
-        {
-            "file": "NemoOrange/Seramony/02 - The Remixes/15 nemo - lyric (amusement park remix by zamuz).avs",
-            "size": 7115,
-            "checksum": "sha256:73a7fc49fae61eaa930bfeddd57af09618952f789572587f910d5c161af0375e"
-        },
-        {
-            "file": "NemoOrange/Seramony/02 - The Remixes/16 avs-king - jellyfish (nemo mix).avs",
-            "size": 2681,
-            "checksum": "sha256:b554e8ad28c17495ea65c60c7d55add0e12e780b69c7d9924878fceb36962918"
-        },
-        {
-            "file": "NemoOrange/Seramony/02 - The Remixes/17 nemo - to paint with blood (age of nuke rework by yathosho).avs",
-            "size": 3702,
-            "checksum": "sha256:debeb7331b345de042dfd81960e06c417970546e556f60791729afd1f7fb2af1"
-        },
-        {
-            "file": "NemoOrange/Seramony/02 - The Remixes/18 hboy - superscape (nemo remix).avs",
-            "size": 1330,
-            "checksum": "sha256:1d09bf835244682c2f46a175bb75a7957c81385632282c572b71a0b049f35856"
-        },
-        {
-            "file": "NemoOrange/Seramony/02 - The Remixes/19 nemo - nemo sweety (frames.of.reality remix).avs",
-            "size": 2818,
-            "checksum": "sha256:f10f06a5563093fe122c7ec9a569c0b63dd85ad694c776cde0b7ea1cab6c9279"
-        },
-        {
-            "file": "NemoOrange/Seramony/02 - The Remixes/20 zxe - juju (nemo remix).avs",
-            "size": 1101,
-            "checksum": "sha256:77f2d16ecd5b4d74e0d5c2eaff344eeeead85ed628d51a2ce3653e41e98fb1fe"
-        },
-        {
-            "file": "NemoOrange/Seramony/02 - The Remixes/21 nemo - jaxx (in the boxx mixx by hboy).avs",
-            "size": 6614,
-            "checksum": "sha256:21fc58da021592dd09a0dbca51c1a3d684f88003a62982e66498d2675847d864"
-        }
-    ],
-    "assets": [
-        {
-            "file": "amphirion wood.bmp",
-            "size": 208904,
-            "checksum": "sha256:88c081138e4550ac9a84da6b2fd1269871ff287d4d71e2e63b6f593a76d98023"
-        },
-        {
-            "file": "avsres_texer_circle_sharp_05x05.bmp",
-            "size": 222,
-            "checksum": "sha256:7fed1eba922199994b49288ec476cbffd75aa77c90e664869306e85d9f4196ce"
-        },
-        {
-            "file": "avsres_texer_circle_sharp_13x13.bmp",
-            "size": 774,
-            "checksum": "sha256:7dfb911b3bcceb29b6c6b2386e40f8c7b1af1785e25d5e0310f5537a36cf937a"
-        },
-        {
-            "file": "avsres_texer_circle_sharp_15x15.bmp",
-            "size": 938,
-            "checksum": "sha256:32c61631054ead9b42d17e9b3ea4f3b9d3329d1aff4659bc99d6285c0c771de4"
-        },
-        {
-            "file": "avsres_texer_circle_sharp_19x19.bmp",
-            "size": 1398,
-            "checksum": "sha256:31b87b361b89e60a8052e1c27af6a158a6e0ba4ba136076f2b98afe9958da848"
-        },
-        {
-            "file": "avsres_texer_circle_sharp_25x25.bmp",
-            "size": 2322,
-            "checksum": "sha256:e8d6d4c06b831887f398c7b8a59bec494f4806aec5f568dff3fb3f771e3d3ea7"
-        },
-        {
-            "file": "avsres_texer_circle_sharp_29x29.bmp",
-            "size": 3030,
-            "checksum": "sha256:2d057959257346e2b9a8922504ad51ff7d2608d6bd591659a7fa08d07406366a"
-        },
-        {
-            "file": "avsres_texer_square_sharp_04x04.bmp",
-            "size": 246,
-            "checksum": "sha256:2e3156b4b05df497d7450b7869f6b547799d8799e9a23c7ba736fd4ff3bc8717"
-        }
-    ],
-    "plugins": [
-        "AddBorder",
-        "ChannelShift",
-        "ColorMap",
-        "ConvolutionFilter",
-        "Multiplier",
-        "Texer2",
-        "Triangle",
-        "VideoDelay"
-    ]
+	"name": "Seramony",
+	"id": "VA008",
+	"presets": [
+		{
+			"file": "NemoOrange/Seramony/01 - The Originals/01 nemo - en la primavera.avs",
+			"size": 2368,
+			"checksum": "sha256:c0f0ded369533ae468c47b1bd18c23ebf13f8645021066de41083723b9870e27"
+		},
+		{
+			"file": "NemoOrange/Seramony/01 - The Originals/02 nemo - building blocks.avs",
+			"size": 2468,
+			"checksum": "sha256:ff088eed56eb64762cf3e8e59b75bd0742aa1cdf5c7b81b99e2322a654a9559f"
+		},
+		{
+			"file": "NemoOrange/Seramony/01 - The Originals/03 nemo - downtown.avs",
+			"size": 7192,
+			"checksum": "sha256:a1c5b513278af531f9d7150f74f1416d36ea2f5407584901eacc5084a590630c"
+		},
+		{
+			"file": "NemoOrange/Seramony/01 - The Originals/04 nemo - thinking of july.avs",
+			"size": 1904,
+			"checksum": "sha256:273e735053fe72c0cde62d24b559f418595b69aa8ec924e8ee287dfea0f644e1"
+		},
+		{
+			"file": "NemoOrange/Seramony/01 - The Originals/05 nemo - xhale skysail.avs",
+			"size": 2607,
+			"checksum": "sha256:6f428e0e51224ef470972e6c089841dc769b218820515f3aed4ab072d64f3c7f"
+		},
+		{
+			"file": "NemoOrange/Seramony/01 - The Originals/06 nemo - roll-on mojo.avs",
+			"size": 1708,
+			"checksum": "sha256:0aa6b7795d9eefad431fc4b013fe73b0e0011e1035d52f25a832f2f4a7a6eac4"
+		},
+		{
+			"file": "NemoOrange/Seramony/01 - The Originals/07 nemo - clockwork.avs",
+			"size": 1947,
+			"checksum": "sha256:340285d068ce9cc7ac336db6aa8ecc468db7db31eb3fe5c4b1a9c9ceec2081c9"
+		},
+		{
+			"file": "NemoOrange/Seramony/01 - The Originals/08 nemo - building by design.avs",
+			"size": 5908,
+			"checksum": "sha256:3dc133c3bc95ad5241525168b717f68c57e781676cbf0c4162c7cfbe372ce276"
+		},
+		{
+			"file": "NemoOrange/Seramony/01 - The Originals/09 nemo - not pikasso.avs",
+			"size": 2988,
+			"checksum": "sha256:2327ea31138dfcec6468286ac204cc01d2ddd900c248c5f28964dfa95040cc54"
+		},
+		{
+			"file": "NemoOrange/Seramony/01 - The Originals/10 nemo - sputnik homeland.avs",
+			"size": 4133,
+			"checksum": "sha256:68f104c8f3fda088bd2f8a34f10dbc8c074cadcfb13b1740123686ac47b7a31a"
+		},
+		{
+			"file": "NemoOrange/Seramony/01 - The Originals/11 nemo - ghostdrilt.avs",
+			"size": 83202,
+			"checksum": "sha256:72170888748030e45e1b34e2f88e3e4fbe029a720065c23b04a97fdf00e832f1"
+		},
+		{
+			"file": "NemoOrange/Seramony/01 - The Originals/12 nemo - inner workings.avs",
+			"size": 24931,
+			"checksum": "sha256:d1d79bab2e966e29cfa88c4cf1d3e6d49a425f2dd31692426b59f81c5d179ab0"
+		},
+		{
+			"file": "NemoOrange/Seramony/01 - The Originals/13 nemo - habitat.avs",
+			"size": 11855,
+			"checksum": "sha256:1f00991c430716255559dcfce21809d3a79108378fd1567a57fdb46f7095357f"
+		},
+		{
+			"file": "NemoOrange/Seramony/01 - The Originals/14 nemo - over the hills.avs",
+			"size": 3484,
+			"checksum": "sha256:dc7908bcc8ce5de28ae4db2125988dc9e19f23a16753b0c9a6f632add26e1bac"
+		},
+		{
+			"file": "NemoOrange/Seramony/01 - The Originals/15 nemo - jaxx.avs",
+			"size": 4606,
+			"checksum": "sha256:a78d00c0729d885bffaf6aeb61eebc43aab4460135f695b078974489e5a6ec31"
+		},
+		{
+			"file": "NemoOrange/Seramony/01 - The Originals/16 nemo - edit the explode.avs",
+			"size": 70709,
+			"checksum": "sha256:65d19256a29a47bd599411348381310c37bfee62b53a7c52dad6999f9208b02b"
+		},
+		{
+			"file": "NemoOrange/Seramony/01 - The Originals/17 nemo - bouquet.avs",
+			"size": 9800,
+			"checksum": "sha256:cab57e8a4192448d0a0cf5c80c6579ac1c4233cf8e10454b80469bd41db3df1f"
+		},
+		{
+			"file": "NemoOrange/Seramony/01 - The Originals/18 nemo - scent.avs",
+			"size": 4742,
+			"checksum": "sha256:d4a476022c06c953861eb66ecc24102720559d8f1254afd266878af154db85e7"
+		},
+		{
+			"file": "NemoOrange/Seramony/01 - The Originals/19 nemo - focus.avs",
+			"size": 4545,
+			"checksum": "sha256:ef7a60aeb595b9937ead7281ec5ab389db8a80a1b59274489567fac8424a31cc"
+		},
+		{
+			"file": "NemoOrange/Seramony/01 - The Originals/20 nemo - lyric.avs",
+			"size": 3527,
+			"checksum": "sha256:c6c53b645d50fbfa31e35fe0c0a782f6fff85568bec9d3adc2aaf021b026e096"
+		},
+		{
+			"file": "NemoOrange/Seramony/01 - The Originals/21 nemo - the blueprint speaks (edit).avs",
+			"size": 2262,
+			"checksum": "sha256:92a063bbfec28a2271f41493868fcc31bde9a528a3adbc39bee44e2522d345c7"
+		},
+		{
+			"file": "NemoOrange/Seramony/02 - The Remixes/01 nemo - roll-on mojo (duo remix).avs",
+			"size": 3392,
+			"checksum": "sha256:76f5512117e84ce331d764c825797a7a90c9f20f278234c612cca3a24f376fc3"
+		},
+		{
+			"file": "NemoOrange/Seramony/02 - The Remixes/02 duo - biofeedback (nemo maps mix).avs",
+			"size": 5526,
+			"checksum": "sha256:b06532fdf124dae63521283d3c61e897ff19850633394a9e71132da4c39b42d9"
+		},
+		{
+			"file": "NemoOrange/Seramony/02 - The Remixes/03 nemo - ghostdrilt (phirious remix).avs",
+			"size": 7236,
+			"checksum": "sha256:5b13b3e37885df0880573e953bed2ebaacdfc536e76b43e5cad6a458da8e177f"
+		},
+		{
+			"file": "NemoOrange/Seramony/02 - The Remixes/04 dynamic duo - tentaclism (nemo mix).avs",
+			"size": 4963,
+			"checksum": "sha256:2784ab8276b4cf02ee0ad5db25162e151f78697240895f27a0dbd28f7a26fb43"
+		},
+		{
+			"file": "NemoOrange/Seramony/02 - The Remixes/05 nemo - lyric (victor vector remix by amphirion).avs",
+			"size": 3822,
+			"checksum": "sha256:263b73e79c3f8255283ebfb598d32da427a53bd0e75600ce3490da824f8b80fb"
+		},
+		{
+			"file": "NemoOrange/Seramony/02 - The Remixes/06 tuggummi - let me out! (distant attic remix by nemo).avs",
+			"size": 2125,
+			"checksum": "sha256:f9483c8b3f8d5ff33687c92d57a57d618edf1b123a09144d7702de3e5380f1c1"
+		},
+		{
+			"file": "NemoOrange/Seramony/02 - The Remixes/07 nemo - euphoria smokes (oops my fishtank is on fire remix by frames.of.reality).avs",
+			"size": 5743,
+			"checksum": "sha256:965e6e9b8003449eeefca10b9ed67a8a2f7d29c1cbdd80222b92a1766d326b7b"
+		},
+		{
+			"file": "NemoOrange/Seramony/02 - The Remixes/08 les Noobiens - pullin' out these old bricks (nemo mix).avs",
+			"size": 2830,
+			"checksum": "sha256:dc006559bc303a71af6e1bd3cd86500a7c8eeec3fe522208b0dd00c817c9dcb5"
+		},
+		{
+			"file": "NemoOrange/Seramony/02 - The Remixes/09 nemo - crescent moon craze (satellite remix by degnic).avs",
+			"size": 4692,
+			"checksum": "sha256:ee073ab205a0c8c5f9c4e0578c2adb19a5f40b9fbe284663f6b2108ca68cb481"
+		},
+		{
+			"file": "NemoOrange/Seramony/02 - The Remixes/10 skupers - silkyworm (nemo remix).avs",
+			"size": 2034,
+			"checksum": "sha256:52b2c8e2fd6bf4e6181c5a4151be7415f4a0b397cb2e09535225058bcd577419"
+		},
+		{
+			"file": "NemoOrange/Seramony/02 - The Remixes/11 nemo - inner workings (a pair of dimensions remix by zamuz).avs",
+			"size": 28708,
+			"checksum": "sha256:dc3969210f0c3ffb85247e96bca9a19acd2b3fd8c5f102f35a058d3cf3002fdb"
+		},
+		{
+			"file": "NemoOrange/Seramony/02 - The Remixes/12 frames.of.reality - plots of summer (nemo mix).avs",
+			"size": 3693,
+			"checksum": "sha256:ea99a3e0e64924dca42b7723227a59c33aca502c49af79e077f587cf5f491acc"
+		},
+		{
+			"file": "NemoOrange/Seramony/02 - The Remixes/13 nemo - roll-on mojo (surrounded remix by zamuz).avs",
+			"size": 1907,
+			"checksum": "sha256:022cd9df70c47e9dab3ba700a64b1cd339c6e0df3a16bbe004036c65671a4416"
+		},
+		{
+			"file": "NemoOrange/Seramony/02 - The Remixes/14 amphirion - can't touch this (oh yes i can mix by nemo).avs",
+			"size": 4596,
+			"checksum": "sha256:93a0ededb45dee0acfb117ac4359ff585e80b25cc9c8c53b2f843a9ba6fa73ca"
+		},
+		{
+			"file": "NemoOrange/Seramony/02 - The Remixes/15 nemo - lyric (amusement park remix by zamuz).avs",
+			"size": 7115,
+			"checksum": "sha256:73a7fc49fae61eaa930bfeddd57af09618952f789572587f910d5c161af0375e"
+		},
+		{
+			"file": "NemoOrange/Seramony/02 - The Remixes/16 avs-king - jellyfish (nemo mix).avs",
+			"size": 2681,
+			"checksum": "sha256:b554e8ad28c17495ea65c60c7d55add0e12e780b69c7d9924878fceb36962918"
+		},
+		{
+			"file": "NemoOrange/Seramony/02 - The Remixes/17 nemo - to paint with blood (age of nuke rework by yathosho).avs",
+			"size": 3702,
+			"checksum": "sha256:debeb7331b345de042dfd81960e06c417970546e556f60791729afd1f7fb2af1"
+		},
+		{
+			"file": "NemoOrange/Seramony/02 - The Remixes/18 hboy - superscape (nemo remix).avs",
+			"size": 1330,
+			"checksum": "sha256:1d09bf835244682c2f46a175bb75a7957c81385632282c572b71a0b049f35856"
+		},
+		{
+			"file": "NemoOrange/Seramony/02 - The Remixes/19 nemo - nemo sweety (frames.of.reality remix).avs",
+			"size": 2818,
+			"checksum": "sha256:f10f06a5563093fe122c7ec9a569c0b63dd85ad694c776cde0b7ea1cab6c9279"
+		},
+		{
+			"file": "NemoOrange/Seramony/02 - The Remixes/20 zxe - juju (nemo remix).avs",
+			"size": 1101,
+			"checksum": "sha256:77f2d16ecd5b4d74e0d5c2eaff344eeeead85ed628d51a2ce3653e41e98fb1fe"
+		},
+		{
+			"file": "NemoOrange/Seramony/02 - The Remixes/21 nemo - jaxx (in the boxx mixx by hboy).avs",
+			"size": 6614,
+			"checksum": "sha256:21fc58da021592dd09a0dbca51c1a3d684f88003a62982e66498d2675847d864"
+		}
+	],
+	"assets": [
+		{
+			"file": "amphirion wood.bmp",
+			"size": 208904,
+			"checksum": "sha256:88c081138e4550ac9a84da6b2fd1269871ff287d4d71e2e63b6f593a76d98023"
+		},
+		{
+			"file": "avsres_texer_circle_sharp_05x05.bmp",
+			"size": 222,
+			"checksum": "sha256:7fed1eba922199994b49288ec476cbffd75aa77c90e664869306e85d9f4196ce"
+		},
+		{
+			"file": "avsres_texer_circle_sharp_13x13.bmp",
+			"size": 774,
+			"checksum": "sha256:7dfb911b3bcceb29b6c6b2386e40f8c7b1af1785e25d5e0310f5537a36cf937a"
+		},
+		{
+			"file": "avsres_texer_circle_sharp_15x15.bmp",
+			"size": 938,
+			"checksum": "sha256:32c61631054ead9b42d17e9b3ea4f3b9d3329d1aff4659bc99d6285c0c771de4"
+		},
+		{
+			"file": "avsres_texer_circle_sharp_19x19.bmp",
+			"size": 1398,
+			"checksum": "sha256:31b87b361b89e60a8052e1c27af6a158a6e0ba4ba136076f2b98afe9958da848"
+		},
+		{
+			"file": "avsres_texer_circle_sharp_25x25.bmp",
+			"size": 2322,
+			"checksum": "sha256:e8d6d4c06b831887f398c7b8a59bec494f4806aec5f568dff3fb3f771e3d3ea7"
+		},
+		{
+			"file": "avsres_texer_circle_sharp_29x29.bmp",
+			"size": 3030,
+			"checksum": "sha256:2d057959257346e2b9a8922504ad51ff7d2608d6bd591659a7fa08d07406366a"
+		},
+		{
+			"file": "avsres_texer_square_sharp_04x04.bmp",
+			"size": 246,
+			"checksum": "sha256:2e3156b4b05df497d7450b7869f6b547799d8799e9a23c7ba736fd4ff3bc8717"
+		}
+	],
+	"plugins": [
+		"AddBorder",
+		"ChannelShift",
+		"ColorMap",
+		"ConvolutionFilter",
+		"Multiplier",
+		"Texer2",
+		"Triangle",
+		"VideoDelay"
+	]
 }

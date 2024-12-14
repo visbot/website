@@ -1,29 +1,27 @@
 {
-    "name": "DDoo4",
-    "id": "VB044",
-    "presets": [
-        {
-            "file": "Dynamic Duo/DDoo4/ddA1__my_gold_teeth.avs",
-            "size": 2886,
-            "checksum": "sha256:6c1f4b59ebc7dd4e2b603c0ac3a982da8c8ed21808947c58d73b955c3f9a8956"
-        },
-        {
-            "file": "Dynamic Duo/DDoo4/ddA2__neo_curvism_circa_1983.avs",
-            "size": 1952,
-            "checksum": "sha256:f5e37093ce4197dc85f7cece5ee1ccdf2b90351a2207a766a82671f0e0a58033"
-        },
-        {
-            "file": "Dynamic Duo/DDoo4/ddB1__fix_up_that_visbot.avs",
-            "size": 1941,
-            "checksum": "sha256:ac0e0b809ce1f9629c319debcfd7b3dd84a7392b48d341f834ce41ee459164c7"
-        },
-        {
-            "file": "Dynamic Duo/DDoo4/ddB2__antikombi.avs",
-            "size": 3326,
-            "checksum": "sha256:e2e1db9ff7ed8242d8efbc45e3b5da33e4851bdbd70203432493c949579eeb85"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "DDoo4",
+	"id": "VB044",
+	"presets": [
+		{
+			"file": "Dynamic Duo/DDoo4/ddA1__my_gold_teeth.avs",
+			"size": 2886,
+			"checksum": "sha256:6c1f4b59ebc7dd4e2b603c0ac3a982da8c8ed21808947c58d73b955c3f9a8956"
+		},
+		{
+			"file": "Dynamic Duo/DDoo4/ddA2__neo_curvism_circa_1983.avs",
+			"size": 1952,
+			"checksum": "sha256:f5e37093ce4197dc85f7cece5ee1ccdf2b90351a2207a766a82671f0e0a58033"
+		},
+		{
+			"file": "Dynamic Duo/DDoo4/ddB1__fix_up_that_visbot.avs",
+			"size": 1941,
+			"checksum": "sha256:ac0e0b809ce1f9629c319debcfd7b3dd84a7392b48d341f834ce41ee459164c7"
+		},
+		{
+			"file": "Dynamic Duo/DDoo4/ddB2__antikombi.avs",
+			"size": 3326,
+			"checksum": "sha256:e2e1db9ff7ed8242d8efbc45e3b5da33e4851bdbd70203432493c949579eeb85"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

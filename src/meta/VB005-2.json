@@ -1,30 +1,27 @@
 {
-    "name": "whyEye.org broken rewinda pt. 2",
-    "id": "VB005-2",
-    "presets": [
-        {
-            "file": "whyEye.org/whyEye.org broken rewinda/yiC1-skupers__isotta.avs",
-            "size": 2553,
-            "checksum": "sha256:92a61866921ee7b56eb5bc7080140fc6eb9774b36c10af0e324345ad0271722d"
-        },
-        {
-            "file": "whyEye.org/whyEye.org broken rewinda/yiC2-da16x__pillow.avs",
-            "size": 2879,
-            "checksum": "sha256:edb5f543825175a0ee96768a6e255920970158ce070b96c01cdcf78d4c798918"
-        },
-        {
-            "file": "whyEye.org/whyEye.org broken rewinda/yiD1-da16x__fasten_your_seatbelt.avs",
-            "size": 2360,
-            "checksum": "sha256:b0d217af67cffc1cfa77334dcad8ae4aeeba95941b3515d95845a89b776e4dec"
-        },
-        {
-            "file": "whyEye.org/whyEye.org broken rewinda/yiD2-pan_am__chalk.avs",
-            "size": 1465,
-            "checksum": "sha256:ee7510bf7dd98042c421518847699f295dd2fe89fd8dba9ee142bb140462f726"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter",
-        "MultiFilter"
-    ]
+	"name": "whyEye.org broken rewinda pt. 2",
+	"id": "VB005-2",
+	"presets": [
+		{
+			"file": "whyEye.org/whyEye.org broken rewinda/yiC1-skupers__isotta.avs",
+			"size": 2553,
+			"checksum": "sha256:92a61866921ee7b56eb5bc7080140fc6eb9774b36c10af0e324345ad0271722d"
+		},
+		{
+			"file": "whyEye.org/whyEye.org broken rewinda/yiC2-da16x__pillow.avs",
+			"size": 2879,
+			"checksum": "sha256:edb5f543825175a0ee96768a6e255920970158ce070b96c01cdcf78d4c798918"
+		},
+		{
+			"file": "whyEye.org/whyEye.org broken rewinda/yiD1-da16x__fasten_your_seatbelt.avs",
+			"size": 2360,
+			"checksum": "sha256:b0d217af67cffc1cfa77334dcad8ae4aeeba95941b3515d95845a89b776e4dec"
+		},
+		{
+			"file": "whyEye.org/whyEye.org broken rewinda/yiD2-pan_am__chalk.avs",
+			"size": 1465,
+			"checksum": "sha256:ee7510bf7dd98042c421518847699f295dd2fe89fd8dba9ee142bb140462f726"
+		}
+	],
+	"plugins": ["ConvolutionFilter", "MultiFilter"]
 }

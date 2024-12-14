@@ -1,25 +1,22 @@
 {
-    "name": "whyEye.org inside white",
-    "id": "VB040-1",
-    "presets": [
-        {
-            "file": "whyEye.org/whyEye.org inside white/yiA1_tuggummi__let_me_out!_(yathosho's_never_say_remix).avs",
-            "size": 2290,
-            "checksum": "sha256:24f88b1baa7851db02f0ac59dc9a8f38d97d107dcf73b9a933ebb2fa8e518564"
-        },
-        {
-            "file": "whyEye.org/whyEye.org inside white/yiB1_tonic__3d_fan_(rebroken).avs",
-            "size": 1901,
-            "checksum": "sha256:a78f8d8c854f3d9758a1724b7b9892a6d59c3a0001d5e5f34913bdceb0312afa"
-        },
-        {
-            "file": "whyEye.org/whyEye.org inside white/yiB2_zamuz__bumpy_carpet_(yathosho's_#ffffff_remix).avs",
-            "size": 1879,
-            "checksum": "sha256:c7104cc414df33d759af5a08242bd84c39d55a8e237bb4bec5d729b577e8e65a"
-        }
-    ],
-    "plugins": [
-        "BufferBlend",
-        "ConvolutionFilter"
-    ]
+	"name": "whyEye.org inside white",
+	"id": "VB040-1",
+	"presets": [
+		{
+			"file": "whyEye.org/whyEye.org inside white/yiA1_tuggummi__let_me_out!_(yathosho's_never_say_remix).avs",
+			"size": 2290,
+			"checksum": "sha256:24f88b1baa7851db02f0ac59dc9a8f38d97d107dcf73b9a933ebb2fa8e518564"
+		},
+		{
+			"file": "whyEye.org/whyEye.org inside white/yiB1_tonic__3d_fan_(rebroken).avs",
+			"size": 1901,
+			"checksum": "sha256:a78f8d8c854f3d9758a1724b7b9892a6d59c3a0001d5e5f34913bdceb0312afa"
+		},
+		{
+			"file": "whyEye.org/whyEye.org inside white/yiB2_zamuz__bumpy_carpet_(yathosho's_#ffffff_remix).avs",
+			"size": 1879,
+			"checksum": "sha256:c7104cc414df33d759af5a08242bd84c39d55a8e237bb4bec5d729b577e8e65a"
+		}
+	],
+	"plugins": ["BufferBlend", "ConvolutionFilter"]
 }

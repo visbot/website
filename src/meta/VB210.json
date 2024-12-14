@@ -1,24 +1,22 @@
 {
-    "name": "whyEye.org fantasy island e.p.",
-    "id": "VB210",
-    "presets": [
-        {
-            "file": "whyEye.org/whyEye.org fantasy island ep/yiA1__fantasy island ii.avs",
-            "size": 3822,
-            "checksum": "sha256:6f6573560374679e2cd7d9beec7aa01ad156d243c8e1e77c16fd58f09feef63d"
-        },
-        {
-            "file": "whyEye.org/whyEye.org fantasy island ep/yiB1__frantic island.avs",
-            "size": 4135,
-            "checksum": "sha256:d1335a65e00f626f8acc67fe8bdc0e7816977a2caf54e8adf36779ef095fda9e"
-        },
-        {
-            "file": "whyEye.org/whyEye.org fantasy island ep/yiB2__fantasy island.avs",
-            "size": 2480,
-            "checksum": "sha256:78b31938741a29b317c9779f8b825affd0e535da78cfa6852e30e4717dcb485f"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "whyEye.org fantasy island e.p.",
+	"id": "VB210",
+	"presets": [
+		{
+			"file": "whyEye.org/whyEye.org fantasy island ep/yiA1__fantasy island ii.avs",
+			"size": 3822,
+			"checksum": "sha256:6f6573560374679e2cd7d9beec7aa01ad156d243c8e1e77c16fd58f09feef63d"
+		},
+		{
+			"file": "whyEye.org/whyEye.org fantasy island ep/yiB1__frantic island.avs",
+			"size": 4135,
+			"checksum": "sha256:d1335a65e00f626f8acc67fe8bdc0e7816977a2caf54e8adf36779ef095fda9e"
+		},
+		{
+			"file": "whyEye.org/whyEye.org fantasy island ep/yiB2__fantasy island.avs",
+			"size": 2480,
+			"checksum": "sha256:78b31938741a29b317c9779f8b825affd0e535da78cfa6852e30e4717dcb485f"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

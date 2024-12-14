@@ -1,238 +1,234 @@
 {
-    "name": "Dynamic Movement 4",
-    "id": "VD004",
-    "presets": [
-        {
-            "file": "Dynamic Duo/Dynamic Movement 4/01 dynamic duo - fix up that intro.avs",
-            "size": 2750,
-            "checksum": "sha256:85d18f2956705b2adc94b2f42f10d0f3eff0430576b242eaf7b77cbf6ef9915a"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 4/02 duo - born on fire.avs",
-            "size": 2556,
-            "checksum": "sha256:85b35ea0f8532608d7646857bc7a7f59f6d538f104c4c44653f7d15898b47759"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 4/03 s_kupers - cool down your jets.avs",
-            "size": 4834,
-            "checksum": "sha256:c1e12dea4ca33680c7c95d4a5679cd4a48b82fc7522802e185b3a4a3bda78b18"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 4/04 nemo orange - golden (yathosho remix).avs",
-            "size": 1591,
-            "checksum": "sha256:2d3735825cfd3f19ac53a3aa791005eb73a27ed3369417a7828a53e4b209e78f"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 4/05 s_kupers - call me right back.avs",
-            "size": 3249,
-            "checksum": "sha256:c19c3301c3e38f585f6ad7f08eb052e72e4fac86e36df1c3234cd76d5742949c"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 4/06 tuggummi - let me out!.avs",
-            "size": 9962,
-            "checksum": "sha256:e8f7666854835250150aa26f04761f43c80424bb3c6414ac521ce2128df0cf68"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 4/07 zxe - semper omnis (s_kupers remix).avs",
-            "size": 4087,
-            "checksum": "sha256:9f121ca3513e3c4bac45373e0ed2432c89f4b69237e204dda3380f825f8b161f"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 4/08 s_kupers - recovering from fate (cherry blossom).avs",
-            "size": 5529,
-            "checksum": "sha256:d0f3a73c4ff8b45e6c8dddba116448400ad1b129ead7f283aae98c4e39ac7a68"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 4/09 zamuz - from the world where flowers grow.avs",
-            "size": 8730,
-            "checksum": "sha256:896f3e341c6b81ec0f215564abb4a318f6b5533503d445ff22e7863ea16b0c76"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 4/10 yathosho - lux eterna (avs-ike remix).avs",
-            "size": 1456,
-            "checksum": "sha256:15cd411468c12ec0590bceedaf910bfb4d6567148950df4f0580ec5ae32899e1"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 4/11 hboy - conceptual dream (s_kupers noise remix).avs",
-            "size": 4394,
-            "checksum": "sha256:1ce983c6e9afc950dd4137f77853af204d9b2d0283e78bbf7810b234e3494d86"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 4/12 dynamic duo vs les Noobiens - back to back to cccp.avs",
-            "size": 3378,
-            "checksum": "sha256:8f66454633bba35a286d00c80fdf64d62fdd156919a0c193127f01e528dfc88c"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 4/13 el-vis - dreamtime iii (s_kupers remix).avs",
-            "size": 4336,
-            "checksum": "sha256:abbfed104ef2b6e416cc0f6a78d62a6f915048323a44996851584276e5c82c24"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 4/14 unconed - twisting fun (les Noobiens rework).avs",
-            "size": 4202,
-            "checksum": "sha256:198bbbf4cd3fa1bb3fc5baa3d092741e993849a346cb3841aaf0743832cbb353"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 4/15 s_kupers - someday my rays will cover the earth.avs",
-            "size": 4887,
-            "checksum": "sha256:406dae98396e6cc0093623e7ba298b93b66ab8bd19a4f9697aca9f8584e4edb4"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 4/16 dasn00b - paint your walls.avs",
-            "size": 705,
-            "checksum": "sha256:58cf44c4ae219be2f080af21417f0a081cb6caca1eeacab109d61c0b95a5f05b"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 4/17 yathosho - east-touristica.avs",
-            "size": 1627,
-            "checksum": "sha256:40fd172e0931029aafe945cd3bd07275f5203f7f24e0a3dc12d4f125ab1e82c5"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 4/18 tuggummi - let me out! (degnic's sailor remix).avs",
-            "size": 8996,
-            "checksum": "sha256:3ad89e5f6cb9e7c31c7600c486547ea939a57810bc7ca810cb10b151be909c78"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 4/19 pure krypton - new hope (yathosho's cape mix).avs",
-            "size": 2418,
-            "checksum": "sha256:348437021647f9f22b0313cab23d9e7d073bd55efc9c4534e01c092b97fed804"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 4/20 yathosho vs el-vis - cherry kisses (v.i.p.).avs",
-            "size": 11171,
-            "checksum": "sha256:454cf1d3c0dfddf6f3fcc6963697ba312c04c65be4342aa6e93b51016c9a2eb8"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 4/21 unconed - the lion king (s_kupers remix).avs",
-            "size": 3526,
-            "checksum": "sha256:6626c226a40f820f2a1422758545b7ce09f640e7d46e7b752a9eb34037d35177"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 4/22 s_kupers vs shock value - activation energy.avs",
-            "size": 4099,
-            "checksum": "sha256:d96145c5b68405131d03b4929be92fdad91b98922ad77bd1583b3511412f4eb1"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 4/23 nemo orange - yatty honey.avs",
-            "size": 1975,
-            "checksum": "sha256:ea187bcb131842d5589bb5fe400e213f881bffe63174fcdda873e42ee6051601"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 4/24 yathosho - organismus 3002.avs",
-            "size": 1243,
-            "checksum": "sha256:d456c3a37c70359c4680d73acd4ddb1eabd4d122383dd9d223ac7429114c7e87"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 4/25 s_kupers - manticore.avs",
-            "size": 3536,
-            "checksum": "sha256:cdbf1b30831d34b7ec341e18634888f6f51bdc8f6b0536ee231cf7f143bec9b4"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 4/26 s_kupers vs el-vis - baby burn.avs",
-            "size": 5113,
-            "checksum": "sha256:193afc0fa03cc71f8fb41a2eb64f8263bb9f9f5fffc4feb54f79569306072c92"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 4/27 yathosho vs tonic - 3d fan (rebroken).avs",
-            "size": 1901,
-            "checksum": "sha256:a78f8d8c854f3d9758a1724b7b9892a6d59c3a0001d5e5f34913bdceb0312afa"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 4/28 yathosho vs unconed - spitze lakritze! (v.i.p.).avs",
-            "size": 2577,
-            "checksum": "sha256:c88f1dc8a9349a7b9a4a97fb4550f61993b2fccba8c008a9adb944d409c44351"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 4/29 s_kupers - curvism (nixa rmx).avs",
-            "size": 6645,
-            "checksum": "sha256:d98eacd916718dcfca774cbf7ee59766d3cfb6bc9612ac37644d71aa99221b2d"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 4/30 dynamic duo - neo curvism circa 1983.avs",
-            "size": 1934,
-            "checksum": "sha256:2d38ec92839de1d30e5a469ee9b53a039d60eb01461f8f9e31276e619651b77d"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 4/31 tuggummi - harmony sky.avs",
-            "size": 2127,
-            "checksum": "sha256:6b56018291272108694f8b22fcc1267c0f4d273c0eb6fbab9571291edda3f5f9"
-        },
-        {
-            "file": "Dynamic Duo/Dynamic Movement 4/32 yathosho - skogsklocka(tm).avs",
-            "size": 3062,
-            "checksum": "sha256:d08f9ade01ca4a2175b4513bde832c199c30cf888640941966b0a07985ee41ff"
-        }
-    ],
-    "assets": [
-        {
-            "file": "avsres_texer_circle_sharp_05x05.bmp",
-            "size": 222,
-            "checksum": "sha256:7fed1eba922199994b49288ec476cbffd75aa77c90e664869306e85d9f4196ce"
-        },
-        {
-            "file": "avsres_texer_square_edgeonly_14x14.bmp",
-            "size": 670,
-            "checksum": "sha256:6d0c3c6121da514e2c95f4db0b596d0c5134011487db5dd42dda5e9aca1d7b45"
-        },
-        {
-            "file": "avsres_texer_square_sharp_14x14.bmp",
-            "size": 1062,
-            "checksum": "sha256:0b61c799914c245f0978ce3f839d5d1c13bb9b3efbed0a662f1f713fdf6756a3"
-        },
-        {
-            "file": "Hboy_nineteen_texer1.bmp",
-            "size": 30054,
-            "checksum": "sha256:15608b6525bcb0f5f79e73de4dd051e02f9a8bb183f6abcad0ddddd1de79393e"
-        },
-        {
-            "file": "Shreyas-IV-01.bmp",
-            "size": 36342,
-            "checksum": "sha256:10bf973044414dbea4dfaf77de57d7de4d3a871f0fc057bda1a3f699e202a411"
-        },
-        {
-            "file": "skupers_cb_auto.bmp",
-            "size": 3656,
-            "checksum": "sha256:2e112f64d85239531d402a8c85aa68810641b13060d77c93c69aa6a254a2e2f5"
-        },
-        {
-            "file": "skupers_cb_gameover.bmp",
-            "size": 18056,
-            "checksum": "sha256:fc535d595b77c9a745e131627b46ae889ce05a6fe2d361e485ee329d59c118f7"
-        },
-        {
-            "file": "skupers_cb_mouse1.bmp",
-            "size": 5456,
-            "checksum": "sha256:ef5a8bd5156e33811ce70fe6711cdbc940a591b79520e6211e5723e3ff28dc5c"
-        },
-        {
-            "file": "skupers_lp7_02.bmp",
-            "size": 10856,
-            "checksum": "sha256:aaeb13486d7082c888a556012a3ea574dc4c651b01510ae9722a1ce184f8fd03"
-        },
-        {
-            "file": "Silkscreen_Bold.ttf",
-            "size": 16172,
-            "checksum": "sha256:cecab42faa04cfc5d5f647ead30d3dbd099468b412300c8a94e5612a76052034"
-        },
-        {
-            "file": "Silkscreen_Expanded_Bold.ttf",
-            "size": 16276,
-            "checksum": "sha256:698eac3062b43638b361660bdb096707b09df13bbf084c4dc95b177a8aa83a7b"
-        },
-        {
-            "file": "Silkscreen_Expanded.ttf",
-            "size": 18444,
-            "checksum": "sha256:1204e736ae72865f861e49396d5313f448357983e9c61d8c0110cd2cdefca9d4"
-        },
-        {
-            "file": "Silkscreen.ttf",
-            "size": 18336,
-            "checksum": "sha256:201df110e8dd8f19da40e5ad953b25bcac34dcb1bd14c7b8e02c9ce0b5ac0ca3"
-        }
-    ],
-    "plugins": [
-        "BufferBlend",
-        "ConvolutionFilter",
-        "MultiFilter"
-    ]
+	"name": "Dynamic Movement 4",
+	"id": "VD004",
+	"presets": [
+		{
+			"file": "Dynamic Duo/Dynamic Movement 4/01 dynamic duo - fix up that intro.avs",
+			"size": 2750,
+			"checksum": "sha256:85d18f2956705b2adc94b2f42f10d0f3eff0430576b242eaf7b77cbf6ef9915a"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 4/02 duo - born on fire.avs",
+			"size": 2556,
+			"checksum": "sha256:85b35ea0f8532608d7646857bc7a7f59f6d538f104c4c44653f7d15898b47759"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 4/03 s_kupers - cool down your jets.avs",
+			"size": 4834,
+			"checksum": "sha256:c1e12dea4ca33680c7c95d4a5679cd4a48b82fc7522802e185b3a4a3bda78b18"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 4/04 nemo orange - golden (yathosho remix).avs",
+			"size": 1591,
+			"checksum": "sha256:2d3735825cfd3f19ac53a3aa791005eb73a27ed3369417a7828a53e4b209e78f"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 4/05 s_kupers - call me right back.avs",
+			"size": 3249,
+			"checksum": "sha256:c19c3301c3e38f585f6ad7f08eb052e72e4fac86e36df1c3234cd76d5742949c"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 4/06 tuggummi - let me out!.avs",
+			"size": 9962,
+			"checksum": "sha256:e8f7666854835250150aa26f04761f43c80424bb3c6414ac521ce2128df0cf68"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 4/07 zxe - semper omnis (s_kupers remix).avs",
+			"size": 4087,
+			"checksum": "sha256:9f121ca3513e3c4bac45373e0ed2432c89f4b69237e204dda3380f825f8b161f"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 4/08 s_kupers - recovering from fate (cherry blossom).avs",
+			"size": 5529,
+			"checksum": "sha256:d0f3a73c4ff8b45e6c8dddba116448400ad1b129ead7f283aae98c4e39ac7a68"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 4/09 zamuz - from the world where flowers grow.avs",
+			"size": 8730,
+			"checksum": "sha256:896f3e341c6b81ec0f215564abb4a318f6b5533503d445ff22e7863ea16b0c76"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 4/10 yathosho - lux eterna (avs-ike remix).avs",
+			"size": 1456,
+			"checksum": "sha256:15cd411468c12ec0590bceedaf910bfb4d6567148950df4f0580ec5ae32899e1"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 4/11 hboy - conceptual dream (s_kupers noise remix).avs",
+			"size": 4394,
+			"checksum": "sha256:1ce983c6e9afc950dd4137f77853af204d9b2d0283e78bbf7810b234e3494d86"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 4/12 dynamic duo vs les Noobiens - back to back to cccp.avs",
+			"size": 3378,
+			"checksum": "sha256:8f66454633bba35a286d00c80fdf64d62fdd156919a0c193127f01e528dfc88c"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 4/13 el-vis - dreamtime iii (s_kupers remix).avs",
+			"size": 4336,
+			"checksum": "sha256:abbfed104ef2b6e416cc0f6a78d62a6f915048323a44996851584276e5c82c24"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 4/14 unconed - twisting fun (les Noobiens rework).avs",
+			"size": 4202,
+			"checksum": "sha256:198bbbf4cd3fa1bb3fc5baa3d092741e993849a346cb3841aaf0743832cbb353"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 4/15 s_kupers - someday my rays will cover the earth.avs",
+			"size": 4887,
+			"checksum": "sha256:406dae98396e6cc0093623e7ba298b93b66ab8bd19a4f9697aca9f8584e4edb4"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 4/16 dasn00b - paint your walls.avs",
+			"size": 705,
+			"checksum": "sha256:58cf44c4ae219be2f080af21417f0a081cb6caca1eeacab109d61c0b95a5f05b"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 4/17 yathosho - east-touristica.avs",
+			"size": 1627,
+			"checksum": "sha256:40fd172e0931029aafe945cd3bd07275f5203f7f24e0a3dc12d4f125ab1e82c5"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 4/18 tuggummi - let me out! (degnic's sailor remix).avs",
+			"size": 8996,
+			"checksum": "sha256:3ad89e5f6cb9e7c31c7600c486547ea939a57810bc7ca810cb10b151be909c78"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 4/19 pure krypton - new hope (yathosho's cape mix).avs",
+			"size": 2418,
+			"checksum": "sha256:348437021647f9f22b0313cab23d9e7d073bd55efc9c4534e01c092b97fed804"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 4/20 yathosho vs el-vis - cherry kisses (v.i.p.).avs",
+			"size": 11171,
+			"checksum": "sha256:454cf1d3c0dfddf6f3fcc6963697ba312c04c65be4342aa6e93b51016c9a2eb8"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 4/21 unconed - the lion king (s_kupers remix).avs",
+			"size": 3526,
+			"checksum": "sha256:6626c226a40f820f2a1422758545b7ce09f640e7d46e7b752a9eb34037d35177"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 4/22 s_kupers vs shock value - activation energy.avs",
+			"size": 4099,
+			"checksum": "sha256:d96145c5b68405131d03b4929be92fdad91b98922ad77bd1583b3511412f4eb1"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 4/23 nemo orange - yatty honey.avs",
+			"size": 1975,
+			"checksum": "sha256:ea187bcb131842d5589bb5fe400e213f881bffe63174fcdda873e42ee6051601"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 4/24 yathosho - organismus 3002.avs",
+			"size": 1243,
+			"checksum": "sha256:d456c3a37c70359c4680d73acd4ddb1eabd4d122383dd9d223ac7429114c7e87"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 4/25 s_kupers - manticore.avs",
+			"size": 3536,
+			"checksum": "sha256:cdbf1b30831d34b7ec341e18634888f6f51bdc8f6b0536ee231cf7f143bec9b4"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 4/26 s_kupers vs el-vis - baby burn.avs",
+			"size": 5113,
+			"checksum": "sha256:193afc0fa03cc71f8fb41a2eb64f8263bb9f9f5fffc4feb54f79569306072c92"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 4/27 yathosho vs tonic - 3d fan (rebroken).avs",
+			"size": 1901,
+			"checksum": "sha256:a78f8d8c854f3d9758a1724b7b9892a6d59c3a0001d5e5f34913bdceb0312afa"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 4/28 yathosho vs unconed - spitze lakritze! (v.i.p.).avs",
+			"size": 2577,
+			"checksum": "sha256:c88f1dc8a9349a7b9a4a97fb4550f61993b2fccba8c008a9adb944d409c44351"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 4/29 s_kupers - curvism (nixa rmx).avs",
+			"size": 6645,
+			"checksum": "sha256:d98eacd916718dcfca774cbf7ee59766d3cfb6bc9612ac37644d71aa99221b2d"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 4/30 dynamic duo - neo curvism circa 1983.avs",
+			"size": 1934,
+			"checksum": "sha256:2d38ec92839de1d30e5a469ee9b53a039d60eb01461f8f9e31276e619651b77d"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 4/31 tuggummi - harmony sky.avs",
+			"size": 2127,
+			"checksum": "sha256:6b56018291272108694f8b22fcc1267c0f4d273c0eb6fbab9571291edda3f5f9"
+		},
+		{
+			"file": "Dynamic Duo/Dynamic Movement 4/32 yathosho - skogsklocka(tm).avs",
+			"size": 3062,
+			"checksum": "sha256:d08f9ade01ca4a2175b4513bde832c199c30cf888640941966b0a07985ee41ff"
+		}
+	],
+	"assets": [
+		{
+			"file": "avsres_texer_circle_sharp_05x05.bmp",
+			"size": 222,
+			"checksum": "sha256:7fed1eba922199994b49288ec476cbffd75aa77c90e664869306e85d9f4196ce"
+		},
+		{
+			"file": "avsres_texer_square_edgeonly_14x14.bmp",
+			"size": 670,
+			"checksum": "sha256:6d0c3c6121da514e2c95f4db0b596d0c5134011487db5dd42dda5e9aca1d7b45"
+		},
+		{
+			"file": "avsres_texer_square_sharp_14x14.bmp",
+			"size": 1062,
+			"checksum": "sha256:0b61c799914c245f0978ce3f839d5d1c13bb9b3efbed0a662f1f713fdf6756a3"
+		},
+		{
+			"file": "Hboy_nineteen_texer1.bmp",
+			"size": 30054,
+			"checksum": "sha256:15608b6525bcb0f5f79e73de4dd051e02f9a8bb183f6abcad0ddddd1de79393e"
+		},
+		{
+			"file": "Shreyas-IV-01.bmp",
+			"size": 36342,
+			"checksum": "sha256:10bf973044414dbea4dfaf77de57d7de4d3a871f0fc057bda1a3f699e202a411"
+		},
+		{
+			"file": "skupers_cb_auto.bmp",
+			"size": 3656,
+			"checksum": "sha256:2e112f64d85239531d402a8c85aa68810641b13060d77c93c69aa6a254a2e2f5"
+		},
+		{
+			"file": "skupers_cb_gameover.bmp",
+			"size": 18056,
+			"checksum": "sha256:fc535d595b77c9a745e131627b46ae889ce05a6fe2d361e485ee329d59c118f7"
+		},
+		{
+			"file": "skupers_cb_mouse1.bmp",
+			"size": 5456,
+			"checksum": "sha256:ef5a8bd5156e33811ce70fe6711cdbc940a591b79520e6211e5723e3ff28dc5c"
+		},
+		{
+			"file": "skupers_lp7_02.bmp",
+			"size": 10856,
+			"checksum": "sha256:aaeb13486d7082c888a556012a3ea574dc4c651b01510ae9722a1ce184f8fd03"
+		},
+		{
+			"file": "Silkscreen_Bold.ttf",
+			"size": 16172,
+			"checksum": "sha256:cecab42faa04cfc5d5f647ead30d3dbd099468b412300c8a94e5612a76052034"
+		},
+		{
+			"file": "Silkscreen_Expanded_Bold.ttf",
+			"size": 16276,
+			"checksum": "sha256:698eac3062b43638b361660bdb096707b09df13bbf084c4dc95b177a8aa83a7b"
+		},
+		{
+			"file": "Silkscreen_Expanded.ttf",
+			"size": 18444,
+			"checksum": "sha256:1204e736ae72865f861e49396d5313f448357983e9c61d8c0110cd2cdefca9d4"
+		},
+		{
+			"file": "Silkscreen.ttf",
+			"size": 18336,
+			"checksum": "sha256:201df110e8dd8f19da40e5ad953b25bcac34dcb1bd14c7b8e02c9ce0b5ac0ca3"
+		}
+	],
+	"plugins": ["BufferBlend", "ConvolutionFilter", "MultiFilter"]
 }

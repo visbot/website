@@ -1,54 +1,52 @@
 {
-    "name": "The Eight Ronin (Reissue)",
-    "id": "VB218",
-    "presets": [
-        {
-            "file": "AVSociety/AVSociety - THE EIGHT RONIN (A Samurai Showcase)/00 (intro).avs",
-            "size": 5208,
-            "checksum": "sha256:2237508ebe455bdba21febaa1617a483afab3f62d98c5b098b9c8fd5e2b66bbb"
-        },
-        {
-            "file": "AVSociety/AVSociety - THE EIGHT RONIN (A Samurai Showcase)/01 duo - lost in a thought.avs",
-            "size": 2043,
-            "checksum": "sha256:9a6f7511004ae853210497a092986cd50b92a015d2263396102a827060b5249b"
-        },
-        {
-            "file": "AVSociety/AVSociety - THE EIGHT RONIN (A Samurai Showcase)/02 nixa - cirolito.avs",
-            "size": 921,
-            "checksum": "sha256:d81e09fa63b2af6548d9de5ef2d252c0e1b68ce75b7967820c3097dab22be03a"
-        },
-        {
-            "file": "AVSociety/AVSociety - THE EIGHT RONIN (A Samurai Showcase)/03 s_kupers - conceptual ninja.avs",
-            "size": 2676,
-            "checksum": "sha256:00743d6a53c6c8b2aa31bb63a4c3b1d90d3c5e73b7ab43a96207bd584dfb36cd"
-        },
-        {
-            "file": "AVSociety/AVSociety - THE EIGHT RONIN (A Samurai Showcase)/04 el-vis - powersource (sanjusangen-do reflection by yathosho).avs",
-            "size": 1267,
-            "checksum": "sha256:09d4e1424aa6a15d4f364627cce7f7dddaf5141ca63d62e7ce6eb13219512aa5"
-        },
-        {
-            "file": "AVSociety/AVSociety - THE EIGHT RONIN (A Samurai Showcase)/05 alchemist - spirit within.avs",
-            "size": 1567,
-            "checksum": "sha256:f519b7830c5aea7fd5041db5e4646f4a9d6622eb173bfb64e7b525132a3d5bc0"
-        },
-        {
-            "file": "AVSociety/AVSociety - THE EIGHT RONIN (A Samurai Showcase)/06 jayfb - ai ki (2versions).avs",
-            "size": 5879,
-            "checksum": "sha256:12a7cd71d660622f4766156e84e3c0fc3c64c424afaa8c0378c77090c372b716"
-        },
-        {
-            "file": "AVSociety/AVSociety - THE EIGHT RONIN (A Samurai Showcase)/07 yathosho - ik+.avs",
-            "size": 738,
-            "checksum": "sha256:766324a7366e147c48d15d605114275547eddb05e7049005b69759dffca3c68d"
-        },
-        {
-            "file": "AVSociety/AVSociety - THE EIGHT RONIN (A Samurai Showcase)/08 nemoorange - to paint with blood.avs",
-            "size": 1718,
-            "checksum": "sha256:56c0223d307d393a504a8ed70ffcfa8c263ee3fc5dcb06c8a7a56679eb5d874c"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "The Eight Ronin (Reissue)",
+	"id": "VB218",
+	"presets": [
+		{
+			"file": "AVSociety/AVSociety - THE EIGHT RONIN (A Samurai Showcase)/00 (intro).avs",
+			"size": 5208,
+			"checksum": "sha256:2237508ebe455bdba21febaa1617a483afab3f62d98c5b098b9c8fd5e2b66bbb"
+		},
+		{
+			"file": "AVSociety/AVSociety - THE EIGHT RONIN (A Samurai Showcase)/01 duo - lost in a thought.avs",
+			"size": 2043,
+			"checksum": "sha256:9a6f7511004ae853210497a092986cd50b92a015d2263396102a827060b5249b"
+		},
+		{
+			"file": "AVSociety/AVSociety - THE EIGHT RONIN (A Samurai Showcase)/02 nixa - cirolito.avs",
+			"size": 921,
+			"checksum": "sha256:d81e09fa63b2af6548d9de5ef2d252c0e1b68ce75b7967820c3097dab22be03a"
+		},
+		{
+			"file": "AVSociety/AVSociety - THE EIGHT RONIN (A Samurai Showcase)/03 s_kupers - conceptual ninja.avs",
+			"size": 2676,
+			"checksum": "sha256:00743d6a53c6c8b2aa31bb63a4c3b1d90d3c5e73b7ab43a96207bd584dfb36cd"
+		},
+		{
+			"file": "AVSociety/AVSociety - THE EIGHT RONIN (A Samurai Showcase)/04 el-vis - powersource (sanjusangen-do reflection by yathosho).avs",
+			"size": 1267,
+			"checksum": "sha256:09d4e1424aa6a15d4f364627cce7f7dddaf5141ca63d62e7ce6eb13219512aa5"
+		},
+		{
+			"file": "AVSociety/AVSociety - THE EIGHT RONIN (A Samurai Showcase)/05 alchemist - spirit within.avs",
+			"size": 1567,
+			"checksum": "sha256:f519b7830c5aea7fd5041db5e4646f4a9d6622eb173bfb64e7b525132a3d5bc0"
+		},
+		{
+			"file": "AVSociety/AVSociety - THE EIGHT RONIN (A Samurai Showcase)/06 jayfb - ai ki (2versions).avs",
+			"size": 5879,
+			"checksum": "sha256:12a7cd71d660622f4766156e84e3c0fc3c64c424afaa8c0378c77090c372b716"
+		},
+		{
+			"file": "AVSociety/AVSociety - THE EIGHT RONIN (A Samurai Showcase)/07 yathosho - ik+.avs",
+			"size": 738,
+			"checksum": "sha256:766324a7366e147c48d15d605114275547eddb05e7049005b69759dffca3c68d"
+		},
+		{
+			"file": "AVSociety/AVSociety - THE EIGHT RONIN (A Samurai Showcase)/08 nemoorange - to paint with blood.avs",
+			"size": 1718,
+			"checksum": "sha256:56c0223d307d393a504a8ed70ffcfa8c263ee3fc5dcb06c8a7a56679eb5d874c"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

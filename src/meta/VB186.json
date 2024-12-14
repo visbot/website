@@ -1,40 +1,34 @@
 {
-    "name": "whyEye.org since when 4",
-    "id": "VB186",
-    "presets": [
-        {
-            "file": "whyEye.org/whyEye.org since when 4/yiA1 micro.d - blockfucker (yathosho refix #1).avs",
-            "size": 6404,
-            "checksum": "sha256:873ea19631ad484dc3b70bc1a31c81faa53efc9cd4c7e5cbcfbe80d3f198eb3b"
-        },
-        {
-            "file": "whyEye.org/whyEye.org since when 4/yiA2 kar-ma - rotational synergy (yathosho edit #2).avs",
-            "size": 2685,
-            "checksum": "sha256:45d5bc02081ae73ca38312e0aa88f0ae16fb70f48d12268e4c809106b6ff9245"
-        },
-        {
-            "file": "whyEye.org/whyEye.org since when 4/yiB1 hurric4ne - you + me (yathosho refix).avs",
-            "size": 9135,
-            "checksum": "sha256:beb5cd06909b48bdc8812d45cb038f03750306b3cf036b4341f0c29a344675cd"
-        },
-        {
-            "file": "whyEye.org/whyEye.org since when 4/yiB2 vanish - hurt (yathosho peeks and pokes rework #7).avs",
-            "size": 4733,
-            "checksum": "sha256:318c2deb91e33232ef80b3bb4f75205ce613d60e27d92946d3575cf21318e25d"
-        }
-    ],
-    "assets": [
-        {
-            "file": "vanish_hurt_screenshot.bmp",
-            "size": 196662,
-            "checksum": "sha256:260ac18d1dd6f772b75bcc8312eab07ef7e8b8191cc520521f0d9ef780a6df3b"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter",
-        "Normalise",
-        "Picture2",
-        "TransAuto",
-        "Triangle"
-    ]
+	"name": "whyEye.org since when 4",
+	"id": "VB186",
+	"presets": [
+		{
+			"file": "whyEye.org/whyEye.org since when 4/yiA1 micro.d - blockfucker (yathosho refix #1).avs",
+			"size": 6404,
+			"checksum": "sha256:873ea19631ad484dc3b70bc1a31c81faa53efc9cd4c7e5cbcfbe80d3f198eb3b"
+		},
+		{
+			"file": "whyEye.org/whyEye.org since when 4/yiA2 kar-ma - rotational synergy (yathosho edit #2).avs",
+			"size": 2685,
+			"checksum": "sha256:45d5bc02081ae73ca38312e0aa88f0ae16fb70f48d12268e4c809106b6ff9245"
+		},
+		{
+			"file": "whyEye.org/whyEye.org since when 4/yiB1 hurric4ne - you + me (yathosho refix).avs",
+			"size": 9135,
+			"checksum": "sha256:beb5cd06909b48bdc8812d45cb038f03750306b3cf036b4341f0c29a344675cd"
+		},
+		{
+			"file": "whyEye.org/whyEye.org since when 4/yiB2 vanish - hurt (yathosho peeks and pokes rework #7).avs",
+			"size": 4733,
+			"checksum": "sha256:318c2deb91e33232ef80b3bb4f75205ce613d60e27d92946d3575cf21318e25d"
+		}
+	],
+	"assets": [
+		{
+			"file": "vanish_hurt_screenshot.bmp",
+			"size": 196662,
+			"checksum": "sha256:260ac18d1dd6f772b75bcc8312eab07ef7e8b8191cc520521f0d9ef780a6df3b"
+		}
+	],
+	"plugins": ["ConvolutionFilter", "Normalise", "Picture2", "TransAuto", "Triangle"]
 }

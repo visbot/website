@@ -1,34 +1,29 @@
 {
-    "name": "RMX EP",
-    "id": "VB187",
-    "presets": [
-        {
-            "file": "PAN AM/RMX EP/01 miCrO.D - blockfucker (PAN_AM remix).avs",
-            "size": 7102,
-            "checksum": "sha256:bc822c66bab1d1836508690e627c28569ff46147b5ea792138dd5a7608fb3284"
-        },
-        {
-            "file": "PAN AM/RMX EP/02 miCrO.D - stripe 2-4 (PAN_AM vs YaTHoSHo remix).avs",
-            "size": 5516,
-            "checksum": "sha256:86970120c3c40a94eaded67ff9c271a863ba9e165c86f096585b16812f542c44"
-        },
-        {
-            "file": "PAN AM/RMX EP/03 oNioRinG - ziyan ii (PAN_AM xmas fix).avs",
-            "size": 18457,
-            "checksum": "sha256:3df3f794a1fdeff7a97040c3506b1933bc165c9988b3d2cd85aac5eb289da9fe"
-        }
-    ],
-    "assets": [
-        {
-            "file": "avsres_texer_circle_edgeonly_25x25.bmp",
-            "size": 1954,
-            "checksum": "sha256:d4cdad41bf5da63e0d560babcc22cd07665f6e7d2d23d5ac5b4ce66d0542bbfa"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter",
-        "Normalise",
-        "TransAuto",
-        "Triangle"
-    ]
+	"name": "RMX EP",
+	"id": "VB187",
+	"presets": [
+		{
+			"file": "PAN AM/RMX EP/01 miCrO.D - blockfucker (PAN_AM remix).avs",
+			"size": 7102,
+			"checksum": "sha256:bc822c66bab1d1836508690e627c28569ff46147b5ea792138dd5a7608fb3284"
+		},
+		{
+			"file": "PAN AM/RMX EP/02 miCrO.D - stripe 2-4 (PAN_AM vs YaTHoSHo remix).avs",
+			"size": 5516,
+			"checksum": "sha256:86970120c3c40a94eaded67ff9c271a863ba9e165c86f096585b16812f542c44"
+		},
+		{
+			"file": "PAN AM/RMX EP/03 oNioRinG - ziyan ii (PAN_AM xmas fix).avs",
+			"size": 18457,
+			"checksum": "sha256:3df3f794a1fdeff7a97040c3506b1933bc165c9988b3d2cd85aac5eb289da9fe"
+		}
+	],
+	"assets": [
+		{
+			"file": "avsres_texer_circle_edgeonly_25x25.bmp",
+			"size": 1954,
+			"checksum": "sha256:d4cdad41bf5da63e0d560babcc22cd07665f6e7d2d23d5ac5b4ce66d0542bbfa"
+		}
+	],
+	"plugins": ["ConvolutionFilter", "Normalise", "TransAuto", "Triangle"]
 }

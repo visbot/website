@@ -78,7 +78,11 @@
 
 <svelte:head>
 	{#if !hidden}
-		<title>Log In &lsaquo; {import.meta.env.VITE_SITE_NAME ? `${import.meta.env.VITE_SITE_NAME} — WordPress` : 'WordPress'}</title>
+		<title
+			>Log In &lsaquo; {import.meta.env.VITE_SITE_NAME
+				? `${import.meta.env.VITE_SITE_NAME} — WordPress`
+				: 'WordPress'}</title
+		>
 	{/if}
 </svelte:head>
 
@@ -88,13 +92,32 @@
 	</div>
 {/if}
 
-<form data-netlify="true" name="loginform" id="loginform" action="/wp-login.php" method="post" class:shake={hasError} onsubmit={preventDefault(submitHandler)} bind:this={formElement} {hidden}>
+<form
+	data-netlify="true"
+	name="loginform"
+	id="loginform"
+	action="/wp-login.php"
+	method="post"
+	class:shake={hasError}
+	onsubmit={preventDefault(submitHandler)}
+	bind:this={formElement}
+	{hidden}
+>
 	<!-- Required for Netlify Forms -->
 	<input type="hidden" name="form-name" value="loginform" />
 
 	<p>
 		<label for="user_login">Username or Email Address</label>
-		<input type="text" name="log" id="user_login" class="input" bind:value={userLogin} size="20" autocapitalize="off" bind:this={loginInput} />
+		<input
+			type="text"
+			name="log"
+			id="user_login"
+			class="input"
+			bind:value={userLogin}
+			size="20"
+			autocapitalize="off"
+			bind:this={loginInput}
+		/>
 	</p>
 
 	<div class="user-pass-wrap">
@@ -106,13 +129,22 @@
 				<input type="text" name="pwd" id="user_pass" class="input password-input" bind:value={userPass} size="20" />
 			{/if}
 
-			<button type="button" class="button button-secondary wp-hide-pw hide-if-no-js" data-toggle="0" aria-label="{hidePassword ? 'Show' : 'Hide'} password" onclick={togglePasswordVisibility}>
+			<button
+				type="button"
+				class="button button-secondary wp-hide-pw hide-if-no-js"
+				data-toggle="0"
+				aria-label="{hidePassword ? 'Show' : 'Hide'} password"
+				onclick={togglePasswordVisibility}
+			>
 				<span class="dashicons dashicons-{hidePassword ? 'visibility' : 'hidden'}" aria-hidden="true"></span>
 			</button>
 		</div>
 	</div>
 
-	<p class="forgetmenot"><input name="rememberme" type="checkbox" id="rememberme" value="forever" /> <label for="rememberme">Remember Me</label></p>
+	<p class="forgetmenot">
+		<input name="rememberme" type="checkbox" id="rememberme" value="forever" />
+		<label for="rememberme">Remember Me</label>
+	</p>
 
 	<p class="submit">
 		<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Log In" />

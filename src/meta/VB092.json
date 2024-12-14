@@ -1,29 +1,27 @@
 {
-    "name": "more boodle, less needs",
-    "id": "VB092",
-    "presets": [
-        {
-            "file": "les Noobiens/more boodle, less needs/lNa1 les Noobiens - r u dijital (rework).avs",
-            "size": 3634,
-            "checksum": "sha256:768e7ced44c51fac5651a30c802b0fe77f4031ffa6c0f4842d644066faa407a5"
-        },
-        {
-            "file": "les Noobiens/more boodle, less needs/lNa2 frames-of-reality - vold (les Noobiens rub edit).avs",
-            "size": 3415,
-            "checksum": "sha256:a2a7f16e08a43420b2c78b451cdd62817a1460a5eb2f4c7b23e6bd7397752432"
-        },
-        {
-            "file": "les Noobiens/more boodle, less needs/lNb1 les Noobiens - r u dijital (edit).avs",
-            "size": 3420,
-            "checksum": "sha256:7bcbe5b0ca9bd68041383dd10570b71ed60ad313e93e7766e3b59efc7d986b2c"
-        },
-        {
-            "file": "les Noobiens/more boodle, less needs/lNb2 frames-of-reality - vold (les Noobiens alternate edit).avs",
-            "size": 3082,
-            "checksum": "sha256:1f1b40e0504335a00308d4333e6de729b3cd9b376c38e419ee83af635a41bc7a"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "more boodle, less needs",
+	"id": "VB092",
+	"presets": [
+		{
+			"file": "les Noobiens/more boodle, less needs/lNa1 les Noobiens - r u dijital (rework).avs",
+			"size": 3634,
+			"checksum": "sha256:768e7ced44c51fac5651a30c802b0fe77f4031ffa6c0f4842d644066faa407a5"
+		},
+		{
+			"file": "les Noobiens/more boodle, less needs/lNa2 frames-of-reality - vold (les Noobiens rub edit).avs",
+			"size": 3415,
+			"checksum": "sha256:a2a7f16e08a43420b2c78b451cdd62817a1460a5eb2f4c7b23e6bd7397752432"
+		},
+		{
+			"file": "les Noobiens/more boodle, less needs/lNb1 les Noobiens - r u dijital (edit).avs",
+			"size": 3420,
+			"checksum": "sha256:7bcbe5b0ca9bd68041383dd10570b71ed60ad313e93e7766e3b59efc7d986b2c"
+		},
+		{
+			"file": "les Noobiens/more boodle, less needs/lNb2 frames-of-reality - vold (les Noobiens alternate edit).avs",
+			"size": 3082,
+			"checksum": "sha256:1f1b40e0504335a00308d4333e6de729b3cd9b376c38e419ee83af635a41bc7a"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

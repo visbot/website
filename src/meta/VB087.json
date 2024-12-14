@@ -1,24 +1,22 @@
 {
-    "name": "danaughty1 - da-naughty-one",
-    "id": "VB087",
-    "presets": [
-        {
-            "file": "da-naughty-one/danaughty1 - da-naughty-one/a1 danaughty1 - the taikonaught (edit).avs",
-            "size": 2037,
-            "checksum": "sha256:02d90e18d74e9d26b5493a8b890468f9ba14c47cac44b4886e6655fbf0f128b5"
-        },
-        {
-            "file": "da-naughty-one/danaughty1 - da-naughty-one/a2 danaughty1 - it's da naughtilus (zamuz's dr greenthumb mix).avs",
-            "size": 2493,
-            "checksum": "sha256:7180177d1a4ab518a2897ec40c4996417244226a0c04cb6bcbcfe7ca2679b035"
-        },
-        {
-            "file": "da-naughty-one/danaughty1 - da-naughty-one/b2 danaughty1 - da-naughty-loose (edit).avs",
-            "size": 2591,
-            "checksum": "sha256:ca4f2f71d4aaa24596198166b35280f44d4784250b3cfd64bc5c1fabe9aa41d5"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "danaughty1 - da-naughty-one",
+	"id": "VB087",
+	"presets": [
+		{
+			"file": "da-naughty-one/danaughty1 - da-naughty-one/a1 danaughty1 - the taikonaught (edit).avs",
+			"size": 2037,
+			"checksum": "sha256:02d90e18d74e9d26b5493a8b890468f9ba14c47cac44b4886e6655fbf0f128b5"
+		},
+		{
+			"file": "da-naughty-one/danaughty1 - da-naughty-one/a2 danaughty1 - it's da naughtilus (zamuz's dr greenthumb mix).avs",
+			"size": 2493,
+			"checksum": "sha256:7180177d1a4ab518a2897ec40c4996417244226a0c04cb6bcbcfe7ca2679b035"
+		},
+		{
+			"file": "da-naughty-one/danaughty1 - da-naughty-one/b2 danaughty1 - da-naughty-loose (edit).avs",
+			"size": 2591,
+			"checksum": "sha256:ca4f2f71d4aaa24596198166b35280f44d4784250b3cfd64bc5c1fabe9aa41d5"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

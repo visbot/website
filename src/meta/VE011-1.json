@@ -1,165 +1,159 @@
 {
-    "name": "Dynamic Duo EPs 2003-2005",
-    "id": "VE011-1",
-    "presets": [
-        {
-            "file": "Dynamic Duo/EPs 2003-2005/01 dynamic duo - gentle.avs",
-            "size": 789,
-            "checksum": "sha256:ac3253729934aff05f81d7f4ea5710404292399bd37484c048210069165f9f6b"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2003-2005/02 dynamic duo - knitting.avs",
-            "size": 1294,
-            "checksum": "sha256:adf82249e9a5ee51321022cfd816ca88cf3a53055203131a7bb70e591cf0f7ee"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2003-2005/03 dynamic duo - tequilax.avs",
-            "size": 810,
-            "checksum": "sha256:dfc6bd17acf0c0a294d1626204245806096cc66b92d3dbc61495c5f1d772b07c"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2003-2005/04 dynamic duo - get sick.avs",
-            "size": 888,
-            "checksum": "sha256:fa66373febf738acbe79656856076ce17e9988852c18ca69e91ef82779e0c771"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2003-2005/05 dynamic duo - europeans.avs",
-            "size": 717,
-            "checksum": "sha256:6c764d4bb0d8e273a18b28798f43794afe29b625e2b51e24c400b5cfa672b161"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2003-2005/06 dynamic duo - europeans (skupers innercircle mix).avs",
-            "size": 1788,
-            "checksum": "sha256:71ce998e474e460f6ac29631b51dce2d9d4c783e3d0779a8b34d0d5557f4e7d1"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2003-2005/07 dynamic duo - european future.avs",
-            "size": 3449,
-            "checksum": "sha256:2f0977497c32081dedaa2592b9c3bfc740419c880424b5e463adf2598554dfb5"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2003-2005/08 dynamic duo - europeans (ya-tho-sho broken mix).avs",
-            "size": 621,
-            "checksum": "sha256:bddfcd6b45b5839eb3b6225e3d9247bc1678bb8aba31d17a2182296fb344d9d9"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2003-2005/09 dynamic duo - texturized.avs",
-            "size": 3071,
-            "checksum": "sha256:69f6777247f8ac340edf627870887c13634b6053dad8f8105b61fb88f5c1630f"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2003-2005/10 dynamic duo - curvaceous 02.avs",
-            "size": 2207,
-            "checksum": "sha256:998584ce2a109cf09105f257548be4257038684af67ed4e51bdfd9b68ceccf4c"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2003-2005/11 dynamic duo - dial m for drugstore.avs",
-            "size": 1747,
-            "checksum": "sha256:473d042900e9bb7121413fbd73eb7028a02ccd58b5c1cb7b265fe35b7164414c"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2003-2005/12 dynamic duo - jiwsaw.avs",
-            "size": 1911,
-            "checksum": "sha256:ded5b8efc2ab85eb8fdce999a3d7ffd4b000cad070fa44ca063f2d16cc01a049"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2003-2005/13 dynamic duo - my gold teeth.avs",
-            "size": 2886,
-            "checksum": "sha256:6c1f4b59ebc7dd4e2b603c0ac3a982da8c8ed21808947c58d73b955c3f9a8956"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2003-2005/14 dynamic duo - neo curvism circa 1983.avs",
-            "size": 1952,
-            "checksum": "sha256:f5e37093ce4197dc85f7cece5ee1ccdf2b90351a2207a766a82671f0e0a58033"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2003-2005/15 dynamic duo - fix up that visbot.avs",
-            "size": 1941,
-            "checksum": "sha256:ac0e0b809ce1f9629c319debcfd7b3dd84a7392b48d341f834ce41ee459164c7"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2003-2005/16 dynamic duo - antikombi.avs",
-            "size": 3326,
-            "checksum": "sha256:e2e1db9ff7ed8242d8efbc45e3b5da33e4851bdbd70203432493c949579eeb85"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2003-2005/17 dynamic duo - it's all square (early version).avs",
-            "size": 2006,
-            "checksum": "sha256:e17edca30437f97905f277e5fed31ffa11f80a8cc25a56fd0c62aac277e51de1"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2003-2005/18 dynamic duo - night lighter.avs",
-            "size": 2295,
-            "checksum": "sha256:6f0652be707ac6119808e2dc0523b9c9861adc734ab7fc98a381e009a0d5ec61"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2003-2005/19 dynamic duo - e to the x yi squared.avs",
-            "size": 2911,
-            "checksum": "sha256:225144d78993705c7fe2a155d00fc63610fb1a70ce9e4b980b5aa7b61d95c900"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2003-2005/20 dynamic duo - zamuzified.avs",
-            "size": 2422,
-            "checksum": "sha256:1fc6967139ffbce3062580c01464579e3376fc9ea253ccca882a9b5dbd120087"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2003-2005/21 dynamic duo - pit.avs",
-            "size": 2646,
-            "checksum": "sha256:1a8ff4cf71d6a1c4b8451a567a25423dafbe923587bdddf062f4b0b31ff12b56"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2003-2005/22 dynamic duo - carousel.avs",
-            "size": 1679,
-            "checksum": "sha256:4486ab6fc754f2959c6ede2e30fa2f7458d25ee8032667af54dd59a596d98c69"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2003-2005/23 dynamic duo - elevation.avs",
-            "size": 3661,
-            "checksum": "sha256:13162325293f0833138d85e722ba9ecebc57b025d6b664112b20a112f6fd81f5"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2003-2005/24 dynamic duo - zamuz lt.avs",
-            "size": 8102,
-            "checksum": "sha256:9a1295fd984dd162dc33f2cd3cd4a3cadf7d91b363435308a5b402c536e4bebf"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2003-2005/25 dynamic duo - envian.avs",
-            "size": 3515,
-            "checksum": "sha256:95bae1692c10a3b0bde3dd91a176a2672a792bf5eb9843f174ff6241608ad465"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2003-2005/26 dynamic duo - ny.avs",
-            "size": 3068,
-            "checksum": "sha256:3509696cf7a7933042c39ce6c0a81abd58bb89c69e8a629f8f61c3039f0cd0d3"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2003-2005/27 dynamic duo - jet down to it.avs",
-            "size": 4943,
-            "checksum": "sha256:e2b7213b01ee8440c5cf0e47b30651fc2b207382a185e6a08a9251da239bc032"
-        },
-        {
-            "file": "Dynamic Duo/EPs 2003-2005/28 dynamic duo - upachi.avs",
-            "size": 3141,
-            "checksum": "sha256:64318bdf3a816ecad6a7fb46400d6531804543687638c4be66ac7f06e5c49f0d"
-        }
-    ],
-    "assets": [
-        {
-            "file": "avsres_texer_square_edgeonly_28x28.bmp",
-            "size": 2406,
-            "checksum": "sha256:92562607c279b3b13fa87bd48960f15b4380d4fdc1a9595f9a90d3915b0cbe12"
-        },
-        {
-            "file": "dynduo-star.bmp",
-            "size": 856,
-            "checksum": "sha256:a5a1ae4a2cad1eff6d5f323b09d7184977ea74621fe8c7be8d7e779d737cc013"
-        }
-    ],
-    "plugins": [
-        "BufferBlend",
-        "FramerateLimiter",
-        "Multiplier",
-        "Texer",
-        "VideoDelay"
-    ]
+	"name": "Dynamic Duo EPs 2003-2005",
+	"id": "VE011-1",
+	"presets": [
+		{
+			"file": "Dynamic Duo/EPs 2003-2005/01 dynamic duo - gentle.avs",
+			"size": 789,
+			"checksum": "sha256:ac3253729934aff05f81d7f4ea5710404292399bd37484c048210069165f9f6b"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2003-2005/02 dynamic duo - knitting.avs",
+			"size": 1294,
+			"checksum": "sha256:adf82249e9a5ee51321022cfd816ca88cf3a53055203131a7bb70e591cf0f7ee"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2003-2005/03 dynamic duo - tequilax.avs",
+			"size": 810,
+			"checksum": "sha256:dfc6bd17acf0c0a294d1626204245806096cc66b92d3dbc61495c5f1d772b07c"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2003-2005/04 dynamic duo - get sick.avs",
+			"size": 888,
+			"checksum": "sha256:fa66373febf738acbe79656856076ce17e9988852c18ca69e91ef82779e0c771"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2003-2005/05 dynamic duo - europeans.avs",
+			"size": 717,
+			"checksum": "sha256:6c764d4bb0d8e273a18b28798f43794afe29b625e2b51e24c400b5cfa672b161"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2003-2005/06 dynamic duo - europeans (skupers innercircle mix).avs",
+			"size": 1788,
+			"checksum": "sha256:71ce998e474e460f6ac29631b51dce2d9d4c783e3d0779a8b34d0d5557f4e7d1"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2003-2005/07 dynamic duo - european future.avs",
+			"size": 3449,
+			"checksum": "sha256:2f0977497c32081dedaa2592b9c3bfc740419c880424b5e463adf2598554dfb5"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2003-2005/08 dynamic duo - europeans (ya-tho-sho broken mix).avs",
+			"size": 621,
+			"checksum": "sha256:bddfcd6b45b5839eb3b6225e3d9247bc1678bb8aba31d17a2182296fb344d9d9"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2003-2005/09 dynamic duo - texturized.avs",
+			"size": 3071,
+			"checksum": "sha256:69f6777247f8ac340edf627870887c13634b6053dad8f8105b61fb88f5c1630f"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2003-2005/10 dynamic duo - curvaceous 02.avs",
+			"size": 2207,
+			"checksum": "sha256:998584ce2a109cf09105f257548be4257038684af67ed4e51bdfd9b68ceccf4c"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2003-2005/11 dynamic duo - dial m for drugstore.avs",
+			"size": 1747,
+			"checksum": "sha256:473d042900e9bb7121413fbd73eb7028a02ccd58b5c1cb7b265fe35b7164414c"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2003-2005/12 dynamic duo - jiwsaw.avs",
+			"size": 1911,
+			"checksum": "sha256:ded5b8efc2ab85eb8fdce999a3d7ffd4b000cad070fa44ca063f2d16cc01a049"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2003-2005/13 dynamic duo - my gold teeth.avs",
+			"size": 2886,
+			"checksum": "sha256:6c1f4b59ebc7dd4e2b603c0ac3a982da8c8ed21808947c58d73b955c3f9a8956"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2003-2005/14 dynamic duo - neo curvism circa 1983.avs",
+			"size": 1952,
+			"checksum": "sha256:f5e37093ce4197dc85f7cece5ee1ccdf2b90351a2207a766a82671f0e0a58033"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2003-2005/15 dynamic duo - fix up that visbot.avs",
+			"size": 1941,
+			"checksum": "sha256:ac0e0b809ce1f9629c319debcfd7b3dd84a7392b48d341f834ce41ee459164c7"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2003-2005/16 dynamic duo - antikombi.avs",
+			"size": 3326,
+			"checksum": "sha256:e2e1db9ff7ed8242d8efbc45e3b5da33e4851bdbd70203432493c949579eeb85"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2003-2005/17 dynamic duo - it's all square (early version).avs",
+			"size": 2006,
+			"checksum": "sha256:e17edca30437f97905f277e5fed31ffa11f80a8cc25a56fd0c62aac277e51de1"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2003-2005/18 dynamic duo - night lighter.avs",
+			"size": 2295,
+			"checksum": "sha256:6f0652be707ac6119808e2dc0523b9c9861adc734ab7fc98a381e009a0d5ec61"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2003-2005/19 dynamic duo - e to the x yi squared.avs",
+			"size": 2911,
+			"checksum": "sha256:225144d78993705c7fe2a155d00fc63610fb1a70ce9e4b980b5aa7b61d95c900"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2003-2005/20 dynamic duo - zamuzified.avs",
+			"size": 2422,
+			"checksum": "sha256:1fc6967139ffbce3062580c01464579e3376fc9ea253ccca882a9b5dbd120087"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2003-2005/21 dynamic duo - pit.avs",
+			"size": 2646,
+			"checksum": "sha256:1a8ff4cf71d6a1c4b8451a567a25423dafbe923587bdddf062f4b0b31ff12b56"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2003-2005/22 dynamic duo - carousel.avs",
+			"size": 1679,
+			"checksum": "sha256:4486ab6fc754f2959c6ede2e30fa2f7458d25ee8032667af54dd59a596d98c69"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2003-2005/23 dynamic duo - elevation.avs",
+			"size": 3661,
+			"checksum": "sha256:13162325293f0833138d85e722ba9ecebc57b025d6b664112b20a112f6fd81f5"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2003-2005/24 dynamic duo - zamuz lt.avs",
+			"size": 8102,
+			"checksum": "sha256:9a1295fd984dd162dc33f2cd3cd4a3cadf7d91b363435308a5b402c536e4bebf"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2003-2005/25 dynamic duo - envian.avs",
+			"size": 3515,
+			"checksum": "sha256:95bae1692c10a3b0bde3dd91a176a2672a792bf5eb9843f174ff6241608ad465"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2003-2005/26 dynamic duo - ny.avs",
+			"size": 3068,
+			"checksum": "sha256:3509696cf7a7933042c39ce6c0a81abd58bb89c69e8a629f8f61c3039f0cd0d3"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2003-2005/27 dynamic duo - jet down to it.avs",
+			"size": 4943,
+			"checksum": "sha256:e2b7213b01ee8440c5cf0e47b30651fc2b207382a185e6a08a9251da239bc032"
+		},
+		{
+			"file": "Dynamic Duo/EPs 2003-2005/28 dynamic duo - upachi.avs",
+			"size": 3141,
+			"checksum": "sha256:64318bdf3a816ecad6a7fb46400d6531804543687638c4be66ac7f06e5c49f0d"
+		}
+	],
+	"assets": [
+		{
+			"file": "avsres_texer_square_edgeonly_28x28.bmp",
+			"size": 2406,
+			"checksum": "sha256:92562607c279b3b13fa87bd48960f15b4380d4fdc1a9595f9a90d3915b0cbe12"
+		},
+		{
+			"file": "dynduo-star.bmp",
+			"size": 856,
+			"checksum": "sha256:a5a1ae4a2cad1eff6d5f323b09d7184977ea74621fe8c7be8d7e779d737cc013"
+		}
+	],
+	"plugins": ["BufferBlend", "FramerateLimiter", "Multiplier", "Texer", "VideoDelay"]
 }

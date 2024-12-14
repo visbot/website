@@ -1,96 +1,92 @@
 {
-    "name": "Revisions",
-    "id": "VB030",
-    "presets": [
-        {
-            "file": "Zamuz/Revisions/01 - Zamuz - Revisions.avs",
-            "size": 2259,
-            "checksum": "sha256:f35a459aa888baf5488f3f62120f60f2af07fca05c49288e27321206ec4e746d"
-        },
-        {
-            "file": "Zamuz/Revisions/02 - Degnic - Blood, Snow and Sky [Restylished].avs",
-            "size": 4497,
-            "checksum": "sha256:73d34b19d2f5f7bdd69d9a884633f1ce1a7abf1b04bd74c5e8831ab60196297a"
-        },
-        {
-            "file": "Zamuz/Revisions/03 - les Noobiens - Bumpy Carpet [This is not IKEA rmx].avs",
-            "size": 1979,
-            "checksum": "sha256:7066af3cc11771ee92eaf89ac24e65ec069cf6e3e7e917992fd9b1f4bfd6e987"
-        },
-        {
-            "file": "Zamuz/Revisions/04 - les Noobiens - Explosive Virus [Windowlicking rmx].avs",
-            "size": 975,
-            "checksum": "sha256:a410bbd4c83340ff9bc070c5eb9cf1176d28f3c7209509a52b40f61c15963761"
-        },
-        {
-            "file": "Zamuz/Revisions/05 - NemoOrange - Bus, Snow and Street.avs",
-            "size": 3508,
-            "checksum": "sha256:d9d8b34264960a5b20d9ad436f7099c608bf2b881bf2e2adff9e2774d5480a64"
-        },
-        {
-            "file": "Zamuz/Revisions/06 - NemoOrange - Toxic Warmth.avs",
-            "size": 3193,
-            "checksum": "sha256:b5c41596c6a4c52866e356e66492023f2fc633b98bddccd50516579aa708eb16"
-        },
-        {
-            "file": "Zamuz/Revisions/07 - Skupers - Acid Shines [Skupers shining on rmx].avs",
-            "size": 4008,
-            "checksum": "sha256:6b76b141c72a1e168a4b6d553691bc3b684c7570af2c747bdfff61cbc647705e"
-        },
-        {
-            "file": "Zamuz/Revisions/08 - Skupers - Alien Sofistication [Skupers pushing the buttons rmx].avs",
-            "size": 3467,
-            "checksum": "sha256:0b14389700ccfd1189c142578cb768782c9c367aef1142a518ee8c45706f7385"
-        },
-        {
-            "file": "Zamuz/Revisions/09 - Skupers - Blood, Snow and Sky [Skupers goes skiing rmx].avs",
-            "size": 3966,
-            "checksum": "sha256:8412c9b0a02f9c25da933c22b99c8ad69eb084c04b5649dcf313d9ee318d8428"
-        },
-        {
-            "file": "Zamuz/Revisions/10 - Skupers - Metallic Shades [Skupers buys new sunglasses rmx].avs",
-            "size": 4736,
-            "checksum": "sha256:b04dbe899184d819155c439f835afdd6cfab665c258c87060b3352767bd2fa5c"
-        },
-        {
-            "file": "Zamuz/Revisions/11 - Skupers - Milky Dream [Skupers catches a new zebra rmx].avs",
-            "size": 2822,
-            "checksum": "sha256:5ae5ff181880096ddacb491099878f81e85169254bec8d1ac5b707f0662992c9"
-        },
-        {
-            "file": "Zamuz/Revisions/12 - Skupers - Wireframeish [Skupers hates high linewidth rmx].avs",
-            "size": 2964,
-            "checksum": "sha256:ed9319f5b624d322047898a0350b948acc6ec9f6115a0fadc5c72b92c206786b"
-        },
-        {
-            "file": "Zamuz/Revisions/13 - Tuggummi - Explosive Virus [Purified rmx].avs",
-            "size": 4918,
-            "checksum": "sha256:aebdd0c6c845ca1af6cec64441084d4f73abb33d0c59711f2d1bce4de2e97577"
-        },
-        {
-            "file": "Zamuz/Revisions/14 - Tuggummi - Wireframeish [Skuriko mix].avs",
-            "size": 3258,
-            "checksum": "sha256:8a381fbfa7175a9497da0648e3a39fe21484a8a51f9f784eab8ebf655b291228"
-        },
-        {
-            "file": "Zamuz/Revisions/15 - Yathosho - Bella Sol.avs",
-            "size": 1569,
-            "checksum": "sha256:e1ef14d26f6884e123e5890a4b1579eefd6bd1b868fec7bfe953ed80cfa8b618"
-        },
-        {
-            "file": "Zamuz/Revisions/16 - Yathosho - Bumpy Carpet [Photon Design Re-Edit].avs",
-            "size": 1897,
-            "checksum": "sha256:b3cbd7fa9dec9f72d0b6510e9f7fcd2f2a52861d82b0197d5170b443c9a00396"
-        },
-        {
-            "file": "Zamuz/Revisions/17 - Zamuz - Explosive Virus [Infected Candies rmx].avs",
-            "size": 3318,
-            "checksum": "sha256:b6664777511e9cb8b1070321abd35ba8fe5d2fb98d45b1a429b7e04ce5ae9617"
-        }
-    ],
-    "plugins": [
-        "BufferBlend",
-        "ConvolutionFilter",
-        "MultiFilter"
-    ]
+	"name": "Revisions",
+	"id": "VB030",
+	"presets": [
+		{
+			"file": "Zamuz/Revisions/01 - Zamuz - Revisions.avs",
+			"size": 2259,
+			"checksum": "sha256:f35a459aa888baf5488f3f62120f60f2af07fca05c49288e27321206ec4e746d"
+		},
+		{
+			"file": "Zamuz/Revisions/02 - Degnic - Blood, Snow and Sky [Restylished].avs",
+			"size": 4497,
+			"checksum": "sha256:73d34b19d2f5f7bdd69d9a884633f1ce1a7abf1b04bd74c5e8831ab60196297a"
+		},
+		{
+			"file": "Zamuz/Revisions/03 - les Noobiens - Bumpy Carpet [This is not IKEA rmx].avs",
+			"size": 1979,
+			"checksum": "sha256:7066af3cc11771ee92eaf89ac24e65ec069cf6e3e7e917992fd9b1f4bfd6e987"
+		},
+		{
+			"file": "Zamuz/Revisions/04 - les Noobiens - Explosive Virus [Windowlicking rmx].avs",
+			"size": 975,
+			"checksum": "sha256:a410bbd4c83340ff9bc070c5eb9cf1176d28f3c7209509a52b40f61c15963761"
+		},
+		{
+			"file": "Zamuz/Revisions/05 - NemoOrange - Bus, Snow and Street.avs",
+			"size": 3508,
+			"checksum": "sha256:d9d8b34264960a5b20d9ad436f7099c608bf2b881bf2e2adff9e2774d5480a64"
+		},
+		{
+			"file": "Zamuz/Revisions/06 - NemoOrange - Toxic Warmth.avs",
+			"size": 3193,
+			"checksum": "sha256:b5c41596c6a4c52866e356e66492023f2fc633b98bddccd50516579aa708eb16"
+		},
+		{
+			"file": "Zamuz/Revisions/07 - Skupers - Acid Shines [Skupers shining on rmx].avs",
+			"size": 4008,
+			"checksum": "sha256:6b76b141c72a1e168a4b6d553691bc3b684c7570af2c747bdfff61cbc647705e"
+		},
+		{
+			"file": "Zamuz/Revisions/08 - Skupers - Alien Sofistication [Skupers pushing the buttons rmx].avs",
+			"size": 3467,
+			"checksum": "sha256:0b14389700ccfd1189c142578cb768782c9c367aef1142a518ee8c45706f7385"
+		},
+		{
+			"file": "Zamuz/Revisions/09 - Skupers - Blood, Snow and Sky [Skupers goes skiing rmx].avs",
+			"size": 3966,
+			"checksum": "sha256:8412c9b0a02f9c25da933c22b99c8ad69eb084c04b5649dcf313d9ee318d8428"
+		},
+		{
+			"file": "Zamuz/Revisions/10 - Skupers - Metallic Shades [Skupers buys new sunglasses rmx].avs",
+			"size": 4736,
+			"checksum": "sha256:b04dbe899184d819155c439f835afdd6cfab665c258c87060b3352767bd2fa5c"
+		},
+		{
+			"file": "Zamuz/Revisions/11 - Skupers - Milky Dream [Skupers catches a new zebra rmx].avs",
+			"size": 2822,
+			"checksum": "sha256:5ae5ff181880096ddacb491099878f81e85169254bec8d1ac5b707f0662992c9"
+		},
+		{
+			"file": "Zamuz/Revisions/12 - Skupers - Wireframeish [Skupers hates high linewidth rmx].avs",
+			"size": 2964,
+			"checksum": "sha256:ed9319f5b624d322047898a0350b948acc6ec9f6115a0fadc5c72b92c206786b"
+		},
+		{
+			"file": "Zamuz/Revisions/13 - Tuggummi - Explosive Virus [Purified rmx].avs",
+			"size": 4918,
+			"checksum": "sha256:aebdd0c6c845ca1af6cec64441084d4f73abb33d0c59711f2d1bce4de2e97577"
+		},
+		{
+			"file": "Zamuz/Revisions/14 - Tuggummi - Wireframeish [Skuriko mix].avs",
+			"size": 3258,
+			"checksum": "sha256:8a381fbfa7175a9497da0648e3a39fe21484a8a51f9f784eab8ebf655b291228"
+		},
+		{
+			"file": "Zamuz/Revisions/15 - Yathosho - Bella Sol.avs",
+			"size": 1569,
+			"checksum": "sha256:e1ef14d26f6884e123e5890a4b1579eefd6bd1b868fec7bfe953ed80cfa8b618"
+		},
+		{
+			"file": "Zamuz/Revisions/16 - Yathosho - Bumpy Carpet [Photon Design Re-Edit].avs",
+			"size": 1897,
+			"checksum": "sha256:b3cbd7fa9dec9f72d0b6510e9f7fcd2f2a52861d82b0197d5170b443c9a00396"
+		},
+		{
+			"file": "Zamuz/Revisions/17 - Zamuz - Explosive Virus [Infected Candies rmx].avs",
+			"size": 3318,
+			"checksum": "sha256:b6664777511e9cb8b1070321abd35ba8fe5d2fb98d45b1a429b7e04ce5ae9617"
+		}
+	],
+	"plugins": ["BufferBlend", "ConvolutionFilter", "MultiFilter"]
 }

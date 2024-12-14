@@ -1,92 +1,89 @@
 {
-    "name": "visualove",
-    "id": "VB133",
-    "presets": [
-        {
-            "file": "Hboy/visualove/duo - biofeedback (final destination mix).avs",
-            "size": 4885,
-            "checksum": "sha256:c8bd57d57abcf17921d9e137f9e0cae4f63110e2aa564ebf940856172afd8e69"
-        },
-        {
-            "file": "Hboy/visualove/Hboy - blue hellfire.avs",
-            "size": 15270,
-            "checksum": "sha256:bcd4f4c0db4587bffa0549427578c8121c9923844e157c77d289298aa3e98922"
-        },
-        {
-            "file": "Hboy/visualove/Hboy - fairies on strings.avs",
-            "size": 6728,
-            "checksum": "sha256:c6b1957a41398325f92f7cc3caf47494f17a40ba2390113a7348206179f3e28a"
-        },
-        {
-            "file": "Hboy/visualove/Hboy - fiery caramel.avs",
-            "size": 2586,
-            "checksum": "sha256:07cdc0fbc20c30e9cae25242709f1b709b96c98c85723d4134c615019d1d158d"
-        },
-        {
-            "file": "Hboy/visualove/Hboy - full of stars.avs",
-            "size": 10670,
-            "checksum": "sha256:3922f0539bddd4e67ec9a9d2a29eff2b7c6a321387382a9c50620673292f6526"
-        },
-        {
-            "file": "Hboy/visualove/Hboy - ghost.avs",
-            "size": 2638,
-            "checksum": "sha256:574d65f2bac0434bb4f356d5e16cd60d464439645cd6e65767dd29c53cf26cac"
-        },
-        {
-            "file": "Hboy/visualove/Hboy - journey.avs",
-            "size": 5341,
-            "checksum": "sha256:fe778ac666b52607416ecb9109b84b7bbf9bc6bcc32318a9c7b93ad8f1767bb7"
-        },
-        {
-            "file": "Hboy/visualove/Hboy - nemesis.avs",
-            "size": 11713,
-            "checksum": "sha256:b9a3cbda2656a23e7e82832f8cb228e1138a5a15da12f8a242467435de579be4"
-        },
-        {
-            "file": "Hboy/visualove/Hboy - phoenix.avs",
-            "size": 4147,
-            "checksum": "sha256:c812fa8ce53929005f6ffd31cf0991df29bf4c32b4eb2ea8fd9b9b3454858997"
-        },
-        {
-            "file": "Hboy/visualove/Hboy - ReMotion.avs",
-            "size": 3297,
-            "checksum": "sha256:1a696e93205b5da635fd7aaba39c27dcd97b9207cc4a8cc92642cf13feb2dc2c"
-        },
-        {
-            "file": "Hboy/visualove/Hboy - sex.avs",
-            "size": 5522,
-            "checksum": "sha256:21bd747d52aaacf24876919c782b517b13965eff9d84ab82b1ab557e5e45ccb2"
-        },
-        {
-            "file": "Hboy/visualove/Hboy - when dreams awake.avs",
-            "size": 3987,
-            "checksum": "sha256:5fa442f70112a128bd2558adc32178e1cfdf4d0ebac648135ac3faf02e2ef038"
-        }
-    ],
-    "assets": [
-        {
-            "file": "avsres_texer_circle_heavyblur_25x25.bmp",
-            "size": 1954,
-            "checksum": "sha256:628fcd6f3794a85c8ddb61ef90ad3b9a3054eaa568470e582897e72ba92dcb10"
-        },
-        {
-            "file": "Hboy_texer_1.bmp",
-            "size": 17154,
-            "checksum": "sha256:2c13faf386e071d3fe17bc5f2e8f72a4244e085a5a985b249d169fa6c414d27c"
-        },
-        {
-            "file": "hboy_texer_2.bmp",
-            "size": 30054,
-            "checksum": "sha256:15608b6525bcb0f5f79e73de4dd051e02f9a8bb183f6abcad0ddddd1de79393e"
-        },
-        {
-            "file": "Shreyas-IV-01.bmp",
-            "size": 36342,
-            "checksum": "sha256:10bf973044414dbea4dfaf77de57d7de4d3a871f0fc057bda1a3f699e202a411"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter",
-        "GlobalVarMan"
-    ]
+	"name": "visualove",
+	"id": "VB133",
+	"presets": [
+		{
+			"file": "Hboy/visualove/duo - biofeedback (final destination mix).avs",
+			"size": 4885,
+			"checksum": "sha256:c8bd57d57abcf17921d9e137f9e0cae4f63110e2aa564ebf940856172afd8e69"
+		},
+		{
+			"file": "Hboy/visualove/Hboy - blue hellfire.avs",
+			"size": 15270,
+			"checksum": "sha256:bcd4f4c0db4587bffa0549427578c8121c9923844e157c77d289298aa3e98922"
+		},
+		{
+			"file": "Hboy/visualove/Hboy - fairies on strings.avs",
+			"size": 6728,
+			"checksum": "sha256:c6b1957a41398325f92f7cc3caf47494f17a40ba2390113a7348206179f3e28a"
+		},
+		{
+			"file": "Hboy/visualove/Hboy - fiery caramel.avs",
+			"size": 2586,
+			"checksum": "sha256:07cdc0fbc20c30e9cae25242709f1b709b96c98c85723d4134c615019d1d158d"
+		},
+		{
+			"file": "Hboy/visualove/Hboy - full of stars.avs",
+			"size": 10670,
+			"checksum": "sha256:3922f0539bddd4e67ec9a9d2a29eff2b7c6a321387382a9c50620673292f6526"
+		},
+		{
+			"file": "Hboy/visualove/Hboy - ghost.avs",
+			"size": 2638,
+			"checksum": "sha256:574d65f2bac0434bb4f356d5e16cd60d464439645cd6e65767dd29c53cf26cac"
+		},
+		{
+			"file": "Hboy/visualove/Hboy - journey.avs",
+			"size": 5341,
+			"checksum": "sha256:fe778ac666b52607416ecb9109b84b7bbf9bc6bcc32318a9c7b93ad8f1767bb7"
+		},
+		{
+			"file": "Hboy/visualove/Hboy - nemesis.avs",
+			"size": 11713,
+			"checksum": "sha256:b9a3cbda2656a23e7e82832f8cb228e1138a5a15da12f8a242467435de579be4"
+		},
+		{
+			"file": "Hboy/visualove/Hboy - phoenix.avs",
+			"size": 4147,
+			"checksum": "sha256:c812fa8ce53929005f6ffd31cf0991df29bf4c32b4eb2ea8fd9b9b3454858997"
+		},
+		{
+			"file": "Hboy/visualove/Hboy - ReMotion.avs",
+			"size": 3297,
+			"checksum": "sha256:1a696e93205b5da635fd7aaba39c27dcd97b9207cc4a8cc92642cf13feb2dc2c"
+		},
+		{
+			"file": "Hboy/visualove/Hboy - sex.avs",
+			"size": 5522,
+			"checksum": "sha256:21bd747d52aaacf24876919c782b517b13965eff9d84ab82b1ab557e5e45ccb2"
+		},
+		{
+			"file": "Hboy/visualove/Hboy - when dreams awake.avs",
+			"size": 3987,
+			"checksum": "sha256:5fa442f70112a128bd2558adc32178e1cfdf4d0ebac648135ac3faf02e2ef038"
+		}
+	],
+	"assets": [
+		{
+			"file": "avsres_texer_circle_heavyblur_25x25.bmp",
+			"size": 1954,
+			"checksum": "sha256:628fcd6f3794a85c8ddb61ef90ad3b9a3054eaa568470e582897e72ba92dcb10"
+		},
+		{
+			"file": "Hboy_texer_1.bmp",
+			"size": 17154,
+			"checksum": "sha256:2c13faf386e071d3fe17bc5f2e8f72a4244e085a5a985b249d169fa6c414d27c"
+		},
+		{
+			"file": "hboy_texer_2.bmp",
+			"size": 30054,
+			"checksum": "sha256:15608b6525bcb0f5f79e73de4dd051e02f9a8bb183f6abcad0ddddd1de79393e"
+		},
+		{
+			"file": "Shreyas-IV-01.bmp",
+			"size": 36342,
+			"checksum": "sha256:10bf973044414dbea4dfaf77de57d7de4d3a871f0fc057bda1a3f699e202a411"
+		}
+	],
+	"plugins": ["ConvolutionFilter", "GlobalVarMan"]
 }

@@ -1,109 +1,107 @@
 {
-    "name": "whyEye.org brokenframe revisited",
-    "id": "VB053",
-    "presets": [
-        {
-            "file": "whyEye.org/whyEye.org brokenframe revisited/01 Yathosho - Kombi.avs",
-            "size": 763,
-            "checksum": "sha256:093bc7c67f53d1fb5adc46b6746b33d00d461e0704abb957d58d006acf9b5ffa"
-        },
-        {
-            "file": "whyEye.org/whyEye.org brokenframe revisited/02 Yathosho - Back to Carnaby Street.avs",
-            "size": 1769,
-            "checksum": "sha256:43573763745c22913f77d851fd5bd920e456e17ac4cfa67de137a80111f7bc7b"
-        },
-        {
-            "file": "whyEye.org/whyEye.org brokenframe revisited/03 Yathosho vs Tuggummi - Sector Movements (V.I.P.).avs",
-            "size": 1408,
-            "checksum": "sha256:65909ea8ceb2b3f2c29546332e87781cd3301c31efe2b3358e431dbf0f418a10"
-        },
-        {
-            "file": "whyEye.org/whyEye.org brokenframe revisited/04 Yathosho - Gasoline (it smells like the future).avs",
-            "size": 1781,
-            "checksum": "sha256:5ea511a80a62f8e74686d6bb1c4833b78ab61853f3e62bfb90acb775da07df69"
-        },
-        {
-            "file": "whyEye.org/whyEye.org brokenframe revisited/05 Yathosho - Fabric.avs",
-            "size": 1358,
-            "checksum": "sha256:a16a70e0b94dc96c48d7293758b738f674cc32ad0fc82a0952c0e9b0cae1600c"
-        },
-        {
-            "file": "whyEye.org/whyEye.org brokenframe revisited/06 Yathosho - The Sun repairs my Soul.avs",
-            "size": 1579,
-            "checksum": "sha256:67e6dee063f13cf4ce79923f3d9e6a01df202b727d32ce6d4334e3cf4531e8e1"
-        },
-        {
-            "file": "whyEye.org/whyEye.org brokenframe revisited/07 Yathosho - Rednosed.avs",
-            "size": 1129,
-            "checksum": "sha256:22f43742b801d91d406b9756ce7072b05fbb9205c687f374e96cf0e9c88bbf7f"
-        },
-        {
-            "file": "whyEye.org/whyEye.org brokenframe revisited/08 Yathosho - Multiple Tiles (V.I.P.).avs",
-            "size": 1951,
-            "checksum": "sha256:87d544f940a71d2ce82dfb1935329652c11a1df87ed3f42634e7c12437d70c4e"
-        },
-        {
-            "file": "whyEye.org/whyEye.org brokenframe revisited/09 Yathosho vs jDm - Mikrobik.avs",
-            "size": 1865,
-            "checksum": "sha256:713f9050b5f2e84bda7f1bdd03a36685f6e33908491885939b4ae098e778c6be"
-        },
-        {
-            "file": "whyEye.org/whyEye.org brokenframe revisited/10 Yathosho - Digi-Go.avs",
-            "size": 2126,
-            "checksum": "sha256:fa6f0b9f5f72fb77416de28827acd4b348503e5f72ff58567ada4a854764f025"
-        },
-        {
-            "file": "whyEye.org/whyEye.org brokenframe revisited/11 Yathosho vs EL-VIS - Agent Dragonfly (Rebroken).avs",
-            "size": 2002,
-            "checksum": "sha256:ec2e7cdb4ccf49495a8b5e9195841697381f58bfbea3590e2abebe6c739d9390"
-        },
-        {
-            "file": "whyEye.org/whyEye.org brokenframe revisited/12 Yathosho - Touristica.avs",
-            "size": 1621,
-            "checksum": "sha256:7041078e6b1ef2666cb3e13417ba0f5695756df148f17d38f4d71118f20df94b"
-        },
-        {
-            "file": "whyEye.org/whyEye.org brokenframe revisited/13 Yathosho - Butterfly II.avs",
-            "size": 848,
-            "checksum": "sha256:6c3d4fc10c607c96b3771b13cd4f8905d4c0ef3028a1a6ca51b879fa34713850"
-        },
-        {
-            "file": "whyEye.org/whyEye.org brokenframe revisited/14 S_KuPeRS - Graphiterx (Yathosho in Macau Remix).avs",
-            "size": 1475,
-            "checksum": "sha256:2ebea880a924cffa5e7ecd1e06a715fbe3a4a1a98a8bc3441e178e081dca28dd"
-        },
-        {
-            "file": "whyEye.org/whyEye.org brokenframe revisited/15 NemoOrange - Oceanscene (Yathosho's Marrakech Dub).avs",
-            "size": 1282,
-            "checksum": "sha256:4777e852e8587dbefd3acc3c6171c366d56c1ece63b5c5f1c9eae6306405410a"
-        },
-        {
-            "file": "whyEye.org/whyEye.org brokenframe revisited/16 Yathosho vs Runar - go Picknick!.avs",
-            "size": 2485,
-            "checksum": "sha256:757c4fe18bb0d8a9f13ecb740dce98e76eb3b9716396c5b1f7213a1f751eff21"
-        },
-        {
-            "file": "whyEye.org/whyEye.org brokenframe revisited/17 Yathosho - Jigsaw.avs",
-            "size": 1681,
-            "checksum": "sha256:ca297c772d6a2b7de96fc6688127ebb543cf4388bb9c5c6bac3b53210fdf7648"
-        },
-        {
-            "file": "whyEye.org/whyEye.org brokenframe revisited/18 Yathosho vs Tuggummi - Sector Movements.avs",
-            "size": 1719,
-            "checksum": "sha256:e9cb7590de2316d63102e2c9aaa3ff0861e204fdee67525fed7a14478c9188b8"
-        },
-        {
-            "file": "whyEye.org/whyEye.org brokenframe revisited/19 Yathosho - Fünfzigerjahrekombi.avs",
-            "size": 827,
-            "checksum": "sha256:5eaa9074d605cf1c12c42a1cd1c54fd12d49c3d6e6fd898982694d181d0dc958"
-        },
-        {
-            "file": "whyEye.org/whyEye.org brokenframe revisited/20 Yathosho vs NemoOrange - Marrakech Revisited.avs",
-            "size": 1964,
-            "checksum": "sha256:a1b45ecd9e6e356cfe86d9414cebf2ec0f9860d89122e13c355ef444c409fa62"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "whyEye.org brokenframe revisited",
+	"id": "VB053",
+	"presets": [
+		{
+			"file": "whyEye.org/whyEye.org brokenframe revisited/01 Yathosho - Kombi.avs",
+			"size": 763,
+			"checksum": "sha256:093bc7c67f53d1fb5adc46b6746b33d00d461e0704abb957d58d006acf9b5ffa"
+		},
+		{
+			"file": "whyEye.org/whyEye.org brokenframe revisited/02 Yathosho - Back to Carnaby Street.avs",
+			"size": 1769,
+			"checksum": "sha256:43573763745c22913f77d851fd5bd920e456e17ac4cfa67de137a80111f7bc7b"
+		},
+		{
+			"file": "whyEye.org/whyEye.org brokenframe revisited/03 Yathosho vs Tuggummi - Sector Movements (V.I.P.).avs",
+			"size": 1408,
+			"checksum": "sha256:65909ea8ceb2b3f2c29546332e87781cd3301c31efe2b3358e431dbf0f418a10"
+		},
+		{
+			"file": "whyEye.org/whyEye.org brokenframe revisited/04 Yathosho - Gasoline (it smells like the future).avs",
+			"size": 1781,
+			"checksum": "sha256:5ea511a80a62f8e74686d6bb1c4833b78ab61853f3e62bfb90acb775da07df69"
+		},
+		{
+			"file": "whyEye.org/whyEye.org brokenframe revisited/05 Yathosho - Fabric.avs",
+			"size": 1358,
+			"checksum": "sha256:a16a70e0b94dc96c48d7293758b738f674cc32ad0fc82a0952c0e9b0cae1600c"
+		},
+		{
+			"file": "whyEye.org/whyEye.org brokenframe revisited/06 Yathosho - The Sun repairs my Soul.avs",
+			"size": 1579,
+			"checksum": "sha256:67e6dee063f13cf4ce79923f3d9e6a01df202b727d32ce6d4334e3cf4531e8e1"
+		},
+		{
+			"file": "whyEye.org/whyEye.org brokenframe revisited/07 Yathosho - Rednosed.avs",
+			"size": 1129,
+			"checksum": "sha256:22f43742b801d91d406b9756ce7072b05fbb9205c687f374e96cf0e9c88bbf7f"
+		},
+		{
+			"file": "whyEye.org/whyEye.org brokenframe revisited/08 Yathosho - Multiple Tiles (V.I.P.).avs",
+			"size": 1951,
+			"checksum": "sha256:87d544f940a71d2ce82dfb1935329652c11a1df87ed3f42634e7c12437d70c4e"
+		},
+		{
+			"file": "whyEye.org/whyEye.org brokenframe revisited/09 Yathosho vs jDm - Mikrobik.avs",
+			"size": 1865,
+			"checksum": "sha256:713f9050b5f2e84bda7f1bdd03a36685f6e33908491885939b4ae098e778c6be"
+		},
+		{
+			"file": "whyEye.org/whyEye.org brokenframe revisited/10 Yathosho - Digi-Go.avs",
+			"size": 2126,
+			"checksum": "sha256:fa6f0b9f5f72fb77416de28827acd4b348503e5f72ff58567ada4a854764f025"
+		},
+		{
+			"file": "whyEye.org/whyEye.org brokenframe revisited/11 Yathosho vs EL-VIS - Agent Dragonfly (Rebroken).avs",
+			"size": 2002,
+			"checksum": "sha256:ec2e7cdb4ccf49495a8b5e9195841697381f58bfbea3590e2abebe6c739d9390"
+		},
+		{
+			"file": "whyEye.org/whyEye.org brokenframe revisited/12 Yathosho - Touristica.avs",
+			"size": 1621,
+			"checksum": "sha256:7041078e6b1ef2666cb3e13417ba0f5695756df148f17d38f4d71118f20df94b"
+		},
+		{
+			"file": "whyEye.org/whyEye.org brokenframe revisited/13 Yathosho - Butterfly II.avs",
+			"size": 848,
+			"checksum": "sha256:6c3d4fc10c607c96b3771b13cd4f8905d4c0ef3028a1a6ca51b879fa34713850"
+		},
+		{
+			"file": "whyEye.org/whyEye.org brokenframe revisited/14 S_KuPeRS - Graphiterx (Yathosho in Macau Remix).avs",
+			"size": 1475,
+			"checksum": "sha256:2ebea880a924cffa5e7ecd1e06a715fbe3a4a1a98a8bc3441e178e081dca28dd"
+		},
+		{
+			"file": "whyEye.org/whyEye.org brokenframe revisited/15 NemoOrange - Oceanscene (Yathosho's Marrakech Dub).avs",
+			"size": 1282,
+			"checksum": "sha256:4777e852e8587dbefd3acc3c6171c366d56c1ece63b5c5f1c9eae6306405410a"
+		},
+		{
+			"file": "whyEye.org/whyEye.org brokenframe revisited/16 Yathosho vs Runar - go Picknick!.avs",
+			"size": 2485,
+			"checksum": "sha256:757c4fe18bb0d8a9f13ecb740dce98e76eb3b9716396c5b1f7213a1f751eff21"
+		},
+		{
+			"file": "whyEye.org/whyEye.org brokenframe revisited/17 Yathosho - Jigsaw.avs",
+			"size": 1681,
+			"checksum": "sha256:ca297c772d6a2b7de96fc6688127ebb543cf4388bb9c5c6bac3b53210fdf7648"
+		},
+		{
+			"file": "whyEye.org/whyEye.org brokenframe revisited/18 Yathosho vs Tuggummi - Sector Movements.avs",
+			"size": 1719,
+			"checksum": "sha256:e9cb7590de2316d63102e2c9aaa3ff0861e204fdee67525fed7a14478c9188b8"
+		},
+		{
+			"file": "whyEye.org/whyEye.org brokenframe revisited/19 Yathosho - Fünfzigerjahrekombi.avs",
+			"size": 827,
+			"checksum": "sha256:5eaa9074d605cf1c12c42a1cd1c54fd12d49c3d6e6fd898982694d181d0dc958"
+		},
+		{
+			"file": "whyEye.org/whyEye.org brokenframe revisited/20 Yathosho vs NemoOrange - Marrakech Revisited.avs",
+			"size": 1964,
+			"checksum": "sha256:a1b45ecd9e6e356cfe86d9414cebf2ec0f9860d89122e13c355ef444c409fa62"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

@@ -1,29 +1,27 @@
 {
-    "name": "CO-OP Session 01",
-    "id": "VB031",
-    "presets": [
-        {
-            "file": "CO-OP Sessions/CO-OP Session 01/a1 skupers - dubbing single mothers.avs",
-            "size": 3800,
-            "checksum": "sha256:fc008236b3daf639a0e9675372b6b4f1cd2006ab22d09b8a0b9732dcb6f85fb3"
-        },
-        {
-            "file": "CO-OP Sessions/CO-OP Session 01/a2 amphirion - moths double in single flame.avs",
-            "size": 4447,
-            "checksum": "sha256:545a2351ad41d1d452f48a1e953aaf8e85ea56c1657413396f1e4398043a7121"
-        },
-        {
-            "file": "CO-OP Sessions/CO-OP Session 01/b1 amphirion - in the burning.avs",
-            "size": 2742,
-            "checksum": "sha256:fa29e3a7809d9b6844f01a8fdb0b3be65abcd82e59cbc6751ea489d86c508709"
-        },
-        {
-            "file": "CO-OP Sessions/CO-OP Session 01/b2 skupers - burning a hole in the sky.avs",
-            "size": 2770,
-            "checksum": "sha256:d6d4524b0b2b47a441704a46bb4312e15b1dce34b73f100b04b181597e74928b"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "CO-OP Session 01",
+	"id": "VB031",
+	"presets": [
+		{
+			"file": "CO-OP Sessions/CO-OP Session 01/a1 skupers - dubbing single mothers.avs",
+			"size": 3800,
+			"checksum": "sha256:fc008236b3daf639a0e9675372b6b4f1cd2006ab22d09b8a0b9732dcb6f85fb3"
+		},
+		{
+			"file": "CO-OP Sessions/CO-OP Session 01/a2 amphirion - moths double in single flame.avs",
+			"size": 4447,
+			"checksum": "sha256:545a2351ad41d1d452f48a1e953aaf8e85ea56c1657413396f1e4398043a7121"
+		},
+		{
+			"file": "CO-OP Sessions/CO-OP Session 01/b1 amphirion - in the burning.avs",
+			"size": 2742,
+			"checksum": "sha256:fa29e3a7809d9b6844f01a8fdb0b3be65abcd82e59cbc6751ea489d86c508709"
+		},
+		{
+			"file": "CO-OP Sessions/CO-OP Session 01/b2 skupers - burning a hole in the sky.avs",
+			"size": 2770,
+			"checksum": "sha256:d6d4524b0b2b47a441704a46bb4312e15b1dce34b73f100b04b181597e74928b"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

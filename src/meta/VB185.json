@@ -1,202 +1,199 @@
 {
-    "name": "anotherversion deux (reissue)",
-    "id": "VB185",
-    "presets": [
-        {
-            "file": "anotherversion/anotherversion deux/00____________intro___sx.avs",
-            "size": 3297,
-            "checksum": "sha256:f36e9a6524404bff0a322d3e019aa75d0129b58fdf07e2111a10b6597f575a42"
-        },
-        {
-            "file": "anotherversion/anotherversion deux/01_el-vis_______discotil2001___sx.avs",
-            "size": 15797,
-            "checksum": "sha256:ed523fe54e01e958cad11b5a296a2a3a7e5ed322633bd0cc0ce23471ca0079a3"
-        },
-        {
-            "file": "anotherversion/anotherversion deux/02_pud________dreamchaser___sx.avs",
-            "size": 2427,
-            "checksum": "sha256:1c9f31cd0706e8874d2e494fbcb192b2ddc65a9647c20fdad2fe7335722f0b81"
-        },
-        {
-            "file": "anotherversion/anotherversion deux/03_yathosho____abstractfunkychicken___er.avs",
-            "size": 1739,
-            "checksum": "sha256:340d489ebb37236672fc595c66b5277fa617bce036c13d03545764113854ce9d"
-        },
-        {
-            "file": "anotherversion/anotherversion deux/04_nemoorange_septicwindow___sx.avs",
-            "size": 2057,
-            "checksum": "sha256:cfcf3b4cc9f3df43f98976174932ef6bd9fc6b7a65c1c0a8fc11484d713b7f68"
-        },
-        {
-            "file": "anotherversion/anotherversion deux/05_yathosho____cataclysmic___dl.avs",
-            "size": 937,
-            "checksum": "sha256:7c656a2ec16cedff3e80c6f083d78bc06673f3fa3fc30c8bc5478bcff41e033a"
-        },
-        {
-            "file": "anotherversion/anotherversion deux/06_ernst_______dontgiveup___dg.avs",
-            "size": 1043,
-            "checksum": "sha256:026238db5d0aad4f3694f3abbd35acb0d54a0b971fe2779501de6ebc5c4717a3"
-        },
-        {
-            "file": "anotherversion/anotherversion deux/07____________intermezzo___sx.avs",
-            "size": 1142,
-            "checksum": "sha256:6b9f80c521b006f5f3eab1e3c93204578f635b4a271c14fe088ffcf6601fec62"
-        },
-        {
-            "file": "anotherversion/anotherversion deux/08_skupers_____curvsmus___sx.avs",
-            "size": 2367,
-            "checksum": "sha256:a8e0ad89fab0d4c881b4d4fc78ce63058274ee1a4985a6d6c018233955239614"
-        },
-        {
-            "file": "anotherversion/anotherversion deux/09_duo________nerogenesis___dl.avs",
-            "size": 1808,
-            "checksum": "sha256:77ba7fba0cfe7cbb530f4f1849976dcde411cc09d3a3d82188b28005f00c3758"
-        },
-        {
-            "file": "anotherversion/anotherversion deux/10_duo________intelinsideofyou___sx.avs",
-            "size": 1799,
-            "checksum": "sha256:974c076ce669999b18d572df1fb210dc585a68f59daf68ea9eaca17ce1a463a9"
-        },
-        {
-            "file": "anotherversion/anotherversion deux/11_skupers_____rexregis___sx.avs",
-            "size": 3010,
-            "checksum": "sha256:1b385430e9f0f1b4a94c04b60b3aed190978dab4371bf8a7f00df06b40544f10"
-        },
-        {
-            "file": "anotherversion/anotherversion deux/12_skupers_____electrictrylikebeforegeisharmx___dg.avs",
-            "size": 5263,
-            "checksum": "sha256:d8d04e5a64d14a7618983032ed6699afa75f065daf79783b97891b5159f3473c"
-        },
-        {
-            "file": "anotherversion/anotherversion deux/13_jheriko______rerejectrx___sx.avs",
-            "size": 2366,
-            "checksum": "sha256:3124847d52e362008f40dfd86e2d305649e3cd6e7e5ed0d6dd13c6f81a99112b"
-        },
-        {
-            "file": "anotherversion/anotherversion deux/14____________di-intermezzo___sx.avs",
-            "size": 1164,
-            "checksum": "sha256:96f6648da8396e96f6b5633260b3f1e089d9cf15b04287eb50e610e9249ddb1b"
-        },
-        {
-            "file": "anotherversion/anotherversion deux/15_duo________77degreeswes___sx.avs",
-            "size": 1642,
-            "checksum": "sha256:12a0fbc2e6abee52102f52507baf3b2d3a2455b4c10e69a29acfb962cc375365"
-        },
-        {
-            "file": "anotherversion/anotherversion deux/16_nemoorange_crescentmooncrazesatellitermx___dg.avs",
-            "size": 4692,
-            "checksum": "sha256:ee073ab205a0c8c5f9c4e0578c2adb19a5f40b9fbe284663f6b2108ca68cb481"
-        },
-        {
-            "file": "anotherversion/anotherversion deux/17_danjoe______ggrungee___sx.avs",
-            "size": 2039,
-            "checksum": "sha256:1d09b126b9d8e3af5c35ea1769d5ecbbb5a368d00bf72d744c73166b56a06827"
-        },
-        {
-            "file": "anotherversion/anotherversion deux/18_evilrice______travelingconcentricitylemonrmx___dg.avs",
-            "size": 1746,
-            "checksum": "sha256:dff579f06c81014024dcd07c3bfc9de3a94c589987b14659676c39db57cde8d7"
-        },
-        {
-            "file": "anotherversion/anotherversion deux/19_nemoorange_rockthaplace___sx.avs",
-            "size": 1788,
-            "checksum": "sha256:0006db6b8e4c4e81c036c483f2957085d66f9a7a8225bd9b5619ef73ad01fb85"
-        },
-        {
-            "file": "anotherversion/anotherversion deux/20_skupers_____rainbowcurve___sx.avs",
-            "size": 2881,
-            "checksum": "sha256:ec6e09039d00f6c2c7094c25d794f6cbfddf710bee2b271ac13d00ea497e045b"
-        },
-        {
-            "file": "anotherversion/anotherversion deux/21____________tri-intermezzo___sx.avs",
-            "size": 1131,
-            "checksum": "sha256:63c0744133783641f109a53ac0a6a4761307f459e6ea5ce76eebee301460f892"
-        },
-        {
-            "file": "anotherversion/anotherversion deux/22_avsking_____zerotoxicity___sx.avs",
-            "size": 2474,
-            "checksum": "sha256:cf8de09fed6710c3c3b9e0836032af09814ee9cf8d84f759267c09411a42b177"
-        },
-        {
-            "file": "anotherversion/anotherversion deux/23_yathosho____iconoclassicism___sx.avs",
-            "size": 1607,
-            "checksum": "sha256:51a5bc9fbdd40172a6d3a18e60065e86f44d8c4ceeaa2307f83bda1206705dc0"
-        },
-        {
-            "file": "anotherversion/anotherversion deux/24_tuggummi____0lddynamicspeedwayrmx___dg.avs",
-            "size": 981,
-            "checksum": "sha256:76698d8084765a1842c4dd75ab7351d9b536bedae4378f2d8c4593b8f1ca103d"
-        },
-        {
-            "file": "anotherversion/anotherversion deux/25_brennan_____testing___sx.avs",
-            "size": 1280,
-            "checksum": "sha256:09f158a7001cfc0606911363cad6f2b099dfcda12c8e4ac7dbcbb441e3985d72"
-        },
-        {
-            "file": "anotherversion/anotherversion deux/26_cfp_________gaussianflow____sx.avs",
-            "size": 1822,
-            "checksum": "sha256:6611c519cf36a97a664799fdce3e9d90590da8b57811f020ad745aa5c9221e26"
-        },
-        {
-            "file": "anotherversion/anotherversion deux/27_el-vis_______dreadeddreams___dl.avs",
-            "size": 1462,
-            "checksum": "sha256:f840b530b7ff2dce0299b918cf625a9035df1f12c64d8f53093d7ffad4054ffb"
-        },
-        {
-            "file": "anotherversion/anotherversion deux/28____________tetra-intermezzo___sx.avs",
-            "size": 3254,
-            "checksum": "sha256:41d964e8175e9d983624fa10e73c976fb0ddd2bc38b233b52ef41841482754c4"
-        },
-        {
-            "file": "anotherversion/anotherversion deux/29_tonic_______lastonicpreredo____sx.avs",
-            "size": 1119,
-            "checksum": "sha256:6fe4b55f50810172efb95b7f30da3cc52e70b430022869620f8f7a6c2c7a4dc6"
-        },
-        {
-            "file": "anotherversion/anotherversion deux/30_skupers_____canilopic___sx.avs",
-            "size": 1088,
-            "checksum": "sha256:c4b645bcbdd003a561507bd78647721f095484956401c64c0c7060c6f873b93c"
-        },
-        {
-            "file": "anotherversion/anotherversion deux/31_skupers_____vesuvius___sx.avs",
-            "size": 2200,
-            "checksum": "sha256:fc74d13ebf0cfd50bcdfe1ce082d62e791eb80948998412248aa8bee03307c6d"
-        },
-        {
-            "file": "anotherversion/anotherversion deux/32_nemoorange_crescentmooncrazed___dl.avs",
-            "size": 3763,
-            "checksum": "sha256:34396608e9bf3acf2a7fbee9ccd581c26c13e6e3aa6fa9a96e66b9fa57d94c88"
-        },
-        {
-            "file": "anotherversion/anotherversion deux/33_alchemist____messagefromwithin___sx.avs",
-            "size": 3197,
-            "checksum": "sha256:179ae97a58a3abd39a261fd1c557048e9f788d5727d8e4c2051c803ffe6f9919"
-        },
-        {
-            "file": "anotherversion/anotherversion deux/34_alt-iii________noir___sx.avs",
-            "size": 2612,
-            "checksum": "sha256:77498cf043d5c91ba7fe6f54248906e59a4c0aaba91665e5dc8f43b13059a3fb"
-        }
-    ],
-    "assets": [
-        {
-            "file": "classic_skull.bmp",
-            "size": 17768,
-            "checksum": "sha256:f2f88ec6a64cce68dc0a908736d679294a1cb5a4672f063f41d0e6713fb2df89"
-        },
-        {
-            "file": "whacko6-07.bmp",
-            "size": 3422,
-            "checksum": "sha256:45c2072b0dcffc04ac87199392097c5debefaaac6000997da9f568094278155d"
-        },
-        {
-            "file": "bitdust2.ttf",
-            "size": 39352,
-            "checksum": "sha256:7f16108d1943d4063cd4499598139ae72e926e2934c565474c59b69641bd23ae"
-        }
-    ],
-    "plugins": [
-        "BufferBlend",
-        "ConvolutionFilter"
-    ]
+	"name": "anotherversion deux (reissue)",
+	"id": "VB185",
+	"presets": [
+		{
+			"file": "anotherversion/anotherversion deux/00____________intro___sx.avs",
+			"size": 3297,
+			"checksum": "sha256:f36e9a6524404bff0a322d3e019aa75d0129b58fdf07e2111a10b6597f575a42"
+		},
+		{
+			"file": "anotherversion/anotherversion deux/01_el-vis_______discotil2001___sx.avs",
+			"size": 15797,
+			"checksum": "sha256:ed523fe54e01e958cad11b5a296a2a3a7e5ed322633bd0cc0ce23471ca0079a3"
+		},
+		{
+			"file": "anotherversion/anotherversion deux/02_pud________dreamchaser___sx.avs",
+			"size": 2427,
+			"checksum": "sha256:1c9f31cd0706e8874d2e494fbcb192b2ddc65a9647c20fdad2fe7335722f0b81"
+		},
+		{
+			"file": "anotherversion/anotherversion deux/03_yathosho____abstractfunkychicken___er.avs",
+			"size": 1739,
+			"checksum": "sha256:340d489ebb37236672fc595c66b5277fa617bce036c13d03545764113854ce9d"
+		},
+		{
+			"file": "anotherversion/anotherversion deux/04_nemoorange_septicwindow___sx.avs",
+			"size": 2057,
+			"checksum": "sha256:cfcf3b4cc9f3df43f98976174932ef6bd9fc6b7a65c1c0a8fc11484d713b7f68"
+		},
+		{
+			"file": "anotherversion/anotherversion deux/05_yathosho____cataclysmic___dl.avs",
+			"size": 937,
+			"checksum": "sha256:7c656a2ec16cedff3e80c6f083d78bc06673f3fa3fc30c8bc5478bcff41e033a"
+		},
+		{
+			"file": "anotherversion/anotherversion deux/06_ernst_______dontgiveup___dg.avs",
+			"size": 1043,
+			"checksum": "sha256:026238db5d0aad4f3694f3abbd35acb0d54a0b971fe2779501de6ebc5c4717a3"
+		},
+		{
+			"file": "anotherversion/anotherversion deux/07____________intermezzo___sx.avs",
+			"size": 1142,
+			"checksum": "sha256:6b9f80c521b006f5f3eab1e3c93204578f635b4a271c14fe088ffcf6601fec62"
+		},
+		{
+			"file": "anotherversion/anotherversion deux/08_skupers_____curvsmus___sx.avs",
+			"size": 2367,
+			"checksum": "sha256:a8e0ad89fab0d4c881b4d4fc78ce63058274ee1a4985a6d6c018233955239614"
+		},
+		{
+			"file": "anotherversion/anotherversion deux/09_duo________nerogenesis___dl.avs",
+			"size": 1808,
+			"checksum": "sha256:77ba7fba0cfe7cbb530f4f1849976dcde411cc09d3a3d82188b28005f00c3758"
+		},
+		{
+			"file": "anotherversion/anotherversion deux/10_duo________intelinsideofyou___sx.avs",
+			"size": 1799,
+			"checksum": "sha256:974c076ce669999b18d572df1fb210dc585a68f59daf68ea9eaca17ce1a463a9"
+		},
+		{
+			"file": "anotherversion/anotherversion deux/11_skupers_____rexregis___sx.avs",
+			"size": 3010,
+			"checksum": "sha256:1b385430e9f0f1b4a94c04b60b3aed190978dab4371bf8a7f00df06b40544f10"
+		},
+		{
+			"file": "anotherversion/anotherversion deux/12_skupers_____electrictrylikebeforegeisharmx___dg.avs",
+			"size": 5263,
+			"checksum": "sha256:d8d04e5a64d14a7618983032ed6699afa75f065daf79783b97891b5159f3473c"
+		},
+		{
+			"file": "anotherversion/anotherversion deux/13_jheriko______rerejectrx___sx.avs",
+			"size": 2366,
+			"checksum": "sha256:3124847d52e362008f40dfd86e2d305649e3cd6e7e5ed0d6dd13c6f81a99112b"
+		},
+		{
+			"file": "anotherversion/anotherversion deux/14____________di-intermezzo___sx.avs",
+			"size": 1164,
+			"checksum": "sha256:96f6648da8396e96f6b5633260b3f1e089d9cf15b04287eb50e610e9249ddb1b"
+		},
+		{
+			"file": "anotherversion/anotherversion deux/15_duo________77degreeswes___sx.avs",
+			"size": 1642,
+			"checksum": "sha256:12a0fbc2e6abee52102f52507baf3b2d3a2455b4c10e69a29acfb962cc375365"
+		},
+		{
+			"file": "anotherversion/anotherversion deux/16_nemoorange_crescentmooncrazesatellitermx___dg.avs",
+			"size": 4692,
+			"checksum": "sha256:ee073ab205a0c8c5f9c4e0578c2adb19a5f40b9fbe284663f6b2108ca68cb481"
+		},
+		{
+			"file": "anotherversion/anotherversion deux/17_danjoe______ggrungee___sx.avs",
+			"size": 2039,
+			"checksum": "sha256:1d09b126b9d8e3af5c35ea1769d5ecbbb5a368d00bf72d744c73166b56a06827"
+		},
+		{
+			"file": "anotherversion/anotherversion deux/18_evilrice______travelingconcentricitylemonrmx___dg.avs",
+			"size": 1746,
+			"checksum": "sha256:dff579f06c81014024dcd07c3bfc9de3a94c589987b14659676c39db57cde8d7"
+		},
+		{
+			"file": "anotherversion/anotherversion deux/19_nemoorange_rockthaplace___sx.avs",
+			"size": 1788,
+			"checksum": "sha256:0006db6b8e4c4e81c036c483f2957085d66f9a7a8225bd9b5619ef73ad01fb85"
+		},
+		{
+			"file": "anotherversion/anotherversion deux/20_skupers_____rainbowcurve___sx.avs",
+			"size": 2881,
+			"checksum": "sha256:ec6e09039d00f6c2c7094c25d794f6cbfddf710bee2b271ac13d00ea497e045b"
+		},
+		{
+			"file": "anotherversion/anotherversion deux/21____________tri-intermezzo___sx.avs",
+			"size": 1131,
+			"checksum": "sha256:63c0744133783641f109a53ac0a6a4761307f459e6ea5ce76eebee301460f892"
+		},
+		{
+			"file": "anotherversion/anotherversion deux/22_avsking_____zerotoxicity___sx.avs",
+			"size": 2474,
+			"checksum": "sha256:cf8de09fed6710c3c3b9e0836032af09814ee9cf8d84f759267c09411a42b177"
+		},
+		{
+			"file": "anotherversion/anotherversion deux/23_yathosho____iconoclassicism___sx.avs",
+			"size": 1607,
+			"checksum": "sha256:51a5bc9fbdd40172a6d3a18e60065e86f44d8c4ceeaa2307f83bda1206705dc0"
+		},
+		{
+			"file": "anotherversion/anotherversion deux/24_tuggummi____0lddynamicspeedwayrmx___dg.avs",
+			"size": 981,
+			"checksum": "sha256:76698d8084765a1842c4dd75ab7351d9b536bedae4378f2d8c4593b8f1ca103d"
+		},
+		{
+			"file": "anotherversion/anotherversion deux/25_brennan_____testing___sx.avs",
+			"size": 1280,
+			"checksum": "sha256:09f158a7001cfc0606911363cad6f2b099dfcda12c8e4ac7dbcbb441e3985d72"
+		},
+		{
+			"file": "anotherversion/anotherversion deux/26_cfp_________gaussianflow____sx.avs",
+			"size": 1822,
+			"checksum": "sha256:6611c519cf36a97a664799fdce3e9d90590da8b57811f020ad745aa5c9221e26"
+		},
+		{
+			"file": "anotherversion/anotherversion deux/27_el-vis_______dreadeddreams___dl.avs",
+			"size": 1462,
+			"checksum": "sha256:f840b530b7ff2dce0299b918cf625a9035df1f12c64d8f53093d7ffad4054ffb"
+		},
+		{
+			"file": "anotherversion/anotherversion deux/28____________tetra-intermezzo___sx.avs",
+			"size": 3254,
+			"checksum": "sha256:41d964e8175e9d983624fa10e73c976fb0ddd2bc38b233b52ef41841482754c4"
+		},
+		{
+			"file": "anotherversion/anotherversion deux/29_tonic_______lastonicpreredo____sx.avs",
+			"size": 1119,
+			"checksum": "sha256:6fe4b55f50810172efb95b7f30da3cc52e70b430022869620f8f7a6c2c7a4dc6"
+		},
+		{
+			"file": "anotherversion/anotherversion deux/30_skupers_____canilopic___sx.avs",
+			"size": 1088,
+			"checksum": "sha256:c4b645bcbdd003a561507bd78647721f095484956401c64c0c7060c6f873b93c"
+		},
+		{
+			"file": "anotherversion/anotherversion deux/31_skupers_____vesuvius___sx.avs",
+			"size": 2200,
+			"checksum": "sha256:fc74d13ebf0cfd50bcdfe1ce082d62e791eb80948998412248aa8bee03307c6d"
+		},
+		{
+			"file": "anotherversion/anotherversion deux/32_nemoorange_crescentmooncrazed___dl.avs",
+			"size": 3763,
+			"checksum": "sha256:34396608e9bf3acf2a7fbee9ccd581c26c13e6e3aa6fa9a96e66b9fa57d94c88"
+		},
+		{
+			"file": "anotherversion/anotherversion deux/33_alchemist____messagefromwithin___sx.avs",
+			"size": 3197,
+			"checksum": "sha256:179ae97a58a3abd39a261fd1c557048e9f788d5727d8e4c2051c803ffe6f9919"
+		},
+		{
+			"file": "anotherversion/anotherversion deux/34_alt-iii________noir___sx.avs",
+			"size": 2612,
+			"checksum": "sha256:77498cf043d5c91ba7fe6f54248906e59a4c0aaba91665e5dc8f43b13059a3fb"
+		}
+	],
+	"assets": [
+		{
+			"file": "classic_skull.bmp",
+			"size": 17768,
+			"checksum": "sha256:f2f88ec6a64cce68dc0a908736d679294a1cb5a4672f063f41d0e6713fb2df89"
+		},
+		{
+			"file": "whacko6-07.bmp",
+			"size": 3422,
+			"checksum": "sha256:45c2072b0dcffc04ac87199392097c5debefaaac6000997da9f568094278155d"
+		},
+		{
+			"file": "bitdust2.ttf",
+			"size": 39352,
+			"checksum": "sha256:7f16108d1943d4063cd4499598139ae72e926e2934c565474c59b69641bd23ae"
+		}
+	],
+	"plugins": ["BufferBlend", "ConvolutionFilter"]
 }

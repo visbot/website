@@ -1,3803 +1,3014 @@
 [
-  {
-    "id": "VA001",
-    "name": "End of, Best of, No more",
-    "byline": "Tonic",
-    "type": "compilation",
-    "artists": [
-      "tonic"
-    ],
-    "date": "2004-02-06"
-  },
-  {
-    "id": "VA002",
-    "name": "Halfwayaroundthesun (Littlebuddy Mixes)",
-    "byline": "Little Buddy",
-    "type": "compilation",
-    "artists": [
-      "yathosho",
-      "littlebuddy"
-    ]
-  },
-  {
-    "id": "VA003-1",
-    "name": "I wanna be Frank Nagel",
-    "byline": "Various Artists",
-    "type": "compilation",
-    "artists": [
-      "various-artists"
-    ],
-    "date": "2002-10-16"
-  },
-  {
-    "id": "VA003-2",
-    "name": "I wanna be Frank Nagel, too",
-    "byline": "Various Artists",
-    "type": "compilation",
-    "artists": [
-      "various-artists"
-    ],
-    "date": "2004-02-06"
-  },
-  {
-    "id": "VA004",
-    "name": "Retrospective",
-    "byline": "Yathosho",
-    "type": "compilation",
-    "artists": [
-      "yathosho"
-    ],
-    "playlist": "PL14A1F9B5746E82F7",
-    "date": "2004-11-12"
-  },
-  {
-    "id": "VA005",
-    "name": "Envisions Beyond",
-    "byline": "Duo",
-    "type": "compilation",
-    "artists": [
-      "duo"
-    ],
-    "playlist": "PLB6FC1F6D7F8EF817",
-    "date": "2007-08-15"
-  },
-  {
-    "id": "VA006",
-    "name": "Les Premières Années (1976-2006)",
-    "byline": "les Noobiens",
-    "type": "compilation",
-    "artists": [
-      "les-noobiens"
-    ],
-    "playlist": "PLFF4C2661D73330B3",
-    "date": "2007-11-06"
-  },
-  {
-    "id": "VA007",
-    "name": "Singles",
-    "byline": "Dynamic Duo",
-    "type": "compilation",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "playlist": "PL2FE4F37E43CC0233",
-    "date": "2007-11-07"
-  },
-  {
-    "id": "VA008",
-    "name": "Seramony",
-    "byline": "NemoOrange",
-    "type": "compilation",
-    "artists": [
-      "nemo-orange"
-    ],
-    "playlist": "PLE94B3AE5C75A0132",
-    "date": "2011-11-11"
-  },
-  {
-    "id": "VA009",
-    "name": "LP1-LP6",
-    "byline": "SKuPeRS",
-    "type": "compilation",
-    "artists": [
-      "skupers"
-    ],
-    "date": "2011-11-11"
-  },
-  {
-    "id": "VA010",
-    "name": "Halfwayaroundthesun",
-    "byline": "Yathosho",
-    "type": "album",
-    "artists": [
-      "yathosho"
-    ]
-  },
-  {
-    "id": "VA011",
-    "name": "Inversions & Loungelizard",
-    "byline": "Alt III",
-    "type": "compilation",
-    "artists": [
-      "alt-iii"
-    ],
-    "date": "2011-11-11"
-  },
-  {
-    "id": "VA012",
-    "name": "The Full Circle",
-    "byline": "Yathosho",
-    "type": "album",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2011-11-11"
-  },
-  {
-    "id": "VA013",
-    "name": "The New Society",
-    "byline": "AVSociety",
-    "type": "compilation",
-    "artists": [
-      "various-artists"
-    ]
-  },
-  {
-    "id": "VA014-1",
-    "name": "Innervision",
-    "byline": "Zamuz",
-    "type": "compilation",
-    "artists": [
-      "zamuz"
-    ],
-    "is_new": true,
-    "date": "2022-12-28"
-  },
-  {
-    "id": "VA014-2",
-    "name": "visions.ii.sx",
-    "byline": "skupers+zamuz",
-    "type": "compilation",
-    "artists": [
-      "zamuz",
-      "skupers"
-    ],
-    "is_new": true,
-    "date": "2022-12-28"
-  },
-  {
-    "id": "VA015",
-    "name": "collected works 2002-2009",
-    "byline": "Amphirion",
-    "type": "compilation",
-    "artists": [
-      "amphirion"
-    ],
-    "is_new": true,
-    "date": "2023-01-17"
-  },
-  {
-    "id": "VA016",
-    "name": "digital stereotype experience",
-    "byline": "Vanish",
-    "type": "album",
-    "artists": [
-      "vanish"
-    ],
-    "is_new": true,
-    "date": "2023-03-01"
-  },
-  {
-    "id": "VA017",
-    "name": "Helium",
-    "byline": "Micro.D",
-    "type": "compilation",
-    "artists": [
-      "micro-d"
-    ],
-    "is_new": true,
-    "date": "2023-04-27"
-  },
-  {
-    "id": "VA018",
-    "name": "Finnish Flash Forever",
-    "byline": "Finnish Flash",
-    "type": "compilation",
-    "artists": [
-      "finnish-flash"
-    ],
-    "is_new": true,
-    "date": "2023-05-26"
-  },
-  {
-    "id": "VA019",
-    "name": "Anthology",
-    "byline": "Hboy",
-    "type": "compilation",
-    "artists": [
-      "hboy"
-    ],
-    "is_new": true,
-    "date": "2023-06-04"
-  },
-  {
-    "id": "VA020",
-    "name": "VISBOT XX",
-    "byline": "Various Artists",
-    "type": "compilation",
-    "artists": [
-      "visbot"
-    ],
-    "is_new": true,
-    "date": "2023-07-02"
-  },
-  {
-    "id": "VA021",
-    "name": "Kryptonite!",
-    "byline": "Pure Krypton",
-    "type": "compilation",
-    "artists": [
-      "pure-krypton"
-    ],
-    "is_new": true,
-    "date": "2023-08-02"
-  },
-  {
-    "id": "VA022",
-    "name": "Selected Works",
-    "byline": "SKuPeRS",
-    "type": "compilation",
-    "artists": [
-      "skupers"
-    ],
-    "is_new": true,
-    "date": "2023-09-03"
-  },
-  {
-    "id": "VA023",
-    "name": "The Alchemist",
-    "byline": "AVS-King",
-    "type": "compilation",
-    "artists": [
-      "avs-king"
-    ],
-    "is_new": true,
-    "date": "2023-11-23"
-  },
-  {
-    "id": "VA024",
-    "name": "Showpiece",
-    "byline": "NemoOrange",
-    "type": "compilation",
-    "artists": [
-      "nemo-orange"
-    ],
-    "is_new": true,
-    "date": "2024-01-24"
-  },
-  {
-    "id": "VB001-1",
-    "name": "Brokenframe Teasa",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2003-04-09"
-  },
-  {
-    "id": "VB001-2",
-    "name": "Brokenframe",
-    "byline": "Yathosho",
-    "type": "album",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2003-04-29"
-  },
-  {
-    "id": "VB002",
-    "name": "The Y Element",
-    "byline": "SKuPeRS",
-    "type": "album",
-    "artists": [
-      "skupers"
-    ],
-    "playlist": "PLF3F77EC5A5D6B56C",
-    "date": "2003-05-04"
-  },
-  {
-    "id": "VB003-1",
-    "name": "RRX 7\"",
-    "byline": "SKuPeRS",
-    "type": "single",
-    "artists": [
-      "skupers"
-    ],
-    "playlist": "PL6E085DD000144728",
-    "date": "2003-05-04"
-  },
-  {
-    "id": "VB003-2",
-    "name": "LP7",
-    "byline": "SKuPeRS",
-    "type": "album",
-    "artists": [
-      "skupers"
-    ],
-    "playlist": "PL9889DEC6A2342E06",
-    "date": "2003-05-18"
-  },
-  {
-    "id": "VB004",
-    "name": "Since Then 4",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2003-05-10"
-  },
-  {
-    "id": "VB005-1",
-    "name": "Broken Rewinda pt. 1",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2003-05-11"
-  },
-  {
-    "id": "VB005-2",
-    "name": "Broken Rewinda pt. 2",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2003-05-11"
-  },
-  {
-    "id": "VB006",
-    "name": "Since Then 5",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2003-05-12"
-  },
-  {
-    "id": "VB007-1",
-    "name": "LP7Ra",
-    "byline": "SKuPeRS",
-    "type": "single",
-    "artists": [
-      "skupers"
-    ],
-    "date": "2003-06-12"
-  },
-  {
-    "id": "VB007-2",
-    "name": "LP7Rb",
-    "byline": "SKuPeRS",
-    "type": "single",
-    "artists": [
-      "skupers"
-    ],
-    "date": "2003-06-17"
-  },
-  {
-    "id": "VB008",
-    "name": "SIGHTS",
-    "byline": "NemoOrange",
-    "type": "album",
-    "artists": [
-      "nemo-orange"
-    ],
-    "playlist": "PL793DBE8F92AD909E",
-    "date": "2003-04-28"
-  },
-  {
-    "id": "VB009",
-    "name": "Detroit V-VIII",
-    "byline": "PAN AM",
-    "type": "single",
-    "artists": [
-      "pan-am"
-    ]
-  },
-  {
-    "id": "VB010",
-    "name": "Broker's Insider Vol. 1",
-    "byline": "Yathosho",
-    "type": "compilation",
-    "artists": [
-      "yathosho"
-    ],
-    "playlist": "PL2B66D0894A9432CA",
-    "date": "2003-06-07"
-  },
-  {
-    "id": "VB011-1",
-    "name": "Version 2",
-    "byline": "Yathosho",
-    "type": "compilation",
-    "artists": [
-      "yathosho"
-    ],
-    "geoblock": [
-      "jp"
-    ],
-    "playlist": "PLA88256277BEBBD1D",
-    "date": "2003"
-  },
-  {
-    "id": "VB011-2",
-    "name": "Version 2 EP",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2003-05-26"
-  },
-  {
-    "id": "VB012",
-    "name": "Curvisms",
-    "byline": "SKuPeRS",
-    "type": "compilation",
-    "artists": [
-      "skupers"
-    ],
-    "playlist": "PL9855B1AB865E8F36",
-    "date": "2003-07-05"
-  },
-  {
-    "id": "VB013",
-    "name": "XR6",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2003-05-30"
-  },
-  {
-    "id": "VB014",
-    "name": "les Noobiens",
-    "byline": "les Noobiens",
-    "type": "single",
-    "artists": [
-      "les-noobiens"
-    ],
-    "date": "2003"
-  },
-  {
-    "id": "VB015-1",
-    "name": "Envision (Reissue)",
-    "byline": "Duo",
-    "type": "album",
-    "artists": [
-      "duo"
-    ],
-    "playlist": "PLC579FF95001278A0",
-    "date": "2003-06-15"
-  },
-  {
-    "id": "VB015-2",
-    "name": "Envision 2 (Reissue)",
-    "byline": "Duo",
-    "type": "album",
-    "artists": [
-      "duo"
-    ],
-    "playlist": "PL19AE009BDEE00228",
-    "date": "2003-06-15"
-  },
-  {
-    "id": "VB015-3",
-    "name": "Envision 3",
-    "byline": "Duo",
-    "type": "album",
-    "artists": [
-      "duo"
-    ],
-    "playlist": "PL041EDCD2DFA9E4F5",
-    "date": "2003-06-15"
-  },
-  {
-    "id": "VB016",
-    "name": "govisbotgo",
-    "byline": "NemoOrange",
-    "type": "single",
-    "artists": [
-      "nemo-orange"
-    ],
-    "playlist": "PL0D4A6DF8E95DC940",
-    "date": "2003"
-  },
-  {
-    "id": "VB017-1",
-    "name": "Kirschblüten pt. 1",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2003"
-  },
-  {
-    "id": "VB017-2",
-    "name": "Kirschblüten pt. 2",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2003"
-  },
-  {
-    "id": "VB018",
-    "name": "Nvone EP",
-    "byline": "SKuPeRS",
-    "type": "single",
-    "artists": [
-      "skupers"
-    ],
-    "date": "2003-07-30"
-  },
-  {
-    "id": "VB019",
-    "name": "Oldskul",
-    "byline": "Alt III",
-    "type": "album",
-    "artists": [
-      "alt-iii"
-    ],
-    "playlist": "PL6FA78443C6064A96",
-    "date": "2003"
-  },
-  {
-    "id": "VB020-1",
-    "name": "Heimcomputer II Preview",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2003-07-27"
-  },
-  {
-    "id": "VB020-2",
-    "name": "Heimcomputer II",
-    "byline": "Yathosho",
-    "type": "album",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2003"
-  },
-  {
-    "id": "VB021",
-    "name": "Since Then 7",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2003-07-13"
-  },
-  {
-    "id": "VB022-1",
-    "name": "The Outside Broker",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2003"
-  },
-  {
-    "id": "VB022-2",
-    "name": "Broker's Insider Vol. 2",
-    "byline": "Yathosho",
-    "type": "compilation",
-    "artists": [
-      "yathosho"
-    ],
-    "playlist": "PLAC0D46F45D48D80E",
-    "date": "2003-08-08"
-  },
-  {
-    "id": "VB023",
-    "name": "DDoo3",
-    "byline": "Dynamic Duo",
-    "type": "single",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "date": "2003-08-20"
-  },
-  {
-    "id": "VB024",
-    "name": "Since Then 8",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2003-08-05"
-  },
-  {
-    "id": "VB025",
-    "name": "In Between EP",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2003"
-  },
-  {
-    "id": "VB026-1",
-    "name": "OO'd pt. 1",
-    "byline": "les Noobiens",
-    "type": "single",
-    "artists": [
-      "les-noobiens"
-    ],
-    "date": "2003"
-  },
-  {
-    "id": "VB026-2",
-    "name": "OO'd pt. 2",
-    "byline": "les Noobiens",
-    "type": "single",
-    "artists": [
-      "les-noobiens"
-    ],
-    "date": "2003"
-  },
-  {
-    "id": "VB027",
-    "name": "Abstraction of Documents",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2003"
-  },
-  {
-    "id": "VB028",
-    "name": "Visions II",
-    "byline": "Zamuz",
-    "type": "album",
-    "artists": [
-      "zamuz"
-    ],
-    "playlist": "PL27DCD248A378C7A7",
-    "date": "2003-08-11"
-  },
-  {
-    "id": "VB029-1",
-    "name": "LP8P: Ætatula",
-    "byline": "SKuPeRS",
-    "type": "single",
-    "artists": [
-      "skupers"
-    ],
-    "date": "2003-10-28"
-  },
-  {
-    "id": "VB029-2",
-    "name": "LP8: Ætherius",
-    "byline": "SKuPeRS",
-    "type": "album",
-    "artists": [
-      "skupers"
-    ],
-    "playlist": "PLF1857F7583C83C68",
-    "date": "2003-12-29"
-  },
-  {
-    "id": "VB030",
-    "name": "Revisions",
-    "byline": "Zamuz",
-    "type": "album",
-    "artists": [
-      "zamuz"
-    ],
-    "playlist": "PL8D25676FEC29BF36",
-    "date": "2003-09-16"
-  },
-  {
-    "id": "VB031",
-    "name": "Co-op Session 01",
-    "byline": "SKuPeRS / Amphirion",
-    "type": "single",
-    "artists": [
-      "skupers",
-      "amphirion"
-    ],
-    "playlist": "PLAC06315A88ACD95E",
-    "date": "2003-09-16"
-  },
-  {
-    "id": "VB032",
-    "name": "Noobism",
-    "byline": "les Noobiens",
-    "type": "album",
-    "artists": [
-      "les-noobiens"
-    ],
-    "playlist": "PL7F72931BEBFF8904",
-    "date": "2003-10-12"
-  },
-  {
-    "id": "VB033-1",
-    "name": "Since Then 9",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2003-09-29"
-  },
-  {
-    "id": "VB033-2",
-    "name": "Since T(h)en",
-    "byline": "Yathosho",
-    "type": "album",
-    "artists": [
-      "yathosho"
-    ],
-    "playlist": "PLEE305E81D573DB38",
-    "date": "2003-09-08"
-  },
-  {
-    "id": "VB034",
-    "name": "Co-op Session 02",
-    "byline": "Yathosho / Zamuz",
-    "type": "single",
-    "artists": [
-      "yathosho",
-      "zamuz"
-    ],
-    "playlist": "PL015291BF11F3E63F",
-    "date": "2003-09-16"
-  },
-  {
-    "id": "VB035-1",
-    "name": "I love OO",
-    "byline": "les Noobiens",
-    "type": "single",
-    "artists": [
-      "les-noobiens"
-    ],
-    "date": "2003-10-17"
-  },
-  {
-    "id": "VB035-2",
-    "name": "I love OO 2",
-    "byline": "les Noobiens",
-    "type": "single",
-    "artists": [
-      "les-noobiens"
-    ],
-    "date": "2003-10-19"
-  },
-  {
-    "id": "VB036",
-    "name": "Detroit IX-XII",
-    "byline": "PAN AM",
-    "type": "single",
-    "artists": [
-      "pan-am"
-    ],
-    "date": "2003"
-  },
-  {
-    "id": "VB037",
-    "name": "V.I.P.",
-    "byline": "Dynamic Duo",
-    "type": "single",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "geoblock": [
-      "jp"
-    ],
-    "date": "2003"
-  },
-  {
-    "id": "VB038",
-    "name": "Co-op Session 03",
-    "byline": "les Noobiens / UnConeD",
-    "type": "single",
-    "artists": [
-      "les-noobiens",
-      "unconed"
-    ],
-    "playlist": "PLDDC72FFB6F8FA06A",
-    "date": "2004-01-11"
-  },
-  {
-    "id": "VB039",
-    "name": "Relax",
-    "byline": "NemoOrange",
-    "type": "single",
-    "artists": [
-      "nemo-orange"
-    ],
-    "playlist": "PL1A3AB47B0554AE68",
-    "date": "2003-11-01"
-  },
-  {
-    "id": "VB040-1",
-    "name": "Inside White",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2003"
-  },
-  {
-    "id": "VB040-2",
-    "name": "Broker's Insider Vol. 3",
-    "byline": "Yathosho",
-    "type": "compilation",
-    "artists": [
-      "yathosho"
-    ],
-    "playlist": "PL6EFCB52BF012EDE8",
-    "date": "2003-11-13"
-  },
-  {
-    "id": "VB041",
-    "name": "Visions III",
-    "byline": "Zamuz",
-    "type": "album",
-    "artists": [
-      "zamuz"
-    ],
-    "playlist": "PL7743BBDFB07241C5",
-    "date": "2003-12-11"
-  },
-  {
-    "id": "VB042",
-    "name": "X",
-    "byline": "Yathosho",
-    "type": "compilation",
-    "artists": [
-      "yathosho"
-    ],
-    "geoblock": [
-      "jp"
-    ],
-    "date": "2004-01-01"
-  },
-  {
-    "id": "VB043",
-    "name": "DD2oo3",
-    "byline": "Dynamic Duo",
-    "type": "compilation",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "geoblock": [
-      "jp"
-    ],
-    "date": "2004-01-01"
-  },
-  {
-    "id": "VB044",
-    "name": "DDoo4",
-    "byline": "Dynamic Duo",
-    "type": "single",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "date": "2004-01-13"
-  },
-  {
-    "id": "VB045",
-    "name": "Noob It!",
-    "byline": "les Noobiens",
-    "type": "single",
-    "artists": [
-      "les-noobiens"
-    ],
-    "date": "2004"
-  },
-  {
-    "id": "VB046",
-    "name": "Lighthology III",
-    "byline": "NemoOrange",
-    "type": "single",
-    "artists": [
-      "nemo-orange"
-    ],
-    "playlist": "PL0865054E50BCFF17",
-    "date": "2004-01-06"
-  },
-  {
-    "id": "VB047",
-    "name": "LP7 Suite",
-    "byline": "SKuPeRS",
-    "type": "compilation",
-    "artists": [
-      "skupers"
-    ],
-    "date": "2003-12-23"
-  },
-  {
-    "id": "VB048",
-    "name": "Co-op Session 04",
-    "byline": "Dynamic Duo / Finnish Flash",
-    "type": "single",
-    "artists": [
-      "dynamic-duo",
-      "finnish-flash"
-    ],
-    "playlist": "PL511BFC1BF987FE2C",
-    "date": "2004-01-29"
-  },
-  {
-    "id": "VB049",
-    "name": "New People Selection Vol. 1",
-    "byline": "Various Artists",
-    "type": "compilation",
-    "artists": [
-      "various-artists"
-    ],
-    "playlist": "PL0A94045FC89E0849",
-    "date": "2004-01-13"
-  },
-  {
-    "id": "VB050",
-    "name": "msibooN",
-    "byline": "les Noobiens",
-    "type": "album",
-    "artists": [
-      "les-noobiens"
-    ],
-    "playlist": "PL92A78B13109BBE10",
-    "date": "2004-01-22"
-  },
-  {
-    "id": "VB051",
-    "name": "Tidal Pixel",
-    "byline": "SKuPeRS",
-    "type": "single",
-    "artists": [
-      "skupers"
-    ],
-    "date": "2004-01-22"
-  },
-  {
-    "id": "VB052-1",
-    "name": "Delight Relight",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2004-02-10"
-  },
-  {
-    "id": "VB052-2",
-    "name": "Relight Delight",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2004-02-10"
-  },
-  {
-    "id": "VB053",
-    "name": "Brokenframe Revisited",
-    "byline": "Yathosho",
-    "type": "album",
-    "artists": [
-      "yathosho"
-    ],
-    "playlist": "PLBA0327BE4727FBA9",
-    "date": "2004-03-01"
-  },
-  {
-    "id": "VB054",
-    "name": "Broker's Insider Vol. 4",
-    "byline": "Dynamic Duo",
-    "type": "compilation",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "playlist": "PLCCEA159ACDD15525",
-    "date": "2004-03-12"
-  },
-  {
-    "id": "VB055",
-    "name": "DDoo5",
-    "byline": "Dynamic Duo",
-    "type": "single",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "date": "2004-04-05"
-  },
-  {
-    "id": "VB056",
-    "name": "Less Noodles, More Beans",
-    "byline": "les Noobiens",
-    "type": "single",
-    "artists": [
-      "les-noobiens"
-    ],
-    "date": "2004"
-  },
-  {
-    "id": "VB057",
-    "name": "The Unreleases",
-    "byline": "Yathosho",
-    "type": "compilation",
-    "artists": [
-      "yathosho"
-    ],
-    "playlist": "PLC0A75E597F2C306A",
-    "date": "2004"
-  },
-  {
-    "id": "VB058",
-    "name": "Co-op Session 05",
-    "byline": "Zamuz / Hboy",
-    "type": "single",
-    "artists": [
-      "zamuz",
-      "hboy"
-    ],
-    "playlist": "PL4A56834A97CD756B",
-    "date": "2004-03-20"
-  },
-  {
-    "id": "VB059",
-    "name": "Tintin on the Moon",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2004"
-  },
-  {
-    "id": "VB060",
-    "name": "The UnConeD Mixes",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "geoblock": [
-      "jp"
-    ],
-    "date": "2004"
-  },
-  {
-    "id": "VB061",
-    "name": "New People Selection Vol. 2",
-    "byline": "Various Artists",
-    "type": "compilation",
-    "artists": [
-      "various-artists"
-    ],
-    "playlist": "PL0F34C65B16EE2F78",
-    "date": "2004-04-04"
-  },
-  {
-    "id": "VB062",
-    "name": "Shape Shifting",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2004-06-07"
-  },
-  {
-    "id": "VB063",
-    "name": "Leisure Suit Noobie",
-    "byline": "les Noobiens",
-    "type": "single",
-    "artists": [
-      "les-noobiens"
-    ],
-    "date": "2004"
-  },
-  {
-    "id": "VB064",
-    "name": "Noobcore",
-    "byline": "les Noobiens",
-    "type": "single",
-    "artists": [
-      "les-noobiens"
-    ],
-    "date": "2004-09-05"
-  },
-  {
-    "id": "VB065-1",
-    "name": "Since When pt. 1",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2004-07-05"
-  },
-  {
-    "id": "VB065-2",
-    "name": "Since When pt. 2",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2004-07-13"
-  },
-  {
-    "id": "VB066",
-    "name": "DDoo6",
-    "byline": "Dynamic Duo",
-    "type": "single",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "date": "2004-08-01"
-  },
-  {
-    "id": "VB067",
-    "name": "Scenery",
-    "byline": "NemoOrange",
-    "type": "album",
-    "artists": [
-      "nemo-orange"
-    ],
-    "playlist": "PLF03EB0AE34825157",
-    "date": "2004-07-27"
-  },
-  {
-    "id": "VB068-1",
-    "name": "Visions 4",
-    "byline": "Zamuz",
-    "type": "album",
-    "artists": [
-      "zamuz"
-    ],
-    "playlist": "PL9A18DB187CE0DE9A",
-    "date": "2004-07-14"
-  },
-  {
-    "id": "VB068-2",
-    "name": "Revisions 2",
-    "byline": "Zamuz",
-    "type": "album",
-    "artists": [
-      "zamuz"
-    ],
-    "playlist": "PL94F70C8B5945C85B",
-    "date": "2004-07-14"
-  },
-  {
-    "id": "VB069",
-    "name": "Broker's Insider Vol. 5",
-    "byline": "Yathosho",
-    "type": "compilation",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2004-07-19"
-  },
-  {
-    "id": "VB070",
-    "name": "Les Couleurs",
-    "byline": "les Noobiens",
-    "type": "single",
-    "artists": [
-      "les-noobiens"
-    ],
-    "date": "2004-08-07"
-  },
-  {
-    "id": "VB071-1",
-    "name": "Minidisko Remixes pt. 1",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2004-08-09"
-  },
-  {
-    "id": "VB071-2",
-    "name": "Minidisko Remixes pt. 2",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2004-08-23"
-  },
-  {
-    "id": "VB072",
-    "name": "Noobtroop Vol. 1",
-    "byline": "les Noobiens",
-    "type": "compilation",
-    "artists": [
-      "les-noobiens"
-    ],
-    "date": "2004-09-23"
-  },
-  {
-    "id": "VB073",
-    "name": "In Treatment",
-    "byline": "Yathosho",
-    "type": "compilation",
-    "artists": [
-      "yathosho"
-    ],
-    "playlist": "PLCE88E4919654FA98",
-    "date": "2004-09-23"
-  },
-  {
-    "id": "VB074-1",
-    "name": "Preflight",
-    "byline": "PAN AM",
-    "type": "single",
-    "artists": [
-      "pan-am"
-    ],
-    "date": "2004"
-  },
-  {
-    "id": "VB074-2",
-    "name": "747",
-    "byline": "PAN AM",
-    "type": "album",
-    "artists": [
-      "pan-am"
-    ],
-    "date": "2004"
-  },
-  {
-    "id": "VB075",
-    "name": "Co-op Session 06",
-    "byline": "NemoOrange / Unripe Lemon",
-    "type": "single",
-    "artists": [
-      "nemo-orange",
-      "unripe-lemon"
-    ],
-    "playlist": "PLB0575E975ED37E29",
-    "date": "2004-10-29"
-  },
-  {
-    "id": "VB076-1",
-    "name": "Prelude to L.O.V.E",
-    "byline": "les Noobiens",
-    "type": "single",
-    "artists": [
-      "les-noobiens"
-    ],
-    "date": "2004"
-  },
-  {
-    "id": "VB076-2",
-    "name": "Love your Noobiens",
-    "byline": "les Noobiens",
-    "type": "album",
-    "artists": [
-      "les-noobiens"
-    ],
-    "playlist": "PL1B1AD0C0F8979DA0",
-    "date": "2004-11-03"
-  },
-  {
-    "id": "VB077",
-    "name": "Co-op Session 07",
-    "byline": "Yathosho / Synth-C",
-    "type": "single",
-    "artists": [
-      "yathosho",
-      "synth-c"
-    ],
-    "playlist": "PL64FF2C72EC037623",
-    "date": "2004-11-02"
-  },
-  {
-    "id": "VB078",
-    "name": "Dreams",
-    "byline": "Zamuz",
-    "type": "single",
-    "artists": [
-      "zamuz"
-    ],
-    "date": "2004"
-  },
-  {
-    "id": "VB079-1",
-    "name": "X2EP",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2004-11-25"
-  },
-  {
-    "id": "VB079-2",
-    "name": "X2",
-    "byline": "Yathosho",
-    "type": "compilation",
-    "artists": [
-      "yathosho"
-    ],
-    "geoblock": [
-      "jp"
-    ],
-    "date": "2005-01-01"
-  },
-  {
-    "id": "VB080",
-    "name": "Co-op Session 08",
-    "byline": "Danaughty1 / Hboy",
-    "type": "single",
-    "artists": [
-      "danaughty1",
-      "hboy"
-    ],
-    "playlist": "PLD4C2F85A1B8B2D7B",
-    "date": "2005-01-01"
-  },
-  {
-    "id": "VB081-1",
-    "name": "Jacques aux Fraises",
-    "byline": "les Noobiens",
-    "type": "single",
-    "artists": [
-      "les-noobiens"
-    ],
-    "date": "2004"
-  },
-  {
-    "id": "VB081-2",
-    "name": "Shake your Noobiens",
-    "byline": "les Noobiens",
-    "type": "album",
-    "artists": [
-      "les-noobiens"
-    ],
-    "playlist": "PL3E066DFCC4855462",
-    "date": "2004-12-18"
-  },
-  {
-    "id": "VB082",
-    "name": "Enter da Naughty",
-    "byline": "Danaughty1",
-    "type": "single",
-    "artists": [
-      "danaughty1"
-    ],
-    "geoblock": [
-      "jp"
-    ],
-    "date": "2004"
-  },
-  {
-    "id": "VB083",
-    "name": "It's da naughty loose",
-    "byline": "Danaughty1",
-    "type": "single",
-    "artists": [
-      "danaughty1"
-    ],
-    "geoblock": [
-      "jp"
-    ],
-    "date": "2004"
-  },
-  {
-    "id": "VB084",
-    "name": "Noobtroop Vol. 2",
-    "byline": "les Noobiens",
-    "type": "compilation",
-    "artists": [
-      "les-noobiens"
-    ],
-    "date": "2004-12-07"
-  },
-  {
-    "id": "VB085",
-    "name": "New People Selection Vol. 3",
-    "byline": "Various Artists",
-    "type": "compilation",
-    "artists": [
-      "various-artists"
-    ],
-    "playlist": "PLFE19E12F58C82849",
-    "date": "2004-12-05"
-  },
-  {
-    "id": "VB086",
-    "name": "Naughty Nutz",
-    "byline": "Danaughty1",
-    "type": "single",
-    "artists": [
-      "danaughty1"
-    ],
-    "geoblock": [
-      "jp"
-    ],
-    "date": "2004"
-  },
-  {
-    "id": "VB087",
-    "name": "Da-Naughty-One",
-    "byline": "Danaughty1",
-    "type": "single",
-    "artists": [
-      "danaughty1"
-    ],
-    "date": "2004-12-14"
-  },
-  {
-    "id": "VB088",
-    "name": "The Crossbreeds 2",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "geoblock": [
-      "jp"
-    ],
-    "date": "2004-12-04"
-  },
-  {
-    "id": "VB089",
-    "name": "Let the MUSICK play",
-    "byline": "les Noobiens",
-    "type": "compilation",
-    "artists": [
-      "les-noobiens"
-    ],
-    "date": "2004"
-  },
-  {
-    "id": "VB090",
-    "name": "DDrmx",
-    "byline": "Dynamic Duo",
-    "type": "album",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "playlist": "PLCA0C39FE6651B1AB",
-    "date": "2005-03-12"
-  },
-  {
-    "id": "VB091",
-    "name": "Kerygma",
-    "byline": "Frames of Reality",
-    "type": "album",
-    "artists": [
-      "frames-of-reality"
-    ],
-    "playlist": "PLDCA5FE48765A183A",
-    "date": "2004-12-15"
-  },
-  {
-    "id": "VB092",
-    "name": "Less Boodle, More Needs",
-    "byline": "les Noobiens",
-    "type": "single",
-    "artists": [
-      "les-noobiens"
-    ]
-  },
-  {
-    "id": "VB093-1",
-    "name": "Dis",
-    "byline": "Frames of Reality",
-    "type": "single",
-    "artists": [
-      "frames-of-reality"
-    ],
-    "date": "2005-01-26"
-  },
-  {
-    "id": "VB093-2",
-    "name": "Sol",
-    "byline": "Frames of Reality",
-    "type": "single",
-    "artists": [
-      "frames-of-reality"
-    ],
-    "date": "2005-01-26"
-  },
-  {
-    "id": "VB094",
-    "name": "DD2oo4",
-    "byline": "Dynamic Duo",
-    "type": "compilation",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "geoblock": [
-      "jp"
-    ],
-    "date": "2005"
-  },
-  {
-    "id": "VB095",
-    "name": "Co-op Session 09",
-    "byline": "Duo / Yathosho",
-    "type": "single",
-    "artists": [
-      "duo",
-      "yathosho"
-    ],
-    "playlist": "PL3FD3FCAC3B757DAC",
-    "date": "2005-01-17"
-  },
-  {
-    "id": "VB096",
-    "name": "Unfinished Sympathies",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "geoblock": [
-      "jp"
-    ],
-    "date": "2005-01-26"
-  },
-  {
-    "id": "VB097",
-    "name": "Who is Da Naughty One?",
-    "byline": "Danaughty1",
-    "type": "single",
-    "artists": [
-      "danaughty1"
-    ],
-    "date": "2005-01-29"
-  },
-  {
-    "id": "VB098",
-    "name": "The Internoob",
-    "byline": "les Noobiens",
-    "type": "single",
-    "artists": [
-      "les-noobiens"
-    ],
-    "date": "2005"
-  },
-  {
-    "id": "VB099",
-    "name": "U Been Naughty",
-    "byline": "Danaughty1",
-    "type": "album",
-    "artists": [
-      "danaughty1"
-    ],
-    "playlist": "PL03D542030234FDAD",
-    "date": "2005"
-  },
-  {
-    "id": "VB100",
-    "name": "VISBOT 100",
-    "byline": "Various Artists",
-    "type": "compilation",
-    "artists": [
-      "visbot"
-    ],
-    "playlist": "PLD09AE2F053071854",
-    "date": "2005-02-27"
-  },
-  {
-    "id": "VB101",
-    "name": "The Great Escape",
-    "byline": "Yathosho",
-    "type": "album",
-    "artists": [
-      "yathosho"
-    ],
-    "playlist": "PLF452BAF6A70A45A2",
-    "date": "2004-02-02"
-  },
-  {
-    "id": "VB102",
-    "name": "Incipience III",
-    "byline": "Amphirion",
-    "type": "album",
-    "artists": [
-      "amphirion"
-    ],
-    "playlist": "PL93081F8A1D370A38",
-    "date": "2005-02-14"
-  },
-  {
-    "id": "VB103",
-    "name": "Exegesis",
-    "byline": "Frames of Reality",
-    "type": "album",
-    "artists": [
-      "frames-of-reality"
-    ],
-    "playlist": "PL9258F95F32AA6EED",
-    "date": "2005-03-07"
-  },
-  {
-    "id": "VB104",
-    "name": "Facelifts",
-    "byline": "Zamuz",
-    "type": "single",
-    "artists": [
-      "zamuz"
-    ],
-    "date": "2005-04-17"
-  },
-  {
-    "id": "VB105",
-    "name": "Visions 5",
-    "byline": "Zamuz",
-    "type": "album",
-    "artists": [
-      "zamuz"
-    ],
-    "playlist": "PL67AFC49A9DA315C9",
-    "date": "2005-04-23"
-  },
-  {
-    "id": "VB106",
-    "name": "Co-op Session 10",
-    "byline": "Amphirion / Vanish",
-    "type": "single",
-    "artists": [
-      "amphirion",
-      "vanish"
-    ],
-    "playlist": "PL323E372CBC499F13",
-    "date": "2005-05-05"
-  },
-  {
-    "id": "VB107",
-    "name": "back2back",
-    "byline": "Yathosho / Frames of Reality",
-    "type": "single",
-    "artists": [
-      "yathosho",
-      "frames-of-reality"
-    ],
-    "date": "2005-07-13"
-  },
-  {
-    "id": "VB108",
-    "name": "The Shapes of Math",
-    "byline": "les Noobiens",
-    "type": "single",
-    "artists": [
-      "les-noobiens"
-    ],
-    "date": "2005"
-  },
-  {
-    "id": "VB109",
-    "name": "DM5 Sampler",
-    "byline": "Dynamic Duo",
-    "type": "single",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "date": "2005"
-  },
-  {
-    "id": "VB110",
-    "name": "Entertainment for the Blind",
-    "byline": "Frames of Reality",
-    "type": "album",
-    "artists": [
-      "frames-of-reality"
-    ],
-    "playlist": "PL7CF5B97D9E75DC2D",
-    "date": "2005"
-  },
-  {
-    "id": "VB111",
-    "name": "Since When 2",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2005-08-11"
-  },
-  {
-    "id": "VB112",
-    "name": "Mindscapes",
-    "byline": "Hboy",
-    "type": "album",
-    "artists": [
-      "hboy"
-    ],
-    "playlist": "PL50B694740780157A",
-    "date": "2005-08-11"
-  },
-  {
-    "id": "VB113",
-    "name": "The Age of Nuke EP",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "geoblock": [
-      "jp"
-    ],
-    "date": "2005-08-13"
-  },
-  {
-    "id": "VB114",
-    "name": "D.I.Y.",
-    "byline": "les Noobiens",
-    "type": "single",
-    "artists": [
-      "les-noobiens"
-    ],
-    "date": "2006-03-21"
-  },
-  {
-    "id": "VB115",
-    "name": "DDoo7",
-    "byline": "Dynamic Duo",
-    "type": "single",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "date": "2005-09-06"
-  },
-  {
-    "id": "VB116",
-    "name": "Lift-Off",
-    "byline": "Synth-C",
-    "type": "album",
-    "artists": [
-      "synth-c"
-    ],
-    "playlist": "PL458E7B43045A4D42",
-    "date": "2005-11-04"
-  },
-  {
-    "id": "VB117-1",
-    "name": "Refocused pt. 1",
-    "byline": "AVS-King",
-    "type": "single",
-    "artists": [
-      "avs-king"
-    ],
-    "date": "2005"
-  },
-  {
-    "id": "VB117-2",
-    "name": "Refocused pt. 2",
-    "byline": "AVS-King",
-    "type": "single",
-    "artists": [
-      "avs-king"
-    ],
-    "date": "2005"
-  },
-  {
-    "id": "VB117-3",
-    "name": "Refocused pt. 3",
-    "byline": "AVS-King",
-    "type": "single",
-    "artists": [
-      "avs-king"
-    ],
-    "date": "2005"
-  },
-  {
-    "id": "VB118",
-    "name": "Rehmix Vol. 1",
-    "byline": "les Noobiens",
-    "type": "single",
-    "artists": [
-      "les-noobiens"
-    ],
-    "date": "2005"
-  },
-  {
-    "id": "VB119",
-    "name": "Co-op Session 11",
-    "byline": "Frames of Reality / ^..^",
-    "type": "single",
-    "artists": [
-      "frames-of-reality"
-    ],
-    "playlist": "PL53FACC76F10AED15",
-    "date": "2005-12-12"
-  },
-  {
-    "id": "VB120-1",
-    "name": "IT2 Sampler",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2005-11-04"
-  },
-  {
-    "id": "VB120-2",
-    "name": "In Treatment 2",
-    "byline": "Yathosho",
-    "type": "compilation",
-    "artists": [
-      "yathosho"
-    ],
-    "playlist": "PLF463D07D2A21C7B0",
-    "date": "2005-12-24"
-  },
-  {
-    "id": "VB121",
-    "name": "Grime",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2005-12-25"
-  },
-  {
-    "id": "VB122",
-    "name": "Remix Collection",
-    "byline": "Zamuz",
-    "type": "compilation",
-    "artists": [
-      "zamuz"
-    ],
-    "playlist": "PL9F809501720CEE4C",
-    "date": "2006-01-23"
-  },
-  {
-    "id": "VB123",
-    "name": "X3",
-    "byline": "Yathosho",
-    "type": "compilation",
-    "artists": [
-      "yathosho"
-    ],
-    "geoblock": [
-      "jp"
-    ],
-    "date": "2006-01-06"
-  },
-  {
-    "id": "VB124",
-    "name": "The D.S.E. Remixes",
-    "byline": "Vanish",
-    "type": "compilation",
-    "artists": [
-      "vanish"
-    ],
-    "playlist": "PLD68A1D99C047289D",
-    "date": "2006"
-  },
-  {
-    "id": "VB125",
-    "name": "DD2oo5",
-    "byline": "Dynamic Duo",
-    "type": "compilation",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "geoblock": [
-      "jp"
-    ],
-    "date": "2006-01-01"
-  },
-  {
-    "id": "VB126-1",
-    "name": "Soy Bomb",
-    "byline": "Frames of Reality",
-    "type": "album",
-    "artists": [
-      "frames-of-reality"
-    ],
-    "playlist": "PL37BE6A3CD6D52143",
-    "date": "2006-02-27"
-  },
-  {
-    "id": "VB126-2",
-    "name": "Triad",
-    "byline": "Frames of Reality",
-    "type": "single",
-    "artists": [
-      "frames-of-reality"
-    ],
-    "date": "2006-02-27"
-  },
-  {
-    "id": "VB127",
-    "name": "Skin (Yathosho Remixes)",
-    "byline": "Pure Krypton",
-    "type": "single",
-    "artists": [
-      "pure-krypton"
-    ],
-    "date": "2006"
-  },
-  {
-    "id": "VB128",
-    "name": "Back2Future EP",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2006-05-28"
-  },
-  {
-    "id": "VB129",
-    "name": "DM6 Sampler",
-    "byline": "Dynamic Duo",
-    "type": "single",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "date": "2006"
-  },
-  {
-    "id": "VB130",
-    "name": "Straight outta Lipton",
-    "byline": "les Noobiens",
-    "type": "single",
-    "artists": [
-      "les-noobiens"
-    ],
-    "date": "2006"
-  },
-  {
-    "id": "VB131",
-    "name": "Grime 2",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2006-06-24"
-  },
-  {
-    "id": "VB132",
-    "name": "New People Selection Vol. 4",
-    "byline": "Various Artists",
-    "type": "compilation",
-    "artists": [
-      "various-artists"
-    ],
-    "playlist": "PL9FDA29BB5BAD7A49",
-    "date": "2006-06-07"
-  },
-  {
-    "id": "VB133",
-    "name": "Visualove",
-    "byline": "Hboy",
-    "type": "album",
-    "artists": [
-      "hboy"
-    ],
-    "playlist": "PLF51D7D2A0B7438BA",
-    "date": "2006-06-11"
-  },
-  {
-    "id": "VB134-1",
-    "name": "Sight/Difference",
-    "byline": "Frames of Reality",
-    "type": "album",
-    "artists": [
-      "frames-of-reality"
-    ],
-    "playlist": "PLA099B366347F4C01",
-    "date": "2006-08-05"
-  },
-  {
-    "id": "VB134-2",
-    "name": "Different Sights",
-    "byline": "Frames of Reality",
-    "type": "single",
-    "artists": [
-      "frames-of-reality"
-    ],
-    "date": "2006-08-05"
-  },
-  {
-    "id": "VB135",
-    "name": "DDxo1",
-    "byline": "Dynamic Duo",
-    "type": "single",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "date": "2006-09-14"
-  },
-  {
-    "id": "VB136",
-    "name": "DM6R",
-    "byline": "Dynamic Duo",
-    "type": "single",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "date": "2006"
-  },
-  {
-    "id": "VB137",
-    "name": "Sokoban EP",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2006-09-23"
-  },
-  {
-    "id": "VB138",
-    "name": "DDxo2",
-    "byline": "Dynamic Duo",
-    "type": "single",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "date": "2006-10-02"
-  },
-  {
-    "id": "VB139",
-    "name": "Rehmix Vol. 2",
-    "byline": "les Noobiens",
-    "type": "single",
-    "artists": [
-      "les-noobiens"
-    ],
-    "date": "2006"
-  },
-  {
-    "id": "VB140",
-    "name": "Tentaclism (The Y.M.O. Reworks)",
-    "byline": "Dynamic Duo",
-    "type": "single",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "geoblock": [
-      "jp"
-    ],
-    "date": "2006"
-  },
-  {
-    "id": "VB141",
-    "name": "The Grit Escape EP",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2006-10-21"
-  },
-  {
-    "id": "VB142",
-    "name": "313 EP",
-    "byline": "PAN AM",
-    "type": "single",
-    "artists": [
-      "pan-am"
-    ],
-    "date": "2006"
-  },
-  {
-    "id": "VB143",
-    "name": "DDxo3",
-    "byline": "Dynamic Duo",
-    "type": "single",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "date": "2006-10-21"
-  },
-  {
-    "id": "VB144",
-    "name": "DDxo4",
-    "byline": "Dynamic Duo",
-    "type": "single",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "date": "2006-11-06"
-  },
-  {
-    "id": "VB145",
-    "name": "313R EP",
-    "byline": "PAN AM",
-    "type": "single",
-    "artists": [
-      "pan-am"
-    ],
-    "date": "2006"
-  },
-  {
-    "id": "VB146",
-    "name": "New People Selection Vol. 5",
-    "byline": "Various Artists",
-    "type": "compilation",
-    "artists": [
-      "various-artists"
-    ],
-    "playlist": "PL71055D2FCBB93FE1",
-    "date": "2006-12-02"
-  },
-  {
-    "id": "VB147",
-    "name": "Got the Bug EP",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2006-12-23"
-  },
-  {
-    "id": "VB148",
-    "name": "Dynamic Art",
-    "byline": "JaVS",
-    "type": "album",
-    "artists": [
-      "javs"
-    ],
-    "playlist": "PL0C8D41D8ADD8BAC4"
-  },
-  {
-    "id": "VB149",
-    "name": "Destroit MI",
-    "byline": "PAN AM",
-    "type": "album",
-    "artists": [
-      "pan-am"
-    ],
-    "playlist": "PLB70B35975BFC1A86",
-    "date": "2007-01-06"
-  },
-  {
-    "id": "VB150-1",
-    "name": "X4EP",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2007-01-05"
-  },
-  {
-    "id": "VB150-2",
-    "name": "X4",
-    "byline": "Yathosho",
-    "type": "compilation",
-    "artists": [
-      "yathosho"
-    ],
-    "geoblock": [
-      "jp"
-    ],
-    "date": "2007-04-04"
-  },
-  {
-    "id": "VB151",
-    "name": "Tentaclism (The Zamuz Reworks)",
-    "byline": "Dynamic Duo",
-    "type": "single",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "geoblock": [
-      "jp"
-    ],
-    "date": "2007"
-  },
-  {
-    "id": "VB152",
-    "name": "MNSTCKRMXS",
-    "byline": "PAN AM",
-    "type": "single",
-    "artists": [
-      "pan-am"
-    ],
-    "date": "2007"
-  },
-  {
-    "id": "VB153",
-    "name": "Dynamic Art (Ya-tho-sho Treatments)",
-    "byline": "JaVS",
-    "type": "single",
-    "artists": [
-      "javs"
-    ],
-    "date": "2007"
-  },
-  {
-    "id": "VB154",
-    "name": "Tentaclism",
-    "byline": "Dynamic Duo",
-    "type": "compilation",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "playlist": "PLDDD7800D4D598519",
-    "date": "2007-02-11"
-  },
-  {
-    "id": "VB155",
-    "name": "Straight outta Lipton 2",
-    "byline": "les Noobiens",
-    "type": "single",
-    "artists": [
-      "les-noobiens"
-    ],
-    "date": "2007"
-  },
-  {
-    "id": "VB156",
-    "name": "Visions VI",
-    "byline": "Zamuz",
-    "type": "compilation",
-    "artists": [
-      "zamuz"
-    ],
-    "playlist": "PLB4EC00FDD649ABEF",
-    "date": "2007-03-05"
-  },
-  {
-    "id": "VB157",
-    "name": "Golden Ai(é)r",
-    "byline": "Frames of Reality",
-    "type": "album",
-    "artists": [
-      "frames-of-reality"
-    ],
-    "playlist": "PL58AC6273BE597575",
-    "date": "2007-03-16"
-  },
-  {
-    "id": "VB158",
-    "name": "Co-op Session 12",
-    "byline": "Yathosho / Grandchild",
-    "type": "single",
-    "artists": [
-      "yathosho",
-      "grandchild"
-    ],
-    "playlist": "PLEDF0F3AC1CE39BE7",
-    "date": "2007-03-31"
-  },
-  {
-    "id": "VB159",
-    "name": "DDxo5",
-    "byline": "Dynamic Duo",
-    "type": "single",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "date": "2007-03-25"
-  },
-  {
-    "id": "VB160",
-    "name": "Fridgeless",
-    "byline": "Frames of Reality",
-    "type": "single",
-    "artists": [
-      "frames-of-reality"
-    ],
-    "date": "2007"
-  },
-  {
-    "id": "VB161",
-    "name": "Modus Operandi",
-    "byline": "Yathosho",
-    "type": "compilation",
-    "artists": [
-      "yathosho"
-    ],
-    "playlist": "PL2D30604F84B06D97",
-    "date": "2007-04-07"
-  },
-  {
-    "id": "VB162",
-    "name": "Scrapper's Delight",
-    "byline": "les Noobiens",
-    "type": "single",
-    "artists": [
-      "les-noobiens"
-    ],
-    "date": "2007-04-15"
-  },
-  {
-    "id": "VB163",
-    "name": "DM7 Sampler",
-    "byline": "Dynamic Duo",
-    "type": "single",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "date": "2007-07-04"
-  },
-  {
-    "id": "VB164",
-    "name": "re-Optimized",
-    "byline": "JaVS",
-    "type": "album",
-    "artists": [
-      "javs"
-    ],
-    "playlist": "PL186B0706F8CE42C0",
-    "date": "2007"
-  },
-  {
-    "id": "VB165",
-    "name": "Bsides",
-    "byline": "Dynamic Duo",
-    "type": "compilation",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "geoblock": [
-      "jp"
-    ],
-    "date": "2007"
-  },
-  {
-    "id": "VB166",
-    "name": "DDxo6",
-    "byline": "Dynamic Duo",
-    "type": "single",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "date": "2007-07-12"
-  },
-  {
-    "id": "VB167",
-    "name": "Grim3",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2007-07-24"
-  },
-  {
-    "id": "VB168",
-    "name": "Since When 3",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2007-07-22"
-  },
-  {
-    "id": "VB169",
-    "name": "Phase One",
-    "byline": "SKuPeRS & Yathosho",
-    "type": "single",
-    "artists": [
-      "skupers",
-      "yathosho"
-    ],
-    "date": "2007-07-28"
-  },
-  {
-    "id": "VB170",
-    "name": "Refocused (The Y.M.O. Reworks)",
-    "byline": "AVS-King",
-    "type": "single",
-    "artists": [
-      "avs-king"
-    ],
-    "geoblock": [
-      "jp"
-    ],
-    "date": "2007"
-  },
-  {
-    "id": "VB171",
-    "name": "In Treatment 2.5",
-    "byline": "Yathosho",
-    "type": "compilation",
-    "artists": [
-      "yathosho"
-    ],
-    "playlist": "PLC48C2B160D61246A",
-    "date": "2007-08-18"
-  },
-  {
-    "id": "VB172",
-    "name": "Phase Two",
-    "byline": "Yathosho & SKuPeRS",
-    "type": "single",
-    "artists": [
-      "yathosho",
-      "skupers"
-    ],
-    "date": "2007-08-18"
-  },
-  {
-    "id": "VB173",
-    "name": "The 12 inches of Co-op",
-    "byline": "Various Artists",
-    "type": "compilation",
-    "artists": [
-      "various-artists"
-    ],
-    "geoblock": [
-      "jp"
-    ],
-    "date": "2007"
-  },
-  {
-    "id": "VB174",
-    "name": "Grime 4",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2007-08-31"
-  },
-  {
-    "id": "VB175",
-    "name": "Dynamix",
-    "byline": "Dynamic Duo",
-    "type": "album",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "geoblock": [
-      "jp"
-    ],
-    "date": "2007"
-  },
-  {
-    "id": "VB176",
-    "name": "Incipience (Dynamic Duo Reworks)",
-    "byline": "Amphirion",
-    "type": "single",
-    "artists": [
-      "amphirion"
-    ],
-    "date": "2007-09-10"
-  },
-  {
-    "id": "VB177",
-    "name": "Co-op Session 13",
-    "byline": "Dynamic Duo / Onionring",
-    "type": "single",
-    "artists": [
-      "dynamic-duo",
-      "onionring"
-    ],
-    "playlist": "PL28C90C4308544A42",
-    "date": "2007-09-30"
-  },
-  {
-    "id": "VB178",
-    "name": "He Said, She Said",
-    "byline": "Onionring",
-    "type": "album",
-    "artists": [
-      "onionring"
-    ],
-    "playlist": "PL911B20CC2B3C01B8",
-    "date": "2007-10-05"
-  },
-  {
-    "id": "VB179",
-    "name": "MOIIEP",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2007-12-16"
-  },
-  {
-    "id": "VB180-1",
-    "name": "X5EP",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2007-12-25"
-  },
-  {
-    "id": "VB180-2",
-    "name": "X5",
-    "byline": "Yathosho",
-    "type": "compilation",
-    "artists": [
-      "yathosho"
-    ],
-    "geoblock": [
-      "jp"
-    ],
-    "date": "2008-01-06"
-  },
-  {
-    "id": "VB181",
-    "name": "Modus Operandi 2",
-    "byline": "Yathosho",
-    "type": "compilation",
-    "artists": [
-      "yathosho"
-    ],
-    "playlist": "PL54774A5317C1BE6C",
-    "date": "2007-12-25"
-  },
-  {
-    "id": "VB182-1",
-    "name": "Edits pt. 1",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2008-01-20"
-  },
-  {
-    "id": "VB182-2",
-    "name": "Edits pt. 2",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2008-01-24"
-  },
-  {
-    "id": "VB183",
-    "name": "Einzelstücke",
-    "byline": "Yathosho",
-    "type": "compilation",
-    "artists": [
-      "yathosho"
-    ],
-    "playlist": "PL59D57D519813D45A",
-    "date": "2008-02-20"
-  },
-  {
-    "id": "VB184",
-    "name": "Sing. Less retro. Spectate",
-    "byline": "Vanish",
-    "type": "album",
-    "artists": [
-      "vanish"
-    ],
-    "playlist": "PL0E30C5ED57BB7A2F",
-    "date": "2008-03-23"
-  },
-  {
-    "id": "VB185",
-    "name": "Anotherversion Deux",
-    "byline": "Anotherversion",
-    "type": "compilation",
-    "artists": [
-      "anotherversion"
-    ],
-    "playlist": "PLC7A63DADE46E149C",
-    "date": "2008"
-  },
-  {
-    "id": "VB186",
-    "name": "Since When 4",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2008-11-20"
-  },
-  {
-    "id": "VB187",
-    "name": "RMX EP",
-    "byline": "PAN AM",
-    "type": "single",
-    "artists": [
-      "pan-am"
-    ],
-    "date": "2008"
-  },
-  {
-    "id": "VB188",
-    "name": "X6",
-    "byline": "Yathosho",
-    "type": "compilation",
-    "artists": [
-      "yathosho"
-    ],
-    "geoblock": [
-      "jp"
-    ],
-    "date": "2009-01-01"
-  },
-  {
-    "id": "VB189",
-    "name": "DDxo7",
-    "byline": "Dynamic Duo",
-    "type": "single",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "date": "2009-03-14"
-  },
-  {
-    "id": "VB190",
-    "name": "Nubtroopiii",
-    "byline": "PAN AM & les Noobiens",
-    "type": "compilation",
-    "artists": [
-      "pan-am",
-      "les-noobiens"
-    ],
-    "playlist": "PL31249E6CB6E8500A",
-    "date": "2009"
-  },
-  {
-    "id": "VB191",
-    "name": "Pillow Fight (The Remixes)",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2009-03-06"
-  },
-  {
-    "id": "VB192",
-    "name": "Tentacliism",
-    "byline": "Dynamic Duo",
-    "type": "compilation",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "playlist": "PLB13504DD2BB27AF9",
-    "date": "2009-03-08"
-  },
-  {
-    "id": "VB193",
-    "name": "Co-op Session 14",
-    "byline": "Synth-C / Zamuz",
-    "type": "single",
-    "artists": [
-      "synth-c",
-      "zamuz"
-    ],
-    "playlist": "PLE11D948656921482",
-    "date": "2009-03-08"
-  },
-  {
-    "id": "VB194",
-    "name": "New People Selection Vol. 6",
-    "byline": "Various Artists",
-    "type": "compilation",
-    "artists": [
-      "various-artists"
-    ],
-    "playlist": "PL4CFE0FA2ACF94256",
-    "date": "2009-03-27"
-  },
-  {
-    "id": "VB195",
-    "name": "Rejects EP",
-    "byline": "Dynamic Duo",
-    "type": "single",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "geoblock": [
-      "jp"
-    ],
-    "date": "2009"
-  },
-  {
-    "id": "VB196",
-    "name": "Screw Drew",
-    "byline": "Drew",
-    "type": "compilation",
-    "artists": [
-      "drew"
-    ],
-    "playlist": "PL4A141453A4F5199C",
-    "date": "2009"
-  },
-  {
-    "id": "VB197",
-    "name": "The Vienna Mixes",
-    "byline": "Yathosho & Grandchild",
-    "type": "single",
-    "artists": [
-      "yathosho",
-      "grandchild"
-    ],
-    "date": "2009-04-03"
-  },
-  {
-    "id": "VB198",
-    "name": "Dx 1x3",
-    "byline": "Dynamic Duo",
-    "type": "single",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "date": "2009-04-12"
-  },
-  {
-    "id": "VB199",
-    "name": "Tools Vol. 1",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2009"
-  },
-  {
-    "id": "VB200",
-    "name": "VISBOT 200",
-    "byline": "Various Artists",
-    "type": "compilation",
-    "artists": [
-      "visbot"
-    ],
-    "date": "2009-04-21"
-  },
-  {
-    "id": "VB201-1",
-    "name": "6ix EP",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2009-04-09"
-  },
-  {
-    "id": "VB201-2",
-    "name": "Brokenframe 6ix",
-    "byline": "Yathosho",
-    "type": "album",
-    "artists": [
-      "yathosho"
-    ],
-    "playlist": "PLB9801786A425E718",
-    "date": "2009-04-29"
-  },
-  {
-    "id": "VB202",
-    "name": "Dynamix",
-    "byline": "Dynamic Duo",
-    "type": "album",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "playlist": "PLB9D93876A3F1EC7C",
-    "date": "2009-05-09"
-  },
-  {
-    "id": "VB203",
-    "name": "Nublak I-IV",
-    "byline": "les Noobiens",
-    "type": "compilation",
-    "artists": [
-      "les-noobiens"
-    ],
-    "date": "2009"
-  },
-  {
-    "id": "VB204",
-    "name": "Fakes",
-    "byline": "Yathosho",
-    "type": "album",
-    "artists": [
-      "yathosho"
-    ],
-    "playlist": "PL4EE9E10E918B95D7",
-    "date": "2009-09-25"
-  },
-  {
-    "id": "VB205",
-    "name": "Dx 2x3",
-    "byline": "Dynamic Duo",
-    "type": "single",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "date": "2009-07-09"
-  },
-  {
-    "id": "VB206",
-    "name": "Residual Heat EP",
-    "byline": "Yathosho / Dynamic Duo",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2009"
-  },
-  {
-    "id": "VB207-1",
-    "name": "Manic",
-    "byline": "Drew",
-    "type": "single",
-    "artists": [
-      "drew"
-    ],
-    "date": "2009-09-10"
-  },
-  {
-    "id": "VB207-2",
-    "name": "Manic (Why Edits?)",
-    "byline": "Drew",
-    "type": "single",
-    "artists": [
-      "drew"
-    ],
-    "date": "2009"
-  },
-  {
-    "id": "VB208",
-    "name": "Untitled EP",
-    "byline": "PAN AM / Yathosho",
-    "type": "single",
-    "artists": [
-      "pan-am",
-      "yathosho"
-    ],
-    "date": "2009"
-  },
-  {
-    "id": "VB209",
-    "name": "Dx 3x3",
-    "byline": "Dynamic Duo",
-    "type": "single",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "date": "2009-09-09"
-  },
-  {
-    "id": "VB210",
-    "name": "Fantasy Island",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2009-11-09"
-  },
-  {
-    "id": "VB211",
-    "name": "Skreamizm EP",
-    "byline": "Dynamic Duo",
-    "type": "single",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "date": "2009"
-  },
-  {
-    "id": "VB212-1",
-    "name": "R2EP",
-    "byline": "Dynamic Duo",
-    "type": "single",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "date": "2009-10-09"
-  },
-  {
-    "id": "VB212-2",
-    "name": "R2",
-    "byline": "Dynamic Duo",
-    "type": "compilation",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "playlist": "PL96E9E5718D4979E3",
-    "date": "2009-12-09"
-  },
-  {
-    "id": "VB213",
-    "name": "Modus Operandi 3",
-    "byline": "Yathosho",
-    "type": "compilation",
-    "artists": [
-      "yathosho"
-    ],
-    "playlist": "PLAF1275CF0D742DAE",
-    "date": "2009-12-27"
-  },
-  {
-    "id": "VB214",
-    "name": "R2 (B-Sides)",
-    "byline": "Dynamic Duo",
-    "type": "single",
-    "artists": [
-      "dynamic-duo"
-    ]
-  },
-  {
-    "id": "VB215-1",
-    "name": "X7EP",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2010-01-01"
-  },
-  {
-    "id": "VB215-2",
-    "name": "X7",
-    "byline": "Yathosho",
-    "type": "compilation",
-    "artists": [
-      "yathosho"
-    ],
-    "geoblock": [
-      "jp"
-    ],
-    "date": "2010-01-01"
-  },
-  {
-    "id": "VB216",
-    "name": "Remixed",
-    "byline": "Yathosho",
-    "type": "album",
-    "artists": [
-      "yathosho"
-    ],
-    "playlist": "PLEC695D92EE5BEF2A",
-    "date": "2010-02-02"
-  },
-  {
-    "id": "VB217",
-    "name": "Co-op Session 15",
-    "byline": "Amphirion / Micro.D",
-    "type": "single",
-    "artists": [
-      "amphirion",
-      "micro-d"
-    ],
-    "playlist": "PLBBE4BAECBC9D618B",
-    "date": "2010-03-14"
-  },
-  {
-    "id": "VB218",
-    "name": "The Eight Ronin",
-    "byline": "Various Artists",
-    "type": "single",
-    "artists": [
-      "various-artists"
-    ],
-    "playlist": "PL25A67F365B3397C5",
-    "date": "2010"
-  },
-  {
-    "id": "VB219-1",
-    "name": "The Reconsidered",
-    "byline": "Frames of Reality",
-    "type": "single",
-    "artists": [
-      "frames-of-reality"
-    ],
-    "date": "2010-04-18"
-  },
-  {
-    "id": "VB219-2",
-    "name": "Recapture",
-    "byline": "Frames of Reality",
-    "type": "album",
-    "artists": [
-      "frames-of-reality"
-    ],
-    "playlist": "PL148863C80AE8AAD8",
-    "date": "2010-05-23"
-  },
-  {
-    "id": "VB220",
-    "name": "U.G.L.Y.",
-    "byline": "Yathosho",
-    "type": "compilation",
-    "artists": [
-      "yathosho"
-    ],
-    "playlist": "PL7073FBE9AE1828AB",
-    "date": "2010"
-  },
-  {
-    "id": "VB221",
-    "name": "Untilted EP",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2010"
-  },
-  {
-    "id": "VB222-1",
-    "name": "Final Cut (Edits)",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2010"
-  },
-  {
-    "id": "VB222-2",
-    "name": "Final Cut",
-    "byline": "Yathosho",
-    "type": "album",
-    "artists": [
-      "yathosho"
-    ],
-    "playlist": "PLEA56855A233740D7",
-    "date": "2010-04-19"
-  },
-  {
-    "id": "VB223",
-    "name": "Tentacliiism",
-    "byline": "Dynamic Duo",
-    "type": "compilation",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "geoblock": [
-      "jp"
-    ],
-    "date": "2010"
-  },
-  {
-    "id": "VB224",
-    "name": "Nite Versions EP",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2010-05-19"
-  },
-  {
-    "id": "VB225",
-    "name": "Argon",
-    "byline": "Micro.D",
-    "type": "album",
-    "artists": [
-      "micro-d"
-    ],
-    "playlist": "PL4CDE00B660BA8182",
-    "date": "2010"
-  },
-  {
-    "id": "VB226",
-    "name": "Unnatural Objects",
-    "byline": "Frames of Reality",
-    "type": "album",
-    "artists": [
-      "frames-of-reality"
-    ],
-    "date": "2010-10-31"
-  },
-  {
-    "id": "VB227",
-    "name": "Tentacliiism EP",
-    "byline": "Dynamic Duo",
-    "type": "single",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "date": "2010"
-  },
-  {
-    "id": "VB228",
-    "name": "vs Amphirion - Pulse Remixes",
-    "byline": "Frames of Reality",
-    "type": "single",
-    "artists": [
-      "frames-of-reality",
-      "amphirion"
-    ],
-    "date": "2010-11-07"
-  },
-  {
-    "id": "VB229",
-    "name": "Pillow Fight EP",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2010-12-29"
-  },
-  {
-    "id": "VB230",
-    "name": "Tentaclivsm (The Mash-ups)",
-    "byline": "Dynamic Duo",
-    "type": "single",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "date": "2010"
-  },
-  {
-    "id": "VB231",
-    "name": "Hojojutsu EP",
-    "byline": "Dynamic Duo",
-    "type": "single",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "date": "2010"
-  },
-  {
-    "id": "VB232",
-    "name": "Final Cut Versions",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2010"
-  },
-  {
-    "id": "VB233",
-    "name": "Saller",
-    "byline": "Frames of Reality",
-    "type": "single",
-    "artists": [
-      "frames-of-reality"
-    ],
-    "date": "2011-02-13"
-  },
-  {
-    "id": "VB234",
-    "name": "Effekthasch",
-    "byline": "Effekthasch",
-    "type": "album",
-    "artists": [
-      "effekthasch"
-    ],
-    "playlist": "PL5962EA87E2F36A5E",
-    "date": "2011-04-10"
-  },
-  {
-    "id": "VB235",
-    "name": "Hentes",
-    "byline": "Frames of Reality",
-    "type": "single",
-    "artists": [
-      "frames-of-reality"
-    ],
-    "date": "2011-05-08"
-  },
-  {
-    "id": "VB236",
-    "name": "Hegy",
-    "byline": "Frames of Reality",
-    "type": "single",
-    "artists": [
-      "frames-of-reality"
-    ],
-    "date": "2011-05-26"
-  },
-  {
-    "id": "VB237",
-    "name": "Warping Droplets in a Cube EP",
-    "byline": "Micro.D",
-    "type": "single",
-    "artists": [
-      "micro-d"
-    ],
-    "date": "2011"
-  },
-  {
-    "id": "VB238",
-    "name": "Négy",
-    "byline": "Frames of Reality",
-    "type": "single",
-    "artists": [
-      "frames-of-reality"
-    ],
-    "date": "2011-07-02"
-  },
-  {
-    "id": "VB239",
-    "name": "Form & Function EP",
-    "byline": "Dynamic Duo",
-    "type": "single",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "date": "2011"
-  },
-  {
-    "id": "VB240",
-    "name": "DMe Sampler",
-    "byline": "Dynamic Duo",
-    "type": "single",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "date": "2011-12-07"
-  },
-  {
-    "id": "VB241",
-    "name": "Experiments in C Minor",
-    "byline": "Frames of Reality",
-    "type": "album",
-    "artists": [
-      "frames-of-reality"
-    ],
-    "date": "2011"
-  },
-  {
-    "id": "VB242",
-    "name": "Gesamtwerk",
-    "byline": "Yathosho",
-    "type": "compilation",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2012-04-19"
-  },
-  {
-    "id": "VB243",
-    "name": "Neon",
-    "byline": "Micro.D",
-    "type": "album",
-    "artists": [
-      "micro-d"
-    ],
-    "playlist": "PLD39033719BC1AF8D",
-    "date": "2012"
-  },
-  {
-    "id": "VB244",
-    "name": "DDinJP",
-    "byline": "Dynamic Duo",
-    "type": "single",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "date": "2012"
-  },
-  {
-    "id": "VB245",
-    "name": "U.G.L.Y. Edits Zero",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2023-02-22"
-  },
-  {
-    "id": "VB246",
-    "name": "Moreizms EP",
-    "byline": "Dynamic Duo",
-    "type": "single",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "is_new": true,
-    "date": "2023-03-05"
-  },
-  {
-    "id": "VB247",
-    "name": "AM/PM EP",
-    "byline": "PAN AM",
-    "type": "single",
-    "artists": [
-      "pan-am"
-    ],
-    "is_new": true,
-    "date": "2023-10-02"
-  },
-  {
-    "id": "VB248",
-    "name": "ALIAS-01",
-    "byline": "ALIAS",
-    "type": "single",
-    "artists": [
-      "alias"
-    ],
-    "is_new": true,
-    "date": "2023-10-12"
-  },
-  {
-    "id": "VB249",
-    "name": "ALIAS-02",
-    "byline": "ALIAS",
-    "type": "single",
-    "artists": [
-      "alias"
-    ],
-    "is_new": true,
-    "date": "2023-12-24"
-  },
-  {
-    "id": "VB250",
-    "name": "VISBOT 250",
-    "byline": "Various Artists",
-    "type": "single",
-    "artists": [
-      "visbot"
-    ],
-    "tba": true
-  },
-  {
-    "id": "VC001",
-    "name": "The First Season",
-    "byline": "Various Artists",
-    "type": "compilation",
-    "artists": [
-      "visbot"
-    ],
-    "playlist": "PLC8FC4703CEBD30EC",
-    "date": "2003-03-21"
-  },
-  {
-    "id": "VC002",
-    "name": "Watch out for this logo",
-    "byline": "Various Artists",
-    "type": "compilation",
-    "artists": [
-      "visbot"
-    ],
-    "playlist": "PLF938CBA490D3A1CC",
-    "date": "2003-06-21"
-  },
-  {
-    "id": "VC003",
-    "name": "Four",
-    "byline": "Various Artists",
-    "type": "compilation",
-    "artists": [
-      "visbot"
-    ],
-    "playlist": "PLB0DFD9CD2C749DCD",
-    "date": "2003-12-21"
-  },
-  {
-    "id": "VC004",
-    "name": "VISBOT meets Finnish Flash",
-    "byline": "Various Artists",
-    "type": "compilation",
-    "artists": [
-      "visbot"
-    ],
-    "playlist": "PL882236B815654798",
-    "date": "2004-03-21"
-  },
-  {
-    "id": "VC005",
-    "name": "The Second Season",
-    "byline": "Various Artists",
-    "type": "compilation",
-    "artists": [
-      "visbot"
-    ],
-    "playlist": "PL3E32B46E39B34287",
-    "date": "2004-06-21"
-  },
-  {
-    "id": "VC006",
-    "name": "Swindle all the way",
-    "byline": "Various Artists",
-    "type": "compilation",
-    "artists": [
-      "visbot"
-    ],
-    "playlist": "PL5BA33A9FB25376CF",
-    "date": "2004-12-21"
-  },
-  {
-    "id": "VC007",
-    "name": "Meat to please you",
-    "byline": "Various Artists",
-    "type": "compilation",
-    "artists": [
-      "visbot"
-    ],
-    "playlist": "PLEB6468F8EC199207",
-    "date": "2005-03-21"
-  },
-  {
-    "id": "VC008",
-    "name": "Better eight than never",
-    "byline": "Various Artists",
-    "type": "compilation",
-    "artists": [
-      "visbot"
-    ],
-    "playlist": "PL2600E60B59C6765C",
-    "date": "2005-06-23"
-  },
-  {
-    "id": "VC009",
-    "name": "The Third Season",
-    "byline": "Various Artists",
-    "type": "compilation",
-    "artists": [
-      "visbot"
-    ],
-    "playlist": "PLACAF686A0AC0C30E",
-    "date": "2005-09-21"
-  },
-  {
-    "id": "VC010",
-    "name": "VISBOT X",
-    "byline": "Various Artists",
-    "type": "compilation",
-    "artists": [
-      "visbot"
-    ],
-    "playlist": "PLE783D5F6548538CE",
-    "date": "2005-12-21"
-  },
-  {
-    "id": "VC011",
-    "name": "Meeting old friends in a phone booth",
-    "byline": "Various Artists",
-    "type": "compilation",
-    "artists": [
-      "visbot"
-    ],
-    "playlist": "PL92AC381C67AA7CA6",
-    "date": "2006-10-03"
-  },
-  {
-    "id": "VC012",
-    "name": "The Fourth Season",
-    "byline": "Various Artists",
-    "type": "compilation",
-    "artists": [
-      "visbot"
-    ],
-    "playlist": "PL642065ACB7E2110E",
-    "date": "2006-12-21"
-  },
-  {
-    "id": "VC013",
-    "name": "Twopointoh",
-    "byline": "Various Artists",
-    "type": "compilation",
-    "artists": [
-      "visbot"
-    ],
-    "playlist": "PL4C3F4E285C0A5F18",
-    "date": "2007-06-21"
-  },
-  {
-    "id": "VC014",
-    "name": "Smells, bells and presets",
-    "byline": "Various Artists",
-    "type": "compilation",
-    "artists": [
-      "visbot"
-    ],
-    "playlist": "PL3BA8D5F35A73A50B",
-    "date": "2007-12-21"
-  },
-  {
-    "id": "VC015",
-    "name": "Fifteen",
-    "byline": "Various Artists",
-    "type": "compilation",
-    "artists": [
-      "visbot"
-    ],
-    "playlist": "PL184798A15F12BBD8",
-    "date": "2007-06-24"
-  },
-  {
-    "id": "VC016",
-    "name": "Exit Claus",
-    "byline": "Various Artists",
-    "type": "compilation",
-    "artists": [
-      "visbot"
-    ],
-    "playlist": "PL4826E8A539DDF07D",
-    "date": "2007-12-21"
-  },
-  {
-    "id": "VC017",
-    "name": "The least random number",
-    "byline": "Various Artists",
-    "type": "compilation",
-    "artists": [
-      "visbot"
-    ],
-    "playlist": "PLAB2FB8426CC49B05",
-    "date": "2008-09-21"
-  },
-  {
-    "id": "VC018",
-    "name": "Coming off H",
-    "byline": "Various Artists",
-    "type": "compilation",
-    "artists": [
-      "visbot"
-    ],
-    "playlist": "PL6F6FDC9175C11145",
-    "date": "2010-03-21"
-  },
-  {
-    "id": "VC019",
-    "name": "1999 A.D.",
-    "byline": "Various Artists",
-    "type": "compilation",
-    "artists": [
-      "visbot"
-    ],
-    "playlist": "PL67836DCA9E5FAAB2",
-    "date": "2010-12-10"
-  },
-  {
-    "id": "VC020",
-    "name": "20/10 Vision",
-    "byline": "Various Artists",
-    "type": "compilation",
-    "artists": [
-      "visbot"
-    ],
-    "playlist": "PL5060450D9F89D561",
-    "date": "2010-12-21"
-  },
-  {
-    "id": "VD001",
-    "name": "Dynamic Movement",
-    "byline": "Dynamic Duo",
-    "type": "compilation",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "playlist": "PL625D823907F98E2F",
-    "date": "2003-02-20"
-  },
-  {
-    "id": "VD002",
-    "name": "Dynamic Movement 2",
-    "byline": "Dynamic Duo",
-    "type": "compilation",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "playlist": "PL43458CBDD93D6888",
-    "date": "2003-07-07"
-  },
-  {
-    "id": "VD003",
-    "name": "Dynamic Movement 3",
-    "byline": "Dynamic Duo",
-    "type": "compilation",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "playlist": "PLEC5835FCDD2FC615",
-    "date": "2003-12-27"
-  },
-  {
-    "id": "VD004",
-    "name": "Dynamic Movement 4",
-    "byline": "Dynamic Duo",
-    "type": "compilation",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "playlist": "PLFA78843268BDF94A",
-    "date": "2004-04-11"
-  },
-  {
-    "id": "VD005",
-    "name": "Dynamic Movement 5",
-    "byline": "Dynamic Duo",
-    "type": "compilation",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "playlist": "PL35016698194E1981",
-    "date": "2005-11-27"
-  },
-  {
-    "id": "VD006",
-    "name": "Dynamic Movement 6",
-    "byline": "Dynamic Duo",
-    "type": "compilation",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "playlist": "PL89E6822BDFB95176",
-    "date": "2006-09-16"
-  },
-  {
-    "id": "VD007",
-    "name": "Dynamic Movement 7",
-    "byline": "Dynamic Duo",
-    "type": "compilation",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "playlist": "PL187F3B71835806BC",
-    "date": "2007-12-27"
-  },
-  {
-    "id": "VD008",
-    "name": "Dynamic Movement Epilogue",
-    "byline": "Dynamic Duo",
-    "type": "compilation",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "playlist": "PLCC40DC034133B14E",
-    "date": "2012-07-21"
-  },
-  {
-    "id": "VE001",
-    "name": "Black Noobiens",
-    "byline": "les Noobiens",
-    "type": "compilation",
-    "artists": [
-      "les-noobiens"
-    ]
-  },
-  {
-    "id": "VE002",
-    "name": "Minidisko",
-    "byline": "Yathosho",
-    "type": "compilation",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2004-09-25"
-  },
-  {
-    "id": "VE003",
-    "name": "Get customized",
-    "byline": "Yathosho",
-    "type": "compilation",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2004-11-28"
-  },
-  {
-    "id": "VE004",
-    "name": "Black Noobiens 2",
-    "byline": "les Noobiens",
-    "type": "compilation",
-    "artists": [
-      "les-noobiens"
-    ]
-  },
-  {
-    "id": "VE005-1",
-    "name": "gc2EP",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2005-09-06"
-  },
-  {
-    "id": "VE005-2",
-    "name": "Get customized 2",
-    "byline": "Yathosho",
-    "type": "compilation",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2005-10-21"
-  },
-  {
-    "id": "VE006",
-    "name": "Black Noobiens 3",
-    "byline": "les Noobiens",
-    "type": "compilation",
-    "artists": [
-      "les-noobiens"
-    ],
-    "date": "2006-02-09"
-  },
-  {
-    "id": "VE007",
-    "name": "Refocused",
-    "byline": "AVS-King",
-    "type": "compilation",
-    "artists": [
-      "avs-king"
-    ]
-  },
-  {
-    "id": "VE008-1",
-    "name": "gc3EP",
-    "byline": "Yathosho",
-    "type": "single",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2006-10-15"
-  },
-  {
-    "id": "VE008-2",
-    "name": "Get customized 3",
-    "byline": "Yathosho",
-    "type": "compilation",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2006-12-24"
-  },
-  {
-    "id": "VE009",
-    "name": "Get customized 4",
-    "byline": "Yathosho",
-    "type": "compilation",
-    "artists": [
-      "yathosho"
-    ]
-  },
-  {
-    "id": "VE010",
-    "name": "Les antipodes",
-    "byline": "Yathosho",
-    "type": "compilation",
-    "artists": [
-      "yathosho"
-    ],
-    "date": "2010-08-31"
-  },
-  {
-    "id": "VE011-1",
-    "name": "EPs 2003-2005",
-    "byline": "Dynamic Duo",
-    "type": "compilation",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "date": "2011-02-18"
-  },
-  {
-    "id": "VE011-2",
-    "name": "EPs 2006-2009",
-    "byline": "Dynamic Duo",
-    "type": "compilation",
-    "artists": [
-      "dynamic-duo"
-    ],
-    "date": "2011-04-04"
-  }
+	{
+		"id": "VA001",
+		"name": "End of, Best of, No more",
+		"byline": "Tonic",
+		"type": "compilation",
+		"artists": ["tonic"],
+		"date": "2004-02-06"
+	},
+	{
+		"id": "VA002",
+		"name": "Halfwayaroundthesun (Littlebuddy Mixes)",
+		"byline": "Little Buddy",
+		"type": "compilation",
+		"artists": ["yathosho", "littlebuddy"]
+	},
+	{
+		"id": "VA003-1",
+		"name": "I wanna be Frank Nagel",
+		"byline": "Various Artists",
+		"type": "compilation",
+		"artists": ["various-artists"],
+		"date": "2002-10-16"
+	},
+	{
+		"id": "VA003-2",
+		"name": "I wanna be Frank Nagel, too",
+		"byline": "Various Artists",
+		"type": "compilation",
+		"artists": ["various-artists"],
+		"date": "2004-02-06"
+	},
+	{
+		"id": "VA004",
+		"name": "Retrospective",
+		"byline": "Yathosho",
+		"type": "compilation",
+		"artists": ["yathosho"],
+		"playlist": "PL14A1F9B5746E82F7",
+		"date": "2004-11-12"
+	},
+	{
+		"id": "VA005",
+		"name": "Envisions Beyond",
+		"byline": "Duo",
+		"type": "compilation",
+		"artists": ["duo"],
+		"playlist": "PLB6FC1F6D7F8EF817",
+		"date": "2007-08-15"
+	},
+	{
+		"id": "VA006",
+		"name": "Les Premières Années (1976-2006)",
+		"byline": "les Noobiens",
+		"type": "compilation",
+		"artists": ["les-noobiens"],
+		"playlist": "PLFF4C2661D73330B3",
+		"date": "2007-11-06"
+	},
+	{
+		"id": "VA007",
+		"name": "Singles",
+		"byline": "Dynamic Duo",
+		"type": "compilation",
+		"artists": ["dynamic-duo"],
+		"playlist": "PL2FE4F37E43CC0233",
+		"date": "2007-11-07"
+	},
+	{
+		"id": "VA008",
+		"name": "Seramony",
+		"byline": "NemoOrange",
+		"type": "compilation",
+		"artists": ["nemo-orange"],
+		"playlist": "PLE94B3AE5C75A0132",
+		"date": "2011-11-11"
+	},
+	{
+		"id": "VA009",
+		"name": "LP1-LP6",
+		"byline": "SKuPeRS",
+		"type": "compilation",
+		"artists": ["skupers"],
+		"date": "2011-11-11"
+	},
+	{
+		"id": "VA010",
+		"name": "Halfwayaroundthesun",
+		"byline": "Yathosho",
+		"type": "album",
+		"artists": ["yathosho"]
+	},
+	{
+		"id": "VA011",
+		"name": "Inversions & Loungelizard",
+		"byline": "Alt III",
+		"type": "compilation",
+		"artists": ["alt-iii"],
+		"date": "2011-11-11"
+	},
+	{
+		"id": "VA012",
+		"name": "The Full Circle",
+		"byline": "Yathosho",
+		"type": "album",
+		"artists": ["yathosho"],
+		"date": "2011-11-11"
+	},
+	{
+		"id": "VA013",
+		"name": "The New Society",
+		"byline": "AVSociety",
+		"type": "compilation",
+		"artists": ["various-artists"]
+	},
+	{
+		"id": "VA014-1",
+		"name": "Innervision",
+		"byline": "Zamuz",
+		"type": "compilation",
+		"artists": ["zamuz"],
+		"is_new": true,
+		"date": "2022-12-28"
+	},
+	{
+		"id": "VA014-2",
+		"name": "visions.ii.sx",
+		"byline": "skupers+zamuz",
+		"type": "compilation",
+		"artists": ["zamuz", "skupers"],
+		"is_new": true,
+		"date": "2022-12-28"
+	},
+	{
+		"id": "VA015",
+		"name": "collected works 2002-2009",
+		"byline": "Amphirion",
+		"type": "compilation",
+		"artists": ["amphirion"],
+		"is_new": true,
+		"date": "2023-01-17"
+	},
+	{
+		"id": "VA016",
+		"name": "digital stereotype experience",
+		"byline": "Vanish",
+		"type": "album",
+		"artists": ["vanish"],
+		"is_new": true,
+		"date": "2023-03-01"
+	},
+	{
+		"id": "VA017",
+		"name": "Helium",
+		"byline": "Micro.D",
+		"type": "compilation",
+		"artists": ["micro-d"],
+		"is_new": true,
+		"date": "2023-04-27"
+	},
+	{
+		"id": "VA018",
+		"name": "Finnish Flash Forever",
+		"byline": "Finnish Flash",
+		"type": "compilation",
+		"artists": ["finnish-flash"],
+		"is_new": true,
+		"date": "2023-05-26"
+	},
+	{
+		"id": "VA019",
+		"name": "Anthology",
+		"byline": "Hboy",
+		"type": "compilation",
+		"artists": ["hboy"],
+		"is_new": true,
+		"date": "2023-06-04"
+	},
+	{
+		"id": "VA020",
+		"name": "VISBOT XX",
+		"byline": "Various Artists",
+		"type": "compilation",
+		"artists": ["visbot"],
+		"is_new": true,
+		"date": "2023-07-02"
+	},
+	{
+		"id": "VA021",
+		"name": "Kryptonite!",
+		"byline": "Pure Krypton",
+		"type": "compilation",
+		"artists": ["pure-krypton"],
+		"is_new": true,
+		"date": "2023-08-02"
+	},
+	{
+		"id": "VA022",
+		"name": "Selected Works",
+		"byline": "SKuPeRS",
+		"type": "compilation",
+		"artists": ["skupers"],
+		"is_new": true,
+		"date": "2023-09-03"
+	},
+	{
+		"id": "VA023",
+		"name": "The Alchemist",
+		"byline": "AVS-King",
+		"type": "compilation",
+		"artists": ["avs-king"],
+		"is_new": true,
+		"date": "2023-11-23"
+	},
+	{
+		"id": "VA024",
+		"name": "Showpiece",
+		"byline": "NemoOrange",
+		"type": "compilation",
+		"artists": ["nemo-orange"],
+		"is_new": true,
+		"date": "2024-01-24"
+	},
+	{
+		"id": "VB001-1",
+		"name": "Brokenframe Teasa",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2003-04-09"
+	},
+	{
+		"id": "VB001-2",
+		"name": "Brokenframe",
+		"byline": "Yathosho",
+		"type": "album",
+		"artists": ["yathosho"],
+		"date": "2003-04-29"
+	},
+	{
+		"id": "VB002",
+		"name": "The Y Element",
+		"byline": "SKuPeRS",
+		"type": "album",
+		"artists": ["skupers"],
+		"playlist": "PLF3F77EC5A5D6B56C",
+		"date": "2003-05-04"
+	},
+	{
+		"id": "VB003-1",
+		"name": "RRX 7\"",
+		"byline": "SKuPeRS",
+		"type": "single",
+		"artists": ["skupers"],
+		"playlist": "PL6E085DD000144728",
+		"date": "2003-05-04"
+	},
+	{
+		"id": "VB003-2",
+		"name": "LP7",
+		"byline": "SKuPeRS",
+		"type": "album",
+		"artists": ["skupers"],
+		"playlist": "PL9889DEC6A2342E06",
+		"date": "2003-05-18"
+	},
+	{
+		"id": "VB004",
+		"name": "Since Then 4",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2003-05-10"
+	},
+	{
+		"id": "VB005-1",
+		"name": "Broken Rewinda pt. 1",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2003-05-11"
+	},
+	{
+		"id": "VB005-2",
+		"name": "Broken Rewinda pt. 2",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2003-05-11"
+	},
+	{
+		"id": "VB006",
+		"name": "Since Then 5",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2003-05-12"
+	},
+	{
+		"id": "VB007-1",
+		"name": "LP7Ra",
+		"byline": "SKuPeRS",
+		"type": "single",
+		"artists": ["skupers"],
+		"date": "2003-06-12"
+	},
+	{
+		"id": "VB007-2",
+		"name": "LP7Rb",
+		"byline": "SKuPeRS",
+		"type": "single",
+		"artists": ["skupers"],
+		"date": "2003-06-17"
+	},
+	{
+		"id": "VB008",
+		"name": "SIGHTS",
+		"byline": "NemoOrange",
+		"type": "album",
+		"artists": ["nemo-orange"],
+		"playlist": "PL793DBE8F92AD909E",
+		"date": "2003-04-28"
+	},
+	{
+		"id": "VB009",
+		"name": "Detroit V-VIII",
+		"byline": "PAN AM",
+		"type": "single",
+		"artists": ["pan-am"]
+	},
+	{
+		"id": "VB010",
+		"name": "Broker's Insider Vol. 1",
+		"byline": "Yathosho",
+		"type": "compilation",
+		"artists": ["yathosho"],
+		"playlist": "PL2B66D0894A9432CA",
+		"date": "2003-06-07"
+	},
+	{
+		"id": "VB011-1",
+		"name": "Version 2",
+		"byline": "Yathosho",
+		"type": "compilation",
+		"artists": ["yathosho"],
+		"geoblock": ["jp"],
+		"playlist": "PLA88256277BEBBD1D",
+		"date": "2003"
+	},
+	{
+		"id": "VB011-2",
+		"name": "Version 2 EP",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2003-05-26"
+	},
+	{
+		"id": "VB012",
+		"name": "Curvisms",
+		"byline": "SKuPeRS",
+		"type": "compilation",
+		"artists": ["skupers"],
+		"playlist": "PL9855B1AB865E8F36",
+		"date": "2003-07-05"
+	},
+	{
+		"id": "VB013",
+		"name": "XR6",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2003-05-30"
+	},
+	{
+		"id": "VB014",
+		"name": "les Noobiens",
+		"byline": "les Noobiens",
+		"type": "single",
+		"artists": ["les-noobiens"],
+		"date": "2003"
+	},
+	{
+		"id": "VB015-1",
+		"name": "Envision (Reissue)",
+		"byline": "Duo",
+		"type": "album",
+		"artists": ["duo"],
+		"playlist": "PLC579FF95001278A0",
+		"date": "2003-06-15"
+	},
+	{
+		"id": "VB015-2",
+		"name": "Envision 2 (Reissue)",
+		"byline": "Duo",
+		"type": "album",
+		"artists": ["duo"],
+		"playlist": "PL19AE009BDEE00228",
+		"date": "2003-06-15"
+	},
+	{
+		"id": "VB015-3",
+		"name": "Envision 3",
+		"byline": "Duo",
+		"type": "album",
+		"artists": ["duo"],
+		"playlist": "PL041EDCD2DFA9E4F5",
+		"date": "2003-06-15"
+	},
+	{
+		"id": "VB016",
+		"name": "govisbotgo",
+		"byline": "NemoOrange",
+		"type": "single",
+		"artists": ["nemo-orange"],
+		"playlist": "PL0D4A6DF8E95DC940",
+		"date": "2003"
+	},
+	{
+		"id": "VB017-1",
+		"name": "Kirschblüten pt. 1",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2003"
+	},
+	{
+		"id": "VB017-2",
+		"name": "Kirschblüten pt. 2",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2003"
+	},
+	{
+		"id": "VB018",
+		"name": "Nvone EP",
+		"byline": "SKuPeRS",
+		"type": "single",
+		"artists": ["skupers"],
+		"date": "2003-07-30"
+	},
+	{
+		"id": "VB019",
+		"name": "Oldskul",
+		"byline": "Alt III",
+		"type": "album",
+		"artists": ["alt-iii"],
+		"playlist": "PL6FA78443C6064A96",
+		"date": "2003"
+	},
+	{
+		"id": "VB020-1",
+		"name": "Heimcomputer II Preview",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2003-07-27"
+	},
+	{
+		"id": "VB020-2",
+		"name": "Heimcomputer II",
+		"byline": "Yathosho",
+		"type": "album",
+		"artists": ["yathosho"],
+		"date": "2003"
+	},
+	{
+		"id": "VB021",
+		"name": "Since Then 7",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2003-07-13"
+	},
+	{
+		"id": "VB022-1",
+		"name": "The Outside Broker",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2003"
+	},
+	{
+		"id": "VB022-2",
+		"name": "Broker's Insider Vol. 2",
+		"byline": "Yathosho",
+		"type": "compilation",
+		"artists": ["yathosho"],
+		"playlist": "PLAC0D46F45D48D80E",
+		"date": "2003-08-08"
+	},
+	{
+		"id": "VB023",
+		"name": "DDoo3",
+		"byline": "Dynamic Duo",
+		"type": "single",
+		"artists": ["dynamic-duo"],
+		"date": "2003-08-20"
+	},
+	{
+		"id": "VB024",
+		"name": "Since Then 8",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2003-08-05"
+	},
+	{
+		"id": "VB025",
+		"name": "In Between EP",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2003"
+	},
+	{
+		"id": "VB026-1",
+		"name": "OO'd pt. 1",
+		"byline": "les Noobiens",
+		"type": "single",
+		"artists": ["les-noobiens"],
+		"date": "2003"
+	},
+	{
+		"id": "VB026-2",
+		"name": "OO'd pt. 2",
+		"byline": "les Noobiens",
+		"type": "single",
+		"artists": ["les-noobiens"],
+		"date": "2003"
+	},
+	{
+		"id": "VB027",
+		"name": "Abstraction of Documents",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2003"
+	},
+	{
+		"id": "VB028",
+		"name": "Visions II",
+		"byline": "Zamuz",
+		"type": "album",
+		"artists": ["zamuz"],
+		"playlist": "PL27DCD248A378C7A7",
+		"date": "2003-08-11"
+	},
+	{
+		"id": "VB029-1",
+		"name": "LP8P: Ætatula",
+		"byline": "SKuPeRS",
+		"type": "single",
+		"artists": ["skupers"],
+		"date": "2003-10-28"
+	},
+	{
+		"id": "VB029-2",
+		"name": "LP8: Ætherius",
+		"byline": "SKuPeRS",
+		"type": "album",
+		"artists": ["skupers"],
+		"playlist": "PLF1857F7583C83C68",
+		"date": "2003-12-29"
+	},
+	{
+		"id": "VB030",
+		"name": "Revisions",
+		"byline": "Zamuz",
+		"type": "album",
+		"artists": ["zamuz"],
+		"playlist": "PL8D25676FEC29BF36",
+		"date": "2003-09-16"
+	},
+	{
+		"id": "VB031",
+		"name": "Co-op Session 01",
+		"byline": "SKuPeRS / Amphirion",
+		"type": "single",
+		"artists": ["skupers", "amphirion"],
+		"playlist": "PLAC06315A88ACD95E",
+		"date": "2003-09-16"
+	},
+	{
+		"id": "VB032",
+		"name": "Noobism",
+		"byline": "les Noobiens",
+		"type": "album",
+		"artists": ["les-noobiens"],
+		"playlist": "PL7F72931BEBFF8904",
+		"date": "2003-10-12"
+	},
+	{
+		"id": "VB033-1",
+		"name": "Since Then 9",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2003-09-29"
+	},
+	{
+		"id": "VB033-2",
+		"name": "Since T(h)en",
+		"byline": "Yathosho",
+		"type": "album",
+		"artists": ["yathosho"],
+		"playlist": "PLEE305E81D573DB38",
+		"date": "2003-09-08"
+	},
+	{
+		"id": "VB034",
+		"name": "Co-op Session 02",
+		"byline": "Yathosho / Zamuz",
+		"type": "single",
+		"artists": ["yathosho", "zamuz"],
+		"playlist": "PL015291BF11F3E63F",
+		"date": "2003-09-16"
+	},
+	{
+		"id": "VB035-1",
+		"name": "I love OO",
+		"byline": "les Noobiens",
+		"type": "single",
+		"artists": ["les-noobiens"],
+		"date": "2003-10-17"
+	},
+	{
+		"id": "VB035-2",
+		"name": "I love OO 2",
+		"byline": "les Noobiens",
+		"type": "single",
+		"artists": ["les-noobiens"],
+		"date": "2003-10-19"
+	},
+	{
+		"id": "VB036",
+		"name": "Detroit IX-XII",
+		"byline": "PAN AM",
+		"type": "single",
+		"artists": ["pan-am"],
+		"date": "2003"
+	},
+	{
+		"id": "VB037",
+		"name": "V.I.P.",
+		"byline": "Dynamic Duo",
+		"type": "single",
+		"artists": ["dynamic-duo"],
+		"geoblock": ["jp"],
+		"date": "2003"
+	},
+	{
+		"id": "VB038",
+		"name": "Co-op Session 03",
+		"byline": "les Noobiens / UnConeD",
+		"type": "single",
+		"artists": ["les-noobiens", "unconed"],
+		"playlist": "PLDDC72FFB6F8FA06A",
+		"date": "2004-01-11"
+	},
+	{
+		"id": "VB039",
+		"name": "Relax",
+		"byline": "NemoOrange",
+		"type": "single",
+		"artists": ["nemo-orange"],
+		"playlist": "PL1A3AB47B0554AE68",
+		"date": "2003-11-01"
+	},
+	{
+		"id": "VB040-1",
+		"name": "Inside White",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2003"
+	},
+	{
+		"id": "VB040-2",
+		"name": "Broker's Insider Vol. 3",
+		"byline": "Yathosho",
+		"type": "compilation",
+		"artists": ["yathosho"],
+		"playlist": "PL6EFCB52BF012EDE8",
+		"date": "2003-11-13"
+	},
+	{
+		"id": "VB041",
+		"name": "Visions III",
+		"byline": "Zamuz",
+		"type": "album",
+		"artists": ["zamuz"],
+		"playlist": "PL7743BBDFB07241C5",
+		"date": "2003-12-11"
+	},
+	{
+		"id": "VB042",
+		"name": "X",
+		"byline": "Yathosho",
+		"type": "compilation",
+		"artists": ["yathosho"],
+		"geoblock": ["jp"],
+		"date": "2004-01-01"
+	},
+	{
+		"id": "VB043",
+		"name": "DD2oo3",
+		"byline": "Dynamic Duo",
+		"type": "compilation",
+		"artists": ["dynamic-duo"],
+		"geoblock": ["jp"],
+		"date": "2004-01-01"
+	},
+	{
+		"id": "VB044",
+		"name": "DDoo4",
+		"byline": "Dynamic Duo",
+		"type": "single",
+		"artists": ["dynamic-duo"],
+		"date": "2004-01-13"
+	},
+	{
+		"id": "VB045",
+		"name": "Noob It!",
+		"byline": "les Noobiens",
+		"type": "single",
+		"artists": ["les-noobiens"],
+		"date": "2004"
+	},
+	{
+		"id": "VB046",
+		"name": "Lighthology III",
+		"byline": "NemoOrange",
+		"type": "single",
+		"artists": ["nemo-orange"],
+		"playlist": "PL0865054E50BCFF17",
+		"date": "2004-01-06"
+	},
+	{
+		"id": "VB047",
+		"name": "LP7 Suite",
+		"byline": "SKuPeRS",
+		"type": "compilation",
+		"artists": ["skupers"],
+		"date": "2003-12-23"
+	},
+	{
+		"id": "VB048",
+		"name": "Co-op Session 04",
+		"byline": "Dynamic Duo / Finnish Flash",
+		"type": "single",
+		"artists": ["dynamic-duo", "finnish-flash"],
+		"playlist": "PL511BFC1BF987FE2C",
+		"date": "2004-01-29"
+	},
+	{
+		"id": "VB049",
+		"name": "New People Selection Vol. 1",
+		"byline": "Various Artists",
+		"type": "compilation",
+		"artists": ["various-artists"],
+		"playlist": "PL0A94045FC89E0849",
+		"date": "2004-01-13"
+	},
+	{
+		"id": "VB050",
+		"name": "msibooN",
+		"byline": "les Noobiens",
+		"type": "album",
+		"artists": ["les-noobiens"],
+		"playlist": "PL92A78B13109BBE10",
+		"date": "2004-01-22"
+	},
+	{
+		"id": "VB051",
+		"name": "Tidal Pixel",
+		"byline": "SKuPeRS",
+		"type": "single",
+		"artists": ["skupers"],
+		"date": "2004-01-22"
+	},
+	{
+		"id": "VB052-1",
+		"name": "Delight Relight",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2004-02-10"
+	},
+	{
+		"id": "VB052-2",
+		"name": "Relight Delight",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2004-02-10"
+	},
+	{
+		"id": "VB053",
+		"name": "Brokenframe Revisited",
+		"byline": "Yathosho",
+		"type": "album",
+		"artists": ["yathosho"],
+		"playlist": "PLBA0327BE4727FBA9",
+		"date": "2004-03-01"
+	},
+	{
+		"id": "VB054",
+		"name": "Broker's Insider Vol. 4",
+		"byline": "Dynamic Duo",
+		"type": "compilation",
+		"artists": ["dynamic-duo"],
+		"playlist": "PLCCEA159ACDD15525",
+		"date": "2004-03-12"
+	},
+	{
+		"id": "VB055",
+		"name": "DDoo5",
+		"byline": "Dynamic Duo",
+		"type": "single",
+		"artists": ["dynamic-duo"],
+		"date": "2004-04-05"
+	},
+	{
+		"id": "VB056",
+		"name": "Less Noodles, More Beans",
+		"byline": "les Noobiens",
+		"type": "single",
+		"artists": ["les-noobiens"],
+		"date": "2004"
+	},
+	{
+		"id": "VB057",
+		"name": "The Unreleases",
+		"byline": "Yathosho",
+		"type": "compilation",
+		"artists": ["yathosho"],
+		"playlist": "PLC0A75E597F2C306A",
+		"date": "2004"
+	},
+	{
+		"id": "VB058",
+		"name": "Co-op Session 05",
+		"byline": "Zamuz / Hboy",
+		"type": "single",
+		"artists": ["zamuz", "hboy"],
+		"playlist": "PL4A56834A97CD756B",
+		"date": "2004-03-20"
+	},
+	{
+		"id": "VB059",
+		"name": "Tintin on the Moon",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2004"
+	},
+	{
+		"id": "VB060",
+		"name": "The UnConeD Mixes",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"geoblock": ["jp"],
+		"date": "2004"
+	},
+	{
+		"id": "VB061",
+		"name": "New People Selection Vol. 2",
+		"byline": "Various Artists",
+		"type": "compilation",
+		"artists": ["various-artists"],
+		"playlist": "PL0F34C65B16EE2F78",
+		"date": "2004-04-04"
+	},
+	{
+		"id": "VB062",
+		"name": "Shape Shifting",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2004-06-07"
+	},
+	{
+		"id": "VB063",
+		"name": "Leisure Suit Noobie",
+		"byline": "les Noobiens",
+		"type": "single",
+		"artists": ["les-noobiens"],
+		"date": "2004"
+	},
+	{
+		"id": "VB064",
+		"name": "Noobcore",
+		"byline": "les Noobiens",
+		"type": "single",
+		"artists": ["les-noobiens"],
+		"date": "2004-09-05"
+	},
+	{
+		"id": "VB065-1",
+		"name": "Since When pt. 1",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2004-07-05"
+	},
+	{
+		"id": "VB065-2",
+		"name": "Since When pt. 2",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2004-07-13"
+	},
+	{
+		"id": "VB066",
+		"name": "DDoo6",
+		"byline": "Dynamic Duo",
+		"type": "single",
+		"artists": ["dynamic-duo"],
+		"date": "2004-08-01"
+	},
+	{
+		"id": "VB067",
+		"name": "Scenery",
+		"byline": "NemoOrange",
+		"type": "album",
+		"artists": ["nemo-orange"],
+		"playlist": "PLF03EB0AE34825157",
+		"date": "2004-07-27"
+	},
+	{
+		"id": "VB068-1",
+		"name": "Visions 4",
+		"byline": "Zamuz",
+		"type": "album",
+		"artists": ["zamuz"],
+		"playlist": "PL9A18DB187CE0DE9A",
+		"date": "2004-07-14"
+	},
+	{
+		"id": "VB068-2",
+		"name": "Revisions 2",
+		"byline": "Zamuz",
+		"type": "album",
+		"artists": ["zamuz"],
+		"playlist": "PL94F70C8B5945C85B",
+		"date": "2004-07-14"
+	},
+	{
+		"id": "VB069",
+		"name": "Broker's Insider Vol. 5",
+		"byline": "Yathosho",
+		"type": "compilation",
+		"artists": ["yathosho"],
+		"date": "2004-07-19"
+	},
+	{
+		"id": "VB070",
+		"name": "Les Couleurs",
+		"byline": "les Noobiens",
+		"type": "single",
+		"artists": ["les-noobiens"],
+		"date": "2004-08-07"
+	},
+	{
+		"id": "VB071-1",
+		"name": "Minidisko Remixes pt. 1",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2004-08-09"
+	},
+	{
+		"id": "VB071-2",
+		"name": "Minidisko Remixes pt. 2",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2004-08-23"
+	},
+	{
+		"id": "VB072",
+		"name": "Noobtroop Vol. 1",
+		"byline": "les Noobiens",
+		"type": "compilation",
+		"artists": ["les-noobiens"],
+		"date": "2004-09-23"
+	},
+	{
+		"id": "VB073",
+		"name": "In Treatment",
+		"byline": "Yathosho",
+		"type": "compilation",
+		"artists": ["yathosho"],
+		"playlist": "PLCE88E4919654FA98",
+		"date": "2004-09-23"
+	},
+	{
+		"id": "VB074-1",
+		"name": "Preflight",
+		"byline": "PAN AM",
+		"type": "single",
+		"artists": ["pan-am"],
+		"date": "2004"
+	},
+	{
+		"id": "VB074-2",
+		"name": "747",
+		"byline": "PAN AM",
+		"type": "album",
+		"artists": ["pan-am"],
+		"date": "2004"
+	},
+	{
+		"id": "VB075",
+		"name": "Co-op Session 06",
+		"byline": "NemoOrange / Unripe Lemon",
+		"type": "single",
+		"artists": ["nemo-orange", "unripe-lemon"],
+		"playlist": "PLB0575E975ED37E29",
+		"date": "2004-10-29"
+	},
+	{
+		"id": "VB076-1",
+		"name": "Prelude to L.O.V.E",
+		"byline": "les Noobiens",
+		"type": "single",
+		"artists": ["les-noobiens"],
+		"date": "2004"
+	},
+	{
+		"id": "VB076-2",
+		"name": "Love your Noobiens",
+		"byline": "les Noobiens",
+		"type": "album",
+		"artists": ["les-noobiens"],
+		"playlist": "PL1B1AD0C0F8979DA0",
+		"date": "2004-11-03"
+	},
+	{
+		"id": "VB077",
+		"name": "Co-op Session 07",
+		"byline": "Yathosho / Synth-C",
+		"type": "single",
+		"artists": ["yathosho", "synth-c"],
+		"playlist": "PL64FF2C72EC037623",
+		"date": "2004-11-02"
+	},
+	{
+		"id": "VB078",
+		"name": "Dreams",
+		"byline": "Zamuz",
+		"type": "single",
+		"artists": ["zamuz"],
+		"date": "2004"
+	},
+	{
+		"id": "VB079-1",
+		"name": "X2EP",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2004-11-25"
+	},
+	{
+		"id": "VB079-2",
+		"name": "X2",
+		"byline": "Yathosho",
+		"type": "compilation",
+		"artists": ["yathosho"],
+		"geoblock": ["jp"],
+		"date": "2005-01-01"
+	},
+	{
+		"id": "VB080",
+		"name": "Co-op Session 08",
+		"byline": "Danaughty1 / Hboy",
+		"type": "single",
+		"artists": ["danaughty1", "hboy"],
+		"playlist": "PLD4C2F85A1B8B2D7B",
+		"date": "2005-01-01"
+	},
+	{
+		"id": "VB081-1",
+		"name": "Jacques aux Fraises",
+		"byline": "les Noobiens",
+		"type": "single",
+		"artists": ["les-noobiens"],
+		"date": "2004"
+	},
+	{
+		"id": "VB081-2",
+		"name": "Shake your Noobiens",
+		"byline": "les Noobiens",
+		"type": "album",
+		"artists": ["les-noobiens"],
+		"playlist": "PL3E066DFCC4855462",
+		"date": "2004-12-18"
+	},
+	{
+		"id": "VB082",
+		"name": "Enter da Naughty",
+		"byline": "Danaughty1",
+		"type": "single",
+		"artists": ["danaughty1"],
+		"geoblock": ["jp"],
+		"date": "2004"
+	},
+	{
+		"id": "VB083",
+		"name": "It's da naughty loose",
+		"byline": "Danaughty1",
+		"type": "single",
+		"artists": ["danaughty1"],
+		"geoblock": ["jp"],
+		"date": "2004"
+	},
+	{
+		"id": "VB084",
+		"name": "Noobtroop Vol. 2",
+		"byline": "les Noobiens",
+		"type": "compilation",
+		"artists": ["les-noobiens"],
+		"date": "2004-12-07"
+	},
+	{
+		"id": "VB085",
+		"name": "New People Selection Vol. 3",
+		"byline": "Various Artists",
+		"type": "compilation",
+		"artists": ["various-artists"],
+		"playlist": "PLFE19E12F58C82849",
+		"date": "2004-12-05"
+	},
+	{
+		"id": "VB086",
+		"name": "Naughty Nutz",
+		"byline": "Danaughty1",
+		"type": "single",
+		"artists": ["danaughty1"],
+		"geoblock": ["jp"],
+		"date": "2004"
+	},
+	{
+		"id": "VB087",
+		"name": "Da-Naughty-One",
+		"byline": "Danaughty1",
+		"type": "single",
+		"artists": ["danaughty1"],
+		"date": "2004-12-14"
+	},
+	{
+		"id": "VB088",
+		"name": "The Crossbreeds 2",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"geoblock": ["jp"],
+		"date": "2004-12-04"
+	},
+	{
+		"id": "VB089",
+		"name": "Let the MUSICK play",
+		"byline": "les Noobiens",
+		"type": "compilation",
+		"artists": ["les-noobiens"],
+		"date": "2004"
+	},
+	{
+		"id": "VB090",
+		"name": "DDrmx",
+		"byline": "Dynamic Duo",
+		"type": "album",
+		"artists": ["dynamic-duo"],
+		"playlist": "PLCA0C39FE6651B1AB",
+		"date": "2005-03-12"
+	},
+	{
+		"id": "VB091",
+		"name": "Kerygma",
+		"byline": "Frames of Reality",
+		"type": "album",
+		"artists": ["frames-of-reality"],
+		"playlist": "PLDCA5FE48765A183A",
+		"date": "2004-12-15"
+	},
+	{
+		"id": "VB092",
+		"name": "Less Boodle, More Needs",
+		"byline": "les Noobiens",
+		"type": "single",
+		"artists": ["les-noobiens"]
+	},
+	{
+		"id": "VB093-1",
+		"name": "Dis",
+		"byline": "Frames of Reality",
+		"type": "single",
+		"artists": ["frames-of-reality"],
+		"date": "2005-01-26"
+	},
+	{
+		"id": "VB093-2",
+		"name": "Sol",
+		"byline": "Frames of Reality",
+		"type": "single",
+		"artists": ["frames-of-reality"],
+		"date": "2005-01-26"
+	},
+	{
+		"id": "VB094",
+		"name": "DD2oo4",
+		"byline": "Dynamic Duo",
+		"type": "compilation",
+		"artists": ["dynamic-duo"],
+		"geoblock": ["jp"],
+		"date": "2005"
+	},
+	{
+		"id": "VB095",
+		"name": "Co-op Session 09",
+		"byline": "Duo / Yathosho",
+		"type": "single",
+		"artists": ["duo", "yathosho"],
+		"playlist": "PL3FD3FCAC3B757DAC",
+		"date": "2005-01-17"
+	},
+	{
+		"id": "VB096",
+		"name": "Unfinished Sympathies",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"geoblock": ["jp"],
+		"date": "2005-01-26"
+	},
+	{
+		"id": "VB097",
+		"name": "Who is Da Naughty One?",
+		"byline": "Danaughty1",
+		"type": "single",
+		"artists": ["danaughty1"],
+		"date": "2005-01-29"
+	},
+	{
+		"id": "VB098",
+		"name": "The Internoob",
+		"byline": "les Noobiens",
+		"type": "single",
+		"artists": ["les-noobiens"],
+		"date": "2005"
+	},
+	{
+		"id": "VB099",
+		"name": "U Been Naughty",
+		"byline": "Danaughty1",
+		"type": "album",
+		"artists": ["danaughty1"],
+		"playlist": "PL03D542030234FDAD",
+		"date": "2005"
+	},
+	{
+		"id": "VB100",
+		"name": "VISBOT 100",
+		"byline": "Various Artists",
+		"type": "compilation",
+		"artists": ["visbot"],
+		"playlist": "PLD09AE2F053071854",
+		"date": "2005-02-27"
+	},
+	{
+		"id": "VB101",
+		"name": "The Great Escape",
+		"byline": "Yathosho",
+		"type": "album",
+		"artists": ["yathosho"],
+		"playlist": "PLF452BAF6A70A45A2",
+		"date": "2004-02-02"
+	},
+	{
+		"id": "VB102",
+		"name": "Incipience III",
+		"byline": "Amphirion",
+		"type": "album",
+		"artists": ["amphirion"],
+		"playlist": "PL93081F8A1D370A38",
+		"date": "2005-02-14"
+	},
+	{
+		"id": "VB103",
+		"name": "Exegesis",
+		"byline": "Frames of Reality",
+		"type": "album",
+		"artists": ["frames-of-reality"],
+		"playlist": "PL9258F95F32AA6EED",
+		"date": "2005-03-07"
+	},
+	{
+		"id": "VB104",
+		"name": "Facelifts",
+		"byline": "Zamuz",
+		"type": "single",
+		"artists": ["zamuz"],
+		"date": "2005-04-17"
+	},
+	{
+		"id": "VB105",
+		"name": "Visions 5",
+		"byline": "Zamuz",
+		"type": "album",
+		"artists": ["zamuz"],
+		"playlist": "PL67AFC49A9DA315C9",
+		"date": "2005-04-23"
+	},
+	{
+		"id": "VB106",
+		"name": "Co-op Session 10",
+		"byline": "Amphirion / Vanish",
+		"type": "single",
+		"artists": ["amphirion", "vanish"],
+		"playlist": "PL323E372CBC499F13",
+		"date": "2005-05-05"
+	},
+	{
+		"id": "VB107",
+		"name": "back2back",
+		"byline": "Yathosho / Frames of Reality",
+		"type": "single",
+		"artists": ["yathosho", "frames-of-reality"],
+		"date": "2005-07-13"
+	},
+	{
+		"id": "VB108",
+		"name": "The Shapes of Math",
+		"byline": "les Noobiens",
+		"type": "single",
+		"artists": ["les-noobiens"],
+		"date": "2005"
+	},
+	{
+		"id": "VB109",
+		"name": "DM5 Sampler",
+		"byline": "Dynamic Duo",
+		"type": "single",
+		"artists": ["dynamic-duo"],
+		"date": "2005"
+	},
+	{
+		"id": "VB110",
+		"name": "Entertainment for the Blind",
+		"byline": "Frames of Reality",
+		"type": "album",
+		"artists": ["frames-of-reality"],
+		"playlist": "PL7CF5B97D9E75DC2D",
+		"date": "2005"
+	},
+	{
+		"id": "VB111",
+		"name": "Since When 2",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2005-08-11"
+	},
+	{
+		"id": "VB112",
+		"name": "Mindscapes",
+		"byline": "Hboy",
+		"type": "album",
+		"artists": ["hboy"],
+		"playlist": "PL50B694740780157A",
+		"date": "2005-08-11"
+	},
+	{
+		"id": "VB113",
+		"name": "The Age of Nuke EP",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"geoblock": ["jp"],
+		"date": "2005-08-13"
+	},
+	{
+		"id": "VB114",
+		"name": "D.I.Y.",
+		"byline": "les Noobiens",
+		"type": "single",
+		"artists": ["les-noobiens"],
+		"date": "2006-03-21"
+	},
+	{
+		"id": "VB115",
+		"name": "DDoo7",
+		"byline": "Dynamic Duo",
+		"type": "single",
+		"artists": ["dynamic-duo"],
+		"date": "2005-09-06"
+	},
+	{
+		"id": "VB116",
+		"name": "Lift-Off",
+		"byline": "Synth-C",
+		"type": "album",
+		"artists": ["synth-c"],
+		"playlist": "PL458E7B43045A4D42",
+		"date": "2005-11-04"
+	},
+	{
+		"id": "VB117-1",
+		"name": "Refocused pt. 1",
+		"byline": "AVS-King",
+		"type": "single",
+		"artists": ["avs-king"],
+		"date": "2005"
+	},
+	{
+		"id": "VB117-2",
+		"name": "Refocused pt. 2",
+		"byline": "AVS-King",
+		"type": "single",
+		"artists": ["avs-king"],
+		"date": "2005"
+	},
+	{
+		"id": "VB117-3",
+		"name": "Refocused pt. 3",
+		"byline": "AVS-King",
+		"type": "single",
+		"artists": ["avs-king"],
+		"date": "2005"
+	},
+	{
+		"id": "VB118",
+		"name": "Rehmix Vol. 1",
+		"byline": "les Noobiens",
+		"type": "single",
+		"artists": ["les-noobiens"],
+		"date": "2005"
+	},
+	{
+		"id": "VB119",
+		"name": "Co-op Session 11",
+		"byline": "Frames of Reality / ^..^",
+		"type": "single",
+		"artists": ["frames-of-reality"],
+		"playlist": "PL53FACC76F10AED15",
+		"date": "2005-12-12"
+	},
+	{
+		"id": "VB120-1",
+		"name": "IT2 Sampler",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2005-11-04"
+	},
+	{
+		"id": "VB120-2",
+		"name": "In Treatment 2",
+		"byline": "Yathosho",
+		"type": "compilation",
+		"artists": ["yathosho"],
+		"playlist": "PLF463D07D2A21C7B0",
+		"date": "2005-12-24"
+	},
+	{
+		"id": "VB121",
+		"name": "Grime",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2005-12-25"
+	},
+	{
+		"id": "VB122",
+		"name": "Remix Collection",
+		"byline": "Zamuz",
+		"type": "compilation",
+		"artists": ["zamuz"],
+		"playlist": "PL9F809501720CEE4C",
+		"date": "2006-01-23"
+	},
+	{
+		"id": "VB123",
+		"name": "X3",
+		"byline": "Yathosho",
+		"type": "compilation",
+		"artists": ["yathosho"],
+		"geoblock": ["jp"],
+		"date": "2006-01-06"
+	},
+	{
+		"id": "VB124",
+		"name": "The D.S.E. Remixes",
+		"byline": "Vanish",
+		"type": "compilation",
+		"artists": ["vanish"],
+		"playlist": "PLD68A1D99C047289D",
+		"date": "2006"
+	},
+	{
+		"id": "VB125",
+		"name": "DD2oo5",
+		"byline": "Dynamic Duo",
+		"type": "compilation",
+		"artists": ["dynamic-duo"],
+		"geoblock": ["jp"],
+		"date": "2006-01-01"
+	},
+	{
+		"id": "VB126-1",
+		"name": "Soy Bomb",
+		"byline": "Frames of Reality",
+		"type": "album",
+		"artists": ["frames-of-reality"],
+		"playlist": "PL37BE6A3CD6D52143",
+		"date": "2006-02-27"
+	},
+	{
+		"id": "VB126-2",
+		"name": "Triad",
+		"byline": "Frames of Reality",
+		"type": "single",
+		"artists": ["frames-of-reality"],
+		"date": "2006-02-27"
+	},
+	{
+		"id": "VB127",
+		"name": "Skin (Yathosho Remixes)",
+		"byline": "Pure Krypton",
+		"type": "single",
+		"artists": ["pure-krypton"],
+		"date": "2006"
+	},
+	{
+		"id": "VB128",
+		"name": "Back2Future EP",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2006-05-28"
+	},
+	{
+		"id": "VB129",
+		"name": "DM6 Sampler",
+		"byline": "Dynamic Duo",
+		"type": "single",
+		"artists": ["dynamic-duo"],
+		"date": "2006"
+	},
+	{
+		"id": "VB130",
+		"name": "Straight outta Lipton",
+		"byline": "les Noobiens",
+		"type": "single",
+		"artists": ["les-noobiens"],
+		"date": "2006"
+	},
+	{
+		"id": "VB131",
+		"name": "Grime 2",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2006-06-24"
+	},
+	{
+		"id": "VB132",
+		"name": "New People Selection Vol. 4",
+		"byline": "Various Artists",
+		"type": "compilation",
+		"artists": ["various-artists"],
+		"playlist": "PL9FDA29BB5BAD7A49",
+		"date": "2006-06-07"
+	},
+	{
+		"id": "VB133",
+		"name": "Visualove",
+		"byline": "Hboy",
+		"type": "album",
+		"artists": ["hboy"],
+		"playlist": "PLF51D7D2A0B7438BA",
+		"date": "2006-06-11"
+	},
+	{
+		"id": "VB134-1",
+		"name": "Sight/Difference",
+		"byline": "Frames of Reality",
+		"type": "album",
+		"artists": ["frames-of-reality"],
+		"playlist": "PLA099B366347F4C01",
+		"date": "2006-08-05"
+	},
+	{
+		"id": "VB134-2",
+		"name": "Different Sights",
+		"byline": "Frames of Reality",
+		"type": "single",
+		"artists": ["frames-of-reality"],
+		"date": "2006-08-05"
+	},
+	{
+		"id": "VB135",
+		"name": "DDxo1",
+		"byline": "Dynamic Duo",
+		"type": "single",
+		"artists": ["dynamic-duo"],
+		"date": "2006-09-14"
+	},
+	{
+		"id": "VB136",
+		"name": "DM6R",
+		"byline": "Dynamic Duo",
+		"type": "single",
+		"artists": ["dynamic-duo"],
+		"date": "2006"
+	},
+	{
+		"id": "VB137",
+		"name": "Sokoban EP",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2006-09-23"
+	},
+	{
+		"id": "VB138",
+		"name": "DDxo2",
+		"byline": "Dynamic Duo",
+		"type": "single",
+		"artists": ["dynamic-duo"],
+		"date": "2006-10-02"
+	},
+	{
+		"id": "VB139",
+		"name": "Rehmix Vol. 2",
+		"byline": "les Noobiens",
+		"type": "single",
+		"artists": ["les-noobiens"],
+		"date": "2006"
+	},
+	{
+		"id": "VB140",
+		"name": "Tentaclism (The Y.M.O. Reworks)",
+		"byline": "Dynamic Duo",
+		"type": "single",
+		"artists": ["dynamic-duo"],
+		"geoblock": ["jp"],
+		"date": "2006"
+	},
+	{
+		"id": "VB141",
+		"name": "The Grit Escape EP",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2006-10-21"
+	},
+	{
+		"id": "VB142",
+		"name": "313 EP",
+		"byline": "PAN AM",
+		"type": "single",
+		"artists": ["pan-am"],
+		"date": "2006"
+	},
+	{
+		"id": "VB143",
+		"name": "DDxo3",
+		"byline": "Dynamic Duo",
+		"type": "single",
+		"artists": ["dynamic-duo"],
+		"date": "2006-10-21"
+	},
+	{
+		"id": "VB144",
+		"name": "DDxo4",
+		"byline": "Dynamic Duo",
+		"type": "single",
+		"artists": ["dynamic-duo"],
+		"date": "2006-11-06"
+	},
+	{
+		"id": "VB145",
+		"name": "313R EP",
+		"byline": "PAN AM",
+		"type": "single",
+		"artists": ["pan-am"],
+		"date": "2006"
+	},
+	{
+		"id": "VB146",
+		"name": "New People Selection Vol. 5",
+		"byline": "Various Artists",
+		"type": "compilation",
+		"artists": ["various-artists"],
+		"playlist": "PL71055D2FCBB93FE1",
+		"date": "2006-12-02"
+	},
+	{
+		"id": "VB147",
+		"name": "Got the Bug EP",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2006-12-23"
+	},
+	{
+		"id": "VB148",
+		"name": "Dynamic Art",
+		"byline": "JaVS",
+		"type": "album",
+		"artists": ["javs"],
+		"playlist": "PL0C8D41D8ADD8BAC4"
+	},
+	{
+		"id": "VB149",
+		"name": "Destroit MI",
+		"byline": "PAN AM",
+		"type": "album",
+		"artists": ["pan-am"],
+		"playlist": "PLB70B35975BFC1A86",
+		"date": "2007-01-06"
+	},
+	{
+		"id": "VB150-1",
+		"name": "X4EP",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2007-01-05"
+	},
+	{
+		"id": "VB150-2",
+		"name": "X4",
+		"byline": "Yathosho",
+		"type": "compilation",
+		"artists": ["yathosho"],
+		"geoblock": ["jp"],
+		"date": "2007-04-04"
+	},
+	{
+		"id": "VB151",
+		"name": "Tentaclism (The Zamuz Reworks)",
+		"byline": "Dynamic Duo",
+		"type": "single",
+		"artists": ["dynamic-duo"],
+		"geoblock": ["jp"],
+		"date": "2007"
+	},
+	{
+		"id": "VB152",
+		"name": "MNSTCKRMXS",
+		"byline": "PAN AM",
+		"type": "single",
+		"artists": ["pan-am"],
+		"date": "2007"
+	},
+	{
+		"id": "VB153",
+		"name": "Dynamic Art (Ya-tho-sho Treatments)",
+		"byline": "JaVS",
+		"type": "single",
+		"artists": ["javs"],
+		"date": "2007"
+	},
+	{
+		"id": "VB154",
+		"name": "Tentaclism",
+		"byline": "Dynamic Duo",
+		"type": "compilation",
+		"artists": ["dynamic-duo"],
+		"playlist": "PLDDD7800D4D598519",
+		"date": "2007-02-11"
+	},
+	{
+		"id": "VB155",
+		"name": "Straight outta Lipton 2",
+		"byline": "les Noobiens",
+		"type": "single",
+		"artists": ["les-noobiens"],
+		"date": "2007"
+	},
+	{
+		"id": "VB156",
+		"name": "Visions VI",
+		"byline": "Zamuz",
+		"type": "compilation",
+		"artists": ["zamuz"],
+		"playlist": "PLB4EC00FDD649ABEF",
+		"date": "2007-03-05"
+	},
+	{
+		"id": "VB157",
+		"name": "Golden Ai(é)r",
+		"byline": "Frames of Reality",
+		"type": "album",
+		"artists": ["frames-of-reality"],
+		"playlist": "PL58AC6273BE597575",
+		"date": "2007-03-16"
+	},
+	{
+		"id": "VB158",
+		"name": "Co-op Session 12",
+		"byline": "Yathosho / Grandchild",
+		"type": "single",
+		"artists": ["yathosho", "grandchild"],
+		"playlist": "PLEDF0F3AC1CE39BE7",
+		"date": "2007-03-31"
+	},
+	{
+		"id": "VB159",
+		"name": "DDxo5",
+		"byline": "Dynamic Duo",
+		"type": "single",
+		"artists": ["dynamic-duo"],
+		"date": "2007-03-25"
+	},
+	{
+		"id": "VB160",
+		"name": "Fridgeless",
+		"byline": "Frames of Reality",
+		"type": "single",
+		"artists": ["frames-of-reality"],
+		"date": "2007"
+	},
+	{
+		"id": "VB161",
+		"name": "Modus Operandi",
+		"byline": "Yathosho",
+		"type": "compilation",
+		"artists": ["yathosho"],
+		"playlist": "PL2D30604F84B06D97",
+		"date": "2007-04-07"
+	},
+	{
+		"id": "VB162",
+		"name": "Scrapper's Delight",
+		"byline": "les Noobiens",
+		"type": "single",
+		"artists": ["les-noobiens"],
+		"date": "2007-04-15"
+	},
+	{
+		"id": "VB163",
+		"name": "DM7 Sampler",
+		"byline": "Dynamic Duo",
+		"type": "single",
+		"artists": ["dynamic-duo"],
+		"date": "2007-07-04"
+	},
+	{
+		"id": "VB164",
+		"name": "re-Optimized",
+		"byline": "JaVS",
+		"type": "album",
+		"artists": ["javs"],
+		"playlist": "PL186B0706F8CE42C0",
+		"date": "2007"
+	},
+	{
+		"id": "VB165",
+		"name": "Bsides",
+		"byline": "Dynamic Duo",
+		"type": "compilation",
+		"artists": ["dynamic-duo"],
+		"geoblock": ["jp"],
+		"date": "2007"
+	},
+	{
+		"id": "VB166",
+		"name": "DDxo6",
+		"byline": "Dynamic Duo",
+		"type": "single",
+		"artists": ["dynamic-duo"],
+		"date": "2007-07-12"
+	},
+	{
+		"id": "VB167",
+		"name": "Grim3",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2007-07-24"
+	},
+	{
+		"id": "VB168",
+		"name": "Since When 3",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2007-07-22"
+	},
+	{
+		"id": "VB169",
+		"name": "Phase One",
+		"byline": "SKuPeRS & Yathosho",
+		"type": "single",
+		"artists": ["skupers", "yathosho"],
+		"date": "2007-07-28"
+	},
+	{
+		"id": "VB170",
+		"name": "Refocused (The Y.M.O. Reworks)",
+		"byline": "AVS-King",
+		"type": "single",
+		"artists": ["avs-king"],
+		"geoblock": ["jp"],
+		"date": "2007"
+	},
+	{
+		"id": "VB171",
+		"name": "In Treatment 2.5",
+		"byline": "Yathosho",
+		"type": "compilation",
+		"artists": ["yathosho"],
+		"playlist": "PLC48C2B160D61246A",
+		"date": "2007-08-18"
+	},
+	{
+		"id": "VB172",
+		"name": "Phase Two",
+		"byline": "Yathosho & SKuPeRS",
+		"type": "single",
+		"artists": ["yathosho", "skupers"],
+		"date": "2007-08-18"
+	},
+	{
+		"id": "VB173",
+		"name": "The 12 inches of Co-op",
+		"byline": "Various Artists",
+		"type": "compilation",
+		"artists": ["various-artists"],
+		"geoblock": ["jp"],
+		"date": "2007"
+	},
+	{
+		"id": "VB174",
+		"name": "Grime 4",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2007-08-31"
+	},
+	{
+		"id": "VB175",
+		"name": "Dynamix",
+		"byline": "Dynamic Duo",
+		"type": "album",
+		"artists": ["dynamic-duo"],
+		"geoblock": ["jp"],
+		"date": "2007"
+	},
+	{
+		"id": "VB176",
+		"name": "Incipience (Dynamic Duo Reworks)",
+		"byline": "Amphirion",
+		"type": "single",
+		"artists": ["amphirion"],
+		"date": "2007-09-10"
+	},
+	{
+		"id": "VB177",
+		"name": "Co-op Session 13",
+		"byline": "Dynamic Duo / Onionring",
+		"type": "single",
+		"artists": ["dynamic-duo", "onionring"],
+		"playlist": "PL28C90C4308544A42",
+		"date": "2007-09-30"
+	},
+	{
+		"id": "VB178",
+		"name": "He Said, She Said",
+		"byline": "Onionring",
+		"type": "album",
+		"artists": ["onionring"],
+		"playlist": "PL911B20CC2B3C01B8",
+		"date": "2007-10-05"
+	},
+	{
+		"id": "VB179",
+		"name": "MOIIEP",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2007-12-16"
+	},
+	{
+		"id": "VB180-1",
+		"name": "X5EP",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2007-12-25"
+	},
+	{
+		"id": "VB180-2",
+		"name": "X5",
+		"byline": "Yathosho",
+		"type": "compilation",
+		"artists": ["yathosho"],
+		"geoblock": ["jp"],
+		"date": "2008-01-06"
+	},
+	{
+		"id": "VB181",
+		"name": "Modus Operandi 2",
+		"byline": "Yathosho",
+		"type": "compilation",
+		"artists": ["yathosho"],
+		"playlist": "PL54774A5317C1BE6C",
+		"date": "2007-12-25"
+	},
+	{
+		"id": "VB182-1",
+		"name": "Edits pt. 1",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2008-01-20"
+	},
+	{
+		"id": "VB182-2",
+		"name": "Edits pt. 2",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2008-01-24"
+	},
+	{
+		"id": "VB183",
+		"name": "Einzelstücke",
+		"byline": "Yathosho",
+		"type": "compilation",
+		"artists": ["yathosho"],
+		"playlist": "PL59D57D519813D45A",
+		"date": "2008-02-20"
+	},
+	{
+		"id": "VB184",
+		"name": "Sing. Less retro. Spectate",
+		"byline": "Vanish",
+		"type": "album",
+		"artists": ["vanish"],
+		"playlist": "PL0E30C5ED57BB7A2F",
+		"date": "2008-03-23"
+	},
+	{
+		"id": "VB185",
+		"name": "Anotherversion Deux",
+		"byline": "Anotherversion",
+		"type": "compilation",
+		"artists": ["anotherversion"],
+		"playlist": "PLC7A63DADE46E149C",
+		"date": "2008"
+	},
+	{
+		"id": "VB186",
+		"name": "Since When 4",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2008-11-20"
+	},
+	{
+		"id": "VB187",
+		"name": "RMX EP",
+		"byline": "PAN AM",
+		"type": "single",
+		"artists": ["pan-am"],
+		"date": "2008"
+	},
+	{
+		"id": "VB188",
+		"name": "X6",
+		"byline": "Yathosho",
+		"type": "compilation",
+		"artists": ["yathosho"],
+		"geoblock": ["jp"],
+		"date": "2009-01-01"
+	},
+	{
+		"id": "VB189",
+		"name": "DDxo7",
+		"byline": "Dynamic Duo",
+		"type": "single",
+		"artists": ["dynamic-duo"],
+		"date": "2009-03-14"
+	},
+	{
+		"id": "VB190",
+		"name": "Nubtroopiii",
+		"byline": "PAN AM & les Noobiens",
+		"type": "compilation",
+		"artists": ["pan-am", "les-noobiens"],
+		"playlist": "PL31249E6CB6E8500A",
+		"date": "2009"
+	},
+	{
+		"id": "VB191",
+		"name": "Pillow Fight (The Remixes)",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2009-03-06"
+	},
+	{
+		"id": "VB192",
+		"name": "Tentacliism",
+		"byline": "Dynamic Duo",
+		"type": "compilation",
+		"artists": ["dynamic-duo"],
+		"playlist": "PLB13504DD2BB27AF9",
+		"date": "2009-03-08"
+	},
+	{
+		"id": "VB193",
+		"name": "Co-op Session 14",
+		"byline": "Synth-C / Zamuz",
+		"type": "single",
+		"artists": ["synth-c", "zamuz"],
+		"playlist": "PLE11D948656921482",
+		"date": "2009-03-08"
+	},
+	{
+		"id": "VB194",
+		"name": "New People Selection Vol. 6",
+		"byline": "Various Artists",
+		"type": "compilation",
+		"artists": ["various-artists"],
+		"playlist": "PL4CFE0FA2ACF94256",
+		"date": "2009-03-27"
+	},
+	{
+		"id": "VB195",
+		"name": "Rejects EP",
+		"byline": "Dynamic Duo",
+		"type": "single",
+		"artists": ["dynamic-duo"],
+		"geoblock": ["jp"],
+		"date": "2009"
+	},
+	{
+		"id": "VB196",
+		"name": "Screw Drew",
+		"byline": "Drew",
+		"type": "compilation",
+		"artists": ["drew"],
+		"playlist": "PL4A141453A4F5199C",
+		"date": "2009"
+	},
+	{
+		"id": "VB197",
+		"name": "The Vienna Mixes",
+		"byline": "Yathosho & Grandchild",
+		"type": "single",
+		"artists": ["yathosho", "grandchild"],
+		"date": "2009-04-03"
+	},
+	{
+		"id": "VB198",
+		"name": "Dx 1x3",
+		"byline": "Dynamic Duo",
+		"type": "single",
+		"artists": ["dynamic-duo"],
+		"date": "2009-04-12"
+	},
+	{
+		"id": "VB199",
+		"name": "Tools Vol. 1",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2009"
+	},
+	{
+		"id": "VB200",
+		"name": "VISBOT 200",
+		"byline": "Various Artists",
+		"type": "compilation",
+		"artists": ["visbot"],
+		"date": "2009-04-21"
+	},
+	{
+		"id": "VB201-1",
+		"name": "6ix EP",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2009-04-09"
+	},
+	{
+		"id": "VB201-2",
+		"name": "Brokenframe 6ix",
+		"byline": "Yathosho",
+		"type": "album",
+		"artists": ["yathosho"],
+		"playlist": "PLB9801786A425E718",
+		"date": "2009-04-29"
+	},
+	{
+		"id": "VB202",
+		"name": "Dynamix",
+		"byline": "Dynamic Duo",
+		"type": "album",
+		"artists": ["dynamic-duo"],
+		"playlist": "PLB9D93876A3F1EC7C",
+		"date": "2009-05-09"
+	},
+	{
+		"id": "VB203",
+		"name": "Nublak I-IV",
+		"byline": "les Noobiens",
+		"type": "compilation",
+		"artists": ["les-noobiens"],
+		"date": "2009"
+	},
+	{
+		"id": "VB204",
+		"name": "Fakes",
+		"byline": "Yathosho",
+		"type": "album",
+		"artists": ["yathosho"],
+		"playlist": "PL4EE9E10E918B95D7",
+		"date": "2009-09-25"
+	},
+	{
+		"id": "VB205",
+		"name": "Dx 2x3",
+		"byline": "Dynamic Duo",
+		"type": "single",
+		"artists": ["dynamic-duo"],
+		"date": "2009-07-09"
+	},
+	{
+		"id": "VB206",
+		"name": "Residual Heat EP",
+		"byline": "Yathosho / Dynamic Duo",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2009"
+	},
+	{
+		"id": "VB207-1",
+		"name": "Manic",
+		"byline": "Drew",
+		"type": "single",
+		"artists": ["drew"],
+		"date": "2009-09-10"
+	},
+	{
+		"id": "VB207-2",
+		"name": "Manic (Why Edits?)",
+		"byline": "Drew",
+		"type": "single",
+		"artists": ["drew"],
+		"date": "2009"
+	},
+	{
+		"id": "VB208",
+		"name": "Untitled EP",
+		"byline": "PAN AM / Yathosho",
+		"type": "single",
+		"artists": ["pan-am", "yathosho"],
+		"date": "2009"
+	},
+	{
+		"id": "VB209",
+		"name": "Dx 3x3",
+		"byline": "Dynamic Duo",
+		"type": "single",
+		"artists": ["dynamic-duo"],
+		"date": "2009-09-09"
+	},
+	{
+		"id": "VB210",
+		"name": "Fantasy Island",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2009-11-09"
+	},
+	{
+		"id": "VB211",
+		"name": "Skreamizm EP",
+		"byline": "Dynamic Duo",
+		"type": "single",
+		"artists": ["dynamic-duo"],
+		"date": "2009"
+	},
+	{
+		"id": "VB212-1",
+		"name": "R2EP",
+		"byline": "Dynamic Duo",
+		"type": "single",
+		"artists": ["dynamic-duo"],
+		"date": "2009-10-09"
+	},
+	{
+		"id": "VB212-2",
+		"name": "R2",
+		"byline": "Dynamic Duo",
+		"type": "compilation",
+		"artists": ["dynamic-duo"],
+		"playlist": "PL96E9E5718D4979E3",
+		"date": "2009-12-09"
+	},
+	{
+		"id": "VB213",
+		"name": "Modus Operandi 3",
+		"byline": "Yathosho",
+		"type": "compilation",
+		"artists": ["yathosho"],
+		"playlist": "PLAF1275CF0D742DAE",
+		"date": "2009-12-27"
+	},
+	{
+		"id": "VB214",
+		"name": "R2 (B-Sides)",
+		"byline": "Dynamic Duo",
+		"type": "single",
+		"artists": ["dynamic-duo"]
+	},
+	{
+		"id": "VB215-1",
+		"name": "X7EP",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2010-01-01"
+	},
+	{
+		"id": "VB215-2",
+		"name": "X7",
+		"byline": "Yathosho",
+		"type": "compilation",
+		"artists": ["yathosho"],
+		"geoblock": ["jp"],
+		"date": "2010-01-01"
+	},
+	{
+		"id": "VB216",
+		"name": "Remixed",
+		"byline": "Yathosho",
+		"type": "album",
+		"artists": ["yathosho"],
+		"playlist": "PLEC695D92EE5BEF2A",
+		"date": "2010-02-02"
+	},
+	{
+		"id": "VB217",
+		"name": "Co-op Session 15",
+		"byline": "Amphirion / Micro.D",
+		"type": "single",
+		"artists": ["amphirion", "micro-d"],
+		"playlist": "PLBBE4BAECBC9D618B",
+		"date": "2010-03-14"
+	},
+	{
+		"id": "VB218",
+		"name": "The Eight Ronin",
+		"byline": "Various Artists",
+		"type": "single",
+		"artists": ["various-artists"],
+		"playlist": "PL25A67F365B3397C5",
+		"date": "2010"
+	},
+	{
+		"id": "VB219-1",
+		"name": "The Reconsidered",
+		"byline": "Frames of Reality",
+		"type": "single",
+		"artists": ["frames-of-reality"],
+		"date": "2010-04-18"
+	},
+	{
+		"id": "VB219-2",
+		"name": "Recapture",
+		"byline": "Frames of Reality",
+		"type": "album",
+		"artists": ["frames-of-reality"],
+		"playlist": "PL148863C80AE8AAD8",
+		"date": "2010-05-23"
+	},
+	{
+		"id": "VB220",
+		"name": "U.G.L.Y.",
+		"byline": "Yathosho",
+		"type": "compilation",
+		"artists": ["yathosho"],
+		"playlist": "PL7073FBE9AE1828AB",
+		"date": "2010"
+	},
+	{
+		"id": "VB221",
+		"name": "Untilted EP",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2010"
+	},
+	{
+		"id": "VB222-1",
+		"name": "Final Cut (Edits)",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2010"
+	},
+	{
+		"id": "VB222-2",
+		"name": "Final Cut",
+		"byline": "Yathosho",
+		"type": "album",
+		"artists": ["yathosho"],
+		"playlist": "PLEA56855A233740D7",
+		"date": "2010-04-19"
+	},
+	{
+		"id": "VB223",
+		"name": "Tentacliiism",
+		"byline": "Dynamic Duo",
+		"type": "compilation",
+		"artists": ["dynamic-duo"],
+		"geoblock": ["jp"],
+		"date": "2010"
+	},
+	{
+		"id": "VB224",
+		"name": "Nite Versions EP",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2010-05-19"
+	},
+	{
+		"id": "VB225",
+		"name": "Argon",
+		"byline": "Micro.D",
+		"type": "album",
+		"artists": ["micro-d"],
+		"playlist": "PL4CDE00B660BA8182",
+		"date": "2010"
+	},
+	{
+		"id": "VB226",
+		"name": "Unnatural Objects",
+		"byline": "Frames of Reality",
+		"type": "album",
+		"artists": ["frames-of-reality"],
+		"date": "2010-10-31"
+	},
+	{
+		"id": "VB227",
+		"name": "Tentacliiism EP",
+		"byline": "Dynamic Duo",
+		"type": "single",
+		"artists": ["dynamic-duo"],
+		"date": "2010"
+	},
+	{
+		"id": "VB228",
+		"name": "vs Amphirion - Pulse Remixes",
+		"byline": "Frames of Reality",
+		"type": "single",
+		"artists": ["frames-of-reality", "amphirion"],
+		"date": "2010-11-07"
+	},
+	{
+		"id": "VB229",
+		"name": "Pillow Fight EP",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2010-12-29"
+	},
+	{
+		"id": "VB230",
+		"name": "Tentaclivsm (The Mash-ups)",
+		"byline": "Dynamic Duo",
+		"type": "single",
+		"artists": ["dynamic-duo"],
+		"date": "2010"
+	},
+	{
+		"id": "VB231",
+		"name": "Hojojutsu EP",
+		"byline": "Dynamic Duo",
+		"type": "single",
+		"artists": ["dynamic-duo"],
+		"date": "2010"
+	},
+	{
+		"id": "VB232",
+		"name": "Final Cut Versions",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2010"
+	},
+	{
+		"id": "VB233",
+		"name": "Saller",
+		"byline": "Frames of Reality",
+		"type": "single",
+		"artists": ["frames-of-reality"],
+		"date": "2011-02-13"
+	},
+	{
+		"id": "VB234",
+		"name": "Effekthasch",
+		"byline": "Effekthasch",
+		"type": "album",
+		"artists": ["effekthasch"],
+		"playlist": "PL5962EA87E2F36A5E",
+		"date": "2011-04-10"
+	},
+	{
+		"id": "VB235",
+		"name": "Hentes",
+		"byline": "Frames of Reality",
+		"type": "single",
+		"artists": ["frames-of-reality"],
+		"date": "2011-05-08"
+	},
+	{
+		"id": "VB236",
+		"name": "Hegy",
+		"byline": "Frames of Reality",
+		"type": "single",
+		"artists": ["frames-of-reality"],
+		"date": "2011-05-26"
+	},
+	{
+		"id": "VB237",
+		"name": "Warping Droplets in a Cube EP",
+		"byline": "Micro.D",
+		"type": "single",
+		"artists": ["micro-d"],
+		"date": "2011"
+	},
+	{
+		"id": "VB238",
+		"name": "Négy",
+		"byline": "Frames of Reality",
+		"type": "single",
+		"artists": ["frames-of-reality"],
+		"date": "2011-07-02"
+	},
+	{
+		"id": "VB239",
+		"name": "Form & Function EP",
+		"byline": "Dynamic Duo",
+		"type": "single",
+		"artists": ["dynamic-duo"],
+		"date": "2011"
+	},
+	{
+		"id": "VB240",
+		"name": "DMe Sampler",
+		"byline": "Dynamic Duo",
+		"type": "single",
+		"artists": ["dynamic-duo"],
+		"date": "2011-12-07"
+	},
+	{
+		"id": "VB241",
+		"name": "Experiments in C Minor",
+		"byline": "Frames of Reality",
+		"type": "album",
+		"artists": ["frames-of-reality"],
+		"date": "2011"
+	},
+	{
+		"id": "VB242",
+		"name": "Gesamtwerk",
+		"byline": "Yathosho",
+		"type": "compilation",
+		"artists": ["yathosho"],
+		"date": "2012-04-19"
+	},
+	{
+		"id": "VB243",
+		"name": "Neon",
+		"byline": "Micro.D",
+		"type": "album",
+		"artists": ["micro-d"],
+		"playlist": "PLD39033719BC1AF8D",
+		"date": "2012"
+	},
+	{
+		"id": "VB244",
+		"name": "DDinJP",
+		"byline": "Dynamic Duo",
+		"type": "single",
+		"artists": ["dynamic-duo"],
+		"date": "2012"
+	},
+	{
+		"id": "VB245",
+		"name": "U.G.L.Y. Edits Zero",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2023-02-22"
+	},
+	{
+		"id": "VB246",
+		"name": "Moreizms EP",
+		"byline": "Dynamic Duo",
+		"type": "single",
+		"artists": ["dynamic-duo"],
+		"is_new": true,
+		"date": "2023-03-05"
+	},
+	{
+		"id": "VB247",
+		"name": "AM/PM EP",
+		"byline": "PAN AM",
+		"type": "single",
+		"artists": ["pan-am"],
+		"is_new": true,
+		"date": "2023-10-02"
+	},
+	{
+		"id": "VB248",
+		"name": "ALIAS-01",
+		"byline": "ALIAS",
+		"type": "single",
+		"artists": ["alias"],
+		"is_new": true,
+		"date": "2023-10-12"
+	},
+	{
+		"id": "VB249",
+		"name": "ALIAS-02",
+		"byline": "ALIAS",
+		"type": "single",
+		"artists": ["alias"],
+		"is_new": true,
+		"date": "2023-12-24"
+	},
+	{
+		"id": "VB250",
+		"name": "VISBOT 250",
+		"byline": "Various Artists",
+		"type": "single",
+		"artists": ["visbot"],
+		"tba": true
+	},
+	{
+		"id": "VC001",
+		"name": "The First Season",
+		"byline": "Various Artists",
+		"type": "compilation",
+		"artists": ["visbot"],
+		"playlist": "PLC8FC4703CEBD30EC",
+		"date": "2003-03-21"
+	},
+	{
+		"id": "VC002",
+		"name": "Watch out for this logo",
+		"byline": "Various Artists",
+		"type": "compilation",
+		"artists": ["visbot"],
+		"playlist": "PLF938CBA490D3A1CC",
+		"date": "2003-06-21"
+	},
+	{
+		"id": "VC003",
+		"name": "Four",
+		"byline": "Various Artists",
+		"type": "compilation",
+		"artists": ["visbot"],
+		"playlist": "PLB0DFD9CD2C749DCD",
+		"date": "2003-12-21"
+	},
+	{
+		"id": "VC004",
+		"name": "VISBOT meets Finnish Flash",
+		"byline": "Various Artists",
+		"type": "compilation",
+		"artists": ["visbot"],
+		"playlist": "PL882236B815654798",
+		"date": "2004-03-21"
+	},
+	{
+		"id": "VC005",
+		"name": "The Second Season",
+		"byline": "Various Artists",
+		"type": "compilation",
+		"artists": ["visbot"],
+		"playlist": "PL3E32B46E39B34287",
+		"date": "2004-06-21"
+	},
+	{
+		"id": "VC006",
+		"name": "Swindle all the way",
+		"byline": "Various Artists",
+		"type": "compilation",
+		"artists": ["visbot"],
+		"playlist": "PL5BA33A9FB25376CF",
+		"date": "2004-12-21"
+	},
+	{
+		"id": "VC007",
+		"name": "Meat to please you",
+		"byline": "Various Artists",
+		"type": "compilation",
+		"artists": ["visbot"],
+		"playlist": "PLEB6468F8EC199207",
+		"date": "2005-03-21"
+	},
+	{
+		"id": "VC008",
+		"name": "Better eight than never",
+		"byline": "Various Artists",
+		"type": "compilation",
+		"artists": ["visbot"],
+		"playlist": "PL2600E60B59C6765C",
+		"date": "2005-06-23"
+	},
+	{
+		"id": "VC009",
+		"name": "The Third Season",
+		"byline": "Various Artists",
+		"type": "compilation",
+		"artists": ["visbot"],
+		"playlist": "PLACAF686A0AC0C30E",
+		"date": "2005-09-21"
+	},
+	{
+		"id": "VC010",
+		"name": "VISBOT X",
+		"byline": "Various Artists",
+		"type": "compilation",
+		"artists": ["visbot"],
+		"playlist": "PLE783D5F6548538CE",
+		"date": "2005-12-21"
+	},
+	{
+		"id": "VC011",
+		"name": "Meeting old friends in a phone booth",
+		"byline": "Various Artists",
+		"type": "compilation",
+		"artists": ["visbot"],
+		"playlist": "PL92AC381C67AA7CA6",
+		"date": "2006-10-03"
+	},
+	{
+		"id": "VC012",
+		"name": "The Fourth Season",
+		"byline": "Various Artists",
+		"type": "compilation",
+		"artists": ["visbot"],
+		"playlist": "PL642065ACB7E2110E",
+		"date": "2006-12-21"
+	},
+	{
+		"id": "VC013",
+		"name": "Twopointoh",
+		"byline": "Various Artists",
+		"type": "compilation",
+		"artists": ["visbot"],
+		"playlist": "PL4C3F4E285C0A5F18",
+		"date": "2007-06-21"
+	},
+	{
+		"id": "VC014",
+		"name": "Smells, bells and presets",
+		"byline": "Various Artists",
+		"type": "compilation",
+		"artists": ["visbot"],
+		"playlist": "PL3BA8D5F35A73A50B",
+		"date": "2007-12-21"
+	},
+	{
+		"id": "VC015",
+		"name": "Fifteen",
+		"byline": "Various Artists",
+		"type": "compilation",
+		"artists": ["visbot"],
+		"playlist": "PL184798A15F12BBD8",
+		"date": "2007-06-24"
+	},
+	{
+		"id": "VC016",
+		"name": "Exit Claus",
+		"byline": "Various Artists",
+		"type": "compilation",
+		"artists": ["visbot"],
+		"playlist": "PL4826E8A539DDF07D",
+		"date": "2007-12-21"
+	},
+	{
+		"id": "VC017",
+		"name": "The least random number",
+		"byline": "Various Artists",
+		"type": "compilation",
+		"artists": ["visbot"],
+		"playlist": "PLAB2FB8426CC49B05",
+		"date": "2008-09-21"
+	},
+	{
+		"id": "VC018",
+		"name": "Coming off H",
+		"byline": "Various Artists",
+		"type": "compilation",
+		"artists": ["visbot"],
+		"playlist": "PL6F6FDC9175C11145",
+		"date": "2010-03-21"
+	},
+	{
+		"id": "VC019",
+		"name": "1999 A.D.",
+		"byline": "Various Artists",
+		"type": "compilation",
+		"artists": ["visbot"],
+		"playlist": "PL67836DCA9E5FAAB2",
+		"date": "2010-12-10"
+	},
+	{
+		"id": "VC020",
+		"name": "20/10 Vision",
+		"byline": "Various Artists",
+		"type": "compilation",
+		"artists": ["visbot"],
+		"playlist": "PL5060450D9F89D561",
+		"date": "2010-12-21"
+	},
+	{
+		"id": "VD001",
+		"name": "Dynamic Movement",
+		"byline": "Dynamic Duo",
+		"type": "compilation",
+		"artists": ["dynamic-duo"],
+		"playlist": "PL625D823907F98E2F",
+		"date": "2003-02-20"
+	},
+	{
+		"id": "VD002",
+		"name": "Dynamic Movement 2",
+		"byline": "Dynamic Duo",
+		"type": "compilation",
+		"artists": ["dynamic-duo"],
+		"playlist": "PL43458CBDD93D6888",
+		"date": "2003-07-07"
+	},
+	{
+		"id": "VD003",
+		"name": "Dynamic Movement 3",
+		"byline": "Dynamic Duo",
+		"type": "compilation",
+		"artists": ["dynamic-duo"],
+		"playlist": "PLEC5835FCDD2FC615",
+		"date": "2003-12-27"
+	},
+	{
+		"id": "VD004",
+		"name": "Dynamic Movement 4",
+		"byline": "Dynamic Duo",
+		"type": "compilation",
+		"artists": ["dynamic-duo"],
+		"playlist": "PLFA78843268BDF94A",
+		"date": "2004-04-11"
+	},
+	{
+		"id": "VD005",
+		"name": "Dynamic Movement 5",
+		"byline": "Dynamic Duo",
+		"type": "compilation",
+		"artists": ["dynamic-duo"],
+		"playlist": "PL35016698194E1981",
+		"date": "2005-11-27"
+	},
+	{
+		"id": "VD006",
+		"name": "Dynamic Movement 6",
+		"byline": "Dynamic Duo",
+		"type": "compilation",
+		"artists": ["dynamic-duo"],
+		"playlist": "PL89E6822BDFB95176",
+		"date": "2006-09-16"
+	},
+	{
+		"id": "VD007",
+		"name": "Dynamic Movement 7",
+		"byline": "Dynamic Duo",
+		"type": "compilation",
+		"artists": ["dynamic-duo"],
+		"playlist": "PL187F3B71835806BC",
+		"date": "2007-12-27"
+	},
+	{
+		"id": "VD008",
+		"name": "Dynamic Movement Epilogue",
+		"byline": "Dynamic Duo",
+		"type": "compilation",
+		"artists": ["dynamic-duo"],
+		"playlist": "PLCC40DC034133B14E",
+		"date": "2012-07-21"
+	},
+	{
+		"id": "VE001",
+		"name": "Black Noobiens",
+		"byline": "les Noobiens",
+		"type": "compilation",
+		"artists": ["les-noobiens"]
+	},
+	{
+		"id": "VE002",
+		"name": "Minidisko",
+		"byline": "Yathosho",
+		"type": "compilation",
+		"artists": ["yathosho"],
+		"date": "2004-09-25"
+	},
+	{
+		"id": "VE003",
+		"name": "Get customized",
+		"byline": "Yathosho",
+		"type": "compilation",
+		"artists": ["yathosho"],
+		"date": "2004-11-28"
+	},
+	{
+		"id": "VE004",
+		"name": "Black Noobiens 2",
+		"byline": "les Noobiens",
+		"type": "compilation",
+		"artists": ["les-noobiens"]
+	},
+	{
+		"id": "VE005-1",
+		"name": "gc2EP",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2005-09-06"
+	},
+	{
+		"id": "VE005-2",
+		"name": "Get customized 2",
+		"byline": "Yathosho",
+		"type": "compilation",
+		"artists": ["yathosho"],
+		"date": "2005-10-21"
+	},
+	{
+		"id": "VE006",
+		"name": "Black Noobiens 3",
+		"byline": "les Noobiens",
+		"type": "compilation",
+		"artists": ["les-noobiens"],
+		"date": "2006-02-09"
+	},
+	{
+		"id": "VE007",
+		"name": "Refocused",
+		"byline": "AVS-King",
+		"type": "compilation",
+		"artists": ["avs-king"]
+	},
+	{
+		"id": "VE008-1",
+		"name": "gc3EP",
+		"byline": "Yathosho",
+		"type": "single",
+		"artists": ["yathosho"],
+		"date": "2006-10-15"
+	},
+	{
+		"id": "VE008-2",
+		"name": "Get customized 3",
+		"byline": "Yathosho",
+		"type": "compilation",
+		"artists": ["yathosho"],
+		"date": "2006-12-24"
+	},
+	{
+		"id": "VE009",
+		"name": "Get customized 4",
+		"byline": "Yathosho",
+		"type": "compilation",
+		"artists": ["yathosho"]
+	},
+	{
+		"id": "VE010",
+		"name": "Les antipodes",
+		"byline": "Yathosho",
+		"type": "compilation",
+		"artists": ["yathosho"],
+		"date": "2010-08-31"
+	},
+	{
+		"id": "VE011-1",
+		"name": "EPs 2003-2005",
+		"byline": "Dynamic Duo",
+		"type": "compilation",
+		"artists": ["dynamic-duo"],
+		"date": "2011-02-18"
+	},
+	{
+		"id": "VE011-2",
+		"name": "EPs 2006-2009",
+		"byline": "Dynamic Duo",
+		"type": "compilation",
+		"artists": ["dynamic-duo"],
+		"date": "2011-04-04"
+	}
 ]

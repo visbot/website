@@ -1,31 +1,27 @@
 {
-    "name": "VISBOT Refocused Part 3",
-    "id": "VB117-3",
-    "presets": [
-        {
-            "file": "VISBOT/VISBOT Refocused/e1 avs-king - spiralkingdom (nemo mix).avs",
-            "size": 3247,
-            "checksum": "sha256:3fd27705d5602d0e2adc47edce48dc55d373e71181a9848b66cd956060af125b"
-        },
-        {
-            "file": "VISBOT/VISBOT Refocused/e2 avs-king - laserland (yathosho's calm version).avs",
-            "size": 2923,
-            "checksum": "sha256:1309e9366231537456ac3a601d17c8d974b5c40c53b6209d6b4f723633da0b08"
-        },
-        {
-            "file": "VISBOT/VISBOT Refocused/f1 avs-king - fill my head with poison (yathosho's insecticide flavour).avs",
-            "size": 3429,
-            "checksum": "sha256:7de684f0dbeeebc3525f573f1684d70f4656dc638b5befff0a419f85b75f3223"
-        },
-        {
-            "file": "VISBOT/VISBOT Refocused/f2 avs-king - made with real pimps (nemo mix).avs",
-            "size": 1814,
-            "checksum": "sha256:5acdfe9cebc9873b37d7c8eb0f396771ce539d4535fed6eef8251db0f3c74831"
-        }
-    ],
-    "plugins": [
-        "ColorMap",
-        "ColorReduction",
-        "ConvolutionFilter"
-    ]
+	"name": "VISBOT Refocused Part 3",
+	"id": "VB117-3",
+	"presets": [
+		{
+			"file": "VISBOT/VISBOT Refocused/e1 avs-king - spiralkingdom (nemo mix).avs",
+			"size": 3247,
+			"checksum": "sha256:3fd27705d5602d0e2adc47edce48dc55d373e71181a9848b66cd956060af125b"
+		},
+		{
+			"file": "VISBOT/VISBOT Refocused/e2 avs-king - laserland (yathosho's calm version).avs",
+			"size": 2923,
+			"checksum": "sha256:1309e9366231537456ac3a601d17c8d974b5c40c53b6209d6b4f723633da0b08"
+		},
+		{
+			"file": "VISBOT/VISBOT Refocused/f1 avs-king - fill my head with poison (yathosho's insecticide flavour).avs",
+			"size": 3429,
+			"checksum": "sha256:7de684f0dbeeebc3525f573f1684d70f4656dc638b5befff0a419f85b75f3223"
+		},
+		{
+			"file": "VISBOT/VISBOT Refocused/f2 avs-king - made with real pimps (nemo mix).avs",
+			"size": 1814,
+			"checksum": "sha256:5acdfe9cebc9873b37d7c8eb0f396771ce539d4535fed6eef8251db0f3c74831"
+		}
+	],
+	"plugins": ["ColorMap", "ColorReduction", "ConvolutionFilter"]
 }

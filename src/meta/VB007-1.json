@@ -1,29 +1,27 @@
 {
-    "name": "LP7Ra",
-    "id": "VB007-1",
-    "presets": [
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP7Ra - iiVii/a01 - duo - curvism 002 (sensualistic remix).avs",
-            "size": 1316,
-            "checksum": "sha256:fda89a6cdc7e6b6eb006e749a2b742f2a16bd7c33ea11e7296edeeae34a0e60c"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP7Ra - iiVii/a02 - yathosho - metallic funk appliance (yathosho's gewebeprobenmix).avs",
-            "size": 1538,
-            "checksum": "sha256:aaa22169797f3aec1c82b6e93e94a00d9f0fff59ffac2042fc4bebe8362d5a0c"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP7Ra - iiVii/b01 - nemoorange - inverse kinetics (remix).avs",
-            "size": 2942,
-            "checksum": "sha256:0659292656ccaf1df59a6ea22b92d93e3f52a03ead9ac135c8bb7070ae11fe10"
-        },
-        {
-            "file": "S_KuPeRS/S_KuPeRS - LP7Ra - iiVii/b02 - yathosho - untitled 031 (yathosho's dirty sci-fi mix).avs",
-            "size": 2136,
-            "checksum": "sha256:ae0b3406aa2524405bf6708ed2859d3e486be50052f705d41ac1e313d708c869"
-        }
-    ],
-    "plugins": [
-        "ConvolutionFilter"
-    ]
+	"name": "LP7Ra",
+	"id": "VB007-1",
+	"presets": [
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP7Ra - iiVii/a01 - duo - curvism 002 (sensualistic remix).avs",
+			"size": 1316,
+			"checksum": "sha256:fda89a6cdc7e6b6eb006e749a2b742f2a16bd7c33ea11e7296edeeae34a0e60c"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP7Ra - iiVii/a02 - yathosho - metallic funk appliance (yathosho's gewebeprobenmix).avs",
+			"size": 1538,
+			"checksum": "sha256:aaa22169797f3aec1c82b6e93e94a00d9f0fff59ffac2042fc4bebe8362d5a0c"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP7Ra - iiVii/b01 - nemoorange - inverse kinetics (remix).avs",
+			"size": 2942,
+			"checksum": "sha256:0659292656ccaf1df59a6ea22b92d93e3f52a03ead9ac135c8bb7070ae11fe10"
+		},
+		{
+			"file": "S_KuPeRS/S_KuPeRS - LP7Ra - iiVii/b02 - yathosho - untitled 031 (yathosho's dirty sci-fi mix).avs",
+			"size": 2136,
+			"checksum": "sha256:ae0b3406aa2524405bf6708ed2859d3e486be50052f705d41ac1e313d708c869"
+		}
+	],
+	"plugins": ["ConvolutionFilter"]
 }

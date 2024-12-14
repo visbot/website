@@ -1,30 +1,27 @@
 {
-    "name": "whyEye.org the unconed mixes",
-    "id": "VB060",
-    "presets": [
-        {
-            "file": "whyEye.org/whyEye.org the unconed mixes/yiA1__going up-n-down (spitze lakritze, yathosho!).avs",
-            "size": 2517,
-            "checksum": "sha256:f9d893bde8e5a31c21d77b3c9ef39dae14332d30501a5a7f01cd1d09adf0d7eb"
-        },
-        {
-            "file": "whyEye.org/whyEye.org the unconed mixes/yiA2__cartoon trip (yathosho takes a smoke).avs",
-            "size": 3134,
-            "checksum": "sha256:adee4cb9a5aeb05920606c89d3bc811d3dae7f7e12420bba31d9223de3972828"
-        },
-        {
-            "file": "whyEye.org/whyEye.org the unconed mixes/yiB1__cartoon trip (yathosho takes b smoke).avs",
-            "size": 2764,
-            "checksum": "sha256:72ac90e7452164a2e786f0f22a1469f78d2ee679c7afdd873e3579b832943dcf"
-        },
-        {
-            "file": "whyEye.org/whyEye.org the unconed mixes/yiB2__going up-n-down (spitze tapete, yathosho!).avs",
-            "size": 2587,
-            "checksum": "sha256:41823f13b5fa2ee695abde04f900dca753658156e42109f4d4d742fd7a622c79"
-        }
-    ],
-    "plugins": [
-        "ColorMap",
-        "ConvolutionFilter"
-    ]
+	"name": "whyEye.org the unconed mixes",
+	"id": "VB060",
+	"presets": [
+		{
+			"file": "whyEye.org/whyEye.org the unconed mixes/yiA1__going up-n-down (spitze lakritze, yathosho!).avs",
+			"size": 2517,
+			"checksum": "sha256:f9d893bde8e5a31c21d77b3c9ef39dae14332d30501a5a7f01cd1d09adf0d7eb"
+		},
+		{
+			"file": "whyEye.org/whyEye.org the unconed mixes/yiA2__cartoon trip (yathosho takes a smoke).avs",
+			"size": 3134,
+			"checksum": "sha256:adee4cb9a5aeb05920606c89d3bc811d3dae7f7e12420bba31d9223de3972828"
+		},
+		{
+			"file": "whyEye.org/whyEye.org the unconed mixes/yiB1__cartoon trip (yathosho takes b smoke).avs",
+			"size": 2764,
+			"checksum": "sha256:72ac90e7452164a2e786f0f22a1469f78d2ee679c7afdd873e3579b832943dcf"
+		},
+		{
+			"file": "whyEye.org/whyEye.org the unconed mixes/yiB2__going up-n-down (spitze tapete, yathosho!).avs",
+			"size": 2587,
+			"checksum": "sha256:41823f13b5fa2ee695abde04f900dca753658156e42109f4d4d742fd7a622c79"
+		}
+	],
+	"plugins": ["ColorMap", "ConvolutionFilter"]
 }
