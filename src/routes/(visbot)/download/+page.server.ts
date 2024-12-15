@@ -3,10 +3,6 @@ import fetch from 'cross-fetch';
 
 /** @type {import('./$types').LayoutServerLoad} */
 export async function load({ url }) {
-	if (url.hostname === 'archive.visbot.net') {
-		redirect(302, 'https://visbot.net/archive');
-	}
-
 	const file = getFile(url.href);
 
 	redirect(302, `https://files.visbot.net/packs/${file}`);
