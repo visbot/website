@@ -10,6 +10,12 @@
 		</li>
 
 		<li>
+			<a href="/archive" class="highlight" title="The VISBOT archive">
+				<span>Archive</span>
+			</a>
+		</li>
+
+		<li>
 			<a
 				href="https://mastodon.social/@visbot"
 				class="highlight"
