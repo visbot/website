@@ -2,10 +2,12 @@ import { redirect } from '@sveltejs/kit';
 import fetch from 'cross-fetch';
 
 /** @type {import('./$types').LayoutServerLoad} */
-export async function load(event) {
-	// trackDownload(event.url);
+export async function load({ url }) {
+	if (url.hostname === 'archive.visbot.net') {
+		redirect(302, 'https://visbot.net/archive');
+	}
 
-	const file = getFile(event.url.href);
+	const file = getFile(url.href);
 
 	redirect(302, `https://files.visbot.net/packs/${file}`);
 }
