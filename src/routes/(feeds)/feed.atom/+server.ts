@@ -1,4 +1,4 @@
-import metaData from '$/meta.jsonc';
+import metaData from '$data/meta.jsonc';
 import { createFeed } from '$lib/feed';
 
 const feed = createFeed(metaData);

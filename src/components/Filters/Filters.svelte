@@ -4,7 +4,7 @@
 	import { goto } from '$app/navigation';
 	import { members } from '$lib/config';
 	import { onMount } from 'svelte';
-	import metaData from '../../meta.jsonc';
+	import metaData from '$data/meta.jsonc';
 
 	const searchParams = new URLSearchParams($page.url.search);
 	let searchInput = $state();
