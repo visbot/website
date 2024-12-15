@@ -16,11 +16,12 @@ const config = {
 	kit: {
 		adapter: getAdapter(),
 		paths: {
-			base: process.env.GITHUB_WORKFLOW ? process.env.BASE_PATH : undefined,
+			base: process.env.GITHUB_WORKFLOW ? process.env.BASE_PATH : undefined
 		},
 		alias: {
 			$: resolve('./src'),
 			$components: resolve('./src/components'),
+			$data: resolve('./src/data'),
 			$meta: resolve('./src/meta'),
 			$stores: resolve('./src/stores')
 		}
