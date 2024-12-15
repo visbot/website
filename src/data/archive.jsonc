@@ -1,0 +1,3992 @@
+[
+	{
+		"name": "acid-trip.7z",
+		"relativePath": "acid",
+		"modifiedDate": "2024-12-15T19:49:43.773Z",
+		"size": 184310,
+		"sha256": "5d248bde14f4519764391bc0fc99694d994afa7601f3cf3df1ae5bc0992a9099"
+	},
+	{
+		"name": "remix_pack.7z",
+		"relativePath": "acid",
+		"modifiedDate": "2024-12-15T19:49:43.774Z",
+		"size": 74416,
+		"sha256": "1528c1ba152a4e77b57eff0f7369b8937f72be4d7e934596d941a23ab1406a18"
+	},
+	{
+		"name": "glimpses.7z",
+		"relativePath": "amphirion",
+		"modifiedDate": "2024-12-15T19:49:43.774Z",
+		"size": 2415,
+		"sha256": "d24b09050989cecd13a4c26a55d4fa22155dfa7701b482fc89413236d81ee879"
+	},
+	{
+		"name": "incipience.7z",
+		"relativePath": "amphirion",
+		"modifiedDate": "2024-12-15T19:49:43.774Z",
+		"size": 17211,
+		"sha256": "4d72fa386dd2de979208faa8140065689468643492198d79f26df5eecd69997e"
+	},
+	{
+		"name": "mp1-UNOFFICIAL.7z",
+		"relativePath": "amphirion",
+		"modifiedDate": "2024-12-15T19:49:43.774Z",
+		"size": 1818,
+		"sha256": "9887ad18215ac8c4ef96bcda5bc10a2ed539d7f753da02bc96ae96d6ee9cb675"
+	},
+	{
+		"name": "mp2.zip",
+		"relativePath": "amphirion",
+		"modifiedDate": "2024-12-15T19:49:43.775Z",
+		"size": 37503,
+		"sha256": "6c39d908f05dc0cda73c81be4f24da057778cbd1b1decc3f43ea41f7da16b42d"
+	},
+	{
+		"name": "progression_mp.7z",
+		"relativePath": "amphirion",
+		"modifiedDate": "2024-12-15T19:49:43.775Z",
+		"size": 2899,
+		"sha256": "758cf5d2393513a9c11f5478e25e871cac4f39da9654ccebbaddf82330daf4e5"
+	},
+	{
+		"name": "Anotherversion_Deux.7z",
+		"relativePath": "anotherversion",
+		"modifiedDate": "2024-12-15T19:49:43.775Z",
+		"size": 172138,
+		"sha256": "64ac529bfd3893885a9c5ab3f7fdec08560f61c37c964c93544f47577549e397"
+	},
+	{
+		"name": "Anotherversion_Re-volution.7z",
+		"relativePath": "anotherversion",
+		"modifiedDate": "2024-12-15T19:49:43.775Z",
+		"size": 139738,
+		"sha256": "5bc3800ffdad4e70ef6ecc6d7768056fc69c1482e16bad9ddb6c9a9a3d3c6503"
+	},
+	{
+		"name": "Anotherversion_Reloads.7z",
+		"relativePath": "anotherversion",
+		"modifiedDate": "2024-12-15T19:49:43.776Z",
+		"size": 53958,
+		"sha256": "df36408922a27c7de0b494be5c9202fbfbe70b1d63757b7c54e15e9680191c66"
+	},
+	{
+		"name": "Anotherversion_v1.7z",
+		"relativePath": "anotherversion",
+		"modifiedDate": "2024-12-15T19:49:43.776Z",
+		"size": 51699,
+		"sha256": "c469c97852523ba35a7071cecf59d855175141ca49f40a2dc962e0afbd4db50b"
+	},
+	{
+		"name": "visual_nosh.7z",
+		"relativePath": "asd5a",
+		"modifiedDate": "2024-12-15T19:49:43.776Z",
+		"size": 172075,
+		"sha256": "1de17b0ec1fe11f74cad5205b28688aa3365f0bb83c5adc1f19bddbf14b1350c"
+	},
+	{
+		"name": "AVSPrimer.7z",
+		"relativePath": "atero",
+		"modifiedDate": "2024-12-15T19:49:43.776Z",
+		"size": 47414,
+		"sha256": "2d0c17919bc2e1900e932bdde133437c015287279b1aa4125b1fb32185c0dd9b"
+	},
+	{
+		"name": "TheForwardFlow1.7z",
+		"relativePath": "atero",
+		"modifiedDate": "2024-12-15T19:49:43.776Z",
+		"size": 104450,
+		"sha256": "56c0ae822b84fba2415e6e715d8231012b04ac205ab4c25ae15ee1351db0d554"
+	},
+	{
+		"name": "TheForwardFlow2.7z",
+		"relativePath": "atero",
+		"modifiedDate": "2024-12-15T19:49:43.777Z",
+		"size": 174940,
+		"sha256": "3c55033d150642175053efbd01eaf3d953950ce64476abef10d37cb8b5e7a116"
+	},
+	{
+		"name": "TheForwardFlow3.7z",
+		"relativePath": "atero",
+		"modifiedDate": "2024-12-15T19:49:43.777Z",
+		"size": 207387,
+		"sha256": "a76f820d36c0b3946ddddbd5bc583ab89220dffc6d5bb6a5e8dc27b6aa39e0f4"
+	},
+	{
+		"name": "Meltdown-UNOFFICIAL.7z",
+		"relativePath": "avs-ike",
+		"modifiedDate": "2024-12-15T19:49:43.777Z",
+		"size": 8968,
+		"sha256": "fa7132ad82f2f5e568ef85268312d7fda1ba2c83e0137024921e4f69d627614d"
+	},
+	{
+		"name": "Platinum-UNOFFICIAL.7z",
+		"relativePath": "avs-ike",
+		"modifiedDate": "2024-12-15T19:49:43.778Z",
+		"size": 3486,
+		"sha256": "5e6f6f5f8d25dbede8da9b49a3a01e0e6c15e98b26f3458e899336b258ca16f8"
+	},
+	{
+		"name": "The_Final_Pack-UNOFFICIAL.7z",
+		"relativePath": "avs-ike",
+		"modifiedDate": "2024-12-15T19:49:43.778Z",
+		"size": 9486,
+		"sha256": "9b0a104415a4fec89784e913b0280081d1c7e13a1bb33ce2ef1afe4d16abccca"
+	},
+	{
+		"name": "Total_Domination-UNOFFICIAL.7z",
+		"relativePath": "avs-ike",
+		"modifiedDate": "2024-12-15T19:49:43.778Z",
+		"size": 37564,
+		"sha256": "befd8a9b2669bb48e6aa2e345d7676f9bd844851b5c06780b316b956f20b3e64"
+	},
+	{
+		"name": "Focus.7z",
+		"relativePath": "avs-king",
+		"modifiedDate": "2024-12-15T19:49:43.778Z",
+		"size": 23948,
+		"sha256": "7ec70c464b57ac893e563c9da666627192fd35470f653743293a457912df3196"
+	},
+	{
+		"name": "Focus2.7z",
+		"relativePath": "avs-king",
+		"modifiedDate": "2024-12-15T19:49:43.778Z",
+		"size": 456929,
+		"sha256": "1c952497bd9001d3d1da62efdb69ff8c2bb36d36c6b3cd684c24affe92feae4e"
+	},
+	{
+		"name": "Focus3.7z",
+		"relativePath": "avs-king",
+		"modifiedDate": "2024-12-15T19:49:43.779Z",
+		"size": 34610,
+		"sha256": "da36c3da52fe61072907f76d3e535054c3f8bbf457454cb5ca86e3df9e65ecf1"
+	},
+	{
+		"name": "Focus4.7z",
+		"relativePath": "avs-king",
+		"modifiedDate": "2024-12-15T19:49:43.779Z",
+		"size": 40519,
+		"sha256": "50f15578bed483505e30b0215576f89494ab100de4d843b98b14a15d500d9511"
+	},
+	{
+		"name": "Galacticon.7z",
+		"relativePath": "avs-king",
+		"modifiedDate": "2024-12-15T19:49:43.779Z",
+		"size": 16443,
+		"sha256": "79d30d0649ecf963d5a0e3005b00f61498bcbe5b6d54ad720e799f344d9a350e"
+	},
+	{
+		"name": "Refocused.7z",
+		"relativePath": "avs-king",
+		"modifiedDate": "2024-12-15T19:49:43.779Z",
+		"size": 67204,
+		"sha256": "8dbd4438664807bf7c967ea864c9f7e7286c8bda7897e0d7afa5f7bc4df15f95"
+	},
+	{
+		"name": "The_Tributes.7z",
+		"relativePath": "avs-king",
+		"modifiedDate": "2024-12-15T19:49:43.779Z",
+		"size": 4870,
+		"sha256": "4a60541f394d80bd1b7f116daf2018f5ca2297168212b80e999e4e731e77607d"
+	},
+	{
+		"name": "8_ronin.7z",
+		"relativePath": "avsociety",
+		"modifiedDate": "2024-12-15T19:49:43.779Z",
+		"size": 210096,
+		"sha256": "4bce649d2aac333176526f1f5732ca95a657a51cedea087c65c9af975a740690"
+	},
+	{
+		"name": "Anthology.7z",
+		"relativePath": "avsociety",
+		"modifiedDate": "2024-12-15T19:49:43.780Z",
+		"size": 298981,
+		"sha256": "1f0f4ffcd1a278e00d3dc4540709de82466a0e652a52d87037e0ff3114aa356b"
+	},
+	{
+		"name": "B2F_Originals.7z",
+		"relativePath": "avsociety",
+		"modifiedDate": "2024-12-15T19:49:43.780Z",
+		"size": 52167,
+		"sha256": "d0e7354e71fa44277c1fb16795bbce1f1303fe7962548c2e5a80ca437ddd6030"
+	},
+	{
+		"name": "B2F_Remixes.7z",
+		"relativePath": "avsociety",
+		"modifiedDate": "2024-12-15T19:49:43.780Z",
+		"size": 82832,
+		"sha256": "358356d233c5478cefa43509543a32726ded1397d6350ab9c28c95eb73100ed1"
+	},
+	{
+		"name": "Back2Future.7z",
+		"relativePath": "avsociety",
+		"modifiedDate": "2024-12-15T19:49:43.780Z",
+		"size": 60979,
+		"sha256": "e05f99dadc13a0b35c7f1c487dd412b5f2601db8efc740052adb286a599a0739"
+	},
+	{
+		"name": "Renaissance.7z",
+		"relativePath": "avsociety",
+		"modifiedDate": "2024-12-15T19:49:43.780Z",
+		"size": 265639,
+		"sha256": "d19b820bb60b56d994ec207905a6666949cde635326e5e6f081ce8c21f030ba5"
+	},
+	{
+		"name": "ninja_avs.7z",
+		"relativePath": "avsociety",
+		"modifiedDate": "2024-12-15T19:49:43.780Z",
+		"size": 121898,
+		"sha256": "a10c8998f1e2949384aa3619f2ebb5d72e1bb6ad8edc83dcbc246624086077de"
+	},
+	{
+		"name": "Datura_Strammonium-UNOFFICIAL.7z",
+		"relativePath": "catminddo",
+		"modifiedDate": "2024-12-15T19:49:43.781Z",
+		"size": 3896,
+		"sha256": "11067ea8c2fd4bb56a99178397b9edf2723a6137dbd4934fa42019f6ba9d5c67"
+	},
+	{
+		"name": "MarcoAVS-UNOFFICIAL.7z",
+		"relativePath": "catminddo",
+		"modifiedDate": "2024-12-15T19:49:43.781Z",
+		"size": 8401,
+		"sha256": "acef0b9c899e57c429fca73c0b0610b6684786eb3ccd60b0b70d220a74191db8"
+	},
+	{
+		"name": "Oloqui-UNOFFICIAL.7z",
+		"relativePath": "catminddo",
+		"modifiedDate": "2024-12-15T19:49:43.781Z",
+		"size": 24121,
+		"sha256": "2ac277df25178ada4f6ac86cbc75ae2452f515da91f06187bf03a4ad30b3abdd"
+	},
+	{
+		"name": "Resurrection_from_Brown_Sugar-UNOFFICIAL.7z",
+		"relativePath": "catminddo",
+		"modifiedDate": "2024-12-15T19:49:43.781Z",
+		"size": 32476,
+		"sha256": "1f1f3e6f08cec0cd49c0cd7203590c766615b78d0aca341185be047ef7ecd34e"
+	},
+	{
+		"name": "Super_StyleZ.7z",
+		"relativePath": "dAsn00b",
+		"modifiedDate": "2024-12-15T19:49:43.781Z",
+		"size": 3943,
+		"sha256": "36f8816825c398a88b7027d03d761f3bba7f4b7b361829a28a397876f99ab8b3"
+	},
+	{
+		"name": "dasn00b_pack2.7z",
+		"relativePath": "dAsn00b",
+		"modifiedDate": "2024-12-15T19:49:43.782Z",
+		"size": 3473,
+		"sha256": "3a229ef6396c47f6376080bb2d25fb47bd9c15ba014ece640dffbd42802cea79"
+	},
+	{
+		"name": "extreme_dammage_avs_pak.7z",
+		"relativePath": "dAsn00b",
+		"modifiedDate": "2024-12-15T19:49:43.782Z",
+		"size": 5494,
+		"sha256": "f7f8af8adb8e5629a4db84bfb5bea475dede3d400f4751a8bcab6be406bb9be6"
+	},
+	{
+		"name": "colorfade_minipack.7z",
+		"relativePath": "da7id",
+		"modifiedDate": "2024-12-15T19:49:43.782Z",
+		"size": 44382,
+		"sha256": "99febc6839dc147822e31d3b50b7f38554903450a6e653d7045953af3301aa21"
+	},
+	{
+		"name": "pAcknOTo.7z",
+		"relativePath": "da7id",
+		"modifiedDate": "2024-12-15T19:49:43.782Z",
+		"size": 81155,
+		"sha256": "48cb3ec45d733065d08565f780ab0a5ce602bf3a7fe05dcc66d55038884996b5"
+	},
+	{
+		"name": "DA7T.7z",
+		"relativePath": "daftcunt",
+		"modifiedDate": "2024-12-15T19:49:43.782Z",
+		"size": 1211,
+		"sha256": "722984ceb2d3bfe787e65184ff9b9cd8df9466f39867814e34bcad1d33d4136c"
+	},
+	{
+		"name": "Grim_Up_North.7z",
+		"relativePath": "daftcunt",
+		"modifiedDate": "2024-12-15T19:49:43.782Z",
+		"size": 24841,
+		"sha256": "f495436346d0872ba32527740c8bb2a46cbe21410266557c509f519c505ed427"
+	},
+	{
+		"name": "Homejerk-UNOFFICIAL.7z",
+		"relativePath": "daftcunt",
+		"modifiedDate": "2024-12-15T19:49:43.783Z",
+		"size": 4795,
+		"sha256": "e5c78058d9a3b1df09dab3fc67b0cdd9b0959ad5910c4268ee153a258c3f4043"
+	},
+	{
+		"name": "Homejxrk.7z",
+		"relativePath": "daftcunt",
+		"modifiedDate": "2024-12-15T19:49:43.783Z",
+		"size": 35785,
+		"sha256": "1f334c2ffe67a7743b518d830655d8b838f7609405dc3d64517303776e218f13"
+	},
+	{
+		"name": "helsinki01-UNOFFICIAL.7z",
+		"relativePath": "daftcunt",
+		"modifiedDate": "2024-12-15T19:49:43.783Z",
+		"size": 1319,
+		"sha256": "fb95200dab1f00375092d5b366d54290590b0d7437fcf11f114d65a1fce95fcb"
+	},
+	{
+		"name": "helsinki02-UNOFFICIAL.7z",
+		"relativePath": "daftcunt",
+		"modifiedDate": "2024-12-15T19:49:43.783Z",
+		"size": 1888,
+		"sha256": "f9a21447899afd55be8b6a425e206d1f6620c69f391f3c8225d9d6def6d9fe37"
+	},
+	{
+		"name": "helsinki03-UNOFFICIAL.7z",
+		"relativePath": "daftcunt",
+		"modifiedDate": "2024-12-15T19:49:43.783Z",
+		"size": 2923,
+		"sha256": "38470d57c1652a3d83831fadc94211e1ee91e5d4d57c8edf4434da1e71db7072"
+	},
+	{
+		"name": "AMIGAN fx.7z",
+		"relativePath": "danjoe",
+		"modifiedDate": "2024-12-15T19:49:43.783Z",
+		"size": 330826,
+		"sha256": "19d09df8c2bb1bc667d5fada9417ed4041e22ead022ca2367b382711c2459644"
+	},
+	{
+		"name": "Hot AVS.7z",
+		"relativePath": "danjoe",
+		"modifiedDate": "2024-12-15T19:49:43.783Z",
+		"size": 29180,
+		"sha256": "bbc4800745682bc438c19a0f1a7bb36fc947e6cc3711f006910f0a7d77cf67a8"
+	},
+	{
+		"name": "Mx.7z",
+		"relativePath": "danjoe",
+		"modifiedDate": "2024-12-15T19:49:43.784Z",
+		"size": 168944,
+		"sha256": "766e8585c1f07fdbbf06a5ebcdc06f3340a3b5d130ec9c43eb88220e5231f3c2"
+	},
+	{
+		"name": "O N E.7z",
+		"relativePath": "danjoe",
+		"modifiedDate": "2024-12-15T19:49:43.784Z",
+		"size": 800475,
+		"sha256": "550d79c2d291be0f75186561e90109a9ce5b79242162cc9a92da9f03ffc9a5eb"
+	},
+	{
+		"name": "dark_avs1.7z",
+		"relativePath": "darkmatter",
+		"modifiedDate": "2024-12-15T19:49:43.784Z",
+		"size": 49660,
+		"sha256": "a5caf23da7b7131e8ba5c707cc0fb4ba951f2490bffd9dddb66f888aadf2e654"
+	},
+	{
+		"name": "dark_avs2.7z",
+		"relativePath": "darkmatter",
+		"modifiedDate": "2024-12-15T19:49:43.784Z",
+		"size": 13405,
+		"sha256": "0f8c1af52fedb8c20392175de6745885480f25d08b80f5345be640186f7174a9"
+	},
+	{
+		"name": "dark_avs3mp.7z",
+		"relativePath": "darkmatter",
+		"modifiedDate": "2024-12-15T19:49:43.785Z",
+		"size": 8612,
+		"sha256": "a1eba7e9560b40ef6a11d689c857bbf12aea0bac9bfe4a3d60818f55e6564f5a"
+	},
+	{
+		"name": "dark_avs4.7z",
+		"relativePath": "darkmatter",
+		"modifiedDate": "2024-12-15T19:49:43.785Z",
+		"size": 80012,
+		"sha256": "faaff0e882a0eb457dc886b31cf2371aec2c19ee1d0da85a43a13f1fa8a65a87"
+	},
+	{
+		"name": "dark_avs5.7z",
+		"relativePath": "darkmatter",
+		"modifiedDate": "2024-12-15T19:49:43.785Z",
+		"size": 15863,
+		"sha256": "45204d7eda94f8bc0a8d9f64a73c4b1be814762f3262249e03757bc85d59016a"
+	},
+	{
+		"name": "dark_avs6.7z",
+		"relativePath": "darkmatter",
+		"modifiedDate": "2024-12-15T19:49:43.785Z",
+		"size": 9002,
+		"sha256": "b1c842a194c4c9a10226370d07fe349a9badd9d836b5318b10a7d1ec53f83682"
+	},
+	{
+		"name": "Heat.7z",
+		"relativePath": "deamon",
+		"modifiedDate": "2024-12-15T19:49:43.785Z",
+		"size": 41055,
+		"sha256": "75610add74c9134ce40ade8ff411ee54dad41bc54ac32603b6c7675343504641"
+	},
+	{
+		"name": "HyperNation.7z",
+		"relativePath": "deamon",
+		"modifiedDate": "2024-12-15T19:49:43.786Z",
+		"size": 688905,
+		"sha256": "5d72ebe576d37da015eb8cee81aa0fea89033fca5004ef5a337de68127b56a53"
+	},
+	{
+		"name": "Thermal.7z",
+		"relativePath": "deamon",
+		"modifiedDate": "2024-12-15T19:49:43.786Z",
+		"size": 126430,
+		"sha256": "a13de0cfb2c339ae8ea213c946bba1b184c77d414a1568d0c7def60a75f1edf6"
+	},
+	{
+		"name": "default_presets.7z",
+		"relativePath": "",
+		"modifiedDate": "2024-12-15T19:49:43.786Z",
+		"size": 70919,
+		"sha256": "2bf92ed21d858a4ab7c936e0316ff783378353b31895c79d381697a1ea51bc7a"
+	},
+	{
+		"name": "Arnold_and_Fatso4.7z",
+		"relativePath": "degnic",
+		"modifiedDate": "2024-12-15T19:49:43.786Z",
+		"size": 29247,
+		"sha256": "a98fe31726a34ad8c08ef2649bebd6e5800dc3fe4ff5f5d81631ecb3e5dfe74d"
+	},
+	{
+		"name": "AvSMvsBlazer3.7z",
+		"relativePath": "degnic",
+		"modifiedDate": "2024-12-15T19:49:43.786Z",
+		"size": 35923,
+		"sha256": "8d300fd07c6231b44ed2f118f0fd5878eba583a6d3246e8d0978f7702ed0f0f8"
+	},
+	{
+		"name": "Blazer_and_AvSM_Xmas_Special.7z",
+		"relativePath": "degnic",
+		"modifiedDate": "2024-12-15T19:49:43.786Z",
+		"size": 159655,
+		"sha256": "b596fa922984367c75b67374c3892a84f1f4b53c691f3fd2016302372ddcab6b"
+	},
+	{
+		"name": "Desibel1.7z",
+		"relativePath": "degnic",
+		"modifiedDate": "2024-12-15T19:49:43.786Z",
+		"size": 82041,
+		"sha256": "e8d43c0a215922c8e907dfde29eb6a39f5098ab081632126f8f5bf8dd7e03b0b"
+	},
+	{
+		"name": "Desibel2.7z",
+		"relativePath": "degnic",
+		"modifiedDate": "2024-12-15T19:49:43.787Z",
+		"size": 53295,
+		"sha256": "dc3f37ded5e9345eab9a5ad571715a9093685e8fe91360c4189df1914adb1527"
+	},
+	{
+		"name": "Desibel3.7z",
+		"relativePath": "degnic",
+		"modifiedDate": "2024-12-15T19:49:43.787Z",
+		"size": 38773,
+		"sha256": "99ae83b5dc2076b23dd450354bf46384dc8e976f84444633662351e61c6ea9da"
+	},
+	{
+		"name": "Desibel4.7z",
+		"relativePath": "degnic",
+		"modifiedDate": "2024-12-15T19:49:43.787Z",
+		"size": 54939,
+		"sha256": "96d8cebfbf529892b184153421dda8f95b28ccd93d1f0ab7400af05fbb587417"
+	},
+	{
+		"name": "Desibel5.7z",
+		"relativePath": "degnic",
+		"modifiedDate": "2024-12-15T19:49:43.787Z",
+		"size": 100021,
+		"sha256": "a67b307aa0508ad14a72ef4c2b27b0a993fb326af31ad4355301e9d6b578a3d8"
+	},
+	{
+		"name": "Desibel6.7z",
+		"relativePath": "degnic",
+		"modifiedDate": "2024-12-15T19:49:43.787Z",
+		"size": 214360,
+		"sha256": "abddac7388da3c06eeb0147405e10ac5f44b05bbc580c66fb75c240eeed4dbec"
+	},
+	{
+		"name": "Desibel7wreck.7z",
+		"relativePath": "degnic",
+		"modifiedDate": "2024-12-15T19:49:43.787Z",
+		"size": 28533,
+		"sha256": "6b461f860488a7cabce864092f573a2d3958889363729485a7ece3bd309e593b"
+	},
+	{
+		"name": "DesibelPlus.7z",
+		"relativePath": "degnic",
+		"modifiedDate": "2024-12-15T19:49:43.788Z",
+		"size": 322465,
+		"sha256": "bb3a77824fabfb73dd01afba6636f9a08dbd4a56024ce7994a7250f03336c1b4"
+	},
+	{
+		"name": "Hellhammer.7z",
+		"relativePath": "degnic",
+		"modifiedDate": "2024-12-15T19:49:43.788Z",
+		"size": 38034,
+		"sha256": "b210a7d2b335e91df41adbb1687d10f786f387e0cbf5d67f6491df582b7f5244"
+	},
+	{
+		"name": "Hellhammer_12.7z",
+		"relativePath": "degnic",
+		"modifiedDate": "2024-12-15T19:49:43.788Z",
+		"size": 27131,
+		"sha256": "4cdc2d4a5bc625d8d65a1a120c3143c5e5532ded67cfea35ea578e6ed3ccb971"
+	},
+	{
+		"name": "Hellhammer_2.7z",
+		"relativePath": "degnic",
+		"modifiedDate": "2024-12-15T19:49:43.788Z",
+		"size": 16126,
+		"sha256": "fbd840e20d74612052cac2bc049e06d1647b6faadad89a2aa916575baf773daa"
+	},
+	{
+		"name": "Hellhammer_3.7z",
+		"relativePath": "degnic",
+		"modifiedDate": "2024-12-15T19:49:43.788Z",
+		"size": 21797,
+		"sha256": "2794253530904b266fac316a9be51349d35e013a7ec5aece6043e55a1e8b31da"
+	},
+	{
+		"name": "Hellhammer_4.7z",
+		"relativePath": "degnic",
+		"modifiedDate": "2024-12-15T19:49:43.788Z",
+		"size": 20370,
+		"sha256": "7e0105a06d19f468739cbfd10257d48bfcade82ceef57a102b621bd3d2081eab"
+	},
+	{
+		"name": "Hellhammer_5.7z",
+		"relativePath": "degnic",
+		"modifiedDate": "2024-12-15T19:49:43.788Z",
+		"size": 21596,
+		"sha256": "47e82b48d31b52ba621092db36bbc3fdaded3e0cfd2e1a40797b4ecfc3e67b6c"
+	},
+	{
+		"name": "Hellhammer_6_demo.7z",
+		"relativePath": "degnic",
+		"modifiedDate": "2024-12-15T19:49:43.789Z",
+		"size": 17899,
+		"sha256": "e077c8a85d72e3eb92f8784c03f3cbb378d5decc1d2f5b4632efb9eb61af3050"
+	},
+	{
+		"name": "Hellhammer_7.7z",
+		"relativePath": "degnic",
+		"modifiedDate": "2024-12-15T19:49:43.789Z",
+		"size": 23376,
+		"sha256": "0344c18fbcd0050c01913730c5a367a09507bf582a485803259b9a402280e80b"
+	},
+	{
+		"name": "Hellhammer_8.7z",
+		"relativePath": "degnic",
+		"modifiedDate": "2024-12-15T19:49:43.789Z",
+		"size": 185123,
+		"sha256": "a1688d97c9537fc4dec2fcb0b279bda2c28db675b3f1ae7ab746aa7a6c68829f"
+	},
+	{
+		"name": "Hellhammer_9.7z",
+		"relativePath": "degnic",
+		"modifiedDate": "2024-12-15T19:49:43.789Z",
+		"size": 331985,
+		"sha256": "671ae5115518f7a0ec73890ce0d1d5b6595efed988c261d38b84ae39cb6c5ebc"
+	},
+	{
+		"name": "Hellhammer_plastic.7z",
+		"relativePath": "degnic",
+		"modifiedDate": "2024-12-15T19:49:43.789Z",
+		"size": 31695,
+		"sha256": "426f58666af2f24c5b9b86cb2765ac164cc24e94f4220325b0f72bc9df112ff6"
+	},
+	{
+		"name": "Re-Set.7z",
+		"relativePath": "degnic",
+		"modifiedDate": "2024-12-15T19:49:43.789Z",
+		"size": 58585,
+		"sha256": "62eeb55f1736a6e7f4e20490601d99e47cb5f0a7ef375408ecb66e8795d7f40a"
+	},
+	{
+		"name": "get_customised_remixes.7z",
+		"relativePath": "degnic",
+		"modifiedDate": "2024-12-15T19:49:43.789Z",
+		"size": 1728,
+		"sha256": "14a76bb31a43a832435704b6d892e9edad8c49c25629cd43033a4aab971746ed"
+	},
+	{
+		"name": "reincarnation.7z",
+		"relativePath": "denkensiefursich",
+		"modifiedDate": "2024-12-15T19:49:43.790Z",
+		"size": 100221,
+		"sha256": "b7f3682e85496fea7830fade0bef34070c2c33f1d85af6800b6695d385d49676"
+	},
+	{
+		"name": "dg2ksr1.7z",
+		"relativePath": "disguy2k",
+		"modifiedDate": "2024-12-15T19:49:43.790Z",
+		"size": 15331,
+		"sha256": "0e4c9e073e5218a263192be10f80592fc66a52bdc75c13b6957f6b9b523bbdaa"
+	},
+	{
+		"name": "dg2ksr2.7z",
+		"relativePath": "disguy2k",
+		"modifiedDate": "2024-12-15T19:49:43.790Z",
+		"size": 16293,
+		"sha256": "3cd500bc81accda38e722ff8e300f3d5590b990764751fe71fd0fd907c4d6538"
+	},
+	{
+		"name": "dg2ksr3.7z",
+		"relativePath": "disguy2k",
+		"modifiedDate": "2024-12-15T19:49:43.790Z",
+		"size": 16072,
+		"sha256": "8ea938724fe739baf01d2e1f2e8ff13043780a8ebc1a5f871011103f088423ae"
+	},
+	{
+		"name": "7inch.7z",
+		"relativePath": "drew",
+		"modifiedDate": "2024-12-15T19:49:43.790Z",
+		"size": 315792,
+		"sha256": "595bc9b5a955f167a0cda6c1575a6129db2bef870e838095c1ba2b6b7dfb9085"
+	},
+	{
+		"name": "anti_dynamics.7z",
+		"relativePath": "drew",
+		"modifiedDate": "2024-12-15T19:49:43.791Z",
+		"size": 71608,
+		"sha256": "6416e2ad3e98b5bcc7d068dac076b914c54fa7aa3779a8bab314d7ca142dc6b0"
+	},
+	{
+		"name": "bside.7z",
+		"relativePath": "drew",
+		"modifiedDate": "2024-12-15T19:49:43.791Z",
+		"size": 133182,
+		"sha256": "b1cbcaca43babb1a2fb2ac0769414261f6c2c7732608cf7b1a556caa686d9736"
+	},
+	{
+		"name": "d2.7z",
+		"relativePath": "drew",
+		"modifiedDate": "2024-12-15T19:49:43.791Z",
+		"size": 228624,
+		"sha256": "fde01407550f2b338a748855c60fb5063671f0ac77271211d7194d1b8ba6ca86"
+	},
+	{
+		"name": "drew_and_megatrox.7z",
+		"relativePath": "drew",
+		"modifiedDate": "2024-12-15T19:49:43.791Z",
+		"size": 98312,
+		"sha256": "9142de96cd98d9c1648069e28246f2f085a65fc357e936f94473c6f2de0d85be"
+	},
+	{
+		"name": "filtered.7z",
+		"relativePath": "drew",
+		"modifiedDate": "2024-12-15T19:49:43.791Z",
+		"size": 112629,
+		"sha256": "8552d40df173a57a7bf7e12ce8281b808609affbccb1a82bd02cca0c93cd6580"
+	},
+	{
+		"name": "freeloader.7z",
+		"relativePath": "drew",
+		"modifiedDate": "2024-12-15T19:49:43.791Z",
+		"size": 197443,
+		"sha256": "213d3e5fefff21d0286746d6ef6fcc1551b045bf96f443284af3f76ed3406b3c"
+	},
+	{
+		"name": "fuck_america.7z",
+		"relativePath": "drew",
+		"modifiedDate": "2024-12-15T19:49:43.792Z",
+		"size": 147476,
+		"sha256": "2572ede39ac1197b0bb71cc00698d83ee9579a8757d964e082dd7747443d4967"
+	},
+	{
+		"name": "groupie_lover.7z",
+		"relativePath": "drew",
+		"modifiedDate": "2024-12-15T19:49:43.792Z",
+		"size": 66475,
+		"sha256": "9096fc2ca0324eddced99053f531f94899a7b30375343d1952ff3a40d1f8ca32"
+	},
+	{
+		"name": "pack2.7z",
+		"relativePath": "drew",
+		"modifiedDate": "2024-12-15T19:49:43.792Z",
+		"size": 196994,
+		"sha256": "03009e7444a30b43ec19fb7936b0b41c502b285865720a40dbebf4e446777616"
+	},
+	{
+		"name": "remixables.7z",
+		"relativePath": "drew",
+		"modifiedDate": "2024-12-15T19:49:43.792Z",
+		"size": 75150,
+		"sha256": "c62aaaf35fa88ed9e45bfa634a90d3e6e2b0b55f79ff1a8b686a7facfd388b3a"
+	},
+	{
+		"name": "ten_million_pennies.7z",
+		"relativePath": "drew",
+		"modifiedDate": "2024-12-15T19:49:43.792Z",
+		"size": 76107,
+		"sha256": "f29ab6e8bab4f5638e91b01c172983620ca2325cc4882b095fb78108d1f37dcb"
+	},
+	{
+		"name": "the_ended_summer.7z",
+		"relativePath": "drew",
+		"modifiedDate": "2024-12-15T19:49:43.792Z",
+		"size": 77158,
+		"sha256": "b7fbaa16684414b9f8943e8bb11bcf1d4b0232ee95955c508bd6aa0c562903cc"
+	},
+	{
+		"name": "enVISION.7z",
+		"relativePath": "duo",
+		"modifiedDate": "2024-12-15T19:49:43.793Z",
+		"size": 26484,
+		"sha256": "b444d3c18fc70b72b76d00f85296d3c52570c8ff5206e515005d1bf8f9e05b4e"
+	},
+	{
+		"name": "enVISION2.7z",
+		"relativePath": "duo",
+		"modifiedDate": "2024-12-15T19:49:43.793Z",
+		"size": 24336,
+		"sha256": "5b7139761aa68cac28fc19ea45305d0d99daed6c55bdbbdf877bf478646db2af"
+	},
+	{
+		"name": "DDeu.7z",
+		"relativePath": "dynamicduo",
+		"modifiedDate": "2024-12-15T19:49:43.793Z",
+		"size": 39727,
+		"sha256": "301e5cdb53c2eceac7a89d39bad044cd1636ff9c564336f06d97d2d8088be12b"
+	},
+	{
+		"name": "tentaclism_edit.zip",
+		"relativePath": "dynamicduo",
+		"modifiedDate": "2024-12-15T19:49:43.793Z",
+		"size": 1525,
+		"sha256": "40b18d91c47d9696d8f5a2877d7f205ac8601af3517cdb3825cc43ff4138edc7"
+	},
+	{
+		"name": "EL-VIS2_Remix.7z",
+		"relativePath": "el-vis",
+		"modifiedDate": "2024-12-15T19:49:43.793Z",
+		"size": 15777,
+		"sha256": "82d6b95b492a798f10cdcfd1809efb91db01202d94b6746ea55fa741aaec8741"
+	},
+	{
+		"name": "EL-VIS3.7z",
+		"relativePath": "el-vis",
+		"modifiedDate": "2024-12-15T19:49:43.794Z",
+		"size": 14847,
+		"sha256": "345332b04ccc909227f24465d09abf4a15e95fbf51c08bb6738fd3ed4158ba33"
+	},
+	{
+		"name": "EL-VIS4.7z",
+		"relativePath": "el-vis",
+		"modifiedDate": "2024-12-15T19:49:43.794Z",
+		"size": 14249,
+		"sha256": "066c1e70768a6910f321c13e5babf0c661df799b648df355b089e51fc6ef09eb"
+	},
+	{
+		"name": "EL-VIS5.7z",
+		"relativePath": "el-vis",
+		"modifiedDate": "2024-12-15T19:49:43.794Z",
+		"size": 26768,
+		"sha256": "eadcdcf6062e1685414699e2624fd2dc145efaa63dfd4f28300dd769c868c80d"
+	},
+	{
+		"name": "EL-VIS6_SUPERSCOPES_3D.7z",
+		"relativePath": "el-vis",
+		"modifiedDate": "2024-12-15T19:49:43.794Z",
+		"size": 27626,
+		"sha256": "1dbaf7f8002eb895dd772a6cb9ae813c7024c803922f77f69f7e6d217af3b0b4"
+	},
+	{
+		"name": "EL-VIS7_NEUROMANCER.7z",
+		"relativePath": "el-vis",
+		"modifiedDate": "2024-12-15T19:49:43.794Z",
+		"size": 32277,
+		"sha256": "98d207dcc788af5cd55f77417318349c0fa8dac43cf0aac91f8eb4b1e09b20bf"
+	},
+	{
+		"name": "EL-VIS8_PLASMA.7z",
+		"relativePath": "el-vis",
+		"modifiedDate": "2024-12-15T19:49:43.794Z",
+		"size": 214508,
+		"sha256": "541cbc177536594ec14a8b084b5b0b44a6a223632d118d5e6d61e4a1b192cbe5"
+	},
+	{
+		"name": "EL-VIS9_DRUGDRIVE.7z",
+		"relativePath": "el-vis",
+		"modifiedDate": "2024-12-15T19:49:43.795Z",
+		"size": 555463,
+		"sha256": "6bf0ff346cf460496dea38b8686c8e8a1df19f1fd8be259da53c1a1c653c87e6"
+	},
+	{
+		"name": "EL-VIS_HISTORY2-UNOFFICIAL.7z",
+		"relativePath": "el-vis",
+		"modifiedDate": "2024-12-15T19:49:43.795Z",
+		"size": 218180,
+		"sha256": "010e9b462f4abbfa6afcb2b003e99a35a9405cf5ffc3128b3b5639a91717c7f9"
+	},
+	{
+		"name": "EL-VIS_HISTORY_pRELOADED.7z",
+		"relativePath": "el-vis",
+		"modifiedDate": "2024-12-15T19:49:43.795Z",
+		"size": 60873,
+		"sha256": "ce88c1c86a38ae18b0d936c45f2c8ff75e497df5cd2e3886dd06621fd1b2e0a8"
+	},
+	{
+		"name": "EL-VIS_HypnotizeD.7z",
+		"relativePath": "el-vis",
+		"modifiedDate": "2024-12-15T19:49:43.795Z",
+		"size": 76606,
+		"sha256": "1cd1b9bd874d2777a55bc90b904a6e054d558284fd808970f31a021d026c9389"
+	},
+	{
+		"name": "EL-VIS_VR.7z",
+		"relativePath": "el-vis",
+		"modifiedDate": "2024-12-15T19:49:43.795Z",
+		"size": 313051,
+		"sha256": "af7f1b2f5c1472c710864d92491a416e114b3cd340d9ea1589fad2d39b240c6b"
+	},
+	{
+		"name": "EL-VIS_X_Cyberpunx.7z",
+		"relativePath": "el-vis",
+		"modifiedDate": "2024-12-15T19:49:43.796Z",
+		"size": 99389,
+		"sha256": "c10a9618391b0d05b4d14ba810f24d4573bd7ada3061c91309e472dfd0201cb7"
+	},
+	{
+		"name": "demise_of_the_deviant.7z",
+		"relativePath": "evilrice",
+		"modifiedDate": "2024-12-15T19:49:43.796Z",
+		"size": 50748,
+		"sha256": "7be74699788159ba502ec80ddd9cc05dff24ebb4abc83978de4f404a2a3bc81b"
+	},
+	{
+		"name": "possession_by_the_deviant.7z",
+		"relativePath": "evilrice",
+		"modifiedDate": "2024-12-15T19:49:43.796Z",
+		"size": 247928,
+		"sha256": "87e2add7bc6176666aa6e34623ee48fef194cd859f1ca7ed1923223421ffb276"
+	},
+	{
+		"name": "return_of_the_deviant.7z",
+		"relativePath": "evilrice",
+		"modifiedDate": "2024-12-15T19:49:43.796Z",
+		"size": 131179,
+		"sha256": "f3ddc42759a5c3df297a0f4d975b5adc7bcb2df8ac20317538d4022ced99adc6"
+	},
+	{
+		"name": "FabryAVS.7z",
+		"relativePath": "fabry",
+		"modifiedDate": "2024-12-15T19:49:43.797Z",
+		"size": 1191032,
+		"sha256": "ec5690f4b15179169dd51f1be2f8dec78ab85dea2d52f9bdc5b8a3a6624221bc"
+	},
+	{
+		"name": "finnishflash.7z",
+		"relativePath": "finnishflash",
+		"modifiedDate": "2024-12-15T19:49:43.797Z",
+		"size": 34080,
+		"sha256": "dada5da425c23bb5604dc355955985dd38310061a0bae7e49616ea50e07d4653"
+	},
+	{
+		"name": "finnishflash2.7z",
+		"relativePath": "finnishflash",
+		"modifiedDate": "2024-12-15T19:49:43.797Z",
+		"size": 39675,
+		"sha256": "4ac6474f1d24557a92c3449bb46d0929f52a4eec764ae32b19e5fcc5ce604311"
+	},
+	{
+		"name": "finnishflash3.7z",
+		"relativePath": "finnishflash",
+		"modifiedDate": "2024-12-15T19:49:43.797Z",
+		"size": 180897,
+		"sha256": "a727123f058b79919cb14c0b6cc223814607f67aa29accdcac16dec270e5d224"
+	},
+	{
+		"name": "finnishflash4.7z",
+		"relativePath": "finnishflash",
+		"modifiedDate": "2024-12-15T19:49:43.798Z",
+		"size": 83878,
+		"sha256": "7365768427e36dc68ec89bdc4a8e59f847008bfd40debfebc522b6a81dad45df"
+	},
+	{
+		"name": "finnishflash5.7z",
+		"relativePath": "finnishflash",
+		"modifiedDate": "2024-12-15T19:49:43.798Z",
+		"size": 79073,
+		"sha256": "62b925701e67537414c644acf807fe35a937d96b176bfc58a088c5fdf6672ee9"
+	},
+	{
+		"name": "finnishflash6.7z",
+		"relativePath": "finnishflash",
+		"modifiedDate": "2024-12-15T19:49:43.798Z",
+		"size": 122990,
+		"sha256": "7b31548f775713e0062d790f3def32b999387ac6b459662b083b02e260fbe3ad"
+	},
+	{
+		"name": "finnishflash7-UNOFFICIAL.7z",
+		"relativePath": "finnishflash",
+		"modifiedDate": "2024-12-15T19:49:43.798Z",
+		"size": 13232,
+		"sha256": "47aaa15576138048ffb7d26332324912fd680e2353ea7afff8cb548453d155fe"
+	},
+	{
+		"name": "finnishflash7.7z",
+		"relativePath": "finnishflash",
+		"modifiedDate": "2024-12-15T19:49:43.798Z",
+		"size": 160100,
+		"sha256": "dcfebde567178660f04e949a00dc641b49116bf7d0564e32a5e57012b9439982"
+	},
+	{
+		"name": "finnishflash8.7z",
+		"relativePath": "finnishflash",
+		"modifiedDate": "2024-12-15T19:49:43.798Z",
+		"size": 57784,
+		"sha256": "d5a25118e7bab6a3ef42abd7e7d7b02766caf64be8f0c95c1af8b2ed4e150fb8"
+	},
+	{
+		"name": "Amb.7z",
+		"relativePath": "fragmer",
+		"modifiedDate": "2024-12-15T19:49:43.799Z",
+		"size": 172243,
+		"sha256": "640d889804854b442ad6ee0ef242093ac0c7a39a0a0a91bb977d9c920db92121"
+	},
+	{
+		"name": "BuggyAVS.7z",
+		"relativePath": "fragmer",
+		"modifiedDate": "2024-12-15T19:49:43.799Z",
+		"size": 210408,
+		"sha256": "da53687353f92a18a1f351a50984e3d71feb89915eb3ad0887b6dc0fef00c706"
+	},
+	{
+		"name": "BuggyAVS2.7z",
+		"relativePath": "fragmer",
+		"modifiedDate": "2024-12-15T19:49:43.799Z",
+		"size": 414812,
+		"sha256": "cbb2d8f12c749865e7d607d7eec56bb9f650fe56c19ce69b9faa615621f1b44a"
+	},
+	{
+		"name": "Unexpected_Sushi.7z",
+		"relativePath": "fragmer",
+		"modifiedDate": "2024-12-15T19:49:43.799Z",
+		"size": 70812,
+		"sha256": "ded93ad0c50986b545f87334cca90dca9c99da392fc7598a90c1e01fd455743c"
+	},
+	{
+		"name": "b2b.7z",
+		"relativePath": "fragmer",
+		"modifiedDate": "2024-12-15T19:49:43.799Z",
+		"size": 6474,
+		"sha256": "df0b920e9ad36b0dc1c4c86fccfac09eeabda186c1bc6d14f430cbcca416eca2"
+	},
+	{
+		"name": "RXcommercializing_of_Art.7z",
+		"relativePath": "frames-of-reality",
+		"modifiedDate": "2024-12-15T19:49:43.800Z",
+		"size": 138403,
+		"sha256": "46add625cc7d4cfd925870d739a71c6b1835773d761276a45bc95357ff640ecb"
+	},
+	{
+		"name": "RXcommercializing_of_art2.7z",
+		"relativePath": "frames-of-reality",
+		"modifiedDate": "2024-12-15T19:49:43.800Z",
+		"size": 157593,
+		"sha256": "38fe311a6669aaa6cc34138dfc21b53a25cb85e9a23a0228e653276c5a3174d9"
+	},
+	{
+		"name": "RXexegesis.7z",
+		"relativePath": "frames-of-reality",
+		"modifiedDate": "2024-12-15T19:49:43.800Z",
+		"size": 183542,
+		"sha256": "6f5f4f91e6b0323f2162cb21f533573c7add4fa18fb704ca0389cd062a0adc6e"
+	},
+	{
+		"name": "RXversus.7z",
+		"relativePath": "frames-of-reality",
+		"modifiedDate": "2024-12-15T19:49:43.800Z",
+		"size": 266006,
+		"sha256": "bc3698b7c325a02f98bf6125e405c6a86dd59759cbe7a6f640ee1243b97a1c1b"
+	},
+	{
+		"name": "half_EP.7z",
+		"relativePath": "frames-of-reality",
+		"modifiedDate": "2024-12-15T19:49:43.800Z",
+		"size": 153099,
+		"sha256": "a13f0dffbb55b4b7655f5c61e12b9c41e66b8d2604a81fadcc179e66f59d0d4d"
+	},
+	{
+		"name": "preview_for_recapture.7z",
+		"relativePath": "frames-of-reality",
+		"modifiedDate": "2024-12-15T19:49:43.801Z",
+		"size": 585101,
+		"sha256": "88d53aac256e20c3f1428e1f6970625b37c7d0427f17ec1b47cd34d1e2872705"
+	},
+	{
+		"name": "s01spectra.7z",
+		"relativePath": "frames-of-reality",
+		"modifiedDate": "2024-12-15T19:49:43.801Z",
+		"size": 165036,
+		"sha256": "8526e5802d16814746320e75b22e7cff1524da4fc323b2d5f0a4bc5d1cfc4658"
+	},
+	{
+		"name": "s02reflections.7z",
+		"relativePath": "frames-of-reality",
+		"modifiedDate": "2024-12-15T19:49:43.801Z",
+		"size": 184500,
+		"sha256": "70f4b9096b91363d4e2fee9cf2c68717412aa2cdbd061639a11761bd3d2734a8"
+	},
+	{
+		"name": "s03contrast.7z",
+		"relativePath": "frames-of-reality",
+		"modifiedDate": "2024-12-15T19:49:43.802Z",
+		"size": 253890,
+		"sha256": "c85a1ba4e4437b819bdf2b6518a484733200166be9a9d2d711434867eaa31664"
+	},
+	{
+		"name": "s09a_heaven_opens_her_arms_were_stuck.7z",
+		"relativePath": "frames-of-reality",
+		"modifiedDate": "2024-12-15T19:49:43.802Z",
+		"size": 12823,
+		"sha256": "af3a9a84357475a6a3e0f7b650851ba682e78c666f01167ad84adcc3c602e63f"
+	},
+	{
+		"name": "s09b_a_waltz_with_eternity.7z",
+		"relativePath": "frames-of-reality",
+		"modifiedDate": "2024-12-15T19:49:43.802Z",
+		"size": 16494,
+		"sha256": "b4398a8b924572fdc9acb8eb6852cc1c9890f2f1ee9c87c86b4e03546e1efda7"
+	},
+	{
+		"name": "s10nonesuch.7z",
+		"relativePath": "frames-of-reality",
+		"modifiedDate": "2024-12-15T19:49:43.802Z",
+		"size": 13965,
+		"sha256": "0eb971759a3d5e2cc083f0ceca190dbd9e904fc124ec7ba1e6473a2f7cc2c09f"
+	},
+	{
+		"name": "sEPdeepthroating_the_sky.7z",
+		"relativePath": "frames-of-reality",
+		"modifiedDate": "2024-12-15T19:49:43.803Z",
+		"size": 39349,
+		"sha256": "d730be4e522492988c908b9cc4d506cf7bafa2598020486ef8e617c7cd8bca0e"
+	},
+	{
+		"name": "sEPgod_bless_the_commune.7z",
+		"relativePath": "frames-of-reality",
+		"modifiedDate": "2024-12-15T19:49:43.803Z",
+		"size": 117806,
+		"sha256": "772905c1fde2d452b3ccdca2bff1123f6f80024b9765a444e69f07cd0723ac6e"
+	},
+	{
+		"name": "sEPrejects.7z",
+		"relativePath": "frames-of-reality",
+		"modifiedDate": "2024-12-15T19:49:43.803Z",
+		"size": 163894,
+		"sha256": "24bf1b349d8facba1754df74876f2f0d673ef10b18ed43a68220aebba7b9340b"
+	},
+	{
+		"name": "sEPsoylent_green_is_av.7z",
+		"relativePath": "frames-of-reality",
+		"modifiedDate": "2024-12-15T19:49:43.803Z",
+		"size": 78483,
+		"sha256": "aa417b2e8bea112394c11bcf518db73bb8b896f66faa3233b021bcdbe6486f43"
+	},
+	{
+		"name": "srx___dragon_blood.7z",
+		"relativePath": "frames-of-reality",
+		"modifiedDate": "2024-12-15T19:49:43.803Z",
+		"size": 9266,
+		"sha256": "86ad149fa0ab833fb38b225e785920e36b6ed302bf1484ef871979aab77e17d7"
+	},
+	{
+		"name": "srx___whenever_when_alone.7z",
+		"relativePath": "frames-of-reality",
+		"modifiedDate": "2024-12-15T19:49:43.804Z",
+		"size": 7696,
+		"sha256": "ee497fbf5b80024408a7bacf6bf91d36e7cf6f7c243ac995154d63ce9b6ecdd0"
+	},
+	{
+		"name": "srx___without_land_we_land.7z",
+		"relativePath": "frames-of-reality",
+		"modifiedDate": "2024-12-15T19:49:43.804Z",
+		"size": 4113,
+		"sha256": "0cd724a6078791d96f7c7178d3a62190aeed8b46bfafaa3ab4e471e3b6a8b127"
+	},
+	{
+		"name": "vs_duo.7z",
+		"relativePath": "frames-of-reality",
+		"modifiedDate": "2024-12-15T19:49:43.804Z",
+		"size": 81776,
+		"sha256": "a84479cbc868a83a968119ef563b90ce53db7f4538a16fd6bdc0bdfe79938a40"
+	},
+	{
+		"name": "vs_hboy.7z",
+		"relativePath": "frames-of-reality",
+		"modifiedDate": "2024-12-15T19:49:43.804Z",
+		"size": 85245,
+		"sha256": "c8cff9c6dca06c926ba103f52fec3b5270c6051cf599811acbf168438df79828"
+	},
+	{
+		"name": "vs_yathosho.7z",
+		"relativePath": "frames-of-reality",
+		"modifiedDate": "2024-12-15T19:49:43.804Z",
+		"size": 42308,
+		"sha256": "728e116c739225c15c8ca9a1be362664d62ec48e5a95ce00664274a6a0ae23dc"
+	},
+	{
+		"name": "pickin_dim.7z",
+		"relativePath": "fsk",
+		"modifiedDate": "2024-12-15T19:49:43.805Z",
+		"size": 14244,
+		"sha256": "6e01e77fa8647c8b515da7d3c5c916127f31900515963d6e5ce9900f319d4510"
+	},
+	{
+		"name": "pickin_dim2.7z",
+		"relativePath": "fsk",
+		"modifiedDate": "2024-12-15T19:49:43.805Z",
+		"size": 515362,
+		"sha256": "dc351d2065033e4f5080b79664c33352f4e4930269804e6cab8441ed15aeaaef"
+	},
+	{
+		"name": "pickin_dim3.7z",
+		"relativePath": "fsk",
+		"modifiedDate": "2024-12-15T19:49:43.805Z",
+		"size": 151602,
+		"sha256": "a1b51f5b7b3f7143b318903b37f3ce9a898d2779fe0c3833e26e28de7da9aece"
+	},
+	{
+		"name": "minipack1.7z",
+		"relativePath": "grandchild",
+		"modifiedDate": "2024-12-15T19:49:43.805Z",
+		"size": 217456,
+		"sha256": "43ff16f755c3be9cb29d2e9911255ac122d18ccea261f225f608e82c19f3c1e8"
+	},
+	{
+		"name": "minipack2.7z",
+		"relativePath": "grandchild",
+		"modifiedDate": "2024-12-15T19:49:43.805Z",
+		"size": 243603,
+		"sha256": "c96326eb864b88c599aa47696e8a89fd36d480e5fac69fef6de677ffd7185878"
+	},
+	{
+		"name": "minipack3.7z",
+		"relativePath": "grandchild",
+		"modifiedDate": "2024-12-15T19:49:43.806Z",
+		"size": 173139,
+		"sha256": "290a4df1ac55b33579d17abdd00e09fd6d21accb3d2460afa701e1c7712689d5"
+	},
+	{
+		"name": "pack1.7z",
+		"relativePath": "grandchild",
+		"modifiedDate": "2024-12-15T19:49:43.806Z",
+		"size": 50041,
+		"sha256": "66327411119349eef0ccf4fa12fcba6ceec54ba2894eb8571663c48bfbbdd032"
+	},
+	{
+		"name": "pack2.7z",
+		"relativePath": "grandchild",
+		"modifiedDate": "2024-12-15T19:49:43.806Z",
+		"size": 263547,
+		"sha256": "29a35e5db17492baccd5c060cc4a270c6a90911741feba0874f1b92298173606"
+	},
+	{
+		"name": "pack3.7z",
+		"relativePath": "grandchild",
+		"modifiedDate": "2024-12-15T19:49:43.806Z",
+		"size": 381207,
+		"sha256": "50165af85f2d44686fdcaf73a9deef270516ef92f6462cb0cfb81ba8b5df2f2c"
+	},
+	{
+		"name": "CHNGS.zip",
+		"relativePath": "guitwo",
+		"modifiedDate": "2024-12-15T19:49:43.807Z",
+		"size": 237134,
+		"sha256": "eb008b8a5b8741e7fa75e87e3406aa7f7a49d14d36eb6c8df4f2d3874ea4a501"
+	},
+	{
+		"name": "Dirty.zip",
+		"relativePath": "guitwo",
+		"modifiedDate": "2024-12-15T19:49:43.807Z",
+		"size": 298238,
+		"sha256": "15cddd16283f756976821b00490c97008219fb00eff10dfc48a093d484b74539"
+	},
+	{
+		"name": "Madness.zip",
+		"relativePath": "guitwo",
+		"modifiedDate": "2024-12-15T19:49:43.807Z",
+		"size": 209179,
+		"sha256": "2c0a3d82bdfa02980f8e342b9f3572336b15eb984c0bb344b82f920fee540ef4"
+	},
+	{
+		"name": "Two Hertz.zip",
+		"relativePath": "guitwo",
+		"modifiedDate": "2024-12-15T19:49:43.807Z",
+		"size": 262481,
+		"sha256": "10228f6835d440c273311d7727d629c7e64c3defb814230ff9c2f6a2439112cf"
+	},
+	{
+		"name": "one Hertz.zip",
+		"relativePath": "guitwo",
+		"modifiedDate": "2024-12-15T19:49:43.808Z",
+		"size": 332674,
+		"sha256": "decc3a14a51b584b206ee1d7b8588c9dfaf4c628e298f24fda27b46e466f0a8d"
+	},
+	{
+		"name": "un.zip",
+		"relativePath": "guitwo",
+		"modifiedDate": "2024-12-15T19:49:43.808Z",
+		"size": 274170,
+		"sha256": "182f51e29ff4429bb22d1c49daca3556611f1ecd3d29d4694895180d771303e5"
+	},
+	{
+		"name": "Around_the_fifties.7z",
+		"relativePath": "hboy",
+		"modifiedDate": "2024-12-15T19:49:43.808Z",
+		"size": 43036,
+		"sha256": "c1308eed34fa61232458f1ba137c3f9ff42915159fc78816061e8f847005688e"
+	},
+	{
+		"name": "BW_Discovery.7z",
+		"relativePath": "hboy",
+		"modifiedDate": "2024-12-15T19:49:43.808Z",
+		"size": 83004,
+		"sha256": "a75a18d5f3fc3ce62f52a016772499ea48c1263b45c55d1fce8d2b03745bdfd7"
+	},
+	{
+		"name": "Breakout.7z",
+		"relativePath": "hboy",
+		"modifiedDate": "2024-12-15T19:49:43.808Z",
+		"size": 121412,
+		"sha256": "a2bdead95cdb2bca20cca738548690b44ece425ba1ac47609a6a0881ed30fbc4"
+	},
+	{
+		"name": "Collection.7z",
+		"relativePath": "hboy",
+		"modifiedDate": "2024-12-15T19:49:43.808Z",
+		"size": 138560,
+		"sha256": "11d916b569425fce9c0d4367e2f289ab496e656acda2a0df16e6f3ba967f1bc3"
+	},
+	{
+		"name": "Insomnia.7z",
+		"relativePath": "hboy",
+		"modifiedDate": "2024-12-15T19:49:43.809Z",
+		"size": 157810,
+		"sha256": "ed6534771c3496e115ac7159097ae807ff960469799b4882c3c3ef596a61f588"
+	},
+	{
+		"name": "Metallurgy.7z",
+		"relativePath": "hboy",
+		"modifiedDate": "2024-12-15T19:49:43.809Z",
+		"size": 42506,
+		"sha256": "7805b1b661eec17e48f450c77102e8f69907f3cebbb8035509ca38550d582e39"
+	},
+	{
+		"name": "Oxygene.7z",
+		"relativePath": "hboy",
+		"modifiedDate": "2024-12-15T19:49:43.809Z",
+		"size": 286162,
+		"sha256": "75226fd46e4515cbec3d760b37794bbd398db24e50549ecd2c3873c97a4a4daf"
+	},
+	{
+		"name": "Prodigy.7z",
+		"relativePath": "hboy",
+		"modifiedDate": "2024-12-15T19:49:43.809Z",
+		"size": 71475,
+		"sha256": "222e99f1f4b3fd77c33e67a2371ec678e14c2b7fbacf346ae8324b371c67909c"
+	},
+	{
+		"name": "Remixes.7z",
+		"relativePath": "hboy",
+		"modifiedDate": "2024-12-15T19:49:43.809Z",
+		"size": 55693,
+		"sha256": "e3516406de9a5168bfbe8416ab7214d46501ffc34a34f7a033227359df550b8d"
+	},
+	{
+		"name": "Singles.7z",
+		"relativePath": "hboy",
+		"modifiedDate": "2024-12-15T19:49:43.809Z",
+		"size": 35741,
+		"sha256": "7e91f48c4bcbdea3cf2ddda313c4bb8d2b7aad88c08743cd1b6eec50f1c780ef"
+	},
+	{
+		"name": "SuperscopeMP.7z",
+		"relativePath": "hboy",
+		"modifiedDate": "2024-12-15T19:49:43.809Z",
+		"size": 36456,
+		"sha256": "21bea5b0a88ba762380b3f22a4bfb16501e5a1379ea54fd9f3bfd71d6f54a2ad"
+	},
+	{
+		"name": "Technology.7z",
+		"relativePath": "hboy",
+		"modifiedDate": "2024-12-15T19:49:43.810Z",
+		"size": 328868,
+		"sha256": "9e32bf587200f6d0bc6daf805a365cf6ee11e4d6dccba5ebb4b1802c54412b22"
+	},
+	{
+		"name": "ThreeInOne.7z",
+		"relativePath": "hboy",
+		"modifiedDate": "2024-12-15T19:49:43.810Z",
+		"size": 120372,
+		"sha256": "5a6afa73dd08ea87423f714f7287ea479f2e62239752b23469a1feee868c0e40"
+	},
+	{
+		"name": "horoscope.7z",
+		"relativePath": "hboy",
+		"modifiedDate": "2024-12-15T19:49:43.810Z",
+		"size": 91033,
+		"sha256": "8b83479a24da9844ee4c51665b598bc53aa6f74de40eaf6bdc33cf5e542b3da2"
+	},
+	{
+		"name": "monument.7z",
+		"relativePath": "hboy",
+		"modifiedDate": "2024-12-15T19:49:43.810Z",
+		"size": 54422,
+		"sha256": "c5a6ad34b248f90a04bee780568ec11240cc569acbd2b90baaea0ac2897ac7da"
+	},
+	{
+		"name": "nineteen.7z",
+		"relativePath": "hboy",
+		"modifiedDate": "2024-12-15T19:49:43.810Z",
+		"size": 247758,
+		"sha256": "7957b24e2828755f1531a1ab4a6061318c5abf89de0d0fcaaaccbaa59c123a0b"
+	},
+	{
+		"name": "Archives-Finale.7z",
+		"relativePath": "horse-fly",
+		"modifiedDate": "2024-12-15T19:49:43.811Z",
+		"size": 148274,
+		"sha256": "8cb44213c0c629dad4666b277eccba4e24622d4f6214a2c5004eb3ef89f7303d"
+	},
+	{
+		"name": "Chronicles.7z",
+		"relativePath": "horse-fly",
+		"modifiedDate": "2024-12-15T19:49:43.811Z",
+		"size": 1430890,
+		"sha256": "1655eb9a8d89b3c8f119af587979783831e6568862b7425c4133f36033a22288"
+	},
+	{
+		"name": "horsefly1.7z",
+		"relativePath": "horse-fly",
+		"modifiedDate": "2024-12-15T19:49:43.812Z",
+		"size": 23615,
+		"sha256": "c06c2c014c8a839b9608d1e10fea695b2583c6cedb216982fe7bb3501ff012d7"
+	},
+	{
+		"name": "horsefly2.7z",
+		"relativePath": "horse-fly",
+		"modifiedDate": "2024-12-15T19:49:43.812Z",
+		"size": 24416,
+		"sha256": "a9d68d26c7711158802a24be47aa2bd9a2ac50ec786366d73fa0256fa5fbd117"
+	},
+	{
+		"name": "horsefly3.7z",
+		"relativePath": "horse-fly",
+		"modifiedDate": "2024-12-15T19:49:43.812Z",
+		"size": 23708,
+		"sha256": "379b02565f0bf23af761db30e06859ab4b73398955620a29acc71a7c1b760e02"
+	},
+	{
+		"name": "horsefly4.7z",
+		"relativePath": "horse-fly",
+		"modifiedDate": "2024-12-15T19:49:43.812Z",
+		"size": 24091,
+		"sha256": "7512a4022ab0786eaea18054d0c39cd5a77e7301d62c052676cfbf8f66c9d723"
+	},
+	{
+		"name": "horsefly5.7z",
+		"relativePath": "horse-fly",
+		"modifiedDate": "2024-12-15T19:49:43.812Z",
+		"size": 43468,
+		"sha256": "5ad27412b62fa1fcdf66f544958c8afc497edfe9f04e4dec8cdec5e7e6496e2b"
+	},
+	{
+		"name": "horsefly6.7z",
+		"relativePath": "horse-fly",
+		"modifiedDate": "2024-12-15T19:49:43.812Z",
+		"size": 21821,
+		"sha256": "8d8edd04b08d63162b4b50c13768ae6fe69fa04887d4ca279a0a52a0d05a9077"
+	},
+	{
+		"name": "horsefly7.7z",
+		"relativePath": "horse-fly",
+		"modifiedDate": "2024-12-15T19:49:43.812Z",
+		"size": 161571,
+		"sha256": "8d82f3d0f4702f1db69f756ae25b75f945aaa6f93ffc1cc507392873ef64f271"
+	},
+	{
+		"name": "horsefly8.7z",
+		"relativePath": "horse-fly",
+		"modifiedDate": "2024-12-15T19:49:43.813Z",
+		"size": 135528,
+		"sha256": "a84ef78610a27ec0dd73306e6be9d197e87791f1de27fd923aba2ae4003cc95f"
+	},
+	{
+		"name": "the_big_hungarian_conspiracy.7z",
+		"relativePath": "hungconsp",
+		"modifiedDate": "2024-12-15T19:49:43.813Z",
+		"size": 315310,
+		"sha256": "6ca5d86ba1903df60dd95982f54ffa71c180c386fe747f940d5c8ee89b992b15"
+	},
+	{
+		"name": "HuRriC4nE_Pack1.7z",
+		"relativePath": "hurric4ne",
+		"modifiedDate": "2024-12-15T19:49:43.813Z",
+		"size": 270000,
+		"sha256": "7fdef9ae22c8b1fb693b2b745f4d257f0665e8dee3c622e5ea287510f41f7406"
+	},
+	{
+		"name": "HuRriC4nE_Pack2.7z",
+		"relativePath": "hurric4ne",
+		"modifiedDate": "2024-12-15T19:49:43.814Z",
+		"size": 160541,
+		"sha256": "db2cd5976a4047648bea45ee563a68fbeb73fb78822feb149fc95fe0439a81cc"
+	},
+	{
+		"name": "HuRriC4nE_Pack3.7z",
+		"relativePath": "hurric4ne",
+		"modifiedDate": "2024-12-15T19:49:43.814Z",
+		"size": 94604,
+		"sha256": "7d149bbbdf57ccb81a3bdaacd2ceea1b27c1107a4bf9b28744ea87cb1f4e243b"
+	},
+	{
+		"name": "Indyrods_VeryBest_Presets.7z",
+		"relativePath": "indyrod",
+		"modifiedDate": "2024-12-15T19:49:43.814Z",
+		"size": 28006,
+		"sha256": "3d9cac13ee4d482a96008953f24109fa11e0bf3b3edef94d33dfe2a24a622a1a"
+	},
+	{
+		"name": "Resurgence.7z",
+		"relativePath": "ishan",
+		"modifiedDate": "2024-12-15T19:49:43.814Z",
+		"size": 190009,
+		"sha256": "7e04ace96256a72c63acd965568e268c3fa3cc97c20bf83f753343e014f765c7"
+	},
+	{
+		"name": "Rocky_AVS_II-UNOFFICIAL.7z",
+		"relativePath": "ishan",
+		"modifiedDate": "2024-12-15T19:49:43.814Z",
+		"size": 54133,
+		"sha256": "f39127ddba6e8786200d90360dc791f8a50413040324e25ff0e339398adef506"
+	},
+	{
+		"name": "Rocky_AVS_IV.7z",
+		"relativePath": "ishan",
+		"modifiedDate": "2024-12-15T19:49:43.814Z",
+		"size": 108345,
+		"sha256": "203da5dc56045652aff50b1f7b166b65ef2a142ddd01096aa24bcdce075880bc"
+	},
+	{
+		"name": "Rocky_AVS_VII.7z",
+		"relativePath": "ishan",
+		"modifiedDate": "2024-12-15T19:49:43.815Z",
+		"size": 215579,
+		"sha256": "7f9b99ad674c9ed8338ce95b7d1fda2df417d1985ff3dccf66d24f1d254da073"
+	},
+	{
+		"name": "Pack1.7z",
+		"relativePath": "jaak",
+		"modifiedDate": "2024-12-15T19:49:43.815Z",
+		"size": 197865,
+		"sha256": "a4a4161b3bfca08feb5d7d1478dd2a6ad79e79ad2460eaf54c56451fc9e11412"
+	},
+	{
+		"name": "Frontlines-UNOFFICIAL.7z",
+		"relativePath": "javs",
+		"modifiedDate": "2024-12-15T19:49:43.815Z",
+		"size": 6561,
+		"sha256": "753ac830c9cb63ff487b9299553b28bd5155c59109861ffac6a0ef9466effbb7"
+	},
+	{
+		"name": "Tiny_Pack-UNOFFICIAL.7z",
+		"relativePath": "javs",
+		"modifiedDate": "2024-12-15T19:49:43.815Z",
+		"size": 2227,
+		"sha256": "07400d33563391df7ebaa14ad461befff4a56e35c0de5d36c1f8b9e4770495d7"
+	},
+	{
+		"name": "the_lost_remix.zip",
+		"relativePath": "javs",
+		"modifiedDate": "2024-12-15T19:49:43.815Z",
+		"size": 4839,
+		"sha256": "c3b1a7ed0040bd0d365cd6c1e493b1dd992a04b68401a0db8b1bf7d7ea64ca2c"
+	},
+	{
+		"name": "JC1.7z",
+		"relativePath": "jayfatboy",
+		"modifiedDate": "2024-12-15T19:49:43.816Z",
+		"size": 20430,
+		"sha256": "bac0fa5d87aa1e3570bd0fc50c834587878ee419068a81c1ce39452fcfcdbe8e"
+	},
+	{
+		"name": "JC2.7z",
+		"relativePath": "jayfatboy",
+		"modifiedDate": "2024-12-15T19:49:43.816Z",
+		"size": 182445,
+		"sha256": "fbf1e4722be892f8c0f7f669a34834fdaff10e9e92b7d7efe9cf01931a596884"
+	},
+	{
+		"name": "JC3.7z",
+		"relativePath": "jayfatboy",
+		"modifiedDate": "2024-12-15T19:49:43.816Z",
+		"size": 122715,
+		"sha256": "9b179bd6f0d4e29650649db5abfa938fd6105712e2849034ac6481ebbea89f0a"
+	},
+	{
+		"name": "JC4.7z",
+		"relativePath": "jayfatboy",
+		"modifiedDate": "2024-12-15T19:49:43.816Z",
+		"size": 113081,
+		"sha256": "f075d4b6297dde5bee0f73625e0007d049767ff89db16826ff9287dc1dab5709"
+	},
+	{
+		"name": "JC5.7z",
+		"relativePath": "jayfatboy",
+		"modifiedDate": "2024-12-15T19:49:43.816Z",
+		"size": 71755,
+		"sha256": "cb21b69e467c2a7950ffc71b01f459a011cfca1410f471034704ae335a8b1951"
+	},
+	{
+		"name": "JC6.7z",
+		"relativePath": "jayfatboy",
+		"modifiedDate": "2024-12-15T19:49:43.816Z",
+		"size": 67542,
+		"sha256": "46e373101f4f7a9d3425b24a7df1bf00d6949575791a7314ddabb4588a844871"
+	},
+	{
+		"name": "JC7.7z",
+		"relativePath": "jayfatboy",
+		"modifiedDate": "2024-12-15T19:49:43.817Z",
+		"size": 153033,
+		"sha256": "c0ffb63382d9062a53594e2b29b1c02303cbacbf124ec63926d227681dff6d7b"
+	},
+	{
+		"name": "JC8.7z",
+		"relativePath": "jayfatboy",
+		"modifiedDate": "2024-12-15T19:49:43.817Z",
+		"size": 211253,
+		"sha256": "5e35319b0810015c64143ad198520d23e65915dd687e81ef220ebf7526a1dc3c"
+	},
+	{
+		"name": "JanzkuAVSPack3.7z",
+		"relativePath": "jdm",
+		"modifiedDate": "2024-12-15T19:49:43.817Z",
+		"size": 16295,
+		"sha256": "50818d4853e990d9e47920eb015e3b09e25b47780d3c4bfadd5a6b2e26762f58"
+	},
+	{
+		"name": "JanzkuAVSPack4.7z",
+		"relativePath": "jdm",
+		"modifiedDate": "2024-12-15T19:49:43.817Z",
+		"size": 18176,
+		"sha256": "45560ae578200373921fa011d2790c4e16b025641d8d4c800bd46ed82e7a94d4"
+	},
+	{
+		"name": "JanzkuAVSPack5.7z",
+		"relativePath": "jdm",
+		"modifiedDate": "2024-12-15T19:49:43.817Z",
+		"size": 17166,
+		"sha256": "110843feb91159f9872673d0960e05f83c0ff05627ce5f3fad6cee54bcbc8366"
+	},
+	{
+		"name": "JanzkuAVSPack6.7z",
+		"relativePath": "jdm",
+		"modifiedDate": "2024-12-15T19:49:43.817Z",
+		"size": 40592,
+		"sha256": "c97b31967b629433a75418eaf45f8178f1274710cd309ce43c63f88a9da86e3f"
+	},
+	{
+		"name": "JanzkuAVSPack7.7z",
+		"relativePath": "jdm",
+		"modifiedDate": "2024-12-15T19:49:43.818Z",
+		"size": 22303,
+		"sha256": "05b36e2d8e2bf58a9a8d6cc392982fc45964816cc73a1112a4c9db49d34c190c"
+	},
+	{
+		"name": "jheriko1.7z",
+		"relativePath": "jheriko",
+		"modifiedDate": "2024-12-15T19:49:43.818Z",
+		"size": 493542,
+		"sha256": "0c6db099942884df11bb7f4ca0838c0108379deca4a5e3db98a592db75ae31d6"
+	},
+	{
+		"name": "jheriko2.7z",
+		"relativePath": "jheriko",
+		"modifiedDate": "2024-12-15T19:49:43.818Z",
+		"size": 26732,
+		"sha256": "0b8ec0d00ac8acf121892422da5a0e7ca0eafd949b9125a29b9931f5f654e826"
+	},
+	{
+		"name": "jheriko3.7z",
+		"relativePath": "jheriko",
+		"modifiedDate": "2024-12-15T19:49:43.818Z",
+		"size": 254933,
+		"sha256": "461c7713fb5faee5fb69f56ca746cdc3b74d18d89e47558287218ca8a854baa3"
+	},
+	{
+		"name": "jheriko4.7z",
+		"relativePath": "jheriko",
+		"modifiedDate": "2024-12-15T19:49:43.818Z",
+		"size": 47369,
+		"sha256": "1f4d432d5c02ce693af11db26d2d16cbe6d1579f24aca3cdc3cc349ae756b8f6"
+	},
+	{
+		"name": "jheriko5.7z",
+		"relativePath": "jheriko",
+		"modifiedDate": "2024-12-15T19:49:43.819Z",
+		"size": 347995,
+		"sha256": "f685fbeb8e35cf89197e335b308b2153473cd9b9a014c01d5ab61eefadd79b32"
+	},
+	{
+		"name": "jheriko6.7z",
+		"relativePath": "jheriko",
+		"modifiedDate": "2024-12-15T19:49:43.819Z",
+		"size": 89937,
+		"sha256": "2ac3d162e5668575c799a55a9497c7faa42f0f5b35c0fdfcc016bd95ba74d2c0"
+	},
+	{
+		"name": "jheriko7.7z",
+		"relativePath": "jheriko",
+		"modifiedDate": "2024-12-15T19:49:43.819Z",
+		"size": 119284,
+		"sha256": "53c6887156233f942c8f35ea245a04619cb71b3cc08e24f28c4ae60b6b8237b1"
+	},
+	{
+		"name": "jheriko8.7z",
+		"relativePath": "jheriko",
+		"modifiedDate": "2024-12-15T19:49:43.819Z",
+		"size": 160954,
+		"sha256": "a476ce912ea5eae20ff179f8c7101e9da8fbc33419ff3df601b123a7f824c3f4"
+	},
+	{
+		"name": "jheriko9.7z",
+		"relativePath": "jheriko",
+		"modifiedDate": "2024-12-15T19:49:43.819Z",
+		"size": 224400,
+		"sha256": "dd553b3cba016fb1961d7270a8d23457a65313aac9d9d92a8a2ce427748ebe41"
+	},
+	{
+		"name": "mp-6point5.7z",
+		"relativePath": "jheriko",
+		"modifiedDate": "2024-12-15T19:49:43.819Z",
+		"size": 79660,
+		"sha256": "51e0e1e3e46739be85294cfbe9e6ea595a12a71ef101ab48848685fe23500e2d"
+	},
+	{
+		"name": "mp-purely_platonic.7z",
+		"relativePath": "jheriko",
+		"modifiedDate": "2024-12-15T19:49:43.820Z",
+		"size": 36367,
+		"sha256": "0c40bc4ac98336a5d7c4ec951e9f5153718205bff4ef931f2ca4a3f427d893c9"
+	},
+	{
+		"name": "mp-sap.7z",
+		"relativePath": "jheriko",
+		"modifiedDate": "2024-12-15T19:49:43.820Z",
+		"size": 38643,
+		"sha256": "aadbfc358f532eb0f40987cef0c93dab1883d182f46c0f2586e0081c7d76d29c"
+	},
+	{
+		"name": "mp-winamp_exclusive.7z",
+		"relativePath": "jheriko",
+		"modifiedDate": "2024-12-15T19:49:43.820Z",
+		"size": 105791,
+		"sha256": "cd2f277b13410574c8d611c35cc610a60f63368b7f7de60781397ccb09c70bf7"
+	},
+	{
+		"name": "coloring.7z",
+		"relativePath": "jjcl237",
+		"modifiedDate": "2024-12-15T19:49:43.820Z",
+		"size": 103100,
+		"sha256": "c1c8be36bcab73e23ec0ee612a609f387578be04bdd3919126dc639de99a527c"
+	},
+	{
+		"name": "coloring2.7z",
+		"relativePath": "jjcl237",
+		"modifiedDate": "2024-12-15T19:49:43.820Z",
+		"size": 261551,
+		"sha256": "c551a49e8ed8abb5493c9e0f83da7cdb6e58b4b90430185f241feec0504dbbad"
+	},
+	{
+		"name": "inspire.7z",
+		"relativePath": "jjcl237",
+		"modifiedDate": "2024-12-15T19:49:43.821Z",
+		"size": 284650,
+		"sha256": "8c534f885a73bc2831ced88a957306bffb71d552ca2c5f8ef5014dbb697f75c6"
+	},
+	{
+		"name": "silly_and_simple.7z",
+		"relativePath": "jjcl237",
+		"modifiedDate": "2024-12-15T19:49:43.821Z",
+		"size": 5967,
+		"sha256": "5da3d00aa902f63c471d03d75af6d8ede8c213f57666a320c78ee59f830f5790"
+	},
+	{
+		"name": "KVS15mp.7z",
+		"relativePath": "kar-ma",
+		"modifiedDate": "2024-12-15T19:49:43.821Z",
+		"size": 86315,
+		"sha256": "fdb239f63b6e6db70f9611c47b8ab039e346d2356247311fe42b896bba31de46"
+	},
+	{
+		"name": "karmAVSone.7z",
+		"relativePath": "kar-ma",
+		"modifiedDate": "2024-12-15T19:49:43.821Z",
+		"size": 336540,
+		"sha256": "0ed8ea8938fbf017d3740fae57c18323151fda66869595892debc4c02b5788f0"
+	},
+	{
+		"name": "deviantblend3-UNOFFICiAL.7z",
+		"relativePath": "l0tus",
+		"modifiedDate": "2024-12-15T19:49:43.822Z",
+		"size": 561870,
+		"sha256": "418ec4d5d7fac4de11edc4ecd1e1c199277a11d66ac211249c956972b520b4c6"
+	},
+	{
+		"name": "deviantblend4.7z",
+		"relativePath": "l0tus",
+		"modifiedDate": "2024-12-15T19:49:43.822Z",
+		"size": 605270,
+		"sha256": "0587996662e7306d4fd2f1f38c84e24260c73e5253a445a672bbe905a7d83417"
+	},
+	{
+		"name": "BlackNoobiens.7z",
+		"relativePath": "lesnoobiens",
+		"modifiedDate": "2024-12-15T19:49:43.822Z",
+		"size": 57202,
+		"sha256": "cd0057aa0b1cea3b2de59f865a1553d0f57faacec8f4b58f139bb5f5d5815183"
+	},
+	{
+		"name": "BlackNoobiens2.7z",
+		"relativePath": "lesnoobiens",
+		"modifiedDate": "2024-12-15T19:49:43.822Z",
+		"size": 67085,
+		"sha256": "568583d2af1e904e4843b9a7d61567bca9f66d4fdc1478f0408ff14fbdd5fec6"
+	},
+	{
+		"name": "BlackNoobiens3.7z",
+		"relativePath": "lesnoobiens",
+		"modifiedDate": "2024-12-15T19:49:43.822Z",
+		"size": 51450,
+		"sha256": "d8c7a2cd516dd6fecaa2aa1794ea2851c7a11227d1053d710717454368c0723a"
+	},
+	{
+		"name": "VBMASHUP.zip",
+		"relativePath": "lesnoobiens",
+		"modifiedDate": "2024-12-15T19:49:43.823Z",
+		"size": 4082,
+		"sha256": "cb0a184a664da1854e13ac299213c1fd90d2335391d1269ac3da086a65525a18"
+	},
+	{
+		"name": "ProjectVortex.7z",
+		"relativePath": "maxpudding",
+		"modifiedDate": "2024-12-15T19:49:43.823Z",
+		"size": 21019,
+		"sha256": "52ec07914e8b9da06cfcc8745ba5c28832015ece118e797700fd7ae32fbc6b6b"
+	},
+	{
+		"name": "theENcounter.7z",
+		"relativePath": "maxpudding",
+		"modifiedDate": "2024-12-15T19:49:43.823Z",
+		"size": 159795,
+		"sha256": "931315c70cd28c90d486f6e241e496f2600d19bcfec83939ba923e463b5aa498"
+	},
+	{
+		"name": "15_PACK.7z",
+		"relativePath": "meaningless-existance",
+		"modifiedDate": "2024-12-15T19:49:43.823Z",
+		"size": 6444,
+		"sha256": "e3dd9551d1efff2128c4a21598a8ceea8c27a0e435a93828b1b13e9498f27ae5"
+	},
+	{
+		"name": "3packx2.7z",
+		"relativePath": "meaningless-existance",
+		"modifiedDate": "2024-12-15T19:49:43.823Z",
+		"size": 3205,
+		"sha256": "7b1cb7aa3395def8fd31ba40086dd131572deb513fb1ddec5affb180fe92e371"
+	},
+	{
+		"name": "AVSPACK2.7z",
+		"relativePath": "meaningless-existance",
+		"modifiedDate": "2024-12-15T19:49:43.823Z",
+		"size": 3299,
+		"sha256": "5d5c6574bdee6ca1d6d837b0f82af67f23a655f40d73653bea69512da8366047"
+	},
+	{
+		"name": "AVS_ALIVE.7z",
+		"relativePath": "meaningless-existance",
+		"modifiedDate": "2024-12-15T19:49:43.823Z",
+		"size": 52335,
+		"sha256": "58897eb35ea3649127c9f3274211d7fc890c6dd8a5b773fc6dbde4b3cc4b9041"
+	},
+	{
+		"name": "BEHOLD.7z",
+		"relativePath": "meaningless-existance",
+		"modifiedDate": "2024-12-15T19:49:43.824Z",
+		"size": 63759,
+		"sha256": "fb08c657f764901481da7e46160188ff486d738588ab8b5bfd76547dffcee960"
+	},
+	{
+		"name": "CAPITAL.7z",
+		"relativePath": "meaningless-existance",
+		"modifiedDate": "2024-12-15T19:49:43.824Z",
+		"size": 61309,
+		"sha256": "c56c9a6be3c46a2e6798f8bd4190e38f64e93288066b0052691b35e20135660d"
+	},
+	{
+		"name": "ESTILO.7z",
+		"relativePath": "meaningless-existance",
+		"modifiedDate": "2024-12-15T19:49:43.824Z",
+		"size": 128582,
+		"sha256": "2ebf3dc14d4dc704c0b6b82d8899bb9e03512280bc464c924c2ba047a93f2093"
+	},
+	{
+		"name": "The_Situation_Critical.7z",
+		"relativePath": "meaningless-existance",
+		"modifiedDate": "2024-12-15T19:49:43.824Z",
+		"size": 91231,
+		"sha256": "cea54adbec4e09995415326abd5c57d239cafd1a7a2038df3600482b2d0e21fb"
+	},
+	{
+		"name": "WHITE_PACK.7z",
+		"relativePath": "meaningless-existance",
+		"modifiedDate": "2024-12-15T19:49:43.824Z",
+		"size": 2153,
+		"sha256": "ee745c34d5175dca2b5c331910e93badc272cfc2234a9814801eb237ff1e9a84"
+	},
+	{
+		"name": "Stripes.7z",
+		"relativePath": "micro-d",
+		"modifiedDate": "2024-12-15T19:49:43.824Z",
+		"size": 32533,
+		"sha256": "cc1712e86eee0c2ce250f6185e5f7c77dd901a800d4d5d79a836c3839982e061"
+	},
+	{
+		"name": "krypton.7z",
+		"relativePath": "micro-d",
+		"modifiedDate": "2024-12-15T19:49:43.825Z",
+		"size": 238123,
+		"sha256": "03d1b49c6f549b8026e86a1150c945681d033b8cac4b2325322fe93f24a6a0fa"
+	},
+	{
+		"name": "rad ON preview.7z",
+		"relativePath": "micro-d",
+		"modifiedDate": "2024-12-15T19:49:43.825Z",
+		"size": 23469,
+		"sha256": "94c4d3ea8584b7811540709d6e32e47a062fc9c7956f5b60c7f00705a2c861c0"
+	},
+	{
+		"name": "rad ON.7z",
+		"relativePath": "micro-d",
+		"modifiedDate": "2024-12-15T19:49:43.825Z",
+		"size": 433336,
+		"sha256": "5080649ddc7b69cdd9093fe078c3c41e513cb9627f4599154dd460fb630452b3"
+	},
+	{
+		"name": "reGeneSys.7z",
+		"relativePath": "micro-d",
+		"modifiedDate": "2024-12-15T19:49:43.825Z",
+		"size": 425787,
+		"sha256": "cfae4e25346725ac5534267d75e1024c7a03e595fbc63ed5382c98f1ff4ab102"
+	},
+	{
+		"name": "xen_ON.7z",
+		"relativePath": "micro-d",
+		"modifiedDate": "2024-12-15T19:49:43.826Z",
+		"size": 375575,
+		"sha256": "6b70da9d5591e4c12b7996d8ddc1af0dd658e833b7e050bc9414c01c92ce595d"
+	},
+	{
+		"name": "Conspiracy.7z",
+		"relativePath": "montana",
+		"modifiedDate": "2024-12-15T19:49:43.826Z",
+		"size": 154541,
+		"sha256": "e1401b7e24f0d659b0cfc60d8b1e7509d7cece96c486d0696bf4dceed4683b4c"
+	},
+	{
+		"name": "The_Blue_Pack.7z",
+		"relativePath": "montana",
+		"modifiedDate": "2024-12-15T19:49:43.826Z",
+		"size": 777084,
+		"sha256": "ea2cab4a619e744c7b5686e021c41aa10eec9ebe7db94d3d4131458d82963f19"
+	},
+	{
+		"name": "The_Forum_Challenge.7z",
+		"relativePath": "montana",
+		"modifiedDate": "2024-12-15T19:49:43.827Z",
+		"size": 16319,
+		"sha256": "5a03fe0bfa5875cc087a603bd549dd966e172005333101804e825437622d7a1f"
+	},
+	{
+		"name": "The_Green_Pack.7z",
+		"relativePath": "montana",
+		"modifiedDate": "2024-12-15T19:49:43.827Z",
+		"size": 699215,
+		"sha256": "f9d3692206f286bbf1d0f70b93072761049bf6fb9dc82d8d04717ef11f6ce7b9"
+	},
+	{
+		"name": "The_Red_Pack.7z",
+		"relativePath": "montana",
+		"modifiedDate": "2024-12-15T19:49:43.827Z",
+		"size": 18677,
+		"sha256": "a89ca271bdf01cbd8dd6509cee8684be479662b0e10e67cd9ee72f4c5ea2adeb"
+	},
+	{
+		"name": "mono2.7z",
+		"relativePath": "montana",
+		"modifiedDate": "2024-12-15T19:49:43.827Z",
+		"size": 25667,
+		"sha256": "18f9102cdb6c7d2698ccda4c11618721b271c9d33aa7aae3f8d2ddc339bcc49b"
+	},
+	{
+		"name": "mono3.7z",
+		"relativePath": "montana",
+		"modifiedDate": "2024-12-15T19:49:43.827Z",
+		"size": 23481,
+		"sha256": "944adc7b45b4616899adb7231d3b572a7b208c90fa4623024a4de7a196b77be5"
+	},
+	{
+		"name": "mono4.7z",
+		"relativePath": "montana",
+		"modifiedDate": "2024-12-15T19:49:43.827Z",
+		"size": 29947,
+		"sha256": "db0ee1ca153c4c7163b096341e0a0f02c199eea30e3dc43793ef6953729fdabe"
+	},
+	{
+		"name": "mono5.7z",
+		"relativePath": "montana",
+		"modifiedDate": "2024-12-15T19:49:43.828Z",
+		"size": 263458,
+		"sha256": "1e93df4f49d790b0e48d04cf5e18692cc83cfec894faa370dc69fd905d97d101"
+	},
+	{
+		"name": "mono6.7z",
+		"relativePath": "montana",
+		"modifiedDate": "2024-12-15T19:49:43.828Z",
+		"size": 127226,
+		"sha256": "9eaa6d9bc8f356e065e24c6250f5a1842f59af6c6af72853bfc2bd908eab6d08"
+	},
+	{
+		"name": "mono7.7z",
+		"relativePath": "montana",
+		"modifiedDate": "2024-12-15T19:49:43.828Z",
+		"size": 106288,
+		"sha256": "7e223f623426b3b7ca3d18f33f799fc20faa286ae397842053c9eb8e6bd033a5"
+	},
+	{
+		"name": "mono8-UNOFFICIAL.7z",
+		"relativePath": "montana",
+		"modifiedDate": "2024-12-15T19:49:43.828Z",
+		"size": 29885,
+		"sha256": "a1502ac8cebc3effdb0d24164a5142e377ad6b6532762e16322aaae8e59acd4a"
+	},
+	{
+		"name": "montana032804.7z",
+		"relativePath": "montana",
+		"modifiedDate": "2024-12-15T19:49:43.828Z",
+		"size": 3157,
+		"sha256": "210e85eb3c72000cf0d960c014e67d9b1f715a437b67dcbf75d113447dbf190d"
+	},
+	{
+		"name": "montana_july_mp.7z",
+		"relativePath": "montana",
+		"modifiedDate": "2024-12-15T19:49:43.828Z",
+		"size": 3686,
+		"sha256": "94e80dc0ac38c9b0c026039d2ccd9c4d6b59a3609c0ef4f90322155cdaf43405"
+	},
+	{
+		"name": "montana_pusher_ep_devart_version.7z",
+		"relativePath": "montana",
+		"modifiedDate": "2024-12-15T19:49:43.828Z",
+		"size": 3410,
+		"sha256": "68f5084a836a4e6f3f099a73ee88e754a823ea3851f6f6ef9e77a06dd7f89c76"
+	},
+	{
+		"name": "mrnudge_1-7.7z",
+		"relativePath": "mrnudge",
+		"modifiedDate": "2024-12-15T19:49:43.829Z",
+		"size": 153879,
+		"sha256": "a19fc8cee398b8919065da4ad599068e2c5c1a9a5d8eb586c48d6d98d9b3ba62"
+	},
+	{
+		"name": "mrnudge_10.7z",
+		"relativePath": "mrnudge",
+		"modifiedDate": "2024-12-15T19:49:43.829Z",
+		"size": 124011,
+		"sha256": "438f736d4ca9abd6cd7349c23c6628977ba2dddc0d2ba827c65feb8a5b47eab8"
+	},
+	{
+		"name": "mrnudge_8.7z",
+		"relativePath": "mrnudge",
+		"modifiedDate": "2024-12-15T19:49:43.829Z",
+		"size": 154491,
+		"sha256": "19dc6308ef3f11eb0e396e867d4a73bdff9e6cbadc6f71a2016561f03b8ad71c"
+	},
+	{
+		"name": "mrnudge_9.7z",
+		"relativePath": "mrnudge",
+		"modifiedDate": "2024-12-15T19:49:43.829Z",
+		"size": 358212,
+		"sha256": "4a96ccde0fefb666d0978c42824c98ba0433907d767dbd0c8c6fab76401b6882"
+	},
+	{
+		"name": "7even.7z",
+		"relativePath": "mykal",
+		"modifiedDate": "2024-12-15T19:49:43.829Z",
+		"size": 13438,
+		"sha256": "7832e5f50761c6e6f3e96481291bcc9f6edb12e5efed6cb88923a8b3edce9d97"
+	},
+	{
+		"name": "art is overrated.7z",
+		"relativePath": "mykal",
+		"modifiedDate": "2024-12-15T19:49:43.830Z",
+		"size": 271046,
+		"sha256": "6d5be948cf6cc529e53eca41719a5cdc6328268a04f3eb4ee29d26732068b7e5"
+	},
+	{
+		"name": "mykaL__7even.zip",
+		"relativePath": "mykal",
+		"modifiedDate": "2024-12-15T19:49:43.830Z",
+		"size": 13985,
+		"sha256": "5ad61352899e570dc4e4ac699482390dd08a9e436e8f87f2188f86a987e14f81"
+	},
+	{
+		"name": "opus IV.7z",
+		"relativePath": "mykal",
+		"modifiedDate": "2024-12-15T19:49:43.830Z",
+		"size": 172337,
+		"sha256": "547bc7ce2745762a37c0eb170e4a1403b42a4c88dc3e663366542d5db907a261"
+	},
+	{
+		"name": "spilling the liquids in AVS.7z",
+		"relativePath": "mykal",
+		"modifiedDate": "2024-12-15T19:49:43.830Z",
+		"size": 344565,
+		"sha256": "c5144196078ee306c40542ef23ec0607783160d55d0bed84f52eec0aee8a5715"
+	},
+	{
+		"name": "the same old pack.7z",
+		"relativePath": "mykal",
+		"modifiedDate": "2024-12-15T19:49:43.831Z",
+		"size": 423430,
+		"sha256": "9f1c2b47c51d97b5fe39acac77d2ba29fe771e0e04838b01b6d24f20de3c0572"
+	},
+	{
+		"name": "yes the simple life.zip",
+		"relativePath": "mykal",
+		"modifiedDate": "2024-12-15T19:49:43.831Z",
+		"size": 485858,
+		"sha256": "3142b6a3e60b28cc822e33b51c38f33fa8d665e0b41779076c25e45468114540"
+	},
+	{
+		"name": "SkiesFallIn.7z",
+		"relativePath": "nemo",
+		"modifiedDate": "2024-12-15T19:49:43.831Z",
+		"size": 23608,
+		"sha256": "b3d58b9a8de3c0de570b8c35003123eb22f411def83be63f39816c5a9b1a4bed"
+	},
+	{
+		"name": "Slumberland.7z",
+		"relativePath": "nemo",
+		"modifiedDate": "2024-12-15T19:49:43.831Z",
+		"size": 27726,
+		"sha256": "ac5ddacb8986a2959d4c368195cda9995fbae598e97b7bb1c186c662d011999d"
+	},
+	{
+		"name": "SomnerIlicidad.7z",
+		"relativePath": "nemo",
+		"modifiedDate": "2024-12-15T19:49:43.831Z",
+		"size": 26616,
+		"sha256": "8a9c95b4c733196a231fa2f5750d68508997a62f685ffbd87b3d7714080bcc9c"
+	},
+	{
+		"name": "lighthology-UNOFFICIAL.7z",
+		"relativePath": "nemo",
+		"modifiedDate": "2024-12-15T19:49:43.832Z",
+		"size": 5607,
+		"sha256": "53577551027ae397b70f2eaeaa5e130d42d3af945e6a8c11bb9305d03815069e"
+	},
+	{
+		"name": "lighthology2-UNOFFICIAL.7z",
+		"relativePath": "nemo",
+		"modifiedDate": "2024-12-15T19:49:43.832Z",
+		"size": 3385,
+		"sha256": "31109b8a12b08bf5785990d34e89292bd0ce365cd053f78a8302adca521e368c"
+	},
+	{
+		"name": "lighthology3.7z",
+		"relativePath": "nemo",
+		"modifiedDate": "2024-12-15T19:49:43.832Z",
+		"size": 61153,
+		"sha256": "f4a8e5156dddd527d4ca4ff5970c6f082055b3c72a9d46c6f04f3735a1cb6baf"
+	},
+	{
+		"name": "soiamrebornagain-UNOFFICIAL.7z",
+		"relativePath": "nemo",
+		"modifiedDate": "2024-12-15T19:49:43.832Z",
+		"size": 11384,
+		"sha256": "75b01e503f999f653e71115ac40f5b0d68e7a054b9ef1377cfa69eb838a19494"
+	},
+	{
+		"name": "B2B-UNOFFICIAL.7z",
+		"relativePath": "nic01",
+		"modifiedDate": "2024-12-15T19:49:43.832Z",
+		"size": 2726,
+		"sha256": "45f5e41830c5fa6e722711638bb200046f38832564d28a6c437600a8c6216398"
+	},
+	{
+		"name": "Nic01-Stuffs_and_Things-UNOFFICIAl.7z",
+		"relativePath": "nic01",
+		"modifiedDate": "2024-12-15T19:49:43.832Z",
+		"size": 14961,
+		"sha256": "01e9daf692278f5e4dfc710aa7951925a4edeb12234fabfb95a4df989cd9e892"
+	},
+	{
+		"name": "Nic03-2D_vs_3D-UNOFFICIAL.7z",
+		"relativePath": "nic01",
+		"modifiedDate": "2024-12-15T19:49:43.832Z",
+		"size": 90441,
+		"sha256": "a8894c33c481ef73049a45b233579a8aa3538f5765fe91523b7008dbd679eb43"
+	},
+	{
+		"name": "Nic04-For_the_Better-UNOFFICIAL.7z",
+		"relativePath": "nic01",
+		"modifiedDate": "2024-12-15T19:49:43.833Z",
+		"size": 20611,
+		"sha256": "a39e09f436e132f3561fc51b6f1a5ce6debf4cda29c6cd4191846e072c9b2f6b"
+	},
+	{
+		"name": "Nic05-Fifth_Period-UNOFFICIAL.7z",
+		"relativePath": "nic01",
+		"modifiedDate": "2024-12-15T19:49:43.833Z",
+		"size": 14886,
+		"sha256": "c541318290ff4a0a738801649c8543376f13bad228aeb21aa10b14f7cd7e3b62"
+	},
+	{
+		"name": "Nic06-Forwards_and_Upwards-UNOFFICIAL.7z",
+		"relativePath": "nic01",
+		"modifiedDate": "2024-12-15T19:49:43.833Z",
+		"size": 17045,
+		"sha256": "056b541892c10af405293e0cceac84c5974758a3349de8324041aba53faf4cee"
+	},
+	{
+		"name": "feebleattemps.7z",
+		"relativePath": "onionring",
+		"modifiedDate": "2024-12-15T19:49:43.833Z",
+		"size": 84815,
+		"sha256": "fcbc0783a228cbbe7f92e622f94721289b1ada5502831de2c472df049723a2dd"
+	},
+	{
+		"name": "feebleattemps2.7z",
+		"relativePath": "onionring",
+		"modifiedDate": "2024-12-15T19:49:43.833Z",
+		"size": 65381,
+		"sha256": "9fe18d0fbf39e089bcbe09a8627ab311917629789d726c170b16397191684ae1"
+	},
+	{
+		"name": "oussy1.7z",
+		"relativePath": "oussy",
+		"modifiedDate": "2024-12-15T19:49:43.834Z",
+		"size": 467050,
+		"sha256": "bba50226c59f0eb5d4ac0816dda2e1e2a864b6a866cfe36d8aaa027603ac4644"
+	},
+	{
+		"name": "oussy2.7z",
+		"relativePath": "oussy",
+		"modifiedDate": "2024-12-15T19:49:43.834Z",
+		"size": 102499,
+		"sha256": "66ea11de94d3a252bf7fab51959dcde3f2b6ecab253d96d006730baa4a4b71d5"
+	},
+	{
+		"name": "PAK-9_AVS_1.7z",
+		"relativePath": "pak-9",
+		"modifiedDate": "2024-12-15T19:49:43.834Z",
+		"size": 117706,
+		"sha256": "068ff394c9b30e40d3696c031595158321edb1163f84937ed2500cc28822490f"
+	},
+	{
+		"name": "PAK-9_AVS_2.7z",
+		"relativePath": "pak-9",
+		"modifiedDate": "2024-12-15T19:49:43.834Z",
+		"size": 559386,
+		"sha256": "a5b282c69f7379a25e0d35247e86ba38aa4f1be5cb744464fc09f9bd28eac8c8"
+	},
+	{
+		"name": "PAK-9_AVS_3.7z",
+		"relativePath": "pak-9",
+		"modifiedDate": "2024-12-15T19:49:43.834Z",
+		"size": 263482,
+		"sha256": "e586d8061bc8aef88c7bd71dc62c1647d8e5990aeea62f39380d08889783071d"
+	},
+	{
+		"name": "PAK-9_AVS_4SE.7z",
+		"relativePath": "pak-9",
+		"modifiedDate": "2024-12-15T19:49:43.835Z",
+		"size": 263538,
+		"sha256": "1e46f554d204d62b3b1bd6b002e680f5c9338acee54723e5f9e0684b05c352dc"
+	},
+	{
+		"name": "PAK-9_AVS_5.7z",
+		"relativePath": "pak-9",
+		"modifiedDate": "2024-12-15T19:49:43.835Z",
+		"size": 917390,
+		"sha256": "4f72ca703567660fa7975957970968c1017b9dfc072869d48e1467faebda5889"
+	},
+	{
+		"name": "PAK-9_Remixes.7z",
+		"relativePath": "pak-9",
+		"modifiedDate": "2024-12-15T19:49:43.835Z",
+		"size": 94685,
+		"sha256": "1faedd6763ab87ee611ee8bf026bca59c704fcec2d594f96258a47564732f61c"
+	},
+	{
+		"name": "The_Dedications.7z",
+		"relativePath": "pak-9",
+		"modifiedDate": "2024-12-15T19:49:43.835Z",
+		"size": 67484,
+		"sha256": "e31b30e163f9f7a9b183022c6b394452fb74c5912efcb401846c3e2d4b07694f"
+	},
+	{
+		"name": "ParaNoya_Breaking_Boundaries.7z",
+		"relativePath": "paranoya",
+		"modifiedDate": "2024-12-15T19:49:43.836Z",
+		"size": 40241,
+		"sha256": "8a1d5765e9daa7ba4a6264b1164c5420cbf0827908d743926d5185bab7a63130"
+	},
+	{
+		"name": "ParaNoya_Most_Wanted_Pack.7z",
+		"relativePath": "paranoya",
+		"modifiedDate": "2024-12-15T19:49:43.836Z",
+		"size": 23406,
+		"sha256": "8c35534a912675d9d84f657f3ffcffa15654be810aedbc7e0b1240bd5eae122a"
+	},
+	{
+		"name": "ParaNoya_The_Next_Endeavour1.7z",
+		"relativePath": "paranoya",
+		"modifiedDate": "2024-12-15T19:49:43.836Z",
+		"size": 40218,
+		"sha256": "48f49a25d9254f6e9adef0ba7ada550c802dda4f67f8aa00ea4bdd4f25842400"
+	},
+	{
+		"name": "ParaNoya_The_ParaNoya_Pack.7z",
+		"relativePath": "paranoya",
+		"modifiedDate": "2024-12-15T19:49:43.836Z",
+		"size": 20615,
+		"sha256": "ecf4f1045dfa9719ee5c776f8c7f2a03329543ad576ce3cdd6056793e72e58ba"
+	},
+	{
+		"name": "phunck1.7z",
+		"relativePath": "phunck",
+		"modifiedDate": "2024-12-15T19:49:43.836Z",
+		"size": 186841,
+		"sha256": "9fb39a05e0ae0a47ebb8c51e538c2b5ae5a770e11b0d9a6702be638877c05655"
+	},
+	{
+		"name": "phunck2.7z",
+		"relativePath": "phunck",
+		"modifiedDate": "2024-12-15T19:49:43.836Z",
+		"size": 212035,
+		"sha256": "c63576f5234dc1eb11fefdd6b155fac864945693fe117632a5ae99711095ece4"
+	},
+	{
+		"name": "pishiru1.7z",
+		"relativePath": "pishiru",
+		"modifiedDate": "2024-12-15T19:49:43.837Z",
+		"size": 27261,
+		"sha256": "f071cf39765cb8b64fc063bdaac8ae227078910e5a69cd033b6c3f3011e2a76b"
+	},
+	{
+		"name": "pishiru2.7z",
+		"relativePath": "pishiru",
+		"modifiedDate": "2024-12-15T19:49:43.837Z",
+		"size": 23208,
+		"sha256": "323fe2556d115f83bbb3a5ee762269d662ae6561475cd6e531ed23312888f72b"
+	},
+	{
+		"name": "pishiru3-UNOFFICIAL.7z",
+		"relativePath": "pishiru",
+		"modifiedDate": "2024-12-15T19:49:43.837Z",
+		"size": 13634,
+		"sha256": "9f01bc9ecc5c207b5b525a6ca2940569b76f4f1dffe4747d1163c99fec32f4a0"
+	},
+	{
+		"name": "pishiru3.7z",
+		"relativePath": "pishiru",
+		"modifiedDate": "2024-12-15T19:49:43.837Z",
+		"size": 43090,
+		"sha256": "4fbf56d0aeda06943277bb489dfcad9d9ff7ed5fb64e57540883f1e967abda54"
+	},
+	{
+		"name": "dusk.7z",
+		"relativePath": "pixelcraft",
+		"modifiedDate": "2024-12-15T19:49:43.837Z",
+		"size": 59227,
+		"sha256": "0f9dfa64b42b5bc133ec29cb7bd7d5abd40c233bca391f5bc1fe1cab99eb0a26"
+	},
+	{
+		"name": "the_crossing.7z",
+		"relativePath": "pixelcraft",
+		"modifiedDate": "2024-12-15T19:49:43.837Z",
+		"size": 113538,
+		"sha256": "c5d483fb4cbda02489c2a267c4b04911df3f46e5faf3f97c5b8b241cd82e2aee"
+	},
+	{
+		"name": "double_helix.7z",
+		"relativePath": "pottsy",
+		"modifiedDate": "2024-12-15T19:49:43.837Z",
+		"size": 72540,
+		"sha256": "15a26c013934434d4f4a3cf5a521cc5610a2f474d418719ec7c56500415fa470"
+	},
+	{
+		"name": "heretics_anonymous.7z",
+		"relativePath": "pottsy",
+		"modifiedDate": "2024-12-15T19:49:43.838Z",
+		"size": 143779,
+		"sha256": "426eb6f70d0d3e30676f1074edfd87412c1c6329a7633e8c6d6a77e7cce1ae59"
+	},
+	{
+		"name": "i_cant_believe_its_not_lard.7z",
+		"relativePath": "pottsy",
+		"modifiedDate": "2024-12-15T19:49:43.838Z",
+		"size": 68266,
+		"sha256": "66703ce7a3f67102e5d2c2b8acf6d51a1668e1d2bcddc036a782094df90620f0"
+	},
+	{
+		"name": "latter.zip",
+		"relativePath": "pottsy",
+		"modifiedDate": "2024-12-15T19:49:43.838Z",
+		"size": 4694,
+		"sha256": "29b8cf643bf6be669f737c700171660cc85cc516bcbe558ead402baeb59a8485"
+	},
+	{
+		"name": "radioactive.7z",
+		"relativePath": "pottsy",
+		"modifiedDate": "2024-12-15T19:49:43.838Z",
+		"size": 30270,
+		"sha256": "7ed78e5fd8fa6c8f5a0fb89af7404a39920bb633233dbfa2b91f9b465870629e"
+	},
+	{
+		"name": "sceptre.7z",
+		"relativePath": "pottsy",
+		"modifiedDate": "2024-12-15T19:49:43.838Z",
+		"size": 100024,
+		"sha256": "39fad3cd3f06c7d87d289527e03e14cbb3595123e1f2f06615e128d1a1a231f3"
+	},
+	{
+		"name": "untitled.7z",
+		"relativePath": "pottsy",
+		"modifiedDate": "2024-12-15T19:49:43.839Z",
+		"size": 38033,
+		"sha256": "8fd8286bdeb5d922cc8e88cc1c50776051ca6d5cf73adcfd2d39a20def7fba89"
+	},
+	{
+		"name": "white_noise.7z",
+		"relativePath": "pottsy",
+		"modifiedDate": "2024-12-15T19:49:43.839Z",
+		"size": 70329,
+		"sha256": "1be272bb34e0c5a19d91555dcee9e1a4233d1431fa51aa7975b8eea47665ffd5"
+	},
+	{
+		"name": "RemoteSensor1.7z",
+		"relativePath": "pure-krypton",
+		"modifiedDate": "2024-12-15T19:49:43.839Z",
+		"size": 206822,
+		"sha256": "b1381937d0bc878e718aa83560959e27f9c2f0598ea2ad124b9e18cbe3267e2a"
+	},
+	{
+		"name": "RemoteSensor2.7z",
+		"relativePath": "pure-krypton",
+		"modifiedDate": "2024-12-15T19:49:43.839Z",
+		"size": 206679,
+		"sha256": "f2f0b236d822c32d4ecafe3a14255fb7777afe564368f8ca060b5d665672bf3c"
+	},
+	{
+		"name": "RemoteSensor3.7z",
+		"relativePath": "pure-krypton",
+		"modifiedDate": "2024-12-15T19:49:43.839Z",
+		"size": 69200,
+		"sha256": "4c38260d7981f88d08661af85fd318c5c02207a3d02b3791131b838157e811ed"
+	},
+	{
+		"name": "RemoteSensor4.7z",
+		"relativePath": "pure-krypton",
+		"modifiedDate": "2024-12-15T19:49:43.839Z",
+		"size": 91056,
+		"sha256": "a83367fd65624549d3be7a60742b425144dec074dff91d993c566672c9d5e00c"
+	},
+	{
+		"name": "mp01.7z",
+		"relativePath": "pure-krypton",
+		"modifiedDate": "2024-12-15T19:49:43.840Z",
+		"size": 127748,
+		"sha256": "443647ec82e1745cfa90d69b62d76b0556222e4ed74268ded006889ef7aba3b7"
+	},
+	{
+		"name": "mp02.7z",
+		"relativePath": "pure-krypton",
+		"modifiedDate": "2024-12-15T19:49:43.840Z",
+		"size": 4510,
+		"sha256": "c5ca95fea622357d418843f9b800e2f56f81b20116de12ee4265eab9e921b46d"
+	},
+	{
+		"name": "raz1.7z",
+		"relativePath": "raz",
+		"modifiedDate": "2024-12-15T19:49:43.840Z",
+		"size": 101754,
+		"sha256": "c4ecb50a711d9ca31160a9311505e4ce7de4ed7ca5519bca2d5f0134bd368034"
+	},
+	{
+		"name": "raz2.7z",
+		"relativePath": "raz",
+		"modifiedDate": "2024-12-15T19:49:43.840Z",
+		"size": 137961,
+		"sha256": "0b91e26fe35a0918c537c5501dd0a8fac771321b8f636fd42290eaa0ea97ba5b"
+	},
+	{
+		"name": "raz3.7z",
+		"relativePath": "raz",
+		"modifiedDate": "2024-12-15T19:49:43.840Z",
+		"size": 622146,
+		"sha256": "317ccabaec7b4a688863d05bef8f8015d2b33463d0bd8df9f11d43916fc03cc3"
+	},
+	{
+		"name": "raz4.7z",
+		"relativePath": "raz",
+		"modifiedDate": "2024-12-15T19:49:43.841Z",
+		"size": 135258,
+		"sha256": "cdf06185ea5068c6ebce28ebac439380523b964987c89cc6cae6247f1a5d4ee7"
+	},
+	{
+		"name": "razSnailRemixes.7z",
+		"relativePath": "raz",
+		"modifiedDate": "2024-12-15T19:49:43.841Z",
+		"size": 257533,
+		"sha256": "dcf19ee1055489d8d7054f187e44a8d82365e265bd5753df8e87fe06a6de035f"
+	},
+	{
+		"name": "Mo0nWaVeS.7z",
+		"relativePath": "runar",
+		"modifiedDate": "2024-12-15T19:49:43.841Z",
+		"size": 2151,
+		"sha256": "57f70406fc2637cc073b75b498c9de96c470d254e57b03cfb352693908b8a58f"
+	},
+	{
+		"name": "beyond_the_far_side.7z",
+		"relativePath": "runar",
+		"modifiedDate": "2024-12-15T19:49:43.841Z",
+		"size": 39137,
+		"sha256": "ccfee37388b923c7f2ec504bb94038082a7effb40ca93ee578f39650001274e0"
+	},
+	{
+		"name": "blood_saliva_and_broken_bones.7z",
+		"relativePath": "runar",
+		"modifiedDate": "2024-12-15T19:49:43.841Z",
+		"size": 38165,
+		"sha256": "270280a70768236a3445883f3d6cce298492d0c68c2aabc289ee72cbe46e3625"
+	},
+	{
+		"name": "cyber-voodoo.7z",
+		"relativePath": "runar",
+		"modifiedDate": "2024-12-15T19:49:43.841Z",
+		"size": 34800,
+		"sha256": "c082405f87e54a487ada8230cdb18b4f9ec3fe68c6039a1241660e25c84a25fa"
+	},
+	{
+		"name": "eearly_days.7z",
+		"relativePath": "runar",
+		"modifiedDate": "2024-12-15T19:49:43.842Z",
+		"size": 2739,
+		"sha256": "a1d35b666177d58add5d7b0fd0a29fe664dd7afd61f3b8e638c56ca2a1f0bc7f"
+	},
+	{
+		"name": "erazemia_dream.7z",
+		"relativePath": "runar",
+		"modifiedDate": "2024-12-15T19:49:43.842Z",
+		"size": 32607,
+		"sha256": "807b2ba7764d2a9f564d6d13afd3fde17f0107a8c4311a8efbebf2a1d762b4dc"
+	},
+	{
+		"name": "live_from_the_castle.7z",
+		"relativePath": "runar",
+		"modifiedDate": "2024-12-15T19:49:43.842Z",
+		"size": 98140,
+		"sha256": "2058ca00b26d545279043339d7b380f89de7136a98bf52d50c6e447082f784b6"
+	},
+	{
+		"name": "midnight_in_hell.7z",
+		"relativePath": "runar",
+		"modifiedDate": "2024-12-15T19:49:43.842Z",
+		"size": 40058,
+		"sha256": "d972c209aeab8021446c42050c85c0e80a3487b831fcd1ecff1934a78c101aaa"
+	},
+	{
+		"name": "phatphilosophy.7z",
+		"relativePath": "runar",
+		"modifiedDate": "2024-12-15T19:49:43.842Z",
+		"size": 33477,
+		"sha256": "df317b0204e93ca5290772c1a705032f616178bf547b5e862ec7c9f9e313cfcd"
+	},
+	{
+		"name": "skyscraping.7z",
+		"relativePath": "runar",
+		"modifiedDate": "2024-12-15T19:49:43.842Z",
+		"size": 70153,
+		"sha256": "4f65a7573aacb9bcce64d67690d5456f5247997e6bad5778d7e15ef6354ceb4a"
+	},
+	{
+		"name": "Energy-UNOFFICIAL.7z",
+		"relativePath": "shockvalue",
+		"modifiedDate": "2024-12-15T19:49:43.843Z",
+		"size": 33480,
+		"sha256": "859d5a658d1ccac2a12acbc1c4ce4d7bbbd7f0b62dd6eaac7122b2188cb30f58"
+	},
+	{
+		"name": "TotalImmersion.7z",
+		"relativePath": "shockvalue",
+		"modifiedDate": "2024-12-15T19:49:43.843Z",
+		"size": 166957,
+		"sha256": "00de666f75701d574c0a035d6d503260e71cedde6a68102287218e33f8d479b7"
+	},
+	{
+		"name": "vortex.7z",
+		"relativePath": "skin_consortium",
+		"modifiedDate": "2024-12-15T19:49:43.843Z",
+		"size": 252085,
+		"sha256": "e880985bc9ac52db3b109613426c56e76d09eec5b30ccd6df29e7cea9c5d500d"
+	},
+	{
+		"name": "S_KuPeRS-AVSParts.7z",
+		"relativePath": "skupers",
+		"modifiedDate": "2024-12-15T19:49:43.843Z",
+		"size": 19951,
+		"sha256": "896fc7010fda4c1e1ee3e6250ffe9a2003ea4bac9a1d3febdd615274cdec43ef"
+	},
+	{
+		"name": "S_KuPeRS-BrokenMirror.7z",
+		"relativePath": "skupers",
+		"modifiedDate": "2024-12-15T19:49:43.843Z",
+		"size": 23114,
+		"sha256": "d9f4e08d65113a1d64cf35e4985de9fc9b90f99def73e8d3f6606bbcd63011d8"
+	},
+	{
+		"name": "S_KuPeRS-EP5-Dream.7z",
+		"relativePath": "skupers",
+		"modifiedDate": "2024-12-15T19:49:43.843Z",
+		"size": 68347,
+		"sha256": "83367e23c77279d1725b93eb344fbcf95fc3342a8740c7f2c845f4efebb66fc3"
+	},
+	{
+		"name": "S_KuPeRS-LP3-Storm.7z",
+		"relativePath": "skupers",
+		"modifiedDate": "2024-12-15T19:49:43.843Z",
+		"size": 32607,
+		"sha256": "05b6abbe3832b1bb952610accff778a3ecbb407b3705232d1354babae804f368"
+	},
+	{
+		"name": "S_KuPeRS-LP4-Digital.7z",
+		"relativePath": "skupers",
+		"modifiedDate": "2024-12-15T19:49:43.844Z",
+		"size": 72148,
+		"sha256": "60364a246b697b042fd4ba22eba2956f160361ce41ba69f6f8c2199ad92f07f3"
+	},
+	{
+		"name": "S_KuPeRS-LP5-Logical.7z",
+		"relativePath": "skupers",
+		"modifiedDate": "2024-12-15T19:49:43.844Z",
+		"size": 269064,
+		"sha256": "a70b92eb5be85fc57d63bc94c516d9cd1af844deeeb000458d042dc09a1e4780"
+	},
+	{
+		"name": "S_KuPeRS-LP6.7z",
+		"relativePath": "skupers",
+		"modifiedDate": "2024-12-15T19:49:43.844Z",
+		"size": 419189,
+		"sha256": "5c507a81511bf47859676018d941bf8d10c78dfdd48a47a5e8a6a0c7597bde42"
+	},
+	{
+		"name": "S_KuPeRS-PP4-128-bit.7z",
+		"relativePath": "skupers",
+		"modifiedDate": "2024-12-15T19:49:43.844Z",
+		"size": 27895,
+		"sha256": "0b252b11ba9b4c6b419757dea7cf0040ea26c701dc67927f3f59463efa6f4d3b"
+	},
+	{
+		"name": "S_KuPeRS-Remixes_Release_2.7z",
+		"relativePath": "skupers",
+		"modifiedDate": "2024-12-15T19:49:43.844Z",
+		"size": 35555,
+		"sha256": "7de68d149ef467c62c71cef694bd191f78e58f410c277f3c7710915b5f689c5c"
+	},
+	{
+		"name": "S_KuPeRS-ScriptedSequenceMinipack.7z",
+		"relativePath": "skupers",
+		"modifiedDate": "2024-12-15T19:49:43.845Z",
+		"size": 21052,
+		"sha256": "ec26fb4a20dd589a4244a24afb56535d84f7e8d213fb3ba12a35ee61c8310f56"
+	},
+	{
+		"name": "S_KuPeRS-Static.7z",
+		"relativePath": "skupers",
+		"modifiedDate": "2024-12-15T19:49:43.845Z",
+		"size": 28680,
+		"sha256": "6452e5b94700fa779fc335e1932f95b41d0a3f34786e4feb16253020a10402a2"
+	},
+	{
+		"name": "sk-inversions_ep.zip",
+		"relativePath": "skupers",
+		"modifiedDate": "2024-12-15T19:49:43.845Z",
+		"size": 6663,
+		"sha256": "968a73ed611e3c66b5807b630475ac8cf2aa29764e0fa5b485bd658581d0df48"
+	},
+	{
+		"name": "sk-versus_sx.zip",
+		"relativePath": "skupers",
+		"modifiedDate": "2024-12-15T19:49:43.845Z",
+		"size": 1718,
+		"sha256": "4b893e8fb7cf63f1dcc104ba6915da83dc5dcee0860fd305218775435ae8e320"
+	},
+	{
+		"name": "sk_avsnake.7z",
+		"relativePath": "skupers",
+		"modifiedDate": "2024-12-15T19:49:43.845Z",
+		"size": 55102,
+		"sha256": "1c6bc68c33d8daa238fc37cec675f05f8ffa59e384d2b3e56a40bb7bdaa990a6"
+	},
+	{
+		"name": "the_netherlands_minipack.7z",
+		"relativePath": "skupers",
+		"modifiedDate": "2024-12-15T19:49:43.845Z",
+		"size": 88472,
+		"sha256": "835d316a0ddabf18377cfa6f31c6ca9fd9ba836dc1adc8fbb142d5c35917a74d"
+	},
+	{
+		"name": "4x3.7z",
+		"relativePath": "stardust",
+		"modifiedDate": "2024-12-15T19:49:43.845Z",
+		"size": 135821,
+		"sha256": "2f0a9043537de9c7400bd7d1c6bb373b838e544ee1d0730d311f4bcdcfbf139d"
+	},
+	{
+		"name": "Hibernation.7z",
+		"relativePath": "stardust",
+		"modifiedDate": "2024-12-15T19:49:43.846Z",
+		"size": 132116,
+		"sha256": "92da743095b7fe4c37842fea200879b0b816e0697a93bfa6359e9a9143413ed1"
+	},
+	{
+		"name": "NewPack.7z",
+		"relativePath": "stardust",
+		"modifiedDate": "2024-12-15T19:49:43.846Z",
+		"size": 20232,
+		"sha256": "46d4e853c2a9f38bde791d4402dceb7728683e94ba290dac08e13c2bcfe71d69"
+	},
+	{
+		"name": "PowerMove.7z",
+		"relativePath": "stardust",
+		"modifiedDate": "2024-12-15T19:49:43.846Z",
+		"size": 21472,
+		"sha256": "48232010f01c389dea10b4fc0d9f13bc7987f337335c989b2294dbc249852d9e"
+	},
+	{
+		"name": "Practice.7z",
+		"relativePath": "stardust",
+		"modifiedDate": "2024-12-15T19:49:43.846Z",
+		"size": 21849,
+		"sha256": "5b3bb86787a86b440f05d76a9dd6982fb555b172ac1d8233b2ce48431ddb2ce1"
+	},
+	{
+		"name": "Sanctuary.7z",
+		"relativePath": "stardust",
+		"modifiedDate": "2024-12-15T19:49:43.846Z",
+		"size": 119234,
+		"sha256": "701a088eaeccfd19b4d17fa6e8e9193f6ab42f7859dcd2fe19876e605f7d5430"
+	},
+	{
+		"name": "SummerCollection.7z",
+		"relativePath": "stardust",
+		"modifiedDate": "2024-12-15T19:49:43.846Z",
+		"size": 17116,
+		"sha256": "338a8bfa159a29b060a5539c35acca4102ded490f40277e1b56ed0c1694dcf3e"
+	},
+	{
+		"name": "stardust1.7z",
+		"relativePath": "stardust",
+		"modifiedDate": "2024-12-15T19:49:43.847Z",
+		"size": 21924,
+		"sha256": "9ad087ccdf2dd6d96354f9557d31ad1f72d4c96594f16f297f29b3a12badf829"
+	},
+	{
+		"name": "stardust2.7z",
+		"relativePath": "stardust",
+		"modifiedDate": "2024-12-15T19:49:43.847Z",
+		"size": 19250,
+		"sha256": "f8aa66b0bd0ddc86248feba50e8c261ee44ecd2512a4fa057cd05eb705a16ac2"
+	},
+	{
+		"name": "stardust3.7z",
+		"relativePath": "stardust",
+		"modifiedDate": "2024-12-15T19:49:43.847Z",
+		"size": 22151,
+		"sha256": "2e74157d1c1d2565bded4f10c4522ae10d197a82756f9a1d9a58f76d2dedf869"
+	},
+	{
+		"name": "stardust4.7z",
+		"relativePath": "stardust",
+		"modifiedDate": "2024-12-15T19:49:43.847Z",
+		"size": 21883,
+		"sha256": "6d3edd195b9558aecc1c3561d9f819f8365c5279bf0f21bc98a2f8e4c998f0a5"
+	},
+	{
+		"name": "stardust5.7z",
+		"relativePath": "stardust",
+		"modifiedDate": "2024-12-15T19:49:43.847Z",
+		"size": 21560,
+		"sha256": "b6e5ff493ca79aea63f4dec8231d9213269da12cbade1e4922e5a9be35d4fe1b"
+	},
+	{
+		"name": "DreamHorizon.7z",
+		"relativePath": "t-k",
+		"modifiedDate": "2024-12-15T19:49:43.847Z",
+		"size": 36956,
+		"sha256": "4af97a8bd93d687cfd3a330d482e6da48bb77666c975a171251212b6070dbee8"
+	},
+	{
+		"name": "Final_Cut.7z",
+		"relativePath": "t-k",
+		"modifiedDate": "2024-12-15T19:49:43.847Z",
+		"size": 28479,
+		"sha256": "cd8bffa0ebbb6f22d7412d8c7f21591b86e992b6fbc93d3396fbbab66d547114"
+	},
+	{
+		"name": "Melting_the_Clouds.7z",
+		"relativePath": "t-k",
+		"modifiedDate": "2024-12-15T19:49:43.847Z",
+		"size": 24921,
+		"sha256": "c0d4e365a611d48f644130a49d29c0870c0ec0b3efe24693895841127b6e0a3a"
+	},
+	{
+		"name": "Voices_from_the_Sky.7z",
+		"relativePath": "t-k",
+		"modifiedDate": "2024-12-15T19:49:43.848Z",
+		"size": 22243,
+		"sha256": "c2a7b35ac801f51a03820a57b78f8f581847d159e1a355d94c85e47b858c64ab"
+	},
+	{
+		"name": "What_we_look_for-UNOFFICIAL.7z",
+		"relativePath": "t-k",
+		"modifiedDate": "2024-12-15T19:49:43.848Z",
+		"size": 23287,
+		"sha256": "3f133a539596f9091033ed53d232092f929d20456e8b25e4b2af11b9593ff7cf"
+	},
+	{
+		"name": "Cherno_Belia.7z",
+		"relativePath": "tonic",
+		"modifiedDate": "2024-12-15T19:49:43.848Z",
+		"size": 276101,
+		"sha256": "9fec0cc25afa0dbf0aed3d58f9b42f91970ca0369a076b5b927ad4783a8e1acd"
+	},
+	{
+		"name": "Fattest_AVS_Pack.zip",
+		"relativePath": "tonic",
+		"modifiedDate": "2024-12-15T19:49:43.848Z",
+		"size": 431456,
+		"sha256": "8b93485ff37b29147483eee427702759042c7d90324bad8ae3d9073e5dbd29ef"
+	},
+	{
+		"name": "No_more_teasing.7z",
+		"relativePath": "tonic",
+		"modifiedDate": "2024-12-15T19:49:43.848Z",
+		"size": 45096,
+		"sha256": "f9caf67a1aab1423d8cf8be6d5193c5f5738deb6e294ca103760fba0fd7d3002"
+	},
+	{
+		"name": "v2-Made_in_Bulgaria.7z",
+		"relativePath": "tonic",
+		"modifiedDate": "2024-12-15T19:49:43.849Z",
+		"size": 356758,
+		"sha256": "f243f9dfa019137bb67d3c009ee46668f7ed51d8c81599b996e0f70ffcf8aa90"
+	},
+	{
+		"name": "v4-My_4D_Life_in_Sofia.7z",
+		"relativePath": "tonic",
+		"modifiedDate": "2024-12-15T19:49:43.849Z",
+		"size": 536234,
+		"sha256": "d5c93a1d00ca11f0f78f551529df91df6682ed6e384f7b0742ee6d9cc73c93f6"
+	},
+	{
+		"name": "v5-BnW2.7z",
+		"relativePath": "tonic",
+		"modifiedDate": "2024-12-15T19:49:43.849Z",
+		"size": 449572,
+		"sha256": "419b0aa01280ad3742120f07ed443fd2753f9be63e9cd0447237851c101f698c"
+	},
+	{
+		"name": "After_Future.7z",
+		"relativePath": "troubleshooter",
+		"modifiedDate": "2024-12-15T19:49:43.850Z",
+		"size": 37973,
+		"sha256": "2fa70bac2a34be3872ec199c8e023e2e647342947c79d64f84a75268f89dd862"
+	},
+	{
+		"name": "Digital_Dreams.7z",
+		"relativePath": "troubleshooter",
+		"modifiedDate": "2024-12-15T19:49:43.850Z",
+		"size": 49418,
+		"sha256": "45ca325959e971ef684187245dcb418f68d648dd754920612748fa1017cdf0a4"
+	},
+	{
+		"name": "Hopeless_Worlds.7z",
+		"relativePath": "troubleshooter",
+		"modifiedDate": "2024-12-15T19:49:43.850Z",
+		"size": 408403,
+		"sha256": "7afcb6f16b547d45adde9787f6933a5d2f4853166c9c714179cc55e9c406f2a1"
+	},
+	{
+		"name": "AvsParty1.7z",
+		"relativePath": "tuggummi",
+		"modifiedDate": "2024-12-15T19:49:43.850Z",
+		"size": 39439,
+		"sha256": "9d0f7f6ed62ddbfe8a63edf42b0bba974d8181d44b31ed860d18c6945e025da7"
+	},
+	{
+		"name": "AvsParty3.7z",
+		"relativePath": "tuggummi",
+		"modifiedDate": "2024-12-15T19:49:43.850Z",
+		"size": 215292,
+		"sha256": "cdcce6f7dcfca63ffd173dbbe2eff8e4d1233d97298e2c65e8fa8b92501fca08"
+	},
+	{
+		"name": "Bitmapped.7z",
+		"relativePath": "tuggummi",
+		"modifiedDate": "2024-12-15T19:49:43.851Z",
+		"size": 1258840,
+		"sha256": "58418ebf53df5560703623fe9d7767f241b69c22ead4f0529d612fd3e0e76087"
+	},
+	{
+		"name": "Bitmapped2.7z",
+		"relativePath": "tuggummi",
+		"modifiedDate": "2024-12-15T19:49:43.851Z",
+		"size": 943554,
+		"sha256": "8c7500ab426eeabbe170b430077da30b6b4e771bb050123058123bb4a007993b"
+	},
+	{
+		"name": "Breaking_Myself.7z",
+		"relativePath": "tuggummi",
+		"modifiedDate": "2024-12-15T19:49:43.852Z",
+		"size": 261357,
+		"sha256": "b7bb6cce3eac8e0cf68e58047d4eb6768b3defa1758dcae8e6839fb295eace32"
+	},
+	{
+		"name": "ExtraDimension.7z",
+		"relativePath": "tuggummi",
+		"modifiedDate": "2024-12-15T19:49:43.852Z",
+		"size": 548526,
+		"sha256": "b2fa52ba93a151faa0722c29c044f4f877f054e313e94872b0faf1b4637ccbbf"
+	},
+	{
+		"name": "Functions.7z",
+		"relativePath": "tuggummi",
+		"modifiedDate": "2024-12-15T19:49:43.852Z",
+		"size": 141387,
+		"sha256": "d61dbf4ae8d0314ead01dd6b712baef15c58f6b66819dbadfa1bbf55a70617a1"
+	},
+	{
+		"name": "GenerationX.7z",
+		"relativePath": "tuggummi",
+		"modifiedDate": "2024-12-15T19:49:43.852Z",
+		"size": 105117,
+		"sha256": "36e8420ee48299f19ba2dc14e0400d6af6f98843605e463e0b121267a0ef146e"
+	},
+	{
+		"name": "Innovation.7z",
+		"relativePath": "tuggummi",
+		"modifiedDate": "2024-12-15T19:49:43.852Z",
+		"size": 134567,
+		"sha256": "35fc2b0aeffb9af2a35d2d57033e4a84fb8419fd79d67e324c4c37a50f1d90d3"
+	},
+	{
+		"name": "NewAge.7z",
+		"relativePath": "tuggummi",
+		"modifiedDate": "2024-12-15T19:49:43.853Z",
+		"size": 79482,
+		"sha256": "ed92ccf3ac48e7c1103883973a2fcb96d619b785dbaee24b765466d9b3713784"
+	},
+	{
+		"name": "One2Pack.7z",
+		"relativePath": "tuggummi",
+		"modifiedDate": "2024-12-15T19:49:43.853Z",
+		"size": 41105,
+		"sha256": "81fffb7f9ff6cf02429d76f85f2c8ead7469f5c7fa8e149a04f4f725c755c058"
+	},
+	{
+		"name": "Response.7z",
+		"relativePath": "tuggummi",
+		"modifiedDate": "2024-12-15T19:49:43.853Z",
+		"size": 65407,
+		"sha256": "d14cf4ba2b5972caa1c5f139e7b1d6fa7a38c5aa3aa282584ab28ac387c3bc4a"
+	},
+	{
+		"name": "RipOff.7z",
+		"relativePath": "tuggummi",
+		"modifiedDate": "2024-12-15T19:49:43.853Z",
+		"size": 55806,
+		"sha256": "53c8ebf0ec7f4dfba4f9e95c0e4589f2468e782190391b2f95d5478375ca78db"
+	},
+	{
+		"name": "Singles2004.7z",
+		"relativePath": "tuggummi",
+		"modifiedDate": "2024-12-15T19:49:43.853Z",
+		"size": 200890,
+		"sha256": "0ceda0a54f823b0ab0fac824d432e378661e7fc8ced3326bc5c8bdceb1bcaa87"
+	},
+	{
+		"name": "Strobotonic.7z",
+		"relativePath": "tuggummi",
+		"modifiedDate": "2024-12-15T19:49:43.853Z",
+		"size": 55872,
+		"sha256": "51c175d05492871c0afaecb385f1a74a5ad39d6fe2e9e3d965e3403eff7d3dff"
+	},
+	{
+		"name": "Strobotonic2.7z",
+		"relativePath": "tuggummi",
+		"modifiedDate": "2024-12-15T19:49:43.853Z",
+		"size": 55705,
+		"sha256": "109ff9757612f6d9c0534ea48cd80184632c274422553cfb0d890a18888f3896"
+	},
+	{
+		"name": "Strobotonic3.7z",
+		"relativePath": "tuggummi",
+		"modifiedDate": "2024-12-15T19:49:43.854Z",
+		"size": 172164,
+		"sha256": "efa41c42ed5dd572ce3457ff2accb057795083e662ff2dd13feced8579194b4e"
+	},
+	{
+		"name": "TechnicallyIncorrect.7z",
+		"relativePath": "tuggummi",
+		"modifiedDate": "2024-12-15T19:49:43.854Z",
+		"size": 293665,
+		"sha256": "88d5f6cb4d9de8a751e1a4577290d3d8588bc8f84b30615143982ae4f795b70f"
+	},
+	{
+		"name": "allatuggummi-UNOFFICIAL.7z",
+		"relativePath": "tuggummi",
+		"modifiedDate": "2024-12-15T19:49:43.855Z",
+		"size": 2050563,
+		"sha256": "57020de166fe91e5d509137bfe4e25c94476fcbdfbeba4ea199a941a2962df6a"
+	},
+	{
+		"name": "pervoavs.7z",
+		"relativePath": "tuggummi",
+		"modifiedDate": "2024-12-15T19:49:43.855Z",
+		"size": 3363,
+		"sha256": "272ee7a25d9491025993d024ef1c6d28cb083f5346c52bfd8df559602d753a88"
+	},
+	{
+		"name": "two_and_a_half_avs.zip",
+		"relativePath": "tuggummi",
+		"modifiedDate": "2024-12-15T19:49:43.855Z",
+		"size": 2017,
+		"sha256": "fee9a5b8a2f6bd36ae7a921ac301a1584986936728e4325e7ef20f608717a0b8"
+	},
+	{
+		"name": "All_The_Presets.7z",
+		"relativePath": "tuomas",
+		"modifiedDate": "2024-12-15T19:49:43.855Z",
+		"size": 72709,
+		"sha256": "6a612ee7c1b1dd9a83ba981541d57cdb76694e7e5c2324a7d881870bf8f09f35"
+	},
+	{
+		"name": "The_Best_of_The_Presets.7z",
+		"relativePath": "tuomas",
+		"modifiedDate": "2024-12-15T19:49:43.855Z",
+		"size": 37703,
+		"sha256": "3864f364bb3769d1e89846cd84bf2a0679609edd41fa1094df270ec140b5799c"
+	},
+	{
+		"name": "The_Presets.7z",
+		"relativePath": "tuomas",
+		"modifiedDate": "2024-12-15T19:49:43.855Z",
+		"size": 33770,
+		"sha256": "5b4bf5ae6388b4deabb7f156f4246b889b1a4a17e2e63e9d13d0ce2e6aa166fe"
+	},
+	{
+		"name": "The_Presets2.7z",
+		"relativePath": "tuomas",
+		"modifiedDate": "2024-12-15T19:49:43.856Z",
+		"size": 21693,
+		"sha256": "8169415d820c92f505b82bd1d7a994bb0abc1ab18e6677888de6fd603b713067"
+	},
+	{
+		"name": "The_Presets3.7z",
+		"relativePath": "tuomas",
+		"modifiedDate": "2024-12-15T19:49:43.856Z",
+		"size": 21613,
+		"sha256": "e8be6349e999a9adc80f7748bce696fc199dcb5550a9b7c24fcbaacd27683294"
+	},
+	{
+		"name": "The_Presets4.7z",
+		"relativePath": "tuomas",
+		"modifiedDate": "2024-12-15T19:49:43.856Z",
+		"size": 21420,
+		"sha256": "5e845924d94a0007414cabdb30b15750f962aa1ec7daa75293d1a8ee48957536"
+	},
+	{
+		"name": "The_Presets5.7z",
+		"relativePath": "tuomas",
+		"modifiedDate": "2024-12-15T19:49:43.856Z",
+		"size": 25699,
+		"sha256": "aba3abc9988c1382c1f7178f5a6bbfd56c60e621d48de3a0f8560b446abea248"
+	},
+	{
+		"name": "The_Presets6.7z",
+		"relativePath": "tuomas",
+		"modifiedDate": "2024-12-15T19:49:43.856Z",
+		"size": 26832,
+		"sha256": "85742aecabd977b126e16989692cf3a942b8f259d84614eb2283b79e4a4af571"
+	},
+	{
+		"name": "Final_Whack.7z",
+		"relativePath": "unconed",
+		"modifiedDate": "2024-12-15T19:49:43.856Z",
+		"size": 168477,
+		"sha256": "1092fa2d1bda09405054d23e86dc3bc292e1a804ba2a1c79cb79f11893a27821"
+	},
+	{
+		"name": "Whacko_AVS.7z",
+		"relativePath": "unconed",
+		"modifiedDate": "2024-12-15T19:49:43.857Z",
+		"size": 81596,
+		"sha256": "2f356ea040173398e28b230568635a61f6157c166a7703d9ea5905327e942b4a"
+	},
+	{
+		"name": "Whacko_AVS_II.7z",
+		"relativePath": "unconed",
+		"modifiedDate": "2024-12-15T19:49:43.857Z",
+		"size": 29550,
+		"sha256": "e90cc0b259fbd1171996c2ddd86cb77ad22563c55104aaca4eedc285d8e67a16"
+	},
+	{
+		"name": "Whacko_AVS_III.7z",
+		"relativePath": "unconed",
+		"modifiedDate": "2024-12-15T19:49:43.857Z",
+		"size": 85764,
+		"sha256": "3acd35d52b92a2c994aacabed4229fc6e78a2b8b0ddb75256907c7b303abf313"
+	},
+	{
+		"name": "Whacko_AVS_IV.7z",
+		"relativePath": "unconed",
+		"modifiedDate": "2024-12-15T19:49:43.857Z",
+		"size": 231961,
+		"sha256": "f227fc3953a547143bbb56de636ebe93a11dadfd2911c6473c12f54ce56f6067"
+	},
+	{
+		"name": "Whacko_AVS_V.7z",
+		"relativePath": "unconed",
+		"modifiedDate": "2024-12-15T19:49:43.857Z",
+		"size": 136491,
+		"sha256": "e5c46b63ef66fe725df8b411c9619767850443af02c1267167a27504e4cc7e91"
+	},
+	{
+		"name": "Whacko_AVS_VII_Beta-UNOFFICIAL.7z",
+		"relativePath": "unconed",
+		"modifiedDate": "2024-12-15T19:49:43.857Z",
+		"size": 152255,
+		"sha256": "59ace7e7ef48fdeec5ec757dbd08c3f9ed3c2c0729981c6ca34bd87f41dcd024"
+	},
+	{
+		"name": "Whacko_Revisited.7z",
+		"relativePath": "unconed",
+		"modifiedDate": "2024-12-15T19:49:43.857Z",
+		"size": 230521,
+		"sha256": "5d25c4a1950f109df2ef59824ec2cde9e1c0879b2a47aa388d4d108325024778"
+	},
+	{
+		"name": "minipack1-fast.7z",
+		"relativePath": "undefined",
+		"modifiedDate": "2024-12-15T19:49:43.858Z",
+		"size": 25491,
+		"sha256": "f74344e34bae98a990d11d2f33505f7ab634875cedb0d27e2838e36bd6f4ecb6"
+	},
+	{
+		"name": "minipack2-renderless.7z",
+		"relativePath": "undefined",
+		"modifiedDate": "2024-12-15T19:49:43.858Z",
+		"size": 94377,
+		"sha256": "a102cde5a76ee28895a212e3f6f206e9cf89469c413810cc8c3070e6252bc998"
+	},
+	{
+		"name": "minipack3-black_and_white.7z",
+		"relativePath": "undefined",
+		"modifiedDate": "2024-12-15T19:49:43.858Z",
+		"size": 53178,
+		"sha256": "99f4c09f219f251db620ee8dc0bbfbb09bb525a2b16a422953e86efdfc29234d"
+	},
+	{
+		"name": "minipack4-remixes.7z",
+		"relativePath": "undefined",
+		"modifiedDate": "2024-12-15T19:49:43.858Z",
+		"size": 117235,
+		"sha256": "65df7b71772868530796ff9c79262978b84ada68cbb08d65dfc90d1575d05328"
+	},
+	{
+		"name": "minipack5_wmp.7z",
+		"relativePath": "undefined",
+		"modifiedDate": "2024-12-15T19:49:43.858Z",
+		"size": 97763,
+		"sha256": "40cf1e7ade7e823b1c50f3f4e0467db0d7a2aa79c566e4c2efad88e9bbd6382d"
+	},
+	{
+		"name": "undefined2.7z",
+		"relativePath": "undefined",
+		"modifiedDate": "2024-12-15T19:49:43.858Z",
+		"size": 108480,
+		"sha256": "e6bf2aecdd657edc23977ea63d1a716d631b49d0119cbd4fba01df1c0564342f"
+	},
+	{
+		"name": "undefined4.7z",
+		"relativePath": "undefined",
+		"modifiedDate": "2024-12-15T19:49:43.858Z",
+		"size": 221233,
+		"sha256": "0a06693ea68f44d914a429453871d622aa953ee8ef0816024c7364acaa0ecba0"
+	},
+	{
+		"name": "GIANTPACK.7z",
+		"relativePath": "unripe-lemon",
+		"modifiedDate": "2024-12-15T19:49:43.859Z",
+		"size": 206672,
+		"sha256": "b3397f09368d43efb42eac03215473e65d51196a2b81b9a340237efede6f1e4b"
+	},
+	{
+		"name": "WannabeElvis.7z",
+		"relativePath": "unripe-lemon",
+		"modifiedDate": "2024-12-15T19:49:43.859Z",
+		"size": 249971,
+		"sha256": "d6652a431548af4d70b2c77e85db9b828763f9f617dc42fb09c48d2c803f3428"
+	},
+	{
+		"name": "WannabeSkupers.7z",
+		"relativePath": "unripe-lemon",
+		"modifiedDate": "2024-12-15T19:49:43.859Z",
+		"size": 96642,
+		"sha256": "42dd3a1154ea874283dc19a7b4c3478c749767fd1b9d8ba39dcd3d2d7ad3f92f"
+	},
+	{
+		"name": "miniStylism.7z",
+		"relativePath": "unripe-lemon",
+		"modifiedDate": "2024-12-15T19:49:43.859Z",
+		"size": 68719,
+		"sha256": "4ac39b99d098e5162199d9e65fa7862799453a87cbb4fa211730ede278d82dd6"
+	},
+	{
+		"name": "recreational.7z",
+		"relativePath": "unripe-lemon",
+		"modifiedDate": "2024-12-15T19:49:43.860Z",
+		"size": 250013,
+		"sha256": "911968ce59bf0cc41d173e362382bb355a2845730a6ea07e3a1128a2205cd9d2"
+	},
+	{
+		"name": "ul_pack2.7z",
+		"relativePath": "unripe-lemon",
+		"modifiedDate": "2024-12-15T19:49:43.860Z",
+		"size": 6167,
+		"sha256": "1dba5c366bc33b9a3252895c4c15416a23fd076ece7af40790d9944c17971ff4"
+	},
+	{
+		"name": "ul_pack3.7z",
+		"relativePath": "unripe-lemon",
+		"modifiedDate": "2024-12-15T19:49:43.860Z",
+		"size": 5543,
+		"sha256": "21e5e5e404a3e615177609b70248cac8b15698a04ca56be4b59615abf118d8a9"
+	},
+	{
+		"name": "ul_pack5.7z",
+		"relativePath": "unripe-lemon",
+		"modifiedDate": "2024-12-15T19:49:43.860Z",
+		"size": 35879,
+		"sha256": "cf9801395233d9d3e2cb9be3fd82336e869a18062f1ad1f1e4c15762ae31df36"
+	},
+	{
+		"name": "Electroshock-UNOFFICIAL.7z",
+		"relativePath": "userkaft",
+		"modifiedDate": "2024-12-15T19:49:43.860Z",
+		"size": 48526,
+		"sha256": "b5367c3b6e1355f444db4d0651e37face7bfe306f1ae15f38433d429ce6a5109"
+	},
+	{
+		"name": "First_AVS-UNOFFICIAL.7z",
+		"relativePath": "userkaft",
+		"modifiedDate": "2024-12-15T19:49:43.860Z",
+		"size": 30217,
+		"sha256": "70482977c0cbcf4af892aab5c978c1a614e9afe6ba30f82053e05259ce35860f"
+	},
+	{
+		"name": "Morfius_the_new_era.7z",
+		"relativePath": "userkaft",
+		"modifiedDate": "2024-12-15T19:49:43.861Z",
+		"size": 386527,
+		"sha256": "740128feaca0fdd5a5d2b32de98c1449f26b43431935ac7cf23a98f4167038a7"
+	},
+	{
+		"name": "Rencarnation.7z",
+		"relativePath": "userkaft",
+		"modifiedDate": "2024-12-15T19:49:43.861Z",
+		"size": 566019,
+		"sha256": "59046c30d8d455ecf0f4a01973e00aeb02c4d649e06f679233d619418e203ee8"
+	},
+	{
+		"name": "Transwarp-UNOFFICIAL.7z",
+		"relativePath": "userkaft",
+		"modifiedDate": "2024-12-15T19:49:43.861Z",
+		"size": 535595,
+		"sha256": "f073aebde3f53210b6b2cd49c99dc0d616c70b89702b673539b202eda7f6de51"
+	},
+	{
+		"name": "digital_stereotype_experience.7z",
+		"relativePath": "vanish",
+		"modifiedDate": "2024-12-15T19:49:43.862Z",
+		"size": 215988,
+		"sha256": "44eae5e57d6d3072716025b6ee91ab6b5f16f4251c920d8c22a7fe135b3f06dc"
+	},
+	{
+		"name": "dse_beta-UNOFFICIAL.7z",
+		"relativePath": "vanish",
+		"modifiedDate": "2024-12-15T19:49:43.862Z",
+		"size": 11363,
+		"sha256": "ea5c3d3e5a504e0b3c3f88636d8837005e1c3baf1575039c95b82a91f9d97ba2"
+	},
+	{
+		"name": "dse_preview.7z",
+		"relativePath": "vanish",
+		"modifiedDate": "2024-12-15T19:49:43.862Z",
+		"size": 331738,
+		"sha256": "64cf036355d893238d6d468e602314d8b76edc2ccd89f3482a5f0f67f9f050f4"
+	},
+	{
+		"name": "50_percent_off-UNOFFICIAL.7z",
+		"relativePath": "vflorelo",
+		"modifiedDate": "2024-12-15T19:49:43.862Z",
+		"size": 105947,
+		"sha256": "1cafbcadf3cb59076e2c90e4e9831afddd96fb9b3c8f5a6481680684db469229"
+	},
+	{
+		"name": "Back_on_Track.7z",
+		"relativePath": "vflorelo",
+		"modifiedDate": "2024-12-15T19:49:43.863Z",
+		"size": 362750,
+		"sha256": "54f7da131ea2079892cae3e56ca8e186ca2d5e304a865cce2f22569edd7e1988"
+	},
+	{
+		"name": "Best.7z",
+		"relativePath": "vflorelo",
+		"modifiedDate": "2024-12-15T19:49:43.863Z",
+		"size": 467431,
+		"sha256": "d0d0bb22b5a5f31bbe77b4eda4247284d1e36cf709aa02867d0c5595b9753a14"
+	},
+	{
+		"name": "Beyond_The_Rows.7z",
+		"relativePath": "vflorelo",
+		"modifiedDate": "2024-12-15T19:49:43.863Z",
+		"size": 141292,
+		"sha256": "9dae784ec9537f78bc5eb120fc2f3d96250d6c9f0e0815bc776c9366a5464aec"
+	},
+	{
+		"name": "Blobs_balls_and_fun-UNOFFICIAL.7z",
+		"relativePath": "vflorelo",
+		"modifiedDate": "2024-12-15T19:49:43.863Z",
+		"size": 123948,
+		"sha256": "9b93b4110544e31a658bf3413d3430c1f5cf4dea123df08232ae145cf0ddcaea"
+	},
+	{
+		"name": "Golden.7z",
+		"relativePath": "vflorelo",
+		"modifiedDate": "2024-12-15T19:49:43.863Z",
+		"size": 32715,
+		"sha256": "8533e7bedf756506e64e88fed4a38fd6f2c8d1b72485f3521234f5b61386c26d"
+	},
+	{
+		"name": "Good_old_stuff.7z",
+		"relativePath": "vflorelo",
+		"modifiedDate": "2024-12-15T19:49:43.864Z",
+		"size": 484573,
+		"sha256": "95477dff64205189fac64521291258e092c095f99e4e2adaf8f5eab1e31e3ccd"
+	},
+	{
+		"name": "Hoofprints.7z",
+		"relativePath": "vflorelo",
+		"modifiedDate": "2024-12-15T19:49:43.864Z",
+		"size": 328343,
+		"sha256": "210ba4648440e23aea6f3ea724faa850ed981006cb199abd1a45c601890b8f34"
+	},
+	{
+		"name": "Its_worthy_to_look_at-UNOFFICIAL.7z",
+		"relativePath": "vflorelo",
+		"modifiedDate": "2024-12-15T19:49:43.864Z",
+		"size": 137977,
+		"sha256": "7829b8bec75df8f5144e3522f8da6d0dd4ea132a5202b02a75522e1200f4aa09"
+	},
+	{
+		"name": "Reptiles-UNOFFICIAL.7z",
+		"relativePath": "vflorelo",
+		"modifiedDate": "2024-12-15T19:49:43.864Z",
+		"size": 18123,
+		"sha256": "518978ca9a2d48eda302962b020ecd492529c8395c64358386a92ecfbbbb8ded"
+	},
+	{
+		"name": "Track_13.7z",
+		"relativePath": "vflorelo",
+		"modifiedDate": "2024-12-15T19:49:43.864Z",
+		"size": 142215,
+		"sha256": "66927be310c1df3922d50f1699918fcbed489a879dd9bdbd5f09db0feb548f80"
+	},
+	{
+		"name": "Traveling.7z",
+		"relativePath": "vflorelo",
+		"modifiedDate": "2024-12-15T19:49:43.864Z",
+		"size": 83658,
+		"sha256": "21fb24d94d74c14c6b646dedb9be2dbea5ccc074ae0dce007863966b54a1c440"
+	},
+	{
+		"name": "VF_AVS_PAK_2-UNOFFICIAL.7z",
+		"relativePath": "vflorelo",
+		"modifiedDate": "2024-12-15T19:49:43.865Z",
+		"size": 4593,
+		"sha256": "d7548b7b8e7ca3d7399500439117e10dff2728101fe762c65c0244c278fd7f90"
+	},
+	{
+		"name": "You_better_like_it.7z",
+		"relativePath": "vflorelo",
+		"modifiedDate": "2024-12-15T19:49:43.865Z",
+		"size": 17387,
+		"sha256": "2093f37f2361470099a7cc6abcd87b56e7a06efc50b028d5f885958a46108223"
+	},
+	{
+		"name": "VB200.zip",
+		"relativePath": "visbot",
+		"modifiedDate": "2024-12-15T19:49:43.866Z",
+		"size": 2152117,
+		"sha256": "e176de5c80283dcaf36d9c8d9e53d87966d792ff53ea10f837e76004314dbfa3"
+	},
+	{
+		"name": "VE001.zip",
+		"relativePath": "visbot",
+		"modifiedDate": "2024-12-15T19:49:43.866Z",
+		"size": 57608,
+		"sha256": "2de68028649d784bc7fd0444a900bbfbd7a51b28dda9485c9cd5e0d432d2908a"
+	},
+	{
+		"name": "VE002.zip",
+		"relativePath": "visbot",
+		"modifiedDate": "2024-12-15T19:49:43.866Z",
+		"size": 62143,
+		"sha256": "53783e8927f13e373cb5b98a2051a5c3c0d1243fb23775ad86de4e31159a9c93"
+	},
+	{
+		"name": "VE003.zip",
+		"relativePath": "visbot",
+		"modifiedDate": "2024-12-15T19:49:43.866Z",
+		"size": 96173,
+		"sha256": "98443fd023b57ab1c026d1f022cb48b7cef37054938044125bb56e26726b871e"
+	},
+	{
+		"name": "VE004.zip",
+		"relativePath": "visbot",
+		"modifiedDate": "2024-12-15T19:49:43.867Z",
+		"size": 67324,
+		"sha256": "4f45faa2f16761a9b1275fd6dc98fa0519e1ddd3e102cd8519b5c1602871ecf6"
+	},
+	{
+		"name": "VE005-1.zip",
+		"relativePath": "visbot",
+		"modifiedDate": "2024-12-15T19:49:43.867Z",
+		"size": 70108,
+		"sha256": "44b05471ab79d57badbf22f9fe6451db7451cbbfeb421ed94a8d52c9a6d2119a"
+	},
+	{
+		"name": "VE005-2.zip",
+		"relativePath": "visbot",
+		"modifiedDate": "2024-12-15T19:49:43.867Z",
+		"size": 96929,
+		"sha256": "d11210da4031d77f495e772d4e7bf947beb1febe825d8019c458a26c9cc0f77a"
+	},
+	{
+		"name": "VE006.zip",
+		"relativePath": "visbot",
+		"modifiedDate": "2024-12-15T19:49:43.867Z",
+		"size": 51149,
+		"sha256": "1ff4801ac6acd4dccc01047a46b4c64106083f71935d311416ea71055a7577a0"
+	},
+	{
+		"name": "VE007.zip",
+		"relativePath": "visbot",
+		"modifiedDate": "2024-12-15T19:49:43.867Z",
+		"size": 67179,
+		"sha256": "b50076b9b016c4b2092d47651c7c3e3fb11860600828d90052b523319cb7471a"
+	},
+	{
+		"name": "VE008-1.zip",
+		"relativePath": "visbot",
+		"modifiedDate": "2024-12-15T19:49:43.867Z",
+		"size": 60800,
+		"sha256": "1a68cf3fea72ec5b3853367f34520b62cc2ec1a6289d14ab9923ba8207d724c2"
+	},
+	{
+		"name": "VE008-2.zip",
+		"relativePath": "visbot",
+		"modifiedDate": "2024-12-15T19:49:43.867Z",
+		"size": 166246,
+		"sha256": "b1c54ddae9694a715bffe7ed0587fe741126debfff74d3bd8cbac3cbf0d0c801"
+	},
+	{
+		"name": "VE009.zip",
+		"relativePath": "visbot",
+		"modifiedDate": "2024-12-15T19:49:43.868Z",
+		"size": 244721,
+		"sha256": "2fff45395ad23bcf7daadbd124ee4ab9df4d7715d500ef807b873b9550421c7d"
+	},
+	{
+		"name": "viskey2-UNOFFICIAL.7z",
+		"relativePath": "viskey",
+		"modifiedDate": "2024-12-15T19:49:43.868Z",
+		"size": 12379,
+		"sha256": "1b629cc8618b5accf3b221013554c2034cf1c761204ee1baf45e932911b459b1"
+	},
+	{
+		"name": "viskey2.7z",
+		"relativePath": "viskey",
+		"modifiedDate": "2024-12-15T19:49:43.868Z",
+		"size": 232610,
+		"sha256": "50d745c4b9ed1adbea9ea64be528b63c896e920bdd21ec6e2496552ce2adb356"
+	},
+	{
+		"name": "viskey3-UNOFFICIAL.7z",
+		"relativePath": "viskey",
+		"modifiedDate": "2024-12-15T19:49:43.868Z",
+		"size": 25384,
+		"sha256": "40084cb28cc883fa19cc9663e7c34965d1d47d719450100867db6ae044abeef4"
+	},
+	{
+		"name": "viskey3.7z",
+		"relativePath": "viskey",
+		"modifiedDate": "2024-12-15T19:49:43.868Z",
+		"size": 301008,
+		"sha256": "a5ed3d3a7118c4cd7bcc0758447a07c621d809c6e247b58a65448a97a4c87734"
+	},
+	{
+		"name": "viskey4.7z",
+		"relativePath": "viskey",
+		"modifiedDate": "2024-12-15T19:49:43.869Z",
+		"size": 280267,
+		"sha256": "b861a853f5eb595b4fbdf747df76f742b760e9dc396df936acbb4d8675368d1a"
+	},
+	{
+		"name": "viskey5.7z",
+		"relativePath": "viskey",
+		"modifiedDate": "2024-12-15T19:49:43.869Z",
+		"size": 199336,
+		"sha256": "257ce05d2f1af53b6f41b505f012ae5f3d80da010578bd9c8ed4370a566aee0f"
+	},
+	{
+		"name": "viskey_eXperimental.zip",
+		"relativePath": "viskey",
+		"modifiedDate": "2024-12-15T19:49:43.869Z",
+		"size": 50683,
+		"sha256": "97d3a389dd031503eb18b21acf257205e4d23eb7d7af8d9c938fcb9541ea8bc2"
+	},
+	{
+		"name": "wfc7.7z",
+		"relativePath": "wfc",
+		"modifiedDate": "2024-12-15T19:49:43.870Z",
+		"size": 279825,
+		"sha256": "64f0beebf0af5f43d284e0bcf6565237002f63c7a04b2ed71e93c11957644d52"
+	},
+	{
+		"name": "wfc8.7z",
+		"relativePath": "wfc",
+		"modifiedDate": "2024-12-15T19:49:43.871Z",
+		"size": 247770,
+		"sha256": "7d1ac860cc6dbeae4e997d15b470fca3e76b7f284d39b38b067c7879e75a67dc"
+	},
+	{
+		"name": "wft1.7z",
+		"relativePath": "wfc",
+		"modifiedDate": "2024-12-15T19:49:43.871Z",
+		"size": 171792,
+		"sha256": "2438ae4cf5af389de90baec790d807666357962640a4fecebdee312d53724524"
+	},
+	{
+		"name": "wft2.7z",
+		"relativePath": "wfc",
+		"modifiedDate": "2024-12-15T19:49:43.871Z",
+		"size": 384420,
+		"sha256": "fad0ca69445aa69d2194b05008cfb2ebc160a24c4de167bed8a15792ef2aa26f"
+	},
+	{
+		"name": "minimalistix.7z",
+		"relativePath": "wotl",
+		"modifiedDate": "2024-12-15T19:49:43.871Z",
+		"size": 75337,
+		"sha256": "6da578ab9dcc7c23bcac03ab5e7246f6f7c1cc0ae4a0c4a0ae4276c03a8f046f"
+	},
+	{
+		"name": "minimalistix2.7z",
+		"relativePath": "wotl",
+		"modifiedDate": "2024-12-15T19:49:43.872Z",
+		"size": 93795,
+		"sha256": "e024182cac236ee852705df440d2e665db642bb74aba6a515a6bd4f40b8fd629"
+	},
+	{
+		"name": "minipack3.7z",
+		"relativePath": "wotl",
+		"modifiedDate": "2024-12-15T19:49:43.872Z",
+		"size": 124691,
+		"sha256": "0b35cbcedc8710b775cc8462c1b63caa86f92d807db4fd401778015aa90d8c08"
+	},
+	{
+		"name": "wotl2.7z",
+		"relativePath": "wotl",
+		"modifiedDate": "2024-12-15T19:49:43.872Z",
+		"size": 114258,
+		"sha256": "74903310d10bac046cb372977cbbf1e06de28a339ab2c35eed1755bf744b2762"
+	},
+	{
+		"name": "wotl3.7z",
+		"relativePath": "wotl",
+		"modifiedDate": "2024-12-15T19:49:43.872Z",
+		"size": 184599,
+		"sha256": "aaff7dd3151aeddd39bd579f2b6ff84560006d1aad0eb26e11549180f72cff0c"
+	},
+	{
+		"name": "yi-GodJulIKEA.7z",
+		"relativePath": "yathosho",
+		"modifiedDate": "2024-12-15T19:49:43.872Z",
+		"size": 43265,
+		"sha256": "304dfcc710298a6027fb474ed0a881dddaec99979cea1ed50a08d18d8e240cb9"
+	},
+	{
+		"name": "yi-Heimcomputer.7z",
+		"relativePath": "yathosho",
+		"modifiedDate": "2024-12-15T19:49:43.873Z",
+		"size": 241523,
+		"sha256": "e723587b5322d01bfd45d9ac0fb99984aa7f21a757b4275bfe34fbb2af1daec3"
+	},
+	{
+		"name": "yi-Heimcomputer_Preview-UNOFFICIAL.7z",
+		"relativePath": "yathosho",
+		"modifiedDate": "2024-12-15T19:49:43.873Z",
+		"size": 1241,
+		"sha256": "ce7020e178752f2dbfee1e6d2efd66ac4d51d4ef04b551bd5abe523d9a3c7bc3"
+	},
+	{
+		"name": "yi-another_thirteen-UNOFFICIAL.7z",
+		"relativePath": "yathosho",
+		"modifiedDate": "2024-12-15T19:49:43.873Z",
+		"size": 3076,
+		"sha256": "a93b7471f3bc6931c82d629a908a869aec3b3a7277f57bdd60d72d973fcccf9f"
+	},
+	{
+		"name": "yi-another_thirteen.7z",
+		"relativePath": "yathosho",
+		"modifiedDate": "2024-12-15T19:49:43.873Z",
+		"size": 46643,
+		"sha256": "3036e2221dd2eb2988e8634634e70f8662b6fa95e85a927212a178fcb51d5072"
+	},
+	{
+		"name": "yi-blinkenlights.7z",
+		"relativePath": "yathosho",
+		"modifiedDate": "2024-12-15T19:49:43.873Z",
+		"size": 156141,
+		"sha256": "b22d349f87ea92e560f5758a7f3a058127bd490a38227b24e82a78791280a689"
+	},
+	{
+		"name": "yi-exercisesdustyle.7z",
+		"relativePath": "yathosho",
+		"modifiedDate": "2024-12-15T19:49:43.873Z",
+		"size": 24652,
+		"sha256": "901e24fe72b30ecbcbc7307f1e0c874d867de62beffd1635a7cd2ece2d15a13e"
+	},
+	{
+		"name": "yi-fullcircleremixes.7z",
+		"relativePath": "yathosho",
+		"modifiedDate": "2024-12-15T19:49:43.874Z",
+		"size": 802136,
+		"sha256": "29b49efbb7021ae24d5ea505fcfb5be3badfde24231454bdc0bca626819121d4"
+	},
+	{
+		"name": "yi-fx.7z",
+		"relativePath": "yathosho",
+		"modifiedDate": "2024-12-15T19:49:43.874Z",
+		"size": 46087,
+		"sha256": "d8caae7b3d99902a60d427d99ad0490a076c2dfc3e59ee60fa011f2743a35bff"
+	},
+	{
+		"name": "yi-fx2.7z",
+		"relativePath": "yathosho",
+		"modifiedDate": "2024-12-15T19:49:43.874Z",
+		"size": 40232,
+		"sha256": "466c099446cd5352957b95002f011280ac6518ba3d170895899df4fe03c3bc10"
+	},
+	{
+		"name": "yi-fx2r.7z",
+		"relativePath": "yathosho",
+		"modifiedDate": "2024-12-15T19:49:43.874Z",
+		"size": 85616,
+		"sha256": "ed7158239ce83cafad3ff95931b6581f71db4212bce1faee4d567c166a4e7d3f"
+	},
+	{
+		"name": "yi-halfwayaroundthesun.7z",
+		"relativePath": "yathosho",
+		"modifiedDate": "2024-12-15T19:49:43.874Z",
+		"size": 60604,
+		"sha256": "23f671a977f8d295b9a5f219354548f2ec19003eb19035b4b2ebc01b516d9474"
+	},
+	{
+		"name": "yi-halfwayaroundthesun_T34S3R-UNOFFICIAL.7z",
+		"relativePath": "yathosho",
+		"modifiedDate": "2024-12-15T19:49:43.874Z",
+		"size": 1286,
+		"sha256": "353516e090fe16fb5647bb1849118bcf5f79c813c7c6e568b46e90f8d5670c54"
+	},
+	{
+		"name": "yi-halfwayaroundthesunrevisited.7z",
+		"relativePath": "yathosho",
+		"modifiedDate": "2024-12-15T19:49:43.874Z",
+		"size": 24502,
+		"sha256": "19c1f545043baa7fa5c37d5160c016b85e4067eb99170c01839267a753b857bc"
+	},
+	{
+		"name": "yi-heimcomputer_preview.7z",
+		"relativePath": "yathosho",
+		"modifiedDate": "2024-12-15T19:49:43.875Z",
+		"size": 23472,
+		"sha256": "2e5958e00195d38e69d89417bc416d053d66b203eb13c74fb670f2f1b495b26e"
+	},
+	{
+		"name": "yi-hybrids.7z",
+		"relativePath": "yathosho",
+		"modifiedDate": "2024-12-15T19:49:43.875Z",
+		"size": 43997,
+		"sha256": "0a319e1af41986d16dccd756400b4b96be93a0ce6a348c8f9e29b6a12ddfc059"
+	},
+	{
+		"name": "yi-hybrids720.7z",
+		"relativePath": "yathosho",
+		"modifiedDate": "2024-12-15T19:49:43.875Z",
+		"size": 45100,
+		"sha256": "09fe8f80b2282e7e78be6b4ff89855e6bb42faeece8156217bf3e3ee34910299"
+	},
+	{
+		"name": "yi-ikea.7z",
+		"relativePath": "yathosho",
+		"modifiedDate": "2024-12-15T19:49:43.875Z",
+		"size": 49122,
+		"sha256": "f4253b378ed7316df506890c089839b44c597d84a20e49e6cbaf7411b3835880"
+	},
+	{
+		"name": "yi-ikea3.7z",
+		"relativePath": "yathosho",
+		"modifiedDate": "2024-12-15T19:49:43.875Z",
+		"size": 81301,
+		"sha256": "135b4fcd5fac7252f14eeae429ff414d15aa4a47fe0e595346b85882523a4475"
+	},
+	{
+		"name": "yi-installations.7z",
+		"relativePath": "yathosho",
+		"modifiedDate": "2024-12-15T19:49:43.875Z",
+		"size": 22691,
+		"sha256": "fb58a579453c89237df14bf16fbdb48fa2f95ceea26138eb4337dee12629c210"
+	},
+	{
+		"name": "yi-installations2.7z",
+		"relativePath": "yathosho",
+		"modifiedDate": "2024-12-15T19:49:43.875Z",
+		"size": 43681,
+		"sha256": "253da0b3d6ff961d56f0ef841397433ddbf4ac228f1fd057f8fe85461c1cdbf1"
+	},
+	{
+		"name": "yi-installations3.7z",
+		"relativePath": "yathosho",
+		"modifiedDate": "2024-12-15T19:49:43.875Z",
+		"size": 69501,
+		"sha256": "c2772a541206e3a93dfd5608d12fad2226731fe469f8feadc795de29ea7f7d11"
+	},
+	{
+		"name": "yi-kunsteffekt-UNOFFICIAL.7z",
+		"relativePath": "yathosho",
+		"modifiedDate": "2024-12-15T19:49:43.876Z",
+		"size": 1747,
+		"sha256": "c7d2f980cc4bd51ecbb91bf632b9817c51f2a1877034dbd633941bb491404a70"
+	},
+	{
+		"name": "yi-mathmosminipack.7z",
+		"relativePath": "yathosho",
+		"modifiedDate": "2024-12-15T19:49:43.876Z",
+		"size": 20108,
+		"sha256": "07f1431784265360187fdc1dec13505d6edf2cb15493ffe7536e48de078f8c26"
+	},
+	{
+		"name": "yi-minidisko.7z",
+		"relativePath": "yathosho",
+		"modifiedDate": "2024-12-15T19:49:43.876Z",
+		"size": 61547,
+		"sha256": "b73b3435a1cb7c65aa83b17741c0f84d76441d38a4e95caf9c44066b5cfcd069"
+	},
+	{
+		"name": "yi-rejerked.7z",
+		"relativePath": "yathosho",
+		"modifiedDate": "2024-12-15T19:49:43.876Z",
+		"size": 45979,
+		"sha256": "6db4a31d4dae944eb89ad69bd626be11b17f157ba1045aa617e8bf1a4520c62c"
+	},
+	{
+		"name": "yi-remixes.7z",
+		"relativePath": "yathosho",
+		"modifiedDate": "2024-12-15T19:49:43.876Z",
+		"size": 42245,
+		"sha256": "b6c381354450359b8a3452edf44ef29f6d7f709df32e099634589cab6f488e1b"
+	},
+	{
+		"name": "yi-remixes_ep-UNOFFICIAL.7z",
+		"relativePath": "yathosho",
+		"modifiedDate": "2024-12-15T19:49:43.876Z",
+		"size": 1883,
+		"sha256": "d43c260865b90547ed04705f1990f66d63a7e2745c4123a8b2e8c637a87f23f8"
+	},
+	{
+		"name": "yi-repolished-UNOFFICIAL.7z",
+		"relativePath": "yathosho",
+		"modifiedDate": "2024-12-15T19:49:43.877Z",
+		"size": 1533,
+		"sha256": "5b067f9477a41dfc09d4ec4ca952817fd6e99ca7bada3e0948bd875829d638a8"
+	},
+	{
+		"name": "yi-seasons.7z",
+		"relativePath": "yathosho",
+		"modifiedDate": "2024-12-15T19:49:43.877Z",
+		"size": 39052,
+		"sha256": "0ab6020c94256fd888ff5d98a708bb0dc93e26305ab94a5de4a32f36d058543b"
+	},
+	{
+		"name": "yi-seasons_rmx1.7z",
+		"relativePath": "yathosho",
+		"modifiedDate": "2024-12-15T19:49:43.877Z",
+		"size": 38895,
+		"sha256": "0b0b127fb400eed71a426ea41fa07a6f3e030e0bbd0480486811a01e3982170c"
+	},
+	{
+		"name": "yi-seasons_rmx2.7z",
+		"relativePath": "yathosho",
+		"modifiedDate": "2024-12-15T19:49:43.877Z",
+		"size": 38924,
+		"sha256": "fd4c2deb70e3ad7ef0088f856b9a6a19d9ed450ece9185453dc399ce86c0123d"
+	},
+	{
+		"name": "yi-seconds-UNOFFICIAL.7z",
+		"relativePath": "yathosho",
+		"modifiedDate": "2024-12-15T19:49:43.877Z",
+		"size": 1647,
+		"sha256": "892db243f0317f4d618093d1db9769274cbd07e621d255c30be214ec1fc98817"
+	},
+	{
+		"name": "yi-sincethen.7z",
+		"relativePath": "yathosho",
+		"modifiedDate": "2024-12-15T19:49:43.877Z",
+		"size": 23605,
+		"sha256": "450688065a936b02fc437de374f1cd6fe059fbb309dffc31e636465cd4aecc08"
+	},
+	{
+		"name": "yi-sincethen2.7z",
+		"relativePath": "yathosho",
+		"modifiedDate": "2024-12-15T19:49:43.877Z",
+		"size": 23455,
+		"sha256": "364f626b1abd184b81ebeb73d63260099d07e12cfe43ff56bd6351470660075b"
+	},
+	{
+		"name": "yi-skizzen.zip",
+		"relativePath": "yathosho",
+		"modifiedDate": "2024-12-15T19:49:43.877Z",
+		"size": 77398,
+		"sha256": "a77c48db860ee8305feca413ef4038890568963d95410fbddff988a38a17e2d3"
+	},
+	{
+		"name": "yi-surfaces-UNOFFICIAL.7z",
+		"relativePath": "yathosho",
+		"modifiedDate": "2024-12-15T19:49:43.878Z",
+		"size": 1331,
+		"sha256": "7c7a8be1b9ba71ab25e9c7884013499908a1c69f454de83e295d5ac4aec78492"
+	},
+	{
+		"name": "yi-tfc_preview-UNOFFICIAL.7z",
+		"relativePath": "yathosho",
+		"modifiedDate": "2024-12-15T19:49:43.878Z",
+		"size": 1211,
+		"sha256": "79bdf873671eda15153d1daf437e2d9b2b785a87a76c4057dfb901b8117d89cb"
+	},
+	{
+		"name": "yi-the_floridsdorf_years-UNOFFICIAL.7z",
+		"relativePath": "yathosho",
+		"modifiedDate": "2024-12-15T19:49:43.878Z",
+		"size": 2508,
+		"sha256": "346cf8caa879c0ab3ca727e54c7766f8e637638ce39ed61f9a4e3fea23dd7628"
+	},
+	{
+		"name": "yi-thefullcircle.7z",
+		"relativePath": "yathosho",
+		"modifiedDate": "2024-12-15T19:49:43.878Z",
+		"size": 589174,
+		"sha256": "46dfad085e281668efb2ddd24cdf74e620183127394db1a7e2b23b1a2ac79753"
+	},
+	{
+		"name": "yi-themissingsuitcase.7z",
+		"relativePath": "yathosho",
+		"modifiedDate": "2024-12-15T19:49:43.878Z",
+		"size": 30254,
+		"sha256": "309a9bcf62338b9089985c366a1a5d82c217c098f6922a11b903587289322988"
+	},
+	{
+		"name": "yi-thirteen.7z",
+		"relativePath": "yathosho",
+		"modifiedDate": "2024-12-15T19:49:43.878Z",
+		"size": 44402,
+		"sha256": "3ac47a997ab5610e942fd72beac7e20869fde4d2be82e26177956da3780ad800"
+	},
+	{
+		"name": "yi-versus-01-UNOFFICIAL.7z",
+		"relativePath": "yathosho",
+		"modifiedDate": "2024-12-15T19:49:43.879Z",
+		"size": 883,
+		"sha256": "5be071569ad26b55ae1db1124199e5e5fd86eeaf697290c0fe8e5a838a0c87ea"
+	},
+	{
+		"name": "yi-versus-02-UNOFFICIAL.7z",
+		"relativePath": "yathosho",
+		"modifiedDate": "2024-12-15T19:49:43.879Z",
+		"size": 1370,
+		"sha256": "1247c44bae1efc65403a7a3d1352b5e9fa294d510c63e963dbee573a8bfb0bf8"
+	},
+	{
+		"name": "yi-versus-04.zip",
+		"relativePath": "yathosho",
+		"modifiedDate": "2024-12-15T19:49:43.879Z",
+		"size": 1884,
+		"sha256": "20a800ad94bcc07648efb9ebf829264b78d6a1e70b78b61dfdf0491185f34c2f"
+	},
+	{
+		"name": "yi-versus-05.zip",
+		"relativePath": "yathosho",
+		"modifiedDate": "2024-12-15T19:49:43.879Z",
+		"size": 1967,
+		"sha256": "51473141945f5247c646447522086aca76897b164666a49aef0f2b72a6f0434c"
+	},
+	{
+		"name": "visions.7z",
+		"relativePath": "zamuz",
+		"modifiedDate": "2024-12-15T19:49:43.879Z",
+		"size": 80294,
+		"sha256": "91d9217080873173543afa6c5049c15a84f2a05ea06638a66fac77d4c34dd106"
+	},
+	{
+		"name": "Ambient_Journeys.7z",
+		"relativePath": "zen-x",
+		"modifiedDate": "2024-12-15T19:49:43.879Z",
+		"size": 28328,
+		"sha256": "8185d17feff576b4ba34cb9762b7e5ac2cbcaf0cfce0d9a72a0909e1145db928"
+	},
+	{
+		"name": "zen-x1.7z",
+		"relativePath": "zen-x",
+		"modifiedDate": "2024-12-15T19:49:43.879Z",
+		"size": 36286,
+		"sha256": "aeb05848240e439767fd0424d73720b040a868f768370cbe5a63f9f5339dab99"
+	},
+	{
+		"name": "zen-x2.7z",
+		"relativePath": "zen-x",
+		"modifiedDate": "2024-12-15T19:49:43.879Z",
+		"size": 32779,
+		"sha256": "a8fe5ca4bec99347c21ff2b3f9d46abce37921dc2e4e468b0a0698527d30916f"
+	},
+	{
+		"name": "zen-x3.7z",
+		"relativePath": "zen-x",
+		"modifiedDate": "2024-12-15T19:49:43.880Z",
+		"size": 37368,
+		"sha256": "1cb4821e9ca66b113f7e142cd03792af4188d9e14d87d2c1cc27880caae28b69"
+	},
+	{
+		"name": "zen-x4.7z",
+		"relativePath": "zen-x",
+		"modifiedDate": "2024-12-15T19:49:43.880Z",
+		"size": 40134,
+		"sha256": "11266f34fb531b2b8ee7ca6e74c274d046c4918a7e4b7d1e54ad57e7e186f4ae"
+	},
+	{
+		"name": "zen-x5.7z",
+		"relativePath": "zen-x",
+		"modifiedDate": "2024-12-15T19:49:43.880Z",
+		"size": 54049,
+		"sha256": "0f6a6489b9b0a89567c72ded434fb05e64ebc01003c2049f5fe1301762d810eb"
+	},
+	{
+		"name": "zevensoft1-UNOFFICIAL.7z",
+		"relativePath": "zevensoft",
+		"modifiedDate": "2024-12-15T19:49:43.880Z",
+		"size": 4703,
+		"sha256": "27c004ec6e038a2b43559465716584e71cf84ac6e69d03bdb23698501e4d12e8"
+	},
+	{
+		"name": "zevensoft2-UNOFFICIAL.7z",
+		"relativePath": "zevensoft",
+		"modifiedDate": "2024-12-15T19:49:43.880Z",
+		"size": 10841,
+		"sha256": "0fb1b01bd570dadf647e76952a5d298674447a7e64198007b905f824c851df35"
+	},
+	{
+		"name": "zevensoft3.7z",
+		"relativePath": "zevensoft",
+		"modifiedDate": "2024-12-15T19:49:43.881Z",
+		"size": 63271,
+		"sha256": "69099fc1d8ef8b6209e8918322d6fa01eda90179db7505bb92a22cc37dc700bc"
+	},
+	{
+		"name": "zevensoft4.7z",
+		"relativePath": "zevensoft",
+		"modifiedDate": "2024-12-15T19:49:43.881Z",
+		"size": 142730,
+		"sha256": "29161f777208b8d1debb668d422a1dd8f17716670139b84102d34d176f02e624"
+	},
+	{
+		"name": "koff.7z",
+		"relativePath": "zxe",
+		"modifiedDate": "2024-12-15T19:49:43.881Z",
+		"size": 32385,
+		"sha256": "61234ee8410c7b01ace00690d728e1dc2a5544567a3dbcb87632097bffb49688"
+	},
+	{
+		"name": "neko_no_ongaeshi.7z",
+		"relativePath": "zxe",
+		"modifiedDate": "2024-12-15T19:49:43.881Z",
+		"size": 4972,
+		"sha256": "f83787a6217fef94588c6a989297f6e15eebb5b355307fbd3bf1296ba2131fbf"
+	},
+	{
+		"name": "orego.7z",
+		"relativePath": "zxe",
+		"modifiedDate": "2024-12-15T19:49:43.881Z",
+		"size": 36990,
+		"sha256": "81649b8af9a9ce1ad8c6c0aedd88e8a050e6fcd25e098611691758508be15e1d"
+	},
+	{
+		"name": "pepsodent.7z",
+		"relativePath": "zxe",
+		"modifiedDate": "2024-12-15T19:49:43.881Z",
+		"size": 35939,
+		"sha256": "f8662403ebdc34e911a0dd7507404e58d1a06d76ae1214c7d313ffc7aaef491e"
+	},
+	{
+		"name": "superjacent.7z",
+		"relativePath": "zxe",
+		"modifiedDate": "2024-12-15T19:49:43.882Z",
+		"size": 65435,
+		"sha256": "c2e9f4a9ba0852eb47b1bef417ecf8a37f9ae92018f8426245df3e7123d53c58"
+	}
+]
