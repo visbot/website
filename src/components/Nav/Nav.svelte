@@ -8,12 +8,12 @@
 				<span>Get AVS!</span>
 			</a>
 		</li>
-
+		<!--
 		<li>
 			<a href="/archive" class="highlight" title="The VISBOT archive">
 				<span>Archive</span>
 			</a>
-		</li>
+		</li> -->
 
 		<li>
 			<a
@@ -31,7 +31,7 @@
 			<a
 				href="https://discord.gg/v6fXkmRJQS"
 				class="highlight"
-				title="Follow us on Mastodon"
+				title="Join us for a chat on Discord"
 				target="_blank"
 				rel="me noreferrer"
 			>
