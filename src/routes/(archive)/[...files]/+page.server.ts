@@ -10,11 +10,6 @@ export async function load({ url }) {
 
 	const files = archive.filter((item) => item.relativePath === pathname).sort((a, z) => a.name.localeCompare(z.name));
 
-	console.log(
-		{ pathname },
-		files.map((pack) => pack.relativePath)
-	);
-
 	return {
 		pathname,
 		folders:
