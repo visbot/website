@@ -27,7 +27,7 @@
 
 				{#if data.pathname.length}
 					<li>
-						/ <a href="">{data.pathname}</a>
+						/ <a href="/{data.pathname}">{data.pathname}</a>
 					</li>
 				{/if}
 			</ul>
