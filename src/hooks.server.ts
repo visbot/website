@@ -8,13 +8,5 @@ export const handle: Handle = async ({ event, resolve }) => {
 		});
 	}
 
-	if (event.url.pathname === '/.well-known/atproto-did') {
-		return new Response(process.env.ATPROTO_DID, {
-			headers: {
-				'Content-Type': 'text/plain'
-			}
-		});
-	}
-
 	return await resolve(event);
 };
