@@ -10,7 +10,7 @@
 
 <svelte:head>
 	<title>the visbot archive | visbot network</title>
-	<meta name="description" content="A collective of artists creating Winamp visuals" />
+	<meta name="description" content="A collection of Winamp AVS packs released throughout the years" />
 	<link rel="icon" href="/favicon.svg" />
 </svelte:head>
 
