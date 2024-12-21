@@ -4,13 +4,17 @@
 	let { data }: { data: PageData } = $props();
 </script>
 
-<main>
+<main class="lowercase">
 	<section>
-		<h1>the visbot archive</h1>
+		<h1>The VISBOT Archive</h1>
 
 		<p>
-			this is a general collection of avs packs of artists not affiliated with visbot, or created before their
-			membership.
+			A collection of Winamp AVS packs released throughout the years. The packs included in this collection are not
+			affiliated with VISBOT, but may contain packs by some of our members, e.g. before they became members.
+		</p>
+
+		<p class="mt-4">
+			Packages marked as "unofficial" are plain archives since the original installer is no longer available.
 		</p>
 	</section>
 
@@ -19,7 +23,7 @@
 			<ul>
 				<li>
 					{#if data.pathname.length}
-						<a class="red" href="/archive">archive</a>
+						<a class="red" href="/archive">Archive</a>
 					{:else}
 						archive
 					{/if}
