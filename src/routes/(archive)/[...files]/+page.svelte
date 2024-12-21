@@ -10,7 +10,7 @@
 
 		<p>
 			A collection of Winamp AVS packs released throughout the years. The packs included in this collection are not
-			affiliated with VISBOT, but may contain packs by some of our members, e.g. before they became members.
+			affiliated with VISBOT, but may contain packs by some of our members e.g. before they became members.
 		</p>
 
 		<p class="mt-4">
