@@ -9,7 +9,7 @@
 </script>
 
 <svelte:head>
-	<title>visbot network</title>
+	<title>the visbot archive | visbot network</title>
 	<meta name="description" content="A collective of artists creating Winamp visuals" />
 	<link rel="icon" href="/favicon.svg" />
 </svelte:head>
