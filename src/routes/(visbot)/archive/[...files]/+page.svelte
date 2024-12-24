@@ -47,7 +47,7 @@
 							</a>
 						</div>
 						<div class="divider"></div>
-						<div class="inline-block md:block">&lt;dir&gt;</div>
+						<div class="inline-block md:block">[ dir ]</div>
 					</li>
 				{/if}
 			{/each}
